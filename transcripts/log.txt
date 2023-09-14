@@ -1,0 +1,392 @@
+Erro ao exportar a transcrição para o vídeo Ma-BUDIyc6M.
+Erro: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=Ma-BUDIyc6M! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+Erro ao exportar a transcrição para o vídeo UNqBYLUtWP0.
+Erro: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=UNqBYLUtWP0! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+Erro ao exportar a transcrição para o vídeo wMQjVdZgM4Y.
+Erro: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=wMQjVdZgM4Y! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+Erro ao exportar a transcrição para o vídeo CyMUVW2TvGI.
+Erro: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=CyMUVW2TvGI! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+Erro ao exportar a transcrição para o vídeo zBvdyY7V-qw.
+Erro: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=zBvdyY7V-qw! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+Erro ao exportar a transcrição para o vídeo s3fgUKDH6nU.
+Erro: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=s3fgUKDH6nU! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+Erro ao exportar a transcrição para o vídeo XL4JT2n8GP8.
+Erro: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=XL4JT2n8GP8! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+Erro ao exportar a transcrição para o vídeo 0a6fHusC6x0.
+Erro: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=0a6fHusC6x0! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+Erro ao exportar a transcrição para o vídeo mYXeAZ_SfDw.
+Erro: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=mYXeAZ_SfDw! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+Erro ao exportar a transcrição para o vídeo lElIoRhpnnA.
+Erro: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=lElIoRhpnnA! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+Erro ao exportar a transcrição para o vídeo ZoB3iny6BUQ.
+Erro: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=ZoB3iny6BUQ! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+Erro ao exportar a transcrição para o vídeo HQKxEmEApQY.
+Erro: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=HQKxEmEApQY! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+Erro ao exportar a transcrição para o vídeo bQUWcc587UY.
+Erro: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=bQUWcc587UY! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+Erro ao exportar a transcrição para o vídeo aS2xLREG24A.
+Erro: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=aS2xLREG24A! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+Erro ao exportar a transcrição para o vídeo rukkLROeYPY.
+Erro: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=rukkLROeYPY! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+Erro ao exportar a transcrição para o vídeo EDsDsh85ClY.
+Erro: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=EDsDsh85ClY! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+Erro ao exportar a transcrição para o vídeo 102YY83-dAU.
+Erro: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=102YY83-dAU! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+Erro ao exportar a transcrição para o vídeo n-qPlHnB_sQ.
+Erro: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=n-qPlHnB_sQ! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+Erro ao exportar a transcrição para o vídeo yOFG2ORn2hw.
+Erro: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=yOFG2ORn2hw! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+Erro ao exportar a transcrição para o vídeo IjO_VQJlgz4.
+Erro: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=IjO_VQJlgz4! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+Erro ao exportar a transcrição para o vídeo 20Yw9szprDE.
+Erro: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=20Yw9szprDE! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+Erro ao exportar a transcrição para o vídeo RZUSNKQf76U.
+Erro: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=RZUSNKQf76U! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+Erro ao exportar a transcrição para o vídeo Etf8VPqzfZk.
+Erro: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=Etf8VPqzfZk! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+Erro ao exportar a transcrição para o vídeo iPCWCC7E30Y.
+Erro: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=iPCWCC7E30Y! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+Erro ao exportar a transcrição para o vídeo Nv5uMx2pQtY.
+Erro: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=Nv5uMx2pQtY! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+Erro ao exportar a transcrição para o vídeo O6JjTbe-9e0.
+Erro: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=O6JjTbe-9e0! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+Erro ao exportar a transcrição para o vídeo wbMVnSN92VA.
+Erro: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=wbMVnSN92VA! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+Erro ao exportar a transcrição para o vídeo yTfsqhCNj7A.
+Erro: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=yTfsqhCNj7A! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+Erro ao exportar a transcrição para o vídeo GYS5JmVafxk.
+Erro: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=GYS5JmVafxk! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+Erro ao exportar a transcrição para o vídeo oGzuSdRLEtc.
+Erro: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=oGzuSdRLEtc! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+Erro ao exportar a transcrição para o vídeo H_LC-Tgyq0U.
+Erro: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=H_LC-Tgyq0U! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+Erro ao exportar a transcrição para o vídeo 0cjWw6329hc.
+Erro: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=0cjWw6329hc! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+Erro ao exportar a transcrição para o vídeo B-17x9RUFBo.
+Erro: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=B-17x9RUFBo! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+Erro ao exportar a transcrição para o vídeo KdHYTw9UrOM.
+Erro: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=KdHYTw9UrOM! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+Erro ao exportar a transcrição para o vídeo 2Y5F4-sg8K4.
+Erro: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=2Y5F4-sg8K4! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+Erro ao exportar a transcrição para o vídeo 3jwd6I3xxYA.
+Erro: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=3jwd6I3xxYA! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+Erro ao exportar a transcrição para o vídeo kG93e7a4hbU.
+Erro: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=kG93e7a4hbU! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+Erro ao exportar a transcrição para o vídeo DiWVcyh2JxU.
+Erro: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=DiWVcyh2JxU! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+Erro ao exportar a transcrição para o vídeo Nn2Wmp9ii5s.
+Erro: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=Nn2Wmp9ii5s! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+Erro ao exportar a transcrição para o vídeo Hgg0Hpv4HHI.
+Erro: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=Hgg0Hpv4HHI! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+Erro ao exportar a transcrição para o vídeo PCEoBC-dzuI.
+Erro: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=PCEoBC-dzuI! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+Erro ao exportar a transcrição para o vídeo EcU82iMdBE8.
+Erro: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=EcU82iMdBE8! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+Erro ao exportar a transcrição para o vídeo BNbwRDqmnRk.
+Erro: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=BNbwRDqmnRk! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+Erro ao exportar a transcrição para o vídeo e8mviu6muk0.
+Erro: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=e8mviu6muk0! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+Erro ao exportar a transcrição para o vídeo hV7mBo5MXCw.
+Erro: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=hV7mBo5MXCw! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+Erro ao exportar a transcrição para o vídeo BSMQtszGlnk.
+Erro: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=BSMQtszGlnk! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+Erro ao exportar a transcrição para o vídeo AV_a2rEkaWU.
+Erro: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=AV_a2rEkaWU! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+Erro ao exportar a transcrição para o vídeo bwpGgz0Kn_o.
+Erro: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=bwpGgz0Kn_o! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+Erro ao exportar a transcrição para o vídeo yD3dE21OxKs.
+Erro: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=yD3dE21OxKs! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
