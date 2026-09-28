@@ -1,0 +1,32 @@
+# Pílula 00 - Comunidade de Estatística - O que é Estatística e em que áreas de subdivide
+
+- **URL:** https://www.youtube.com/watch?v=dp1pnCYp9qA
+- **ID:** dp1pnCYp9qA
+
+## Transcrição
+
+o que é estatística negra a estatística
+é o conjunto de técnicas que permite de
+forma sistemática organizar descrever e
+analisar e interpretar dados advindos de
+diversas origens a fim de extrair deles
+conclusões então galera na prática o que
+a gente vai trabalhando na estatística a
+gente vai ter os dados de forma bruta
+está desprovida de ordenação ok a gente
+vai organizar esses dados vai
+descrevê-los e tabelas gráficos e tentar
+entender o comportamento dessas
+variáveis
+tá e daí a gente vai formular hipóteses
+e depois a gente vai tentar extrair
+conclusões
+em cima dessas hipóteses que a gente é
+encontrou né na partilha da análise
+descritiva
+então a gente vai estar dividido em
+quatro grandes áreas
+a estatística ela vai está subdividida
+em estatística descritiva a
+probabilidade amostragem estatística
+inferencial

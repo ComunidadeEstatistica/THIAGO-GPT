@@ -1,0 +1,1169 @@
+# Detecção de infratores no presídio de MG, por meio de imagens Deeplearning   Felipe Santana
+
+- **URL:** https://www.youtube.com/watch?v=gaXhHgqSrcU
+- **ID:** gaXhHgqSrcU
+
+## Transcrição
+
+oh beleza vamo lá é só o projeto é o
+seguinte eu vou vou a ideia que é o
+seguinte tiago me convidou para mim
+falar desse projeto para vocês a
+proposta aqui eu mostrar um pouco como
+está sendo esse trabalho porque como que
+eu trabalhei nesse projeto e passar para
+vocês alguns sites passar alguns
+aprendizados a a gente contribuir para
+vocês aprender
+o olá é esse projeto é horripilante
+reconhecimento facial a gente
+implementou o projeto de reconhecimento
+facial para o estado de minas gerais eu
+trabalho na empresa e a companhia de ipi
+do estado de minas gerais
+oi e o esp é assim é até manda do
+pessoal era para fazer um sistema de
+reconhecimento social atender
+inicialmente a primeira a primeira
+diretoria que seria a secretaria de
+prisional administração prisional a
+então para quem não me conhece como eu
+apresentar aqui eu acredito todo mundo
+que me conhece mas ela mais uma vez eu
+sou o felipe santana suas entidades da
+companhia de ter de minas gerais e
+também trabalho com mineradas né então
+essa é a nossa necessidade a gente teve
+essa demanda inicialmente acho que todo
+mundo que viu essa essa
+se essa reportagem que saiu no
+fantástico foi o preço o rapaz que foi
+preso em salvador alguém me visse aqui
+falar mal assim só para mim saber se
+alguém sabe do que eu tô falando
+e enfim essa essa notícia que saiu aí um
+tempo atrás foi de um desse rapaz aí que
+ele foi preso em salvador através de um
+sistema de reconhecimento facial a ideia
+foi que o pessoal tava lá no meio do
+carnaval e aí ele é ser rapaz já tinha
+sido preso há um tempo atrás dessa aí
+porque aquele era criança aqui nessa
+nesse vídeo né e aí depois que ele foi
+pular carnaval lá era um dos procurados
+e a câmera detector ele ele foi preso
+fez e aí moça no fantástico ok bem
+conhecido a gente ficou a importância de
+um projeto nesse nível né
+o e qualquer nossa coloca o problema
+inicialmente para o problema desse
+projeto problema é um identificar
+indivíduos como que a secretaria de
+administração prisional identifique os
+indivíduos hoje é o problema muito sério
+eu vou esquecer pessoal me passou esse
+essa semana a gente pode discutir as
+possibilidades de trabalhar para
+conhecer facial para resolver o problema
+se deliciou com energia mais um problema
+para mim entender com pouca dificuldade
+do pessoal lá hoje
+e deixa eu abrir bate-papo aqui cartão
+de boa com você cara me perguntaram se
+alguém tiver uma pergunta deixa no
+bate-papo da gente fala depois aí então
+aí a demanda inicial é o processo de
+identificação de indivíduos eu comecei a
+energia nesse problema e descobri que é
+um processo bem complicado é bem
+perigoso e assim eu vou preocupar eu
+falo com vocês porque
+e então qual que é o problema hoje o
+pessoal até o dificuldade grande para
+poder identificar indivíduos já que a
+maioria dos presos eles fazem de tudo
+para não ser identificado eles raspavam
+digital dos dedos é da nome falso enfim
+é um processo muito complicado já que os
+presos não tem intenção de ser
+identificado né é
+em casa eles não seja identificadas é
+interessante processo de fatores e é um
+problema sério das unidades polícia
+secretarias regionais identificar de
+fato quem é aquele de vidro e hoje a
+secretária implementando o processo de
+a biometria biometria é é o processo ou
+juntos processo de identificação e tem
+diversos problemas como eu disse isso
+eles passarem ácido nos dedos para não
+ser identificado então eu posso que eu
+fui medindo problema de presidente
+fiquei várias outras para outras coisas
+é o preço que a pessoa que é preso por
+engano depois é solto então eles são uma
+humana uma despesa grande que o estado
+um problema muito grandes processos
+identificação geram espessas durante o
+estado é o cara da documento falso enfim
+é diversos problemas e eu fui
+preocupando um pouco mais com isso
+quando eu fui emergindo o problema
+porque comecei viram as notícias e fica
+um pouco mais complicado você vê o essa
+e drogou o seu irmão gêmeo e fingiu
+estar fugir da prisão aquela coisa
+ninguém sabe o dia de amanhã né então
+foi poxa aí eu tenho eu tenho um
+interesse pessoal nesse projeto porque
+ninguém sabe o dia de amanhã pode
+acontecer com qualquer um né então é
+interessante esse sistema de
+identificação funciona em
+e aí beijinhos problema isso vai
+descobrir em diversas outras coisas de
+conquista relevante competição processo
+complicado e complexo para as pessoas
+lembra os órgãos competentes é trataram
+e aí quando eu desliguei sábado de manhã
+né vai que foi alguma coisa é por digo é
+preso e me coloca lá no meio vice é
+depois o interesse pessoal ninguém sabe
+né as coisas brincadeiras à parte é essa
+esse processo de identificação é muito
+muito crítico tá então reconhecimento
+facial era uma das soluções que
+inclusive o próprio cliente que o
+próximo secretaria de administração já
+tinha se interesse já tinha feito essa
+requisição para a gente que ela é
+cliente falou poxa a gente tem que dar
+um jeito e temos sempre já conhecimento
+social para resolver ele problemas
+nossos aqui em você vai ter que o
+processo de identificação
+oi e aí beleza a gente pegou com essa
+demanda de quais são as etapas né como
+que a gente conversa quando que a gente
+resolve esse problema quais são as
+etapas e que a gente tem que fazer
+bom então inicialmente eu fui atrás é
+descobrir a base de dados é o que a
+gente tem de base de dados para esse
+cliente é quais são as bases da
+secretaria de administração prisional em
+o que que a gente tem que trabalhar né a
+gente como cientista de dados a gente
+sabe que se a gente não tiver dado eu
+vim como fazer nada e aí eu pensei poxa
+com certeza na administração prisional
+vai ter base de dados à vontade em é a
+secretaria que administra a parte
+prisional do estado inteiro estamos aqui
+abaixo dados abundante lá para a gente
+ficar mais vai ser tranquilo é um ledo
+engano então a gente passa pelos mesmos
+problemas que a maioria de vocês também
+é em cara é o problema de banco de dados
+é de base de dados
+ah e quando eu fui investigar mais a
+fundo eu fui pessoal cliente corpo a
+gente tem dado para caramba tranquilo e
+tudo mais quando eu fui ver esse é um
+dado que a gente tem essa imagem é uma
+imagem pública né é de procurar de.mg
+houver e são alguns indivíduos é que são
+cobrados eles divulgam é por isso que eu
+pude falar com essa imagem aqui na
+apresentação para mostrar vocês então
+basicamente que a gente tem da da imagem
+é justamente isso mesmo é uma imagem
+frontal e duas imagens de lado e um
+problema de reconhecimento facial isso
+não ajuda muito né porque porque eu só
+tenho uma imagem que eu posso trabalhar
+só a imagem frontal as imagens laterais
+não ajudam tanto elas nem na verdade
+gente vai ver que no processo de
+alinhamento elas leem então meu problema
+era muito maior do que eu pensava em
+ah tá bom eu peguei para descansar
+aquilo tá falando aqui que o tempo está
+acabando 10 minutos vai acabar um
+negócio mas aí é o criou outra tá tem
+problema não aí eu vou criar outro
+beleza pega o jogo aí então eu fui dar
+uma olhada já tem cerca de 70 em 1648 é
+645 imagens foi o primeiro lote a eu só
+falo a gente essa base para começar
+vamos fazer uns testes e tal e depois eu
+falo com vocês tem que ter um mínimo
+duas imagens por dívida aí pessoal
+muscular e conseguiram as imagens que
+são as imagens que chama de pré
+engenisação as imagens antes e depois
+vou tirar essa imagem aqui tirar essa
+foto aqui a foto quando a pessoa chega
+de fato na delegacia né o devido para
+ser presa tira uma foto e depois que a
+tirou essa foto que já fala dia da
+higienizados já tá o cabelo é no padrão
+já tá com a roupa aí depois que a gente
+coletou essas imagens da higienização
+também a gente ter cerca de duas
+o indivíduo tá bom não mas era o que
+tinha tá então vamos passar pelas etapas
+do processo de reconhecimento né
+primeiro passo é detecção da fácil é
+detectar de fato a fácil então é dado
+uma nova imagem primeiro passo a gente
+vai ter que tá que existe uma faço
+naquela imagem é o presente nesse
+exemplo que eu tô colocando aqui né a
+gente deixa bastante o processo tinha
+que existe uma faça o processo logo em
+seguida a gente aí nesse caso eu fiz com
+todo o restante da imagem primeiro passo
+a detecção da fácil esse ou imagem não
+tiver fácil buscar reconhecer fabi faz a
+imagem
+em outra etapa do processo que eu mais
+quero muito crítica ela fácil de
+alinhamento a gente tem várias imagens
+de fácil que às vezes as pessoas têm
+posições que não servem para reconhecer
+uma aquela imagem que eu eu mostrei aqui
+ó essas duas imagens aqui embaixo elas
+não serve por reconhecimento elas estão
+totalmente lado algoritmo não consegue
+identificar fácil se não consegue fazer
+o alinhamento e quê que é o alinhamento
+alinhamento é esse processo de hidratar
+posicionamento direção rotação é que a
+gente ver a imagem que os exemplos a
+gente já faço mais orientada para o lado
+aquela tá mais provável é um processo de
+alinhamento e justamente esse processo
+que tem conseguir identificar os
+elementos falsos os elementos-chaves da
+face para gente conseguir identificar o
+o nariz a posições e é o objetivo do
+algoritmo aqui nesse momento é que tá
+deixar é a face cada vez mais padrão
+seja mas na orientação padrão e seu
+processo de alinhamento e esse é um
+problema muito complicado porque ok
+diante de uma base de dados limitada com
+mania
+e é esse processo de alinhamento é um
+pouco mais quero é pior ainda porque eu
+tive que descartar ainda mais imagens
+que não alinhar então já não tinha
+imagem daquela pessoa né grande vida
+nesse caso de alguma ajuda a diminuir
+ah e por fim depois que eu faço a dizer
+que são depois que eu faço com a minha
+mente né que a trata já tá meio parado
+imagem transformações tudo mais eu vou
+perguntar para de aprendizado que a
+etapa de passar para algoritmos de mach
+lane fazer o aprendizado a gente tem
+diversas abordagens presta a gente pode
+trabalhar com mochila gente possa
+trabalhar com horripilante a gente pode
+trabalhar com abordagem híbrida vou
+mostrar para vocês esse é um exemplo
+acho que todo mundo com essa pessoa aqui
+sumido é um dos que a gente está fazendo
+teste lá também
+e então como aprender com volume tão
+pouco de imagens é de dados nesse caso a
+gente sabe né que mach lane o processo a
+matéria-prima a gente trabalhar com mais
+que não é dados então como que a gente
+trabalha com um volume tão pouco vamos
+lá embaixo imagem esse é um problema
+sério a gente sabe que redes baseadas em
+redes as arenas de camadas né rediscover
+nacionais precisam de muito status eu
+falei poxa não vai dar um resultado
+legal aí eu descobri uma rede do tipo de
+charlaine é uma rede que ela foi
+projetada para aprender poucas imagens
+antes então essa abordagem onde shorland
+ela já veio para resolver esse problema
+para você conseguir que o seu algoritmo
+de vilani com a sua rede baseada em deep
+lane consiga aprender a partir de coco
+os dados o meu caso eu só tinha
+praticamente uma imagem para a rede
+aprender porque uma
+e o que nenhuma das imagens ele usados
+para alcançar ea outra da imagem ser
+usado na teste então na verdade eu só
+tinha uma imagem para aprender e essa
+abordagem antes de ortolani que eu
+descobri através do projeto face.net que
+é uma implementação deste tipo de rede
+neural ela vem para resolver esse
+problema esse face that um projeto do
+google e foi lançado em 2015 hoje era
+considerado o estado da arte quando a
+gente fala reconhecimento facial então a
+gente consegue trabalhar com felicidade
+e eu disse a maior vantagem dele é esse
+processo essa capacidade de aprendizado
+com apenas poucos dados estão com uma
+imagem da face da pessoa já é possível
+fazer uma pesado com acurácia boa uma
+boa um bom resultado então quanto no
+face leste funciona como que essa
+abordagem baseada em hortolândia
+funciona o facebook objetivo de lhe
+gerar taxa de uma face em belém é como
+se fosse uma rei tá de 128 posições é o
+impede que seja
+ó e vai conseguir identificar de forma
+único aquela imagem na sua agilidade
+então o império para quem não conhece o
+conceito em belém é a proposta de que
+dentro do array você consiga capsular
+outros dados é que consigam identificar
+bem aquela aquela bosta daquela entidade
+ou nesse caso aqui é aquela imagem então
+como que o face da gente faça essa
+tratativa ele pega duas imagens
+positivas da pessoa e uma imagem
+negativa e o objetivo a grosso modo a
+rede é minimizar as distâncias de
+imagens da mesma pessoa e maximizar as
+distâncias de imagem de pessoas
+diferentes então por exemplo essas duas
+imagens de bruno elas tem que ter
+distâncias pequenas já imagem do bruno
+com essa rapaz o que funcionou ele vai
+ter ele é teoricamente tem que ter uma
+imagem uma distância maior então a ideia
+da rede aí assada nessa função de perda
+que a faca de nós ela consegue fazer
+isso
+e diminui as distâncias para imagem
+cabelo pessoas fechada de imagem ea
+imagem positiva e maximiza a distância
+entre a imagem âncora e a imagem
+negativa então essa é a proposta do face
+médio e funciona muito bem nega é o que
+não é da pessoa é isso exatamente beber
+mais do que chama de negativa a imagem
+não era pela pessoa beleza essa é a
+proposta do face net então poxa a gente
+já tem um inverno em que a gente já tem
+uma ideia dentro daquela faz o que que
+eu preciso fazer eu preciso simplesmente
+treinar um algoritmo de mach lane a
+ponto então nesse caso eu tenho uma
+abordagem ele eu tenho deep lane gerando
+para nos enganar os invernos de
+integrado imagem e depois eu tenho mach
+lane eu posso usar a técnica simples na
+ponta e vai conseguir aprender falar por
+esse impedem a dobrou esse berry é da
+outra pessoa esse bete outro indivíduo
+então dava uma nova imagem é que eu
+preciso fazer calcular os ibéricos e
+fazer a comparação entre os dois
+impérios em seu processo
+e como que funcionário reconhecimento
+facial utilizando francinete então eu
+tenho imagem entradas imagem tratos eu
+tenho um modelo do face that eu gero
+impede dado uma nova imagem eu faço o
+mesmo processo eu chamo face.net geram
+ibérico para as duas ideias aquele belém
+tiver distância muito baixo posso falar
+que aquela imagem da mesma pessoa já
+distância maior posso falar que são
+imagens é as pessoas diferentes é falar
+com aquela pessoa não é a que eu tô
+fazendo a consulta por exemplo
+bom então nesse ponto a gente quer
+guardar a arquitetura híbrida né que eu
+já gerei previamente os meus os meus
+remédios e vão servir difícil nos para o
+meu modelo de mach lane eu posso usar o
+modelo de mach lane simples na porta
+para poder fazer essa pressão quer dar
+uma parada para inicializar ele e no
+segundo a gente continua a melhor né
+vamos fazer só o pé de beleza vou parar
+aqui já vou mandar no grupo já pessoal
+o jogo vai gravar pessoal então nesse
+caso esse ponto eu tenho uma arquitetura
+híbrida né eu tenho o modelo the deep
+lane gerando para mim os meus invernos
+certo eu vou seguir difícil esse pro meu
+poder de mach lane que vai fazer um
+aprendizado de fato consegui detectar
+uma pessoa ok então a gente tem nesse
+caso então quanto foi os resultados que
+eu tive preço primeiro experimento 38.3
+de precisão ou seja a gente acertou 88
+por cento de precisão uma imagem de
+quarto dela mas o resultado foi mundo
+onde eu vivo e aí eu pensei que já tava
+por resolver né agora só e para o grupo
+segue o jogo bom demais tá tudo pronto
+resolvido então como sempre a gente vai
+levar os problemas que é o mais legal né
+que é onde a gente aprende fato
+o e passa esse experimento experiência
+para vocês tá bom então jeremih modelo
+fiz a predição cá ok testei eu testei
+modelei estande do do buriti passei por
+toda etapa e agora teste né parte de
+colocar em teste colocarem opção foi
+quando o cliente o cliente me ligou
+proferido tá muito bom fiz um teste aqui
+vai ter uma imagem que eu tá funcionando
+não olha o que deu nele aqui eu falei
+nesse me manda a imagem me mandou é isso
+aí foi puxa aí milagre frequência do
+olho bem da íris né cara essa essa foi a
+e eu falei me manda a imagem por e-mail
+para mim dar uma olhada né para ver se o
+gurizinho para errado então a qualidade
+em baixa muito ruim ele não fizesse um
+teste aqui todo que ele reconhece as
+imagem não consegui academia mandou isso
+aí carol depois vai enfim o que que eu
+quero mostrar com isso é que assim a
+questão seguinte pessoal é questão de
+cultura é normal natural para cuidar
+área do entende que tem que ter afasta
+bem né a gente tem que tocar nessa
+função né como profissionais e do pai
+falar nesse caso não tem como é conhecer
+isso né mas acho que a ideia dele é
+pegar quem é que tava levantando a bola
+lá das das rebeliões né acho que me
+sentirei bem legal essa experiência dele
+e tá beleza depois que eu coloquei teste
+a gente começou a fazer predição para
+eles vão trabalhar 99/96 segundos é é
+muito lento e conhecido com essa base da
+tíbia e perónio imagens
+e ai puxa assim tá um jeito a gente foi
+lá e fez uma ligação de errado e que a
+utilização de processos cair para dois
+segundos ficou bem mais viável assim e
+detalhes nesse caso aqui quando eu
+acordo a gente começou esse trabalho
+para reduzir a tempo de previsão esse
+tempo aqui é predição mesmo tá é
+treinamento não treinamento é gigantesco
+mas agora muito porque a gente não tem
+gpu ainda então o outro problema também
+e sim mas eu posso eu entro nesse cabeça
+problema é que é preguiça não sabe
+quando a gente tá lá nessa katilaine que
+você manda perdi é notebook é
+instantâneo pois é é eu justamente o
+tempo do método prende ti mesmo fazer a
+predição de fato 96 segundos então
+imagina a da requisição 95/96 seguro
+entendeu enviável o banco de dados foi
+um
+e não não a gente não tá trabalhando com
+banco de dados não ligo daqui a pouco te
+falo
+a bandidagem está usando mas enfim 96
+por segundo tem depressão muito lento
+muito lento e aí a gente trabalhou eu
+uso o gato que conseguiu reduzir para
+dois segundos mas o que fez de fato
+fazer a previsão é resolver no tempo
+abre aí bastante esse tempo aí foi
+porque eu fiz otimização do código da
+raça que tiver criança eu não fiz a
+utilização do mexer em nada assim não
+não para meter de novo né então não tem
+nada aqui tirando gente tem um arame de
+lado e de outro pessoal do curso e sabe
+tem 1 m jobs laurene de hoje a gente
+consegue especificar para usar todos os
+processadores do servidor anote fazer a
+petição não tipo você treino o algoritmo
+usando aí ó fiz ele já vai assumir que
+todos os processadores dos servidores
+serão usados novamente frente são e isso
+que fez a maior and logo pela migração
+do rádio contribuiu ativamente para a
+utilização de alguns processos de
+profissional também contribuiu mas eu te
+pegou mesmo temo
+e o jogo foi essa utilização é para
+utilização de processamento paralelo no
+meu caso usando esse aqui tirando e cá
+dica com aquele remédio lá da religião
+que você tira né funciona bem bem demais
+e aí beleza foi quanto mais ou menos
+cara é nesse primeiro lote aqui é tiago
+71 mil imagens a gente demorou para
+treinar cerca de uns 45 dias porque a
+geral se medem 200 o que a gente não tem
+jogo hoje está trabalhando tudo com seu
+então assim é absurdamente outro tende
+naturalmente mesmo com certeza é que são
+muitas imagens e é só para hidratação
+seu uso algum frango spark alguma coisa
+assim não utilizando você fala o que ele
+quer para usar todos os cpus da do
+servidor legal então beleza aí depois
+que eu coloquei produção passou esse
+primeiro experimento estado foi ótimo é
+bem satisfatório é o pessoal adicionou
+mais alguns imagem eu mandei quando foi
+feita a gente 61 amigo poxa né a base da
+gigantesca e aí a gente lol
+os outros problemas é
+bom e comecei enfrentar esse problema
+simples como que eu escalo eu tenho
+presos novos todos os dias como que eu
+faço é treinar todo modelo enfim começou
+a passar esse tanto de problema e a
+cabeça não falei para nós resolver isso
+ficar mais um mês vai ser cinco mil né
+aí a gente começou a preocupar um pouco
+isso a gente fez uma lida com essa
+migração de rádio a gente é a utilizou
+um pouco mais o tempo mas ainda assim
+processo de treinamento que o processo
+de geração dos invernos esse lote maior
+de 361 mil já demorou bastante tempo
+demorou umas dez dias demorou muito para
+treinar esse lote maior tá só que eu
+comecei a ter outros problemas como por
+exemplo agora beleza tem dia 61061
+milton na faixa de 400 mil e se entrar
+um preso não só agora eu represento de
+novo
+o problema certo é e por mais que eu já
+tenho geraldo os invernos que se eu falo
+poxa não você pega só o último em breve
+do novo preço adiciona os algoritmos de
+mach lane treinar quando a gente eu tava
+prometendo esse projeto eu new baby do
+face médio completo e o bem pelo
+presidente com os experimentos que eu
+vou trabalhar com esse é um ex-menino
+aqui com as otimizações de pérola' é
+perdeu o maior resultado eu aproveitei
+igualzinho para o pé usb m também só que
+na hora que eu entrei para esse volume
+de dados quando eu já comecei a pensar
+nesse jeito volume gigante de dados já
+foi enviado usar o mesmo porque mesmo se
+eu tivesse com os 400 mil e médios de a
+treinar com o processo mais caro para
+mim fazer o recreio do svm demorava
+cerca de 14 horas
+bom então eu não pude conseguir fazer o
+treinamento online e é um problema muito
+sério porque o pessoal da unidade falou
+que nesse tempo tem que funcionar sim o
+pessoal da secretaria vai tirar preso
+foto de um preço agora que eles acabaram
+de preto de prender né eu citei tem que
+ter uma opção funcionalidade lá para
+retreinar é para expressão incluída a
+base aí tem popular desse jeito não há
+necessidade do que começa a pensar em
+alternativas aí eu dei uma olhada até no
+olho direito que a gente consegue fazer
+um treinamento em pet a gente consegue
+quebrar o treinamento em vários dentes e
+ele consegue será então já resolve o
+povo do problema é que você não precisa
+colocar também reborn com as outras
+mesmo é você consegue gerar embates e
+fazer o treinamento funciona bem enfim
+alguns detalhes também que eu acho que
+cabeça falar uma coisa de lá mas
+funcionou só que ainda assim tive esse
+problema
+e eu tenho que ir óculos de sol e eu
+entender que vai diferença da memória do
+betinho aí só para certo é o fpm é que
+você tá fazendo treinamento dele ele
+treina o conjunto de dados como um todo
+ele pega o saudade da tela de 400 mil e
+treina de uma vez é uma é um batom é um
+treinamento completo e leste serão sgdc
+consegue fazer o treinamento inverte
+então você pega 400 mil e você pode
+quebrar em 400 bem antes de mil entendeu
+então além de você conseguir treinar
+tudo em memória é wesley é uma abordagem
+para você trabalhar para o ar direto às
+sete você tá trabalhando com a chuva tá
+entendi então tem o rg de funcionou bem
+também deu o resultado legal só que
+ainda assim oh tem para enviar para
+demorar acerca dele mesmo que é para mim
+você morava há cerca de 8 horas então
+enviar você não vai conseguir fazer o
+treinamento é praticamente online que
+era uma necessidade e o outro problema
+notícia mente at sgd ele assuntos para
+baixo
+esse é o seu treinamento é finito ele
+tem que conhecer todas as classes de
+ante-mão então eu posso inserir uma nova
+classe e falar só tá beleza prima me
+bate uma imagens e adiciona ela porque
+eu vou deixar tem que ter o modelo então
+a gente hoje desse não trabalha com
+treinamento mais enfim uma série de
+problemas você vai esbarrando né e o
+legal dessas funções é que depois do
+outro lado com a pensar grande e como
+que eu resolvi mas você deve estar
+curioso para saber como que eu resolvi
+esse problema né com a técnica super
+simples que com certeza de ficar vai
+mostrar vocês aí e a gente também já viu
+quem era o outro lado que é uma técnica
+de cálculo de distância no final das
+contas que melhor me atendeu foi o
+cayenne que a gente consegue eu não
+tenho aprendizado com carneiro
+aprendizado o dna logo ao super meloso
+você no treino aí ele simplesmente muito
+leite e dado nova imagem você consegue
+fazer o cálculo de distância e rankear
+pela imagem mais
+e como o inverno em qual a distância
+mais próxima então mais uma vez ao a a
+partir dessa ideia eu vejo a galera que
+já tem muita experiência defendendo aqui
+não tem que ser complexo não tem que ser
+difícil não tem que ser de outro planeta
+não tá modelo mais simples possível que
+é melhor funciona e você vai ver que vai
+resolver seu problema bem claro que
+dependendo das abordagens vai variar
+muita coisa mas sim se você quiser
+convergir sempre o simples fica a dica
+tá o cinto sempre é melhor dava para
+fazer distância euclidiana também não
+dava não exato exato eu uso descanso
+euclidiana no carinho seu beleza eu fiz
+utilizações do carne e né eu comprei
+várias distância euclidiana que vem não
+funcionou funcionou o accuracy é melhor
+o tempo de resposta rápida também então
+já que você já que eu não te
+o conjunto todo se hoje eu tenho 400 mil
+amanhã eu tenho quatro desse chegou
+agora um preço qualquer processo eu
+tenho que calcular os médicos e colar e
+montar na minha base de dados o pai né
+gente é reconhecer e assim foi a solução
+que funciona hoje está funcionando desse
+jeito projeto tá ele ver o resultado do
+knn você usava para para retreinar não o
+que que você fazer com o resultado do
+cayenne como assim não entendi você
+rodava o km ele te apontava os as
+imagens mais mais próximos exatamente
+dado com nova imagem de consulta é um
+requisito do negócio a gente não apontar
+tipo assim essa pessoa
+a secretaria não queres lembram que não
+não tem esse êxito representa é o
+seguinte é dado uma nova imagem quais
+são as pessoas mais prováveis porque se
+não é quem tem que falar que é de fato a
+pessoa é o agente penitenciário lápis
+sou especialista o sistema é por mais
+que você pode ter uma praça lá de 100
+porcento a 99,9 é esse cara que eu não
+posso falar isso tem que falar assim os
+top 10 pessoas mais prováveis para essa
+nova imagem é tão esses aqui e eu
+arranquei o isso é com base nessa
+distância até mais próxima né tem que
+meio tarde chuchu melhor
+é muito bom e quais as tecnologias que
+eu usei aqui pessoal aquela salada mista
+que tecnologias eu trabalhei com o
+trabalho com python a gente trabalha
+para o pátio e essa salada mista inclui
+as diversas bibliotecas que a gente já
+conhece que a gente já tá cansado de ver
+aqui a gente fala no bloco falando
+oposto tiago fala também no curso de
+estatística quer python pandas aditivo
+dani que eras para trabalhar parte
+durante é netflix league pensão flor
+também que a gente usa como competente
+que eu quero atenção enfim essa salada
+mista de bibliotecas do sistema de dados
+reais é voltar com parte nesse caso aqui
+é que a gente trabalha lá quando tem um
+bebê aqui com a responder à pergunta do
+domingo a gente vai implementar beber
+agora mas no momento então tá usando
+quantidade
+o enfim então essa salada mista que você
+já conhece aqui provavelmente aí projeto
+foi bem bacana apareceu na bíblia para
+tentar colocar esse vídeozinho menos eu
+vi esse vídeo mas essa telinha do
+sistema né as quatro da funcionam não
+acho que não olha enfim basicamente é
+seu processo depois eu mando o vídeo
+para vocês a comunidade lá quem não viu
+ainda coloquei no linkedin e fizeram
+entrevista lá com o delegado bem bacana
+tá depois eu posso mandar esse aqui já é
+o que já é o resultado né da dona de
+garagem opção
+o ismael a galera vila é beleza tudo bem
+depois o cruzeiro quem tiver curiosidade
+vem mais detalhes para jogar no google e
+coloca lá reconhecimento facial ng igual
+eu coloquei aqui ó vocês conseguem ver
+você entender é mais detalhes do projeto
+está sendo utilizado aparecendo ele está
+saindo até mostrei especial na laje que
+a gente fez
+ah e também
+oi eu liguei pra minha mãe não tirei
+foto tua mãe não queria entrar na globo
+o bruno no brasil negros as fora o
+pessoal que tira um print e manda eu vi
+você tá na globo tá bom né internet
+delegação parabéns aí chegou o mais
+legal desse projeto é esse projeto em
+diversos que a gente trabalha todas as
+coisas aprendidas né porque eu quero
+deixar passar para vocês aqui então a
+dica que eu dou pessoal é o seguinte
+implemente todo capilar que que é isso é
+imprimido de ponta a ponta sabe não vai
+naquela digita assim poxa foi modelo
+ainda não acabou de melhorar esse aqui
+não tá você vai você vai esbarrar em
+problemas muito mais sérias do que a
+couraça do seu modelo sabe é importante
+claro mas você vai esbarrar em muitos
+problemas mais sérios como cultura e vai
+esbarrar em política você vai esbarrar
+a cidade de regras de negócio depois
+você vai ter tempo depois eu acredito
+para ir fazer os ajustes finais então é
+a dica que eu dou o número aí para mim
+tu vai do porto a cor independente a
+água eu poderia melhorar esse tentar de
+tudo e depois você vai ver o projeto
+falou todo o televisão e você vai ver de
+realmente que são mais críticas do que
+assim detalhe pergunta a gente a gente
+fazer ficar pegado tá então a dica que
+eu dou é sim vai até o final e depois
+foi melhorando cada uma das etapas eu
+tente ser o melhor possível que se não
+você não sai você vai ficar ali você vai
+ver que melhorias são constantes e se é
+uma primeira dica isso é importante
+e outra coisa é existe o gap gigantesco
+gigantesco entre a academia ea indústria
+tá é a gente consciente dado a gente
+tentar ser de olho tá saindo saindo na
+academia apertar papers não é o que tá
+sendo já é disponibilizado como está da
+arte aqui tá tudo mais existe esse dá
+uma coisa eu falar no baby é o que
+funciona outra coisa que eu não da gente
+vem na vida real
+não são problemas diferentes são
+desafios diferentes com cenários
+diferentes ou recursos diferentes o
+presente lá a gente não tem jeito que o
+gente trabalha colocar o cpu então
+processamento desse nível tem várias
+barrar diversos desafios que às vezes se
+tivesse com gpu se tivesse um certo nada
+tudo bem definido bem desenhado
+arquitetura bacana senão não iria
+enfrentar né então é importante você tem
+semblante que nem sempre vai ficar tudo
+junto que a gente acha você vai esbarrar
+com cenários limitados por todos é agora
+que a empresa está indo fazer uma
+aquisição de gpu de amar é o medo é
+grande né assim tá curto para poder ks
+diversas aplicações também nem sentir
+mas enfim você vai se deparar com
+cenários evitar vai dizer parar com uma
+coisa que você você não sobrevive então
+existe esse que é para a gente tem que
+ter em mente a certeza o link ou
+perguntou aqui se você usou
+e eu já traz a
+é sim sim a gente trabalha com escola lá
+empresa tem esse beto desenvolvimentais
+lá né trabalha conosco então todos os
+projetos a gente se envolve em cima do
+islã beleza cultura pessoal mais uma vez
+que a outra que eu pode ser o seu maior
+desafio tá então por exemplo vou dar um
+exemplo de cultura é um problema que a
+gente teve lá é que o nosso sus
+lembrança glorificar os projetos ele a
+gente ainda não tá entregando uma
+probabilidade tá eu não falo assim é o
+bruno um 99% 90 por cento e oitenta por
+cento por que que quando a gente
+trabalha na base de dados grande e
+sentidas cálculo de probabilidade multi
+complex que a gente trabalha com a
+calibragem dos roteiros e tudo mais
+então é dependendo da situação gente tem
+que ser 30 educar os usuários para
+ensinar para ele qualquer nova cultura
+ele falar poxa mas é um
+e da avenida situação quer saber qual a
+probabilidade da pessoa então a gente
+teve que depois de reuniões com cliente
+entender o requisito de limeira
+direitinho gente tem que mostrar para
+ele que é o ranqueamento né do top-10 é
+muito mais interessante do que a
+probabilidade tá aí lá e assim foi
+aceitado requisito para por eles e falar
+meu beleza esteja preciso mesmo então é
+mim realmente eles queriam a
+probabilidade tá então a probabilidade
+de trabalhando para baixo dados grande
+assim é complicado porque nem todos os
+algoritmos tem uma boa probabilidade
+implementa uma mobilidade grandes
+cidades boas você tem que fazer uma o
+processo de calibração o complexo antes
+eu passei por essa etapa de calibragem
+dessas propriedades sofri bastante mas é
+hoje já vai na próxima versão da pia a
+gente vai responder a probabilidade
+também mas a gente já trabalhou com
+cliente que o processo de arrancamento
+por menor distância que agrega mais um
+alô para ele
+a cultura a cultura para ser
+interessante às vezes perdi aquela
+imagem também que o cara me mandou lá né
+eu queria acho qualquer custo é o
+indivíduo lá com o rosto retangular
+bom então pessoal é isso né esse aqui é
+a apresentação finalidade brasil bem o
+tiago me convidou para apresentar para
+vocês aqui é só algumas informações do a
+nossa comunidade aqui do primeiro andar
+que eu vou seu pessoal a apresentação é
+iogurte mais essa comunidade a tomar tem
+uma galera que já conhece a galera aqui
+participa com a gente lá e é um prazer
+estar aqui com vocês agora também nessa
+atividade tática do thiago ele tá
+roubando a estrada né tem mais gente
+para caramba por fernandinho nilson
+duarte em 20 para caramba aí show de
+bola a imagem das danças mais lá eu
+apresentei está turma lá com muito
+orgulho não sair mas por essa comunidade
+bacana e assim estou disposto para
+dúvidas em vão tirar as duas espera até
+contribuinte
+é pô cara brigadão cara agente tá desde
+o início aí conversando né sobre a
+comunidade tudo mais tentando ajudar a
+galera aí eu acho que isso foi o que
+uniu a gente né velho a comunidade que o
+minerando como minha pessoa também né
+que a gente sempre te ajudou muito né
+desde o início tudo mais então acho que
+é muito bacana é isso poxa você nominal
+seu trabalho saiu ah tá aí no saiu na
+globo mas saiu aí no youtube né na
+internet ótimo se enquadra no link não
+eu acho que é algo que bastante pioneiro
+no brasil porque eu não eu pelo menos
+nunca tinha ouvido falar um projeto
+desse tipo assim de reconhecimento
+facial para detectar preso assim nunca
+tinha ouvido falar assim não sei se
+existe mas eu não tinha ouvido falar
+cheio
+é muito assim você trabalhou com
+que você tinha né limitações que a gente
+sempre tem né não tem jeito você é muito
+realmente não é né aires né não é o
+banco de dados eles lá não é o carro a
+gente não é sabe é o banco da vida real
+mesmo né trabalhando com o prazo que o
+cara vai lá te mandar aquelas fotos
+doida lá de ninja nem muita noção do
+colégio mandar é aquele é o que você faz
+tinha imagina que você faz o que que a
+sua mãe imagina que você faz já tá não
+vai por diante então é o mesmo
+e aí pô obrigado aí pela promoção
+contribuição acho que pessoal gosto para
+caramba aqui tá falando sensacional top
+demais eles fantástico então acho que a
+galera gosto para caramba e abre outra
+pergunta se quiser pessoal quiser
+perguntar fica à vontade o teu microfone
+né vou desmontar aí de você sua mãe
+e aí
+o banco de dados no qual falei o banco
+de dados no momento a gente não tá
+usando banco tá a gente tem o sistema
+rádio fm da empresa já é que vai
+precisar da cidade e aí as imagens tá
+tudo armazenado nesse sistema que eu
+faço buscar essas imagens tá mas o
+processo de treinamento salvo essas
+imagens local disso mesmo parecendo
+e faça o treinamento dessas imagem e eu
+salvo o meu médico né que os meus
+arreios entendeu agora que a gente tava
+dando arquitetura do projeto né cliente
+que a gente vai fazer a persistência
+desses impérios não vão antes da sua
+bebê ainda mais fácil e
+há quanto tempo de treinamento cara é
+foi bom falei foi mal ápice de imagens
+não era o primeiro lote 79 igual a gente
+demorou cerca de uma semana para treinar
+quem não calcular os invernos e depois
+aí demora mais uma das duas horas daqui
+uma hora mais ou menos duas pessoas para
+temperatura de mach lane
+e depois que a gente fez a atualização
+de errado depois que a gente melhor
+ainda com a cpu ainda tá não não estamos
+aqui para cpu ainda aí a gente puder
+puro mas aí para o lote inteiro né
+passar a 180 mil a atualização já já
+tava demorando os dez dias para os
+próximos esses primeiros lotes de 8 foi
+bem demorado para entrar mesmo projeto
+por causa disso é hoje o projeto já
+passou nas tetas bem imagens a gente já
+tem mais de 500 animais a calda produção
+e a gente tira fez o processo mais
+rápido de treinamento de madrugada entra
+ali mil imagens já treina logo de acordo
+com o processo então podia na tela e
+novas imagens do dia do processo para
+sempre e aí o processo é mais rápido né
+deixa calcular um betty todos mas com a
+aquisição da máquina de escrever o que
+eu deus quiser vai cair lá a gente aí
+acredito que vai viabilizar ainda mais
+objetivos
+e o nilson perguntou arquitetura do
+projeto em nuvem
+oi nilson tem esse problema também
+porque é ltda uma empresa pública a
+gente tem essas problemas em lei
+específica que os dados tem que estar em
+território nacional ainda mais esse dado
+é possível é uma série de burocracias 7
+publicação então a gente tem um data
+center da empresa na empresa tem nada no
+estado e e essa aplicação também tá tudo
+bem da empresa muito bem que eu da sede
+da empresa em uma nuvem perna né mas não
+é eterna né tipo amazon.eng o eduardo
+perguntou que você utilizou algum
+algoritmo para extrair as faces das
+imagens e treinar ou utilizou a foto
+diretamente no modelo
+e aí
+em algum político e sesi as partes das
+imagens ações eduardo no processo de
+detecção a gente já extrai a faz um
+processo de reflexão a gente extrai é
+fácil é que o processo de detecção da
+faça cima da terminar a gente faça a
+gente usa a gente pega aquela bolsa
+inbox né a gente pega aquela região ele
+tá fácil trânsito usa aquela região o
+resto da vida a imagem destacada então é
+isso aí essa região que a gente usa para
+treinar para construir um modelo no face
+net estreia e depois de treinar o
+coletivo de paixão então dado uma nova
+imagem é imagem consulta mesmo processo
+é o mesmo gera tem pressa imagem cônsul
+e faça a comparação do dente no ano e
+como perguntou aqui qual a parte da
+estatística em base no modelo de
+regressão linear boa regra é uma dele é
+linear tá modelo é linear então aí a
+maioria dos das abordagens é
+oi lili em modelos lineares por elas
+virem a funciona distância entre diana
+são bem enfim é o modelo aos dados são
+lineares e o face net já era para você
+ter uma ideia de que ele é linear então
+é abordagens line água tende a funcionar
+pé
+a mais mas você ele perguntou o
+algoritmo né pô foi knn né isso ronaldo
+e não não foi não foi agressão aplicar e
+nisso não foi agressão eu usei o dado é
+linear né então ela também tá certo o
+me manda aí galera
+e ele tá com alguma dúvida aí rebeca
+manda aí
+e é antes pessoal funcionar de novo
+desenhos e se projeta bem bacana a gente
+vai implementar também essa régua embora
+essencial não só na parte final a gente
+vai trabalhar com não tô admirando vai
+trabalhar como médica falou que pode
+admirar a gente vai trabalhar com
+detecção de desconhecidos também tá a
+gente vai trabalhar com aplicar esse
+conhecimento social para infecção de
+indigente também né que é um processo
+muito complicado né quando é um corpo é
+encontrado é o ml e o médico legista que
+vai lá né e as nossas características da
+pessoa o do outro identificação da pele
+aqui tá bater com a base de
+desconhecidos que é da polícia civil né
+a gente vai implementar esse
+reconhecimento passado então dado novo
+cadavérica e fecha com sabor a gente
+pretende tirar fotos a cada e bater de
+forma automática para baixo e
+desconhecidos para detectar essa pessoa
+entendeu de uma forma mais apurada
+melhorar a esse processo também é
+e esse dinheiro em aplicações dentro do
+estado as aplicações a rebeca perguntou
+de quanto tempo demorou o projeto
+e olha a rebeca esse projeto trabalhou
+cerca de seis meses é assim é eu
+diretamente nessa equipe tô trabalhando
+tem mais de um ano mas não nesse projeto
+né mas já de trabalhando esse dado em
+outros dados nesse dia até aqui que
+trabalha com isso não é verdade que eu
+tô mudando esse aqui porque a equipe
+basicamente sou eu mas tem uma galera lá
+que desenvolvedores enviem a partir de
+data science imaginando eu tocando mas a
+parte não sei da casta de gente aqui
+pular de cometas coicidentes dura
+operações e seja tranquila mas o brasil
+demorou seis meses entre né a primeiro
+experimento até a produção sorteado
+modelos aplicados de forma perfeita
+integração foi até rápido na para um
+cientista de dados um
+e aí
+em qual quantidade o modelo é aplicado
+circuito internet é eduardos agora cara
+é isso aumente a gente usou esse esse
+projeto não se replicam sistemas de
+gestão prisional que é da secretaria de
+administração prisional mas agora na
+copa américa inclusive a mudança
+constante ou até porque o pessoal vai
+usar na copa américa né vai ter câmeras
+integradas que a gente vai ligar na base
+de dados ligar na pilha fica bem a gente
+vai ligar nessa p i e a a câmera né base
+vai ter um só fique no frame e henrique
+sitta a detecção de então é o próximo
+passo a integrar o circuito interno de
+câmeras e só tem projeto colocarem
+rodoviária detectar também conhecido e
+procura e perguntou se eu conhecia o
+crise ele trabalha também combinar com
+certeza que trabalhou comigo agora que
+eu mudei foi parada dura tava na área do
+viagem do frio é né
+um milagre grande amigo pense faço
+e agora tô na arquitetura não sai da
+área de viagem na beleza pode crescer
+conseguir fazer um projeto assim com
+certeza fernanda e o face net ele é o
+buriti de rede ele não a rede com o
+funcionário não não é outra abordagem é
+o marcelo é
+ah mas isso funciona muito bem carinho
+felicidade com leite muito tranquilo
+assim de entregar propostas ele é muito
+boa e bem tranquilo usei tem
+implementação do rei era curso tá
+fazendo realmente apagado eu coloquei lá
+o reconhecimento facial agora essa
+semana as aulas tanto usando uma
+abordagem baseada nesse ver o padrão e
+também usando dipirona e dipirona eu
+gosto passo a passo presidente exemplo
+passam alto de inverno como usar esse
+reconhecimento porque a galera nesse pro
+jantar exatamente tudo que eu fiz a aula
+todo mundo muito bom cara show de bola
+hein
+bom então galera acho que acabaram as
+perguntas aí como assim não vou como
+crescer quero conseguir fazer o projeto
+assim o link top gente finíssima é o
+filho como rodrigão muito gente boa
+o livro tem mais alguém alguma pergunta
+eu acho que vamos serrando aqui né
+galera vamos vamos tirar uma fotinha
+aqui só para registrar o momento liga
+aqui liga agora lá na praça amiga liga a
+webcam aí galera por favor aí ó
+é ué felipe a flor daí dois felipe
+santana agora que não deve tá
+reconhecendo agora tô precisando desse
+modelo aí como olha só galera na minha
+tela aqui tá aparecendo dois filipe
+santana galera e agora só só de pisar se
+diferenciar isso aí vou conhecer esse eu
+passei assim cama mas beleza tudo bem e
+detalhe que tem nas aulas reposição de
+fazer a mente viu eh conhecer a gente
+também está sendo com a fernanda é a
+safira calma aí como é que eu faço para
+ir embora parece que o fazer um print
+aqui
+e como é que eu faço isso fazendo é um
+print agora vamos lá galera vamos faz aí
+faz eu já ia aí para gente
+e aí
+o show teve aqui se saiu só para
+confirmar aqui ó
+e a pessoa aqui na antes tecnológica
+rapaz é um cara de exatas exatas não só
+porque eu falo que estatística na exata
+né cara que fala que está disse que
+exato você tá brincando com ele porque
+sempre tem um erro envolvido com o áudio
+que ser rápido é verdade tu me fala
+aproximadamente exata né só se for
+e não ficou show beleza então tá
+garantido daí obrigado galera olha
+ligação receber você aí e estamos juntos
+vamos encontrar um abração

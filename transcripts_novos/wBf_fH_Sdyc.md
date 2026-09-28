@@ -1,0 +1,151 @@
+# Alteryx - Output - Aula 17
+
+- **URL:** https://www.youtube.com/watch?v=wBf_fH_Sdyc
+- **ID:** wBf_fH_Sdyc
+
+## Transcrição
+
+e agora para finalizar o nosso fluxo a
+gente vai ver como é que a gente
+efetivamente salva em algum lugar aquilo
+que a gente construiu para isso a gente
+vai vir aqui no grupo D em out e vai
+pegar a ferramenta out e arrastar o
+seu fluxo vamos deixar ligado a última
+ferramenta que a gente utilizou que foi
+essa left aqui na nossa ferramenta de
+altitude você vai falar primeiramente
+aonde você quer salvar o seu arquivo
+você pode clicar aqui na certa vai
+aparecer essa tela você pode salvar em
+um arquivo propriamente Então se vai que
+não faz você pode satisfação ou se você
+tiver trabalhando com banco de dados
+você pode vir aqui no leitor se
+configurar ele para jogar no banco de
+dados Você tá trabalhando se você tiver
+trabalhando com servidor com o Gallery
+tudo altura que se você consegue vir
+aqui no Gallery e você consegue aqui
+adicionar também a base de dados do seu
+Gallery para você fazer isso é o tipo de
+direto para lá
+bom então aquilo seu celular que você
+vai dizer aonde é essa cidade joga seu
+files aqui você vai dizer aonde que você
+vai salvar o seu arquivo atravessará que
+fala eu tô selecionando aqui em cima
+desse arquivo ranking Pokémon vou dar um
+save replace e vou salvar com esse nome
+aqui de Tite aí depois que você
+selecionou lá com o arquivo que você
+quer é você vai ter esse arquivo que
+você selecionou como um padrão é esse
+lugar em que você vai salvar um padrão
+ele vai entender que é naquele endereço
+e quer com essa sheet e dependente de
+você querer com mal caso criar um
+arquivo com diversas XX que não tem o
+nome ele de acordo com seus dados vamos
+ver essa parte de baixo aqui que a
+partir de configurações é que você
+consegue nessa linha um limitar quantos
+contas sai quantas linhas vamos ter no
+seu arquivo de saída Então se consegue
+escrever aqui um limite por exemplo de
+miolinho e se você
+se você consegue na segunda parte aqui
+alterar Qual é a sua saída de informação
+então independente você ter falado lá na
+frente que é um Excel você consegue aqui
+por exemplo boca botar um banco de dados
+se quiser você aqui não te options
+você consegue falar o quê que você vai
+fazer eu Te puxo no caso a gente tá
+colocando para ele criar novas X então
+para cada grupo que existe de
+informações para criar uma nova suíte
+Mas você também pode botar o atende em
+que ele vai colocar é toda a informação
+abaixo de uma informação já existentes
+no arquivo abaixo da última linha que
+existe daquele ativo Você tem uma ver
+with Orange que você vai olhar aquela
+sheet que já existe você vai só sobre a
+escrever aquela sheet você vai apagar
+anterior vai colocar ela mas tem que ser
+uma que Já exista e overwatch fora você
+vai pegar em um arco que já existe
+vou apagar aquele aqui e vai
+sobrescrever vou colocar um arquivo novo
+aí com a esse farol seus nomes se não
+existe ainda esse arquivo nessa cria
+e a gente vai usar com esse bichinho que
+ele vai criar um arquivo novo e dentro
+desse arquivo novo ele vai criar uma
+arte para cada Pokémon que é o que a
+gente quer
+E essas outras informações aqui elas
+praticamente não são usadas São casos
+raríssimos Então não precisa se
+preocupar com elas mas se por algum
+motivo você tiver dúvida e precisarão os
+filhos agora ela você pode dar uma
+olhadinha na documentação da comunidade
+e você entende um pouquinho melhor sobre
+a luz mas é Alison opções que a gente
+não costumo usar aqui embaixo você vai
+ter a opção de take final table name
+from Field Que você pode aqui pegar um
+campo para você utilizar ele de
+referência para fazer uma alteração no
+nome do arquivo no endereço do arquivo E
+aí você consegue fazer algumas
+alterações mais dinâmicas você consegue
+por exemplo adicionar o sufixo adicionar
+um prefixo a um arquivo ou uma tabela
+você consegue mudar um arquivo um hotel
+que é o nosso caso porque a gente quer
+mudar ele é o nome da xixi né que vou
+sair e a gente também tem a opção de
+mudar um falar o perfil inteiro ou seja
+você pode por exemplo a sua base de
+idade tem um campo só com os endereços
+que você quer que seja desistindo
+Se você usar que os dentário farofa para
+mudar Os destinos dos seus arquivos tá
+você consegue fazer isso através dessa
+opção vamos pegar o time de falar eu
+tenho eu fiquei gente quer mudar o nome
+da city e vão utilizar Qual o campo que
+vai ser de guia para a gente o campo
+guia para a gente a nome do Pokémon que
+eu quero que tenha uma cheat para cada
+Pokémon como se fosse mais uma fichinha
+daquele Pokémon só vou botar aqui o name
+e nesse check Box aqui do lado e você
+diz se esse cão que você utilizou de
+guia vai aparecer na sua saída de dados
+ou não eu vou deixar ele aqui que eu
+quero que tenha lá o nome do Pokémon da
+minha saída de idade
+bom então com essa configuração eu vou
+dar uma
+e quando você dá o Lorde vai rodar aqui
+só fica tempo que se já tiver rodado e
+você botar para rodar de novo como você
+tá falando aqui de um Create New sheet
+você vai tá querendo sheet com o mesmo
+nome de uma que já existem dentro
+daquele fio então ele vai dar erro para
+você tá então fica atento aí com isso
+talvez você precisa deletar o arquivo
+anterior e tal para você rodar de novo
+feito isso vamos dar uma olhadinha no
+arquivo que saiu
+e ele vai ter esse arquivo aqui com a
+altitude em que ele vai ter uma sheet
+para cada uns Pokémons que Itália o nome
+do Pokémon ir a ficha desse Pokémon
+todas as informações dele lá como a
+gente queria que ficasse no final

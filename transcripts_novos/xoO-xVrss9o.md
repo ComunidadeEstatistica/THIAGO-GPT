@@ -1,0 +1,425 @@
+# Aprenda Orange para Data Science com o  Prof. Grimaldo Oliveira
+
+- **URL:** https://www.youtube.com/watch?v=xoO-xVrss9o
+- **ID:** xoO-xVrss9o
+
+## Transcrição
+
+olá cada aluno tudo bem seja muito bem
+vindo a mais um curso meu
+desta vez vamos trabalhar com uma
+ferramenta nova inovadora uma ferramenta
+ligada à área de exploração de dados
+machine lord e visualização de dados
+ela basicamente trabalho e trata dados
+ward camas vai gostar muito a ferramenta
+extremamente visual ótimo você menina
+dados trabalhar com rick martin land
+trabalhar com o contexto estatístico não
+gerar algumas informações estatísticas
+na ferramenta totalmente visual conhecer
+um pouquinho dela né hoje nessa primeira
+aula entender por que ela funciona
+e você começar a fazer o aprendizado e
+trabalhar com ela no seu dia a dia com
+seus dados o que bem a gente deixou aqui
+algumas premissas especifica que a gente
+vai aprender
+grande parte do que a gente vai ver aqui
+dentro dos arquivos que a gente foi
+trabalhar com muita coisa de exploração
+e utilização de dados
+você vai ver profundamente isso e você
+vai ver diversas maneiras de você está
+trabalhando com os dados que a gente vai
+ter alguns do algoritmo e descobertas de
+grupos agrupamentos algoritmos
+tradicionais da área de mineração de lá
+de dados e machine tour à parte
+classificação modelagem preditiva
+a gente vai ver muita coisa ligada a
+essa área ou seja é um produto de
+analytics é um produto ligado à área de
+dados ea gente vai ver no geral como é
+que você trabalha com análise de dados
+em geral é na prática mesmo a gente vai
+ler arquivos esses arquivos em diversos
+formatos e xx te csv através da url se
+por exemplo vai poder botar um dado na
+planilha do google por exemplo e de lá
+você baixar diretamente nord tamas então
+você vai ver que é super simples de
+fazer isso a gente vai fazer isso aqui
+as minhas aulas vão ser bem tranquilas
+né
+para que você possa fazer tudo o que é
+possível nessa área com essa ferramenta
+vai trabalhar com esses algoritmos the
+machine lã e visualização idade e alguma
+coisa demais estatísticas aí
+o conhecimento não é um curso que vai
+ensinar a estatística não é essa a
+finalidade é importante que se você já
+tem tomado alguns cursos meus por
+exemplo o curso dr
+o curso de web cam que são ferramentas
+onde trabalha com estatística lá explica
+bastante aqui já estou colocando um
+curso para as pessoas que já conhecem um
+pouco essa área mas não deixa de você
+procurar sempre conhecimento né
+então eu vou traduzir de forma tranquila
+de forma prática
+mas é importante que você busca esse
+contexto estatístico a diversos sites
+basta você me perguntar indicarei um
+excelente bem lógica ambas vão falar
+onde ele nasceu aí já é tudo que
+aconteceu
+ele é hora de camas ele é da levando
+laboratório de informática universidade
+la na eslovênia
+os estudantes e foi colocado no mercado
+para que as pessoas possam trabalhar
+ele tem a sua parte o pensou-se né e
+você pode utilizar para trabalhar isso
+dentro da sua empresa você vai ver que
+ela
+quando você vê a parte de instalação tem
+aqui um vídeo sobre a instalação
+ela é construída no pai tom então tudo
+que você está fazendo aqui tá fazendo em
+python
+então você roda com o pai tem um pai que
+está por baixo tem uma interface gráfica
+mas é o python que executa é você vai
+ver que é uma interface gráfica que vai
+permitir que você faça a sua análise
+ok você está a construir um código
+ele pode ficar essa análise gráfica em
+python e já roda em parte internamente
+ok você vai ver que você vai trabalhar
+com o aprendizado de máquina revelação
+de dados nem você vai ter um fluxo de
+trabalho esse fluxo de trabalho é um
+fluxo interativo
+ele é como se fosse uma tele quem já
+conhece até l net você vai ver várias
+componentes em fluxo mas você não
+precisa executar o fluxo à medida que
+você vai inserindo o componente ele vai
+executando essa etapa
+então é muito legal porque você não
+precisa executar uma eterna você não
+precisa executar do início ao fim
+você vai colocando os componentes ele
+vai gerando e você vai exibir nas
+informações você vai ver
+muito legal muito simples é que a gente
+vai basicamente conhecer dora fica você
+vai ver que você tem uma interface
+gráfica rica né
+você tem diversas informações para que
+você possa mostrar a visualização de
+dados
+você vai ver aqui alguns algoritimos the
+machine lane
+você vai ver algumas exemplificações da
+parte de consistência de dados você vai
+avaliar se um dado é correlato não você
+tem uma série de revisões gráfico
+apresenta a curva rock aqui né
+o que é que isso vai lhe permitir vai
+permitir que você se torna uma pessoa
+criativa ou seja uma pessoa que possa
+pensar várias vertentes ao mesmo tempo
+ora gente não vai proposta na isso você
+você pensa de uma forma diversificada e
+já foi uma gráfica forma lúdica forma
+simples uma forma tranquila que você
+trabalhar você vai gostar muito para as
+pessoas que já trabalham com r com
+python chega 9 horas de camas vai ver
+uma parte visual que vai se identificar
+rapidamente para quem já trabalha com o
+eca por exemplo é bem parecido com
+aquela estrutura do eca de algoritmos de
+você configurar mas é muito legal muito
+melhor
+eu acredito que a aprendizagem do que
+essa ferramenta já que não precisa
+modificar
+então você vai gostar muito você vai ver
+como é fácil como é tranqüilo trabalhar
+com olhos de camas
+ok eu vou fazer as minhas aulas passo a
+passo certo então qual é o primeiro
+passo de hoje que a gente vai ver hoje
+dora de camas tão quente vai ter esse
+esboço específico aqui no nosso do nosso
+slide ea gente aos poucos vai se
+aprofundando você vai ver a cada aula
+uma coisa nova
+hoje a gente vai basicamente entender o
+funcionamento a gente vai entrar lá dá
+uma olhada na hora de campos é você tem
+aí aula de instalação instala a gente
+vai ver alguns exemplos que já vem
+pronto só pra você conhecer aí você pode
+até estudar esses exemplos e aprendi
+muito e eu vou fazer a leitura de um
+arquivo qualquer certo pra que você
+possa iniciar é o que eu quero que você
+conheça hoje o ônus de campo vou fazer
+dá um pulo no site para que você saiba
+neodi aqui tá como é que foi baixado
+claro que isso tudo na instalação mas eu
+quero fazer de uma forma bem tranquila e
+lúdica para que você conheça o
+funcionamento do órgão de carros
+ok então dar um pulo no site pronto tô
+aqui já com meu browser aberto a escrevê
+la hora de camas oq
+aí você se acha de primeira que a
+ferramenta vai dar um clique tem várias
+vidas se você quiser também vê na
+internet e informação do que hora de
+canas
+aqui há uma explicação mas vamos dar um
+pulo lá no site
+vamos conhecer como é que ele trabalha
+pronto já estão aqui é traduzir seu site
+informações de que um choque como é que
+funciona a questão do ifo que eu falei
+nem intercambiado então se a consocial
+tl aqui o download da ferramenta tem um
+blog tem a documentação que o
+treinamento pela própria ferramenta lá
+você pode fazer isso e ver que é um
+software livre tem a parte donativos
+também você tem aqui uma ferramenta de
+data magna a china elaine você tem a
+interação visual então a performance eu
+consigo traduzir aqui pra você fica mais
+fácil colocar a minha tradução aqui do
+google voice ele traduz aqui pronta que
+a mineração de dados aprendizado de
+máquina em código aberto você pode
+clicar aqui para fazer o download é
+trazer o bem orge laranja não traduziu
+bem então informações aqui o que ele faz
+visualização interativa de dados é
+contar nada de dados simples com
+visualização inteligentes podem
+distribuir suas estatísticas gráficos de
+cachaça e dispersão você vai ver uma
+série de informação estatística muito
+fácil muito legal agrupamentos mapa de
+calor tem uma série de coisas lógica
+você pode fazer um programa que chega
+programação visual só entender a
+interface gráfica a permitir com que
+você faça toda a exploração de dados em
+vez de criarem ele pode ficar e ele vai
+construindo esse fluxo de trabalho da
+sua análise é muito legal
+adoro né ele tenha as informações de
+funcionalidades extras mec que é o sad
+ons que você pode baixar e aí utilizar
+isso colocar mais alguns algoritimos a
+questão os criadores
+enfim tem uma documentação basta posso
+chegar aqui o show volta à equipe o
+inglês
+você pode ver aqui nos screenshots só
+para que você possa dar uma olhada ó
+tudo o que é possível fazer ó cag são de
+dados na nuvem
+você pode selecionar dados e fazer um
+diagrama dispersão box explode também
+fazendo a leitura como é simples a ele
+aqui visualmente trabalha também na
+junção de datas sets né apache e você
+fazer mapas nem hierárquicos neda gramas
+olha como ele é rico faz uma análise
+também de imagem tem uma sede algoritmo
+o que não falta aqui algoritmo não quer
+dizer a você que a gente vai ver todos
+mas assim vamos trabalhar os principais
+para que você conhece e obviamente você
+pode estudar aquilo que você precisar o
+seu dia a dia
+olha aqui um exemplo específico né ele
+tem uma série de funções ea parte
+gráfica aqui fazendo uma estrutura onde
+você pode exibir um mapa de palavras né
+fazer uma análise de imagem pode ser uma
+análise analítica sentimento demais
+é muito legal fazer o download né aonde
+a simples e tem para windows em um mac
+tem paulinos clicando aqui ele vai
+entender né não
+qual é a instalação ele dá o exemplo do
+linux aqui como é que você vai instalar
+do mec como é que se vai baixar do
+windows porque eu vou usar a versão
+windows blog tem a parte documental dele
+aqui e você pode baixar o documento
+desenvolvimento está um tutorial do
+youtube leitura de idade ele é bem rico
+bem rico bem rico é excelente a
+ferramenta muito legal né
+ele fala informações de como é que
+funciona o workflow então ele tem aqui
+uma série de saídas estatísticas para
+dizer se está tudo ok ou não
+informações
+em fácil de você entender né oi para
+cada função então assim não precisa
+executar tudo processo é resultado da
+medida que você vai inserindo as
+informações aos seus componentes
+ele vai automaticamente gerando essas
+informações ok a gente vai trabalhar com
+isso a gente vai ver como funciona aqui
+eu fazer uma base de clãs e lança gerar
+químicos também andar de componentes
+principais muito conhecidos na
+estatística árvore de classificação
+árvore decisão você monta essa árvore de
+roteamento de uma série é uma série na
+série de coisas que você pode construir
+beleza então esse é hora de camas a
+gente vai estudando aqui eu vou
+estudando com você né espero que você
+aproveite e goste bastante né mais uma
+linha analytics que estou trabalhando e
+torcendo disponibilizando para que você
+com eles
+agora vamos abrir hora ficamos certo
+vamos dar uma olhada vamos conhecer como
+é que ele trabalha coisa bem simples
+próprio não já estamos aqui com nove
+camas aberto
+ele tem essa estrutura também o desculpe
+ele tem essa estrutura
+você cria um novo arquivo abreu os mais
+recentes aí já tem informações aqui
+sobre exemplos documentação que está
+gostoso e ai exemplo vai dar alguns
+exemplos
+clicando aqui embaixo essas informações
+vão ser exibidas
+eu vou aceitar um ataque bem específico
+ele já vai dizendo aqui ó leitura de um
+arquivo da tabela faz internações
+visuais classificação em árvore já tem
+algumas coisas prontas
+basta você querer utilizar não vou abrir
+aqui só você ver
+olha aqui ó ataque o componente olha
+como é flexível bem simples né hoje é um
+reconhecimento à data visual modo o
+valor e tiené supervisionado
+cada um tem uma série de componentes né
+a ação de dados já tem uma riqueza
+enorme de fazer trabalhar com modelos
+aqui andou forte na cabeça de uma série
+ó general uma série de falar pra gente
+trabalhar com proibição tac prontinho a
+gente utiliza muito matriz de confusão
+para explicar essa pressão analisou
+supervisionadas e trabalhar com o
+cluster caminhos então você tem essas
+informações aqui já está disponibilizado
+e você vai ver que você vai poder
+colocar muito mais muito mais certo
+então esse é um ambiente você tem aqui o
+menu no tradicional né
+para que você possa abrir o arquivo
+carregar um arquivo salvar você pode
+apagar duplicar a questão das seleções
+né
+aqui um fazer zoom então você pode aqui
+ó fez um contra um mas fazemos um
+controle - tiramos um ok a gente vai ver
+as questões desses gigantes que estão
+aqui dentro cada um desses aqui são os
+joelhos josé poderá acrescentar mais
+outras bibliotecas são sete ons
+clicando aqui já fazer com calma porque
+o pádel do problema mas deve ser algum
+probleminha aqui porque eu tô aqui com a
+internet e desconectada ele vai na
+internet mas isso não é problema
+a gente vai ver isso não tá ok é porque
+eu tô internet conectada aqui neste
+momento ea gente vai ver que a gente vai
+poder com isso aqui acrescentar mais
+outros componentes mas outro igreja a
+gente vai poder acrescentar aqui você
+vai ver aqui que vai ser um ambiente um
+ambiente onde você vai fazer a sua
+análise simplesmente aqui você tem
+informações sobre o que você está
+fazendo o fluxo está fazendo você digita
+o texto e escreve ele né você tem que
+essas certas nessa são essas setas que
+eu vou construindo aqui também aqui se
+você quiser indicar alguma coisa tal
+específica você tem aqui a partir de
+coloração do quadro tá vendo ou cinza e
+você quiser acrescentar alguma
+informação chega aqui ó aula
+o professor grimaldo ponto no seu flow e
+aí você poderá arrastar e se colocar
+onde você quiser então você organizar o
+seu flow bem tranquilo bem simples
+ok e é isso né a gente vai começar a
+fazer nossas aulas como é que funcionam
+esses componentes você tem um sim o
+semicírculo aqui também
+quando você tem dois semicírculos avô a
+gente está aqui o semicírculo sabendo é
+um de saída ou de entrada você vê que
+aqui não tem entrada só tem saída né
+então só você tem uma réplica aqui ó já
+vem com arquivos ou seja um arquivo que
+já está aqui internamente dentro do pólo
+de cama sabendo tem alguns específicos
+para trabalhar pode trabalhar com ele
+pode trabalhar com outros vai depender
+da nossa hora
+aqueles já tem os atributos você vai
+trabalhar ea dizer numérico já disse é
+um tipo clássica bota que a situação
+como target e assim sucessivamente
+ao ligar o componente no outro ele já
+mostra a informação da venda tudo visual
+bem simples a a visualização quais são
+os maiores componentes né aos menores
+dos maiores sabendo dessas barrinhas
+aqui eu coloquei aqui ó
+é simplesmente para a ordem na para
+dizer quem é do maior para o menor op
+só isso e essas cores obviamente pelo
+tipo do da categoria da classe que está
+aqui então a gente vai ver isso sabe que
+é muito flexível de você fazer o que eu
+quiser apagar só remover tudo gráfico se
+eu quiser ligar é só ligar aqui a
+desligar automaticamente o dado
+ele já vem pra cá né a informação já vem
+pra cá ea gente vai começar a trabalhar
+com essa ferramenta pra mim foi muito
+legal a ferramenta bem simples você vai
+adora a gente vai começar aos poucos
+ok espero você aquino cursos para que
+você tenha gostado dessa primeira aula
+está a ferramenta e vamos pra frente
+vamos trabalhar com analytics com
+ferramentas de machine lane
+o trabalho de atualização de dados
+consolidados quero você é fera nesta
+ferramenta legal
+um grande abraço

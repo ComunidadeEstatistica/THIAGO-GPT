@@ -1,0 +1,2162 @@
+# Live alunos Minerando Dados - Data Science do zero (Estatística)
+
+- **URL:** https://www.youtube.com/watch?v=v4ej9A4_Suw
+- **ID:** v4ej9A4_Suw
+
+## Transcrição
+
+ademais o pessoal pra quem não conheço o
+thiago eu acho que é pouco provável em
+provar
+aliás eu tenho certeza que a internet
+tudo conheço o tiago é fato mas pode ser
+que alguém não muda a cada cabeça e não
+conhece tiago apresentar e pessoal tiago
+estatístico ele é fundador do canal está
+agendado para o super bacana muito amigo
+nossa está desde o início da avenida
+caminhada da mulher andado sempre
+contribuem para a gente é um grande
+disseminador de conteúdo na área de
+estatística de datas ice imaginando tudo
+o thiago é um seminário de conteúdo do
+canal ele recebe convidados para poder
+ver vídeos lá e compartilhar conteúdo
+com a galera
+ainda no rodrigo do felipe la paz mas
+que têm fazendo que andou lá é verdade
+gabi né e atribuiu então da turma que
+também dos alunos que ganha o ir lá no
+estado
+está difícil né isso está difícil porque
+o canal quando eu criei ele tinha o
+objetivo de ajudar a alertar fiscal na
+então era estádio estatística de tiago e
+físico de fiscal a pessoa criativa então
+está aí pô eu ea fernanda teve que
+gravar três vezes o vídeo e rolava
+língua não conseguia gravar outros
+relatos também da persuasivos nesse
+sentido também me fizeram mudar o nome
+do canal até minha mãe e minha mãe
+falava está difícil que eu falei na
+minha mãe não dá eu tenho desta rua
+físico também está de físico como eu sou
+fã do défice não quer só fiz estatística
+só o canal é muito conhecido
+nossa e hoje é falar um pouquinho de
+estatística a gente aqui mesmo na o
+thiago eu vou deixar a galera aí pessoal
+uma propaganda dúvidas quem tiver dúvida
+eu tenho 80 o microfone de todo mundo a
+gente esquece o legado é natural eu
+gravo de todos mas quem quiser falar uma
+coisa eu tenho uma pergunta será que não
+é melhor deixar um professor perguntar
+representante ou não ficar muito ruído é
+porque acaba a pessoa que às vezes
+entrei não sabe ainda com que desativa
+acaba ficando muito ruído a uns estão a
+levantar mal assim
+beleza a levantar a mão e também da
+mensagem vocês conseguem ver todas as
+telas - 1
+ao mesmo tempo outras todos não têm
+passado lado certinha do lado mas dá pra
+ganhar mas não vai ter um vazio então aí
+beleza como é que muda até aqui pro pode
+ser já está aparecendo vocês quando falo
+você está parecendo a transparência não
+então a idéia aqui mais uma conversa né
+eu tô fazendo algumas palestras no
+sentido de tentar mostrar a importância
+da estatística na sinceridade
+tá e eu queria colocar um pouco esse
+constante é pra vocês porque a
+estatística né
+o que é estatística estatística uma
+poderosa ferramenta de tomada de
+decisões né
+a gente consegue tomar decisões baseadas
+em incertezas né minimizando as suas
+incertezas
+a estatística ela pode ser dividida em
+quatro grandes áreas não é que no caso é
+a estatística descritiva a probabilidade
+em amostragem né
+aí a inferência estatística está na na
+partida da estatística descritiva você
+está interessado em que você está
+interessado em explorar as suas
+variáveis
+conheci mais delas distribuições de
+prova de probabilidade das variáveis né
+cada cada conjunto de variáveis vai
+seguir uma distribuição de acordo com as
+características dela a gente pode ter
+distribuições discretas contínuos na
+discretas no caso quando a gente tem ali
+números inteiros na corrente quer saber
+por exemplar número de filhos de uma mãe
+tem o número de carros passando numa
+ponte
+isso tudo é discreto tá e número de
+carro passando uma ponte uma
+distribuição de probabilidades chamada
+possam aí a gente vai entrando um pouco
+mais no assunto né
+mas a ideia é pôr exemplo você passar
+por essa parte descritiva você conhece
+as suas variáveis né você faz você
+entende o comportamento das
+distribuições das variáveis tá tem a
+parte do tratamento das variáveis né
+você ali eventualmente vai ver no seu
+banco se ele está completa não se tem
+alguma variável têm variado muito me sim
+né
+eventualmente a gente tem que importar
+essas variáveis nem como é que a gente
+fazer essas imputações às vezes né
+será que é só colocar no lugar a média é
+às vezes não é não é tão simples assim
+por exemplo do censo
+a gente tem um viés não resposta em
+relação à a agenda é porque é muito
+sensível né
+quando a pergunta renda para pessoa as
+pessoas que que têm uma maior renda ela
+estendeu me tinha renda
+então por exemplo imagine que você
+coloca média uma pessoa lhe que que têm
+uma renda muito alta né mas é omitiu
+você vai estar visando à lyoto análise
+porque a gente espera que essa essa
+renda seja mais alto do que a média
+entendeu porque é historicamente a gente
+vê que existe esse gap né
+então ali será que de repente não era
+melhor fazer uma regressão ou seja olhar
+as variáveis ali que estão contidas na
+base relacionados àquela pessoa e tentar
+inferir essa pessoa tem é o determinadas
+características ela mora e tem em
+determinada área geográfica
+tem diversas formas de você estimar essa
+essa renda da pessoa de uma melhor forma
+do que imputa a sua média né
+então essa parte da estatística
+descritiva a parte da probabilidade e a
+gente tira uma mostra para tentar
+entender como é que como é que funciona
+a população não consigo trabalhar com a
+população toda porque porque às vezes eu
+tenho custo envolvido é dinheiro eu não
+consigo coletar todas as pessoas do
+mundo pra poder fazer uma uma análise
+entendeu então eu tenho que ter técnicas
+de de forma que eu tire uma um
+sub-conjunto daquela população que seja
+representativa ou seja a medida que eu
+for pegar esse conjunto e extrair média
+extrair várias estimativas que elas
+sejam representativas para a população
+isso a gente estuda inferência
+estatística a gente vê as propriedades
+dos estivadores o que um estimador ele
+precisa quais são as propriedades
+desejadas pelo chamado para obter
+estimativas boas né pra a média e ela
+está representando o nome do momento que
+eu tirei uma amostra representativa
+quero expandir esse resultado da amostra
+para a população através da inferência
+estatística
+tá então a gente estuda o tempo todo
+esses tipos de técnicas e o que pra
+entender a importância da estatística na
+ciência de dados a gente tem que
+entender primeiro é os conceitos a gente
+entender um pouco a estatística agora um
+pouco da ciência de dados o que a
+ciência de dados pra mim na minha
+opinião é um encontro de três grandes
+áreas que no caso é a matemática
+estatística está a parte de deter e a
+parte de negócios
+por que por que por exemplo se você tem
+a partir das estatísticas e têm melhores
+métodos para selecionar as variáveis
+você tem os melhores métodos para
+estimar mas se você não tem um gargalo
+computacional se você não tem um uma
+forma de armazenar eficiente processar o
+dado
+você fica ali não consegue fazer a
+análise
+da mesma forma se você tem essa
+capacidade você tem a capacidade do
+computador de fazer isso você se você
+não tenha parte do negócio
+você não sabe pra que você está fazendo
+aquela análise
+qual o objetivo daquela análise que
+perguntas que eu quero responder
+entendeu então eu vou olhar pro da de
+vôo
+vou perguntar por que eu quero fazer
+quero estimar para o próximo mês
+entendo eu quero só tem uma idéia do
+presente o que eu estou querendo fazer
+às vezes não estatística descritiva
+resolve a gente não precisa pegar atacar
+um de planing modelos lineares em você
+a estatística descritiva é muito
+poderosa se você usar ó de forma
+consistente né de você entender o que
+está acontecendo porque é a estatística
+o importante da estatística é você
+entender como as coisas estão
+funcionando por trás
+entendeu e você conseguir é ter em sites
+para melhorar concluiu
+por exemplo vou dar um exemplo bastante
+simples que quando quando você tem três
+números você consegue inferiu como é que
+a sua distribuição de dados por exemplo
+se você tem a média
+a moda ea mediano tá
+a média é a soma do zoneamento dividido
+pela quantidade está bem simples aquela
+do ensino médio lá que a gente faz
+proferir nosso desempenho é para saber
+se a gente vai passar ou não na
+disciplina
+a mediana é aquela que divide os seus
+dados em duas partes de igual freqüência
+tá é e 50% além dos seus dados vai estar
+mediano e à moda no caso é o valor que
+está na moda é uma luta está mais
+presente ali na distribuição do bolo que
+tem mais ocorrências
+então eu consequentemente o banco tem
+uma probabilidade de ocorrência no seu
+banco está ea gente pode ver inferir com
+esses três números a gente consegue ver
+e simetria que a simetria você tem uma
+curva normal por exemplo se você traçar
+um eixo vertical você olhar para um lado
+e ver a mesma coisa que você tá olhando
+pro outro
+você tem uma curva simétrica tá aí você
+vê
+ela tá um pouco mais é tendo pra direita
+a curva a curva um dia dela tá aí pra
+direita significa até se meter ia à
+direita positiva
+os valores estão mais concentradas à
+esquerda e esse tipo de coisa
+a estatística que vai te dizem então
+alguma coisa quando você tem três
+números você consegue representar uma
+distribuição é muito poderoso e aí a
+idéia da estatística descritiva também
+tenha mediano texto artista em que só os
+cortes cortes significa assim por
+exemplo quando você tem um problema
+muito grande que você faz para resolver
+esse problema
+você vai dividindo o problema em micro
+problemas certo e se você resolver esses
+micro problemas você vai estar resolvido
+seu problema certo só que é muito mais
+fácil você resolver esses problemas
+menores do que você resolver um problema
+que você não consegue nem entender o que
+está acontecendo ali entendeu então que
+questão de curtir você perde devido à
+sua distribuição em partes iguais
+aí tem lá primeiro quartil de vídeo até
+25% ea distribuição terceiro curtiu
+ele deixa a 75 por cento para baixo e
+25% para cima então o que você está
+fazendo você está tentando entender a
+distribuição para poder expandir depois
+porém todo entendeu
+se você entende cada parte zinha você
+entende o comportamento dela
+a estatística ela trata muito muito
+disso né
+e deixa eu pulei um pouco à parte da
+apresentação nessa deixa eu só me
+apresentar aqui é só estatística pela
+federal do trf é em si tá é eu vou
+contar um pouco também da minha
+trajetória
+tá até compartilhar até aqui fica um
+pouco mais fácil
+pra vocês entenderem melhor visual e
+senão o pessoal vai dormir quando eu
+como é que eu faço para compartilhar
+arquivos em outra um chery é enteada
+aqui embaixo
+hum acha beleza né
+o slide ótimo beleza então só passar
+aqui
+tá então eu me formei em 2014
+tá antes de me informar eu estarei na
+fundação getúlio vargas nem a partir
+desse período quando você faz a
+disciplina diferença estatística
+a escola que permite está já aí eu
+comecei a trabalhar na fundação getúlio
+vargas
+lá eu trabalhei com índice de preços no
+índice de preço ele é muito utilizado
+pra você deflacionar séries históricas
+tá aí é isso você tirar o efeito na
+inflação
+por exemplo hoje em 2019
+um salário ele representa um poder de
+compra
+diferente de 2018 porque tem um efeito
+na inflação em cima a inflação ela corre
+o rói esse poder de compra entendeu
+então o índice de preço por exemplo
+quando eu fiz lá minha monografia que
+foi sobre a formação de preço de imóveis
+no município do rio de janeiro tinha as
+bases um períodos diferentes e eu tinha
+que tirar essa diferença de preço para
+poder ter a comparação entre os anos
+certo então é a gente usava esse índice
+da fundação getúlio vargas que o índice
+geral de preço é composto pelo índice
+nacional de construção civil
+o ipa o índice de preços ao atacado e o
+índice de preços ao consumidor ipc né
+eu trabalhei mas que o ipc e lá o que a
+gente fazia lá a gente na cesta de bens
+de pc existiam itens como geladeira tv
+que quando você tem um avanço
+tecnológico por exemplo aquela série de
+tv quando ela vira uma tv ela vira uma
+smart por exemplo você perde a
+comparação do preço ao longo do tempo
+porque aquela característica ela está
+agregando valor que você não consegue
+mais comprar
+então o que a gente fazia que coletava
+mensalmente na casas bahia ponto frio
+tudo via internet os preços nem dessas
+tvs está e agente gerava modelos
+mensalmente para poder estimar o quanto
+que aquela cara pela característica
+influenciava no preço final daquele bem
+porque o modelo me dá exatamente isso
+por exemplo se aumentarem 1
+ligado à tv enquanto que isso vai
+gerando no preço da minha tv
+tá isso é o que eu fazia lá na fundação
+getúlio vargas né
+lembrando que também a série de preços
+geralmente ela segue uma exponencial é
+porque a gente tem tvs com preços muito
+baixos e tv vejo um preço muito alto
+assim como o imóvel também a gente tem
+móvel de 100 mil e um milhão por exemplo
+então como é que a gente faz para
+estimar coisas com magnitudes muito
+distintas né
+a gente trabalha com transformação de
+variável tá aí a gente pode fazer uma
+transformação de box cox vai te dar
+melhor transformação mas é um pouco mais
+técnico
+tirando o técnicas da parada você passa
+um logaritmo tá nela porque aí você vai
+ter preços mas uniformes e quando você
+tem preço de mais uniformes você
+consegue prever de forma melhor porque
+porque eu tô trabalhando ali na mesma
+magnitude
+eu estava com uma diferença absurda eu
+estou trazendo essa diferença para
+algumas meninas quando ele analisando a
+série então fica mais fácil de a gente
+prever entendeu então esse foi meu
+estágio na fundação getúlio vargas e eu
+incorporei isso pra minha monografia
+monografias foi só de precificação de 9
+no município do rio de janeiro né
+eu tinha uma base da caixa econômica
+federal
+tá de imóveis vendidos tá é eu tinha
+também as informações dos imóveis na
+quantidade de banheiros quantidade de
+quartos
+a metragem do imóvel se ele tinha
+piscina se não tinha se tinha
+churrasqueira horas várias variáveis
+nesse sentido e hoje que se a base com
+variáveis do do censo por exemplo só que
+com uma um formato diferente que eu
+peguei gosto pereira passos é porque eu
+queria trabalhar com áreas geográficas
+né porque por exemplo se eu tenho você
+tem como segmentar por exemplo zona
+norte zona sul zona oeste
+não sei o que quer do rio de janeiro mas
+acredito que nos outros estados também
+tenham esse tipo de segmentação
+mas aqui tem área de planejamento é que
+é uma segmentação segmentação
+administrativa aqui no rio que me
+permitiu fazer isso
+é como se fosse zona norte e zona sul se
+eu tenho preço na zona sul vai ser mais
+caro não tem preço na zona oeste vai ser
+mais barato em relação ao nosso então
+quero incorporar isso no modelo então a
+gente coloca isso como dames né
+e aí a gente conta com ele - uma
+categoria e tal
+nem um pouco mais técnica é é que que a
+gente quer que eu fiz nessa nesta parte
+mesma coisa que eu fiz na fundação
+getúlio vargas eu tinha as
+características do imóvel e eu usei
+essas características é estimar o quanto
+que aquele imóvel estava nem o preço
+daquele imóvel queria saber no caso com
+as características que influenciam mais
+o preço do imóvel
+essa foi uma idéia que eu tive pra de
+aplicar então uma sair pra outras
+pessoas mais jovens que ainda estão na
+faculdade tal não ignore estádio de
+vocês que pode vir a monografia de você
+então é interessante isso aí beleza a
+fui surfando lá depois de formado
+aí depois de uma semana eu comecei a
+trabalhar na ong carioca como analista
+de inteligência de mercado tá eu tinha
+base de dados de todas as unidades da
+unicarioca quer 15 tá é eu tinha a parte
+acadêmica dos alunos notas tudo mais
+parte financeira que no caso ele ou o
+toda matrícula parte do curso né é e eu
+tinha participação econômica que a icann
+trava as condições do aluno né parte
+mais socioeconômica na parada
+então eu tinha como eu fiz eu eu tava
+estavam precisando a fazer modelos de
+evasão né evasão escolar que é isso você
+tentar este mal com a probabilidade né
+de daquele aluno ele está deixando a
+instituição não tá a gente chama se the
+shine tá é ea gente trabalhe com que com
+modelos logísticos por exemplo dava pra
+fazer a árvore de decisão também mas lá
+eu fiz por modelos logísticos não é que
+dá tem uma interpretação um pouco mais
+tranquila
+que alguns modelos né é e a idéia foi
+essa mesma coisa a gente tem as
+características dos alunos né
+a parte acadêmica sócio econômica e
+financeira ea gente consegue estimar
+desculpa alguém fala alguma coisa eu
+pode falar do modelo logístico 100
+modelos logístico dá pra gente uma uma
+probabilidade mais calibrada mesmo em
+discussão sobre isso
+o pessoal é recomendado usar modelos
+logística a gente tem um problema de
+mobilidade mais acurada em relação a
+modelos por exemplo
+então o que acontece o ideal é você
+fazer vários modelos né
+e você utilizar métricas de comparação
+tá e aí entra você pode trabalhar com a
+média forma de quadrado zeus média do
+quadrado dos erros média de quadrados
+absolutas dizermos né
+você pode utilizar também critérios de
+informação porque esse a média de
+cuadrado dizemos ela só considera por
+exemplo se a a estimação porcina se eu
+estou acertando ou errando ele no erro e
+o quanto estou errando agora quando você
+considera também o critério de
+informação como as ser bi que nem a caic
+bem information critério também
+você está incorporando a ele está
+começando a penalizar a quantidade de
+variáveis no seu modelo tá ele quanto
+quanto pelo critério da parcimônia
+quanto menos variáveis você tiver um
+modelo melhor é o seu modelo é e wise e
+ob que eles consideram isso eles dão uma
+penalização para quando você tem muitas
+variáveis no modelo
+respondendo à sua pergunta eu acredito
+que a melhor forma de fazer você pegar e
+fazer os dois comparar por exemplo usar
+ele essas métricas nem de avaliação
+inclusive a gente vai ter um vídeo
+sensacional do do marco que se agora eu
+depois coloca aí pra vocês acham que se
+o nome dele mas é um café em paris em
+modelos ele vai estar fazendo um vídeo
+de métricas de qualidade pra gente no
+estádio cidade mas em breve eo risco
+também vai ter a mariana note também que
+ela está diz que tem mestrado em ciência
+da computação vai fazer também um um
+mágico de crédito também pra gente pra
+pra ver se há a aprovação de crédito nem
+tudo mais ela vai fazer uma um trabalho
+desse com a gente é olha não sei se eu
+respondi a essa pergunta mas eu acho que
+é um pouco subjetivo isso porque porque
+você tem que levar em consideração tanto
+as métricas que não consideram é a
+penalização das informações tanto as
+métricas que consideram as penalizações
+e também a quantidade de variáveis no
+seu modelo tá isso é importante também a
+seguinte exatamente probabilidades além
+do estado descreve a classificação
+nenhum problema múltipla tinha diversas
+classes e é o meu ritmo estava
+trabalhando no caso dele né qualquer o
+linear
+ele não me dava a probabilidade de uma
+forma calibrada
+a recomendação era usar um único de
+direção ao lojista stop estava de
+balanceado ou não não e até ser tava nem
+a cor acelera boa escola era muito bom
+só que na hora de gerar a probabilidade
+era ruim e mirava uma probabilidade não
+está liberada
+é uma maneira de calibrar a propriedade
+pessoal usa um algoritmo bom pra associa
+coisa à outra mas entende que nesse caso
+seria investigado essa aposta num só não
+quero nunca ouvi falar de novo mas o que
+gerou geralmente se faz acompanhar as
+métricas de avaliação mesmo tá e aí aí e
+aí foi um dado interessante também que
+reparem o seguinte eu estava
+na aplicação lado tanto na fundação
+getúlio vargas encontro na minha
+monografia que eu tinha quando vai a
+resposta no que eu estava querendo prevê
+tá querendo rever o preço
+o preço é uma variável contínuo tá eu
+tenho amigos reais alguma coisa tipo
+contínuo continue numérico
+quando eu estou trabalhando com a
+invasão eu tô entendendo e sabe se
+aquele aluno invadiu não
+então eu tô com uma dicotomia cá me
+agora uma resposta agora ela é sim ou
+não a 0 um sucesso ou fracasso
+tá então é importante isso porque você
+já pensa pô é às vezes têm modelos
+adequados para cada tipo de variável e
+não então o que eu tenho da estatística
+campo e saber que são avaliados que você
+saber que também era discreto que era
+uma contínua é categórico ordinal
+categórica nominal então esse tipo de
+coisa então tem estatísticas desde pra
+você refinar sua análise
+você pode até fazer um álbum machine
+online da vida se eu achar o resultado
+mas se você quiser ter resultados
+apurados 100 mil habitantes é beleza
+então trabalhei com ele também fazia
+alguns relatórios institucionais em
+relação a assistir a a instituição como
+um todo né e avaliação dos professores
+também e socioeconômicas dos alunos
+também beleza aí aqui eu já comecei a eu
+chegou uma hora lá que me deram muito
+excel queria usar é o cara falou que não
+podia é porque não tinha suporte né
+porque era frio e tal aí eu vi que eu
+fiz foi embora mas deu pra caramba vamos
+ficar mudar de cara indenizar o o
+software que eu quero acertar brincar na
+rua e fui embora pedindo atenção
+aí eu fui trabalhar no caso
+aí o que eu fiz estava eu tava
+recém-formado estava quando a gente sai
+da faculdade a gente sai mais ou menos
+com 50% do que a gente aprendeu não tá
+vendo aí bem otimista
+tá é então que eu fiz eu eu procurei
+sons na internet
+aí foram cursos gratuitos não é que eu
+estudava
+eu tinha lá meu tempo todo não contava
+mais trabalhando e eu dividi meu dia
+como se fosse estudando para concurso
+eu pegava as ela voltava você das 6
+horas
+aí voltava lá nesse dia aqui eu eu eu
+fiz isso concurso do der no rio terminam
+no rio deve na época acho que não está
+muito forte ainda é foi a de x parceira
+que tem universidade de lá de fora
+entendeu tem muito material bom pra
+caramba de graça
+o universidade de harvard também tem
+muita coisa legal é então eu separei fiz
+uma 13 china exatamente fui procurar
+porque eu preciso estudar afirma lixo
+até divulgar isso aí eu voltei lá
+proteção a baixar ea uma planilha
+na época que eu estava estudando agora e
+eu falei pô eu tenho que eu quero dar
+consultoria e eu quero fazer concurso
+então eu vou ter que revisar tudo que eu
+estudei na faculdade e eu vou ter que
+aprender as coisas novas para poder dar
+consultoria
+então eu fiz isso eu dividi meu dia foi
+estudando a partir de que data science
+fui estudando também a parte para
+revisar a faculdade senac também está
+dentro da taça então foi um caso muito
+bem né
+e aí eu fiz isso eu comecei a aula pela
+internet né
+e aí eu vi que eu gostava da parte do
+concurso nem houve um gap grande na
+galera fiscal né da receita que fazia
+concurso para a receita federal e tudo
+mais
+lá tinha desde estatística descritiva a
+regressão linear por exemplo caiu muito
+nos concursos fiscais isso aí o que eu
+fiz eu eu eu montei um curso né
+e eu lecionava por skype tinha dez
+alunos
+eu marcava os horários e mencionava
+sanções aulas aí à medida que eu fui
+fazendo isso eu também fiz o canal pra
+poder ajudar a galera e botar que estão
+lá eu só resolvi que está um canal é só
+isso resolver a questão a resolver a
+questão aí beleza o supremacia concurso
+me chamou para gravar um curso de
+estatística
+gravei esse curso eu ia câmbio na
+primeira vez né
+eu gravei tal é inclusive o que falar no
+canal aquela país o antigo supremacia
+concurso e tal
+foi nessa época eu gravei esse curso né
+era ted estatística descritiva até a
+regressão linear só que aí então me
+repassar um dos vídeos é que eu fiz aqui
+tudo nunca não né
+aqui no canal foi quando o bom do canal
+em depoimento de galera de contabilidade
+administração as vezes que eu nem sabia
+que existia estatística no curso
+aí pô felisa se tal ver vários
+depoimentos e tal aí eu resolvi expandir
+também não porque eu fui trabalhar na
+nair lá eu tinha passado do processo
+seletivo
+aí foi congelado há um belo dia quando
+eu estava lá em casa já estava estudando
+maneiras e tal para prestar uma
+consultoria está feliz da vida
+aí chegou um gerente lado aí me ligou lá
+colocou quero você na equipe tal é não
+tinha passado no processo seletivo agora
+está com vaga aqui na o time da devassa
+de analytics e tal aí eu pensei pô tô
+com 1 27 anos né
+uma multinacional em holandesa e
+consultoria auditoria não vai rejeitar
+não tinha como eu fui eu fui lá na wai
+eu conheci mas esse lado de big data que
+foi quando eu trouxe mais pro canal esse
+lado né
+só que como não sou nickhorn eu tinha
+que trazer a galera aqui também entende
+de paraná trouxe essa galera de the big
+data at the machine luane fui trazendo a
+galera top né top de linha e tal adriana
+silva
+vários nomes fortes na galera do
+minerando então trouxe trouxe bastante
+galera aí eo ai eu trabalhei num
+projecto que no caso quando uma grande
+seguradora ataque não passou nada que é
+confidencial projeto mas eu vou contar
+aqui pra vocês como é que foi
+aí nessa grande seguradora não foi meio
+de exames onde a parada porque entrava
+assim subir no elevador
+aí e andando assim entrava na sala
+primeira coisa que se olhava na parede
+havia escrito assim você não pode usar
+celular você está no filme
+a ldu é têrmo de inscrição 2 assim seu
+quarto
+aí eu falei cara que estou no big
+brother fidel aí imagina imagina
+programar sem ter um stack overflow da
+vida de lado porque ela é e foi um
+pandemônio foi o início mas foi o
+primeiro contato dele com um ambiente
+rápido bizspark nem mais blind date e
+tal
+lá a gente estava no projeto the edge
+está investigando fraude né
+eu tinha base de dados de todos os
+hospitais do brasil
+tá eu tinha que investigar fraude é
+alguns padrões que eles estavam achando
+que ocorriam por exemplo nem desajusta
+que por exemplo será que quando o
+hospital ele está mais vazio
+será que eu tendo o hospital tende a
+deixar mais paciente a poder ganhar em
+cima disso olha que o rio design mas
+pode acontecer né fraude é será que
+quando o hospital está mais vazia ele
+tende a colocar mais hamadneh nos
+pacientes para poder ganhar em cima
+disso também internamente uma iniciativa
+de identificar também por exemplo opms o
+aparelho órtese prótese total só para os
+cirúrgicos na estante quando você tem
+uma uma cirurgia
+você coloca aparelhos que são mais
+cirúrgicos né
+então eles são mais caros será que os
+caras colocavam a torto ea direito
+aqueles aparelhos ali pra poder ganhar
+em cima também era uma possibilidade
+também
+em outra iniciativa era de modelagem
+também que no caso é do momento que o
+cara acionou a seguradora será que
+quanto tempo ele vai ficar internado né
+será que eu consigo prever quanto ele
+vai gastar na internação enquanto ele
+vai gastar de remédio né
+a gente vai poder ter uma noção ou
+tentar identificar se pode ser paciente
+a crônico não né
+e aí poderia entrar numa logística
+também né teve algumas nesse sentido
+também um projeto bem bacana assim eu
+fiquei pouco tempo lá mas aprendi muito
+sinto bem legal é e depois eu fiz o
+concurso
+o bg aí felizmente passei em terceiro
+lugar
+consegui aí eu fui e ainda fiquei né
+cinema porque por multinacionais vegetal
+falei cara aí pelo auxílio da família da
+universitária
+aí eu resolvi felizmente eu fui pro de
+gea aí tô agora um vai fazer um ano e
+cinco meses 16 meses né
+tenho mais um ano e 4 aproximadamente
+para ficar porque tem há 33 anos não é
+pra ficar
+eu sou analista censitário métodos
+quantitativos lá né
+lá o quê que eu trabalhei lá lá eu
+trabalho da gerência técnica do censo
+demográfico né
+o que estão querendo cortar a verba né
+25% entanto quer o rappa fora um negócio
+absurdo porque o censo ele a base dá pra
+você ter um país onde as coisas
+funcionam no sentido de você ter
+subsídio pra pra ter quantidade de
+hospitais quantidade de escolas que você
+precisa no município no estado repasse
+nos municípios é para ser feito pelo
+censo com os dados do censo você
+consegue estimar quanto cada município
+vai receber financeiramente
+tem também os marcos amostrais o censo é
+importante pra caramba tipo mobilidade
+urbana como é com você onde eu vou
+colocar a rampa para ter acesso à
+população para dar mais inclusão social
+por exemplo né então o censo faz esse
+tipo de coisa eu trabalhava em que eu
+trabalhava mais nessa parte também de
+tabulação próprio pra poder fazer está
+ensinando senso a gente já teve algumas
+provas piloto e tudo mais para poder
+realizar o censo e também andei apoio
+também pra galera da da área dos
+próprios três povos e comunidades
+tradicionais como quilombolas indígenas
+aí eu fui eu desenvolvi aplicativo lá
+um foi no shine tá que foi pra monitorar
+a coleta a gente olhava no google maps
+no caso aqui em
+em uma imagem satélite a gente viu ali o
+sendo sendo aplicados questionários né
+em tempo real assim ea gente conseguia
+estimar lhe o quanto que já estava dada
+pesquisa é preenchido mais aplicativos
+maneira assim que eu fiz lá do shine br
+o shine uma biblioteca muito boa não é
+rio tem o seu equivalente também no pai
+então não vou saber o nome manche mas
+tem o felipão deve saber
+depois ele falou pra vocês têm o cofre e
+pra mim não é pra gráfico nénão gráficos
+mais elaborados e interativas então o
+down e também dá pra fazer no shine
+também é bem legal da fazer próximo do
+shine mexe
+há dez anos eu já vi também um negócio
+de sentido andar em bruno e também não
+deixe meu nome é isso aí é o próprio não
+é repórter também é beleza
+é aí eu também desenvolveu o aplicativo
+só que foi o cs pró é uma linguagem
+desenvolvida pelo pelo bug rolar de
+censo dos estados unidos é e ele serve
+pra você fazer questionários né
+aí eu desenvolvi esse aplicativo de de
+coleta no caso ali pra saber como está a
+saúde ele dos quilombolas como é que
+está o acesso
+boss e os indígenas também né aplicar os
+questionários e essa é sua aplicação ela
+pode rodar android também se perde e
+puxa já bota no android já aí os
+recenseadores e os no caso observadores
+eles iam lá no
+um próprio celular vezes show
+na verdade o drm seu dispositivo móvel
+de coleta do ibge
+ele é um ele é um celular tá eu não falo
+pra ninguém não porque ele não gosta que
+falem
+ele tem aquela capa bonitinho pra ser só
+acha que não é um celular mas é um
+celular e às vezes é um tablet também é
+então é basicamente pega o que você
+desenvolveu e coloca no android lá pra
+cá pra eles fazem a coleta né
+então basicamente foi isso que eu
+trabalhei também de de aula não
+exponencial concursos e aí era mais
+voltado para fiscal e agora toda anual
+no país excel gr e estatística também é
+um site novo é que aborda e excel r
+python é tem ciência de dados também
+agora vai a gente vai pegar um pouco
+mais forte nesse sentido há também é bem
+legal de repente dá pra conferir lá
+também é aqui na verdade porque eu gosto
+de falar assim essa mesma que era
+diferenciais a que o cinema está aqui
+foi pros estudante lá então então
+estatística vai ser tranquilo é porque
+eu só tirava 10 no ensino médio é cara
+dele será será que vai ser nem o haiti
+hoje vamos entrevistar ele o estudante
+que estava explicar o que faz um
+estatístico é ninguém sabe quando você
+pergunta assim ninguém sabe né nos
+primeiro 13
+a iacc eu não sei se eu acho que as
+carinhas estão na frente da mãe tenta
+tirar aqui minha família não sabe o que
+um estatístico faz aí tenha carinho que
+a torcida triste né porque geralmente
+assim é quando a pessoa fala assim
+apostou estatístico beleza uma porto
+forma matemática
+pergunta o trabalho do ibge e no meu
+caso até verdade no momento não é mas na
+maioria das vezes não é tem essas coisas
+também estatística ainda não estava tão
+disseminada nesse hype da
+na sinceridade foi bom que trouxe esse
+lado da disseminação da informação da
+estatística mas também por um lado foi
+ruim porque trouxe uma banalização muito
+grande das técnicas estatísticas e por
+pelos motivos apresentados por mim aqui
+acho que você entender um pouco da
+importância que quer a estatística
+e agora eu quero apresentar também
+algumas aplicações aqui mais
+tradicionais e vai vai vai ficar um
+pouco o meu não sei se
+pode ser o tom que nossas seguradoras
+inteligência de mercado telecomunicações
+indústrias saúde marketing pesquisa né
+academia ou na finanças
+você pode ter a análise acompanhamento
+de carteiras de investimento e
+transações financeiras
+você pode ver ali à colecta sair a
+carteira que eu fiz ali será que ela tá
+rentável assim não tá né
+essa parte mais financeira da parada
+modelo diz coragem de crédito aplicado
+empréstimo por ser a que eu eu sabendo
+as informações da pessoa provavelmente
+eu vou oferecer empréstimo para aquela
+pessoa que está me devendo
+eu sei que ela tem um histórico que deve
+ela não cumpre com as suas obrigações
+mais tempo como você pegar informações
+diversos lugares
+hoje em dia não você pode tenha ética
+também na parada né
+você não pode sair a pegar a formação do
+facebook da galera entendeu pegar a
+torto ea direito sem pedir autorização e
+tudo mais
+às vezes acontece infelizmente não é
+mais não é uma boa prática é normatizado
+até a empresa que vende e dá pra caramba
+lá não tem um rapaz que saiu do ibge ele
+foi trabalhar no pingo né
+eu vou voltar a mostrar que a iniciativa
+dele depois fica mais fácil falar que
+durante o pan não atrapalhar a análise
+fluxo de caixa e ver se está entrando
+mais do que saindo o dinheiro da empresa
+por exemplo chance de acontecer o
+sinistro que é um sinistro sinistro um
+roubo por exemplo acontecer um roubo na
+sua rua por exemplo será que você acha
+que se você mora no lugar onde são
+roubados muitos carros
+será que é mais provável de ser mais
+caro esse seguro o mais barato pra você
+entendeu porque a chance de de acontecer
+um sinistro natal rua é muito maior do
+que em qualquer outra rua então o cara
+vai vai cobrar
+os caras e dependendo do número de fluxo
+de pessoas passando naquela rua tem
+diversas variantes que se pode
+considerar pra pra tá fazendo uma
+estimação ali de ver se aquele cara ali
+é ele vai vai vai ter uma probabilidade
+alta não de acontecer um sinistro com
+ele calcula o preço do valor do seguro a
+mesma coisa que eu falei da do preço na
+gestão eficiente do por telefone né
+também os aplique um pouco ali da
+carteira de investimentos projeção
+indicar tendências meteorológicos você
+fazia ali é projeção do mercado é como é
+que como é que está a minha aceitação no
+mercado e tudo mais é melhorar o
+desempenho das empresas no lucro evelyn
+onde você pode otimizar benchmark
+intimar que é uma prática assim você
+olha pra fora da sua empresa e você vê
+os seus concorrentes o que eles estão
+fazendo o que eu posso agregar um
+negócio que vai me dar uma vantagem
+comparativa em relação a eles por
+exemplo esse sentido melhoria de
+processos análise de satisfação dos
+funcionários será que os funcionários
+eles estão gostando da empresa estão
+querendo me deixar
+então é importante que você tenha
+pesquisa de clima é da empresa para você
+entender como é que tá funcionando será
+que eu consigo dar algum tipo de
+vantagem por exemplo sei lá eu descubro
+um pelo pela exame dos meus funcionários
+que eles vão ficar doente
+será que eu não posso pagar uma academia
+pra eles para de repente diminuir esse
+risco né
+tem uma série de jogadas se pode fazer é
+a demanda da economia controle de
+qualidade pesquisa de mercado colocar um
+produto né
+julinho por exemplo a starbucks vai ter
+aqui também na apresentação starbucks
+onde colocou uma filial do starbucks
+será que eu coloco no shopping será que
+eu coloco numa metrópole tem tem
+diversas formas de você analisar e ver
+qual o melhor lugar para colocar essa
+filial por exemplo
+o teste de eficiente de remédios e
+desenvolvimento de novos medicamentos
+se um remédio já está na praça e eu eu
+elaboro um novo remédio como é que o
+teste desse remédio é feito com
+estatística são taxa de hipóteses que a
+gente aprende a inferência estatística
+você vai ver se um remédio mas será
+igualmente eficiente que o outro ou se
+ele traz ali um ganho significativo para
+você você tende a deixar aqui né porque
+por exemplo eu não estou interessado em
+mudar o remédio matar uma pessoa por
+exemplo um risco grande nessa tem que
+trabalhar ali com risco o risco baixo
+associado né
+então a gente já eram geralmente trata
+com nível de significância baixo né
+o usual gerland a 5 5 10 e 1 por cento
+só que a gente tende a baixar mais
+quando há algo mais arriscada nessa
+gente vai matar alguém tem que ter um
+controle na parada sabe então tem que
+ter um negócio bem rigoroso combate à
+fraude nos hospitais foi um caso que eu
+falei que eu trabalhei epidemiologia
+será que quando a gente sabe é que
+quando tem um calor maior tem uma
+proliferação de mosquito maior é porque
+acumula mais água chove mais então vai
+proliferar o mosquito então quando que
+vão ocorrer essas peças epidemias né é e
+também entender quais são os
+determinantes nos fatores que causam a
+gente pode entender isso como fatores
+sazonais também por fatores sazonais são
+um efeito calendário por exemplo é a
+gente pode considerar nesse caso da
+epidemiologia o calor no caso verão como
+uma sazonalidade vai ter um projeto
+padrão atípico na quando for geral
+entendeu da mesma forma que na loja por
+exemplo se tiver ali dia das mães natal
+isso isso são efeitos sazonais e com
+efeito calendário por quê porque o meu
+natal as pessoas tendem a comprar mais
+quando o dia das mães as pessoas tendem
+a comprar imagens
+então você vai ter uma diferença naquela
+tal você tem que ter que incorporar às
+vezes no seu modelo está a gente tem lá
+em séries temporais por exemplo ajustes
+que você trabalha lá
+com hot wings outros métodos para se
+incorporar à sazonalidade dos modelos
+mais análise empreendida anúncios como
+mensura né
+se eu tô fazendo um bom marketing jornal
+né análise de tendências do mercado para
+identificar padrões perfil de
+consumidores que quitaram quem está
+comprando o produto né quem são as
+pessoas que comprou meu produto quem são
+os personagens nem do marketing
+ou será que são as pessoas que têm de 20
+a 35 o youtube é bem legal né pra saber
+se lá no meu canal é de 37 anos de 25 a
+45 é onde tem mais gente a maioria homem
+é casa né infelizmente a gente está
+pedindo ajuda do mineirão para trazer na
+mulher o canal é porque há fogo porque
+tentei o homem pra caramba que negócio
+lá na tecnologia em geral nem a gente
+tem que eu acho que a gente tem que
+incentivar porque as mulheres elas são
+até melhores que a gente quer uma mulher
+dirigindo dirige passa batom meu celular
+olha povoado cara de carne é muito muito
+mas muito acima da gente não tem como
+não é aqui
+a pesquisa de novos métodos estatísticos
+desenvolvendo metodologias é a parte
+mais acadêmica né trabalharem governo
+nem desde é para vários homens pra você
+pode trabalhar
+você pode ministrar disciplinas nas
+faculdades escolas de nível médio
+técnico
+aí beleza nessas operações tradicionais
+não vamos ver o que é novo né ai tem
+vida do sport geometria streaming
+serenata de amor aplicação de táxi maine
+pingo eo esi mais de vamos lá então
+candidata
+aí eu te o conceito de rotina os
+equipamentos conectados no celular
+a geladeira lhe que mede a pressão o o
+celular que tá ali conectar os seus
+dados o tempo todo a gente está sendo
+perseguida pelo google o tempo todo a
+gente está em qualquer lugar e o google
+está falando que você tá ali né
+é bem vazio parada mas acontece
+eu estava vendo outro dia um alto posto
+no linkedin que ele desligou idade dele
+e ofereceram mais barato aluguel de
+carro pra ele um bagulho design porque
+isso é falta de ética não pode né você
+ser por pela sua pessoa você cobrar mais
+caro que não na falta de ética
+a iacc no caso da naquela desenvolver um
+tênis que no caso você vai caminhando e
+ele vai gerando dados acerca da sua da
+quantidade que você caminhou na sua
+pressão nã os seus batimentos cardíacos
+tudo mais então agora eu tinha isso os
+objetos conectados danone o do grego
+nele é muito perecível então você tem
+que fazer utilização de rota para chegar
+mais rápido porque senão ele estraga
+então você tem que ter uma logística de
+big data pra poder fazer essa otimização
+de trabalho que nem falei você tem que
+saber onde você vai colocar as lojas
+então você tem que fazer uma análise
+estatística ele entender quais são os
+locais que você vai vai entrar mais né
+o drone lá na embrapa
+eles estão usando pra você coletar por
+exemplo este não fotos né da da
+plantação e aí vem essa planta ela está
+estressada você não tá ela está
+produzindo bem né
+então é um avanço grande é porque você
+por mais de um drone que tirando foto e
+você consegue avaliar a qualidade da
+tradição um negócio bem demonstrado um
+tempo legal
+isso aqui é uma ocupação tradicional mas
+eu acho que a forma de que ela está
+sendo feito acho que é um pouco
+diferente né
+vou em verificar a eficácia de
+determinado jogador observando a
+freqüência com que ele conversa os
+pontos para a equipe
+você pode também avaliar aquele jogador
+em específico quanto às vezes ele marca
+né
+é aonde ele está jogando na quadra se
+ele está permeando faz aquele mapa de
+calor é um tipo no futebol aonde que
+aquele cara está percorrendo mais na
+quadra e tudo mais né pra poder você
+entender né
+tem um filme muito legal como handebol
+tá é um ele é um filme que um jovem
+a economia ele auxilia um cara que é um
+diretor do oca andré diz a construção de
+um time competitivo do nada assim
+pegando caras que não eram tão bons
+assim mas o cara consegue usar a
+estatística de tal forma que lhe dá a
+vantagem do time dele mostrar um time
+bem concisa junto e ele consegue chegar
+só no milan eu chegar na final e na
+nessa nessa competição tão lembrado
+agora mas vale muito a pena mexer senão
+é melhor no futebol nem será que eu
+consigo identificar um neymar por
+exemplo na base de dar na base de dados
+de 1 nas categorias de base por exemplo
+imagina a quantidade de dinheiro que eu
+ganhar isso não identificasse 11 neymar
+lá na base na na na categoria de base da
+base né
+antes dele entrar pro os grupos é mais
+oficiais e tudo mais então tem esse tipo
+de coisa você pode ver a quantidade de
+passes certos chutes a gol há o mapa na
+cor o atlético na cloud do calor na aije
+mettre é você pode pegar ali aquelas
+decisões né dos maiores litigantes das
+ações por consumerista da justiça
+estadual para identificar padrões né de
+litígio é quando estão brigando na
+justiça né
+eu entro no quarto com a claro ela tirou
+sei lá fez uma cobrança indevida pra mim
+entrou na justiça para cobrar da claro
+claro é um litígio vista a isso aqui é
+uma iniciativa da associação brasileira
+de endometriose e china o volume de
+trabalho proporcionadas processo da
+matéria de empresarial na análise
+exaustiva dos processos de recuperação
+judicial recuperação judicial quando a
+empresa ela estava linda e ela é de
+recuperação judicial para tentar não
+falhe a caracterizar a taxa de reforma
+reforma é o juízo ele deu uma decisão em
+segunda instância ele pode reformar ou
+não a decisão que lhe deu então quando
+estão sendo reformados tudo mais
+analisar o tempo de processo de adoção
+também uma iniciativa bem legal isso
+contexto na análise do texto
+a gente tem um documento lá você
+consegue fazer o cerro analisar ele
+fazer análise textual a aec hamas não
+tem uma ampla variedade de dados gerados
+em aplicativos móveis web e ea diferença
+você trabalhasse em streaming é como é
+que eu tome decisões em tempo real
+o dado está chegando pra mim eu tô
+querendo tomar a decisão em tempo real
+como é que eu faço então é um desafio né
+não sei trabalhar com dados em tempo
+real
+análise sentindo tempo a no meu canal
+está de dados
+o clube é só cachoeiro cientista de
+dados da loja como é que ele fez 11
+vídeo lá pra análise sentimento quando
+quando estava na época das eleições né
+aí será que como é que estava em relação
+ao twitter é o sentimento das pessoas em
+relação aos presidenciáveis né
+será que alguns estavam mais favorecidos
+ou não e faz esse tipo de análise bem
+legal a sede não é também lá está
+entrando se eu não me engano tem também
+hora de cair mas fonte clique lá com
+nicolas conceição aí análise de janeiro
+de músicas nem o meu amigo do ibge é que
+agora ele saiu também para abrir um ele
+está em como rede labuta pagamento tiago
+dantas
+ele fez um mapa da spotify
+você pode obter músicas alguns artistas
+usuário deve fazer também alguns
+gráficos de similaridade também dá fazer
+um monte de coisa legal lá é bem
+interessante a gente usa os dados do
+spotify mas é é um sentimento bom até
+monte rótulo hotton o gênero das músicas
+não acho que o usuário vai gostar da
+música aplicação bem melhor e isso aqui
+uma monografia da bruna monnier world
+ela fez um pacote shourd que ele faz a
+os crepes
+o clube e você tem os dados das músicas
+por meio de raspagem é bem legal também
+isso essas iniciativas aqui estão todas
+lá então é o pingo
+ele é um aplicativo que o rapaz lá ele
+inclusive a sós ele saiu do ibge é pra
+já em resoluções da empresa do pino que
+seu aplicativo fazem o aplicativo
+colaborativo
+você baixa no android tem também para o
+sna manhã você baixe o aplicativo e ele
+te as pessoas que acontece quando você
+vai fazer compra você tem a nota fiscal
+certo quando você tem a nota fiscal você
+passa o qr code ali na pelo próprio
+celular e ele incorpora todos os
+produtos daquela nota fiscal ou seja no
+brasil todas as pessoas estão
+colaborando mandando em notas fiscais e
+eles têm todos os produtos ele consegue
+comparar os preços
+então eles tentam impedir dizem na sua
+região onde comprar aquele produto mais
+barato por exemplo eu fiz aqui o eu sou
+amante de kit kat então eu fiz aqui
+peguei kitkat aqui daqui de casa
+aí eu fiz a comparação que eu peguei o
+mundial extra casa e vídeo
+a gente vê aqui eu acho que se eu não me
+engano tem uma diferença aqui de mais de
+100% e 200% cela de preço o negócio
+assim absurda você pegar comprar remédio
+também dá pra comparar remédio então
+negócio de utilização pública é bem
+interessante mas na verdade é
+interessante presente e para eles também
+porque porque eles ele não pra eles isso
+aqui não é tudo gratuito não tem mais o
+que eles ganham esses ganhos para os
+preços dos produtos e que eles fazem com
+isso eles vêm pra poder às pessoas que
+trabalham com índice de preços por
+exemplo nós precisam desses preços
+então imagina é ele ele ganhou bastante
+dinheiro tendo essa informação de preços
+entendeu então eles conseguem ganhar
+dinheiro em cima disso aí beleza é isso
+aqui foi uma iniciativa do
+com a prefeitura do rio para otimizar o
+tráfego não será que quando eu sei que
+os usuários estão me mandando lá onde
+que houve acidente onde que teve gargalo
+no trânsito
+será que eu não consigo otimizar meu
+trânsito sabendo ali pelo lazy onde as
+pessoas me indicaram onde tem trânsito
+onde não tem
+a iniciativa da prefeitura não do rio
+com esses aqui uma iniciativa
+sensacional não sei se todos vocês
+conhecem serenata do amor tá é foi foi
+uma iniciativa de um cientista de dados
+ele é pós graduado em ciências sociais
+ele tem doutorado em ciências sociais tá
+então aí cai por terra também as pessoas
+que têm preconceito contra as áreas está
+o cara ele sabe programar melhor do que
+a gente às vezes que é da área de exatas
+e ele veio da área de humanas em um tipo
+a ciência de dados o legal é que abraça
+todo mundo e esse cara ele teve uma
+idéia fantástica de controle dos gastos
+públicos que acontece todos os deputados
+cada deputado ele tem 44 mil por mês por
+mês
+o mês com comida passagem de avião
+combustível
+tá 44 mil
+aí os caras de pau além disso eles
+pegaram a nota fiscal na gestão pública
+esse projeto é público as pessoas podem
+colaborar inclusive é aberto
+eles pegaram essas notas e avaliar um
+é aonde está tendo um gasto mais
+elevado
+estranho né aí que eles viram que uma
+refeição um safado gastou seis mil
+duzentos e cinco reais e um dia só e uma
+refeição é 30 tanques de gasolina que
+custa tudo nosso
+tá tá pode falar
+o absurdo é tanto como disquetes pra
+gente mostrou algumas coisas tão absurda
+que pegou é deputada gastando e de
+reembolso de nota
+gasta no motel não mostrava a mãe eu sei
+oq a bebida alcoólica em las vegas khan
+o cara o cara foi pela janela e pediu
+uma bebida alcoólica e botou na conta
+total sendo ação é que tem 2013
+dois deputados que gastaram três
+refeições no mesmo dia e 209 deputado
+das 44 mil o máximo que eles têm para
+gastar entendeu então é isso imagina
+isso a gente tem 513 deputados se das
+128 milhões ea do nosso bolso joga de
+forma tão absurdo grande ea gente
+consegue melhorar no caso aí a
+impunidade nas coisas que a gente pode
+por exemplo indicar quem são esses caras
+e está tendo uma uma melhor gestão na no
+nosso país e tudo mais então a gente
+consegue convidado de melhorar o nosso
+país e por isso que a gente bate lá no
+censo é que a gente precisa dos dados
+pra saber que a gente é o o o censo
+mostra que a gente é o quanto somos né
+então por isso a importância do censo
+a gente precisa ter dado todos os países
+têm senso é aqui big data mostra até
+quando o funcionário ficará doente eu
+falei um pouco disso né
+dados os exames dos funcionários não há
+idade e me serviço em cigarro uso de
+medicamento pressão será como que se
+identificar quando ele vai ficar doente
+será que não não consigo fazer
+iniciativas pra pra que ele não não vá
+ficar doente está a indicar a qualidade
+do vínculo ainda até nossa milano do
+grupo falou que ia fazer um negócio
+desses nem do vinho
+eu lembrei que da apresentação o cara a
+encolher à tona o clima da região e viu
+as características das melhores safras
+será que ele consegue identificar se ele
+sabe quais são as características dos
+melhores softwares
+quando que vai ter uma uma safra boa por
+exemplo o netflix lá foi baseado nas
+preferências
+será que eu não consigo identificar qual
+filme você tem mais probabilidade de
+assistir pelo sistema de recomendação
+deles é bem legal né
+então acho que basicamente era isso acho
+que se estender um pouco mais a desculpa
+espero ter mostrado um pouco ainda das
+atividades que você pode ter né na
+profissão da estatística tanto na
+estatística quanto nas cidades ea
+importância de você entender o que está
+ali por trás né do do rodado código da
+parte do ponte clique né pra você ter
+tão e controle do que você está fazendo
+porque por se você pega gera um modelo
+que num deu uma curiosa é legal como é
+que você faz para refinar esse modelo
+vai tentar selar transformar variável
+tentar entender o padrão o que está
+acontecendo pra elas tratar sazonalidade
+será que eu tô com um problema de saúde
+na unidade
+eu tô vendo época atípica janela
+tentando tentar enxergar padrões isso é
+estatística que mostra pra gente
+acho que basicamente é isso
+obrigado pela tua um convite a vocês
+tenham gostado em algum momento isso
+aqui é dinheiro que tem o que eu tenho
+uma dúvida comum é o momento de
+compartilhar um homem tocha alguém
+alguém tem alguma dúvida fica à vontade
+rica não tem um campeão não manda aí que
+a gente tenta aí que a cidade pergunta
+com os universitários têm filipe eo
+rodrigo ajudar também o diário fala e
+fala aí
+é disponibilizar alguns dados não é isso
+e achei uma tabela de municípios na uma
+vez que a emissão com certeza deixa eu
+te falar um evangélico tem o bem me
+atenho sigla que tem todas as bases de
+beringel abertos pra você
+inclusive você pode montar tabela direto
+e puxar o dado foi muito bom
+o sistema do dm é excelente
+o elegeram ele tem também um outro
+sistema que agora no entanto não fugir o
+nome mas esse sistema é interno
+mas ele é melhor do que benéfico ele
+flexibiliza as tabelas mas o bm é uma
+ferramenta fantástica para você fazer
+ali diversos cruzamentos para você pegar
+e as variáveis de diversas pesquisas de
+beja
+acho que é uma e muito utilizado pelas
+academias faz mestrado doutorado a
+galera uso dos dados do censo
+os dados da pnad do das pesquisas de
+indústria produto tem várias pesquisas
+de jean
+acho que vale a pena conferir é uma vez
+uma cheia na tabela de municípios na
+nossa missão é legal
+depois eu fui ver já era forte que tinha
+os dados mas é lá não às vezes você tem
+às vezes você tem algumas
+inconsistências na área geográfica que
+ele divulga porque a gente não pode
+divulgar em determinadas as porque têm
+sigilo estatístico então você tem que
+ter uma uma certa restrição diário pra
+você não identificará unicamente aquela
+empresa ali e você tá quebrando sigilo
+né
+o pessoal falava coisa com coisa de mim
+mesmo
+sério eu gostava de saber o que vamos
+fazer uma vamos fazer um aviso uma
+qualidade que tinha quanto no início e
+quando ficar até o final era galera taxa
+que se manteve
+até não conseguir não preciso nem fazer
+logística aqui para entender a razão da
+parada é a massa o ajude também fica à
+vontade de elton
+assim quando eu tô chegando está detido
+na central a falta de uns materiais que
+expliquem de forma didática é é as
+medidas de posição as medidas de
+variação por exemplo é treinador ao
+jornal do canal oi chegou às vezes há um
+lado o canal ainda não é assim mas coisa
+mais útil por exemplo média é esse isso
+mediana esse é exatamente isso a equipe
+a situação as melhores situações que usa
+somente essas medidas como falar e
+entender por exemplo nessas nessas
+instituições assim é melhor utilizar
+mediana por isso por isso por isso e nem
+se toca numerosa da américa
+assim a gente sabe os a gente sabe a
+teoria mas na hora de fazer as análises
+ainda não sabe qual a medida usada de
+forma melhor
+é interessante que trabalha no caso
+para você entender como é que estava com
+minha minha variável em média representa
+na média um ponto de equilíbrio e ela é
+volátil
+se você tem observações muito distantes
+do seu conjunto a média vai disparar e
+bolatti já mediano não a robusta
+se você pensar por exemplo você pegar lá
+1 2 e 3
+tá 1 2 e 3 a média que 356 divididos por
+3 2
+tá aí eu pego três bottons em na parada
+vai ficar sem com 112 a 103
+então olha quanto você jogou pra média
+longe entendeu então uma observação não
+joga também de longe
+agora por exemplo a mediana né a mediana
+pra número ímpar
+ela é o do meio aqui por exemplo tá
+então quando você tem 1 2 e 3 que
+mediano ou dois quando você tem 12 e sem
+quem é mediano dois também
+ou seja foi influenciada pelo sangue
+mais robusta e o que você tem que fazer
+pra entender
+você tem que trabalhar também com o
+conceito de medidas de dispersão que vai
+te dar o homogêneo
+o seu gol só variável por exemplo que
+que significou uma unidade né
+em termos dos valores por exemplo o
+sangue é muito maior do que 1 e 2
+então meu conjunto heterogêneo tá por
+que por que ele disse é muito da média
+tá então é a gente precisa trabalhar com
+medidas de variação que no caso entre a
+variância desvio-padrão 800 variação eu
+aconselho você usar o coeficiente de
+variação horta
+o coeficiente de variação é o
+desvio-padrão dividido pela média
+então ele é um é como se fosse um
+desvio-padrão padronizado pela média
+porque a variância é um número gigante
+tá
+quando você tira o desvio padrão ela
+fica menor mas como é que quer um que eu
+vou usar como referência o que que um
+desvio padrão baixo o que um time padrão
+alto se eu não tenho uma comparação com
+outra variável por exemplo agora pois
+sente variação dimensional e quando você
+coloca o desvio padrão pela média por
+exemplo se você obtém um coeficiente de
+variação maior que 25 60 em geral os
+dados são heterogêneos quando a menor do
+que a 25%
+eles são homogêneos e quando eles são
+homogêneos não posso usar média quando
+eles são heterogêneas é melhor usar
+armas medidas mais robustas que entra
+mediano na moda né tá nesse caso nesse
+caso o primeiro tenho que olhar a
+expressão dos dados é exatamente um
+exemplo muito dispersos
+é melhor usar a mediana ea média é isso
+que é mais robusto exatamente isso é eu
+vou te dar um exemplo por exemplo a
+china não é você quer lá estimar vou
+usar a minha monografia eu quero chegar
+a um preço predeterminado
+outro brasileiro né o brasil só que
+beleza
+será que todos os estados eles têm a
+mesma vulnerabilidade dos preços não né
+é diferente mas será que eu consigo pelo
+coeficiente de variação segmentar meu
+conjunto de forma que eu pegue os que
+são melhores para
+chamar por exemplo se eles são mais
+homogêneas eu consigo estimar eles
+melhor
+então se eu pego estados em que o meu
+preço ele é mais homogêneo eu consigo só
+fizeram má shindan eu vou eu vou ter uma
+couraça melhor do que se eu pegar um
+negócio que total de voar do tipo bolsa
+de valores
+aí é um negócio mais avançados e tem que
+usar modelo h chat negócio lá de séries
+temporais um bagulho mais lê fica mais
+avançado mas fora isso quando você trata
+trabalhando com você tem que tentar
+achar nichos mais homogêneo no seu
+conjunto
+acho que a ideia mas analisa se eu
+respondi a essa pergunta é é assim é
+porque tem alguns exemplos de notas por
+exemplo notas de de alunos em a sala de
+aula então você tem lá um monte de 11
+2221 e de repente tem um carácter desta
+média ela vai representar ela não vai
+pegar aquele cara que criou 10 mais ou
+menos isso assim se você fizer a média
+ela vai estar muito influenciada pelo 10
+então ela vai ser ela vai ter de ser um
+valor muito maior se você tirar dez dias
+em média
+você vai ter uma diferença entre a média
+que você fizer e anadia com 10 pode
+falar das melhores ferramentas para
+tratar das melhores ferramentas para
+você tratar os softwares então cairá os
+modelos então outline primeiro você
+precisa ter uma análise mas é pontual
+para entender se realmente outline por
+coutela e uma definição ele é uma
+observação que não deveria estar ali
+naqueles com seus dados está a
+observação atípica é atípica no sentido
+de pode ser um por exemplo ao digitar lá
+e disse tem 10 a mais na paragem saiu 10
+a mais na parada hot lap onde está
+errado
+ele é considerado um herói porque é uma
+observação que não representa nada
+agora por exemplo se eu tenho no caso
+dessa sazonalidade eu tenho
+elas foram maiores no natal
+e essas vendas elas são muito maiores em
+relação aos outros caras inove fly
+isso pode ser um ponto influente na
+análise porque porque ela faz parte da
+sua análise não pode simplesmente
+ignorar que existe porque você está
+mudando a cidade então você está criando
+viaje na parada
+então você tem que primeiro identificar
+isso será que a omt lá é mesmo tentar
+entender esse tipo de coisa tem
+distância de cook tem algumas coisas
+para você usar pra lá e outra forma de
+você tratar o atlante tira identificando
+o site lá e se você sabe que você
+raramente me descobrir que aquilo
+realmente não há uma observação do seu
+conjunto é difícil achar isso é mais por
+exemplo se você opta você pode optar por
+tirar aquelas a observação e nem se elas
+forem outline de fato né
+você pode também optar por trabalhar em
+classes porque você por exemplo vamos
+dizer que você tem no seu conjunto é
+tanto salt lá está aí você transforma
+aqueles dados em classes que são classes
+você pega de eu tenho de que eu tinha 1
+2 3 4 5 6 7 8 9 10
+eu quero lá beleza eu quero do 1 até 14
+essa é minha primeira classe aí eu quero
+a minha segunda classe no caso aberto
+nem aí fechado fechar em 4 até 6 ou seja
+criar classes que aí você vai diminuir a
+influência do site lado porque tá bom tá
+tudo é o bologna quase deu quando a
+gente está trabalhando com muitos dados
+a gente usa classes nos dados por isso
+que tem ali o histograma não é para você
+entender a distribuição então essa idéia
+é minimizar o efeito do chile e pisado
+lá na parte de crédito também quando a
+mariana fizeram o vídeo de
+de adimplência ó você vai ver que ela
+vai transformar em classes para poder
+tirar esse efeito dos autores
+essas classes eu posso usar cordas para
+as classes elas são criadas naturalmente
+assim por exemplo r é uma função cathita
+você bota a quantidade de classes d e e
+as costas por exemplo no caso de
+adimplência ele tem um risco alto e tem
+um risco baixo e tem um risco mediano 3
+kossi entendeu eu definir as se ele tem
+tanta probabilidade e baixo se ele tem
+tanta propriedade remédios não olha a
+escola de negócios também é isso
+exatamente vai depender da regra do
+negócio porque depende depende do que
+você está trabalhando
+se você for trabalhar por exemplo a
+fazer para o meu imóvel considerado
+imóveis que são caros medianos e baratas
+vai ser diferente de considerar larga no
+alto risco baixo risco
+cada negócio você vai ter uma regra
+diferente
+pergunto uma coisa só
+é isso que a gente usa o seguinte o que
+acontece
+a agente não agente têm atribuições tá
+distribuições das variáveis está só que
+a gente não tenha essas distribuições
+tabelados
+tá se não tem uma tabela para aquelas
+distribuições como é que eu vou colocou
+a probabilidade se eu não sei qual é a
+distribuição tá a gente pode tentar
+descobrir de onde a tela distribuição
+veio pra que a gente pode fazer taxa de
+referência tá de distribuição que
+enquadrado como guarulhos - quem você
+tenta descobrir
+a distribuição vai saber mais dos seus
+dados tá e você pode também se
+aproveitar do teorema central do limite
+tá é um tema famoso na estatística que
+diz que quando você tem a soma uma média
+de vários relatórios que no caso vários
+atores você pode entender como próprias
+variáveis mesmo tá é quando elas são
+devidamente padronizadas e padronizar o
+que tirará médio dividir pelo desvio
+padrão
+tá aí você vai cair numa normal padrão é
+normal 01 o que são essas variáveis z
+elas são os farelos padronizadas é você
+está levando para algo que você não
+conhece para o que você conhece então
+ali você tem uma facilidade de você está
+descobrindo as probabilidades porque
+antes você tinha uma distribuição que
+você não conhece
+agora você tem uma coisa que é conhecida
+você tem as probabilidades ali naquela
+naquelas tabelas né
+então você consegue ter há a
+probabilidade associada clorís cello e
+tem o também a quem fala primeiro
+boa noite tiago é eu queria é perguntar
+'você é recomendações para quem tem
+interesse sim de dados mas não vem da
+área de estatística
+você mencionou no início aquela
+definição tridimensional da ciência de
+dados que envolve computação e envolve
+matemática estatística envolve
+conhecimento do negócio deixando
+conhecimento de negócios de lado que não
+é o assunto da noite quando você vê as
+discussões sobre estes dados na internet
+a impressão que eu tenho é que as
+pessoas dão muita ênfase à parte de
+computação e esquecem da matemática está
+da esn o que eu vejo que o vivi alguns
+cientistas de dados quer dizer é o
+seguinte olha o estudo ninguém
+nunca precisa saber de estatística e
+passa maior ter um maior parte do tempo
+hoje estudando quais programação banco
+de dados
+big data e 7 que tipo de recomendação
+você pode dar é pra quem vem de fora de
+estatística precisos a estatística e
+muitas vezes não têm ideia é do mundo
+tanto de estatística que precisa saber é
+pode de repente cometer alguma faixa
+estatísticas em saber que tipo de
+orientação você pode dar uma cara eu
+acho que primeira primeira coisa é você
+definiu nenhum um cara que você quer
+atuar
+primeiro você quer ser você quer ser um
+cientista de dados
+você quer ser um engenheiro de dados ou
+seja você quer você quer dispor a
+infraestrutura necessária para você
+fazer a análise
+você quer trabalhar os quer saber a
+implantar honrado pi uns parque
+trabalhar com um para legislação isso o
+engenheiro de dados é que faz a ele que
+proporcionam um ambiente para você
+trabalhar
+entendeu agora isso no brasil ainda não
+está muito definido está ainda tá muito
+jogado assim a galera pega acho que é
+único não faz tudo e não faz nada né
+tipo acaba de teorema do pato é fato
+anda facto nada patton não faz o rima
+direita
+então é é a ideia é assim primeiro você
+descobrir povo beleza eu quero ser o
+cara de infraestrutura de ti aí né vai
+proporcionar o processamento a parte
+dele de da paralisação e tudo mais
+o dado nem como de de forma é a entidade
+mesmo aquela parte mais tr mesmo
+ou você quer entender para fazer a
+análise entender o soldado de uma forma
+qualitativa nem fazer análises
+preditivas você olhar pro patria
+presente para o passado para entender o
+futuro
+você tem o primeiro definir esse tipo de
+coisa
+definido isso aí você vai trilhar o
+caminho eu posso te dizer da parte de
+the estate de estatística tá de da parte
+de cientistas de idade
+tá eu aconselho você pegar por exemplo o
+livro que eu compartilhei lá no outro
+dia um ano num telegrama é o livro do
+rio sabe tá é um livro é assim bem
+didático tá muito ele formou vários
+profissionais estatística e
+profissionais que não são de estatística
+ele é assim melhor livro didático que
+conheço básica assim você é muita idade
+tá dá pra entender fácil com ele as
+coisas então aconselho você pegar a
+entender um pouco mais essa parte né
+tentar é pegar alguma linguagem que aí
+no caso e você eu acho que você deve
+estar estudando python então tentar
+aplicar o que você está aprendendo
+porque é importante porque ele quando
+você está na teoria fica muito um pouco
+fica um pouco vaga né
+agora quando você tá tangibilizam
+fazendo as coisas ali no não erre no pai
+então você entende melhor que a gente
+precisa disso
+o ser humano nós nós seres humanos não
+entendendo muito o que é abstrato
+a gente tem tem que tangibilizar com ele
+pra entender de uma melhor forma
+então acho que a idéia eu acho que eu
+compartilhei também uma uma grade de
+cursos que eu fiz eu posso até mandá lo
+de novo eu eu coloquei num artigo
+consolidado com todas as dicas para quem
+quer ingressar na área tem recebido
+bastante elogios esse artigo acredito
+que de repente pode ajudar vocês não vão
+compartilhar com vocês é e acho que é
+isso cara você ter força de vontade é
+uma área que não não é simplista você
+tem que estudar bastante
+não vou mentir que vai ser fácil porque
+não vai bater cabeça tentativa e erro e
+cada vez se vai aprendendo mais vai
+conversando com a galera network é
+fundamental também pra você
+tavam lindo né e seguir seguir foi indo
+de repente me tarp
+é fazendo curso também é bem
+interessante cara é uma área em que eu
+acho que vai vai te dar um bom retorno
+financeiro tá a médio longo prazo não a
+curto prazo
+tá eu acho que é isso
+tiago uma uma curiosidade
+adicionalmente o estatístico ele era o
+profissional mais indicado pra fazer a
+análise de dados quantitativos aí veio o
+hype da ciência de dados você mesmo
+disse que tem um lado positivo que é
+trazido um pouco mais de de de atenção
+foi a estatística um lado negativo que é
+analisar algumas técnicas estatísticas
+você já viu isso na prática de ver um
+dia antes de dados fazendo besteira que
+um estatístico faria muito melhor porque
+eu acho que é natural do ser humano que
+a gente tenda a padronizar as coisas e
+tentar automatizados com eles tá mas o o
+automatizado às vezes é ficar ali no
+rodado código no apertar o botão e não
+entendeu o que está por trás dele
+então às vezes a gente pode fazer coisas
+melhores
+só que a gente acaba de adquirir falou
+assim ah não só que é difícil perder
+tempo com isso aqui eu posso eu já tô
+fazendo ponto já está fazendo porque o
+google aprendem isso aqui já sei já sei
+na prática então por que não aprender
+isso aqui na parte mais teórica tentar
+entender o que está por trás ele não
+falando pra você pegar integral o
+podia derivada em toronto é pra isso
+você tem que saber um mínimo franco para
+entender o comportamento de dados pra
+você conseguir entender o que quais são
+as características de um bom estilo a
+dor é você saber fazer um mostrar a ele
+pelo chão pra poder num exato análise
+alguma coisa
+algumas coisas básicas assim entendeu
+não é pra você pode virar doutor
+a estatística pegar malucão sabe sair
+desenvolvendo fórmula doida eu inclusive
+eu sou um pouco resistente a entrar no
+mestrado e doutorado
+ela diz que eu não gosto muito desse
+lado da meio da estatística que é um
+monte de de letra grega romana
+essa coisa misturada eu gosto eu gosto
+mais então utilizar as coisas eu gosto
+de trazer a legal
+isso aqui vai virar um diagrama diagrama
+pô
+a fórmula da da aliança vai virar um
+algoritmo de forma que eu vou fazer um t
+a 1º 1º pelo é fácil a soma que tim é a
+pedra aqui pego essas observações tiro
+da média
+a ikea qual será o próximo passo aí vou
+lá e levou o quadrado ainda faço que
+divide por épo organismo porém não tão
+que tenta transformar essa coisa passos
+porque eu acho que a gente tem de melhor
+fica mais fácil de digerir eu não gosto
+muito daquela coisa doida de forma a
+fórmula não e letra a letra doida cão
+camaiore igual a zero porque se a 15
+eu sou contra um pouco essa parte mais
+abstrata é que a gente entende menos pra
+mim acho que às vezes as pessoas podem
+se a clicar ali é o ranking de
+pólio que aquele cara escreveu de uma
+coisa que é
+acho que as pessoas gostem de terça
+essa coisa assim sabe de diego sabe eu
+não gosto muito disso não não é por aí e
+e e seus amigos tiago profissionais da
+estatística
+professores de estatística é pessoal
+ligado ao conselho de estatística como é
+que eles vêem a emergência dessa área de
+ciência de dados que traz profissionais
+de outras formações
+ele foi isso com bons olhos com inveja é
+com maus olhos como é que é
+então o cara acho que boa tá tirando
+esse lado de deter a banalização e tudo
+mais a
+a preocupação não acertar e rali nos
+pressupostos vezes são ignorados né
+é então as pessoas ficam um pouco bravas
+com isso e tem profissão tem tem tem um
+pouco de lado de por exemplo
+assim sendo no dia uma palestra de um
+estatístico formação que é o domingo na
+rj cara por já teve vários vários
+artigos e tal é o cara era professor
+emérito a drco e tal
+então ele é bem respeitado e ele virou
+na palestra assim ele virou foi nesses
+artigos aqui eu fazia da taça em si à
+moda antiga
+ele foi crítico assim sabem por quê
+porque realmente é o corpo da ciência de
+dados
+ele está nesta tática mas o que a gente
+precisa entender que o que mudou e mudou
+a forma de você capital dado que o
+processamento é houve um barateamento
+muito grande dá no armazenamento no
+processamento
+então você consegue ter a minha
+paralisação também então você consegue
+ter coisas processados mais rapidamente
+evoluiu a colina ii e também eu me perdi
+um pouco como aí é que eu estava falando
+do barateamento e tal
+o processamento me perdi com a festa
+pergunta é sobre a visão que os
+estatísticos têm sobre a o hype da
+cidade que traz profissionais passou
+essa beleza estava falando então o que
+mudou foi que hoje em dia a gente
+consegue processa vídeo imagem texto
+áudio então a gente consegue captar da
+diferente que precisam de técnicas às
+vezes diferente
+apesar de a gente usar muito estatística
+também dentro dessas dessas vertentes é
+a forma de você captar esses dados
+isso a gente precisa ter cara
+saber processar e precisa saber o
+conceito lá das padronizações de teir
+entidades e tudo mais que você sabe quem
+é da área de ti está muito melhor do que
+eu isso ea gente tem que saber também é
+parte uma dada a dimensão dos bancos né
+fazer um lifting joy option jóias da
+vida né
+é é aí entra também a parte muito da
+programação que antigamente era muito
+banalizada pelos estatísticos tá
+antigamente a gente tinha um pouco assim
+estatísticos que não usavam a
+programação estádios que usarão a
+programação tem gente que ia a chute e a
+mais por sais e tal que era uma
+linguagem mais estatística também também
+que nenhum é e tal mas o site é muito
+cara nem tem tempo para fazer grandes e
+tal e tinha parte da galera que usava o
+spss software mais amigáveis né
+é então que as discussões vão evoluir
+durante a discussão tanto dentro da
+estatística também tinha tinha guerra
+com os clássicos e as estatísticas bem
+anos né
+é uma outra forma de você ver a
+estatística também uma outra vertente na
+então tinha muita briga também traz
+estatísticas clássicos dos desenhos hoje
+em dia está mais unificado também graças
+às entidades também acho que houve
+mudanças positivas e outras mudanças
+negativas
+ok tiago obrigado pelas respostas vai
+passar agora pra quando colega obrigado
+qualquer coisa qualquer dono de
+estatística manda lá certo ok
+a distribuição dos kits é por exemplo
+tiveram 11 mas lá no
+no banco de dados e eu não consigo
+identificar o padrão delas eu posso
+fazer um processo pra fazer com crianças
+features tic fica em uma cara de alguma
+distribuição artigos longos policial por
+exemplo o stress pitchers de alguma
+forma diferente você tá tá perguntando
+em relação à admissão da sociedade
+a primeira pergunta acho que é um pouco
+diferente da segunda mas não vamos lá
+o primeiro é assim você quer entender o
+que atua variáveis influenciam também na
+resposta por exemplo pode analisar e eu
+vou levá lo a um pouco pro estatística
+time vai ficar um pouco técnico que mas
+o que acontece quando há modelos
+lineares né modelos lineares
+a gente tem vários pressupostos para
+serem atendidos está suposto normais uma
+distribuição normal porque você quer que
+eles sejam bem distribuídos
+você não quer que por exemplo o modelo
+ea recente pra cima ou sempre para baixo
+e você quer que seja aleatória disse
+você fizer total jesus e racista botar
+toda variável é explica explicativa não
+comento variável ajustada nessas os
+resíduos
+você quer que o seu padrão seja mais
+aleatório possível porque se você
+identificar um colhe por exemplo
+significa que à medida que você está
+estimulando a magnitude da das variáveis
+ator variabilidade alta aumentando
+tá então o que acontece é você tem com
+os pressupostos na tempo e suporte da
+normalidade de jesuítas em o pressuposto
+de que as variáveis não será
+explicativas ela não tem muita qualidade
+tá que a qualidade está a legalidade
+está associado à por exemplo se uma
+variável é muito
+o relacionada com outra variável
+a gente pode ter um problema muito
+grande de multipolaridade entre essas
+variáveis o que isso acarreta
+o que que o que é isso
+eu posso ter uma redundância na
+explicação significa que eu posso
+de repente está com menos uma variável
+invés de trabalhar com as duas eu posso
+tirar 16 ela é tão explicação redundante
+para me avaliar
+assim então é e também gera problema
+também estimação do deter no deus na
+porque é aí é um pouco mais técnica a
+matriz na o determinante para zero e não
+vai ter como estimar que tal um pouco
+mais técnica parada no posto de
+normalidade de resíduos que se lança à
+alta correlação seria também porque por
+exemplo se eu tenho eu sei o negócio que
+chama de processo na omc é uma foto no
+tempo né
+eu tenho ali vários anos só que eu tirei
+uma foto ali daquele ano
+se eu tirar uma foto daquele ano aquela
+variáveis que estão ali elas têm de ser
+muito relacionados porque memória né
+é quando eu tiro uma foto ali eu posso
+estar com um problema de alta correlação
+serial porque as observações do passado
+podem influenciar no futuro
+tá então isso também não pode ocorrer é
+uma outra taxa você faz até vw hors
+grupo teste de normalidade você pode
+usar o shakiro hilton em vários testes o
+modelo de regressão linear itens de
+transporte e logística ele já é
+eu acho mais esses pressupostos em
+árvore de decisão também já relaxa esse
+transporte porque eu ia me agora a
+resposta mas não é mais minha arma é
+respondendo à sua pergunta de se a todas
+variáveis lá
+por exemplo na na parte de modelos de
+precificação
+quando eu tinha que avaliavam seguiu
+exponencial
+eu usava o iene para transformar
+variados isso é uma transformação mais
+variadas
+tá eu posso estar transformando o preço
+por exemplo tranquei no caso foi o y mas
+eu poderia te chamou x também está
+olhando
+tá então eu posso ter uma série de
+transformações na minha variável posso
+usar também a padronização também para
+ficar na mesma escala
+tá não tem uma série de medidas que você
+pode fazer pra entender o comportamento
+e isso vai influenciar no nos
+pressupostos do modelo
+acho que é um pouco isso não sei se
+ainda assim volta para a terra
+mas alguém duvida o agente pode dizer
+que é um idoso da manhã
+caraca
+a gente pode finalizar de cabeça que
+esse período os muito legal né galera
+ninguém saiu mais cedo e também que
+ficou que participou a gente ouve foi
+muito bom muito obrigado
+semana que vem eu vou confirmar data com
+vocês mas às vezes dói legal que vem às
+vezes eu consigo fazer outra de 25 por
+aí
+mas aí a próxima fase eu já vou pra se
+apresentar para vocês o meu projeto com
+a palestra milagre
+eu quero apresentar aumento nem marcava
+macaé também apresenta sua beleza
+fashion
+galera então nossa foto clássica tem
+poder liberar a bile da câmera aí a
+gente aparece aí fazer a foto clássica
+pintei obrigatória

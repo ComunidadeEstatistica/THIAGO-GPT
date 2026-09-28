@@ -1,0 +1,2510 @@
+# Live Marco e Maurílio - Estatística + Inteligência Geográfica
+
+- **URL:** https://www.youtube.com/watch?v=EVEYgzmydsk
+- **ID:** EVEYgzmydsk
+
+## Transcrição
+
+amauri eu fiz graduação em estatística e
+depois fiz o mestrado e demografia em
+campinas na unicamp da graduação já
+comecei a trabalhar um pouco estatística
+espacial algumas análises parciais
+iniciação científica depois mestrado
+também depois empatou 11 anos morando em
+são paulo e seguir trabalhando já uma
+marca histórica o geomarketing
+inteligência geográfica em geral mas boa
+parte do jamari
+há sempre duas consultoria sé algumas
+empresas mas os principais foram a já o
+fim do jejum ea combinados que são duas
+consultorias de inteligente mercado já
+marketing
+depois ela será também trabalhando com o
+modelo de projeto para pensar uma parte
+um pouco a estatística crm mas também
+com bastante chamativo e passei pela
+riachuelo o que é mas é informar mais
+expansão então fazemos depois comprou um
+texto com os estudos mas era
+precisamente a abertura de loja onde vai
+abrir loja o potencial daquela loja de
+venda da loja o perfil da região da loja
+estão trabalhando muito a questão
+geográfica para explicar não só abertura
+de lojas mas também outros fatores não
+isso está rachando quando está no vários
+meses direto do cliente mas em
+consultoria ea prestar consultoria para
+várias empresas um com esse tipo de
+estudo também estão sempre olhando onde
+que dava se acredita que o fator
+espacial possa ajudar possa explicar
+sempre vamos colocar e vamos colocar
+aquele fator espacial ele pra onde que
+às vezes fica muito explica quase todas
+às vezes fico um pouco mas sempre que
+possível e marcos acreditamos muito que
+que a geografia sempre pode explicar
+alguma coisa tende a contribuir
+afinal quase tudo acontece no espaço é
+tem muita coisa que tem uma certa com
+relação à nossa mente aquela com relação
+espacial já estatisticamente a técnica
+mas às vezes uma coisa mas se você
+consegue alguns pressionou mas acontece
+no espaço eles conseguem ser explicado
+certa forma também pela localização onde
+está aquele naquele ponto
+é um pouco da minha história e agora eu
+também tô na catho agora a capa do site
+de empregos
+saiu um pouco do mundo tem jogar fui pro
+mundo mais digital agora a primeira vez
+que torna se muito mais disto o site se
+sentem muito
+motta o mercado conhece matheus mota
+lado a carta
+mateus modo tanto que ensina maria lá
+cinco meses que eu só faz pouco tempo e
+aí tenha outra pegada não só de claro
+parte geográfica mas também tem muitos
+fatores jogar hoje tem mais emprego em
+regiões onde ano a economia está
+diferente você tem uma relação também
+não é clara chega no livro então entrar
+banho então e detalhado mas município
+também algumas regiões e tende a ter
+mais facilidade ao menos facilidade em
+encontrar novos clientes
+o ipp é feita é eu tô na comunidade
+agora falando para os estatísticos
+cientistas de dados e demais
+profissionais é já fez na carreira no
+começo um pouco diferente mas no final
+ali muito parecido com um brilho é
+acabou de falar porque eu sou geógrafo
+de informação é então eu fiz a graduação
+é esse ato na embaixada na geografia
+tanto pra professora de ensino
+fundamental 2 e médio quanto por
+bacharel que que aplicar as técnicas e
+na graduação é nós não temos tanto
+contato com a área de exatas quanto o
+pessoal da estatística com o pessoal de
+ciência da computação por exemplo
+então é nós vemos lagos de resumo
+estatística básica descritiva e por
+exemplo em teoria de que o nome da gente
+entra pra vocês terem uma idéia porque
+obviamente é um curso que ele foca em
+outras coisas que eu acho que um ponto
+de vista que a gente está conversando
+aqui e até soma é apesar de todo mundo
+tem que correr atrás de alguma coisa pra
+complementar porque a ciência é
+constitucional dá para facilitar o
+estudo mas tudo bem interdisciplinar né
+então a gente passou a subir de divisão
+ali é da ciência e no final a gente
+acaba na vida adulta e com um
+decorrer do tempo a gente acaba
+aprendendo coisas novas e o o o ponto
+que eu tenho que destacar dessa parte de
+análise parcial para quem joga a
+formação já falo do mestrado
+o legal é que dentro do curso de
+geografia você vê de tudo um pouco né
+então por exemplo a gente vê muita
+questão prática então nós vamos pegar
+por exemplo e olhar é o que a gente
+aprende em cartografia que a gente
+aprende e sensoriamento remoto não sei
+que todos vocês conhecem mas a questão
+por exemplo dos sistemas de localização
+mais popular de teste mas não é único
+a gente aprende sensoriamento remoto é
+uma questão de imageamento então imagens
+de satélite imagens de drone qualquer
+outro tipo de imagem que seja já
+referenciada e aí tem as mais diversas
+aplicações então você entende por
+exemplo aplicações quando olha a parte
+espacial é na economia mas você também
+olha parte ambiental
+então o espectro de aplicação da parte
+especial para quem faz ou por exemplo
+gera cartográfica ou faz por exemplo é
+geografia até mesmo a arquitetura
+urbanismo em que outros cursos que têm
+disciplinas de análise espacial com o
+ferramental é tecnológico que vê um
+pouco nessa parte tática acabou dando um
+aspecto maior desde a da parte urbana
+assim pode dizer até a parte ambiental
+eu acho muito interessante porque nenhum
+dos cursos selecionados na espm que é um
+curso que é voltado principalmente o
+pessoal de marketing tinha um rapaz que
+ele trabalhava numa usina de açúcar e
+álcool
+então ele pegou essa questão da
+participação da análise parcial de 99%
+da sala e aplicar em questões urbanas em
+questões da marca de 60 m fazendo curso
+de direito no caso da spm para aplicar e
+por exemplo é questão rural questão
+ambiental é e coisas com relatos digamos
+assim então o legal é digamos assim a
+oliva valência mas a questão técnica em
+si eu tive que aprender indo para o
+mestrado então é toda essa parte de
+estatística bar
+a estatística inferencial essas coisas
+tive de fazer disciplinas no mestrado
+então por exemplo fez uma disciplina de
+economia e 3 parcial na fé e na usp que
+foi sensacional mas é um nível altíssimo
+e foi muito legal e muito difícil mesmo
+tempo e ao mesmo tempo o brasileiro de é
+muito legal quando falou no texto do
+professor aqui isso faz quase dez anos
+mas me recordo as aulas até hoje e foi
+muito legal
+então é é aquilo que eu comentei no
+começo então você tem uma base você tem
+uma estrutura que vai absorver o
+conhecimento ao longo da vida isso é
+muito legal e ao mesmo tempo que eu
+estava fazendo mestrado no estado foi em
+cima dele geografia física que me
+perdoem quem é da geografia e não vou
+discutir o nível de epistemologia quem
+conhece a gente divide entre geografia
+humana geografia física
+não existe essa divisão de fato mas é
+uma briga digamos assim entre os 10 e os
+clássicos da ti a estatística a gente
+também tem esse lado da amiga pessoal da
+geografia geografia física é é aquele
+que vai tomar relevo hidrografia
+climatologia essas coisas
+então você tem que ter um embasamento
+quantitativo maior digamos assim do que
+o pessoal que vai estudar já política
+antropologia essas coisas apesar de na
+graduação você vê isso como um todo
+então no mestrado dhabi focando nessa
+parte um pouco mais quantitativa e eu
+trabalhava com maurílio nessa época é na
+combinados é uma que é uma empresa de
+geomarketing famosos no mercado até e
+trabalhar trabalharmos juntos eu na área
+de geoprocessamento do mal e na área de
+estatística e nós temos integração
+direto e isso é isso foi em 2001 2006
+nenhuma lei mais ou menos 778 78 anos
+fazemos 10 11 anos né então faz um bom
+tempo que nós nos conhecemos e então tem
+essa integração então é lá leva parte de
+cartografia levantamento de dados ele
+salvou a economia triste passado não era
+muito legal porque há o mal livre ele
+cuidava da parte da modelagem mesmo
+então a gente olhava toda a parte de
+aquisição de dados leva toda parte de
+mapeamento mesmo que era o insumo
+enquanto o maurílio olhava parte de
+aplicação desses dados né intrínsecas
+annie
+quero sempre aproveitando sempre
+trabalhei com equipe multidisciplinar é
+só de geografia e estatística pessoal de
+economias em especial de planejamento
+urbano
+gosto dessa área geográfica em saná de
+inteligência geográfica
+ela sempre foi muito muito disciplina
+pessoal sempre várias áreas trabalhando
+juntos muito bom né vários input o
+quadro quantitativo também sempre uma
+coisa muito legal e é um bom aprendizado
+mesmo né
+e aí fui fazer o mestrado então
+trabalhei na combinados com o milho e
+nós já estava no serviço é na época um
+gosto dos clientes na época era unibanco
+e foi convidado a trabalhar no unibanco
+na época decidir punir e um pouco depois
+uma hoje não sintomas mauri também
+trabalhou comigo no itaú ou trabalhei
+com ele não faz a ordem aqui é trabalhar
+juntos lá então isso foi bem legal
+nós trabalhamos abominar juntos e
+trabalhamos muito juntos também a
+passagem estava ferrado um projecto que
+acho que ele pode estar bem depois foi
+só depois foi bem legal e que eu não vou
+esquecer eu moro foi aquela segmentação
+dos municípios lá você pode falar sem
+sensacionalismo e acho muito legal
+e aí nós trabalhamos juntos nesse tempo
+de unibanco e itaú é eu fiquei lá e
+praticamente 11 anos lá trabalhando em
+áreas que existem na casa com o marido
+de telemetria que era de geração de
+indicadores online então acompanhamento
+que tudo está acontecendo na ponta é
+online então isso é muito legal
+então era modelo de tendência essas
+coisas todas
+e à minha ida na verdade pra uniban foi
+justamente
+a internalização dessa parte do
+marketing pelo milan por época
+então a unibanco estava com uma forte
+expansão de agências então tinham vários
+colegas que trabalhavam nessa área e é
+até um colega está lá no unibanco até
+hoje é o flávio e e esses modelos eles
+rentabilizaram 200 por cento do que uma
+abertura da agência como um todo assim o
+fato de ter um modelo que utilizará
+inteligência espacial ele dobrava a
+rentabilização da empresa então a em
+confronto ao modelo estatista clássico
+isso é muito interessante porque o
+conceito de você
+no caso do unibanco à época você abrir
+uma agência que você tem que levar em
+consideração os transeuntes se você
+levar em consideração como a economia
+local essas coisas todas
+e você deixar que fazer back espacial
+disso é deixar muita coisa para trás
+então é isso foi foi muito legal e
+depois como tempo nessa questão de
+digitalização inverteu-se então começou
+o processo de fechamento de agências só
+quer participar se ela continua porque
+você tem que responsabilizar as que
+existem
+então você é otimizar as agências
+principalmente como por exemplo a de
+pessoa jurídica na qual gerente vai até
+o cliente não cliente é o banco é a
+parte gráfica é fundamental isso
+funciona até hoje é e e imagino que isso
+deva funcionar em todas as grandes redes
+bancárias ou redes de varejo entre
+outros
+banksy dona dina deve usar com certeza
+com certeza que começou a fazer muito
+estudo de joão martins no brasil foi o
+blockbuster mec donde assim quem trouxe
+muita coisa de ter jeito onde o brasil a
+década de 90 mais ou menos por essa
+empresa melhor exatamente junto com a
+combinação que as empresas que a gente
+trabalhou mal ele comentou também frágil
+fielding que também é uma empresa muito
+famosa no ramo de marketing aí me
+perdoem as demais mas aquele que sejam
+as duas principais né as duas mais
+famosas digamos assim e não tem como a
+gente não tá nem vamos chamar nenhum por
+falar delas é que faz parte do novo
+cenário político
+a gente está comentando eu acho que é
+interessante e muito
+gente que passou pelas nossas carreiras
+aí passou por uma dessas duas empresas
+porque esse conceito de marketing e essa
+parte está se ao quem trabalha com isso
+com certeza é ouviu falar no mínimo de
+uma dessas duas empresas então acho que
+é interessante como pá e aí finalizando
+mestrado continuar no trabalho
+trabalhando no itaú e tanto enquanto
+maurim a gente começou a lecionar né
+então é essa parte é bem interessante
+que a gente sempre teve esse contato é é
+principalmente da po maurino
+conhecimento estatístico dele essa parte
+técnica então aprendi muito com ele
+nessa parte
+eu fui trabalhando mais com a parte de
+cases aplicações né então trazer case é
+alguma coisa bem aplicada para não ficar
+naquele é da parte só acadêmica e você
+trazer para o mundo real você tanto os
+louros da vitória outros perrengues do
+dia a dia isso é muito bacana aí comecei
+a lecionar no curso de design em jogadas
+em baixa na grafia onde oficializa a
+doação e depois também foi galgando nova
+é novos locais e hoje eu tô lá na espn
+no curso de big day onde o é o ministro
+disciplina justamente inteligência
+geográfica e aí sim lá na disciplina a
+gente entra mostra a case a gente
+consegue um pouco mais no âmago das
+técnicas que a gente consegue discutir
+um pouco mais profundamente em resumo é
+isso então é uma vida acadêmica paralela
+à mídia corporativa
+tanto minha quanto do maurício também
+acho que é por ele hoje aqui né
+eu esqueci de citar que eu sou
+profissional feira dentro do laboratório
+lado da latam
+nesse clima também era espacial
+em resumo eu posso deixar aqui para dar
+parte de carreira e o que mano comentou
+assim nós temos trajetórias muito
+parecidas
+cada um contribuindo com a sua
+sementinha lino do conceito e eu acho
+que é isso é legal justamente a gente dê
+depois de muitos altamente sinais de
+casamento exatamente em segurança
+exatamente e aí não sei se faria
+qualquer comentário
+a gente pode pôr esse bate-papo que
+começar com coisas boas você certamente
+pode começar com alguns perrengues que a
+gente passou é constante a mim falar pra
+todo mundo acha que isso é bacana né
+fique à vontade
+você quer comentar alguma coisa o marido
+deu pode dar continuidade e ampliar
+é uma coisa que a gente e começando
+pelos terríveis digamos assim que a
+gente sempre enfrenta quando vêm as
+pessoas novas ou quando vão começar a
+trabalhar com esses dados espaciais é é
+um tema que até conversei com o maurício
+a gente combina de falar é
+importantíssimo pessoa que eu estou já
+marketing são as barreiras geográficas
+nem tão que acontece
+fez questão de comentar esse tema de
+barreiras geográficas
+quando a gente vai definir é é uma
+análise parcial
+a gente é você pode você pode procurar a
+literatura fazerem é qualquer outro tipo
+de pesquisa
+vocês vão é cair no seguinte fator pra
+você fazer uma boa análise parcial
+principalmente você cai nada de modelos
+espaciais
+você cai em dois conceitos que são
+distância ou vizinhança
+então toda vez que você vai fazer
+modelos passar você quer saber se você
+influenciá-lo influencia seus vizinhos
+ou se você influencia ou influenciado
+por alguém é uma determinada distância
+ou um conjunto de distâncias digamos
+assim e quando você coloca no computador
+ea gente brinca que aqui nós temos
+vários cientistas dados de pequim que
+jogam o clássico de garra de embargo de
+alte
+então as pessoas colocam tudo lá coloca
+todos os tipos de dados em mapas lapela
+um botão faz uma corrida e vamos ver o
+que acontece
+não necessariamente é isso aí que eles é
+um é um ponto que é importante pra
+destacar porque a gente está aqui pra
+tentar é fazer esse bate papo ea gente
+espera que as pessoas num chat aqui
+vamos fazer as perguntas vão interagir
+com a gente pegar alguns pontos como
+experiência a gente fala então por
+exemplo é um exemplo de são paulo e sei
+que posso dar um exemplo do rio e ele
+certa você pegar o rio por exemplo você
+traçar um raio no centro do rio
+dependendo do tamanho do raio se chega a
+niterói e são gonçalo
+não estou dos clássicos de quem vai
+trabalhar com dados espaciais é fazer
+raio para tudo então esquecendo que
+existe por exemplo a baía de guanabara
+em são paulo existem às margens
+mas por exemplo a outras grandes cidades
+existem linhas férreas existem outras
+barreiras que no mundo real
+você dificilmente você trazendo para o
+mundo computacional você consegue
+modelar e aí eu comento disso porque
+porque a maioria das ferramentas a
+existem algoritmos coisas mais fácil é o
+seguinte olha quero saber como está no
+mercado num raio de cinco quilômetros
+quero saber que montar mercado num raio
+de 2 km como as pessoas se comportam
+novelas tão mini onde elas vão fazer
+esses raios é o buffer não é
+tecnicamente falando pra fazer essas
+análises e aí tem esses fatores como
+comentei aqui da barreira geográfica que
+esses caras são inerentes então quando
+você fala por exemplo o vôo ou
+distinguir um potencial de mercado seja
+desenhado um raio ou seja chegando uma
+área pré-determinada
+a maioria desses casos não pegam as
+barreiras reais então por exemplo é no
+caso do rio no caso de são paulo para
+você começar uma marginal tietê para
+você conversar uma marginal pinheiros ou
+para você aproveitar uma baía a da
+guanabara
+você não pode fazer um trabalho e aí
+porque eu estou chamando atenção porque
+a maioria das pessoas que estão
+começando fazendo alguma coisa só mais
+um raio lá com potencial de consumo
+daquela região
+ela faz um raio lá ver quantas pessoas
+estão circulando naquela região então eu
+começo por esse sentido de chamar a
+atenção que quando você vai trazer isso
+principalmente independente você tem um
+baita conhecimento em r independentes e
+têm mais conhecimento em python tem uma
+coisa de análise espacial que é o visual
+querendo ou não uma hora ou outra ou se
+vai ficar em ferramentas de edição por
+exemplo como que jes um quantum diz tá
+vai chegar um momento que você vai
+precisar trabalhar o visual do soldado
+antes de você colocar em algum modelo
+então vamos dar um exemplo simples aqui
+por exemplo o brasil e suriname fazem
+fronteira estava pegar o exemplo mais
+absurdo aqui
+brasil e suriname fazem fronteira não
+têm uma estrada que conecta os países
+não têm um vôo direto você pega o mapa e
+faz uma análise de vizinhança o peso do
+suriname é o mesmo peso de uma economia
+é o mesmo peso de um paraguaio por
+exemplo você coloca uma matriz
+de distância então assim a provocação é
+será que é simplesmente colocar os dados
+em uma comunidade desse gabarito aqui
+discutindo com os cientistas dados
+estatísticos e 60
+a gente sabe que não é assim como
+comentei na garrafa de água de alte
+quando a gente faz análise parcial a
+gente também tomou cuidado a gente é e
+em tentar entender como funciona um
+contexto de divisões e imaginárias como
+divisões imaginárias de países divisões
+e imaginários de municípios bilhões e
+imaginárias de setores censitários
+ele vai comentar depois na parte de
+demografia a gente tem que entender
+corrupção os arranjos espaciais das
+coisas que a gente está analisando antes
+de tudo então se você vai pegar por
+exemplo é o o oe eu falasse um pouco
+depois vai pegar por exemplo uber rubio
+definiu seu próprio território para de
+fazer a especificação dinâmica que não
+considera município tá não considera
+estavam obviamente na tarifação por
+questões legais têm que considerar a
+lista de municípios 60 mas quando você
+faz alguma coisa dinâmica
+você não pode considerar as fronteiras
+político administrativos que alguém fez
+então nesse sentido é você precisa
+entender que a parte geográfica é mais
+dinâmica do que aquela coisa estática de
+um mapa
+então eu comecei a chamar a atenção
+nesse ponto para quem quiser começar a
+trabalhar com isso fazer essas coisas
+porque nós simplesmente traçando raios
+ou fazer uma trilha de vizinhança que a
+gente pode entrar um pouco depois um
+detalhe e simplesmente colocar um r pra
+bater no liquidificador simplesmente
+colocar um pai com lá colocaram bandas
+da vida e vamos ver o que dá não
+funciona assim acho que ele tem uma
+crítica priori disso acho que é uma
+sementinha que eu coloco aqui pra quem
+tá é trabalha com dados parciais para
+começar a trabalhar com isso é um alerta
+que a gente faz porque o mundo real ele
+é muito mais dinâmico principalmente da
+parte espacial quando a gente leva para
+o mundo computacional e aí nesse caso
+qual seria uma possível solução por
+exemplo o próprio ibge é ele percebeu
+isso quando ele divulgou senso
+em 2010 ele fez a mala estatística não
+sei se todos conhecem que a malha
+estatística o seguinte você tem as
+divisões políticas administrativas do
+país tem e aí o ibge ele tem que seguir
+isso por exemplo então município de são
+paulo tem divisão de distritos
+e aí você tem que fazer um recenseamento
+do setor censitário que é o menor
+umidade maior ele vai falar sobre isso
+até obedecer divisões políticas
+administrativas assim como o rio de
+janeiro tem os bairros mas quando você
+vai disseminar você tem áreas de
+tamanhos diferentes então você vai
+trabalhar por exemplo variáveis como
+densidade você está roubando ligando
+assim porque você está comprando coisas
+incomparáveis
+então o que o ibge fez em muitos outros
+países já fazem eles criam por exemplo
+grades estatísticas para comparação
+então o ibge fez graves de 250 por 230
+metros em áreas urbanas e um por um
+quilômetro em áreas rurais
+então como você tem áreas iguais e você
+quer capturar os dados que nela estão
+eles se tornam comparáveis porque as
+áreas da geografia é comparável vocês
+popular por que dizer então você você
+olha por exemplo alimentação isso a
+delimitação territorial ela tem que ser
+é equiparável se não você está
+comparando maçã com banana onde vai
+fazer por exemplo uma bom pegar por
+exemplo o são paulo aqui um exemplo tem
+porque são paulo vai entender região
+metropolitana de são paulo tem 39
+municípios município de são paulo faz
+divisa com praticamente 30
+então quando vou olhar o município de
+são paulo que eu considero os vizinhos
+imediatos para fazer uma estatística
+social ea gente vai entrar nesse detalhe
+só pra pra comentar
+você está olhando a jogar aqui é real do
+são paulo está comparando com o
+município tem só quatro vizinhos então
+isso vai fazer diferença quando você
+olha uma estatística
+quando você tem áreas similares você tem
+praticamente os mesmos números de
+vizinhos sejam quadrados né seja um
+hexágono sejam triângulos né você diga
+se você rouba menos porque a sua malha
+territorial nossa expectativa
+então por exemplo uma comentei a upper
+faz isso
+uberabenses água nos então ela conforme
+escala ela trabalha com um hexágono os
+o número de vizinhos para você trabalhar
+inclusive tem até r chamada 3 um pacote
+de quem trabalha com o python é
+pesquisar a gente vai dar 3
+ele explica a metodologia de construção
+pra quê pra que se você vai fazer um
+processo dinâmico de uma corrida de
+carros não pode fazer um processo
+dinâmico uma área em um trecho de novo
+voltar aqui é maior que vai ter mais
+gente chamando um táxi ou sendo entregue
+um aplicativo porque o tamanho da área
+diferente
+então é esse ponto eu já quero chamar
+atenção que toda vez que a gente vai
+trabalhar com cuidado especial a gente
+tentar errar - quando a gente vai
+trabalhar com amália territorial muito
+anos nem na questão estatística ainda é
+então você perguntou uma coisa que tem
+que decidir a priori por exemplo eu dou
+essa dica de trabalhar principalmente
+com questões eleitorais que sejam muito
+pavês então homogeneizar o máximo
+possível saranz exatamente o que você
+vai ter o estatístico mas toda vez que
+alguém faz modelo esquece que existe um
+erro geográfico natural que são as
+divisões políticas administrativas que o
+ser humano fez um cerco no brasil você
+tem município a família é o maior
+município em uma área territorial
+gigante você tem águas de são pedro com
+o menor índice tem três quilômetros
+quadrados
+então você são coisas muito díspares
+tinha eu quero colocar um show por
+trabalhar eu já obrigado
+complementando a intimidade eu
+desenvolvi muito modelo a ideia tem um
+modelo para estimar venda de uma loja né
+então abrir uma nova loja no ponto
+comercial e qual é o modelo para estimar
+o quanto aquela loja vai vender esse
+modelo é muito influenciado pela área de
+influência pelo potencial você acredita
+que tem no entorno daquela naquela loja
+ea barreira influencia muito tanto a
+área do fluxo normal de limitar em
+frente à barreira se pode falar de uma
+região sem tempo tentei moram cinco mil
+pessoas
+ou quando brandão quanto você define a
+área de influência moram 10 mil pessoas
+dependendo do jeito que é definir a área
+de players sevilla que tem 10 mil
+pessoas tanto potencial naquela região
+mas agora você vai ver na realidade 5
+mil está do outro lado do rio cinco mil
+tratores na barreira geográfica as
+pessoas não vão atravessar essa barreira
+pra pra ir até a loja para o seu novo
+ponto comercial
+isso é uma história muito pedro
+temos que entrar no modelo que faz o
+modelo tem medo tem uma duração menor de
+20 anos é uma fonte de erros dentro do
+modelo por exemplo o roteiro e direção
+schmall venda de lojas já é um fator que
+é complicado não é simples porque tem
+esses fatores que explicam a venda de
+uma loja até mesmo coisas de dentro da
+loja
+a escada rolante lá posição com que a
+estava a direção da escada rolante de um
+shopping por exemplo pode influenciar na
+venda de uma loja dentro do shopping por
+exemplo fundos dentro de uma loja onde
+fez então é muito difícil estimar a
+venda de uma loja certa forma já é
+complicado você não tem bases tão
+grandes para desenvolver as bases são
+pequenas em quantidade de lojas e aí uma
+mais uma das várias um dos fatores de
+gelo também que entro nesses modelos é a
+questão da barreira jogar e que se você
+não define uma de que se você esquecer
+da barreira geográfica não definiu o
+corte mas esqueceram de jogar você vai
+estar falando a área tem mais potencial
+do que na verdade ela tem se pode falar
+que a loja vai vender 5 milhões por mês
+ou 15 milhões por ano mas uma estimativa
+de venda e depois que abri a loja o
+resultado dela no sangue
+são tão legais ou interessante assistir
+aqui em são paulo você tem pontos que
+são muito próximo do outro shopping que
+são de certa forma próximos mas um
+potencial de vendas é muito grande e
+outro fábio não é e de uma maneira de
+dizer às pessoas para chegar a um
+determinado shopping tem que se deslocar
+muito mais do que deslocar de carro é
+difícil de carro para acessar o shopping
+é complexa
+caminhando às vezes é mais fácil só
+consegue atravessar pela rua fora de
+casa tem três fatores às vezes é só no
+make para alguns casos a lei que em nota
+se você tem um trabalho a gente trabalha
+mesmo tem uma parte quantitativa de uma
+coisa qualitativa também tem fatores que
+às vezes ainda campo mesmo ainda se para
+hoje em dia tá bem mais fácil
+o ibge já disponibilizando os dados e
+tem muito mais recursos ela não precisa
+ir a campo mas ainda assim às vezes se
+faz necessário pelo menos alguma visita
+pra entender um pouco a dinâmica
+espacial do local mesmo em alguns você
+consegue já hoje como as informações
+google várias informações entender
+melhor o conhece o brasil sem nós
+pensamos marketing no brasil 60
+há uma certa forma precisamos ganhar
+todo lugar conhecer mas tem hoje ajudou
+muito mais com os dados que temos é a
+mesma está muito mais fácil entender o
+clube mas algumas coisas ainda têm que
+novo entender um pouco como é a dinâmica
+local legal nesse processo como é que
+como é que é introduzir a análise da
+concorrência por exemplo seis fazem esse
+tipo de coisa
+sim alguns casos em alguns casos é mais
+difícil é difícil às vezes você tem
+estimativa de da concorrência pode
+ajudar como também pode atrapalhar nem
+tem coisas que você sabe que a convence
+pois ali e isso tem atraído até melhor
+resultado da concorrência que está mais
+próxima da concorrência que não estar
+ali que está acontecendo muito das
+farmácias agora farmácias não case em
+farmácia mundo lado a outro e às vezes
+estava canalizando a própria filha de
+deus né
+são paulo é na avenida se tenha a mesma
+rede tem duas farmácias na mesma avenida
+onde cada lado da rua
+a idéia dela só que às vezes não é
+perder
+eu sei que vou pedir pra mim mas não
+quero perder meu concorrente
+prefiro perder nenhum momento falou é
+porque você tem configurações de
+clusters né
+é então por exemplo você às vezes pronto
+para uma ramo de atividade
+por exemplo como lojas de carros é mais
+fácil você está inserido num cluster que
+você tem concorrentes do que para
+inserir num local ermo que você vai
+vender menos do que se você tiver
+justamente uma área de classe então é
+esse ponto e bancos também é clássico
+então é todo o crescimento de uma região
+você vem primeiro banco daqui a pouco
+venho também por causa disso então não
+faz sentido você colocar coisas passadas
+e isso é meio esquizofrênico do ponto de
+vista é de distância ponto de vista
+geográfico mas por incrível que pareça
+essa questão de cluster do ponto de
+vista econômico não faz sentido pra
+muitas coisas né ea concorrência então é
+a 70 dele é colocar esse certa forma o
+modelo se a existência da concorrência
+não é difícil de vendas da concorrência
+difícil mercado disponibilizar sem saber
+a quanto vai vende o concorrente é bem
+complicado mas se tenta colocar
+uma informação da concorrência o quanto
+ela pode atrapalhar a concorrência hoje
+dinheiro pra entrar para as grandes
+redes de varejo é muito difícil você
+achar as brancas e um terceiro lugares
+caindo mercado como tais portais
+programa só seu caso é diferente já tem
+eu não tenho muitas lojas de rua tem
+longe só piqueri primeiro ele pra loja
+de rua também se consegue achar outras
+áreas talvez branco mas mercado as áreas
+já estão um pouco mais consolidado tanto
+mas a dinâmica demográfica nenhum é tão
+raramente hoje dia cresce lugares tão
+novas ao mercado já dispõe de um pouco
+mais tem acontecido muito é sede de
+várias menores onde a sua menor taxa foi
+menor cada umas vezes essa menor
+entrando fui criando lojas menores que
+eles conseguem entrar em lugares que até
+então ele não admito teria potencial
+eles entrarem onde considerando os
+considerar as rochas tamanho que eram
+antes não era viável hoje é expandir e
+aproveitou também para compensar na qual
+ele só se consegue se aproximar um pouco
+mais de um livro que chama localização
+ainda tudo que é o cara explica um pouco
+essa relação do virtual on 1 real também
+com o físico né como que é a localização
+ela explica de certa forma ela está
+relacionada com as decisões de compras
+do mundo virtual também tem toda uma
+relação espacial também é interessante
+tão legal o pessoal tem coisa que é mais
+fácil pro virtual por exemplo uma rede
+de pessoas tenham comprado vez mais
+comida algumas coisas no virtual do que
+talvez roupa talvez um pouco do tema
+certo parede de modo ainda tem uma certa
+dificuldade
+as pessoas querem vestir tema
+necessidade de existir uma lógica sim
+então tem algumas horas em que você tem
+um mercado aquecido mercado de consumo e
+aí pra tá mais próximo para as pessoas
+que dependem muito do petróleo o mercado
+de varejo alimentício cada vez menor e
+mais próximo da sua casa você sair na
+frente também na decisão de passado
+passando aqui vai entrar no mercado e
+vou comprar alguma coisa aqui não é a
+proximidade também fazendo a melhor
+marca também dentro da cidade com a
+marca no mercado é complementar o
+aparelho é
+a arte tem muita questão o thiago e
+pessoa pessoa varia muito com o tipo de
+produto e falei muito com um tíquete
+então você dificilmente vai comprar um
+carro por mais que o anúncio seja
+virtual você vai querer fazer visita
+física de então atua venda se origina no
+mundo virtual mas a top ainda se finda
+no físico
+por exemplo ontem que tem alguns
+produtos dependendo ticketnetwork
+produto tem ou experiência que a pessoa
+quer ter
+ela ainda vai pro mundo real e é
+clássico dentro do geomarketing existem
+várias biografias falam isso que a
+distância que você está disposto a
+percorrer vai depender muito do produto
+que você tem a fazer
+então a localização de dependendo do
+tipo de negócio ela pode ser uma
+localização mais espaço uma localização
+mais concentrada por que você não
+precisa estar o onipresente as pessoas
+já estão dispostas a andarem mais para
+irem até seu produto até experiência
+então um exemplo a gente fala aqui é
+sempre classicamente maurílio a
+comparação entre a padaria loja de carro
+então uma pessoa está disponível é para
+percorrer é um local que é um cluster da
+nossa cidade seja no centro seja um
+barulho e super famoso para a venda de
+carros
+só que ela não perca essa mesma
+distância para uma padaria
+então a conveniência quero enxerga pra
+fazer esse tipo de deslocamento pesa
+muito e isso é quando você vai olhar do
+ponto de vista espacial faz todo sentido
+você não pode modelar assegurou é
+estatisticamente você pode segmentar o
+seu produto
+você pode estratificar alguma coisa do
+ponto de vista geográfico é a mesma
+coisa então a da mesma forma também que
+você tem que revisitar modelos de tempos
+em tempos porque perde performance
+você tem que revisitar geografia daquilo
+que está analisando cá também perde
+performance então só que o modelo
+estatístico você consegue mensurar por
+algum indicador que você tá perdendo
+performance à parte o gráfico você vai
+muito do teste online você faz por
+exemplo permutações de áreas diferentes
+para ver qual aquela área que está é
+melhor adaptado ao seu modelo por
+exemplo então será que faz sentido ter
+uma área de sua mãe maria dessa grego a
+área com a área b
+devido à área em a1 a2 o teste online né
+então aqui a gente não está entrando
+obviamente no algoritmo a gente pode até
+ficar uma próxima oportunidade
+se vocês acharem que é interessante pra
+entrar num henriques na coisa a gente
+está na nossa indica gerais para quem
+quer começar principalmente porque a
+parte não só estatística precisa revisão
+da parte gráfica também e isso é muito
+interessante porque o mercado é dinâmico
+é assim já marketing que a gente discute
+mais aqui você vai juntar jogássemos na
+estatística da economia se vai juntar
+marketing vai juntar uma pancada de
+disciplinas de ambos assim que a gente
+tem que é olhar o organismo mesmo uma
+visão mais holística possível a coisa
+vai conseguir fazer um bom estudo então
+o profissional que entende um pouquinho
+de cada coisa dessa é é vai se dar bem
+digamos assim porque você tem que ter a
+visão do todo
+você não pode ser esse é um estudo de
+uma região obviamente manifestou total
+razão e nem quem a campo você tem que ir
+logo para poder ver até mesmo porque
+para você fazer é a modelo exato do ibge
+é mesmo quando têm deficiências né
+você tem lá as bases e os recenseadores
+ele tem que atualizar aquela base
+naquela casa pode ter virado um hotel
+sei lá né que tem que ficar atualizando
+esse tempo todo de acordo com que você
+falou né não
+como é que o cara vai chegar lá agora o
+hotel numa casa e aí exatamente né
+só queria me mandar um assunto o módulo
+sempre permite justamente que o ganso
+que dentro da área de influência e
+existem algumas alguns estudos clássicos
+que que até o próprio ibge a gente fala
+bastante mas acho que o ibge é é o legal
+do ibge é que ele é um órgão é em nível
+federal que ele é um dos poucos órgãos
+de dados do país que consegue ter um
+todo então o ibge essa vantagem você
+consegue ter um todo equipado para o
+país todo
+então quero saber por exemplo o
+indicador econômico em roraima eu posso
+conseguir esse mesmo indicador econômico
+grande do sul por exemplo é o mesmo dado
+demográfico mesmo
+geográfica consigo ter qualquer lugar do
+país então a gente o dg e é uma
+belíssima fonte de informação é
+justamente por causa disso e o legal é
+que você trabalhar por exemplo com
+vontade de ver essa questão da
+influência que moore falou existe um
+estudo do ibge é se vocês quiserem
+pesquisa também é muito legal e no nível
+municipal está a chamar regime que
+região de influência das cidades
+pra começar para você entender a
+dinâmica espacial é muito legal porque
+assim uma pessoa é você tenha ela deriva
+principalmente de uma teoria chamada
+teoria do lugar central de volta que
+está ver que essa teoria de lugar sem
+lugar central na fala ela fala que
+dependendo do que você precisa existem
+lugares centralizadores em hierarquias e
+esse estudo do ibge é é mostra isso na
+prática então por exemplo se você mora é
+no município do interior do estado
+e você precisa ir a uma escola pública
+de nível primário secundário você pode
+no próprio município
+se você quer fazer uma faculdade e já
+precisa se deslocar para outro município
+que normalmente é um município pólo
+se você quer por exemplo fazer um
+mestrado ou doutorado já vai ter que se
+deslocar mais ainda e funciona para todo
+o tipo de atividade econômica se você
+quer por exemplo um ponto de vista
+político é ponto de vista econômico são
+paulo no topo da hierarquia e ponto de
+vista do ponto de vista político o
+brasil está no topo da hierarquia por
+exemplo por que brasília está no topo da
+hierarquia você vai por exemplo entrar
+com recurso nem do inss
+você vai se aposentar ou então alguma
+coisa justiça você vai por exemplo ou
+numa agência do seu próprio município no
+município vizinho
+se não deu certo vai pegar um recurso
+vai ver que no município maior que uma
+segunda instância e se não der certo a
+terceira até para o brasil de novo assim
+então esse estudo de uma região de
+influência das cidades é um estudo que
+pra quem vai começar a trabalhar com
+dados geográficos e esse dado de
+inteligência geográfica essa parte de
+estatística é ótimo estudo está a
+começar a ver como funciona o dado está
+pronto
+existe um estudo muito bom com relação a
+isso pra poder justamente ter uma noção
+de como funciona a dinâmica urbana ea
+dinâmica social do país
+isso é muito legal e eu aproveitei esse
+gancho do marido para poder falar
+isso também é muito legal e em muita
+aplicação e para quem quiser começar
+também uma boa leitura e uma iluminação
+eu usava muito o uso está nesses dados
+do registo da sua influência para
+estimar o potencial de uma cidade
+quero ver se pega uma cidade de interior
+por exemplo anterior de milho treinou
+death de 100 mil habitantes 200 mil
+habitantes da cidade que agora tem um
+shopping shopping pequeno shopping médio
+e aí quando você vê o potencial da
+cidade a cidade tem 200 mil habitantes
+onde aconteceu o entorno da cidade
+juntando as cidades vizinhas esse
+potencial de 200 mil a 300 mil e pode
+também para 400 mil dependendo do quanto
+você tem que ter estimável aonde as
+pessoas vêm falar o óbvio onde a
+influência desse município de 200 mil
+qual a influência dele para chegarmos na
+estimativa mais real de potencial
+daquele shopping que vai se controlar a
+população do entorno dessas cidades as
+pessoas se deslocam às vezes para ir a
+um shopping da cidade vizinha não tem
+muitas cidades não tem shopping brasil
+tem muita cidade pequena também no
+interior mas o como como uma vantagem
+comparativa maior né você tem menos
+impostos mas não é mais fácil você
+colocar a estrutura de indústrias nem
+tudo mais e aí são pólos industriais nem
+às vezes é pequena mas é um pólo
+industrial se fazem sentir em todo o
+processo no brasil chamado de
+interiorização também a economia de
+certa forma tem algumas cidades algumas
+empresas saíram da indústria pessoas
+saindo da cidade grande né das grandes
+bolas de velocidade um pouco inferior e
+não só induzido até serviço também
+algumas empresas sair daqui do são
+carlos em maringá por algumas cidades
+fomos agora tecnológico também saem
+pouco desconcentrado desejo que existe
+em graçandu que salta na análise por que
+você acha que constroem e você vai olhar
+lá mas essa região aqui até uma coisa
+errada aí vai ver lá vai verificar a
+atual né
+e aí tem a mãe duas tecnologias alguma
+coisa muda essa dinâmica é interessante
+que tem acontecido é legal ficar olhando
+isso é legal que eu mal e até comentei
+no final ele fez lá no itaú a gente
+trabalhava junto lá que é uma
+segmentação das cidades
+isso é muito legal até pra você que é do
+rio aí já viu se até corrija se estiver
+errado por exemplo é você ter um uma
+segmentação da cidade por exemplo por lá
+rafael do carro
+o resultado existia lá uma indústria de
+sal que ela fechou a cidade praticamente
+parou ali hoje ela depende
+essencialmente do turismo
+antes tinha turismo e mais alguma coisa
+assim dependendo da atividade econômica
+da cidade e porque a gente comentar a
+pesca maneira pesca é exatamente aí que
+acontece é que você fecha por exemplo
+uma cidade ou em torno daquela cidade
+concidade dormitórios no entorno delas
+depende daquele pólo regional e às vezes
+você e acontece isso muito abc aqui com
+o fechamento de montadoras indo com o
+interior etc
+o índice de desemprego aumentando muito
+obviamente potencial de consumo diminui
+ainda das pessoas
+o bolso delas diminui é justamente é
+essa sementinha que a gente quer plantar
+em quando a gente fala dessa parte da
+nave espacial que quando você pega uma
+fronteira conhecida como município você
+acha que aquilo é fechado em si não
+necessariamente se você souber qualquer
+dinâmica espacial e tudo aquilo
+acontecendo você melhora muito mais
+apurada da sua estimativa do que você
+simplesmente foi pegar alguma coisa
+pronta olha é isso aqui é verdade mulher
+são paulo como esse são paulo e aí
+obviamente guardadas as devidas
+proporções são paulo fosse uma cidade
+global é então um ponto querendo ou não
+qualquer decisão de nova york ou por
+exemplo de chã da influência são paulo e
+nem vizinhos relação quando você muda
+escala disse olha qualquer tipo de de
+outro tipo de análise é regionais ou
+locais
+imagina isso vindo para o município
+pequeno para um bairro
+você acha por exemplo que aí já é quando
+você vai estudar o centro de são paulo
+não pode dar sua região central de são
+paulo dentro do bar são paulo inteira
+porque você tem uma migração pendular
+das pessoas que vêm para estudar para
+trabalhar naquela região e então e não
+só do município de são paulo cinco
+municípios vizinhos em por exemplo no
+rio de janeiro
+vem gente de belford roxo e nova iguaçu
+okcity de niterói são gonçalo e seca
+a mesma coisa contagem betim e assim
+sucessivamente então tudo isso tem que
+ser considerado uma análise e se você
+olha puramente do ponto de vista
+estatístico vai sair um número lá que
+vai ser um número simplesmente um número
+sólido modelo faz sentido não vai ver
+que vai a performance dele vai cair
+muito rápido porque você tem que
+considerar essas dinâmicas demográficas
+antes de fazer o modelo em fazer esse
+celestes na então isso acho que é o
+legal é importante do que a gente está
+discutindo aqui aproveitando se da
+economia é quando você tem uma taxa de
+desemprego maior com certeza aumenta o
+movimento pendular né
+as sessões de beleza influencia bastante
+essa em alguns indicadores cidade começa
+a mudar bastante a dinâmica da cidade
+na volta os ingressos acontece bastante
+conquistar o gráfico 1 é bastante
+aproveitando o gancho também outra fala
+muito divisão inglesa e macro e
+municípios disse gância do município
+mais uma dificuldade também que nós
+temos é olhar às vezes é olhar o
+interior bando também essa dinâmica que
+ocorre dentro da cidade e nós temos o
+principal dado que nós temos hoje
+o censo é que é o dado por setor
+censitário do censo demográfico é o da
+dbg quem não conhece o setor se estar é
+a menor unidade geográfica o ibge é
+trabalho
+todos os protetores de 350 mil setores
+censitários como se fossem quadros mais
+ou menos o em torno de 300 mil
+domicílios e a cada dez anos o censo
+disponibiliza informações daquela
+população que mora em cada um dos
+setores do estádio
+por setor censitário por quadro de cada
+um principalmente planeta cada quadra
+sabe a população de uma quantidade de
+pessoas que moram ali onde da renda
+domiciliar a renda das pessoas há várias
+informações da população que mora
+naquela região que mora naquele setor
+censitário
+esse dado é contada ele é a cada dez
+anos e às vezes nós sabemos muito sobre
+o quanto a população que mora ali vai
+saber um pouco é mais um pouco mais
+difícil às vezes os dados têm hoje que
+tá mais fácil mas sobre a população que
+passa por ali ea população que trabalham
+por ali
+então essa informação também essa
+dinâmica às vezes também é um erro que
+às vezes antes de ir para estimar o
+potencial de uma região
+não só potencial foi muito potencial mas
+nós queremos saber o perfil de uma
+região
+será que aquela loja qual é o perfil
+dela o martins onde a agência bancária
+em agências bancárias que são regiões
+mais comerciais
+você tem mais público mais gerente pj
+depende mais das pessoas que trabalham
+naquela região tem agências que são as
+regiões mais residenciais entender esse
+perfil da população circula por ali o
+que trabalha naquela região é ainda um
+dado que nós temos certa forma um pouco
+mais dificuldade de de capturar esse
+dado nível tão detalhado dentro da
+cidade
+o dado de das pessoas que moram nós
+temos os dados por setor censitário
+com isso a cada tem a questão dos dez
+anos mas ainda assim a cidade é tão
+dinâmica cada dez anos tem a intenção do
+curso também é um centro de gostoso mas
+o dado se está a cada dez anos ainda não
+é um certo grande problema se consegue
+entender um pouco a dinâmica da cidade
+olhando interurbano mesmo entendendo os
+parques e também as seções granular
+mesmo
+qual é o perfil da região agora os dados
+trabalhadores dessas vezes por região
+por áreas já um pouco mais
+existem bases de dados existentes que
+fornece mas há um dado que a cpi pode
+botar erro de modelagem de estimativas
+de potencial por exemplo que a região
+tem potencial tem parte com atenção mas
+é uma região passa muita gente tem
+trabalhadores
+o público que camina paulista de domingo
+é mais difícil estimar está com
+estimativas mas é um público que pode
+influenciar totalmente na uma venda de
+uma loja
+quem mora do lado do estádio em um
+shopping do lado do estádio pode
+influenciar na venda
+às vezes atrapalha venda de uma luz da
+venda do shopping pode ser influenciada
+de uma loja de um shopping quando é
+maior por exemplo de varejo de roupas de
+varejo de moda
+trabalho mas provarejo de alimentação
+não está na praça de alimentação do dia
+que tem um jogo em um estádio que ao
+lado do shopping a pavimentação ficou
+lotada
+já as lojas pessoal no paço numa loja de
+moda mas passa na pavimentação são os
+outros fatores também quer dizer mas fiz
+um pouco de emitir e imputar isso dentro
+de uma estimativa de potencial mas
+existem esses dados e também existem
+metodologias de cada vez mais fácil teus
+dados estamos onde dados sistemas de
+dados que ajudam a melhorar essa
+estimativa
+mas além da visão de perto da visão
+muita municipal que estão falando é
+muito mais que um mapa também existem
+três gostava de olhar muito a visão
+entre urbana mesmo é chegar a um detalhe
+de uma área de influência do setor
+censitário de um bairro
+tentei mas como é aquela dinâmica
+daquela área bem mais nível e para o
+mesmo também tem uma coisa complexa e
+você quer fazer uma pergunta e vai
+emendar outro assunto pessoal quer fazer
+o que vocês querem fazer uma pergunta a
+júlia me falou que queria perguntar
+alguma coisa
+manda e jonny vocês trabalhos condado de
+joel já o guerreiro mobile é é de hoje
+que acontece é existem esses dados vão
+falar da minha parte do que eu conheço
+aqui né
+existem os dados de já o goleiro mobile
+só que eles ocorrem
+o setor bancário principalmente está
+pessoalmente por essa questão de lgp aí
+nos dados
+você pode utilizar isso para irrigar de
+crédito e pode utilizar isso para fraude
+mas não pode utilizar o horário
+comercial
+então por exemplo vindo uma área de crm
+e não ao utilizar o jogo e rego no
+bairro
+eu sei que aquela pessoa ela está
+freqüentando tais lugares costuma fazer
+é essas visitas em tais dias tais
+honorários mas eu não posso fazer isso
+com oferta de produto pra ela e agora
+como entrar o ano que vem o a questão da
+lg pb vai ficar mais difícil ainda mas
+eu posso utilizar esse dado pra ver se
+não é uma fraude
+então olhar jam bier sim existe mas para
+a questão de fraude para saber se aquela
+pessoa costuma frequentar aquele local
+ou por exemplo se é a certeza uma
+transação em são paulo e em 40 minutos
+ela fez uma transação no rio de janeiro
+o meia melhor pode ter uma transação no
+rio de janeiro
+então a probabilidade isso é uma fraude
+é grande porque mesmo ela fazendo uma
+transação no aeroporto em são paulo uma
+transação aeroporto do rio de janeiro
+esses 40 minutos
+é é uma distância é um tempo muito curto
+para que isso aconteça então a
+probabilidade de fraude isso acontece
+pelo gerb ribeiro ou por aquela pessoa é
+ser a primeira vez que ela está
+racionando naquela região então isso pra
+versão do ipad toque previsão de produto
+não pode então a discussão inclusive o
+lg de opting fazer isso essas coisas
+todas é é um pouco mais delicada
+eu duvido que as pessoas quando lêem o
+contato elas dão o que tinha que falar
+eu quero que você utiliza os dados para
+ofertas comerciais mas pode ser que as
+pessoas não da morte em todos os itens
+vai mandar ok mas eu particularmente não
+posso afirmar para questões comerciais é
+existem esses dados é poderia podemos
+analisar mas não podemos ter ações sobre
+esses dados eu sei que eu já trabalhei
+no trabalho um público mais no mundo
+digital trabalham pouco não dos dados
+mas com o facebook com alguma coisa
+ligada ao facebook nesse do do
+aplicativo takatu dentro mas com alguns
+dados que existem no twitter no facebook
+ou no google também esse leva em
+consideração a questão da localização a
+fazer ações baseada e geolocalização o
+disparo fazer alguma campanha baseado na
+geolocalização mas espero que os olhos
+do outro google o facebook
+eu sei que tem algumas téo que já não
+sei se japão já está no mercado os
+produtos tela mas ouviu mas não temos
+que ouvir mais
+acho que a oi a tim ea claro não é claro
+nattino ao é claro o que eu vi mais
+próximos que estava mais forte era da da
+vivo na plataforma na tela de
+inteligência de heaton tem todo um
+produto que ele estava tentando produzir
+usar o abaixo dos clientes deles disto é
+que se consegue fazer disparos de
+campanha que alugou a plataforma faz uma
+parceria com eles para disparar a
+campanha para os clientes
+a vivo ss uma coisa nesse sentido
+baseado e dão só o fator de localização
+mas também de organização
+após selecionar um público que tenha o
+perfil que está passando de uma certa
+região que mora em uma certa região
+antes fará um sms para s para esse
+público também e uma das plataformas
+parece que você poderia fazer até
+inteligência de mercado não sabe que se
+quiser consegue entender um pouco antes
+como é o único que moram naquela região
+o que está passando aquela região o que
+circula naquela região
+baseado no potencial dos dados que eles
+têm eles não informam que a pessoa a
+quem o indivíduo analisado mas tudo
+sumarizado também nessa região eu tenho
+30 mil clientes com esse perfil tal com
+essas características nessa noite eu
+tenho esse outro perfil consegue esses
+dados ajudam um pouco também a tirar
+essa questão tenha um pouco mais a
+dinâmica da cidade algumas coisas mais
+estão acontecendo no dia a dia não é o
+time não é o time mais uma vez um pouco
+melhor
+legault pouco como é dinâmico ela disse
+que entende perguntei por que estou
+desenvolvendo uma tese sobre o tema e
+não vejo muito material sobre o assunto
+no brasil lá fora é tem até uma empresa
+no estádio chama voucher claude não sei
+se você já ouviu falar
+é o foco dela é justamente fazer
+marketing em cima de já o feirense e
+acho que ele pode falar em samba de
+ausência aí mas aí sim em cima do jovem
+rei ver né então existe um lado estados
+unidos existe extensa discussão aí legal
+se pode ou não mas num caso do brasil
+realmente é muito sensível e sistema de
+jogo diego não entendo que você vai
+fazendo é sobre material esse acadêmico
+não conheço muita gente que conheço que
+possam vê lo mas existem três empresas
+hoje no brasil conheço mas sim com ações
+que chama in loco ou sence e redes são
+as três empresas que estão trabalhando
+bastante forte com essa questão de
+geolocalização mobile não tem bastante
+tem uns artigos deles em algumas
+profissões e depois quiser me mandar
+sair mas estão aí eu te escrevo que logo
+flows em si e as redes
+elas têm bom dar uma olhada material são
+toxinas que eu estou fazendo
+elas trabalham com essas questões
+legal alguém me perguntar sobre esse
+assunto pessoal até abordada até o
+momento os assuntos abordados não
+consegue jogo aí beleza o que você quer
+comentar um tema específico além de não
+poder continuar eu queria comentar o
+tema aqui pra quem tiver começando é
+quem já tiver lançado ok mas a gente vai
+começar a trabalhar com dados de sep
+o sepe ele é um dado que não é
+geográfico em sua essência ele pode
+fazer uma análise
+na verdade o intuito do sef logístico é
+pra poder fazer logística das entregas
+só que o cep é bem interessante porque
+muita gente e eu já vi isso em vários
+modelos inclusive modelos de crédito que
+eles utilizam por exemplo os dois
+primeiros dígitos no cérebro para fazer
+exame para fazer por exemplo um modelo
+de crédito no mar negro uma regressão
+logística e esses dois números na
+prática não significa muita coisa é você
+pode olhar os dois primeiros discos do
+sexo só que às vezes dois primeiros
+dígitos no cepe podem ser uma rua em são
+paulo pode ser a região norte inteira
+então é esse é um ponto que é bem
+interessante
+um outro ponto que a gente utiliza
+bastante para fazer porque às vezes o
+sepe informação cadastral que está aí
+disponível sob a gente olha e
+simplesmente forma cadastral não olhe
+por ponto de vista geográfico é você
+levar o cérebro é fácil olhar por
+exemplo a vizinhança desses ep 04
+vizinho 707
+se você não olha do ponto de vista
+espacial você olha esses dois com dois
+lados categóricos totalmente separados
+né
+e não somente isso é verdade você
+consegue enriquecer os modelos que vocês
+olham mudar de sexo a partir do ponto de
+vista geográfico então é mais uma
+sementinha que o que a gente quer
+implantar aqui é o seguinte olha utiliza
+os dados de sete que já enriquecem
+bastante coisas modelos é independente
+da técnica utilizada é categórico
+só que olhem do ponto de vista espacial
+podem tirar por exemplo a distância
+existe sim uma variável contínua depois
+você quiser categorizar trabalho
+contínuo que não tem problema mas você
+olhar como que a relação de vizinhança
+relação de distância desse sep
+isso é bem interessante porque você pode
+estar olhando mais de originalidade que
+até então você moraria então olhe com
+carinho os dados de sexo não só como
+dado cadastral nem trazer isso para o
+dado geográfico e ou na vizinhança
+desses ep à distância desses epe e fazer
+a análise
+justamente por esses ex né então como
+comentei você tem cinco mil quinhentos e
+setenta municípios no brasil onde 92 93
+por cento em set único mas a população
+já está praticamente concentrada nesse
+7% e costa então isso é bem interessante
+então olhem com carinho dos é que ele tá
+o iphone
+rodrigo ana que tudo bom marco mandou eu
+tenho que estou enganado de produto com
+julgado por exemplo nunca center mas que
+no mesmo prédio pode ter uma loja de
+conveniência em outro exemplo prédio
+pequeno e tem um mercado com um lava
+rápido nesses exemplos como pode ser
+considerada ponderação de todo o
+potencial é e nunca fez o estudo
+considerando essa característica mesmo
+de longe com jogadas tal isso quando
+estava na refer não falar muito sobre
+isso é uma tendência no brasil d
+esse tipo de centro e pequenos centros
+comerciais e de lojas conjugadas e era
+bem difícil conseguir dados realmente
+ninguém quer passar até compartilhar
+seus dados
+é difícil saber o potencial dos lugares
+enquanto que isso pode atrair mas o que
+às vezes fazemos a dados de hoje alguns
+bilhões de crédito viram os dados também
+são alterados xperia boavista é anel e
+também que tem alguns indicadores
+algumas variáveis que possam que podem
+ajudar
+elas nunca vão dizer atual quanto vai
+ganhar uma loja 5 entende essa região
+mas uma das teorias também mostra que o
+exécito terrorismo
+a nave espacial economia que dependendo
+do perfil quanto maior o shopping também
+maior poder de atração tentam seguir sem
+essas questões elas são são levados em
+consideração quando você define a área
+de influência
+se uma loja por si só ela tem uma área
+de influência x 83 quilômetros se amar
+uma loja conjugada a uma loja no mesmo
+local mas é uma loja com julgado está no
+centro comercial provavelmente a
+diferença vai ser maior do que 3
+quilômetros 165 quilômetros por exemplo
+então essas questões nós levamos em
+consideração para definir um filho não
+cheguei a trabalhar exatamente tinha
+nenhuma lógica acontecer isso
+mas se tivesse era pensar no na área de
+influência real diferente pra esses
+lugares espectante poder de atração é
+maior uma loja que está convidado a um
+pequeno centro de convenção
+a área de influência dela vai ser maior
+e tentar depois pegar nos dados que
+talvez algumas empresas de milhões de
+dados podem ter também em função do cnpj
+são alguns dados algumas estimativas que
+ele tem também têm modelos de
+faturamento presumido alguns alguns
+dados que falam do potencial de uma
+região
+mas é o jeito mais fácil em que nós
+tínhamos eu trabalhei aqui no brasil há
+pouco um loja de tecidos poucas
+consultores por um país cristão de
+consultoria que tinham esse modelo
+também mas é algo que só se fala
+bastante explorado bastante
+acho que é uma tendência é esse ponto
+que rodrigo é um ponto delicado com o
+move falou o seguinte quando você pega
+uma farmácia hoje é você não tem mais
+farmácia então vai depender muito do
+ponto de vista você quer enxergar você
+tem no mesmo espaço físico uma farmácia
+uma perfumaria e uma farmácia perfumaria
+vai só esses dois exemplos realização
+bastante quando você vai definir um
+público potencial e aí é uma definição
+mais de marketing mais de varejo mesmo
+do que já o marketing se você vai
+depender muito do são paulo admite né
+então como ele falou dependendo da
+cidada do seu da sua área de influência
+você pode ter dois públicos diferentes
+porque os times são diferentes e você
+pode ter duas áreas de influência
+diferente e detalhe a gente está
+partindo do pressuposto que são só duas
+áreas de influência diferente por causa
+dos negócios onde o marketing entra
+a área de influência pode ser
+subdivididos a pode ter mais influência
+para quem circula no domingo
+você pode ter uma área de influência
+para quem circula só no horário de
+almoço porque dependendo do seu produto
+as pessoas estão dispostas a andar x na
+sua hora do almoço imagem seguinte
+padrão hora de almoço
+a pessoa não vai andar dois quilômetros
+para comprar um xampu e quando há dois
+quilômetros para voltar porque ela tem
+um determinado horário de almoço então o
+o o espaço que ela está disposta a
+percorrer
+vai depender além do produto vai
+depender do horário que ela está fazendo
+e que tipo de população ou tarde essa é
+uma transeunte então residente
+então essa questão de varejo para gilmar
+que tinha muito mais complexa do que
+parece então é estimar esses modelos ea
+idéia é fazer o seguinte você estimar um
+modelo para casa tarde ou ver se é cada
+cada tarde por exemplo como variáveis
+explicativas diferentes do mesmo modelo
+fazem diferença não estando por causa
+disso você quiser olhar a a farmácia do
+ponto de vista de medicamento
+você vai ter pessoas que estão dispostas
+a andar mais prológica 24 horas para
+buscar o medicamento do que para buscar
+um xampu que acabou então vai depender
+muito do que você considera aquela
+aquele espaço físico é só uma farmácia
+ou se é uma farmácia barra perfumaria e
+um ponto que eu queria emendar o que o
+módulo começou aqui e aí entra numa
+técnica techniques da coisa aqui dentro
+do da economia existe é uma corrente um
+cara chamado reino chama teoria
+gravitacional do varejo e que ele fez
+ele foi lá é pegou a teoria da lei da
+gravitação universal que maiores massas
+atrair mais incerto e utilizou isso para
+o varejo então o que o marido é
+exatamente comentou
+essa lei gravitacional do varejo no ano
+seguinte
+quanto maior o seu estabelecimento
+atrair mais gente e existem modelos
+matemáticos que existem por exemplo
+existe um modelo chamado modelo
+gravitacional de rafi hff que é um cara
+que desenvolveu matematicamente o modelo
+de rede também matemática mas o modelo
+gravitacional de ralf
+ele é
+pelo matemático para definir qual que é
+a o espaço de atração e qual seria a
+área de influência primária secundária e
+terciária dessa dessa região é eu fiz já
+fizemos esse modelo e você pode
+considerar por exemplo da equação número
+de vagas de estacionamento distância do
+metrô ou estado terminal de ônibus mais
+próxima
+o número de lojas que você tem número de
+espaço físico da prova da sua da sobraci
+alimentação
+você pode colocar isso representa país
+através de um modelo matemático mas
+sempre de novo testando porque o
+diferente aqui não é a equação
+matemática da coisa mas assim como todos
+vocês conhecem ciência de dados aqui o
+que está por trás dessa equação
+então o que a gente está colocando o que
+vai ser o diferencial
+então vai depender muito do seu target
+tem pessoas que fazem questão de puxar o
+shopping de carro e ter valet em pessoas
+que têm shoppings que estão ao lado de
+estações de trem metrô e shoppings de
+população totalmente transeunte e até
+então tem lugares que são para a
+população residente então tudo isso você
+tem que levantar as hipóteses testar
+essa hipótese só depois fazer um modelo
+mais generalista
+então tudo isso tem que ser considerado
+que o rodrigo fechando resumo aqui não
+estou querendo fazer algo simples
+complexo mas ele por si só natureza dele
+é complexa então colocar isso dentro do
+modelo e essa brincadeira está fazendo
+aqui colocar isso dentro do modelo seja
+com um painel explicativo seja um modelo
+específico de análise geográfica que
+existem modelos geográficos né
+de característica especial com depende
+um outro há a definição é mais
+importante do que o teste do próprio
+modelo
+então é esse é que é o bacana então todo
+o estudo de marketing todo o estudo
+econômico todo o estudo de negócio que
+você tem que fazer antes de aplicar o
+modelo então você vai gastar assim como
+dataprev clássico de qualquer outro
+modelo é você vai gastar 80 por cento do
+seu tempo e fazendo todo esse estudo
+antes de colocar em fazer um modelo há a
+chance nesse ponto
+chega uma outra pergunta aí o thiago dá
+uma olhadinha pra gente por favor
+o pam tuac maurílio mox trabalho com
+precipitação de seguros então fazendo
+modelos para estimular a freqüência de
+roubo por exemplo uma das principais
+variáveis no modelo preditivo é a região
+é um desafio enorme segmentar as regiões
+para usar no modelo que estimule
+freqüência de roubo
+o que você nos sugere nessa atividade do
+segmento regiões as regiões são faixas
+de sep
+pois é é um dado que tem medo com o
+cliente é bom falar em modelagens modelo
+competitivo até pra seguro eu já
+trabalhei com várias facadas modelo já
+vi que alguma alguma área geográfica a
+definição de área geográfica decolarem
+vai ser utilizado
+alguns já perfumar melhor o cérebro
+geralmente é mais tão fácil de trabalhar
+pela facilidade que você não precisa
+fazer um processo de álcool cuja
+localização já a qualificação tem uma
+base de 7 c tem todos os apps coloca o
+modelo cep e depois ter um novo cliente
+você coloca coloca que sabemos é que um
+novo cliente você consegue estimar a
+precificação risco dele qualquer
+variados qualquer modelo você faz dez
+anos é mais fácil operacionalizar o que
+você tenha um de para simples de de
+código mesmo net tabela mas já vi
+modelos até quer aplicar modelos usando
+setor censitário e até a área de
+ponderação são unidades geográficas
+a questão é que você tem pra aplicar
+esse modelo depois por outra base
+você tem que saber a hora de ponderação
+que esse novo cliente mora ou setor
+censitário que esses clientes morta e se
+tem que aplicar o processo de jogo
+qualificação achar latitude e longitude
+para identificar onde que esse cliente
+novo mora para aplicar o modelo em cima
+de uma outra base
+então teoricamente quanto menor é a
+unidade mais homogênea é você espera que
+essa área explica melhor o modelo mas aí
+tem que pensar também na questão de
+operacionalizar o modelo como eu consigo
+personalizada pois esse modelo no dia a
+dia mesmo
+então por isso que muitas vezes nós
+partimos do sepe mesmo que é mais fácil
+você coloca um certo modelo stilo risco
+daquele século como química em cena da
+variável ea hora que vai preencher um
+cadastro
+o novo cliente chega preencher o
+cadastro ele vem preencher o cadastro do
+cep d
+agora se ele tivesse que ter um vencedor
+esse estádio tem que pegar o endereço
+cep fazer um grande jogo indicação laxa
+latitude longitude achar o setor
+censitário
+depois aplicar colocar o o oe schmall
+risco daquele trecho
+então é ou é questão de ter que analisar
+também depende do modelo depende do que
+se está estimando também e também mas a
+discussão sempre vai depois do lado
+operacional também como operacionalizar
+essa outra informação geográfica se tem
+também muito por isso que muitas vezes
+trabalham com as partes de sete meses e
+aí testando s 17 677
+aí tem que ver o que você tem de massa
+de dados também adianta ir pra 78 e tem
+um volume pequeno de alguns apps também
+isso vai gerando um problema na
+precificação também analisa ficou claro
+se o marcos quer complementar eu acho
+que é isso mesmo acho que o que o move
+foi cirúrgico aí trabalhar consegue
+muita gente a grupos ep em dois três
+dígitos justamente justamente pela massa
+né
+êêê vai acontecer de alguns apps terem
+zero eventos né então você vai agregando
+para que pelo menos ao todos eles têm
+algum nível de evento para você
+conseguir modelar o que eu daria como
+dica que é interessante eu acho que
+mourinho também foi foi preciso que ele
+disse quando a gente trabalhou em down
+geográfico e e ter muita questão do the
+blog ou seja você passa por todos da
+preta que a gente comentou você passa
+por toda a modelagem quando você vai
+fazer
+háháhá o the plow disso e você tem que
+fazer sempre a calibragem do modelo ou
+escorar o modelo literalmente a gente
+vai enfrentar um problema quando eu digo
+que a gente vai enfrentar um problema
+pelo seguinte porque o dado espacial é
+tão especial que vocês podem ver que a
+maioria dos cursos de dados saem sequer
+se tenham se com os dados parciais em
+separado para os cursos que vocês vão
+ver que tem essas pessoas não falam de
+dados facial porque a mãe é uma situação
+muito especial
+só que acontece
+da mesma forma que é é a islândia e
+comentou que ele jogue rever todo mundo
+faz é modelo por exemplo de série
+temporal existe pra caramba porque a
+gente consegue fazer algo com relação a
+essas coisas e definir comportamentos
+passados no tempo para aprender coisas
+no futuro
+só que ninguém é o espacial empresta
+esses conceitos do temporal
+e a gente tem um jogo em rever sim se
+você começar a fazer uma lista de tudo o
+que você faz
+durante uma semana durante um mês prevê
+que dali já saiu o modelo só do seu
+comportamento
+só que literalmente não tem essas
+questões nos cursos de datas a esse
+pouco são alguns cursos que toca nesse
+assunto
+e aí eu quero nem dar isso no que você
+comentou laura
+existe uma técnica muito simples
+espacial é uma pena que não deu tempo
+porque esse é um assunto ele é extenso e
+eu acho que o assunto é bem inclusive ea
+gente por incrível que pareça nós
+falamos ou uma liga que pode além de
+corrigir
+nós falamos pouco até da parte espacial
+tem muita coisa para se fazer mais uma
+coisa que você pode fazer para testar
+deles faz sentido não é justamente
+descobrir a vizinhança desses é porque
+quando você olha o modelo o sepe como
+valério categórica e os eventos que
+estão atrelados necep
+você não sabe se ele é uma epidemia
+regional ou se é um problema único
+daquele sep
+o fato de você não saber que um sempre
+que tem bastante evento é vizinho de
+outro célebre também tem bastante evento
+você não entende que o problema uma
+epidemia regional e você pode modelar de
+forma regional
+então uma técnica que o indicou para
+vocês fazerem uma técnica exploratória
+que dá pra começar já comentou com a
+gente uma outra vez é um chamar um
+negócio chamado índice de morango está
+em pesquisa e já dá pra começar você vai
+passar pelo processo dos seguintes vai
+pegar todos os seus apps vai pegar lat
+long dos seus apps e vai ter que levar
+uma ferramenta que trabalha com data
+especial que nós recomendamos que jes ou
+r ou python tá dentro do pai com existe
+um pacote chamado g o pam das então
+vocês podem quem trabalha com o pai que
+utilizar
+na chamada região bandas dentro do rs um
+pacote chamado spdf né que é o espelho
+independência a fazer dependências
+parcial
+se você está numa ferramenta desktop
+como que jes uma ferramenta de banco de
+dados estruturados como constituir
+existe o post diz que você também
+consegue fazer as consultas através
+disso então você consegue ter uma ideia
+é um problema regional não e eu consigo
+te falar um case que aconteceu
+que descoberta de fraudadores por
+incrível que pareça existem fraudadores
+que agem de forma geográfica é então é
+foi levantado cep de todas as pessoas
+levantado todas as ações dessas pessoas
+entraram contra a empresa e como ela
+venha pro forma
+e aí thiago teve um problema é um bairro
+que você é ser do rio é conhecer chamado
+santa cruz e aí teve um problema de
+fraude em santa cruz muito grande numa
+época dos cartões de crédito que ele não
+era um problema é aleatória no espaço é
+um problema algo relacionado no espaço é
+um problema geográfico de fraude
+então quando você mina esse problema
+geográfico
+a gente vai ver que a resolução do
+problema esses praia então esses
+jogadores eles vão tentando migrar para
+outras regiões você só consegue ver isso
+quando você olha por exemplo sep
+como comentei agora pouco do ponto de
+vista com óculos geográfico
+você está olhando 7 como uma variável
+categórica você tem uma faixa de cep
+mostrou nos eventos que estão
+acontecendo lá e você modela o século
+que moro comentou estou tentando é falar
+aqui um resumo da ópera é você ter um
+olhar geográfico será que o problema
+daquele sep
+será que é um problema regional ou será
+que é um problema é aleatório será que
+ele é um problema concentrado só vai
+conseguir ter essas respostas
+quando você trouxer para lat long
+colocar no mapa e modelar isso então não
+é simplesmente trazer lat long de
+modelar tirou de modelar aqueles dois
+conceitos que eu falei no começo é da
+nossa conversa que é o distanciou
+vizinhança
+esses dois fatores vão definir se é um
+problema local problema regional
+uma dica que eu dou essa então olhe o um
+pouco de óleo cep com carinho
+de vista geográfico não só como um algo
+cadastral
+então isso já vai ser um primeiro passo
+que você não disse pra lá e ela não pode
+ser limitado demais regiões porque perde
+na maturidade a freqüência de significar
+baixo e isso então é esse ponto que a
+gente comentou
+mas você pode perceber por exemplo você
+precisa colocar o sepe a light longo dos
+78 vôos e pode definir conjuntos de ceps
+sejam 74 75 e olhar a vizinhança os f-5
+a vizinhança dos 74
+pra você ver esse é um problema
+epidêmico ou não necessariamente precisa
+ser um dos oito destinos fpv comentei 8
+diz tudo serve pode ser um trecho de rua
+então o correio tem uma avenida que só o
+lado direito numeração ímpar tem 178
+então realmente ele não vai ter massa
+mas você corta alguns dígitos de cep e
+olha também do ponto de vista jogar você
+vai ter uma massa de dados para
+trabalhar
+é o que o marido comentou da massa de
+dados e no começo ele também sem dúvida
+é agrupam-se é dois dias à guiné e
+quando a massa mas você pode olhar o
+conjunto do ponto de vista geográfico
+isso o que ele falou é o que pode
+explicar é o cep do local e os ecos do
+vício vizinho também pode ajudar a
+explicar é uma idéia de séries temporais
+nessas séries temporais o passado o que
+explica o antes que explica de certa
+forma aqui é o sérvio vizinho que vai te
+ajudar a explicar também o que acontece
+naquele 7
+quem conhece o temporal
+da mesma forma que você trabalha oleg
+nem a defasagem de tempo com quem
+trabalha com espacial também chamado de
+leve só que leva espacial a defasagem no
+espaço então digamos assim os vizinhos
+imediatos é que a gente mande leve um
+degrau a 1
+os vizinhos dos vizinhos que a gente
+chama de leve dois
+quem trabalha consegue temporal e tem
+191 ligue 2 l m
+o intuito é o mesmo então você olhar
+como os seus vizinhos em tempo
+no caso da série temporal ou seus
+vizinhos no espaço influenciam esse
+indicador é muito bom mesmo
+mas o pode seguir pessoal é tocar o
+barco aí o milho é uma coisa sobre ele
+estava num somente agora nem que ela
+trabalham por parte de sempre
+respeitando a geografia então é mais ou
+menos olhar vizinhas obrigado pela ajuda
+é isso mesmo que eu queria só comentar
+aqui que a gente discutiu com o marido
+nós conversamos antes de trocar idéia
+com vocês é ótima pode mandar e mail
+depois gente tá podem entrar em contato
+com nosso linkedin há dentro com a idéia
+é a gente faz um negócio bem mas não vai
+colocar lá com certeza o show de bola
+que eu queria comentar aqui é um outro
+ponto de insucesso de maurílio da
+decolar né
+quer comentar do do ponto de vista de
+colar lado ela deve ter alguns questões
+geográficas também que 10 o excesso é os
+anfitriões até de segurança questões
+jurídicas também a decolar recentemente
+ela foi multada e 7 milhões em alguma
+coisa 781 milhões e praticar o chamado
+já o price ii já o preço é o já o bloco
+então você se limita às passagens limita
+a hospedagem e função da localização das
+pessoas então para as pessoas que
+moravam no brasil tinha uma certa pra
+queriam comprar quer que a frança tem
+uma certa limitação de do karatê de
+hotéis para quem mora no brasil e outra
+quantidade para quem mora em buenos
+aires por exemplo
+sim isso na sua avaliação não só look
+disso é o bloco que o limite em função
+da sua localização ea de precificação
+também joga pra isso o diferencia o
+preço da sua localização
+como é que quando é quase de seguro por
+exemplo pode fazer isso porque é uma
+questão de segurança uma questão de
+proteção mas em casa mesmo em outros
+carros nos pode fazer e aí ela foi
+multada em um caso recente de queda
+desse ano é essa agora
+os campeões no passado mais recente
+mesmo e aí que acontece essa tarifação
+dinâmica dinâmica do uber nada mais do
+que uma tarifação dinâmica dependendo da
+localização e da demanda é que o qual o
+que acontece há a da uber ela é
+explícita
+então as pessoas sabem que isso acontece
+no caso da decolar
+ela não era explícita então a decolar
+fazer isso sempre os clientes soubesse
+então se eu por exemplo em praça aqui dó
+besteira em são paulo para comprar uma
+passagem o tiago entrar lá no rio para
+comprar passagens preços eram diferentes
+por causa da nossa localização
+então a decolar foi multada por causa
+disso você pesquisar na internet aí
+vocês vão perguntar decolar de gestão de
+uma organização já o país em que moro
+comentou
+vocês vão achar esse artigo aí e é bem
+interessante e aplicações dos mais
+diversos pontos e imaginar por exemplo é
+polícia federal conseguiu mensurar o
+consumo de cocaína no bairro através da
+localização do esgoto das pessoas e do
+teor de produto químico diluído na água
+por exemplo a agricultura de precisão
+então você pode adubar uma área mais do
+que a outra conforme você vai
+completando no próprio trator e fazendo
+análise química e ao mesmo tempo que
+você usa o gps do trator e você vai
+passando
+então como eu falei a gente confere um
+bate papo super legal aqui mas esse
+negócio é tão gigante as aplicações
+estão são tão enormes principalmente de
+um de alguns anos pra cá com o advento e
+da popularização do gps o gps de fato
+ele abriu no ano 2000 para o público em
+geral foi bill clinton em abril
+até então ele tinha um proposital de 100
+metros e ele era uso militar
+então hoje qual o qual é um negócio que
+não depende do gps pegas maiores
+estatais os maiores cases de sucesso de
+empresas
+se não em sua totalidade maioria usa
+dados de geolocalização para sobreviver
+seja transporte seja comida seja emprega
+seja qualquer coisa então o dado de
+geolocalização lhe está inerente a um
+ponto você tem até quando eu fiz a minha
+dissertação de mestrado começou em 2007
+eu tenho até um papel guardado não
+existia dados do google trânsito então
+tive que tabula todo
+trânsito histórico da cet que estava
+feito em papel
+então tive que fazer isso porque até
+então não tinha o o o trânsito no ano
+2000 para vocês terem uma idéia o mapa
+do município de são paulo custava cinco
+mil reais à época
+e detalhe custava cinco mil reais em
+2000 salário mínimo de 151 resto tá bom
+pra você ter uma idéia enquanto se
+custavam mapa
+então as empresas que trabalham com
+geomarketing essas outras empresas é é
+hoje é uma commodity mas na época não
+era então você está em manter uma idéia
+como se popularizou dados geográficos
+dão hoje todo mundo tem um gps na palma
+da mão
+antigamente é comprar aparelhos nem tem
+uma marca super famosa da garmin então
+não tinha gps da garmin para poder fazer
+levantamento em campo fazer um estudo de
+um bar que tinha essas coisas e mais pra
+trás ainda estude o marketing igual esse
+mapa que traz só colocando o cano de
+alfinete nele pra fazer as coisas né
+hoje você tem tudo de forma digital e
+que eu comentei o dado geográfico está
+aí na minha humilde opinião ele ainda é
+subutilizado tem muita coisa pra fazer
+com ele muita coisa pra testar e acho
+que a gente pode seguir essas empresas
+que estão ainda na vanguarda está com
+essas coisas elas estão usando é cara
+timber ela usa localização para
+encontrar pessoas aí food pra comida o
+perito pra comida usa o exemplo o
+próprio heyse rubber 99 cabe fai
+qualquer outra coisa transporte usa é
+qualquer coisa que você vai fazer hoje a
+maioria delas pede localização e assim
+temos um vasto dado um conjunto de dados
+que podem ser testados
+eu acho que é como falei a nossa
+conversa infelizmente não se finda aqui
+porque é tem tem tem muito pra gente
+conversar e esse mundo é enorme se com
+qualquer tema qualifica a essência de
+dados né
+mas acho que é o nosso papo aqui nem
+obviamente acho que esse ponto é e
+cidade é essa parte espacial é pouco
+explorada nos cientistas de dados
+então acho que a ideia já condenadas em
+tim e levar isso pra gente discutir mais
+né então acho que é esse ponto de
+discussão
+em aplicações dos mais universidades
+inteligentes é é unificação com a lente
+leica analytics também seu como a
+localização influencia nas dos
+trabalhadores das empresa exatamente o
+próprio pokémon go
+a realidade aumentada e aí pessoal com
+realidade virtual como localização assim
+aplicações têm bastante e se a gente
+fosse falar só de aplicações hoje sem
+falar dos outros temas já seria
+praticamente um outro bate papo mas tem
+muita coisa então acho que é legal por
+causa disso a gente tem em a nossa
+esperança é que isso se popularize mais
+e entre os artistas cientistas dados com
+os geógrafos já trabalham com isso mas
+conectar tudo isso economistas pessoal
+marketing certa vamos utilizar o dado
+parcial vão aproveitar o ibge dá pra
+gente não aproveitava os institutos de
+pesquisa são pra gente pra gente
+conseguir enriquecer o que a gente pode
+fazer uma orelha aqui é um cara que
+conhece muito de demografia o mestrado
+dele é nisso que dá pra fazer o
+enriquecimento se quiser falar na hora
+da montagem já estou eu tenho pra dizer
+que eu sou suspeito de falar que eu sou
+apaixonada pelo que eu faço e assim o
+céu é o limite
+[Música]
+com o tempo eu tenho pois responde por e
+mail como fica o horário fica à vontade
+tranquilo
+a empresa tem uma dificuldade no
+trabalho analisam deslocamentos
+logística e com a atualização da dp vez
+montados para telecom gostaria de saber
+se tem alguma dica o trabalho com escala
+nacional o fc agrupamento de municípios
+falam me referindo se sobretudo na
+região norte em razão do deslocamento o
+rio em meio à floresta amazônica
+nesse caso específico que são do the rio
+eu nunca trabalhei nada específico assim
+disse márcio trabalhou humano é dentro
+do do hospital nós chegamos a fazer um
+estudo é interessante pra otimizar o
+deslocamento esse é um problema mais de
+logística do que um problema de
+geomarketing digamos assim
+então vai muito de escolha derrames
+então por exemplo a qual foi a conclusão
+que a gente chegou em algumas coisas
+era mais fácil uma pessoa que atende a
+região norte ficou em brasília do que na
+própria região norte porque porque a
+região norte é mais acessível a vôos e
+brasília é o principal rambi para vôos
+na região norte por exemplo então era
+mais barato deixar ele mais distante do
+que ele deixará mais perto e vamos supor
+uma pessoa ela estava em manaus
+precisava visitar rio branco ela tinha
+que passar por brasília
+uma pessoa estava em boa vista precisava
+visitar belém tinha que passar por
+brasília
+então pelo menos na época era assim né
+então é nesse sentido o o problemas eu
+me trazendo problemas logísticos
+é lógico que o problema geográfico mas
+no programa mais logístico do que é um
+problema de modelagens parcial de contas
+você pesquisar alguns papers que o
+pessoal da da parte de engenharia
+cartográfica da aeronáutica fez alguns
+players que falam sobre isso
+principalmente é ter um professor do imp
+deixou lembrar o nome dele aqui o nome
+dele eu te respondo ele trabalha
+bastante com esse tema de utilização
+especial porque são logística
+então tem um tempero do pessoal da
+aeronáutica foi pelo pessoal do inpe que
+trabalha com está acho que que é a dica
+que eu tenho pra fazer aqui um grande
+tento boa noite gostaria de conhecer
+quais são as ferramentas em 2007 para
+trabalhar com geolocalização no brasil
+existe alguma gratuito mais custos que
+vocês falarão r haitham teve né
+essas são as principais utilizados -
+existem algumas empresas que fornecem
+ferramentas em várias ainda não perde
+está falante tipo cognatis já o fusion
+economa papas urban systems democracia
+de mercado existem vários mercados que
+sou não existem plataformas vian
+sistemas assembléia de aluguel tem uma
+assinatura se aluga já tem uma
+plataforma web que você permite fazer
+análise fazer análises parciais usando
+essas ferramentas também alguma saiu a
+questão do uso
+o twitter não conheço nenhuma dessas são
+de mercado são pagas
+o curso vai variar muito da das
+funcionalidades de como era a relação
+com a empresa em que você é eu quero só
+uma região eu quero vários tipos de
+dados eu quero subir os garis também
+para isso vai influenciar na no uso
+dessas ferramentas e essas ferramentas
+de empresas shell marketing mas hoje em
+dia com a disponibilidade de dados que
+tem também na internet da dbg é gratuito
+o trabalho às vezes que tem o trabalho
+de organizar esses dados com essas bases
+de dados mais uma vez feita depois mais
+tranquilo com executados que se tem
+muita coisa que tem é gratuita
+dá para trabalhar muito fácil enquanto
+xx o o hélio com parte por exemplo se os
+dois só tem gratuitos mais utilizados
+software de geoprocessamento sistema de
+informação geográfica o registo gbs
+guiné aos mais é o twitter são
+exatamente é que jes gcm que jes é é é
+muito bom tá na comunidade é grande tem
+bastante vídeo na internet é e trabalhar
+para integrar né com o pai também é né
+isso olhe eu e tem também dá pra entrar
+e integrar com o banco de dados também
+não me engano por dizer né é isso é o
+queijo o que acontece é ela coisa que
+cometer é o tempo é escasso o que gisele
+é uma ferramenta cria um front end é uma
+ferramenta desktop que ele conecta vocês
+quiserem
+ele tem janelas para trabalhar com r
+cuja visualização se dá dentro do que
+rege se por exemplo você pode fazer
+modelos em r desde os pacotes r estejam
+instalados que ele vai fazer conexão com
+r instalado você consegue rodar ele
+dentro do qg isso ele já tem python é
+nativo então é o o o um pacote de python
+do próprio que x você trabalhar
+ele por exemplo quando você consegue
+conectar compôs tigre né então possuir
+um banco de dados
+e aí tem uma extensão
+ou siges você consegue fazer conexão
+ele conecta por exemplo houve a bbc
+vários bancos de dados não ser trazer
+algo tabular e trabalhar com já o
+orçamento dentro dessa dessa plataforma
+e que gisele é totalmente gratuito né
+então eu eu hoje entendo que o que disse
+é o maior software gratuito do mundo a
+trabalhar com um com a base de
+recrutamento é ele ele é mais potente
+clique justamente por um ponto eu
+comentei no começo e aí eu vejo uma
+vantagem particularmente disso que o
+dado espacial é um dado muito visual
+então às vezes você precisa aceitar uma
+fronteira você ia fazer hardy kohl de
+modifica as coordenadas estão posição x
+ou y brasil de 2012
+você fazer isso n vezes informa é de
+escala mas só se você olhar de forma
+visual não existem alguns truques
+processo no tecnologia e isso ajuda as
+ferramentas google promove falou isso ou
+aquilo que jes o r do do r
+existem pacotes para trabalhar com dados
+parciais utiliza esse cara aqui e do
+python utiliza esse aqui ó
+esses são os principais resistências
+ferramentas refletir também é muito bom
+né do evento melhor visualização por ora
+isso é o lift ele é mais para dar do
+cosmético
+tá mas ele é muito bom também mas gente
+existem e ferramentas que conectam e
+como falei gente não está tendo um jabá
+aqui pra falar mas acho que é legal a
+gente comentar por exemplo power piaí
+para quem vai fazer é netboard conecta
+com dados georreferenciado falou
+conectar com dados georreferenciado oi
+viu viu
+embora com o tema extensão chamado hora
+com space show para você trabalhar de
+forma especial os dados do órgão o sql e
+os peixes kelly para trabalhar com dados
+do sql do do software mesmo né
+então existem várias fontes vocês
+pesquisar na internet e que também uma
+coisa
+dável então tem nossas ferramentas
+gratuitas trabalhado qualquer vantagem
+nas consultoria soldado aleimar xingado
+e dependendo da aplicação que vai fazer
+ele está pronto
+agora se você é tá estudando ou tá
+começando em prejuízo que ela e dar
+alguma coisa você vai enfrentar
+problemas ao longo do caminho novamente
+mas existem essas ferramentas gratuitas
+com dados gratuitos ea ego não sei se
+está aqui guardado ainda é uma dica que
+o vitor deu que de um local chamado la
+vigias da uerj universidade estadual do
+rio de janeiro
+lá você tem um site desse seu risco em
+fontes local site one boa
+por favor show ontem tem dados e pé ea
+data obama banco central é inepta da
+educacional todas as cidades você
+consegue trazer já o referencial de
+alguma forma trabalhar com a parte de
+geografia dela
+ótimo muito obrigado e mestres e
+agradeço imensamente aí o conhecimento
+transmitido a gente viu aí a importância
+de geomarketing já a localização a gente
+trabalhar isso essa dependência espacial
+nem que tem uns problemas né que a gente
+consegue otimizar nossas análises né
+e agradeço imensamente e se puder a
+gente marca 1 ao 11 alguma aplicação
+depois de tudo mais
+a gente viu algum tipo de aplicação não
+erre no pai tom pra galera ficar um
+pouco mais concreto assim massificou
+showbol gostei demais do papo aqui
+obrigado e até a próximo então valeu
+galera e pela presença também é o nosso
+só fazer uma última construção das upas
+é só pra fazer um comentário aqui também
+que da mesma forma que a gente não tem
+jabaquara fala de empresa vou falar de
+alguns institutos de pesquisa alguns
+professores que vocês podem pesquisar na
+internet e procurar caso vocês terão de
+discutir e bastante esse assunto tá eu
+conheço a maioria desses professores
+um outro não conheço pessoalmente mas eu
+recomendo esses professores
+principalmente nos materiais que de que
+eles têm os papers que eles escrevem e o
+acesso dele está é quem quiser acessar
+alguns professores da ufpa bc recomendou
+a professora sônia feitosa o professor
+vítor vieira eu não conheço pessoalmente
+mas a flávia eu conheço pessoalmente
+para a professora carolina pinho tatão
+da federal do abc se três professores
+manjam bastante desse assunto
+eu acho que são referência nesse assunto
+é cláudio feitosa
+vítor vieira vasconcelos brito e
+carolina pequim carol ea fabiano
+ele é da federal do abc disse isso pra
+quem tá em minas a federal de minas tem
+um professor que é sensacional que o
+renato assunção conhecidíssimo do de
+quem trabalha com dados parcial
+renato assunção tá departamento
+estatístico ele terminar o campeonato
+sem som
+exatamente conhecido então dada federal
+de minas da federal de juiz de fora um
+professor da que trabalha com
+econometria espacial pedro almeida
+também é uma referência no assunto é um
+livro publicado no the economic social
+professor eduardo almeida da gente fora
+um professor de uma orelha e conhece bem
+aí que o pólo justiniano não é hora de
+falar que é federal do paraná zaki
+departamento de estatística da
+referência que tem um colega e também
+que o laboratório de se eu vi eu já ouvi
+falar desse prol do sine am de assunção
+é ele toca o leste laboratório de
+estatística espacial parte uma leste
+ele toca lá o professor que eu tive aula
+e eu recomendo bastante também que eu
+tive aula com ele na de econometria
+espacial na série a quebra na economia
+administração professor danilo igliori a
+um cara também muito conhecida no ramo
+eu acho que ele é um
+[Música]
+anna hazare móveis animais bastante
+disso aí ele o professor que é amigo
+particular meu também que é um cara que
+manja pra caramba
+desde o modelo sensacional que através
+de dados espaciais e gasto de energia
+elétrica ele consegue estimar ainda que
+o professor eduardo francisco ela da fgv
+de resende francisco que ela da gv assim
+eu até pedi licença shopping pra falar
+não corre é como eu falei também com a
+vontade que a gente só está falando as
+pessoas que são referências para nós um
+outro carro ajudou demais a gente ter
+referências sem perspectiva de entrada
+que foi a diferença pra mim bibliografia
+espacial é muito também é o gilberto
+câmara porque ele foi presidente do imb
+também o militar na onu têm alguma é é
+gilberto câmara
+ele também é um professor bem conhecida
+essa parte social
+então os professores se esse vídeo
+chegaram vocês mil desculpas a gente
+está vivendo de música pra vocês vai
+cantar com nossas referências tá ótimo
+acho que é louvável citá los como o da
+comunidade de sites cientista de dados
+que vocês sejam conhecidos aí porque
+vocês merecem um bom show de bola quando
+colocar o vídeo lá eu não vou colocar os
+nomes eu anoto tudo direitinho só se
+você precisar um homem também algumas
+referências aí é quem quiser acompanhar
+as linhas também fica à vontade está à
+disposição de tentar ajudá lo sair de
+alguma forma e pensem com carinho
+eu falei é o melhor fechamento do que eu
+tenho que falar assim pensa com carinho
+e existe muita oportunidade vamos falar
+com bastante coisa legal para fazer um
+show de bola briga não se agradece

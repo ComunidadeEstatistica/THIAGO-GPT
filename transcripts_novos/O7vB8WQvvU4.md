@@ -1,0 +1,490 @@
+# Introduction to Big Data
+
+- **URL:** https://www.youtube.com/watch?v=O7vB8WQvvU4
+- **ID:** O7vB8WQvvU4
+
+## Transcrição
+
+olá sou cristã aranha da entropia e vou
+falar pra você hoje sobre big data para
+o canal estate físico então big data é a
+solução para os problemas que envolvem
+um grande volume de dados como podemos
+ver na figura o navio está assoberbado
+de container terabyte de trabalho de
+sendo gerados na internet e o que fazer
+para lidar com um volume tão grande
+novas tecnologias estão surgindo e nós
+vamos ver um pouco sobre isso nesta
+apresentação
+então afinal de contas por que estamos
+aqui querendo aprender big data dá para
+ver pelo google trends uma análise
+rápida com alguns temas relacionados à
+big data como da tamanho mach lan e da
+tam e lan house como é que me que data
+vem se destacado na mídia ao longo do
+tempo principalmente aqui 2011 mais ou
+menos começa e ultrapassa em 2013
+nós já vamos entender por que esse
+fenômeno está acontecendo é o que eu vou
+falar nos próximos slides
+a primeira palavra que a gente precisa
+entender errado pe a palavra está super
+associada ao termo big data
+todo mundo fala em big data a um pouco
+tempo atrás perguntava você então
+trabalha com a dupla e por que essa
+associação é tão importante a gente pode
+ver neste gráfico aqui que a gente tira
+também no google trends que é errado pe
+a linha em azul começou a crescer mais
+ou menos em 2006 2007 um pouco antes do
+próprio termo big data é crescer e
+ultrapassar até o termo errado pe
+vamos ver porque essa associação
+histórica cidade
+a explicação é a origem como é que tudo
+isso começou começou por causa de uma
+grande empresa tecnologia que estava
+revolucionando o mercado de the big data
+que na época nem tinha esse nome mas
+sabia tratar muito bem os dados
+ela deixou todos os dados da internet e
+dava em poucos segundos em uma busca
+essa empresa era o google o google
+durante muito tempo era tava muito na
+frente na em termos de processamento de
+dados do que os outros players no
+mercado
+ele conseguiu entender que se você
+juntar vários computadores de médio
+porte você conseguir ter um poder de
+processamento maior do que atrás de
+melhores computadores chamados nem
+frente mas como o gol conseguiu tudo
+isso eles criaram essa tecnologia saíram
+na frente hoje uma das maiores empresas
+do mundo e para mais ou menos no início
+dos anos 2000 eles resolveram publicar
+alguma que alguns artigos acadêmicos
+explicando um pouquinho para as pessoas
+o qual era grande mágica deles então em
+2003 ele
+sou o primeiro ativo chamado de google
+foi o sistema ou seja como armazenar
+volumes grandes de dados em vários
+agradecer ter ligado e tal e mais ou
+menos esse sistema em 2004 ele lançou
+talvez o artigo mais importante chama
+métodos que a origem de todo o movimento
+de big data com o que esses computadores
+os cpus no processamento desses
+computadores poderiam se interligar se
+conversar se interconectar para fazer o
+processamento de grandes é algoritmos em
+grande base de dados
+é claro que não há qualquer algoritmo
+então os objetivos específicos que
+funciona mais reduzido mas valeu a
+matemática para poder é adaptar alguns
+algoritmos que vale a pena o ganho de
+processamento e finalmente 2006 no big
+table que a base de dados pública rápida
+que eles guardavam todos os dados já pré
+processado então pra quem acha que o
+google realmente processar aqueles dados
+e nanossegundos entregar estava errado
+ele passa uma semana proteção de dados
+todos e guarda habilitei banco onde ele
+realmente te entrega tudo muito rápido
+então um desenvolvedor muito esperto e
+muito experiente que trabalhava no yahoo
+na época um grande concorrente do google
+e nem tanto é ele olhou 33 artigo e
+falou olha só eu sei o que estão falando
+eu sei desenvolver esse negócio pegou os
+artigos e desenvolveu tudo em código
+java e disponibilizou na internet de
+graça o que a gente chama de comunidade
+open source
+esse código ele batizou de nome adup é o
+elefantinho amarelo
+então muitas pessoas no mundo inteiro
+começaram a ter acesso a grande
+ferramenta grande tecnologia de
+processamento de dados em grande volume
+daí a dupla começou a decolar em termos
+de nome de pesquisa e discussão na
+literatura
+então a gente pode ver aqui hadopi
+crescendo e emily data era um termo é
+super mediano não se falava nisso
+barrado por crédito cresce até que
+outras empresas além do google como
+facebook começaram a entender que tinha
+fazer um banco de dados próprios
+o twitter também o linkedin também esses
+bancos de dados próprios
+eles começaram a ter características
+específicas para poder escalá e
+processar muitos dados e processar
+rápido esses dados que os bancos de
+dados tradicionais não tinham a gente
+vai entender um pouco porque que isso
+como que essa mágica aquiacontece tá
+então devido a essas necessidades
+próprias empresas começaram a
+desenvolver seus próprios bancos de
+dados isso não existe ante todo mundo
+usava um publicidade hora com o banco de
+dados ibm db2 é o mais que ele serve
+aí começa a desenvolver os próprios
+bancos de dados esses vários bancos de
+dados novos começaram a chamar banco de
+dados no circo no skelly de não é no
+ciclo de not only é fiel
+são vários blindados 9 com nomes
+diferentes percebe não era tudo em cima
+do métodos que era errado pq era
+basicamente um único no mercado por isso
+aquela estatística que a gente viu fazer
+sentido é agora a gente tinha um novas
+mobilidades novo ciclo que era muito
+mais voltado para velocidade do que o
+volume era muito importante processar a
+entregar resultados rápidos na internet
+hadopi vim atender é a questão do volume
+e na academia acabou se se configurando
+os três vezes de forma didática que há
+uma definição de big data que atende a
+processamento de volume de dados de
+velocidade de dados e variedade dados
+sobre data não está só associado à
+grande volume e volume está associado a
+origem que é o adubo e um micro ônibus
+então em termos gerais é essa aqui é a
+melhor definição o que eu acho ligados à
+plataforma baseados em métodos que
+honrado pelo caso e banco de dados no
+circo talvez no ciclo seja mais
+importante até do que o hadopi hoje para
+processar esses dados é isso que a gente
+vai ver nos próximos laid vamos começar
+com velocidade velocidade na minha
+opinião é a característica mais
+importante do big data hoje tem vários
+blindados no ciclo preparados para isso
+então pesquisando rapidamente num ciclo
+logo você vê que essa linha amarela ela
+não acompanhando os anteriores ea gente
+já entendeu por que que essa tendência
+novo ciclo não é tão forte assim porque
+a gente não tem o único representante
+a gente tem um montão de empresa
+trabalhando no ciclo tá
+e a gente tem aqui ó uma uma régua
+histórica de quando que começaram a
+surgir um atrás do outro cada um atrás
+de uma solução específica porque tinha
+que fazer com que cada um tem um
+problema específico para resolver
+sei que desde 1971 reinava os
+tradicionais bancos de dados relacionais
+que atendiam a todos os requisitos de um
+banco de dados que a gente já vai ver
+quais são mais
+ele tinha muito problema de cada
+habilidade que para atender todas as
+exigências de um ponto em banco de dados
+de qualidade ele não conseguia escalar
+em dados
+então eu falei muito de mágica na
+verdade agora acabou a mágica porque não
+existe mágica em tecnologia que esses
+bancos de dados no ciclo vão fazer para
+atender com velocidade
+eles vão escolher algum critério para
+abandonar para deixar de lado ou seja
+isso aqui não é importante para a
+aplicação então tirando um desses
+critérios colocando 10 nessas figuras e
+consegue atender o quesito
+escalabilidade ea gente vai ver isso não
+vamos ver todos os bancos de dados aqui
+mas voltou a ficar os principais deles
+explicar como é que ele funciona antes
+de falar dessas características que eles
+vão abandonar a casa a casa para
+procurar escalabilidade vamos é definir
+um pouco aqui qual é o conceito de
+escalabilidade que às vezes não é claro
+pro maior parte das pessoas
+a habilidade é um conceito econômico
+então não é exatamente o conceito
+tecnológico ea idéia aqui é que a cada
+vez que você coloque mais um computador
+na rede mais uma cpu de processamento na
+rede a gente queira o máximo possível
+que essa cb1 seja agregada linearmente
+ou seja seis computadores não seis vezes
+de mais processamento sete computadores
+sete vezes de mais processamento
+portanto na prática não é assim porque
+tem um custo de conversa entre eles têm
+um custo de rede que vai ficando cada
+vez mais caro principalmente nos bancos
+nacionais muito caro e essa linha ela se
+satura muito rápido então a estabilidade
+uma boa sistema escalável ele busca essa
+linha de proporção linear mas ela nunca
+vai ser atendida porque sempre vai ter
+um custo sem é interno entre as máquinas
+e as características que são todas
+atendidas pelos bancos de dados
+relacionais tradicionais são essas
+quatro vocês vão ver que são quatro
+categorias importante nem sempre vai ser
+fácil de abandonadas na aplicação
+a primeira delas é a automaticidade da
+transação que acontece você tem vários
+comandos seguidos que têm que ser
+atendidas no seu banco é importante que
+todos os comandos sejam executados no
+banco se um comando de se não for
+executado em um determinado momento o
+banco vai voltar atrás e vai desfazer o
+que foi feito antes para que não
+aconteça inconsistência dentro do banco
+então se você tira é adiciona um
+telefone de uma pessoa do cadastro dela
+dois telefones dentro que estão dentro
+dela é importante que você tenha
+adicionado a pessoa antes imagina que
+você não conseguiu adicionar e depois
+adicionar ao telefone com uma pessoa que
+não existe vai vai ter complicações
+decorrência dos dados mais para frente
+outra coisa é a consistência entre os
+dados então muitas vezes um banco
+nacional
+ele usa chave que a gente chama de chave
+primária estava estudando e cruzo duas
+favelas na hora matematicamente quem
+chama de john e
+o resultado dessas tabelas é retornado
+no resultado do sql então a consistência
+é se você tem uma chave que é um
+ponteiro é de um de um registo de uma
+tabela apontado para outra tabela é
+importante que essa outra tabela com tem
+esse registo senão você vai fazer um
+jóia de uma tabela que tem uma chave
+apontado para lugar nenhum e isso a
+gente chama de problema de
+inconsistência
+continuando nós temos o terceiro
+características dos bancos de dados
+relacionais que é prezar pelo isolamento
+e garantir a concorrência ou seja tem um
+banco de dados a uma tabela e tem várias
+pessoas querendo acessar esse banco
+acessar para leitura é tranquilo
+problema quando várias pessoas querem
+inscrever nesse banco ao mesmo tempo
+então ele tem que segurar uma pessoa e
+atender outra e depois colocar tudo isso
+numa fila para que duas pessoas não até
+o mesmo registo ao mesmo tempo que vai
+dar problema imagina que você está
+fazendo um incremento 1 2 3 4 e 13 são
+duas pessoas escrevendo ao mesmo tempo
+ele obviamente vai chegar no 4 com cinco
+registros então acreditem
+superimportante para atender à
+concorrência
+por fim tem a durabilidade persistência
+dos dados que é uma coisa super
+importante porque pra quem não sabe o a
+memória ela não armazena os dados para
+sempre a sua armazenar enquanto o
+computador ligado na tomada
+então para você não perder todos os
+dados todas as alterações que fez no
+banco é necessário que o banco de vez em
+quando vá para o hd vá para o disco e
+grave os dados daquela tabela
+quanto mais vezes ele foi o disco mais
+lento esse banco de dados - ele escala
+quanto mais você fica a memória mais ele
+escala só que você tem o risco de perder
+os dados então esse é um dos riscos que
+se compram muito perder os dados e
+deixar tudo e memória
+por fim aquela imensidão de banco de
+dados no ciclo eles podem ser
+caracterizadas como o didaticamente
+nessa apresentação vou fazer pra vocês
+como alguns tipos de banco de dados
+pública table são os mais rápido de
+todos
+então eles abandonam quase todas as
+características de um banco de dados
+para entregar super rápido é muito usado
+para fazer caixa de memória o o segundo
+documento é o documentário é o documento
+thor é o banco de dados orientado
+documento ele vai ter uma rapidez mas já
+tem uma estrutura de documento bastante
+flexível vocês vão ver um pouco mais pra
+frente
+depois veio o banco de dados e
+orientados a a a índia invertido para
+fazer buscas de texto como google um
+banco de dados e colar tem vários tipos
+deles é muito usada probabilidade
+analytics porque faz muito rápido grupo
+bae aqui que se usa bastante o mapreduce
+do paper que a gente viu lá atrás vários
+bancos de dados clonados
+o mep reduz implementado e por fim o
+banco de dados orientado a grapho que é
+o que faz muito bem é johnny é a
+associação entre tabelas que é um das
+tarefas que toma mais processamento do
+computador
+porém ele tem zero ou quase nenhuma
+estrutura do documento vocês vão ver que
+não consegue nem trazer um documento de
+volta do banco aqui
+o primeiro tipo deles ele é super rápido
+porque também é super primitivo a gente
+só tem basicamente uma tabela rech
+memória chave e valor
+e você tem que se virar com isso você
+tem que colocar aqui ó
+as informações do usuário tudo junto com
+o campeonado pra chegar no valor
+específico então você pergunta o usuário
+do facebook você que lá ele recebe fred
+o twitter tão recebe brom então você tem
+que concatena informação e se virar com
+o resultado com que você tem
+ele é super rápido mas obviamente vai
+ter um monte de redundância que
+obviamente vai perder todas informações
+por isso teria usado temporariamente mas
+ele é o banco de dados mais rápido de
+todos
+depois de boa qualidade colunar como eu
+já falei ele é muito utilizado para
+agrupar para consolidar dados é o grupo
+bae do sql uma tabela do banco de dados
+tradicional como tá aqui ó a gente
+conhece é feito em linha então tem uma
+estrutura do documento super fixa super
+rígida em que todos eles têm que ter
+campo um campo dois em campo três
+certinho e tem que atender esse modelo
+embaixo do outro ele é armazenado no
+disco de forma ser realizado em qualquer
+linha 1 depois em a doida por 6 3 e 6 4
+imagina que a gente quer trazer é que a
+fazer contas com a primeira coluna e
+procurar todos os que têm a letra c
+a gente tem que navegar nessa estrutura
+de dados que têm memória ram disco aqui
+dessa forma uma duas três quatro cinco
+seis sete cheguei no documento que eu
+queria o documento c
+acontece que se é armazenar isso aqui de
+forma diferente orientado a coluna vou
+colocar toda a primeira coluna de por
+toda a segunda coluna depois toda a
+terceira
+eu só preciso de uma duas três para
+chegar na
+informação que eu queria da primeira
+coluna então você percebe que ele é
+muito ágil para fazer cálculos em
+colunas mas na hora de dar o retriever
+na hora de selecionar o documento
+ele é muito mais difícil aqui na
+primeira formato tava documento tudo
+prontinho é só trazer a linha inteira c2
+símbolo do euro aqui já não vai ser tão
+fácil chegou no c
+mas você vai ter que pular várias pra
+chegar no 2 depois lavados para chegar
+aqui e trazer o documento de volta então
+é muito usado só para trazer quantas
+vezes aparece e não para acessar o
+documento inteiro fica um pouco mais
+lento dependendo do que você precisa
+vale a pena documento no banco de dados
+baseado em documentos olha só que legal
+ele é super rápido também para fazer o
+select no banco e ele tem um estrutura
+de documento muito flexível lembra que a
+gente acabou de passar por uma estrutura
+super rígido de documento e todo mundo
+tinha que atender a mesma estrutura de
+campos 123 aqui não aqui você pode
+colocar um documento que você quiser
+você pode colocar o endereço depois
+colocam lixo de um filme você pode
+colocar um produto de e comerce por aí
+vai não é legal ficar colocando tipos
+muito diferente dentro de uma mesma base
+que pode perder um pouco o desempenho
+mas ele aceita e vai levando uma certa
+flexibilidade então você vê aqui que tem
+por exemplo dois números de telefone
+como eu falei pra uma pessoa específica
+e isso aqui é o que a gente chama de
+relacionamento no banco de dados
+relacional isso é que seria feito
+cruzando duas tabelas chave primária
+para poder entregar esse resultado e
+isso pra fazer com velocidade na hora
+custa caro
+dessa forma ele vem todo prontinho nem
+aí pra terminar já que a gente tá
+falando de relacionamento vem o banco de
+dados que o melhor de todos para fazer
+racionamento ou seja base dele é
+relacionar campo com campo campo com o
+campo ele é tão baseada em
+relacionamento que ele perdeu
+completamente a estrutura do documento
+então se você quiser fazer um seleto e
+trazer um documento tem que determinar
+até onde você vai buscar esse documento
+porque ele não tem um recorte claro no
+documento ele é fundamentalmente pra
+você fazer um jovem muito rápido na
+verdade
+já estão todos processados dentro do do
+banco de dados muito usado para redes
+sociais por exemplo
+então é terminando aqui a apresentação
+de big data vale a pena falar sobre o
+mercado tem um novo profissional sendo
+criado e chamado gato chamado de baby
+beef por que vocês vão ver que não é
+fácil entender de todos os bancos de
+dados disponíveis no mercado são muitos
+deles não estão todos aqui só estão
+alguns pra você ver a quantidade de
+estudo que tem que ter mas quanto mais
+você souber os tipos desses bancos de
+dados mais você vai saber aplicar o
+banco dado certo para o seu problema
+certo e vai ser que vai fazer com que
+você aumente o desempenho e seja o
+melhor profissão funcional de bebê ou
+seja depende de muito estudo
+eu fico aqui sou cristã aranha eu estou
+nas redes sociais linkedin instagram o
+youtube
+obrigado por acompanhar até o final

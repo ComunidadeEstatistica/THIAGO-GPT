@@ -1,0 +1,179 @@
+# Aula 07 – Obtendo e visualizando dados de ações com a quantmod - Trading com Dados
+
+- **URL:** https://www.youtube.com/watch?v=iDfuRYGdsOE
+- **ID:** iDfuRYGdsOE
+
+## Transcrição
+
+e nessa sessão eu queria apresentar para
+vocês uma outra biblioteca a biblioteca
+quanto emoji que quer dizer mais ou
+menos contenta teve modo ali né e
+modelagem quantitativa para o r essa
+biblioteca é bastante conhecida bastante
+utilizada por quem fala é justamente
+esse não é modelagem quantitativa ela
+tem algumas ferramentas que permitem que
+a gente faça análise de ações análise
+técnica por exemplo em algumas delas eu
+vou apresentar aqui para você então
+vamos começar a nossa
+a Sessão 5 utilizando a biblioteca
+o quanto molde e aí pessoal a gente vai
+ver aqui que quando biblioteca continuou
+a gente também é capaz de capturar dados
+de negociação de ações de uma forma
+bastante parecida com que a gente fez
+antes ah lá com a biblioteca best get
+some Balls Então se eventualmente vocês
+se sentirem mais sua mulher idade
+gostarem mais a biblioteca quanto mão de
+vocês também podem usar essa biblioteca
+para obter os dados das ações e fazer as
+análises que a gente já fez aqui antes
+tá então Vocês poderiam fazer a bastaria
+trocar a biblioteca né para fazer a
+obtenção dos dados com a biblioteca que
+você mais gosta e o resto das análises
+Vocês poderiam fazer do mesmo jeito
+então a gente precisa chamar essa
+biblioteca e depois a gente vai ver a
+função mais importante dessa biblioteca
+que a gente obtém
+e os dados de negociação de ações que é
+a função getsymbols Então vamos dar uma
+olhada aqui na ajuda para ver o que é
+que ele se em gostei' né então você tem
+symbols quem vai aumente até alguns
+parâmetros que a gente não precisa se
+preocupar muito é verdade o que a gente
+precisa se preocupar de fato nessa
+função vou mostrar aqui para vocês estão
+em greve sem bolso você colocaria
+símbolos é a ação ou as ações que você
+quer pegar no caso para facilitar aqui
+para gente vamos usar uma ação americana
+eu vou usar aqui a Apple tá de exemplo a
+gente pode colocar a data de início para
+colocar o intervalo menor e facilitar
+Nossa análise de dados para gente
+conseguir ver os candles né que a gente
+vai fazer análise técnica eu vou colocar
+a partir do dia primeiro de Janeiro 2020
+a gente precisa terminar Force também né
+que é uma fonte eu vou colocar aqui a
+fonte a Yahoo uma característica
+Olá pessoal quando você faz isso aqui e
+obtém esses dados Observe que você não
+criou o automaticamente nenhum objeto né
+eu não chamei isso aqui por exemplo de a
+pele mas a função automaticamente ela
+cria um objeto aqui na memória do Erre
+Qual o nome da função que eu tô buscando
+Então vai ser muito ele já criou aqui um
+objeto só chamado a pele e observem ele
+tem preço de abertura preço máximo
+é o valor mínimo o preço de fechamento o
+volume negociado naquele dia e o preço
+ajustado vamos ver aqui o último valor
+de preço ajustado para Apple no pregão
+do dia Dezenove de outubro de dois mil e
+vinte aqui tá 115/115 dólares é mais ou
+menos 115/98 isso daqui vocês também
+poderiam fazer sei lá chamando você aqui
+de Algum objeto então Presidente dados
+Apple
+é da mesma forma né ele também assinala
+isso daqui a um objeto mas na verdade eu
+preciso mudar um parâmetro aqui tá
+pessoal Pizzaria das parâmetro aqui
+auto-assign e dizer que isso aqui
+O que é falso então percebo que nessa
+função existe um argumento chamado
+auto-assign sei se realmente foi igual
+acho eu não preciso passar isso para um
+objeto ele já criou objeto
+automaticamente se eu coloco esse aqui
+igual a Sol Então eu preciso determinar
+o nome do objeto que aí quando executar
+isso aqui ele cria um objeto com o nome
+que eu determinei né nesse caso dados
+Apple
+Oi Rita que os nossos lábios
+o Anderson saiu que eu acho mais bacana
+aqui nessa biblioteca e a gente já pode
+trazer um valor gigantesco logo de cara
+já falou com ela pronta os dados de
+negociação de ações eu poderia fazer
+essa função que eu uso tá short Siri e
+bastaria você pegar os dados aqui da
+Apple e colocar
+e aqui dentro e aí o que é que a gente
+vê aqui se você se lembrarem lá dos
+nossos conceitos teóricos não é da
+análise técnica se lembra do conceito de
+Kendall aqui a gente consegue observar
+com clareza né os kendalls de negociação
+de Apple tão lembrem que os cangurus
+vermelhos são aqueles que andam de queda
+aqueles que um dos que representam que
+naquele pregão houve uma queda na
+negociação só Observe que aqui na
+verdade né ele mostra os quem dos a
+brancos né permite os brancos são
+querendo de alta e os cabelos vermelhos
+são Kendall de queda né pessoal então a
+gente já consegue ver aqui alguns
+kendalls a
+É bem a bem grande né bem expressivos
+esse esquema os maiores mostram que
+justamente Houve aqui uma se lá são
+muito grande né o rede de preço
+negociado naquele dia a volatilidade foi
+muito alta nesse esquema dos maiores
+aqui quando os quem não são menores quer
+dizer que eu rende de negociação de
+preço foi menor ouvir - variação no
+preço daquelas ações a gente fez isso
+daqui para umas americana mas caso vocês
+queiram fazer para ações brasileiras é
+essencialmente o mesmo processo Tap só
+então se eu quisesse por exemplo vamos
+lá ações da WEG
+e vamos ver como seria
+se lembrem que os dados que vem do Yahoo
+finance eles tem aquela característica
+vai apresentações brasileiras que eu
+preciso colocar um ponto esse ano final
+e
+bom então eu posso tirar esse
+auto-assign não tem deixar outro eu saio
+na verdade é igual a falso para
+conseguir assinar lá um objeto aqui vou
+executar dados verger aparentemente ele
+conseguir encontrar né vamos ver aqui
+bom então ele tem os dados de Jegue
+percebo que o preço ajustado tá
+atualizado e agora vamos ver os que
+ainda hoje velho
+e de fato faz sentido né WEG teve uma
+alta expressiva aí depois daquelas
+grandes querem por causa da academia
+velho e subiu bastante então esse aqui
+que a gente observa interessante a gente
+vê pessoal que nas últimas semanas aí a
+WEG praticamente só teve Kendall de alta
+né olha que interessante isso daqui e
+dessa forma a gente conseguiu visualizar
+os candles com r a próxima etapa né No
+próximo vídeo A gente vai ver utilizando
+esses dados né utilizando a as
+informações que vem na biblioteca
+quantmod como que eu consigo fazer
+médias móveis por exemplo como que eu
+consigo identificar cruzamento de médias
+móveis que são dos principais
+indicadores nos principais ferramentas
+utilizadas por quem faz análise técnica
+para trade né para de as suas operações
+então a gente se vê no próximo vídeo um

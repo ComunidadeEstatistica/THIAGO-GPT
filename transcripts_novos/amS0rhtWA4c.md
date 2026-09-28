@@ -1,0 +1,31 @@
+# Parte 2 - Análise Multivariada - CCA (Análise de Correspondência Canônica)
+
+- **URL:** https://www.youtube.com/watch?v=amS0rhtWA4c
+- **ID:** amS0rhtWA4c
+
+## Transcrição
+
+meus amigos sejam bem vindos hoje é a
+segunda aula cores ea no caso já está a
+parte teórica é agora o de prático o
+timão tem a função será a vez do
+deputado ricardo murad em inglês
+é o segundo mais poder nas componentes
+principais ministros e será respondendo
+ver que até assim com o volante assinou
+o conselho da informação de cada nota
+cada escola sabendo isto vamos traçar o
+nosso diferencial será o qual é a
+distância que sob o olhar de perto no
+mês o dólar é gratuito love no carro num
+[Música]
+banho de sangue mas muito
+significativamente
+[Música]
+outro exemplo andar de carro é esse
+menino porta que conforme a espécie
+visando que a terra está edson
+a dupla tem muito nesses números do
+emprego é instalado não se quer dizer
+que são em número de blogs é a pessoal é
+isso pessoal agradece a paciência

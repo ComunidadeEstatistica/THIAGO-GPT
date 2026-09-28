@@ -1,0 +1,48 @@
+# Depoimento Aluna Neyde - Casa da Pesquisa Operacional
+
+- **URL:** https://www.youtube.com/watch?v=3IZGZx58FBI
+- **ID:** 3IZGZx58FBI
+
+## Transcrição
+
+o olá meu nome é lady zambelli sou
+professora universitária e estou aqui
+para dar o depoimento sobre o curso
+utilizando os métodos de tomada de
+decisão sobre risco e sobre incerteza é
+foram foi um curso que foram proferidos
+pelo professor thiago marques e o
+professor marcos santos e eu quero
+passar para vocês a minha experiência né
+se apesar de já tá na vida acadêmica
+muito tempo a gente precisa sempre ele
+está aperfeiçoando né é e o curso fiquei
+extremamente insatisfeita fizemos um
+grupo de conhecimento muito interessante
+de pessoas de diversas áreas e que
+apesar disso todas com c
+a integrar a cia foi um curso que me
+estimulou muito né a buscar novos
+conhecimentos a buscar novas ferramentas
+eu assim super indico estou muito
+satisfeita a proposta que a gente
+continue juntos fazendo novos cursos e
+espero que a gente consiga tenha mais
+companhias né ou seja que os próximos
+cursos sejam agregados com mais pessoas
+que amam essa coisa de estar sempre
+estudando sempre inovando e que preenche
+o tanto a gente né então quero agradecer
+o professor marcos professor tiago é e
+aos colegas por esse período que quando
+acabou todo mundo ficou assim né mas já
+acabou pensei que ia ter mais porque foi
+tão bom foi tão reflexivo tão
+já preencheu tanto que realmente a gente
+ficou com aquele gostinho de quero mais
+mas vamos ter mais porque outros cursos
+de viram e com certeza estaremos juntos
+espero que todos novos alunos também
+estejam lá obrigada tiago professor
+marcos e estaremos juntos em vários um
+beijo para todos

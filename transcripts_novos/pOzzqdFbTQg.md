@@ -1,0 +1,25 @@
+# Pílulas de conhecimento do EstaTiDados - Data Science para negócios (Andrei Graça Partner EY)
+
+- **URL:** https://www.youtube.com/watch?v=pOzzqdFbTQg
+- **ID:** pOzzqdFbTQg
+
+## Transcrição
+
+e aqui nas Revoluções Industriais panela
+lá no século 18 quando a gente treinar
+os primeiros a vapor Hot começou Criar e
+as Produções né baseado aí na mecânica
+deve ter na Segunda Revolução Industrial
+mesmo começo do século 20 e a parte da
+eletrônica né da parte do tem que ser
+eletrônicos né Na década no começo da de
+1970 e a terceira revolução industrial
+que já é conversando aí a tecnologia né
+tecnologia Industrial ajudando aí a
+trazer ciências e por fim é que a gente
+está vivendo hoje é quando conectadas
+são plantas industriais funcionando sem
+internação humana né então e essa é a
+nossa realidade né E esse passo para
+cada vez né mas mais curto né a gente
+consegue a

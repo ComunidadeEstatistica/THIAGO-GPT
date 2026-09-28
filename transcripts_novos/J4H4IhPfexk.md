@@ -1,0 +1,106 @@
+# ESTATÍSTICA - VÍDEO 7 - FGV - 2008 - SENADO -  PROPRIEDADES DO CV - RESOLVENDO EM SEGUNDOS
+
+- **URL:** https://www.youtube.com/watch?v=J4H4IhPfexk
+- **ID:** J4H4IhPfexk
+
+## Transcrição
+
+fala galera casa tá difícil
+o imensa satisfação vem dizendo vocês
+chegando aos 100 inscritos no canal
+estou muito feliz muito obrigado e os
+comentários pelos elogios que têm sido
+enviadas pelo e mail e continua enviando
+os gestões de questões aqui nesse vídeo
+ou de hoje nós vamos estar ganhando uma
+questãozinha fgv sobre o coeficiente de
+variação
+vamos a nossa questão digital
+a nossa questão zinha é de 2008 deve
+servir senado federal
+é é um pouco antiga porém não menos
+importante na preparação de vocês aqui
+pensando sobre o tema e muito cobrado em
+provas e muito interessante sobre
+propriedade de 400 de variação
+então vamos à residência de variação
+amostral e agem em conjunto dos salários
+é 110% salário desse conjunto forem
+registrados em 20% o novo de variação
+mostrava ser a galera como é que a forma
+de criação
+o primeiro é o nosso padrão a mostrar o
+que o sr
+dividido x barra que a nossa média
+mostrar
+o desvio
+o padrão
+a mostrar o que está falando à mostra
+yoshii pa
+ele é a nossa média
+a mostrar o porquê a gente está falando
+de amostra
+ok então eu vou ensinar como forma de
+vocês realizar essa questão
+a primeira delas é a pensar na
+propriedade de um coeficiente de
+variação
+tá quando você multiplica uma constante
+eu não conheço de variação um negro
+continue inalterado e vamos cansar
+aquilo que quero estar em 20%
+vamos fazer aquilo da china está em 20%
+até lá atrás de ensino a gente quer o
+que eu quero eu quero aumentar 20 com 60
+de um valor x qualquer de gente quando a
+gente tem fatores incluindo a gente pode
+gostar intenso com ela fica xixi aqui
+mach 0,82 correto
+isso é igual a 12 x então na prática que
+só o que está em 20% o salário todo
+mundo é eu multiplicar o salário de todo
+mundo
+qualquer logo se multiplicando 1,2 pelos
+salários
+o meu cv
+ele vai continuar inalterado então você
+viu dois golos ao serviço
+então a gente fala já está a marcar na
+força livre a aprovação né
+mas eu vou ensinar para vocês uma
+segunda forma de fazer essa questão o
+que que eu vou pensar aqui né na
+propriedade do desvio padrão e na média
+mostrou tá então vamos fazer um cd dois
+aqui 72 alegou que quando a gente aplica
+a todos os salários
+antes o desvio padrão também ficamos
+brincando pela mesma constante correto
+se fosse agora ansa era o quadrado certo
+e o que acontece em forma de mostrar o
+coni tinha um típico todos os salários
+por 10 a 2 também x 1 mil a 2 pela mesma
+constante pela propriedade da média
+toda vez que ele tinha explica uma
+constante a todos os valores do conjunto
+a média é multiplicada pelo valor dessa
+constante então abortou
+isso quer dizer que a gente tira então
+que você vê um é igual à que também nos
+leva a nossa letrar de aprovação
+será um sinal era bom espero que vocês
+tenham gostado se vocês gostarem mandou
+mike e se inscreve no canal porque a
+gente está dando cada vez mais dicas
+interessantes pra você está otimizando
+os resultados aí melhores físicos do
+país ou se você também realiza provas de
+estatística em outro âmbito esquecer
+engenheiro
+sei lá faz um concurso de administração
+onde tem estatística ou qualquer outro
+concurso pra você tá melhorando seu
+desempenho e tão forte abraço e anecy
+gestões dicas que a gente vai estar
+melhorando o nosso material valeu um
+abraço

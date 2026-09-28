@@ -1,0 +1,172 @@
+# VÍDEO 29 - 2017/IBA/Atuário - Teorema de Bayes
+
+- **URL:** https://www.youtube.com/watch?v=Eb0RLmpEdVs
+- **ID:** Eb0RLmpEdVs
+
+## Transcrição
+
+[Música]
+olha a galera do canal está difícil tudo
+bem com vocês esse é o nosso vídeo
+número 29 tá
+e a gente está inaugurando no canal uma
+playlist dedicada e os atuários está no
+brasil que fazem a prova do ibas
+tá tudo brasileiro de atuária tá
+a gente vai está inaugurando essa
+playlist está com a resolução das provas
+do ibas que já ocorreram e esse nosso
+primeiro vídeo é uma questão zia de
+teorema de bebê está de da prova de 2017
+tá é essa
+essa mesma questão não apareceu na prova
+de 2015 tá e isso é muito recorrente nas
+provas do ibercaja você está se
+preparando e aí fica tranquilo estudando
+pelas provas antigas porque são bons
+norte pra você conseguir a aprovação
+nesse exame está porque as questões se
+repetem muito tá quando não são iguais
+elas mudam valores entendeu muda alguma
+coisa assim e são questões com um nível
+bem alto né bastante bastante alto nível
+está em questões que são muito fáceis
+tem questões que são muito difíceis e
+têm questões média está é uma prova com
+um rigor altuta então vamos lá pro nosso
+vídeo 29 na primeira resolução aí
+[&nbsp;__&nbsp;] beleza vamos lá
+vamos lá então galera nossa questão
+zinho de 2017
+tá questãozinha do ibas é a questão
+número 15 beleza de 2017 essa questão é
+a mesma questão
+número 20 só que da prova do iba de 2015
+tá
+essas provas repetem recorrentemente
+está ea gente vai estar fazendo aí dá
+pra matar essas duas questões na adi a
+de 2017 e 2015 vamos lá em casa comigo a
+questão uma seguradora classifica seus
+segurados em duas categorias de risco
+70% de segurados são classificados como
+de baixo risco e 30% de alto risco
+então vamos começar antes aqui era a
+gente tem aqui ó
+os segurados que podem ser classificados
+em duas categorias está quais são elas
+de baixo risco que eu vou chamar aqui tb
+ta pra ficar pequeno beleza e os de alto
+risco
+tá eu vou chamar aqui de nome tá
+significa alto risco e aqui baixo risco
+tá beleza
+as probabilidades de que um segurado de
+baixo risco e um de alto risco reclama
+em por indenização em um determinado ano
+são respectivamente 0 20 e 0 6 então
+olha a gente pode ter segurado de baixo
+risco
+reclamando indenização não é como chamar
+dr
+tá e não reclamando que eu vou chamar de
+não é tá
+e aqui é a mesma coisa eu posso ter
+reclamando e não reclamando beleza
+ok e ele falou aqui que essa
+probabilidade a 20% de baixo risco e
+alto risco 60% sendo que ele falou aqui
+em cima que 70% de segurança
+classificado com nossa região aqui ó tá
+aqui ó 70% baixo risco e
+30% alto risco
+beleza um segurado reclama uma
+indemnização de sinistro neste ano
+um segurado reclama indenização de
+sinistro esse ano a probabilidade de que
+o segurado que reclamou a indenização
+seja de baixo risco é então a gente tem
+a seguinte configuração aqui ele está
+introduzindo informação adicional aqui
+ele está falando que o segurado e
+reclamou
+tá se ele reclamou que aconteceu então
+informação adicional
+tá eu estou restringindo nos possa
+mostrar só acho que reclamaram beleza
+então o que ele está pedindo aqui no
+fundo ele quer a probabilidade de dado
+que reclamou
+a indenização seja de baixo risco ou
+seja seja de baixo risco dado que ele
+reclamou indenização beleza
+só que nada mais é do que probabilidade
+condicional está terminando de vez
+teorema de bens é o que a gente pega vai
+ser a probabilidade de baixo risco
+interseção com reclamou
+divididos pela probabilidade de a
+probabilidade de reclamar beleza
+só que quando eu faço aqui ó
+eu estou restringindo meus possa mostrar
+um só acho que reclamaram tá é como se
+esses caras aqui ok não reclamaram não
+existe sim tá um espaço amostral agora
+vai ser reduzido ou só os que reclamaram
+beleza e vamos lá então como é que ficou
+com um a probabilidade dos que
+reclamaram tem que passar por todo o
+caminho está ele pode ter reclamado dado
+que ele foi um de baixo risco tá e ele
+pode ter reclamado e foi também de alto
+risco tá então eu tenho que fazer todo
+esse caminho vai ser o que a
+probabilidade de ser de baixo risco em
+interseção com reclamar mas a
+probabilidade de não ser de alto risco
+interseção com a reclamar
+tá então tem que percorrer todo o
+caminho e o do numerador vai ser o que o
+numerador vai ser uma parte do meu
+denominador é só parte aqui ó tá
+e como é que o cálculo isso aqui isso
+aqui a intercessão é só pegar a
+multiplicar o vai ser o que é que 70%
+vezes 20% mas 30% vezes 60% beleza isso
+aqui vai ser o que aqui vai estar o que
+é que vai ser
+14 00 na 1.400 sobre senna
+mottaki em baixar 1.400 sobre 10.000 né
+cem vezes em beleza mas 63 18 sesi anos
+1800 sobe 10 mil também mesmo bairro só
+aqui no mercadores beleza 14
+deu-me 400 com um se fosse aqui 2 mil
+daria 3 400 só que 800 então tinha 200
+vai ficar o q3 203 200 sobre 10.000
+legal
+eu tenho meu denominador mottaki ó 3 210
+mil
+lembra que eu falei aqui é essa partida
+aqui o que a gente calcula que foi o que
+deu 1.400 sobre
+10 mil
+a gente pode pegar multiplicar aqui
+invertendo a gente vai cortar os
+denominadores está a cortar 10 mil dez
+mil
+mas sobrou que corta quiseram 10 vai
+ficar 14 sob 32 dá pra ficar ali por
+dois né
+vai ficar o q7 sobre 16 então com nossa
+memória galera de 3d de direcionamento
+beleza
+então é isso galera eu espero que vocês
+tenham gostado aí da notícia tá na nossa
+playlist e 29 do da nossa resolução
+também tá se você gostou da unmik itá
+eu desejo uma boa preparação pra vocês
+para essa prova
+ok ea gente vai estar e resolvendo mas
+outras questões desse desse certame
+beleza então forte abraço aí pra vocês
+continuam na luta e vamos que vamos

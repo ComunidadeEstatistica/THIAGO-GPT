@@ -1,0 +1,206 @@
+# Data Storytelling - Stefano Carnevalli - Part 4
+
+- **URL:** https://www.youtube.com/watch?v=FETowvxGwLw
+- **ID:** FETowvxGwLw
+
+## Transcrição
+
+olá bem vindos ao da tutela em nossa
+aula aqui sobre sobre esse tema
+a nossa parte 4 eu sou stefhany
+carnevale
+para quem não acompanhou a as outras
+partes também fica a dica aí e você
+comente também com um pouquinho sobre
+seu trabalho traga suas dúvidas
+sugestões compartilham um pouquinho do
+do seu trabalho aí se você usar um pouco
+das nossas dicas aí sobre datas ortelli
+curte o canal dá sempre tem novidades
+aqui então segue aí semanalmente a um
+ponto hoje são dicas de visualização de
+dados
+nessa é algo muito importante quando a
+gente começa a pensar contar a história
+dos dados é importante também a partir
+de visualização
+essas dicas que vão trazer para vocês
+elas são algumas
+a gente tem uma infinidade de outros
+pontos a serem explorados até nas
+questões relacionadas à oratória
+apresentação
+dependendo do formato é de que público
+que você vai contar a sua história do
+sobre os dados não a primeira dica que
+eu trago para vocês é esfera da
+comunicação pessoal tem uma pesquisa e
+tenho várias outras pesquisas que que
+acompanham essa essa questão realmente
+como é que as pessoas é se comunicam
+como elas prestam atenção a maior parte
+da comunicação é não verbal é o silêncio
+então são imagens são pontos e isso é
+muito importante quando a gente pensa o
+segundo ponto é o tom de voz que eu
+posso ir mudando e fazendo diferente
+aumentando pouquinho como se estivesse
+falando muito alto muito baixo esse tom
+também provoca nas pessoas algumas
+reações e traz a atenção do público
+então isso deve ser usado durante a
+contação de histórias pra gente ter uma
+certa
+às vezes até aquele momento do público
+tão pouco que tinha traído e eu preciso
+é chamar a atenção para um dado eu posso
+usar isso até como uma estratégia
+o verbal neckel falando do blá blá blá
+blá blá daqui a pouco estão dormindo e
+do outro lado esses apertar o play e
+pause né do do vídeo porque vocês não
+aguento mais ouvir falar
+então o foco não é quando se fala das
+técnicas visuais né de visualização de
+dados é porque as pessoas realmente
+estão olhando o não verbal
+então é importante eu ter a imagem na
+imagem dos dados elas realmente impacto
+mais rápido as pessoas as cores e
+contrastes né é a cor e contraste e
+somente na apresentação é algo forte né
+a gente tem uma questão que as telas
+então a maior parte dos recursos a gente
+vai usar computador tv projetor elas são
+telas rgb então as trazem uma luz
+vermelha a luz verde uma luz branca ea
+combinação e todas essas cores não tendo
+as tonalidades
+então quando a gente fala da cor digital
+é luz e ausência de luz
+então eu tenho uma iluminação vermelha
+mais forte uma nação vermelha mais fraca
+e eu preciso brincar com essas cores e
+contrastes para chamar a atenção
+então de repente ouço que naquele
+gráfico naquele momento a barrinha tal
+chama a atenção
+então eu posso deixar todas as outras
+barras num cinza pálido e dá um destaque
+vermelho para aquela barra específica
+assim começa a trabalhar com cores e
+contrastes e direciono o meu olhar para
+a apresentação
+outro ponto importante é a harmonia tem
+vários estudos e procurar na internet
+esses vão olhar essa roda é da harmonia
+das cores que tem a cor primária e
+secundária
+depois eu tenho as relações
+vocês vão encontrar vários sites da
+internet é que esta simula um pouquinho
+essa questão de coloração é o que eu
+tenho aqui combina com esse não combina
+com aquele às vezes a pessoa
+desarmonizar para chamar atenção uma uma
+apresentação alguém falar fala nossa
+miss gráfico assustador
+às vezes pode ser é essa minha intenção
+naquele momento do da apresentação mas é
+muito importante seguir
+esses padrões de harmonia de cores em
+algumas ferramentas já trazem isso até
+pré-formatadas a eu tenho uma sugestão
+que é que a gente chama a gente até
+pesquisou contra as pessoas também que
+usam isso é que é quando a gente vai
+apresentar dashboard um caminho
+interessante a gente seguir a seqüência
+à z
+então você imagina o o nosso linho né
+você fazendo a sua leitura então no
+nosso caso não é novo no ocidente da
+esquerda para a direita ea gente sai de
+cima para baixo
+então essa leitura de ajuda né a quebrar
+algumas barreiras é facilitar os
+elementos e eu posso até seguir essa
+questão de trabalhar sete elementos
+por que não começam a mostrar o primeiro
+segundo terceiro aí eu faço uma
+conclusão grande no quarto bem lá o
+quinto o sexto eo sétimo e aí eu tenho
+uma sequência z de dashboards né as
+pessoas bateu rapidamente enxergam todos
+os tipos de gráficos que eu queria
+mostrar na minha apresentação a evita
+informação desnecessária tá se for ao
+que pode atrapalhar a apresentação evita
+isso
+aplique realmente esse conceito - é mais
+né não coloque muito efeito visual os
+gráficos coisas pulando coisas piscando
+e evita isso um pouco tá só quando for
+realmente necessário e principalmente
+quando estiver apresentando mantenha o
+foco para de prestar atenção nessa
+olimpíada aqui embaixo né
+pulando e volta o foco da sua
+apresentação é muito fácil a gente
+perdeu o foco durante uma plateia ou
+mesmo uma numa reunião então tomar
+cuidado com a pagar essa bolinha
+eu vou trazer pra vocês como sugestão é
+um exercício mas é pra você usar uma
+ferramenta de self-service biai vou
+falar que rapidamente o conceito dela né
+hoje a gente tenha resultado lo por bea
+e e que tome muitas outras ferramentas
+estão sendo lançadas a cada momento não
+é muito utilizado em várias empresas
+então na verdade
+receita simples do self-service ibiá eu
+tenho aqui pdt que preparo mil br
+e aí eu usuário final uso uma das
+ferramentas traz consultar o be aí uma
+consulta pré definida e monta os meus
+dashboards então isso vai se popularizar
+quem foi o as planilhas eletrônicas na
+década de 90
+então siga essa tendência então a
+provocação do exercício essa escolha uma
+ferramenta é eu escolher que o paul biya
+e da da microsoft uma ferramenta tem
+utilizado bastante aqui no meu meu dia a
+dia no meu trabalho é uma ferramenta que
+permitia entre apresentações e em
+leituras das bordas e tem também outras
+partes um pouco mais avançadas mas o a
+visualização de dados nela é muito
+prática muito rápido né então é uma
+ferramenta que que vale a pena então
+você escolhendo a sua ferramenta usa a
+criatividade na escolha uma base de
+dados não têm dados públicos anib josé e
+outras fontes
+é extremamente experiente contar isso
+com uma história que não pode bobear já
+fiz até algumas apresentações usando o
+conceito de página que ele tem
+então a eterna que o conceito meio do
+das apresentações não é que eu vou tela
+a tela é até um pouco desse curso aqui
+que vocês acompanharem as aulas dadas
+sobre tela e é isso pessoal agradeço a
+sua participação nessas quatro partes
+nessa aula de da tutela espero ter
+desmistificado um pouquinho né talvez em
+breve a gente traga alguns outros
+conteúdos aí pra agregar o as técnicas
+aí de dados sobre tela fica nossos
+canais de contato até temos cursos
+também no sim um grande abraço pra vocês
+e até uma próxima oportunidade boa
+contação de histórias com tinha história
+dos seus dados
+um abraço

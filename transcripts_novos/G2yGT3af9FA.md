@@ -1,0 +1,148 @@
+# Part 1 - Multivariate Analysis - Principal Component Analysis
+
+- **URL:** https://www.youtube.com/watch?v=G2yGT3af9FA
+- **ID:** G2yGT3af9FA
+
+## Transcrição
+
+op seja bem vindo a todos é hoje é o
+primeiro acordo com o ministro a
+estatística muito maior queda do mercado
+outro de técnica diz que a ética no
+futebol eu decidi começar o tema análise
+dos componentes por isso estão sendo bem
+ou com muita gente chama de inglês no
+caso pc a ok
+um pouco mais sobre a minha pessoa
+formação acadêmica área de atuação e
+contatos sabe precisar tirar o curso
+gestão soltou um vírus
+ok primeiro que é a cpi
+a acp transforma o conjunto de dados em
+combinações na estão na interpretação
+dos dados mais elegantes no caso como é
+que isso foi feito
+ai eu acertei reduzir o número de dados
+sem a perda significativa de informação
+da comuna facilitam a interpretação de
+dados
+ok como é que isso funciona lá os
+componentes principais a c e é uma
+maneira de identificar com relação entre
+as características cair os dados como eu
+estou trabalhando o um ambiente último
+ao lado
+eu tenho o interesse de saber começa
+igual a você com relacionam entre si a
+não usar essa como a maçã ambiente
+multimercado é utilizá las em t porque
+como é que nós e tenciona o acp bom
+conjunto de dados originais e transforma
+e da luz transformados através de
+combinações mais porque como é que isso
+funciona
+os dados originais que são chega o
+colchão bx valores originais que
+acontece com o céu da informação
+é eu transformo através da cpi e dados
+transformados que são combinações
+nominais no caso o conselheiro e diz não
+ver novos transformadas que conseguem a
+missão não a quantidade significativa da
+informação
+eu como que 70 por cento a título de
+curiosidade
+nós sinceramente é 70% já coloquei lá
+não quer dizer que uma quantidade
+significativa dos dados é possível ser
+representada e poucas melhoras
+ok vamos lá primeiro como funciona nossa
+de o todo sobre o formalismo matemático
+é deles mas programa de novos reginaldo
+organizando em uma 3 é uma coisa
+importantíssima as amostras estão
+organizadas em le mans e está na hora
+dos quais são observadas essas apostas
+tão organizadas e comunas
+no caso dessa matriz o que utilizamos
+são todas as observações e três amostras
+[Música]
+organizada organizou os dados nessa
+nessa estrutura
+o primeiro passa com a madre lança
+covariância calculadas a matriz
+eu com os altos valores e 8 a resposta
+forma ela termina hoje - não todas as
+identidades a 0 aplicado essa forma eu
+não sei qual o salto vetores e osaka os
+valores dessa matriz confiança uma
+aliança com que o cálculo do salto o
+português e os altos valores é consigo
+ficar colado componentes principais no
+caso eu tenho e parâmetros no qual hebe
+safiras a mostra seu concelho em
+componentes principais no de saúde que
+os autos motores é um
+ozil de carro familiar com as
+componentes vitais e os autos vão ver o
+exalta os valores informa que cada
+componente principal é da informa a
+informação que cada componente principal
+carrega isso vai ficar bem mais claro
+como o nosso exemplo soft estatístico é
+e que princípio que eu gosto bastante
+relacionada a esse tema que os anos em
+software ao normal
+o banco de dados que utilizar como eu
+não leio de são paulo o clube caso esse
+banco de dados e tinha no site it web
+nesse endereço esse interesse que está
+tudo neste que é o que eu estou pra
+vocês
+no caso vai fazer uma prioridade
+o banco de dados só tem 24 amostras em
+14 variáveis
+agora vou mostrar pra vocês no caso são
+alvo 24 locais de coleta e encarna com
+nota e o aluno de hidrogênio falta o
+passo cálcio magnésio e chance e vai até
+porque existem duas condições que
+geralmente chega à comunidade científica
+utiliza papo pca que no caso da pele
+ponto ea preocupe pr cop até recompe
+é uma função continua no pacote está diz
+que calcula a os componentes principais
+no caso como ela funciona a função pr
+cop 16 em um banco de dados geológicos
+que o nome quando num só no meu caso eu
+não me é um modelo com molly prc ponta
+do sol
+no caso eu coloquei esse argumento deles
+queria igual aquilo porque as variáveis
+estão licitados diferentes o exemplo
+cálcio está em escala muito maior
+o barulho e depois everton no caso toda
+vez que silval estiveram em espaços
+diferentes
+vocês coloquem a argumento esquerdo
+igual a ti ou no caso que é o criar um
+modelo que foi gravado aqui e no qual
+não observar o modelo é essa primeira
+saída do governo militar hoje o jeans
+que no caso não é coisa que às vezes são
+os componentes principais sabe o motivo
+da queda do avião
+ok roterdã é primeira saída do modelo é
+o nosso mundo as componentes principais
+no pazo como tentar todas as observações
+é o rio ter 14 componentes principais
+nos eua estão juntos que cada um vá ver
+o original tem a sua participação em
+cada componente principal
+eu havia dito pra vocês que as primeiras
+componentes principais têm o maior peso
+que no caso com poucos componentes
+principais o conselho interpretar onde
+vai a unidade dos dados
+como é que isso funciona
+[Música]

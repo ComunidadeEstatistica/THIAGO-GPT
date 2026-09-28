@@ -1,0 +1,1032 @@
+# Introdução à Teoria das Probabilidades - Prof. Francisco Rodrigues (USP)
+
+- **URL:** https://www.youtube.com/watch?v=RZnEJmxPCRc
+- **ID:** RZnEJmxPCRc
+
+## Transcrição
+
+e aí
+é só nós vamos apresentar uma introdução
+à teoria das probabilidades e vamos
+tentar cobrir os principais tópicos
+relacionados nessa área então
+basicamente vai apresentar o que que é
+probabilidade fazer uma definição
+matemática desse conceito apresentar o
+que é probabilidade condicional a
+questão de independência entre eventos e
+também vamos mostrar a lei da
+probabilidade total então para que
+estudar para uma habilidade então hoje a
+gente ouvi falar muito em ciência de
+dados e é uma área extremamente
+importante hoje em dia que permite com
+que a gente consiga extrair conhecimento
+de grandes bancos de dados e se a gente
+olhar aqui o que está envolvido essência
+de dados a gente vai ver aqui
+probabilidade estatística é um conceito
+fundamental é tão impossível a gente
+tentar entender os algoritmos de
+essência de dados se a gente não tiver
+uma boa base de probabilidade então
+prioridades é um conceito fundamental
+nessa área e quem quiser entender esse
+de dados tem que saber pelo menos a
+parte básica de probabilidade os
+aplicações
+o que a gente usa diariamente é o google
+kiki que o google tem lá tem a ver com
+probabilidades na verdade o google ele
+afirma que o coração do algoritmo que
+ele usa do software é o pedir like e o
+que que seria o pezula que eu perdi
+durante nada mais é do que uma caminhada
+aleatória ou seja a gente começa no
+certo vértice e vai navegando na
+internet como se tivesse clicando
+aleatóriamente nas páginas e essa
+navegação pelas páginas na internet vai
+definir o com importante é cada página e
+com isso é possível hackear las e esse
+hackeamento é usado do google para fazer
+as buscas que depois eu gravo uma aula
+sobre o google pagerank outra
+fundamental que a gente aplica a teoria
+das novidades e na teoria da informação
+sem a teoria da informação a gente hoje
+não teria na internet ok então internet
+que a gente tem hoje ela só existe
+porque foi desenvolvido a teoria da
+informação pelo croche xenon
+oi e aí é essa transformação na vai
+dizer qual fácil é a transmissão de
+sinal no certo meio pode fazer um cabo
+coaxial ou o meio de fibra óptica ea
+definição da entropia que vai dizer
+quanto de informação tem um sinal ela
+nem me conta esse treco aqui que nada
+mais é do que a probabilidade então se
+eu tiver um sinal que seja muito simples
+ou seja uma sequência de zeros ele vai
+ter uma entropia baixa que se eu tiver
+um sinal que é muito mais difícil de
+predizer se você quiser predizer esse
+sinal aqui é muito mais complicado
+entender vai ter uma entropia alta então
+utilizando essa informação a gente pode
+terminar com fácil é a transmissão de um
+certo sinal outro aplicação fundamental
+nós compararmos nos jogos da década de
+80 os indivíduos aqui os jogadores eles
+tinham o comportamento muito fácil de
+fazer dizer porque que o seguiam
+algoritmo e não eram aleatórios então o
+jogador ficar andando aqui na tela e aí
+facilmente a gente conseguia passar e aí
+o cérebro aprende a como esse jogador se
+movimentavam e jogo ficando cada vez
+mais fácil hoje não hoje acontece a
+movimentação dos jogadores e feita de
+forma totalmente aleatória e isso torna
+o jogo muito mais real que o que
+acontece no mundo real da mesma forma
+esse jogos como vocês têm assim por
+exemplo se eu tivesse jogando e morrer
+esse aqui durante o jogo que apareceu um
+certo vilão quando a gente voltava o
+final aparecer no mesmo lugar você gira
+fácil para lhe dizer o que aconteceu no
+jogo hoje não jogos como far cry tem
+muita probabilidade embutida por trás e
+esse jogos acabam sendo muito mais
+interessante por conta disso então a
+gente tem aplicações de terror das
+novidades em problemas industriais onde
+a gente tem que desenvolver por exemplo
+como uma fábrica vai organizar os meios
+de produção para ser mais eficiente
+possível em ciência da computação para
+analisar se o software vai ser viável ou
+não em física principalmente mecânica
+quântica porque mecânica quântica
+envolvem funções de ondas e essas
+funções de ondas quando
+e resultam e probabilidade então muito
+relacionada contextualidades em biologia
+calcular com a chance de ocorrer um
+certo gênero ou de um indivíduo tem uma
+certa doença em ciências sociais porque
+a gente precisa analisar esses dados
+sociais para entender os indicadores
+entender como que a economia está foi
+influenciado por exemplo de submissão de
+renda e economia entender como funciona
+o mercado de ações a como que vão variar
+os os juros do banco central então tudo
+isso a gente utiliza probabilidades e
+como começou essa área essa área ela
+começou com um jogador chamado girolando
+caetano em 1633 quando ele publicou um
+livro chamado o livro dos jogos de azar
+nesse livro que ele faz ele apresenta o
+tratamento sistemático da teoria das
+probabilidades e mostra quais são as
+chances de vencer em diferença depois de
+jogos desde jogos de cartas jogos de
+dados e além disso ele fornece o capitu
+é porque como trapacear e se dá bem
+desses jogos só que ela só foi
+desenvolvida realmente quando formar e
+pascal começaram a trabalhar nos
+problemas de jogos novamente ele queria
+saber o seguinte dado que estava
+ocorrendo um jogo eu vou terminar se
+antes do filme como deveriam ser
+divididas as apostas então no problema
+fundamental e quem quiser dar uma olhada
+como foi resolvido esse problema tanta
+que o o link para esse essa troca de
+correspondência entre o pascal e formar
+e eles resolvem matematicamente esse
+problema e mostram quais qual deve ser a
+divisão das apostas nesse caso a
+prioridade continua sendo desenvolvida
+no século 20 a gente teve uma grande
+revolução que foi a chegada dos
+computadores que então os computadores
+foram evoluindo e hoje a gente consegue
+realizar experimentos aleatórios que
+envolvem para
+é muito facilmente ok mas os grandes
+desenvolvimentos ocorreram no século no
+começo do século 20 pelo carpir som e
+pelo ronald fisher que introduziram
+principalmente os conceitos relacionados
+com estatísticas da coisa população foi
+o que introduziu o conceito com relação
+de pressão e o ficha introduzir por
+exemplo o teste de hipótese e cálculo de
+trabalho de confiança então esses
+conceitos mais modernos e surgiram
+apenas no século 20
+eu posso deixa eu te falar sobre
+probabilidades o que realmente é
+probabilístico é fundamental fazer uma
+distinção entre o que é determinístico e
+o que é probiótico então o modelo
+determinístico é um modelo que dá das
+condições iniciais a gente consegue
+prever a saída do experimento com
+certeza então por exemplo do caso de um
+pêndulo se nós soubermos a posição
+inicial do pêndulo de uma posição x0 y0
+em que está posicionado ou mesmo ângulo
+dessa zero recebendo senão soltarmos o
+kendo e soubermos qual é a força da
+gravidade naquele local a gente consegue
+calcular a evolução do pêndulo e
+conseguimos verificar com certeza onde
+pedro vai estar numa certa posição
+temporal alguém que você quiser saber
+por um certo tempo de eu vou saber
+exatamente em que posição que se tendo
+não vai estar isso é um experimento
+determinístico é isso
+e por exemplo que a gente precisa onde
+estão os cometas onde a lua vai estar
+posicionada quando vai ocorrer um
+eclipse todos esses experimentos são
+determinísticos então ele ocorre desde a
+teoria da gravitação de newton que fala
+sobre a posição dos planetas até mesmo
+essas equações que são menos conhecidas
+que são as equações de março que mostram
+que a luz é uma onda eletromagnética
+então todos esses casos todos os casos
+praticamente tratados pela física menos
+a mecânica quântica os experimentos os
+modelos são entre místicos então
+lembre-se todos esses essas equações que
+a gente tá vendo aqui tanto uma equação
+do pêndulo a equação da gravitação
+universal quantas equações de maxwell
+são modelos e esses modelos são modelos
+determinísticos para definir o modelo
+probabilístico nós precisamos definir
+inicialmente o que que é um experimento
+aleatório o que nós temos aleatória o
+experimento que pode ser executado num
+número infinito de
+é sobre colchões em alteradas ou seja
+posso lançar um dado várias vezes de
+forma que cidadãos eu tenho não só tenho
+ele é possa ser uma moeda quantas vezes
+eu quiser eu posso produzir peças uma
+fábrica eu posso desenvolver novos
+medicamentos no certo ensaio clínico
+então quer dizer esse experimento eles
+podem ser realizados um número definido
+de vezes sobre as mesmas condições então
+quando nós temos um dado obtemos uma
+sequência de valores então podemos ver
+que temos uma sequência aqui e bora nós
+tenhamos essa sequência eu não posso
+dizer qual será o próximo valor como eu
+faço no experimento de semelhante como
+podemos determinar quais chance de
+ocorrência de cada valor como a gente
+pode fazer isso facilmente no computador
+então por exemplo aqui é um código em
+python onde nós temos lançamento de uma
+moeda então quê que eu vou fazer que
+você investir uma moeda se aguenta tem a
+chance de sair perforations sai cara por
+exemplo
+e aí tá com valor entre 0 e 1 então o
+que por exemplo seja cara e aqui seria
+coroa então quer dizer a chance de sair
+cara ela é menor do que esse valor
+porque se esse perfume muito grande esse
+intervalo aumenta então chance é maior
+se sp diminuir esse trabalho diminui
+então a chance é menor então você vai
+fazer o que eu soltei um valor aleatório
+e se esse valor for menor do que p então
+sai o cara caso contrário seu coroa
+então tá aqui uma saída do experimento e
+aí eu posso calcular simplesmente pela
+saída experimenta calcular com a chance
+declaration segurou mas nós tem que a
+minha moeda chance de sair cara é 0.6 e
+quando eu faço um experimento eu vejo
+que deu 0.5 ok porque a gente vai ver
+aqui ela converge para a prova de real
+se o realizar o número muito grande
+experimentos então o que que seria o
+modelo probabilístico a saída de cada
+experimento aleatório parecem
+imprevisíveis mas quando
+o número um grande número de
+experimentos um padrão e mexe que que
+isso quer dizer então vamos considerar o
+lançamento de uma moeda se nós lançarmos
+uma moeda muitas e muitas vezes então eu
+vou lançar por exemplo uma moeda 100
+vezes e vou verificar o número de vezes
+que saiu cara vossa mas sem vezes e
+verificar quantas vezes eu cara se eu
+construir um histograma ou seja vou
+contar dentre essas em quantas vezes em
+uma cara quantas e saiu duas quantas
+vezes em 3 até sem e vou ter uma curva
+desse tipo ou seja e consigo determinar
+se for lançar uma moeda sem vezes qual é
+a chance de eu ter dez caras nesse
+experimento então sedada por essa
+equação aqui e essa equação aqui é a
+distribuição binomial ou seja modelo
+binomial e ele vai falar o que ele vai
+falar qual é a probabilidade de que em
+experimentos eu tenha cá
+bom então essa é uma distribuição
+fundamental e ela vem do experimento
+aleatório e esse é um dos modelos
+probabilísticos mais importantes
+se presta a probabilidade vamos definir
+os conceitos fundamentais então conceito
+fundamental é o espaço amostral que que
+seria o espaço amostral é o conjunto de
+todas as saídas do meu experimento um
+evento é simplesmente um elemento do
+espaço amostral ok então se eu tiver
+aqui
+o lançamento de uma moeda que a moça
+falou que o evento é sair cara ou se
+aproxima de um dado saiu no limpar ok e
+aí tem as relações entre eventos então a
+gente representa o evento impossível por
+esse símbolo aqui o evento certo a
+espaço amostral por quê que o evento
+certo porque vai saiu um valor se passa
+mostrar o com certeza então não dado com
+certeza vai sair um número de vocês a
+união com b a gente representa dessa
+forma aqui é o evento que ocorre se a ou
+b ou ambos ocorre que então se ambos
+ocorrerem isso é aonde eu comer a
+intersecção comer é o evento que ocorre
+essencialmente ser a e b ocorre tão
+notem que tem um e aqui a e b quanto na
+união é um ou certo é um isso aqui é
+mais forte ainda essa difícil mais forte
+do que a primeira a com essa barra a
+gente representa assim também como a com
+você que complementar a complementar e o
+evento que ocorre se a
+o ou seja o a comprimento área seria
+essa região fora de ar ok então por
+exemplo que omega e o valor de uma fez
+que a saída de um dado a é um número par
+a complementar então eu vou abrir um
+hiper
+o projeto mutuamente exclusivo é um
+conceito fundamental é quando a e b não
+ocorrem ao mesmo tempo ou seja a
+intersecção com b = vazio quem quer
+fácil o evento impossível então e quem
+que a intersecção é o evento que ocorre
+se a e b ocorre ou seja a e b não
+concorrem ao mesmo tempo que funciona um
+exemplo então sejam a e b dois eventos
+em um mesmo espaço amostral então vamos
+escrever isso aqui na linguagem do
+conjunto então o primeiro fala o
+seguinte pelo menos um dos eventos
+ocorre que que esse evento aqui a ocorre
+ouvir ocorre ou ambos ocorre ou seja se
+fala pelo menos então pelo menos pode
+ser o ar ou b ou menos que o evento
+ocorre mais bebê não ocorre então nesse
+caso aqui um pouco mais complicado então
+desenhar aqui você possa mostrar ao
+obriga então aqui está o nosso evento lá
+o que são nesse evento b o evento a
+ocorre mais p não ocorre então tem que
+ocorrer essa parte aqui ó o ar ocorre
+mas o bebê não corre essa parte aqui que
+intersecção não pode ocorrer então isso
+aqui se houvesse como escrever só que
+seria a menos a intersecção comer só que
+assim menos aqui a gente não sabe então
+você que não posso fazer essa forma
+então tem que ser bem a linguagem dos
+conjuntos como é que eu faço isso bom
+primeira coisa quem que é o complementar
+dp tá vamos colocar aqui de novo
+o tempo aqui tá lá aqui tá o bebê é um
+desenho aqui embaixo de novo o
+complementar de bebê quem que é quem não
+está em b que a mulher toda essa área
+que não está bebê que interessa que eu
+complementar de bebê o evento ar é esse
+tudo aqui ok então se eu fizer a
+intersecção complementar de bebê ele vai
+pegar quem ele vai pegar em quem está em
+ah ah e quem está em complementar de
+bebê basta fazer intersecção eu vou
+chegar nesse resultado aqui ok então
+esse é o evento em que a ocorre mas ele
+não corre nesse outro item aqui nenhum
+deles ocorre então como é que eu faço
+isso então vou desenhar aqui de novo o
+comprimento adiar é todo mundo que não
+está em ar então é é toda a parte de
+fora já o complementar de bebê é toda a
+parte que não está em b ou seja é toda
+essa
+e aqui tomar ter o seguinte se nós
+queremos que nenhum deles ocorre então
+basta que seja a parte que está fora de
+ar e fora de bebê então no fundo é essa
+parte está fora deste pedaço aqui ó
+então se a gente não estamos aqui e qual
+é a parte que está fora desse pedaço
+notem que essa parte que foi pintada com
+as duas cores ou seja é o que está fora
+de ar o complementar de ar e
+complementar de bebê ou seja o que está
+fora de então é simplesmente a
+intersecção dos dois vai me dar essa
+solução que simplesmente essa área aqui
+que está fora da parte azul então agora
+a gente vai poder fazer o que é
+probabilidade essa definição foi dado em
+1933 por favor of e ele fala o seguinte
+ó uma função e denominada de uma medida
+de probabilidade se satisfaz então essa
+medida porque seria medida porque ela
+vai me dar a chance de ocorrência de um
+evento que ela seja é uma medida de
+incerteza ok
+com certeza daqui de vento então a
+chance de ocorrência ok então a primeira
+coisa essa medida tem que ser quando
+aplicada a um evento tem que resultar no
+valor entre 0 e 1 ou de zero é a chance
+de não ocorrer ou seja é o evento que é
+impossível de ocorrer um é um evento
+certo então a chance ela vai ser sempre
+algo entre impossível e completamente
+possível certo então para qualquer
+evento do espaço amostral a chance do
+homem que é um ou seja o ômega é o
+evento certo
+e se é uma dois até infinito for eventos
+mutuamente exclusivos que quer dizer
+mutualmente exclusivos quer dizer que aí
+intersecção com a j = vazio que é o
+evento impossível para qualquer par e
+diferente dj ok então se os eventos são
+mutuamente exclusivos então a prioridade
+da união é simplesmente a soma da
+probabilidade volta definição que
+equivalente é a definição chamada
+probabilidade clássica o a priori então
+se experimento aleatório tiver nd homem
+resultados mutuamente exclusivos ou seja
+ele não ocorre ao mesmo tempo igualmente
+possíveis então este é o caso específico
+se o evento a tiver n a chances cna
+desse resultados a probabilidade do
+evento a ocorrer é simplesmente o
+tamanho
+e do evento a dividido pelo tamanho do
+espaço amostral estão lançando dois
+dados equilibrados qual é a
+probabilidade de que a soma das faces
+sejam seja = 7 então primeira coisa o
+seguinte vamos definir aqui no nosso
+espaço amostral o ômega então ômega quem
+que ele vai ser são todos resultados
+possíveis então por exemplo dado um saiu
+um cuidado dos saiu ontem o dado um saiu
+do um adolescente dois e vai até ele vai
+ser até 6,6 ok então qual o tamanho do
+espaço amostral então o tamanho de ômega
+e 6 x 6 que é 36 porque cada um cada
+dado pode ter seis possibilidades e
+saída qual seria o evento a então evento
+lá é o seguinte o primeiro dado saiu o
+segundo sério 6 ou o primeiro saiu dois
+e o segundo o seu que cinco o primeiro
+saiu 5 e o segundo saiu dois
+é o primeiro saiu quatro e o segundo
+saiu três o primeiro saiu três e o
+segundo seu quatro ok então qual tamanho
+de ar um dois três quatro cinco seis
+então eu tenho que a probabilidade de
+ocorrência do evento a é simplesmente o
+tamanho de ar dividir o tamanho de ômega
+então é 6 sobre 36 e ter simplesmente um
+cesto ok então qual é a chance de que a
+soma das faces é igual a 7 1618 mb obter
+uma soma maior do que cinco então
+acreditem o nosso diagrama de cada ponto
+aqui é uma saída possível certo
+cruzamento aqui é uma saída depois que
+você que seria dado = 4 dado 2 = 1 e
+para só uma ser maior que 5 que tem que
+acontecer então no dado um vai sair o
+valor um então no valor do tdu2 pode ser
+quanto pode ser 5 ou pode ser 6
+a ajuda do dois aí o valor dois no
+próximo dado pode ser quatro quatro
+cinco seis porque porque seria seis sete
+oito se o dado três jogado 173 curando
+dois só pode ser três quatro cinco ou
+seis cidadãos e quatro o dado do chá
+pode ser dois três quatro cinco seis se
+saiu cinco pode ser qualquer valor
+o dado dois esse saiu seis pode ser
+qualquer valor não dá dois tô calculando
+a probabilidade do evento há nada mais é
+que o tamanho de arte quanto que eu
+também já um dois três quatro cinco seis
+sete oito nove dez 11 12 13 14 15 16 17
+18 19 20 21 22 23 24 25 26 simplesmente
+26 sobre 36 ou seja e 13 sobre 18 ok
+então chance de obter uma soma maior que
+cinco é 13 sobre 18 os definição de
+probabilidade definição frequentista e
+nesse caso eu vou fazer o seguinte eu
+vou realizar o experimento aleatório
+muitas vezes e vou contar quantas vezes
+o evento a ocorre ou seja eu vou definir
+a probabilidade como sendo
+é a fração ou seja frequência de
+ocorrência daquele evento quando ele é
+muito grande fazendo isso no computador
+então o que a gente tem a simulação de
+uma moeda e a gente pode ver aqui se a
+gente aumenta o número de simulações nós
+vemos que o valor que eu tô calculando
+ou seja a chance de sair cara ele
+converte cada vez mais por valor real
+que é o valor que eu defini inicialmente
+que 0.6 ok então quanto mais e o aumento
+o número experimentos mais próximo eu
+fico da probabilidade real outro
+conceito fundamental probabilidade da
+união de efeitos então o primeiro
+mostrar intuitivamente fica essa equação
+aqui quer dizer depois nós vamos provar
+de maneira mais rigorosa então a gente
+tem que ir nosso espaço mostrar o ômega
+aqui eu tenho o evento a
+e aqui tem um evento b
+e quando eu pego o gente ah tá
+conceitual correu então essa região aqui
+ocorreu quando eu falo que bill ocorreu
+então essa região aqui morreu note
+quando eu faço por uma habilidade da
+união eu tô contando essa região aqui
+azul duas vezes então que tem que fazer
+então a prova de damião é verdade já mas
+probabilidade de bebê menos a
+probabilidade da intersecção que essa
+área aqui ok tem como provar isso aqui
+um pouco de uma maneira mais rigorosa
+então posso escrever que a união com b
+tá complementar intersecção com b
+a união
+e com a intersecção b complementar em
+união
+e com a intersecção com bico
+o ou seja eu tô pegando essa parte verde
+essa parte aqui em rosa e essa parte
+azul ok então tô fazendo união desses
+três pedaços aqui então isso aqui é vai
+a união com b ok só que nós tem que
+esses três eventos aqui são mutualmente
+exclusivos então quando aplicar a
+probabilidade em ambos os lados aquela
+prova idade de aula em algum b como são
+todos mutualmente exclusivos lembre-se
+que o terceiro axioma da probidade
+falava que a probabilidade de evento
+eventos mutuamente exclusivos é
+simplesmente a soma das probabilidades
+então vai ser pedir a complementar
+intersecção com b mas a probabilidade de
+ar intersecção kombi cumprimentar mas a
+probabilidade de ar intersecção b a
+probabilidade de a cumprimentar
+intersecção com b eu posso escrever como
+sendo simplesmente a probabilidade de ar
+ou menos a probabilidade de ar
+intersecção com b tá mas esse tema é a
+mesma coisa que a em rosa e também pode
+ser escrito como sendo a probabilidade
+de bebê menos a probabilidade de a
+intersecção b
+é mas a probabilidade de ar intersecção
+clube então daquilo esse termo aqui eu
+corto com esse tema aqui então chego que
+pedir ar união com b é simplesmente
+pedir ar
+é mais pb
+ou menos a probabilidade de ar entre
+fica com b ok então nós tem isso aqui
+esse três esse tema for 0 ou seja se
+você pensa por mutualmente exclusivos
+então propriedade da união é
+simplesmente a soma das probabilidades
+no caso da probabilidade condicional eu
+tenho que a probabilidade de ar dado que
+o evento b ocorreu é o que é a
+probabilidade de a e b ocorrer em
+conjunto dividido pela probabilidade de
+bebê então vamos adotar uma interação
+mais intuitiva então se vê ocorreu tenho
+que essa área que ocorreu ok
+é simplesmente bebé então esse vai ser o
+tamanho que eu tô vendo aqui embaixo ok
+então qual é a chance de ocorrer qual é
+a parte de ar que está em b a parte de
+água série b é só essa intersecção aqui
+então vejam como é que definir a chance
+de ocorrência de um certo evento a eu
+falei que era o tamanho de ar dividir o
+tamanho amostral então de novo vai ser o
+que vai ser o tamanho de já que a
+intersecção com b / o tamanho de bebê
+então o que acontece quando o bebê
+ocorre o que ocorre que muda meu espaço
+amostral então qual é a chance de a
+ocorrer é eu vou usar a parte de
+acreditar em b ou seja a intersecção com
+b dividido pela probabilidade de bebê
+ocorrer então a gente pode demonstrar
+essa por uma bizarra geladeira mais
+vigorosa da seguinte forma então vejo
+vamos supor que eu tenho lá no espaço
+amostral obrigado
+o objeto b
+e eu tenho certo
+é pública pertencente abrir então eu
+tenho o seguinte eu tenho que o
+somatório de ômega pertencente a bi de
+pedir ômega dado b
+é mais um somatório de ômega não
+pertencente a b
+é de pedir ômega dado b isso aqui tem
+que segurar um por quê porque o ômega
+ele tem que saber ou ele não pertencer
+ok esse termo aqui é zero porque se deu
+ocorreu e o ômega está aqui fora então o
+ômega com certeza não ocorreu então pois
+é bom só porque bebê é o número saiu um
+número par certo e ômega é um número
+ímpar 23 por exemplo então se ocorreu
+número par não tem como um homem a sair
+ok então eu vou ter que o somatório de
+ômega pertencente a b
+bom e pediu ômega dado b isso aqui é um
+mas ontem esse termo aqui ó
+e pediu amiga da do ppi se ocorreu moço
+porque o meio é dois então a chance de
+conhecer do homem aumenta então vou
+escrever isso aqui é um somatório de
+ômega pertencente a b
+in the alpha pedir ômega isso aqui vou
+daqui eu tiro que alpha é simplesmente
+um sobre o somatório de uma ver
+pertencente a b de pedir ômega e isso
+aqui é simplesmente um sobre pb esse
+alpha é um sobre pb
+e quando criou um evento qualquer então
+não tem que pedir ar tá do b
+eu posso querer simplesmente que você
+não somatório de ômega pertencente a
+intersecção comer dp de ômega da do bebê
+mas o somatório de ômega não pertencente
+a intersecção comer de pedir ômega dado
+b bom se ocorreu e o obrigadão pertence
+a intersecção comer omega pertencente
+nota que a intersecção b é o eventual
+corre e b ocorre então se ele não
+pertence então esse tema que zero porque
+o homem tá com certeza não correu não
+sei que escreva com o centro só notório
+o ômega pertencente a intersecção com
+bp&amp;o entrado b
+é isso aqui no fundo se eu me ocorreu
+isso aqui é um alfa desde a intersecção
+com b
+o ou seja se o que simplesmente pedir ar
+intersecção com v sobre p que talvez é
+por quê que é um alfa porque quando se o
+meu correu e esse ômega pertence a a
+intersecção com bebê então isso aqui é
+simplesmente maior do que pedir a
+intenção comer porque eu dei uma chamada
+sua base como a gente viu nesse caso
+anterior aqui ok e aí esse alpha a gente
+viu que é um sobre pedir bem então a
+gente chega a equação da probabilidade
+condicional fazer um exemplo calcule
+pediatra do bebê onde o ômega é o valor
+que eu até 15 ou a é um valor par certo
+então o ar ômega mão de dois ou seja a
+reparar e o b é o valor maior que 5 bom
+e quem são os elementos então vamos lá
+então o bebê ele é o valor maior do que
+5 e o ar é o valor par então você
+colocar os elementos aqui dentro que
+quebrou teu o valor um ele não é par ou
+dois é par que pertenceu a o 3 não é
+para o quê
+e ai pertenceu a os cinco não é par
+certo os seis é par e pertencer atenção
+os outros criei o 7 pertence saber
+porque não é paga o oito pertence a e b
+o nove pertence saber o 10 pertence a e
+b ou 11 pertence saber o 12 pertence a e
+b ou 13 sua pertence saber e o 14
+pertence aos dois ok então pelo a gente
+pode ver aqui por esse diagrama que a
+probabilidade do evento ar é
+simplesmente o tamanho de adib
+totalmente espaço amostral tem o quanto
+que eu tenho um dois três quatro cinco
+seis sete então ele é sete sobre a 15 ou
+a chance de ocorrência de p e não que eu
+tamanho db dividir totalmente passa
+mostrar então se eu contar que eu tenho
+1 2 3 4 5 6 7 8 9 10 então é
+simplesmente 10 sobre 15
+e aí de ficção kombi quantos quilômetros
+eu tenho eu tenho um dois três quatro
+cinco ok então eu tenho que pedir a
+intersecção com be5 sobre ciência então
+eu tenho que pedir ar da do bebê
+simplesmente cinco em cinco sobre 15 /
+10 sobre 15
+um dos 54 15415 até 45 sobre 10 isso
+aqui vai dar meio então dado que saiu o
+número maior do que 5 a chance de se
+número separar é meio então nós é
+interessante aqui ó se nós pegarmos só o
+evento b e essa parte aqui é a
+intersecção com b
+eu vejo que o tamanho de bebê é um dois
+vai ser 10 eu te envio e a intersecção
+comer essa região aqui ou seja a gente
+pode ver que metade os elementos estão e
+a intersecção comer então se ocorreu que
+é todo esse pedaço aqui então a chance
+de ar ocorrer é a parte de ar que está
+em b ou seja e a intersecção com b que
+ela publicamente por quê que deu o meio
+vamos então considerar um exemplo então
+um aluno decidi cursar uma sistema de
+computação ou de química se eu amo se
+matricular no curso de computação ele
+pode obter nota final 10 com
+probabilidade meio ser escolhe química
+obtém dessa comprou a verdade hunters o
+aluno decide lançar uma moeda quebrada
+ou seja cara seria computação e coroa
+seria química qual é a probabilidade de
+que o aluno escolha química e fecha com
+10 os então definir quem são os eventos
+estão evento escola e química certo que
+é pro mensagens que o aluno
+a química e fez com dance e o outro
+evento me chamar de ar seria fecha com
+você tem que calcular a probabilidade de
+que o aluno escolhia química e meio aqui
+né certo e fecha com essa ok isso aqui é
+igual a quatro que a gente sabe mas a
+gente sabe o seguinte a gente tem que
+pedir ar dado que a gente pode escolher
+como sendo o diabo e intersecção com o
+que sobre pedir que ou seja eu posso
+escrever que é prioridade do aluno
+escolher química e ficha acontece nada
+vai ser aqui a probabilidade de coluna
+fecha conversa dado que ele escolheu
+química fez a chance deles com e química
+bom quanto que é isso a chance dele
+fechar com 10 dado que ele escolheu
+química tive o que é um terço e a chance
+de escolher química se a moeda quebrada
+é meio então você quer simplesmente
+às vezes mail e você tá igual ao sexto
+com a chance do aluno escolher química e
+fecha com 10 é um cesto outro conceito
+fundamental é questão de dependência
+então eventos a e b são eventos
+independentes sem sua mente cê através
+da detecção de intersecção e o produto
+das probabilidades como é que eu mostro
+isso é muito simples porque eu tenho que
+pedir ar lado b é pedir a intersecção
+com b sobre o rendimento
+o ok bom se aí bem independente
+o tipo dentro dessa forma aqui serviço
+independentes então a gente vai ter que
+isso aqui é simplesmente pede ar por quê
+que pedir a porque não depende b então
+qual é a chance de ar ocorrer doado que
+me ocorreu a chance de ar que você de
+por exemplo qual é a chance de um aluno
+tira 10 numa certa disciplina dado
+choveu prazer que na china não tem graça
+nenhuma então a chance de pentear tá até
+daqui um tiro consegue ter uma aqui
+multiplicando que pedir a intersecção
+com b é pedir a vezes pedir bem então se
+a pessoa independentes a probabilidade
+da intersecção é simplesmente o produto
+das probabilidades vamos considerar o
+exemplo então vamos lá dois dados são
+lançados sejam eventos a soma dos dados
+a = 6 então calcular já quem é a
+probabilidade de ocorrência do evento a
+boa o evento a quais são os elementos
+possíveis então seria 2
+há 42 primeiro cidade quatro segundo 42
+que mais 13 3
+a 5 e 1
+o ios5 não tem que três e três aparece
+apenas uma vez por quê porque seu evento
+indistinguíveis porque eu não consigo
+distinguir qual é o primeiro igual com
+segundo dado até parece apenas uma vez
+então quanto que eu pedi a tu eu pedi
+haver um dois três quatro cinco sobre 86
+não conhecia o evento b então b seria 4
+no primeiro dado de qualquer valor no
+segundo tem 41 42 e 46 você já pedi b
+simplesmente sei sobre 36 que igual ao
+sexto mesmo
+oi e a intersecção kombi a intersecção
+com br é as duas coisas acontecerem
+juntos juntas o que que seria isso seria
+sair 4 no primeiro dado e a soma é igual
+a 6 então quais são as possibilidades
+vamos ver eventual então seria só essa
+possibilidade aqui certo que é o que tá
+nos dois só então seria simplesmente o
+valor quatro de 2 = 1 sobre 36 eu não
+tem que ser diferente de pedir ar vezes
+primeiro
+o que é igual a 5 sobre 36
+às vezes um cesto em então não tem que
+portanto como pedir ar
+a intersecção com b é diferente de pedir
+a vezes pedir bem então a gente concluí
+já e b
+e não são diferentes
+bom então para verificar dependência
+como é que eu faço cálculo que já pensei
+que eu comer cálculo pedir a cálculo cdb
+e vejo se pedir a intersecção com b =
+pedir a vezes pedir penúltimo vamos ver
+então a vida probabilidade total então
+dizemos que os eventos b1 b2 pecar
+formam uma partição de espaço amostral
+se a intersecção entre eles foi igual a
+conjunto vazio a união das formou espaço
+amostral e a probabilidade de causar um
+deles tem que ser 90 ou seja se eu tiver
+aqui meu espaço amostral
+o meu dividir espaço aqui em pedaços
+creio onde não tem intersecção desses
+pedaços tão seria como se fosse um
+quebra-cabeça e aí a união desse pedra
+das peças desse quebra-cabeça não for
+mais espaço amostral então essas peças
+do quebra-cabeça formam uma partição do
+espaço amostral então quê que fala a lei
+dá para usar o tal então sejam de um até
+de calma aparecer onde passa mostrar o
+ômega então qualquer evento a pode ser
+escrito dessa forma que é o da onde que
+vem isso então primeiro vamos desenhar
+aqui o nosso espaço amostral então que
+eu tenho minha gente o ar e tem o espaço
+amostral particionado de acordo com
+essas partições e até o seguinte esse
+evento a como é que eu posso escrever
+esse evento lá não tem esse evento ali
+pode ser esse pedaço aqui quanto que
+esperar vocês pedaço nada mais aqui a
+intersecção com ver um porque é o que
+está em ar e está em um eu posso pegar
+mais esse pedaço
+o quanto que esse pedaço é um milhão de
+ar e intersecção com b2 certo que mais
+mas esse pedaço aqui b3 da união
+e aí tem sei que você não come três
+faces pedaço de quatro e até o versículo
+qual que é o seguinte ub6 não entra mas
+nós tem que a intersecção com o conjunto
+vazio é o próprio vazio ea união com o
+vazio é o próprio é a próprio a ok então
+se eu colocar fio o termo a intersecção
+com de seis agora ele seja vazio o
+sistema que entender vazio
+o ok porque não tem nenhum pedaço de
+aqui em b6 ele pode entrar aqui porque
+mesma coisa que o elemento nulo na soma
+então soma zero e a crescer e
+multiplicar por 10 então orienta de
+qualquer forma dona fundo eu posso
+escrever o ar como sendo uma união de
+igual a um até o certo ele de ar
+intersecção comei ok mas ela tem todos
+esses a intersecção
+e a intersecção com bee intersecção com
+a intersecção com vj intersecção com pj
+é igual a vazio porque porque ele não
+tem interceptores não tem pedaços
+compartilhados aqui com sua peça de
+quebra-cabeça e o afonso a imagem desse
+tempo a cabeça dessas peças de
+quebra-cabeça ou se encaixa mas não tem
+elas não são sobrepostas ok então eu
+tenho que a probabilidade da união ela
+vira a soma da probabilidade então só
+clicar para a verdade aqui eu vou ter
+que pedir ar e vai ser simplesmente a
+probabilidade da união
+eu digo a mão atm de ar e intersecção
+com gay isso aqui vai simplesmente virar
+a somatório de igual a 1 até n da
+probabilidade de ar e intersecção kombi
+mas até o seguinte que a gente sabe a
+gente sabe que p de ar da do be eu posso
+viver como sendo de ar e intersecção o
+bee / pedir bay
+bom então daqui eu tiro que pedir a
+intersecção cobrir nada mais é que pedir
+ar dadub pediria a
+bom então se eu substituísse aqui quando
+vai ficar somatório de igual a 1 atm te
+pedir ar dado behind the bay
+o que é isso é mãos estão ali da
+probabilidade total então fazer um
+exemplo moedas de ouro e prata são
+colocadas em três urnas conforme a
+tabela abaixo
+e quando mulher tem uma prioridade de
+escolha então meio é a chance de
+escolher a olhar um e um quarto de
+escolher qualquer uma das duas outras
+duas qual é a probabilidade de escolher
+uma moeda de ouro certo sim a zonas
+tivesse a mesma chance de serem
+escolhidas então bastaria ao pensar que
+eu tenho uma orelha só e seria
+simplesmente número de moedas de ouro
+dividido pelo total mas nesse caso não é
+ok então vamos escrever a essa nossa
+própria idade da primeira coisa nosso
+espaço amostral ele é dividido em três
+partes então seria apresentador dá um a
+um a dois e a agulha três e aqui tem um
+evento a que seria
+[Música]
+e retirar uma moeda de ouro então vou
+escrever o meu pedir ar como sendo a
+probabilidade
+é de ar intersecção causar um ou seja eu
+tiro uma moeda vamo colocar queda o ar
+seria retirar uma moeda de ouro ou eu
+posso tirar uma moeda de ouro dá uma
+olhada dois eu posso tirar uma moeda de
+ouro na hora três ok então no fundo eu
+posso viver compra para escrever se a
+intersecção com algum aqui como você não
+acordar de funcional tá possuído por
+unidade de área vai ser pedir ar dado
+que eu escolhi algo não vezes a chance
+de escolher uma não mas é probabilidade
+de ar dado que eu escolhi a honra 2
+às vezes a chance de escolher a hora 2
+é mas a probabilidade de ar dado que eu
+escolhi a onda três vezes a chance de
+escolher a urna três da onde veio essa
+relação aqui ela vende pediatra do bebê
+e pedir a intersecção com bp db que o
+seu passa o pmdb multiplicando aqui eu
+vou ter que pedir a intersecção b é
+pediatra do bebê então desde a
+intersecção como é pedir a dado um
+perdão não boi com a chance de retirar
+uma moeda de ouro do amor não eu tenho
+quatro de moedas de ouro no total de 12
+certo a chance de escolher um olhar um
+e-mail chance escolha um e-mail a chance
+de tirar uma moeda de ouro da hora dois
+e três num total de 12 a chance de
+escolher uma dois em um quarto a chance
+eu juro a maior dádiva da natureza é 6
+sobre 12 e as chances correr na 3:15
+bom então vou ter que a probabilidade
+vai ser seguinte
+ou então pedir a
+e vai ser simplesmente 4:12
+a disney ou mais
+e três sobre 12
+o peso quarto
+é mas se sobre 12 meses um quarto então
+resolvendo aqui esse quatro aqui a gente
+corta com todos vai sobrar 13 então vai
+dar um cesto mas esse 3 controles e vai
+dar quatro então vai dar um sobre 16 mas
+seus controles e vai dar meio então vai
+ser um oitavo a
+bom então resolvido foi me sinto isso
+aqui vai dar 48 então vai dar 41
+dividido por seis vai dar 8:00 mais 48 /
+16 mais a 3:48 dividido por 8 tá
+o sexo resolvendo isso aqui de 17 sobre
+48 deixa que dá aproximadamente 0,35 ou
+seja olha probabilidade escolher uma
+moeda de ouro então é 35% então nessa
+aula a gente viu o que que é uma medida
+de probabilidade certo a gente viu o que
+que é probabilidade condicional ou seja
+quanto que é um pedir ar da do que o bi
+ocorreu ter a chance de que a e b
+ocorreram juntos dividido pela chance de
+que ocorreu a questão de independência
+ou seja a e b são independentes então
+pedir ar e intersecção com b é
+simplesmente pedir a vezes pedir b
+oi e a gente viu também a lei da
+probabilidade total ou seja qualquer
+evento pode ser escrito como em termos
+da partição do espaço amostral ou seja
+pedir águas escrito como somatório de 1
+até n de um pedir ar dado b ebay ou
+desses de issac formam uma parcela
+espaço amostral então no próximo vídeo
+veja o teorema de vez e o tema relevante
+mês a gente vai ver que ele é muito
+parecido com a lei dá para olhar de
+total já adiantando aqui então de pedir
+bebida do ar eu posso escrever como
+sendo pedir a dadub pedirei que eu pedi
+a intersecção kombi aí / pedir a onde eu
+pedi a é simplesmente um somatório de j
+= t n de pentear dado pj pj e esse termo
+aqui é a nossa
+a lei da probabilidade total ok então
+vejam lá o vídeo sobre o teorema de vez
+e aí completamos a parte básica de
+probabilidade e

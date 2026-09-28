@@ -1,0 +1,136 @@
+# Trabalhando com Datas no Pandas - Prof  Fernanda Santos
+
+- **URL:** https://www.youtube.com/watch?v=CHQXsSR3CkA
+- **ID:** CHQXsSR3CkA
+
+## Transcrição
+
+olá pessoal tudo bom
+ei para falarmos mais um pouco sobre
+nossas análises com a então em pandas e
+dessa vez de mostrar é um dos métodos
+que podem manipular dados do tempo data
+no caso deste time a tribo pandas como
+funciona dessa vez já trouxe meu
+notebook pronto aqui e voltar agora
+junto com vocês
+então o primeiro passo é importar portal
+manda é muito parecido com um organizado
+na outra manual do mala de vendas
+então é que nós temos aqui nós temos na
+cidade
+a data da venda o valor da venda
+o edital loja ea quantidade vendida
+se eu pensar que o chefe do ifo a
+retomar algumas informações com relação
+[Música]
+à cidade é ele já considerou já
+conseguiu
+é uma forma de data o time não temos
+vendas como forte o jardim como inteiro
+em quantidade como inteiro
+caso não reconheça que a colocou como
+candidata se vier como objeto por
+exemplo é um povo entende o que é um
+qualquer outro tipo não data como é que
+a gente faz
+eu vou fazer agora tá só pra gente ver
+em caso e nunca conheci como data então
+eu vou transformar a comunidade aqui pra
+cachorro lei e como a gente faz o seu
+passar o info agora candidata agora é
+estúdio não é mais na coluna desde time
+eu transformo na coluna na comunidade é
+uma gente faz isso aquilo passa a perder
+ponto tudo desde time agora nada
+então aos risos eu passava por favor
+já temos a nossa coluna data novamente
+como eike time
+então agora podemos seguir aguardar a
+nata casa e agora vamos ele
+vamos fazer um acampamento por ano não
+quero saber nossas com os que estão
+nossas vendas por ano então eu vou
+passar um grupo e bairro fazer o
+agrupamento por data e o que eu passei
+aqui o ponto e ou seja de teve break
+time um ponto e data
+pegue um ano e com relação a como uma
+vendas faz uma vez o agrupamento por ano
+isso aqui chamakh e agora o equipamento
+ano retorna à soma das vendas por ano em
+2008 22.481 1933 1776
+ou seja nossas vendas estão aumentando
+né após colocar isso em um gráfico podem
+passar aqui depois do sangue
+o ponto pop ponto marco já vimos também
+a visualização é como criar gráficos
+então tá nossas vendas de 2008 e 2009
+ana posso criar uma nova coluna apenas
+com um
+olhe como é que a gente faz isso deve o
+nome da nossa nova paulo não vai ser
+removida e eu faço é afinada a ponto de
+concluir está em apenas um ano
+aqui eu traí los um ano na nossa cola de
+nada nunca a gente extrai um mês que o
+dia simples vou passar aqui o mais uma
+vez vamos criar duas novas colunas
+chamar mês vinda e de renda mas sei o
+que vai ser f dada a ponto de ter um
+monte e df data a ponto de ter ponto de
+não criamos os meses na venda e o dia na
+venda
+cubro a data mais antiga
+nosso conjunto de dados data mais antiga
+5 do de calcular a diferença de nias tem
+nesse caso a diferença entre a data que
+está sendo considerada na nossa linha de
+2008
+a cada data doença e vou é subtrair da
+data mínima que é se a diferença de dias
+vou gravar uma diferença desde que
+marquem a data - a data mínima ou seja
+existem quantos dias desde que houve a
+última venda um tanque o dia 27 de
+agosto
+a gente fez aqui a gente é pego 27 de
+agosto e foi lá e subtraiu de 15 de
+janeiro né
+são 234 dia 25 de novembro então
+subtraiu de 51 324 dias e assim por
+diante de 11 de março - lá 15 2018 em
+outros dias 130 dias
+então assim se pode calcular e floresta
+que deseja caso você tenha na sua base
+duas colunas assinadas por ter usado
+também dá para trazer o semestre no
+brasil semestre então não levo criar uma
+nova com momentos e mexe não se mexe
+vidas se mexe venda e você eu vou pegar
+na bola e na quarta
+e agora então nós temos aqui ou se mexe
+da venda semestre 46 mexe no primeiro
+semestre
+há como que obtém um sub-conjunto
+através dessa minha base é como fazer
+aqui tô pegando todas as rendas de março
+de 2019 mundo eu faço isso utilizam
+localização e eu vou pegar o ponto e
+igual a 2009
+todo mundo que o ano seja em 2019
+e aqui e todo mundo que um mês de tempo
+todo mundo é igual a 3
+isso aqui todo mundo é do ano 2019 e
+todo mundo é do mês
+eis que conseguimos obter um segundo
+conjunto é utilizando as alterações de
+datas estão disponíveis pra gente
+utilizar no plano
+essa é a aula eu queria mostrar hoje da
+data é uma coisa aqui muita gente
+então eu queria mostrar como manipular
+datas no o python utilizou pandas para
+que vocês tenham gostado qualquer dúvida
+deixando os comentários e até a próxima
+aula

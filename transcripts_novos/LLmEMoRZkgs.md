@@ -1,0 +1,1345 @@
+# live Weslley Moura - Mestre em engenharia de computação pelo IPT Portugal - Apache Spark
+
+- **URL:** https://www.youtube.com/watch?v=LLmEMoRZkgs
+- **ID:** LLmEMoRZkgs
+
+## Transcrição
+
+oi e aí recebeu wesley né que aceitou aí
+de pronta né conversar a gente aí da
+carreira dele brilhante e também falar
+um pouco aí sobre a parte spark né
+inclusive ele ele é estrutura né mas é
+que tem crise né diz parque gosto dele é
+muito legal eu sou aluno lá e vale
+bastante a pena vocês conhecerem também
+ele vai falar aqui para gente e seja bem
+vindo cara se apresenta aí fala um pouco
+da tua carreira e manda brasa fica à
+vontade de ir obrigado
+tá bom boa noite obrigado pelo convite
+também acompanha um bastante cheiroso do
+trabalho na unidade de bom feliz em
+poder falar com todos chow-chow então eu
+eu trabalho trabalho como liso deita
+sites a hoje em portugal eu sou
+originalmente são paulo sempre em osasco
+na verdade estava em são paulo em 2016
+eu resolvi migrar para a irlanda
+a onde eu fiquei trabalhando lá até dois
+meses atrás que então tempinho
+trabalhando lá como vende seus dados mas
+startup depois passei para o banco onde
+eu trabalho hoje e sempre fica envolvido
+nessa área de modelagem e essa dinheiro
+é particularmente em colocar modelos de
+produção sensacional muito experiência
+boa aí é uma experiência bacana assim eu
+é uma flor eu vou usar um técnica
+bastante interessante que eu tive que eu
+tava são paulo trabalhava muito comuns
+as um spss e menos com colocar uma
+benção né é que eu comecei a trabalhar
+bastante para essa parte de deploy
+integração tv pregação enfim esse tipo
+de
+se você senti uma liberdade grande né
+é é é então o bom assim que eu tive a
+experiência na primeira startup de fazer
+tudo né e quer uma startup então
+geralmente não tem muitas divisão entre
+é o cara de dados cara de modelagem nada
+disso dura geralmente é um time só que
+dá a mão e é tudo tão nessa nessa
+empresa eu te vi vantagem de trabalhar
+com and wesley começando conversando com
+o usuário até colocar os modelos de
+introdução é hoje não se tiver que eu
+trabalho mais num quadrado mais que se
+com colocando os modelos em produção
+então geralmente eu tenho deita site
+mostra né ajudando a conversar com
+pessoas negócio entender nos problemas e
+eu foco mais na parte de um
+o replay sei lá então é isso que vem
+fazendo hoje eu trabalho com bastante
+com python nossas tec principal a
+geralmente conectado nosso ali g1dia do
+pdfs e alguns outros projetos quando a
+gente tem um volume de dados muito
+grande parque ou para spike que é nossa
+lá e a gente usa o nosso poster para
+rodar as aplicações usando o restante da
+riscar ele também tá ó
+o usam bastante spark.sql também lá a
+geralmente se não tanto a gente costuma
+usar mais as quando der um edi rock
+torrent sumir né mas o impala entende
+nas aplicações inclusive que a gente
+foca em produção geralmente adjetivos em
+da impala na antiga e neste ano e me
+traumatizaram com aquela telinha preta
+dos infernos porque eles pagam stereo
+caraca cara não tava lá e ainda era meio
+que no rio max né então tinha que por
+fazer tudo na mesmo que eu falei caraca
+tô lascado nunca trabalhei com o linux
+na vida é uma referência do e
+traumatizante só eu que era está te
+esperando aqui para tudo que ter geral a
+água os ambientes vão rodar em linux na
+em geral agora
+o serviço falando em cloud também ligar
+perguntando se essa atribuição qual dela
+é lá no citibank é que altera o
+e aí tem um clássico que você já
+aproximadamente 150 máquinas a 20 pedras
+de memória é tão que você razoavelmente
+bom parrudo para rodar nossa de frio a
+gente já a ideia a gente vai colocar o
+modelo de produção a gente pensa o
+seguinte a gente tem sempre tento
+utilizar o nosso cluster porque ele foi
+feito justamente fez para suportar
+bastante aplicação em execução de vários
+botecos não george dentro do salto ele a
+sangue ele consegue instalar você vai
+receber mais nada para processar meter
+na aplicação e aquele que você não é
+mais suficiente a gente consegue escalar
+e se você coloca mais máquinas e escala
+de uma forma mais rápida o marketing
+geralmente quando a gente usa aplicações
+paiva
+e a gente ainda não utiliza de falar
+construir a nossa aplicativos aí tá
+rodando em wedding notion.so segunda
+máquina geralmente têm os mais uma única
+máquina então se você pensar de um ponto
+de vista de falar habilidade ele vai
+rodar até um certo ponto se você colocar
+bastante aplicações vai ter um ponto que
+não vai mais voltar ou até mesmo uma
+única aplicação que pode preciso de
+conseguir citado e prefeito de
+colaboração e vocês o que ajude se
+e a gente fica outra o jogo tem quando a
+gente precisa fazer a parte de
+é de análise análise exploratória a e aí
+mas é dura pouco tempo a gente fica na
+usando o júpiter durante a análise
+exploratória e prova de conceito do
+modelo a partir do momento que a gente
+decide levar esse modelo para produção a
+gente vai untar mensagem junto precisa
+trabalhar do aplicativos split python
+então com slips escala ho
+eu vou só desligar o som do ventilador
+aqui que tá fazendo um barulhão aqui aí
+nós podia continuar rapidinho que eu já
+volto espera aí só no dia que eu vou
+desligar outra vou fazer um
+e aí
+i hope you
+e aí
+e é incrível ventilador pequenininho mas
+faz um barulho rapaz parece um tufão
+isso aqui é então ele é com o ricardo tá
+falando do da questão do crosta né a
+então hoje a gente não roda o gente não
+roda nossa aplicações pai tão em suas
+tendas tem tem de flor a gente poderia
+mudar mudar nas arquiteturas para fazer
+isso mas a gente ainda não faz tem
+algumas pesquisas você tiver tem um em
+um laboratório de testes onde o pessoal
+ajuda a configuração desse tipo de
+ambiente por exemplo hoje a gente não
+tem um cluster antes na roda pai tão
+imposter ah mas tem a gente tá fazendo
+as pesquisas dentro desse laboratório
+para ver qual a melhor arquitetura
+suportaria as aplicações que a gente tem
+lá para rodar a gente até usa besc por
+exemplo para trabalhar com o pensamento
+distribuído mas não é só isso
+não consegue né sim sim faz parque
+escala tranquilo a gente a roda dentro
+dos ter a nossa aplicações é que a gente
+ainda ainda não roda mas assim é uma
+coisa que é meio que obrigatória se você
+pensar do ponto de vista escalabilidade
+é a longo prazo não se sustenta muito
+mal arquitetura onde você tem várias
+aplicações rodando no é de noite
+e não se sustenta né funciona por um
+determinado tempo
+e de repente colocar um ambiente com zé
+para ele né para ele consegue rodar
+multi multi linguagem e fazer o caminho
+o paralela para paralisação a gente a
+gente servir aí você a gente tem
+bastante coisa que roda em paralelo
+quando a gente chega quando a gente cria
+uma aplicação ai pô em geral a gente
+utiliza bastante recurso de paralisia
+alismo a biblioteca por exemplo enche o
+sodesk usa a viable multiprocessing que
+é uma outra biblioteca para trabalhar
+com um tratamento paralelo bata mas a
+gente não roda isso no cluster a gente
+roda numa máquina só então assim é um
+paralelo mas ainda tá limitada do
+e antes de arquitetura show
+a moto pergunta aqui dente o douglas e
+para análise se ou para produção a gente
+usa assim geralmente para produção tá
+para análise a gente geralmente têm os
+notebooks a agente executor de uma forma
+local na verdade e a partir do momento
+que a gente vê que a sentido aquele
+aquela analisou aquele modelo a gente
+chega até fazer uma prova de conceito um
+volume estado reduzido a gente vê que
+faz sentido aí a gente parte para o
+ambiente produtivo muitas vezes o que
+acontece o seguinte durante a fase de
+análise o sentido de dados tá usando o
+python ea nossas técnica esse pau do
+banco e aí quando a gente começa a falar
+de produção a gente tem que falar sobre
+uma possível migração do pai compra o
+ver mais parque ou escala isso acontece
+bastante muitas vezes a gente tem que
+fazer tem que fazer a migração do código
+em python puro para pais parque ou
+escala vai conseguir colocar esse dentro
+do pelas tem uma escala de idade da
+solução né
+e aí
+bom então a sua a questão de a questão
+do relacionamento entre escala e spark
+na verdade o escala o spike usa o escala
+de forma mais ativa então se você pensar
+do condição de performance a o escravo
+se você fazer uma aplicação em escala
+ela roda mais rápido dentro dos parques
+se você comparar com o país parque e
+também ela é mais performático e além
+disso tem a vantagem de que geralmente o
+spike libera os recursos é os primeiros
+recursos são liberados por escala e
+depois são liberados para o país parque
+por exemplo em geral o escala sempre tem
+sempre está um pouquinho mais à frente
+do ponto de vista de recursos a pode
+usar arquitetura o spark é o seu
+ambiente de processamento certo então
+você tem um ambiente processamento que é
+o spike em cima desse ambiente você vai
+utilizar a linguagem que você quiser
+você pode usar escala que é o nativo e
+vai ter eventualmente mais ter formas ou
+você pode usar python que nos é o país
+parque para você rodar em cima do seu do
+seu das arquiteturas para o spark é o
+ambiente de processamento você pode o
+acha que você quer utilizar e como é que
+funciona o o desempenho do spark com a
+região já testou ou não
+e do desempenho fofa spark spark então
+ele comparado com o que diz assim
+geralmente eu comparo com o edson
+comparando com os cabral completam mesmo
+então com entre escala e pai tornou
+escala e r escala e geralmente roda mais
+rápido porque como eu disse a linguagem
+nativa do esporte foi feita em cima
+disso também então ele geralmente roda
+mais rápido os spark e o r eles têm que
+iniciar alguns com tênis específicos
+para que sua aplicação consiga rodar ele
+tem um pouquinho mais de passos a
+preparar o ambiente de execução para que
+a sua aplicação lote a
+bom então ele tem ele tem um pouquinho
+desse s
+o episódio desse tempo para conseguir
+preparar sua aplicação entendi
+e o ricardo pergunta mas isso é
+configurável não porque vi vários beach
+marques sobre isso não dava diferença
+bem legal saber então o é assim o a
+linguagem nativa do spark é o escala
+certo então assim ele ele naturalmente
+ele ele tem um pouco mais do que eu faço
+é claro que tu tinha pensando numa ponto
+de vista prático ali a maioria das
+aplicações você não vai ter uma
+diferença muito prática de diferença de
+performance geral elas rodam
+relativamente bem assim muito parecidas
+mas o escala é o mais performático
+bom e todos os tons de zico
+e quem está disponível hoje
+o show de bola aí se chegou a preparar
+algum ppt ou alguma coisa amor
+bom então eu ia na verdade eu pensei em
+falar mesmo como o tá beleza então fica
+à vontade
+a chapinha
+e aí
+olá eu sou a paixão material aqui
+tá tranquilo
+e aí
+e aí depois eu vou mostrar um exemplo
+por exemplo do que acontece em um
+exemplo de aplicação que o que a gente
+criou usando mais parque da mostrar como
+o aplicação é iniciada dentro do
+plástico como que quais são os tipos de
+independências que você tem que
+configurar para que essa aplicação audi
+no legal eu vou mostrar essa daqui a
+pouco a então assim falando um pouco
+mais sobre a questão de
+é de execução
+é de componentes participar que
+geralmente acontece seguinte você tem
+você tem a tua aplicação e ela vai rodar
+dentro de um container dentro de um cara
+chamado driver prova certo assim o spark
+esse cara é o orquestrador da sua
+aplicação então quando você cria uma
+aplicação ele vai iniciar esse driver
+ele vai ser responsável por exemplo
+orquestral a execução do suporte a esse
+driver ele pode ser iniciado em
+diferentes locais então dependendo do
+tipo de configuração que você tem do seu
+ambiente parque esse programa pode ser
+iniciado em diferentes locais por
+exemplo sentirá falando de uma
+arquitetura altamente a gente vai
+falando de do espaço instalado numa
+única máquina angeloni por exemplo a
+esse driver vai iniciar naquela única
+máquina que existe segredo a gente vai
+falando
+o ambiente de cluster em geral você tem
+razão a cultura mais tradicional você
+tem um cara chamado edson nude e você
+tem o seu cluster tá é de nojo ele está
+fora do seu rosto ele tá cor é uma
+máquina que está conectada ao seu clã
+você tem acesso ao seu critério mas não
+pertence ao seu clã você tá uma forma
+periférica nós arquitetura então se você
+tem um no spark é configurado como por
+exemplo cluster node significa que
+quando você reiniciar sua aplicações e
+você tá dentro do seu red-node chamando
+o espartano submetendo sua aplicação por
+cluster esse driver ele vai ser iniciado
+lá dentro do seu clã ele vai escolher
+uma máquina está dentro do próximo vai
+iniciar esse programa que vai fazer o
+prestação do das tarefas
+se você tiver utilizando cliente molde é
+uma outra configuração do spike esse
+driver vai começar naquela máquina que
+você sumiu aplicação ao invés de driver
+ser submetido ao cluster ele na verdade
+ele é iniciado dentro daquele é de noite
+que aquela máquina que você iniciou sua
+pregação eu tenho essa essa pequena
+diferença condição de arquitetura mas o
+esse driver é o cara que vai fazer a vai
+orquestrar né essa a sua aplicação
+durante o tempo de execução é a equação
+o primeiro ponto que tem que se
+preocupar é se não estourar os recursos
+desse drive esse é um dos principais
+pontos que a gente tem que pensar quando
+está desenvolvendo aplicação porque como
+ele vai ser executado de forma
+distribuída a imagina que você tá usando
+os parques porque tem bastante dados a
+esses dados ele eventual
+e não são suportados dentro da sua única
+máquina que onde roda seu driver então
+você não vai querer que o spac traga
+todos esses dados com um local só a
+ideia que todos esses dados sejam
+distribuídos em diferentes máquinas do
+seu clã ser cada uma dessa máquina vai
+rodar vai fazer parte da operação que
+você quer e no final você vai trazer
+para o seu driver apenas os resultados
+em geral é um conjunto de dados bem
+menor ele tá agrupadores a filtrado e
+assim por diante estou conceito de uma
+produção né exatamente é tem o mesmo
+conceito então você faz o pé né então
+seus dados são distribuídos na sua no
+seu workouts diferentes máquinas cada
+máquina vai rodar a aplicação em cima
+daqueles dados somente e depois lá você
+reducio faz o
+a fazer o dado de volta do seu seu
+driver ou eventualmente nem precisa
+trazer o da derrota você pode distribuir
+fazer o processamento em cada uma das
+máquinas e seus fazer um tanto dos seus
+dados para o disco que se já terminou
+processamento e não precisa trazer os
+dados para o driver na verdade estão em
+pode acontecer ela eu acho que esse
+conceito
+é é é bastante importante que quer o que
+o é a principal diferença entre um
+processamento único na mônica máquina
+que você não tem essa preocupação com o
+processamento distribuído onde os seus
+recursos não estão somente naquela
+máquina os recursos estão em várias
+máquinas é que tem que fazer com que a
+cada uma dessas máquinas roda e parte do
+seu do seu trabalho com parte dos seus a
+bom o grande segredo do spark para fazer
+isso é a o particionamento dos dados
+então espero que é capaz de particionar
+os seus dados e forma que cada um cada
+parte desses dados pode ser processada
+de forma independente
+se você tem uma base da doce lar 1
+milhão de registros você pode distribuir
+esse 1 milhão em diferentes partições e
+cada máquina do seu cluster vai rodar
+sua aplicação somente para aquele
+determinado conjunto de registros de
+forma paralela a para fazer essa
+distribuição está que tenho que me chama
+dos ags rdd então essa é a estrutura que
+o espaço utiliza para gravar os seus
+dados eles ficam dentro dessa estrutura
+de data
+e a
+a usar precisar de deserção
+e eles são naturalização nativamente
+imutáveis ou seja você não pode mudar os
+dados de um agir essa é uma outra rosto
+quanto cortante do spark é quando você
+queria um olha a gente podem chegar lá
+grid como se fosse um deitar frente só
+que ele está distribuído em várias
+máquinas uma vez que você cria um áudio
+de você não pode alterar mais você
+precisar fazer alguma alteração na
+verdade você faz a transformação e
+retorna o resultado em um outro
+ardidinho outro objeto não essa essa
+característica de não ser imutável não
+poderá ser alterado a permite com que o
+espaco utilize um outro componente
+bastante importante que são tags deck na
+verdade é como se fosse um gráfico como
+se fosse não é um grafo de processamento
+da sua operação não
+e os seus dados distribuídos de um slide
+que estão distribuídos em diferentes
+máquinas e aí vinculado a esse agredir
+você tem uma estrutura chamada o deck
+que ela vai porque vai te falar vai
+especificar quais são as etapas de
+processamento de dados daquele
+determinado a agir então por exemplo
+você vai fazer uma transformação depois
+vai fazer um fixo que você vai aplicar
+uma um agrupamento então esse passo a
+passo do que do que tem que ser feito é
+controlado por meio dessa estrutura
+conhecida como deve
+e a bom e aí vocês são e aí por meio
+desses principais componentes aids
+ideias menos é que o espaço consegue
+fazer a toda a gestão neto controlar o
+processamento de dados e também
+controlar a questão de tolerância a
+falha total
+na na na
+o vídeo da mulher de nas questões aqui
+ou você prefere que o pessoal pergunte o
+porquê que descreva aqui o que você acha
+melhor perguntar né
+já é pode pode ser assim não tem sol
+então vamos fazer o seguinte bom pode
+tentar perguntar
+o óleo pode desmontar aí perguntar em
+bom então é opa e aí vai falar isso eu
+vou levantar um ponto da pergunta que eu
+tinha feito que era o seguinte eu
+entendi que hoje vocês usam esse crosta
+para produção para vocês subirem modelo
+sua produção e aí o que eu tinha falado
+era praticamente o seguinte por é se
+você pensa num modelo com cara que já
+foi treinado já teve um processo de
+processamento criação data certa tudo
+mais foi treinado e aí você tem duas
+possibilidades né ou você usa esse
+modelo como ele point para um predict
+penas ou você usa esse modelo para o
+processamento e algum dado em lote né e
+aí isso é de 11 praticamente em pet né e
+aí o ponto que eu tinha levantado era
+justamente isso do tipo aliviar de
+predict como ele não sei até onde faz a
+minha pergunta é por quê que vocês usam
+um cluster mas se vocês usam para
+processamento em batch aí já faz um
+pouco mais sentido para ter sentido a
+minha
+e aí
+e assim e se vocês usam alguma coisa com
+por exemplo se alguma coisa aqui de
+vocês ela tá disponível disponibilizada
+em nuvem por exemplo na plataforma e que
+você usa um seis meses que da vida ou e
+aí você pode lá é evelyn solidão e cloud
+formation in da vida o robô em ambiente
+entendeu sim eu tenho um caso de uso que
+a gente usa acho que tá vinculado com as
+suas perguntas a gente por exemplo tem
+um tem um caso de uso a gente usa é um
+modelo que faz a implementação de
+cláusulas por exemplo você tem imagina
+que você tem um contrato qualquer
+contrato nesse caso a contrato
+financeiro esse contrato tem várias
+cláusulas você clica em uma cláusula por
+exemplo e a pessoa você clica nessa
+causa ele é esse modelo sim a aplicação
+o rappi determinado in the point vai
+passar esse texto da ati e a p e vai
+responder com as causas similares que eu
+li e outros contratos então seria para
+então você pode por exemplo para modelos
+em que você tem esse uma fatorização
+muito grande é face que modelo que vocês
+usam no caso é verdade então assim nesse
+caso por exemplo como você mencionou a
+parte do pedir que a gente chama de
+inferno esse diferente explicar o que a
+gente vai lá essa esse modelo específico
+ele é servido por meio de uma api flask
+essa pe ela foi colocado em produção em
+um outro egypte é o fim é um serviço
+claro que vai servir basicamente para a
+servir essa peitão presença os
+resultados da peace agora
+e traz esse modelo como você já viu
+existe um modelo que foi treinado
+previamente para conseguir resolver as
+causas parecidas com aquele texto esse
+essa etapa de treinamento essa etapa a
+gente fez no planta anti isoplaster
+exemplos para fazer o treinamento com
+esse modelo e com o treinamento esse
+modelo o resultado disso é modelo tão
+são objetos a gente faz exporta né do
+naruto treinamento e envia lá para o
+apetite ela tirou o pé plano de predição
+é executado pega entendi então só para
+só para consolidar né ela questão é que
+nem todo modelo faz sentido e você usar
+o crush para ele vocês usam o crush para
+treinamento e para predição e modelos em
+que você não tem um treinamento que você
+tem por exemplo uma bolsa grande uma
+autorização de matriz
+e isso é verdade exato um show e exata
+legal exatamente isso e ou o outro caso
+de uso que você já viu e é pensamento
+betty e também tem legal quanto tempo
+modelos que está processar embaixo
+também a gente vai para o clã e a roda
+lá que você tem mais recursos a mas acho
+que sem por cento dos casos que esteve
+modelo servidos por meio de ap em geral
+a gente trabalha com container lá a
+gente usou preenchemos todos ficam
+container e viabilizar os recursos
+necessários e rodar a aplicação no
+contexto pegar o show de cobra
+o show de bola o leonardo que quer fazer
+uma pergunta vai lá no edson
+oi boa noite tô conseguindo ouvir uma
+boa noite sim sim cara minha pergunta é
+o seguinte se aí vocês usam alguma
+aplicação que tem um casamento de tempo
+real se vocês duas alcance tem adulto e
+com casca por exemplo sendo gerenciado
+pelos o fibra ou aplicação de vocês são
+roda inverte principais a integração se
+usa o costa no adufe com o gráfico
+instalado como é que você conexão entre
+o casca e o o participar com vocês aí
+como por exemplo então a gente 99% nosso
+casos é betty é
+bom então são esses que eu comentei que
+a gente já viu eu tenho a gente tem um
+caso de uso que ele já tá engraçado sim
+ele deveria ser that também ele é um
+caso de pensamento ivete mas é decisões
+políticas lá pessoal 15 utilizar a casca
+para meio que iniciar uma arquitetura de
+pensamento tempo real embora o caso que
+a gente em mãos não precisava disso mais
+uma questão de nudes política do que
+técnica há três casos de uso específico
+difuso casca aí arquitetura o seguinte
+oi gente tem uma mandioca sparks que ele
+fica escutando né essa esse tópica do
+casca que é utilizado por uma outra
+equipe então tem uma outra equipe que a
+equipe envia os dados por meio de
+estoque produção e produto é exatamente
+e a gente fica tão aplicações parte que
+fica escutando esse tópico recebe os
+dados como eu disse esse é um caso de
+uso que é um caso pet a gente tá o sol
+tá usando o cascão turma tensão política
+então enfim a gente recebe esses dados e
+persiste persiste esses dados no disco o
+que não faz sentido no mato no tempo
+real você quer pegar o dados processar
+mais rápido possível e devolver pra
+alguma aplicação alguma coisa eu nesse
+caso a gente persiste o gato e depois
+continua faz o processamento desse dado
+de um
+oi bete fica existem várias dependências
+de tempo e de outras aplicações que
+precisam a plantas para rodar e depois
+da devolvido para aplicação original por
+meio do toque também tá então nessa
+nessa aplicação está utilizando o carro
+como um nenhum produto somente para
+receber os dados de um terceiro mas
+dentro quando dado chego em casa a gente
+vê que coloca ele no sininho de debate e
+faz bastante mexe eu tenho tem uma
+solicitação inclusive do brasil se tiver
+que o brasil tá o utilizar criar um
+modelo em tempo real que é bastante
+interessante é
+o modelo para prever e os determinado
+sistema do banco vai cair dado o volume
+de transações que ele tá recebendo
+naquele momento não é legal é um caso de
+cartão inclusive estão sendo volume
+gigantesco e existe pessoal de análise
+já viu que existe um certo dependendo do
+comportamento das transações você tem
+mais rolo menos volume é um fator
+crítico para estabilidade do de sistema
+que só então o pessoal quer fazer dado o
+volume de dados que eu tenho em tempo
+real
+e aí devolveu uma probabilidade do
+serviço continuar online ou não se em
+tempo real esse é um caso de uso que vai
+entrar e esse sim é o legal utilizar
+pensamento de pirraça já tô pensando em
+usar mais o spark streaming mesmo assim
+vem na ainda não defini mais é
+e como a gente já usa assim se eu
+conseguir usar só o esperto que o caso
+deus inteiro porque para esse modelo
+específico vai ser modelo de pacificação
+eu poder ver a probabilidade do serviço
+caiu não e a biblioteca de mach lane do
+espaço aqui já tem bastante modelo que
+eu poderia trabalhar não tô imaginando
+de conseguir construir um país online
+100% esperto ver se eu consigo se não eu
+vou ter vou ter que utilizar alguma
+casca da vida alguma coisa assim carro
+e vai receber os dados pelo menos lá no
+espaço por exemplo tem uma parte lá de
+sepe não é compreensiva e próximo assim
+tu pode estar se alguma consulta cep
+determinar o padrão por exemplo ele fica
+escutando um tópico e de acordo com esse
+padrão vai acontecendo gera um novo
+evento que ele sai no fluxo para o pois
+com segundos né então eu poderia usar
+isso aí junto também eu faço eu uso aqui
+por exemplo eu uso casca é uso o carro
+fica em cima do anthony serra-duque né
+aí gerenciada pelo sukita ela no meu
+cancelado tem uma aplicação e fica
+gerando dados de log por exemplo ela
+compõe esse logo em tempo real para
+identificar se um determinado usuário tá
+tem um perfil de por exemplo aqui nós
+trabalha na secretaria aí nessa
+administração penitenciária aqui no
+maranhão então nós temos muito muito
+vazamento de dado tanto de funcionário
+como de terceiro por exemplo polícia que
+acessa nosso sistema então a ideia que a
+gente consiga identificar em tempo real
+o nosso determinada informação que eu
+sendo causada por exemplo quando é preso
+prefeito conectado alguma coisa assim
+sempre tem um bonde e vazamento de
+formação é a gente usa o casca né para
+fazer para provas e nesse fluxo e aí eu
+uso uma consulta cep com spark né para
+determinar onde terminado para pegar um
+padrão mas eu não uso mais girlane lá em
+cima desse modelar eu uso certo no caso
+passa aproveitar o ambiente que é
+distribuído e o poder do espaço para lhe
+garantir um padrão né você fechar os
+padrões aí eu já logo no outro fluxo ele
+tem uma aplicação lá na frente esperando
+né ouvindo esse tópico para então
+apresentar o até lá para o usuário tomar
+as ações necessárias então é muito legal
+os parques por isso não tem um poder
+processar algoritmos macrilan em de
+forma distribuída bem como consultar
+serve para análise de dados
+que legal legal legal essa dica do sepe
+a notícia é uma abordagem também para
+gente testar começar eu também acho bem
+interessante e que não coloque os é
+pequeno modelo tá ótimo como
+quantitativo é eu tava falando aqui
+antes de vocês entrarem que eu fiz uma
+postagem não sei se se alguém viu aí no
+linkedin né eu a competição lá de
+imóveis né precificação de móveis o cara
+o terceiro lugar né ele usou o zip code
+né o log do zip code menos o mínimo do
+zip code umas quatro dentro do modelo
+que que seria isso né tipo zip zip code
+é qualitativo né não é quantitativo
+conectar ela não faz um negócio desse né
+absurdo esse negócio os cara foi
+terceiro lugar lá na competição lá de
+mach lane mas fazer o quê
+é só a vendo ó
+vou ligar a então eu queria comentar
+mais uma característica interessante do
+spark depois eu eu queria nós tem 21
+anos mas eu ia mostrar um alguns com
+pequenas que nos trechos de um código
+que usei para submeter uma aplicação
+beleza fazer um país aqui mas pelo menos
+lá que as pessoas pesquisar que a gente
+usava na escala e talvez seja
+interessante a o motor um outro quanto
+quanto legal comentário que quando você
+onde você se mete aplicação você já sabe
+que ela vai ser executado em diferentes
+máquinas e seu dado está distribuído em
+diferentes mapas
+e quando a gente disse que ela vai ser
+executada significa que algumas tarefas
+vão ser submetidas e essas tarefas é que
+são responsáveis por pelas diferentes
+etapas do pensamento em cada máquina a
+essa essas tarefas lá geralmente são
+divididas entre stages tecnicamente
+falando então quando você olha plano de
+execução devendo a mesma ideia de um
+plano de execução de uma consulta está
+acostumado com as quedas são responsável
+o plano de execução da sua da sua
+aplicação ela vai estar dividido esse
+plano para academia em estágios os
+estágios só sua aplicação esses dentro
+desses estágios você pode ter várias
+tarefas não posso ter uma aplicação com
+três estágios e dez tarefas lá em cada
+estágio alguma coisa nesse sentido a
+forma como os parques vai dividir essa
+esteve que tem o do seu parto lembre
+tensão presente nos para que você tem
+hoje
+um relacionamento aparece uma chamada
+nero que é quando você consegue
+processar aquele dado aquelas tarefas
+desculpa sem a necessidade de fazer
+chefe dos dados em que as mapas tá então
+por exemplo imagina que você tem o seu
+dado tá distribuindo diferentes máquinas
+e a sua tarefa número 1 é fazer criar
+uma nova coluna com base no valor de uma
+coluna anterior para fazer isso você não
+precisa acessar os dados da sua tabela
+inteira do seu data foi inteiro você
+pode simplesmente acessar o dado
+daquelas linha específica e criar sua
+coluna nova tão grossa sono coluna a tem
+o valor dessa coluna b vai ter dez vezes
+2
+é só precisa ter acesso ao dado daquela
+linha específica você não precisa ter
+acesso a dados de nenhum uma outra
+máquina certo tipo quando isso acontece
+é uma relacionamento nero o spike vai
+ter manter as suas atividades dentro da
+mesma esteja ele não precisa criar novas
+tags quando o seu processamento depende
+unicamente dos dados que você tem
+naquela partição
+a causa se você se a soltar ela depende
+somente das aquela parte são diga
+criando tarefas dentro da própria
+station e que indica para a partir do
+momento que você tem uma tarefa que
+depende de dados de outras partições e
+por isso vai precisar de um de um cara
+meu chefe ou dos seus dados né ah os
+dados da correr em diferentes frações aí
+nesse momento o spark vai quebrar o seu
+pai prime em uma outra esteja ele vai
+criar um outro esteja ele vai colocar
+essa tarefa lá dentro e vai continuar
+com a mesma lógica se a próxima tarefa
+não precisa de chance ele vai continuar
+na mesma esteja até o momento que ele
+achar um outro shampoo ele vai criar
+nosso esteja e aí ele mantém os dados
+por padrão ele mantém e memória os dados
+os resultados parciais de cada estágio é
+isso que ele faz então por exemplo você
+tem
+e imagina que você rodou sky planter os
+dados parciais da esteja número um vou
+ficar mais mazinha não dá esteja dois
+também mas 33 não é o seu resultado
+final então se você resetar sportline o
+espaço da pulará esteja um porque ele já
+tem os resultados parciais ele vai pular
+mais 32 e já tem os estados e vai
+executar somente a última esteja por
+exemplo por isso quando a gente roda
+aplicação a gente vê lá uma page pelada
+os esteja bolada ele ele ignorou algumas
+experiências porque ele já tinha esse
+dado
+e ai somente em nós estamos aí passado
+tomar aquele o spark do padrão né que
+ele armazena todos os dados mesma o
+padrão e armazenar dados resultados
+parciais de cada esteja você pode por
+meio do recurso de persistência do
+spartacus força aqui todos os dados do
+celular aline sejam armazenados em
+memória ou um discípulo como você achar
+melhor você pode forçar isso por meio do
+comando persiste e aí sim nesse caso
+você tem todos todos os seus dados
+disponíveis de memória e aí seu
+pensamento eventualmente inclusive vai
+ser mais rápido que ele vai pular
+bastante tarefa não é que você
+reexecutar atlântico
+e ai
+e esse esse essa deck e o auge do spark
+eles também são reutilizados para a
+tolerância a falha tons mas não é que
+você tem todos esses dados em memória
+dizendo que você tá usando persistindo a
+gente está persistindo tudo em memória
+às vezes sempre tá utilizando seu
+comando persiste lá e tudo que você tem
+na sua determinada no seu determinado
+vai digitar a memória só que se agita
+atribuído em sem mácula aí vamos supor
+que sei lá uma uma dessas máquinas caiu
+então parte do seu dado não está mais
+disponível para vocês como é que os
+parques consegue reconstruir esse dado
+já que ele não tá mais com nível e
+memória o spike vai acessar o deck
+associado aquele ar de ou seja as etapas
+de processamento associadas aquele ar de
+por isso que ele tem que ser imutável né
+e depois que ele tem que ser mudada
+perfeito para ele vai p
+é essa essas duas conjunto de instruções
+e vai enviar para um outro clássico que
+tá disponível também esse outro cluster
+vai resultado em para aquele conjunto de
+dados específicos que vai reconstruir os
+dados que estão faltando então esse
+recurso de dheg e agiliza principais
+recursos do spark ele conseguir fazer
+toda essa inteligência de de
+multiprocessamento tolerância a falha e
+que a vantagem mesmo
+que legal
+e aí
+e o césar falou aqui outra forma de
+chegar o problema outra forma de
+enxergar o problema poderia ser tratar
+uma regressão do tráfego e determinar
+transfrut baseado em quantas requisições
+e sistema consegue aguentar por unidade
+de tempo
+e é referenciando lá o projeto achei bem
+legal que o wesley falou o negócio estão
+só fazendo brincar vocês cara desses que
+às vezes pessoal passa os projetos lá e
+tem que pensar do zero e às vezes da
+querendo ou não dar uma às vezes e sente
+mais segurança né porque você tem que
+tomar uma decisão e vai ser assim vai
+ser implementada e tem que funcionar né
+a cobertura então você está bem
+complicado hein
+bom então essa aqui que eu vou tem 15
+anos esse aqui é um exemplo do de uma
+aplicação para sparc que eu tenho lá eu
+mandei esse exemplo
+é só para mostrar como que que rola eles
+têm um edson note que nem eu falei isso
+aqui é o cluster tá aqui eu tenho uma
+máquina fora do cluster que eu chamo de
+é de noite aqui que eu estar tu me
+aplicação eu sou eu inicia uma aplicação
+até bom até que mandar minha aplicação
+para o meu cluster eu vou iniciar um
+application mastela um a minha aplicação
+vai rodar e a partir desse momento que
+eu vou iniciar como eu falei meu driver
+programa vai ser iniciado lá nos no
+sítio a gente tem está agora com cluster
+cluster monte acho que eu tenho próxima
+aqui
+é totalmente lá a gente nosso driver
+geralmente vai rodar em uma dessas
+máquinas que a gente tem aqui então
+quando eu subi que me aplicação que eu
+posto ele vai escolher uma máquina e vai
+iniciar minha aplicação dentro daquela
+iniciar o driver dentro da cama o ponto
+essa escolha aleatória
+e essa escolha é aleatória ela vai mudar
+tanto que você tem que usar os pets
+relativos na na sua aplicação não pode
+usar um
+eu esqueci o nome agora não relativo a
+pros seus absolut ele se pelo menos
+sempre pode cair em uma máquina
+diferente e você pode não ter aquela
+estrutura de diretórios e poderão ser o
+pelas ter geralmente têm acesso ao etfs
+que é o sistema de arquivos distribuir
+tão incomum todas as máquinas têm acesso
+ao etfs então você pode beber o juiz
+arquitetura já que todo mundo tem acesso
+ao mesmo sistema de arquivos
+distribuídos mas você pode criar pode
+ser honrado por exemplo adulto é por
+exemplo é o que a gente tem lá tá onde
+eu quero que todas as minhas máquinas do
+cluster tenham acesso a um mesmo
+diretório eu configuro esse diretório
+dentro do sistema de arquivos
+distribuídos é o leite s do adulto e aí
+não tem erro né qualquer máquina que eu
+caí aqui na verdade eu vou eu vou
+utilizar o sistema de aquele distribuir
+e eu tenho acesso aquele diretório
+específico você lembra o que eu não
+posso confiar no sistema no stand da
+aquele local medicada e cada natura se
+você precisar disso tem que usar os pés
+relativos para nos defender
+e disse-lhe que eu digo para relativo
+que quando você souber sua aplicação eu
+gostei ela vai rodar dentro de um
+container então esse container ele vai
+ter um diretório x que pode ser
+diferente dependendo da máquina que ele
+cair mas do contém dentro do container a
+partir daquele daquele diretório que a
+sua aplicação para frente você vai
+conseguir gerenciar tão pode utilizar os
+pés relativos tem que secar o peça
+absoluto ter você deve ter controle
+total independente da máquina que você
+cair você tem controle total aí que
+acontece no nem pensar no país parque a
+sua aplicação python em geral você vai
+ter um projeto com bastante arquivos do
+pai realmente nada não só porque senão
+você vai ter um arquivo muito grande lá
+o mil linhas de código difícil de você
+entender
+é realmente você vai criar uma estrutura
+de projeto com diferentes pastas
+diferentes arquivos e aí você constrói
+sobre a próxima daqui então quando eu
+falo contigo tem submeter essa aplicação
+significa que você tem que submeter uma
+série de arquivos para o seu sucesso que
+todos eles são importantes para rodar
+sua aplicação no país parque você pode
+zipar todos desses arquivos e o spark
+vai entender que isso é um pacote eu
+falar minha aplicação tá tente desse
+pacote esse arquivo ponto zíper é a sua
+aplicação de forma muito simples você
+faz isso é literalmente doze treze para
+todos os arquivos é diferente do quando
+você faz em escala você tem que fazer um
+bico de da aplicação
+bom então essa é a principal diferença
+você faz no spike no escala você tem que
+beber o da aplicação certo tem que
+compilar a aplicação você tem algum
+critério para que esses y
+e a
+é tecnicamente não você pode criar
+cintura que você quiser existe um padrão
+tá então geralmente você tem um padrão
+ali de estrutura de arquivos por exemplo
+seu arquivo de execução e me chama de
+driver é tô tendo uma volta na página
+chamada driver e dentro disso da tem um
+arquivo parte não se vai ser um
+e o a estrutura do projeto não tem um
+padrão tecnicamente assunto segundo
+padrão e você precisa seguir o ponto de
+inicialização da sua aplicação você tem
+que ter um arquivo principal pertence
+àquele principal tem que ter a função
+meio que vai ser o ponto de entrada da
+sua aplicação para você executar alguma
+coisa então é o resto é obrigatório mas
+de resto você tá livre para festa do
+tudo que você quiser
+o bernardo um aqui nesse caso que eu
+fiquei no face o zíper em tudo então
+dentro de um
+é um arquivo chamado pectus e aqui ele
+tem esse lá 10 arquivos pagam bem
+estruturado um projeto só eu tenho que
+dizer mandar escrito porque eu uso um
+parâmetro chamado pai falhas onde eu
+consigo mandar esse cara por duplas
+eventualmente não tem sei lá você quer
+enviar um arquivo adicional uma
+dependência de modelo sei lá mas você
+não quer colocar dentro do pack para o
+meu caso aqui você pode usar outro
+parâmetro por exemplo arte charles você
+consegue enviar anexos arquivos para o
+cluster' fiquem disponíveis no costa e
+pode ser qualquer coisa é um dentro
+desse cara disponibilizei vários
+dependências de modelo para roda ensinar
+o próximo vai achar esses esse modelo e
+ah ah ah
+oi e aí como é que funciona isso a gente
+eu deixei aqui aqueles que paramos para
+almoçar com vocês eu tenho o pai faz uma
+subidinha aplicação desse lugar nesse
+primeiro desse pacote e eu submetia
+alguns arquivos adicionais para o meio
+desse workspace ponto zip e eu chamei
+esse cara de ouro space começou seu
+apelido que eu estou dando para o aquele
+que vocês aí aqui vem o ponto principal
+e quando você vai submeter uma aplicação
+python do cluster e geral você precisa
+que essa aplicação seja executada em um
+ambiente controlado isso é bem
+importante controlado no sentido de
+pacotes certo sua aplicação pode gente
+precisar de um saco enorme por exemplo
+ou pode precisar de um pandas é o
+cluster em várias máquinas pode ser que
+uma dessas máquinas não tenho pandas
+estava certo então se tem como é que
+aquela máquina vai rodar sua aplicação
+se ela não tem a biblioteca sim
+e isso acontece particularmente com
+pyspark tom você geralmente vai querer
+submeter o seu ambiente de execução
+também o negócio não só a sua aplicação
+tecnicamente a quem está falando que ia
+chegar antes que não vai cair nenhum que
+não tem é isso exatamente tá aqui a
+gente tá falando eu lá a gente usar onda
+para criar os nossos ambientes meu crie
+um ambiente ambiente conta com todos os
+pacotes que eu preciso teste local para
+ver se tá tudo funcionando som é eu
+zippo esse ambiente aqui dentro desse
+arquivo chamado enzo pontes ipe eu mesma
+coisa que eu fiz postei se eu tô dando
+um apelido para ele em os pontos de pé o
+apelido do meio ambiente opção entendi e
+e aí eu posso
+e antes disso fazer o sublimite da minha
+aplicação é que eu tô usando os parques
+somente paralisar o país paga também
+e junto com esse comando submit eu já
+estou falando para o spike tem o
+seguinte o meio ambiente execução o pai
+spark python que é o meu ambiente só ele
+está nesse diretório já está como eu
+disse aqui tem um pé relativo eu estou
+no ponto bar em zip que é o mesmo
+arquivo que eu mandei aqui que eu
+submetida né
+é sim e josé barra o local onde você vai
+encontrar o executável do pai que é o
+meu uma meio de execução então o spike
+antes de iniciar essa aplicação ele vai
+subir esse ambiente de execução na
+máquina que ele vai rodar e aí sim ele
+vai iniciar sua aplicação em cima
+daquele ambiente então com certeza você
+vai ter o pandas ou qualquer outra mil
+tec instalado porque você tá no ambiente
+controlado e tu não está sendo executado
+ali entender essa é a principal
+diferença não temos de bios e em termos
+de execução quando você trabalhar com
+carla direto ou compass part 1
+e aí tem alguns detalhezinho sim para
+para que esse pacote fique disponível a
+dentro do seu driver você tem que
+colocar ele no pé da máquina tão
+aplicação foi submetida o driver foi
+iniciado aplicação tá lá aí você vai
+rodar um comando desse daqui embaixo por
+exemplo pronto alguma coisa importe sua
+classe esse pet aquela máquina não vai
+saber o que que significa isso a não ser
+que você especifique que aquele arquivo
+faz parte do pé da sua mapa daquela lá
+você faz isso primeiro lá no seu comando
+do seu script para você também as
+internet e esse cara aqui para que sus
+fica disponível então a sua aplicação
+vai entender se você não tem um arquivo
+só você tem um monte de aqui você quer
+importar um deles aqui
+e a e a mesma coisa se você tem que
+fazer para o os demais máquinas do
+cluster e aqui você tá dentro do seu
+driver eu trago tá rodando na máquina só
+se você tiver por exemplo esse aqui é
+bem como não necessariamente você
+precisa fazer isso aqui eu tô
+disponibilizando o meu a minha aplicação
+as bibliotecas que eu criei tá todas as
+máquinas do clã por que que
+eventualmente você vai querer utilizar
+funções definidas pelo usuário no
+esperto quando isso acontece o salário
+fica um pouco mais complexo porque
+talvez os seus worker ou não só o driver
+mas também os worker nos vão precisar
+daquele daquelas funções que você criou
+para fazer alguma coisa então nesse caso
+era que eu tinha então eu precisei
+também despachar essa aplicação não só
+para o driver mas também para todas as
+máquinas que eu tenho no poster para
+oi linda o que significa pack span may
+classf sempre gente
+ah mas aí não era só para botar no meio
+no principal então em processos
+garantindo também bem sem filhos é bem
+interessante sua pergunta é sim desde
+que você é precisa e apenas do driver
+para rodar aquela determinada aquele
+determinado instrução tá que quando você
+quando eu coloquei aqui dentro do meio
+eu execute esse comando e fica aqui o
+meu pacote a minha aplicação está
+disponível dentro do meu tracker então
+se eu voltar aqui nessa arquitetura
+e imagina que aqui no meu dragão esteja
+rodando aqui nesse março ela tá
+disponível agora imagine o seguinte eu
+tenho 1 milhão de registros e gestão de
+muita gente e esses va que eu não tá
+e imagina que é eu tenho uma função na
+obr definida pelo usuário e essa função
+vai fazer ela vai ser executada em cima
+dos meus dados ou seja em cima de cada
+partição dos dados eu vou rodar essa
+função chegar nessa função vai escrever
+rodado em cima dos seus dados os seus
+dados estão nos porque não eles não
+estão aqui no no seu dragão daqui então
+se é uma função que tem que ser
+executado lá no seu ordenou que você tem
+que despachar essa função tua que nojo
+também então simplesmente colocar no
+meio nesse caso aqui na funciona porque
+esse cara tá rodando aqui no máximo e
+você tá pedindo agora uma instrução que
+rode nos vou aqui nós não entendi muito
+bem sensível mesmo você vai precisar
+fazer isso só se você tivesse cenário de
+função definida pelo usuário é o
+principal que você precisa rodar uma
+instrução nas outras marcas
+de ps1
+ah tá então vou sim
+esse é o basicamente ao cenário que a
+gente tem a
+e lá no sítio a dá sim toda hora aparece
+coisa nova às vezes a gente está
+acostumado a usar já essa arquitetura e
+chega alguém com esses casos de uso mais
+complexo novos aí a gente tem que usar
+as vezes um banco de dados não
+ciclopentino costuma utilizar em todos
+os casos de uso mas eventualmente
+precisar é que às vezes aparece algumas
+coisas assim que a gente gasta do
+assistente com a pesquisa né até
+entender como funciona e e aí a gente
+vai tocar no sucesso dessa forma deixa
+eu ir embora é diz compartilha só cara
+que a gente abrir pois perguntas finais
+aqui e a gente encerrar por favor pode
+ser beleza
+bom então pessoal alguém ficou com
+alguma dúvida aí quer fazer alguma
+pergunta
+e aí
+e fale agora ou cale-se para sempre e
+e o césar falou que show de bola wesley
+muito legal show de bola então então por
+obrigado cara show de bola aí a a aula
+né foi uma uma demonstração aí de que
+você mande alguém não sabe fala que sei
+lá e depois imagina eu falando
+estatísticas invadir tem que saber para
+caramba minha borra sabe falar desse
+assunto tão abstrato assim sem slide
+realmente ficar à espera de mais show de
+bola cara obrigado aí pela pela
+participação eu que agradeço eu que
+agradeço esse assim fala também no teu
+curso aí pra galera pô assim sim é tenho
+tem uma plataforma né que eu cansei e
+recentemente eu digitar aqui
+o paulo o alisson falou aqui excelente
+web parabéns para ele mandou a
+plataforma aí deve tratamento tem um
+curso de spark lá onde essa é a minha
+ideia foi
+vou tentar passar esse eu sei que ela
+não conhecimento da band tem como
+complexo assim porque envolve não só a
+programação mas também é arquitetura
+pensamento distribuído é difícil assim
+falar de uma forma simples talvez eu
+algum momento não tenha passado conceito
+de forma tão simples do tempo que tem a
+massa nesse curso eu tentei utilizar
+algumas ferramentas do pouco mais
+gráficas assim é a [&nbsp;__&nbsp;] vem de idade
+comentar também bem espertinho né vai
+passando dos quadrinhos tal bem legal
+amém muito interessante e além disso tem
+a parte de prática também que aí eu uso
+de scripts mesmo não
+o show de bola e e tem outros cursos
+fala também não tá indo tem fim do
+carnaval né aí também e tem outro curso
+de mach lane e depilar o na essa torta
+família tem uns o segundo objetivo e aí
+fico disponível para quem quiser trocar
+uma ideia sobre isso é a plataforma
+minha eu queria ir lá o segundo ou
+segunda-feira chegasse plataforma na
+verdade era o primeiro eu acho que eu
+posso pegar o primeiro é é ajudar o
+conectar o pessoal que tá no brasil que
+trabalha com deita sais ou engenharia de
+dados
+oi e a que tem interesse em entender
+como está o mercado em alguma outra
+cidade fora do brasil então lá já tem
+seus entrar no site vai ter lá o a foto
+das pessoas e o perfil da pessoa então
+tem gente lá de da bélgica londres tem
+seis ou sete cidades diferentes têm
+polônia tem hungria irlanda vim 17
+cidade de pessoas que trabalham com a
+quantidade de com essa mudança no
+mercado lá se eventualmente alguém tiver
+interesse em saber como é que tá esse
+mercado como é que estão as suas
+propriedades qual é o processo
+burocrático para conseguir uma
+entrevista trabalhar por lá é fica à
+vontade se não for nenhuma daquelas
+cidades eu tenho contato com o pessoal
+de outras cidades também esse serviço é
+gratuito e você não precisa ser alunos a
+pagar né de prato para ter acesso a isso
+então qualquer pessoa que tiver
+interesse nesse tipo de informação
+a plataforma tá disponível e eu posso te
+colocar em contato com qualquer pessoa e
+você pode trocar ideia para pessoas
+sobre o mercado e entrevistas este
+maravilhoso é muito legal isso não é que
+às vezes a gente fica assim de saber né
+como é que é o processo tal tava te
+perguntando aqui a será que tem que ter
+aquela juramentada né que fala né ou é
+do você passa o teu de como para o
+idioma no local né isso é isso mesmo tem
+que ela vai ter algumas coisas muito
+específicas né gente nem imagina que tem
+assim nós tá ainda mas eu falar a
+verdade que assim é muito mais simples
+do que a maioria das pessoas pensam de
+internas de burocracia a maioria dos
+países falando de europa especificamente
+estão precisando de mão de obra então
+você pode ver que muitos deles já tem
+até um canal específico para trazer para
+o sinal de tecnologia é tão tem muito
+países realmente a burocracia é muito
+pequena
+e tem eu não tenho passaporte você
+consegue entrevista do brasil consegue
+fazer a entrevista da empresa trazendo
+gente direto do brasil assim acho que é
+só que eu lembro uma vez que eu assisti
+uma uma moça que foi trabalhar na
+alemanha né e aí o cara entrou em
+contato com ela no linkedin para fazer
+entrevista lá na cleide toda pô não
+brinquedinho algo que chegou e fazer
+entrevista e tal aí pô era ver a verdade
+é você trabalha lá na alemanha não sei o
+que que tem tiver interesse nisso show
+de rock nega obrigado valeu valeu
+pessoal valeu pela pela audiência aí a
+presença de todos forte abraço e falou
+valeu aí abração sucesso lá paulo e
+quiser conhecer lá o da grita que está
+aqui o site valeu

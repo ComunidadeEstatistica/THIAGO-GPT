@@ -1,0 +1,352 @@
+# Pré-Processamento dos dados para Machine Learning - J!Quant
+
+- **URL:** https://www.youtube.com/watch?v=jdeFUgV1IHA
+- **ID:** jdeFUgV1IHA
+
+## Transcrição
+
+e fala galera aqui o rogério dá jota
+quest a gente invadiu o canal do
+estatidados do thiago para gente fazer
+uma playlist nossa aqui essa grande
+parceria que a gente já tava prometendo
+há muito tempo e até agora não saiu
+antes de tudo o que que eu quero pedir
+para vocês curta compartilhe e ative o
+sininho aqui embaixo o bruno e o michel
+vão colocar em algum lugar aqui do vídeo
+todas as nossas redes sociais e para
+quem quiser aqui ó só pegar os nossos
+adesivos exclusivos tem que marcar a
+gente não importa o lugar do brasil que
+você mora só marcar a gente no instagram
+jota quest social marca nos stories e aí
+você pode ganhar esses 10 adesivos aqui
+é o da 10 adesivos novos e quando
+adesivos tem alguém sabe quanto adesivos
+tem não sei quantos adesivos tem
+o verão science de rua porque a gente é
+que a gente faz coisa real não faz
+coisas que fica só dentro da academia é
+isso aqui é os meus preferidos a gente
+tem uma camisa dessa aqui que a gente
+não tá dando ainda então não me cobrem
+por isso e esse aqui também tem um monte
+de outro então marca que a gente nas
+redes sociais os 10 primeiros os 10
+primeiros que marcaram a gente no
+stories do instagram vou ganhar essa
+adesivos todos aqui não importe no lugar
+do brasil que você mora beleza não era
+vamos falar sobre o que que a gente vai
+abordar nessa série de vidro que a gente
+tá fazendo aqui que essa parceria com
+estatidados e com teatro primeiro a
+gente vai falar na verdade o nosso maior
+ponto aqui é pré-processamento dos dados
+como você vai para processarem cidade o
+seguinte toda vez que você recebe um j7
+monte de dados geralmente eles não vem
+do jeito certo para um estimador para um
+modelo de mach lane dentro da biblioteca
+do site trump ele consumir ele não vem
+certinho 99 nas vezes ele não vem certo
+na vida real quando você pega ele estava
+certo do que é igual ou pode ser que ele
+vem
+e aí gente legal que você conhece mas
+muitas vezes a gente eles vão desse
+jeito tem o da passagem famoso chamado
+titanic ele é bom para a gente aprender
+se pré-processamento dos dados porque
+ele tem um monte de coisa ele tem
+variáveis que são em formato de texto é
+categórico as instruções né então se
+você joga aí para dentro do modelo ele
+não aceita ele tem dados faltantes ele
+tem um monte de coisa que dá para a
+gente aprender para processar os dados
+da maneira correta como vocês já devem
+ter visto montividiu para processamento
+dos dados geralmente com bandas a gente
+não vai usar o pandas aqui a gente só
+vai usar o site né porque a gente aqui
+vai fazer da maneira correta e aprender
+também boas práticas de
+pré-processamento dos dados usando o
+cross validation e eu também serão com
+as vale deixe-me mostrar para vocês qual
+que é a diferença entre um e outro
+usando o pai pilar no site ler você
+finalmente vai entender como usar o pai
+para ir nessa questão da maneira correta
+e porque entendeu porque que ele é a
+maneira certa de se fazer isso a maneira
+certa de quando você pré-processo os
+seus dados e você usa com as hora e
+deixo é usando o pai
+e se você não usar isso você está
+fazendo errado e noventa porcento dos
+posts em bancos que ele tiver faz essa
+maneira errada então você vai aprender
+de uma vez por todas aqui qual é a
+maneira certa beleza bom que a gente vai
+abordar e a gente vai aprender a fazer
+de maneira correta primeiro fazer se
+você tem os dados faltantes ou seja tem
+dados com valores vazios a gente vai
+aprender a tratar esses dados vazios e
+você vai ver que os modelos não consomem
+dados onde vem coisas vazias depois nós
+iremos aprender como tratar valores que
+vem no formato de strings essas
+categóricas nessas variáveis categóricas
+que geralmente vem em formato o escrito
+por exemplo um estado por exemplo são
+paulo minas gerais em qualquer estado
+que ele vem escrito ou classe qualquer
+coisa escrita a gente vai ver como você
+transformar isso em números e as várias
+estratégias que a gente pode fazer para
+usar isso depois a gente vai abordar um
+pouco de fit in de nível em que ele
+chama o que que é você criar novas
+variáveis novas vídeos baseado naquelas
+que você já tem então baseada você tem
+duas fichas lá você quer fazer uma
+junção das
+é uma outra vou pegar essa mesma ficha
+que você tem como idade e classificar
+ela por exemplo dizer aos 10 anos eu
+chamo de primeira idade dos 10 aos ruins
+eu chamo selagem adolescência ou criar
+categorias dentro dessa própria fit para
+você rodar um modelo isso pode ser bom
+isso pode ser ruim o melhor jeito de
+aprender é fazendo e testando seus
+modelos com e sem eles para ver qual que
+é o melhor bora acordar aqui que a gente
+já tem uns códigos prontos e a gente vai
+mostrar para vocês qual é a diferença
+entre uma coisa e outra o que que a
+gente vai ver aqui rapaziada a gente vai
+dar uma explorada bem básica a gente vai
+botar grave como vai fazer nada o
+dataset que a gente vai usar nessa
+sequência dos vídeos então é isso aqui
+esse aqui é o dataset que abriu aqui
+para gente o titanic completo eu vou
+deixar tudo no kit rubi vamos dar uma
+olhadinha nas fichas aqui rapidinho só
+para gente entendeu pouco esse peça em
+geral em dia aqui é só o adido
+passageiro você já cada linha um
+passageiro depois tem essa peça
+eng-class aqui você já vê que é uma
+variável ou tu tá mexendo nela aqui ó
+você já vai ver que uma variável que é
+o categórico certo só que ela cata agora
+que tá em texto baixa média e alta ou
+seja se o cara tá na classe baixa os
+cara tava classe média ou alta lá do
+barco ele era mais rico tinha um dente
+uma posição social e mais baixa dentro
+do dentro do navio então deu teu nome da
+pessoa e também tá estranho intenso sexy
+é meio você assim meio também tá em
+texto tem algumas coisas que não tava
+assim a gente mudou então a gente também
+e coloca-la para 7 completo a idade a
+idade tá numérica que já e você vê que
+não dados faltantes esse aqui que eu
+acabei de clicar um dado faltante você
+gente explica aqui ó tá vendo que tudo
+isso aqui são dados faltantes a gente
+vai rodar um modelo e você vai ver que
+ele vai dar um probleminha para que ele
+não lida com isso
+um simples e espaço nesse cônjuge ou se
+tem irmãos acho que esse aqui esse parte
+que ele tem tido em ou pais e mães que a
+gente pode criar uma outra fit que a
+soma dessas duas tem que aprender a
+fazer isso aqui é o número do ticket do
+cara o quanto ele pagou por aquele
+tíquete a cabine dele qual que é o porto
+que ele embarcou esse aqui é o que a
+gente quer para ver se ele sobreviveu ou
+não aqui como você baixa ele do que
+aquele pênis era um eu mudei também para
+dar um pouco mais dificuldade tá não e
+sim e a gente vai aprender então a
+processar e cidades o foco do vídeo não
+é o modelo modelagem tudo mais o foco do
+vídeo é como fazer o pré-processamento
+correto dos dados usando o pela solidez
+e sem aquelas válidos
+e vamos aqui para o nosso o nosso
+espírito que já tá prontinha que também
+gente vai botar para vocês isso aqui o
+nosso inscrito quê que ele faz coisa
+básica importa que as bibliotecas a
+gente tem algumas constantes aqui com
+onde está o nosso data set com o
+endereço né do nosso arquivo as
+variáveis que a gente vai usar que a
+gente tá usando só uma só ed só para
+gente simplificar aqui você vai ver que
+a gente tem dados faltantes vamos ver o
+que acontece quando a gente não trata
+ele roda um modelo aqui eu tô
+perguntando os dados vocês vão ver tô
+olhando e perguntando tá frente para dar
+uma olhada tô contando a quantidade de
+valores vazios que tem nesse data form
+por coluna independente quando os
+colonos ele tiver e aqui embaixo eu vou
+rodar um modelo toca esse modelo vou
+pegar uma logística e vai achar um
+modelinho básico simples vou fazer um 30
+esses peixes então tem um teste size
+ruim não cid aqui eu separo entre
+fischer syllable certo xy&amp;o que eu quero
+aprender aqui eu faço separação básica
+entre trens spirit e aqui o roda modelo
+eu nem tô prevendo ele só tô rodando
+modelo só tô treinando o modelo
+e aí qual que é o erro que vai dar vamos
+lá então a gente pega roda esse daqui ó
+o que acontece isso aqui você vê que ele
+pintou para a gente dataframe eu tenho a
+idade aqui ó esses nn são os valores
+vazios aqui sobrevive ou não 80 e 90 e
+uma linha cê duas colunas nosso nota 7
+aquele pintou tem dezenove por cento de
+dados vazios na coluna ex e zero por
+cento nosso vários qual que é o erro que
+ele dá aqui pra gente ele fala que ele
+contém nn ou infinito ou algum valor
+muito grande para você transformar ele
+em frente a gente sabe que ele tem nele
+então ele não roda os aqui tirando ele
+não aceita esses valores de n nesse
+estimador nossa aqui no logístico remexe
+vamos tentar mudar para outra vamos
+escolher uma outra ficha aqui para ver
+que acontece vamos escolher essa peça
+and hercules aqui
+bom então só mudar aqui uma única
+mudança
+e a gente vai lá rodas novo mas o que
+vai acontecer com o nosso o nosso modelo
+com o nosso código de novo ele pinta ele
+fala quantidade de valores vazios 30
+oportunidades vazios na churrasco também
+só que mesmo assim me dá um erro por quê
+porque ela tá em sangue ele tenta
+transformar alta pra frente para um tipo
+né no médico e ele não consegue então a
+gente tem que tratar isso então há
+milhões de maneira de se hidratar isso a
+gente também não vai abordar a eu coloco
+a médio coloca o valor isolante coloca
+média coloca o menos um coloco criou o
+modelo para colocar a média nesse modelo
+não é o foco o foco é como que a gente
+pode aprender a pré-processual das
+maneiras corretas e aí a gente vai te
+deixar livre para você fazer o que você
+quiser então sua imaginação é o limite
+botar menos um botar média criar outro
+modelo mas você tem que seguir esse
+espaço para fazer da maneira correta
+beleza a gente vai botar para vocês aqui
+esse esse escrito dizia para vocês
+testarem você vai ver que vai dar erro
+vamos pegar um outro que ver se tem
+alguma esse inferno aqui eu acho que não
+tem valores
+e eles não têm valores vezes também tem
+um monte de zero aqui que que eu vou
+fazer vamos passar aqui para ele para
+ver se ele se ele rosa se ele treina
+e vamos rodar aquele
+e aí rodou não deu erro nenhum então ele
+treinou a gente não previu não fez
+nenhuma previsão mais nada mas ele
+treinou então rodou então você vê que
+ele tá numérica e tá sem valor só os
+itens sem valores faltantes não tem
+valor vazio nessa nessa variável então
+ele roda normal só que usar uma variável
+só é ruim né a gente quer aprender para
+você sabe porque os seus dados nunca
+morumbi da maneira certinho volta aqui
+então gente aprender a fazer tudo isso
+beleza vai fazer a nossa gente com o
+próximo vídeo para o vídeo mesmo que a
+gente vai botar a mão na massa vai rodar
+o código vai mostrar para vocês como
+fazem como as coisas são feitas na
+verdade né da maneira correta vamos
+falar sobre algumas vantagens de usar o
+capilar primeiro você vai ter um objeto
+vocês vão perceber se vai ter um objeto
+completo onde ele vai ter todo
+pré-processamento e o seu estimador que
+na verdade eu sei o algoritmo de marfim
+gana ali que ele vai prever alguma coisa
+tem um objeto só você vai ter tudo isso
+vai processamento dos seus dados
+completos e o seu estimador no final
+onde ele vai fazer a previsão de alguma
+coisa você vai poder exportar e usar em
+outro lugar igual geralmente acontece na
+vida real
+o ambiente de produção outra grande
+vantagem do pai pelagem vocês já aqui no
+vídeo do aqui no canal do tiago não está
+te dado deve ter alguma coisa sobre suas
+vale deixa eu acho que eu já deve ter
+visto algum vídeo aqui sobre por agora e
+deixam acho que até adriana sn locos
+falar um pouco sobre isso imagina que o
+closure deixam sejam monte daqueles
+presentes split a maneira correta de se
+fazer o pros validation quando você tem
+pré-processamento dos dados é usando o
+pai pilar se você não fizer isso está
+fazendo de maneira errada você tá
+superestimando o seu modelo só modelo
+completo e tenha dentro para
+processamento até a previsão que tá
+superestimando você pode estar
+reportando o número que era muito maior
+do que aquilo que ele realmente é você
+pode tá botando a sua reputação em jogo
+e chega lá fala fazendo tô aqui o modelo
+a gente está estimulando que na vida
+real ele vai ter oitenta e seis por
+cento de alguma métrica que você
+escolheu por exemplo acurácia só que aí
+na beiradinha na vida real ele dá um
+7574 isso pode não ser ruim para o seu
+nome ficar queimado você falar reportou
+86
+e ele fica bem menor do que aquilo 10
+pontos percentuais a menos então
+obviamente que você pode ter feito tudo
+certo é culpa nisso só que você tem que
+ter feito as coisas da maneira correta
+que a gente vai mostrar para vocês aqui
+no próximo vídeo como fazer isso então
+ficamos aí próximo vídeo não esqueça de
+dar um curtir compartilhar aperte o
+sininho o bruninho mexer eu vou colocar
+em algum lugar aqui do vídeo tudo todas
+as nossas redes sociais curta arroba
+está te dado também curta aqui o canal
+do tiago e também curta o nosso canal lá
+jota quest no youtube e já tá quanto
+social no instagram beleza até mais a
+fazer até o próximo vídeo

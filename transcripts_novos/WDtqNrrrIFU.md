@@ -1,0 +1,300 @@
+# VÍDEO BÔNUS 5 - LIVE ISS SÃO LUÍS - ESTATÍSTICA - Prof. Thiago Marques
+
+- **URL:** https://www.youtube.com/watch?v=WDtqNrrrIFU
+- **ID:** WDtqNrrrIFU
+
+## Transcrição
+
+vamos lá então melhor nossa questão
+zinho de 2006 é sefaz são paulo agente
+fiscal de rendas tá me calei comigo
+estão considerando as respectivas
+definições e propriedade relacionadas às
+medidas de posição e variabilidade é
+correto tão ele que é o correto afirmar
+a iacc vem letra concedendo um reajuste
+de 10% em todos todos os salários dos
+empregados de uma empresa tem se também
+que a respectiva variância fica
+multiplicada 1,10
+vamos ver a galera vamos ver se isso é
+verdade pra isso a gente vai utilizar
+uma tabelinha que do curso deve vetá-la
+facilitar a memorização de vocês aí
+vamos lá
+olha só conceder um reajuste de 10% de
+desempregados o que iria conceder o
+reajuste de 10% é multiplicado o salário
+o que é uma constante está a gente vai
+chegar lá e de cá
+tá cá igual igual então eu to x uma
+constante todos os salários de
+funcionários está então se a gente vir
+aqui na tabela
+a gente vem aqui na tabela e olha a
+gente está interessada em que várias
+crianças
+a tabelinha que a medida de diversão
+conhece aí vêm aqui eu tô que
+multiplicando por uma constante mães
+multiplicando por uma constante cá todos
+os elementos não é isso então a
+variância vai ficar x calculado
+tá então não é
+* 1,11 é x 1,1 ao quadrado tá com isso a
+gente elimina a letra
+ok então vamos resolver definindo o coi
+gente vamos botar que o omar texto pra
+você está aqui pra gente mortal
+definindo coeficiente de variação cv
+como sendo consciente a divisão né
+o consciente da divisão disco consciente
+da divisão do desvio padrão pela
+respectiva média aritmética diferente de
+zero de uma seqüência de valores têm se
+então que o coeficiente de variação
+também poderá ser obtido dividindo a
+correspondente variância pelo quadrado
+da média aritmética será verdade isso
+galera vamos ver o ataque à caneta
+vamos ver como é que vocês lembram do
+coeficiente de variação
+é uma forma dele é o sigma dividido pela
+média não é isso nossa desvio-padrão
+dividido pela média é uma medida de
+dispersão adimensional tá não tem
+unidade de medida tal acontece
+ele está falando aqui que é a mesma
+coisa eu pegar dividir um sigma pur pela
+média e dividir sigma quadrado pela
+média quadrado vem aqui o que ele falou
+que na segunda parte é dividido
+correspondente valência pelo quadrado
+varia seu que desviu quadrado nesse
+instante bota aqui ó desvio ao quadrado
+/ que pelo quadrado da média
+então a x barra ao quadrado isso aqui
+vai ser o que se passou de x barra ao
+quadrado e daí a gente chega à conclusão
+que na verdade isso aqui você vê que a
+gente tinha um quadrado
+tá então não quer dizer que vai ser
+igual
+quer dizer que ele vai ser vai ser igual
+à anterior ao programa tá então não é a
+mesma coisa beleza então letra de
+terrado beleza vão botar aqui uma fé
+texto
+subtraindo um valor fixo ou seja uma
+constante de cada salário de
+funcionários ou seja de todos os
+funcionários da empresa nos salários
+tem se que o respectivo desvio padrão
+dos novos valores é igual ao valor do
+desvio padrão dos valores anteriores
+vamos ver então se é verdade
+o desvio padrão né então a derrubaram o
+que a gente está fazendo está subtrair
+um valor fixo ou seja uma constante ea
+gente pode chamar de cá não há desvio
+padrão a gente vê que o subtrair uma
+constante cá eu substituí trair seu
+total subtraem uma constante cá que
+acontece com o desvio padrão ele não se
+altera
+tá ou seja ele vai continuar igual aos
+valores anteriores já há desvio padrão
+anterior
+tá certo então se subtraiu somar um
+valor fixo
+o desvio padrão permanece o mesmo tá
+então é a nossa letra gabarito e letras
+e de conquistar mas vamos confirmar que
+vamos ver deu no botão marca texto aqui
+dividindo todos é sem ficar atento a
+todo estado que tem 100 todo está num só
+não basta
+dividindo todos os valores de uma
+sequência de números extremamente
+positivos por quatro
+tem se que o respectivo desvio padrão
+fica dividido por dois
+será verdade não vê ó agente ta que
+devia padrões beleza a gente está
+fazendo que é dividido os valores por
+quatro uma constante caiu a 4 é isso
+se eu estou dividido por quatro vamos
+ter que dividir uma constante a todos os
+elementos desvio padrão
+eu vou dividir por cá ou seja dividir
+pela mesma constante então não é por 24
+está por isso o detran errado tá então a
+vamos tirar aqui pra gente fazer letra é
+só pegar a caneta opa caneta e qualquer
+distribuição só qualquer distribuição de
+valores de valores em estudo a diferença
+entre a mediana ea moda é sempre
+diferente de zero então vamos ver se é
+verdade que ele está falando pra gente
+aqui ó
+ele está falando que é mediano que a
+gente representa aqui por m d
+6 - a moda representa porém ó é sempre
+diferente de zero que será não é galera
+porque porque se a gente tenha uma
+distribuição em que a média é igual à
+moda
+isso vai me trazer o que vai fazer com
+que essa diferença seja 0
+tá então é sempre tá e mais um exemplo
+um exemplo clássico aqui que a gente
+está muito acostumado a distribuição
+normal tá distribuição normal a média
+chegou aqui a média
+é igual à moda que é igual à mediana
+porquê porque é uma distribuição
+simétrica tão anormal a distribuição
+assimétrica então a média igual a moeda
+que é igual à mediana com isso a gente
+tem que a mediana vai ser igual à moda
+então cai nesse caso aqui que a gente
+comentou em que a diferença 0 tá então
+nem sempre vai ser diferente de zero tá
+com isso a gente marca letra sede
+conquista pra gente conquistar aí o
+nosso carro único tão desejada tonzinho
+de 2006 esse banco central analistas
+imputa ou a vitória como a questão com
+relação às medidas de posição e as
+medidas de dispersão
+é correto que é o correto está a afirmar
+aí vamos lá dobrando todos os valores
+dos salários dos funcionários
+tem se que o salário médio deste e à
+respectiva variância também ficou vamos
+ver vamos aqui uma tabelinha do meu
+curso fgv
+ó a gente está trabalhando que com média
+e variância mas a média vamos lá eu tô
+dobrando todos os salários ou seja
+multiplicam toda hora uma constante em
+dois está então meu carro e go dois aqui
+tá então eu tô multiplicando por uma
+constante todos os meus salários estão
+multiplicando uma constante a gente vem
+aqui na na penúltima colocada
+multiplicar uma constante
+os elementos a média multiplicar por cá
+então fica uma média a média vai ficar x
+cá também
+ou seja vai ficar x 2 beleza então essa
+afirmação está correto ok agora vamos
+ver amanhã se a variância quando
+multiplico por cá todos os elementos a
+ela fica multiplicado ao quadrado tá
+então a variância vezes cá ao quadrado
+então a variância ela vai ficar
+multiplicada por quatro e não por 2 a 1
+então com isso a gente tem que retrata
+radar então vai quadruplicar não vai
+dobrar
+ok beleza a diferença entre a variância
+que a diferença entre a variância e o
+desvio de uma sequência de números é nua
+somente no caso em que a variância e o
+desvio padrão são iguais a zero vamos
+ver se é verdade como é que ela vai à
+falência o que significa um quadrado
+desvio padrão é sítio então assim o
+quadrado e místico ele disse que é
+sempre igual a zero não é isso
+aliás ele falou que a diferença em
+trabalhar sem derrubar uma sequência de
+números à lua
+somente somente no caso em que a
+variância e os desvios são iguais aos
+alemães
+então a gente tem que ver e comprovar
+que não venha a fazer quanto vamos botar
+que evidencia sigma botou em evidência
+sigma vai ficar sigma - um igual a zero
+quando essa igualdade aqui ela vai ser
+igual a zero ou quando sigma igual a
+zero ou quando essa parcela aqui sigma -
+um negócio era certo
+então a gente tem duas possibilidades ou
+seguir igual a zero ou sigma - um
+negócio
+com isso o sig go
+então a gente tem duas possibilidades a
+gente não tem só a possibilidade em que
+a variante desvio sejam iguais a zero tá
+a gente tem a possibilidade que o sigma
+foi bom também avalia se com um tá
+por isso além da abeta errada
+tá beleza ele foge em qualquer
+distribuição de valores a diferença
+entre a média ea moda é sempre maior ou
+igual a zero vamos ver
+ele quer que a média x barra - a moda
+ele disse que é sempre maior ou igual a
+zero
+vamos pensar que se a média se a média
+ela foi menor do que a moda essa
+diferença aqui ela vai ser menor que 0
+concorda e quando que isso é o que
+ocorre
+isso aqui ocorre quando a distribuição
+ela tem essa cara que o porquê porque
+aquilo a média moda está aqui no topo né
+a mediana está sempre aqui no meio e o
+que sobrar quiches barra
+isso aqui eu tocando a onda pra onde ir
+para a esquerda
+com isso a gente tenha uma distribuição
+assimétrica à esquerda
+e a gente vai ter que é moda é maior do
+que a moda é maior do que a mediana que
+por sua vez é maior do que a média com
+isso a média
+ela é menor a média é menor do que a
+moda nessa distribuição e a gente vai
+ter uma diferença entre a média ea moda
+menor do que 0
+então é sempre tá a gente acabou
+deixando contra exemplo pra isso tá
+então não é sempre tão atrás e também
+está errada tá vamos ver a letra d
+multiplicando todos os valores de uma
+sequência de números positivos por um
+número positivo tem se que o respectivo
+coeficiente de variação não se altera
+vamos ver o coeficiente de variação da
+onde está aqui na última linha aqui o
+vamos lá coeficiente de variação ele
+quando eu tô multiplicando por uma
+constante por cento em variação a ele
+não se altera
+tá com isso tá certo afirmativa aqui
+então nosso da guarita e letra de
+direcionamento não vamos confirmar aqui
+na letra ela
+o coeficiente de variação correspondente
+a uma série de números positivos é igual
+a divisão do quadrado ele está falando o
+seguinte o coeficiente de variação é
+igual ao quadrado da média
+dividido
+aliás é igual a divisão como é igual a
+divisão do quadrado da respectiva média
+pela aliança está falando quadrado da
+média pela glória sigma quadrado
+ele está falando que o coeficiente de
+variação isso aqui quando não é que na
+verdade coeficiente de variação é igual
+desvio-padrão dividido pelo med então
+letra é altamente ao então ficou nosso
+favorito aqui letra de de direcionamento
+a gente não está fazendo um estudo
+direcionado aqui pelas questões
+trata de de direcionamento belezinha

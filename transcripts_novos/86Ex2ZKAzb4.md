@@ -1,0 +1,20 @@
+# Estatística no mercado vs Estatística na academia, será que dá Match? Descomplica AI YouTube
+
+- **URL:** https://www.youtube.com/watch?v=86Ex2ZKAzb4
+- **ID:** 86Ex2ZKAzb4
+
+## Transcrição
+
+a estatística no mercado versus
+estatística na academia Será que Danette
+vamos descobrir hoje no YouTube as 15
+horas lá com a galera do descomplica aí
+mestre Filipe Luís e seus fieis
+escudeiros né vai ser um grande prazer
+participar desse bate-papo né me
+convidaram aí para gente poder falar um
+pouquinho sobre esse assunto né então
+vamos ver vamos ver se existe esse mete
+aí entre academia versus mercado então
+espero todos vocês lá Valeu galera
+tchau-tchau

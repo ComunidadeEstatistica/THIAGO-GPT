@@ -1,0 +1,252 @@
+# Parte 2 - Random Forest - Competição Codenation - Previsão da nota de matemática do Enem 2016
+
+- **URL:** https://www.youtube.com/watch?v=uLHx_f4sm-k
+- **ID:** uLHx_f4sm-k
+
+## Transcrição
+
+sim place e vai substituir né o
+datafolha voltou a visar o datafolha em
+né que está sendo executado aqui nesse
+notebook com é os valores já corrigidos
+com a média agora eu vou separar os
+dados de treino e de classe
+a separação dos dados de 3 de classe vai
+ser feita assim de forma primeiro
+preciso saber quem é minha classe o que
+eu quero descobrir né com a execução com
+a criação desse modelo é preciso estimar
+nota de matemática dos alunos
+então essa vai ser a minha classe vai
+ser o resultado eu vou colocar aqui
+nessa variável y na minha classe
+os dados para ser conferidas depois é
+esse aqui é o meu resultado né o vai ser
+o dado que vai validar esse modelo
+e aqui eu vou colocar o que vai sair as
+informações que vão ser usadas para
+encontrar esse valor para estimar e é
+essa nota que seriam as features que vão
+ser as outras notas dos alunos nem as
+outras notas que foram feitas nesse dia
+então através dessas notas
+eu vou prevê essa nota de matemática
+aqui eu fiz a seleção é dos dados de
+trem que vão ser somente essas
+informações das outras notas que vão ser
+utilizados para prever a nota de
+matemática
+bom antes de fazer esse modelo preditivo
+eu preciso padronizar os valores
+padronizar esses valores significa
+ajustar no caso a gente vai deixar na
+mesma escala né vai preparar esses
+valores para que eles possam ser usados
+para prevê né à nota de matemática
+então nós vamos ajustar né no caso o
+scala aqui e se fitch ele vai padronizar
+no caso o objeto escala para ele pegar e
+quando utilizar
+essa transformação é através da escola
+ele vai deixar na mesma escala que
+estivesses dados de treino aqui então
+vai padronizar meus dados e unificar é
+deixada a mesma forma para conseguir
+fazer o meu modelo de regressão
+aqui eu fiz um teste no caso onde ele
+vai calcular aqui o desvio padrão e
+anota né
+há desvio padrão ea média no caso aqui
+dos valores agora está certinho desvio
+padrão ea média dos valores e aqui a
+gente vai selecionar nem os dados de
+teste utilizando as fitas não vai pegar
+selecionar somente as informações
+contidas nas fichas que eu quero que
+seriam as notas de matemática
+não sei se as notas de matemática na
+verdade né notas ciências naturais e
+ciências humanas em exceto a nota de
+matemática
+bom agora a gente vai criar um piper
+laine opep lá ele vai criar aqui né além
+de fazer o pré processamento dos dados
+utilizando a o stand da escala
+ele vai criar também um modelo de
+regressou no caso
+correndo forte e vai configurar também é
+alguns parâmetros para este regresso
+no caso o número de nós que o número
+máximo de nós que eu vou utilizar aqui
+quanto maior mais processamento eu vou
+precisar no caso deixem 200
+o n jobs é a utilização do processador
+eu estou colocando aqui pra utilizar o
+máximo que puder no processador e esse o
+homem start
+ele permite que o meu modelo ele vai
+aprendendo né durante a execução e vai
+melhorando a sua performance do modelo
+ele vai se aprimorando a cada execução
+desse algoritmo e suape pe la e ela
+serve pra continuar nesse processo ele
+vai treinando mais esse modelo e aos
+poucos esse modelo vai melhorando coisa
+com cada execução esse modelo vermelho
+é esse se perpetuaram metros né que eu
+estou falando aqui embaixo
+eles servem para ajustar nesse modelo
+antes do treinamento a gente criar aqui
+fazer regressão eu preciso ajustá é
+melhorar no caso é alguns
+características desse modelo pra
+melhorar as minhas previsões
+então eu posso ajustar é é alguns
+parâmetros
+eu tenho aqui nesse rendón forte e
+parâmetros é neste link
+eu tenho alguns tipos de configurações
+algumas configurações que eu posso usar
+e testando aquino randon forte regresso
+para melhorar a performance do meu
+modelo tem vários parâmetros no caso tem
+questão de nós quantidade nós que ele
+vai acessar até pó profundidade da
+árvore
+ele vai fazer as verificações nem vai
+testando os modelos é um número de jobs
+que seria aqui para usar todos os
+processadores que eu coloquei - um então
+tem vários parâmetros que você pode
+configurar para melhorar a performance
+do seu modelo a performance do rendo
+foch né
+no caso utilizem que o max fé é features
+mex ele vai deixar eu é separar melhor
+nem no caso ele vai testar melhor as
+opções e eu consigo pesquisar pela pelo
+melhor pela melhor parte pelo modelo
+então consigo usar o máximo possível das
+informações que eu tiver
+e aqui maior profundidade a profundidade
+que a minha árvore vai percorrer para
+poder é estimar o a nota então tem
+vários parâmetros que você pode olhar na
+documentação e tentar modificar algumas
+coisas para melhorar o seu modelo
+no caso eu coloquei aqui com uma lista
+ele vai escolher
+durante a execução do algoritmo ele vai
+escolher pra mim olha qual é a melhor
+opção para esse caso ele vai e terá
+entre aquilo que o alto valor
+a tyco raiz e logo de 23 vai verificar
+qual dessas três opções é melhor para
+esse modelo e sempre que a gente for
+declarar esses hiper parâmetros ele
+precisa ser declarado um formato de
+dicionário né
+adicionar o python e aí você consegue
+fazer utilizar essa essa nesse modelo a
+gente pode usar também a validação
+cruzado
+não é que é pra gente ver qualquer
+qualquer desempenho melhorar o
+desempenho desse modelo para impedir que
+acontecesse over feet em que conta que
+se houver fitim o vf tinha quando o meu
+modelo ele já não está melhorando em
+nada eu vou executando executando não
+tem nenhuma melhora então para evitar é
+que aconteça isso a gente faz essa
+validação cruzada
+a gente vai estimar o desempenho do
+método e avaliando ele várias vezes
+usando o mesmo método ele vai garantir
+que você consiga melhorar mas esse
+modelo
+e aí a gente vai ajustar e sintonizar
+esse modelo aqui com o pai billy ne 11
+parâmetros usando grandes acho que ele
+vai servir para fazer a ligação entre o
+zíper parâmetros ea partilha online de
+forma que a gente vai poder fazer a
+validação cruzada né dos dados
+e aí você consegue ajustar melhor o seu
+modelo
+então é pra isso que acredito só recebe
+serve pra ajustar sintonizar né apae
+pioline e os separam metros com o seu
+modelo
+aqui a gente vai fazer então o fit os
+dados que seria configurar né esse
+modelo hofit ele faz essa configuração
+com os anjos da social os dados e a
+gente vai ver aqui durante a execução
+quais foram os melhores parâmetros a
+gente pode ver aqui né através da cbs
+para uns é ter quais foram os melhores
+parâmetros considerados para esse modelo
+são a profundidade máxima
+aqui a gente achou que é 5 e acontece em
+quantidade máxima de features seria logo
+de dois então ele já consegue calcular
+versão olha para esse modelo aqui é
+melhor você usar esse valor é no caso
+dos de parâmetros e agora a gente vai
+testar previsão das notas depois a gente
+já criou um modelo já tem um modelo
+pronto que seria esse clf a gente criou
+o modelo aqui né com a gente fez o fit é
+que a gente criou o modelo e aí agora a
+gente vai testar esse modelo
+vamos fazer a previsão predição das
+notas e vamos adicionar essa proibição
+das notas nem no da frente resposta
+e aqui a gente faz uma redondamente de
+duas casas decimais porque as notas vão
+ser por exemplo 420 pontos e 62
+a gente vai redundar essas notas se
+salvou aqui e agora a gente vai ver
+alguns exemplos de notas que foram
+chamadas por que se dá à frente tem
+muitas notas ea gente precisa ver só
+algumas é que foram por exemplo
+determinadas por esse modelo
+vamos ver que a gente tem 9 813 804
+pessoas que foram muito bem na prova de
+matemática e pessoas que foram não foram
+tão bem né de acordo com as outras notas
+não tiveram uma nota muito boa a gente
+vai gerar um documento
+néel documentos sv de resposta para ser
+enviado na prova desafio do continente
+e aqui a gente passa alguns parâmetros
+aqui no caso e sim de falsa porque ele
+gera um documento com ele gera o csv
+desta frente de agger o índice é
+automático de catira assintomático e
+aqui porque ele tem um cabeçalho ele vai
+usar é o cabeçalho do da frame como
+cabeçalho dos dados
+e aqui a gente pode salvar quando você
+quiser usar esse modelo em outros locais
+você pode utilizar esse job livre
+e você salva este modelo vamos salvar o
+modelo com clf um arquivo chamado rf
+regressou então se eu precisar usar esse
+modelo de novo eu só vou carregar esse
+modelo aqui esse arquivo onde adicionar
+esse arquivo vou conseguir através do
+jobi carregar esse poder eu e vou usar
+posso sair dessa forma você vai criar um
+modelo vai colocar o nome do modelo você
+quer ponto predict e aí você vai
+utilizar né
+e se esse modelo já foi criada
+bom é isso pessoal obrigado pela atenção
+se vocês quiserem pré puderem acessá-la
+no médio por favor e e dá umas palminhas
+aqui se você estiver encostado eu
+agradeço muito a atenção de vocês
+muito obrigada

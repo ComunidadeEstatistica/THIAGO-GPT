@@ -1,0 +1,281 @@
+# Metaclassificação com H2O do R - Prof. Máiron Chaves
+
+- **URL:** https://www.youtube.com/watch?v=fyIqhtKD57E
+- **ID:** fyIqhtKD57E
+
+## Transcrição
+
+olá pessoal que o marlon 15 gravando
+mais um vídeo aqui porque nós está de
+dados
+nesse vídeo continuar usando o pacote
+h2ox não erre como usei nos dois dias
+anteriores mas a ideia que eu quero
+trazer que é uma técnica que é
+relativamente pouco utilizada em
+português é tem muito pouco material que
+é a meta classificação ou alguma
+literatura chamam de super aprendiz ou
+de classificador de segundo nível
+na prática não é rico é que funciona de
+forma resumida que ele faz ele com ele
+combina as predições de outros
+classificado já treinados e como ela
+tenha com o vetor da avaria resposta e
+em cima das predições em treinar um novo
+classificador é por isso vem o nome
+indicadores segundo nível
+a gente vê que na prática vai funcionar
+direitinho pra isso a gente precisa
+carregar aqui o pacote herói símbolo é
+nas versões na versão atualizada que
+tirou jogando a última vez que um
+jogador só é não precisa mais carregar o
+alex góes embu
+ele já ele está depreciado e ele já vem
+que já aqui
+aqui eu vou iniciar a conexão com o
+servidor do gasol
+ok agora vou carregar o hotel sete bases
+de dados aqui eu peguei ela não quer go
+ela é aqui que ela se consciente né ela
+é até o histórico com dados de pacientes
+exames democráticos comunidade e esse
+paciente teve ataque cardíaco ou não
+então a idéia é usar a aprendizagem de
+máquina pra gerar a probabilidade de um
+paciente te ataca rigo dadas algumas
+características do ataque
+ok já fui lá o servidor do resort
+agora é converter a variável idade pra
+numere que ela estava em um formato e
+vou converter a variável resposta pra
+factor
+então aquilo que é um vetor um por um y
+que vai aguardar a resposta
+e aqui eu quero guardar as variáveis por
+editoras não vetou x então que esse
+comando aqui cheguei a falar com ele
+aqui né
+pegue todos os nomes do data frame da
+los seria diferente da vai dar a
+resposta
+executa se eu executar aquilo que pode
+ver aqui as várias editoras é aqui na
+europa level eu tô falando que eu a
+categoria de referência é um ou seja 1 é
+quando o paciente teve ataque cardíaco
+ok aqui o usuário visualiza os levem um
+tac em primeiro para entender o que é
+referência
+agora vamos adicionar aqui pra a treino
+teste eo restante para a validação
+executa que ele vai admirar uma lista
+nessa lista ela vai ter três elementos o
+primeiro elemento vou passar aqui para
+treino
+o segundo para a avaliação e o terceiro
+proteste
+então qual é o seu primeiro modelo a
+gente vai trabalhar aqui vai ser o nei
+bes
+então eu venho aqui com o comando do
+casal ponto bebês é enquadrar nesse
+objeto aqui em b2b ele tem poucos
+parâmetros a então ele me pede avalia um
+vetor com as variáveis editoras que
+guardei aqui né aqui em cima aqui é
+variável a resposta sobreviver ou não 3g
+femme e vai deixar um frame é pra treino
+e validação
+aqui o número de dobras da avaliação
+cruzada aqui o tipo de separação dos
+dados na avaliação cruzada equipa ele
+guardar as petições da informação
+cruzada são josé é quando a gente vai
+usar o a meta classificação aquino gasol
+todos os modelos treinados têm que ter a
+mesma quantidade de dobras avaliação
+cruzada e esses dois parâmetros aqui tem
+que as etapas dessa maneira o fogo da
+saída tem que ser módulo e o que provê
+deixa políticos têm que ser sul
+então vamos lá vamos rodar um mês
+ok a gente pode gerar que a curva rock
+dele também temos a nossa sorte é que
+ficou agora que eu vou ajustar uma regra
+da logística nos parâmetros da moça
+muito muita ferramenta que mostra um
+classificador e já tem um vídeo aqui no
+canal também sobre a comum disse hoje
+que num pacote gasol mas aqui eu passei
+né
+para os meus semelhantes a unb esse é o
+vetor de várias editoras é avaliar a
+resposta à base de treino ea base de
+validação é no caso aqui a família né
+como na classificação binária do ameal a
+quantidade de doses da vacina cruzada é
+o tipo de separação dobras para guardar
+as condições de trabalho são cruzada é
+esses três parâmetros iguais aos que
+estaremos aqui assina a beleza o guarda
+ela que o objeto que possui uma
+logística executem pode ver a
+performance aqui ok pode ver aqui e
+rapidamente rock dela quem precisa
+agora que eu vou ter nenhum hannah forte
+que já rodei um deles anche
+é anteriormente já achei os melhores é e
+parâmetros para ballack até gravei um
+vídeo sobre o gol de cech
+recomendo ver que é uma técnica bem
+interessante também pra incrementar o
+uso dos modelos a capacidade preditiva
+deles estão aqui analisou a ponta e não
+fora a gente tem aqui só os parâmetros
+muitos anos mesmo é avaliar a resposta
+variável as variáveis por editoras mais
+de treino vai de teste que a quantidade
+de árvores que quer usar e abusar 150
+quantidade de variáveis que o ritmo vai
+mostrar a cada árvore das duas variáveis
+que eu tenho editores e vai ser chamado
+novamente 4 e mostrar pra árvore
+esse parâmetro ele é a profundidade de
+árvore pode chegar então das 150 árvores
+elas podem chegar no máximo até dois
+níveis
+mostra árvores 500 aqui coloquei para
+balancear as classes da sobreviveram
+sobreviveram durante o processo de re
+mostrarem dele aqui é a quantidade
+mínima de observações
+aqui é a métrica que eu vou e volto vai
+ter que ir maximizar é comum nesse caso
+as duas classes nessa muito importantes
+eu coloquei para pesquisar a curva aqui
+o percentual da das observações eu quero
+que ele mostra cada árvore
+devemos fazer por cento permitindo à
+oposição
+esse parâmetro aqui ele é muito
+interessante
+ele só funciona pra a classificação
+multirracial
+eu vou tirar ele deixa aqui só pra
+mostrar a vocês que ele faça vamos supor
+que em seu trabalho como modelo com o
+classificador têm quatro níveis vai dar
+a resposta
+então além quando deu certo para o 14
+bis ele além de criar normalmente os
+classificadores dele ele vai criar é
+bahia um outro irmão forte considerando
+a primeira classe como um e as outras
+três classes com 10 ou seja o objetivo é
+é certificar a uma está cansado
+primitiva do rebel forte naquela classe
+ok depois é quando ele vai fazer mesmo
+processo por segundo nível então quando
+avaliar a resposta o valor 2 que vai
+fazer hoje 2 e vai chamar de 10 caso
+contrário e vai criar mais 150 é a
+gestões é mau jogo o outro foge
+é para incrementar bastante positiva pra
+classe 2
+depois por prakash 3 mesma coisa né ele
+vai convocar 3 vai chamar de 10 quando
+falou a classe 1 2 ou 4 eo e ou seja o
+objetivo é incrementar quadrado positiva
+de quando for a classe 3
+então esse parâmetro aqui ele consome
+muito recurso computacional de
+incremento é muito mais positiva do do
+rio não foge da classificação mundial é
+bem interessante nesse caso aqui como
+ele é
+ele é que o cenário ele é mais gente pra
+gente
+quem quiser saber mais sobre parâmetros
+que é pode vir no help do lesoto no colo
+chi que ele vai ficar melhor
+para valer a pena o toque que é que às
+vezes paramos lá que têm que ser iguais
+todos que deus que toque rock beleza
+brilhou e marcou clima estranho que pode
+ver que a curva rock melhor que os
+modelos aqui vou usar um jeans plani com
+as configurações deixou do jogador sol
+então eu vou entrar aqui com 12 ao ponto
+de plani vou guardar aquele objeto dipp
+os parâmetros do vetor com as largadas
+de touros foi a resposta de treino
+abaixo e teste de fogo ele ele usa vai
+usar seria esse comando vai daqui ele
+vai usar 200 duzentos neurônios
+artificiais america maduro na segunda é
+eu não vou entrar em detalhe é que elas
+são muitos parâmetros então vamos rodar
+com as obrigações de foi o mesmo
+esse é outro
+era só que vale a pena explorar a boa
+performance tal beleza toque em dia vai
+entrar no matter classificador então eu
+queria uma lista com os modelos é
+treinados que onde eu vou colocar o
+renan fones 19 bebês
+a regressão logística ea rede neural
+aqui e aqui eu vou escolher o algoritmo
+que vai ser ôôôô média classificador é
+que vai ser o pacificador do segundo
+nível
+então eu posso usar o organismo ao ponto
+gbm eu poderia vim aqui com a lusoponte
+o glm também ressaltou renan forest
+enfim vamos com gm vectra de bush
+machine
+ok então aqui no a gasol o stec
+esse parâmetro que models
+os modelos já treinando lá que eu gravei
+aqui aqui ele me pede aguardava uma
+resposta então eu passei que o treino e
+não dava resposta meta laranja é o
+parâmetro quente aqui qual o ritmo eo
+placar do segundo nível é fácil hoje o
+revele e aqui em baixo porque o cts aqui
+é de matar os dados nenhum
+ele manteve a gente executa
+ok então é esse gbm ele foi treinado sob
+as predições desses pescadores que estão
+aqui
+se tiver que nesse comando aqui pode ver
+abaixo de treino
+então aqui está a probabilidade gerada
+pelo forte probabilidade gerado pelo fbi
+a prioridade dada pela regressão
+logística e pela rede neural e aqui
+avaliar a resposta é preciso ser
+paciente teve ataque cardíaco ou não
+teve então isso aqui forma data 7 de
+treino pra esse gbm que a gente treinou
+aqui é por isso que ele recebe o nome
+identificado o segundo nível
+a gente pode ver aqui a curva rock dele
+aqui nunca tem o perfil que a gente vê
+aqui pelo tema está na base de treino
+aqui a gente pode ver a a área sobre a
+curva de forma individual de cada modelo
+o modelo combinado teve essa sobre a
+curva que as mudanças individuais né
+algumas tiveram performance melhor que o
+modelo combinado aí tem que se pagar um
+pouco mais mas sim de forma resumida é
+isso é mais uma técnica pra nossa
+ferramenta nacional de ferramentas para
+atacar batalha objetivas nossos modelos
+e mais uma forma de usar o gasol que é
+um pacote muito legal pra gente
+trabalhar melhor
+então espero que tenham curtido um
+abraço a todos muito obrigado

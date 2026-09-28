@@ -1,0 +1,78 @@
+# ESTATÍSTICA - VÍDEO 12 - 2009 - FCC - TRT - ESTATÍSTICO - EXPONENCIAL - DISTRIBUIÇÃO ACUMULADA
+
+- **URL:** https://www.youtube.com/watch?v=H-bsBm9Tins
+- **ID:** H-bsBm9Tins
+
+## Transcrição
+
+[Música]
+fala galera do canal está difícil
+o professor tiago marques 200 inscritos
+em 1508 realizações em dois meses
+[Música]
+foi um rapaz que não estudava há 16 anos
+e ele estava conseguindo ir bem nas
+provas estatísticas do canal para
+realização do seu trabalho sabe
+reconhecer uma questãozinha de
+distribuição contínua tá distribuição
+exponencial forte aí na outra está 100
+mil e 200 primeiros vamos falar um
+pouquinho da distribuição de potencial
+como é que a cara da distribuição
+exponencial
+a gente tem que ser igual a um elevado
+para x maior
+0 x 0 está definido para valores
+positivos
+efe então a gente pode fazer aqui uma
+associação da seguinte forma o nosso
+lado aqui é legal porque geralmente
+trabalha com duração de uma lâmpada ou
+seja tempo de vida útil de uma lâmpada
+tempo de vida útil do equipamento tempo
+com a distribuição de distribuição
+discreta por exemplo o número porém o
+tempo entre a chegada já é exponencial
+se a gente considerar número de niterói
+agora o tempo entre essas passagens já é
+exponencial
+então teríamos que integravam a
+probabilidade de uma lâmpada que a
+probabilidade de ser menor no então nós
+teremos que trabalhar com a integral
+mas como eu estou querendo facilitar a
+vida de vocês
+a gente vai trabalhar com um artifício
+muito utilizado a trabalhar com a
+distribuição acumulada onde aqui nosso
+ct
+a gente vai chamar o outro de y
+distribuição em um certo
+então vamos lá 1 - no caso aqui
+substituindo menos 1.200 direto a corta
+corta corta corta 10 jogou então com a
+nossa letra i pessoal letra b de bola
+não é isso
+então é isso sempre quando você
+trabalhar com a distribuição inicial é
+interessante que você utilize a
+distribuição acumular exponencial porque
+eu tô aqui pra facilitar a gente vai
+trabalhar com a gente só sabia de beleza
+então é isso galera espero que vocês
+tenham gostado desse vídeo tá continue
+mandando mensagens aí compartilhem
+mandei lá e está nos vídeos ea gente vai
+melhorando cada vez mais o nosso canal e
+otimizando pra você está melhorando o
+desempenho e eu convido vocês pra
+conhecer o site está recém criado e
+www.aa.com lá eu tenho tem uma seção que
+eu chamo de um algoritmo está tem alguns
+links interessantes baixarem aí também
+tem lá na na área pacote tem uma aula
+gratuita lá conhecer um conteúdo mais
+direcionado está lá no site e manda um
+email pra gente
+valeu um forte abraço valeu

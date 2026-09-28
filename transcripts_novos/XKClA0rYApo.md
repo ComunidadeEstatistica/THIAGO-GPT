@@ -1,0 +1,208 @@
+# Parte 2 - O que é?  Qual a sua História ? Machine Learning vs Deep Learning?
+
+- **URL:** https://www.youtube.com/watch?v=XKClA0rYApo
+- **ID:** XKClA0rYApo
+
+## Transcrição
+
+que separei aqui né na verdade está
+imaginando foi retirado de um de um blog
+está em baixa
+a fonte mas está separado aqui machine
+learning e de plano né
+na verdade o que está aqui em cima de
+mach lane é o que se chama the machine
+tradicional né machine clássico aqui
+embaixo de plan to machine é clássico
+por exemplo se tiver uma imagem de um
+carro um fusca aqui que o primeiro passo
+a ser feito após a gente ter essa imagem
+tem um ano que ele vai trabalhar pra
+extrair informações dessas imagens é
+transformar essas imagens em coisas de
+computador o computador chegar e aí
+depois disso ela vai passar por uma
+técnica de inteligência artificial e aí
+vai ter uma classificação acha que é um
+carro ou não é um carro então
+basicamente em ti têm uma presença
+humana muito forte aqui na questão de
+pegar a imagem e realmente transformar
+em algo que o computador seja consigamos
+chegar mais facilmente
+a grande diferença em prol de plano
+propriedade pelo fundo é que a gente
+pula essa parte de extração de tributos
+se consegue perceber que na imagem né
+a gente tem o nosso input que a imagem
+de um carro ou uma coisa que não um
+carro e o própria técnica dilma de
+aprendizado de máquina ou seja o mês
+caso né própria técnica de aprendizado
+profundo ela aprende qualquer maneira
+ótima de fazer a extração desses
+atributos
+então humano aqui quando ele faz a
+extração ele é teoricamente ele é
+sujeito a erros certamente não rs
+eleitoreiros aqui naquela também sujeito
+ailson mas ela consegue perceber quais
+são os atributos quais são os melhores
+atributos a serem extraídos e ela
+obviamente é sujeito é isso que eu falei
+mas menos que o manchester só consegue
+trazer mais informação fun ea partir
+disso como a gente tem muitas camadas a
+gente pode imaginar que
+é essa rede neural ela consegue ter
+também uma abstração muito grande
+ela consegue trair é realmente pegar a
+essência do que é ser um carro ou não
+seu carro tá então basicamente isso aqui
+em cima não aqui em cima de trabalha não
+consegue tanta abstração assim tá então
+por que houve esse boom recente
+basicamente por causa de três fatores
+é por causa dos dados que estamos a
+morrer muito abundantes hoje em dia o
+poder computacional que eu já falei ea
+questão também de pensões
+basicamente as ferramentas mais usadas
+elas têm código aberto
+você pode contribuir você consegue usar
+de graça então esses são os fatores mais
+forte então vamos lá pessoal a gente vai
+mostrar na prática pra vocês como
+funciona
+bom então vamos lá agora a gente vai
+falar de uma aplicação que é para
+reconhecimento de imagens
+então a técnica é muito parecido com
+aquelas usadas em exames médicos para
+detectar a detectar o tumor suas coisas
+e eu vou deixar o link dessa aplicação
+na descrição do vídeo também pra vocês
+brincarem é muito interessante
+então basicamente essa aplicação ela usa
+um tipo de rede neural se chama rede
+neural com o lúcio nal que é uma espécie
+de aprendizado profundo
+aqui a gente está falando de blandi a
+máquina não consegue ter uma abstração
+bem grande apelo pela forma com que ela
+prévia pela arquitetura do do modelo que
+ela que ela está presente que ela
+apresenta
+tá então basicamente como funciona essa
+demonstração quem super legal você vem
+aqui você desenha um algarismo que vai
+de 0 a 9 15
+tá bom é que você vai interpretar essa
+esse desenho bonito que saiu aqui ensino
+bom
+basicamente
+é o o os quadradinhos mais claros os
+sons que a a máquina tá dando um valor
+maior no setor dando maior importância
+então base é no nosso input que é o
+primeiro quadradinho aqui conseguem ver
+que realmente está mais claro onde
+desenha e obviamente é porque é onde
+está hoje eu passei a informação
+a partir daí a máquina ela tenta buscar
+melhores maneiras de atrair o que
+realmente é um número 5 não conseguem
+ver por exemplo nessa nesse colinho da
+esquerda
+ela consegue captar uma peça aborda que
+consegue captar a cozinha 5 e agora aqui
+de baixo já é bem essa rica de cima essa
+coisinha aqui e essa coisinha aqui
+dentro você consegue ver que aquela vai
+captando a intensidade da cor né
+quanto mais claro mais a capitão e
+promoções ali daquela é daquela parte da
+imagem consegue ver que nas primeiras
+uma camada o que a gente não olha pra
+isso não sendo a questão de curiosidade
+mesmo não está fazendo agora
+mas a gente vai ganhar nessa primeira
+chamada culto ele é capaz de a de pegar
+[Música]
+atributos do número 5 que são atributos
+mais básicos são bordas são alguns
+desenhos em volta do número aqui na cama
+na terceira camada ele já vai ter uma
+abstração maior aqui já na quarta camada
+que é a terceira camada oculta
+aí complicou a partir daqui já um nível
+de abstenção tão alto que fica até
+difícil para humano olhando pra isso
+entendeu
+assim tá bom é que você tenha
+dificuldade é manco é que se olhar isso
+realmente não tá dando pra ver o que que
+a máquina está considerando até um pouco
+difícil eu quero pra você ver que
+garante que está buscando torná las
+quadradinho bem colorido aqui é a busca
+dessas nesses pontos ainda das outras
+imagens mas beleza
+aí já passou pra outra camada já deu uma
+abstração maior
+tudo bem aí aqui no fim conseguem ver
+que os quadradinhos finais
+hoje queria fazer a classificação 01 a 2
+até 19 né conseguem ver que os 5 ele se
+sobressai com grande com grande
+notoriedade não consegue ver que há
+realmente tem muita certeza que o cinco
+é o número que a gente escreveu um outro
+teste
+talvez alguns que não estão claros
+7
+assim conseguem ver que há uma certa
+confusão aqui na máquina que realmente
+178
+não sei por que mas ela pensou se
+conseguem ver que no canto esquerdo que
+eu desenho set mas o fã dela o que é o
+que ela realmente acho que eu desenhei
+foi um som parecido é de certa maneira
+ela é ro am é a máquina também é
+passível de 10 que é o segundo melhor
+chute é 18 que não tem nada vem aí não
+entende por que eu vou colocar aqui um
+risco aos sete
+aí ficou mais ainda o que melhorar mas
+não melhorou nada então vamos pensar no
+outro número 999 acertou com certa
+confiança não conseguem ver aqui na
+frente
+é mas o segundo
+segundo chute
+ela seria 18 tem mais sentido nesse caso
+porque eu vim fechar aqui eu sou muito
+vamos ver se ela vai entender que isso
+aqui
+aí ela entende como sendo 18 entendeu
+com segmentos são até coisas parecidas
+então vou deixar esse link pra vocês eu
+acho que ele vai ser super herói super
+interessante brincar
+aproveitem aí vão desenhando ver que é
+uma planta percebendo como ela está se
+confundindo de vez em quando acho super
+legal
+eu gostaria de agradecer a oportunidade
+está aí falando com seis
+com isto thiago e espero que tenham
+gostado do vídeo é o meu contato contato
+dos meninos que eu fui lá no começo
+leonardo de salmão na descrição do vídeo
+há qualquer coisa vocês entrem em
+contato com a gente por favor nesta
+super aberto e é isso pessoal muito
+obrigado pela audiência de vocês e
+espero vê los em uma próxima
+oportunidade

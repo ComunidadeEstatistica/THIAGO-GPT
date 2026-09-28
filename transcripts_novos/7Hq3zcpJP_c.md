@@ -1,0 +1,522 @@
+# Aula 14 - Intervalo de Confiança e Tamanho da Amostra - Estatística (Versão Mobile)
+
+- **URL:** https://www.youtube.com/watch?v=7Hq3zcpJP_c
+- **ID:** 7Hq3zcpJP_c
+
+## Transcrição
+
+fala galera tudo bom com vocês chegamos
+à nossa fala galera tudo bom com vocês
+chegamos à nossa aula 6 que custa e na
+aula passada novas cinco nós vimos um
+pouco de noções de amostragem estimação
+tá
+a gente viu um pouco dos planos de
+amostragem os probabilísticos não
+provadores cuesta que você também pode
+chamar de casuísticos não casuístico
+então a gente viu como como amostragem
+probabilística
+a gente viu mostrar e letras simples
+análise é mostrar em sistemática tá
+a gente viu amostragem estratificada
+amostragem por conglomerado está e não
+problemas que a gente viu a mostrar por
+conveniência amostragem intencional
+a gente viu a diferença entre elas está
+a gente viu porque quer probabilística é
+melhor do que a não probabilística que a
+gente consegue ter uma noção de
+estimação da do erro da sua mostra de
+tudo mas você garante a precisão tá
+e nessa aula hoje a gente vai estudando
+aí intervalo de confiança e tamanho da
+amostra está então a gente ainda está
+naquela parte de inferência tá então
+vamos lá
+primeiramente cabe aqui a gente definir
+um teorema que é muito importante está é
+ele a base de muitos cálculos que se
+fazem estatística taques aí que se chama
+teorema central do limite está o tsl
+presente está no que de então definição
+definição do teorema central do limite
+a soma ele diz que a soma ou a média de
+vários relatórios independentes
+quaisquer quando padronizadas converge
+em distribuição para uma uma variável z
+tá que segue uma normal 01 e isso é
+muito forte é galera porque qualquer
+distribuição tá de pé qualquer
+distribuição ser padroniza essa
+distribuição ela vai seguir uma normal
+01 tá então é isso vale para qualquer
+distribuição tá então
+a gente tem que a soma ea média de
+variáveis aleatórios independentes
+devidamente padronizado e vai seguir no
+101 é isso que está falando o nosso
+terminal central do limite interpretação
+que eu voltei pra vocês
+para n suficientemente grande está ou
+seja com é maior do que 30 tá só vale
+pra ele mais do que 30 que a gente
+considera uma amostra grande está a sola
+ea média de variáveis aleatórias
+independente com média e variância
+finitas segue uma distribuição
+aproximadamente normal com média 0
+variação desde que devidamente
+padronizados é importante lembrar que
+teve devidamente padronizada está então
+intervalo de confiança tá é o intervalo
+numérico é elaborado com base em uma
+informação pontual o qual podemos
+confiar que o parâmetro esteja
+contemplado no meio tá então ele pode
+conter ou não conter o meu parâmetro
+está o conceito importante grau de
+confiança
+a gente vai chamar de 1 - alpha está
+determinando quando confiamos que o
+parâmetro já contido nesse intervalo
+tá nível de significância alfa é o
+complementar do grau de confiança ou
+seja é a 1 - 1 em natal está aí aqui com
+tilda normal padrão
+a gente vai notar por z de alfa sobe 2
+está o valor que deixem de 01 e 02
+ou seja vamos ver aqui então aqui ó
+a gente tem aqui é normal aí a gente tem
+aqui o que entra um valor e outro
+aqui a gente tem números alpha está e
+como hebe o intervalo de confiança é
+bilateral por natureza aqui é o função
+de 2 e aqui sobre dois se eu sou mais
+oque tem que dar um certo legal
+então a gente tem aqui e aqui a 1 - z de
+alfa sob 2002
+tá então esse aqui é o conteúdo novo
+padrão que que deixa entre 0 e 0 sobre
+21 a certa probabilidade está então
+valores importantes
+a gente tem pra alfa igual a um por
+cento tá que os vai ser o que o nosso
+vai ser com 2.057 o alfa para 5% 1,96 tá
+isso tá bastante prova está a maior
+parte das questões vão vir com com alpha
+de 5% tarde é o padrão que a gente
+costuma utilizar tá foi definido para
+esse padrão mas pode vir a ter outro
+valor está por exemplo por cento e 10
+por cento também que também usual 1,64
+quando é 10% da população
+em uma delas o verdadeiro valor do
+parâmetro populacional estaria continue
+nesse intervalo que eu tô com 95% de
+confiança então significa o quê que são
+gerar n replicações dessa mesma mostra
+em 95% delas o valor do eu acredito que
+o valor do meu no verdadeiro o parâmetro
+populacional está contido nesse
+intervalo essa interpretação tá não tem
+aqui que o que se falar em probabilidade
+está propensa a improbabilidade errado
+tá porquê porque ôôô o nosso x barra
+ele não é uma variável relatório está a
+gente tá ele pode é um parâmetro
+tá desconhecido que pode estar contido
+ou não no intervalo tá então não se pode
+falar em probabilidades pois estamos
+tratando de uma estimativa pontual e não
+uma variável aleatório importante
+portanto falaremos confiança sempre
+então sempre confiança na probabilidade
+não é uma observação aqui temos que o ec
+ele vai está x barra - 0 - um erro na x
+barra mais um erro disse podemos tirar
+que a amplitude do intervalo é 2 é tá se
+a gente fizer aqui xixi barra mas é
+menos x barueri sé vai ficar 2 é tá
+então a nossa amplitude ou seja o máximo
+- no mínimo do intervalo
+vai ser 2 é de que se quisermos saber o
+x barra é só somar o limite superior ao
+limite inferior e em seguida dividir por
+dois então se a gente quiser chá é é
+achar o a média que o x barra média
+mostrou a gente só no limite inferior
+com limite superior que vai cortar é com
+ela vai sobrar só x barra tá nosso site
+para você resolver as questões
+então vamos prosseguir intervalo de
+confiança para a média populacional me
+aí a gente tem aqui que a fórmula do
+intervalo de confiança para mim
+de uma população normal com sigma
+conhecido ou seja você conhece o teu
+sigma ele não é um parâmetro
+desconhecido tá tem uma ideia prévio
+o intervalo de confiança sem usava por
+cento
+aí a gente tem aqui x barro que a nossa
+meta é chamado pontual da média
+populacional tá que no caso aqui a nossa
+média mostrou tá - z aos servidores que
+é o conteúdo é normal pra é padrão que
+eu comentei com vocês
+sigma sobre religião disse golding
+padrão tá é conhecido
+por isso que a sigma se fosse
+desconhecido a gente chamava de giesta e
+raiz de ano a raiz quadrada do tamanho
+da amostra ea gente tem menos a ver isso
+aqui na verdade o nosso erro nosso erro
+amostral então a margem de erro está tão
+intervalo de confiança para me de uma
+população normal com sigma desconhecido
+e ainda menor ou igual a 30
+com isso a gente vai ter uma amostra
+pequena taxa é menor que 30 então você
+não consegue fazer a aproximação pela
+normal tá então você vai ter que usar
+até de estudo de por que ela tenha calma
+um pouco mais alongado e ela consegue
+ter uma precisão melhor do que o normal
+para mostras menores
+então você vai ser como agora se vai
+continuar x barra aqui ó
+aqui vai mudar que vai seguir uma ter pn
+-1 grau de liberdade tá alfa sub-20
+sobre dois aqui aliás te ter né tmn -
+192 s sobre a higiene
+o sr o desvio padrão só que agora
+desconhecido internet derrota por esta
+raiz quadrada do nk é o tamanho da
+amostra
+ok então se a gente tem esse caso aqui
+consigo uma conhecida a gente vai
+aproximar pela normal e se a gente tem o
+desconhecido ou é menor ou igual a 30 de
+estudante e menos um grande liberdade
+está o grau de liberdade galera
+nada mau exemplo que enquanto os
+parâmetros ao estimar essa distribuição
+eu vou eu vou conseguir deixar à solta
+tá
+quando a gente chegou a distribuição
+alguns parâmetros vão ficar soltos e
+esse grau de liberdade ele traduz nisso
+quanto em quanto os parâmetros
+para poder estimar uma distribuição tá
+esse é o conceito intervalo de confiança
+para uma proporção tá grandes amostras
+aqui a gente vai trabalhar com essa
+forma aqui porque ela te chapéu que a
+nossa proporção amostral proporção ó
+estima do da proporção populacional está
+aí aqui é o nosso plantio da normal tá
+vezes a iac é p
+de chapéu - e chapéu raiz de anne que é
+nossa o tamanho da nossa amostra está a
+fechar pela proporção de que tem as
+características está a gente vai ver
+isso aqui melhor nos exercícios a gente
+vai fazer bem essa parte para estimar me
+aí a gente aqui a gente está falando do
+tamanho da mostra como é que a gente vai
+é calcular o tamanho da amostra a gente
+vai usar press time
+essa forma aqui tá que é igual à z
+ao falar sobre dois ao quadrado sigma
+quadrados sobre apps ao quadrado que é o
+nosso erro
+mais um dia aqui para estimar ter a
+gente vai usar essa fórmulas e aqui tá
+que a gente vai chamar isso de primeira
+abordagem o pv vai virar anunciado tá aí
+você vai usar essa forma que quando te
+vi no enunciado tá agora quando não
+viajar a gente vai usar a estimativa da
+da variância da seguinte forma que a
+gente tem que o ponto de máximo aqui ó
+entre o que o pt vai ser esse aqui tá
+então é um quarto porque é quando o pp é
+um sub 21 e o que é um servidor está
+então é a minha abordagem é com a maior
+variabilidade possível tá você está
+estimando o tamanho da amostra com a
+maior variabilidade possível
+é uma abordagem conservadora
+agora tá então você tá dando maior
+variabilidade por que você desconhece
+você não tem uma informação prévia tá
+e você vai está estimando o tamanho da
+amostra está quanto maior a
+variabilidade maior durante seu tamanho
+da amostra
+isso tudo vai ficar mais claro que o
+exercício está colocando assim as formas
+não parece muito intuitivo nós vamos
+fazer aqui as questões a a vida de
+determinado equipamento a vida de
+determinado equipamento apresenta uma
+distribuição normal com desvio padrão
+populacional a importante o populacional
+então ele é o que é conhecido
+de 400 horas
+então a gente pode mandar aqui o sigma
+igual 400 estresse uma amostra aleatória
+de cem equipamentos estão à mostra onde
+derrota porque n é igual a 100 e
+obtém-se uma vida média de 2 mil horas
+para este equipamento então a da mostra
+a gente tirou uma média está na média
+gostou e deu dois mil ou seja o nosso x
+barro que a nossa média amostral é igual
+a 2 mil a r i
+considerando a população de tamanho
+infinito muito grande ea informação da
+distribuição normal padrão que perdi
+dizer maior que ouviu 64 é igual a 5%
+que quem está dizendo aqui pessoal olha
+só quem está aqui falando aqui o
+seguinte ó a gente tem aqui em 1,64 que
+a 0 não está no ceta 1,64 etapa
+probabilidade de dizer maior que os 64 o
+que é maior que os 64 está falando aqui
+ó
+nessa área henrique e ele está falando
+que enquanto 5%
+tá construa o ec de 90% para a vida
+média do equipamento então ele falou deu
+mais uma informação construiu em cerca
+de 90% então enquanto que é o número só
+fica o nosso grau de confiança 90% e por
+conseguinte a gente tem que alfa vai ser
+quanto é um é um - na verdade aqui tá em
+por cento então é 100 - 90% então alfa
+que ele quer é o que
+10% tá então a gente pode pensar o
+seguinte ó ele está falando pra gente o
+seguinte time dizendo que aqui a gente
+tem - alfa lembra - alfa aqui é o façam
+de 2 e aqui está então ele está dizendo
+aqui que aqui dentro tem 90% dos dois
+lados a 10% então eu tenho quanto aqui
+5% a 5%
+então a 0 e ele falou que aqui ó
+probabilidade digitar maior do que a
+maior do concelho do valor dizer é 5%
+aqui então esse valor eu que 1,64 1,64
+-1 64% entre ana certo então esse aqui o
+nosso cd alfa sob dois na forma vai ser
+o que é
+1,64 tá então agora é só substituir lá
+na forma a vai ficar e ser de 90% é o
+que a gente sabe que é conhecido certo
+então a gente vai usar dinheiro é isso
+então x barra mais ou menos z de alfa
+sub 21 vezes sigma sobre o raid n ta com
+isso aqui a gente sabe que isso é o que
+é o nosso erro da margem dia
+então aqui o z2 é um 1,64 tá então vamos
+substituir aqui o x barra 2000 vai ficar
+2 mil mais ou menos 1,64 vezes sigma que
+é sigma ak 47
+/ a higiene
+o n é 100 bom aí de 100 das tá então a
+gente vai ficar aqui ó pode cortar 10
+aqui 0 com um de cima tá aí vai ficar
+vamos fazer essa quantia aqui 16 a 1,64
+vezes 10 16,4 vezes 4
+quatro meses 4 16 64 24 e 25/4 vez 146
+uma vírgula setenta e cinco mil
+seiscentos e isso aqui ó 65,6
+então vai ser 2 mil - 65,6 e 2000 mas
+65,6
+aí a gente pode fazer aqui aqui embaixo
+2000
+65 viu assim é 10 494 9 391 botou vivo
+em 1930 e 4,4
+aqui nem precisa fazer a conta a nossa
+letra h lera sede
+conquista qual é interpretação se
+perguntassem presente que se forem
+gerados se forem gerados em implicações
+dessa mesma mostra aqui que a gente tem
+aqui de 100 em 90% delas o verdadeiro
+valor do meu me campari populacional que
+eu tô estimando aqui no intervalo vai
+estar contido entre esse intervalo aqui
+entre 1930 e 4,4 e 2000 65 mil
+isso é o que você confia tá não é
+probabilidade beleza legal vamos mais
+uma questão então galera fcc 2015 sefaz
+piauí para resolver a questão utilize
+entre as informações dadas a seguir
+acho que julgar apropriadas a ele nos
+deu aqui uma tabela resumida tá dos
+valores enquanto zebá normal aqui com o
+objetivo de se estimar a idade média em
+mim
+em anos de ingresso no primeiro emprego
+formal de jovens determinada comunidade
+selecionamos uma amostra aleatória de
+100 jovens
+tó já sabe que há negócio em tá 100
+jovens que já haviam ingressado no
+mercado de trabalho formal
+os resultados obtidos encontra-se na
+tabela de distribuição de freqüência
+apresentada a seguir
+aí tem aqui a idade anos a freqüência
+relativa que freqüência relativa a
+galera freqüência relativa freqüência
+simples divididos com o somatório da
+freqüência 5 está a freqüência relativa
+isso tá
+aí ele vem aqui considere que a
+população de onde a mostra foi retirada
+é infinito muito grande está a gente
+pode falar que ele marque 30 e tem
+distribuição normal normal a com o
+desvio padrão igual a um ano
+tá então a conhecido significou para
+estimativa pontual de m
+a média aritmética das cidades
+apresentadas calculada considerando que
+todos os valores incluídos no intervalo
+declaração coincidente com o ponto médio
+do intervalo
+então ele falou isso aqui pra gente
+poder usar o ponto médio está e coincide
+com a nossa estimativa
+nessas condições o intervalo de
+confiança para mim em anos com
+coeficiente de confiança 77% mais uma
+informação igual 77% e alfa vai ser o
+que então 23%
+tá 73 10 está certinho
+então baseado nessa mostra dado por
+então o que a gente vai ter que fazer
+aqui é isso aqui ó
+é o que quase não está em classes
+agrupar encosta com o tagro padre costa
+a gente tem qual coloca o ponto médio
+lembra primeira onda custa de calcular o
+ponto médio como a gente colocou hoje um
+ponto médio que ó a gente tem aqui vamos
+ver primeiro como é que uma sede de
+concelho pra vocês olhar primeiro se a
+amplitude a mesma nas costas
+então vamos lá 18 2 tem dois aqui também
+22 legal então só precisa calcular o
+primeiro ponto médio porque o resto vai
+ser uma pea em razão da amplitude que
+vai ser vai ser o primeiro ponto é
+demais 2 + 2 +2 tá uó
+vamos fazer isso vamos colocar aqui o
+ponto médio vai ficar 20 mais 1838 tá 38
+divididos por 21 38 divididos por 22
+vezes 19
+então o primeiro ponto médio 19 os
+outros precisa fazer 20 mais 22 652 não
+só soma 2 a 2
+vai ficar 21 22 23 + 2 25 tá então a
+gente já tem
+os pontos médios quando é que a gente
+calcula então o x barra x barra é o
+somatório do ponto-médio tá igual a um
+atm que na casa que é sem
+não o é
+vezes x e não corta corta
+então aqui como é que a gente fala
+galera pra calcular o a nossa média
+mostrou faz x barra igual ao somatório
+do ponto-médio vez as frequências
+simples divididos por um somatório das
+frequências simples está então a gente
+vai ter que achar tanto a freqüência
+simples está como é que a gente pode
+fazer aqui pra achar a freqüência
+simples freqüência simples
+a gente sabe que aqui ó
+tem que dar um tapa somando todas as
+classes de freqüência relativa tem que
+dar um e aqui tem que dar 100 porque o
+tamanho da planta
+a iacc então aqui você pode multiplicar
+por 25 10 25 vai ficar 25 aqui 35 aqui
+30 e aqui 10
+aqui tem que dar senhor o 35 com 25 60
+60 90 sem bater legal tá então você
+teria que fazer dez vezes nova deve-se
+19 que vai ficar o que então galera
+multiplicando aqui ó 1910 190 21 vezes
+30 anos 210 vezes 3 210 vezes 3 3 0 0 3
+1 3 326 630
+a iacc 23 vezes 35
+15 23 15 ciclo 2010 11 32 393 mil e 265
+10 678 805 e aqui em baixo e 25 10 e 25
+das 625
+aí a gente pode fazer aqui ó
+em paris há dois anos aqui 6 e 30 190
+mas do que 09 10 anos 12 678
+então aqui ficou 820 e aqui vai dar 4
+805 vezes e vezes não mais 625 5 e 5 10
+3 8 e 4 12 14
+é isso 5 e 5 10 384 no huse isso no 430
+aí vai ficar aqui ó 1.430 mais 800 e
+2005
+2 250 só que a gente tem que dividir
+agora porque somatória fiquem sem
+divididas por 100 corta corta deu que
+22,5 tá então a nossa ibaraki 22.050
+acabou por aí não
+a gente tem que calcular o que agora
+intervalo de confiança como é que a
+gente faz
+ele não falou que a aac
+a mostra a minha média
+a morte foi retirada uma população
+infinitas em distribuição normal de
+distribuição normal né então a gente usa
+deuter z né
+então vamos fazer ó z de alfa sobre dois
+agente pensa que o que é o que a gente
+está pensando aqui por trás
+a gente sabe que ele quer
+o intervalo de confiança de 77% então há
+aqui 77% e se eu sou má é essa parte
+dizia com essa parte tem aqui vai dar
+23%
+tá ok então a gente fazendo aí vai achar
+se você olhar na tabela vai achar 1,2 tá
+de que forma você pode achar isso na
+tabela pode fazer da seguinte forma você
+pode dividir 77 / fazer 77 dividido por
+dois
+e você vai olhar a probabilidade de
+estar entre 0 e 10 ao subir 2 aqui tá ok
+olha lá na tabela o baixaki o google
+está aí ele falou que que o sigma
+conhecido igual então a devir padrão
+populacional 1
+/ raiz dn que quem tem ele n
+essa em que o tamanho da nossa população
+aqui no caso deu à esquadra de saída 10
+então a gente achou que o nosso erro 0
+12
+tá então vai ficar a média que a gente
+pegou - o erro
+a média mas um erro tá esse vai ser o
+nosso intervalo estão fazendo a continha
+22 mil 38 22,62 então a gente mata que
+entrei letrado que pessoal aprovação
+será um sinal ele é então é isso galera
+a gente vai pro intervalo tá bebendo uma
+água aí dar uma refrescada mente aí
+volto aqui com a gente pra gente
+resolver mais questão tá
+valeu

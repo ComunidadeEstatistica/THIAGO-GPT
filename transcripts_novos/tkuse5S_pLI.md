@@ -1,0 +1,58 @@
+# Vídeo 05 - 2018 / FGV / SEFIN RO / Contador - Word 2016
+
+- **URL:** https://www.youtube.com/watch?v=tkuse5S_pLI
+- **ID:** tkuse5S_pLI
+
+## Transcrição
+
+é isso galera que damos ao nosso quinto
+vídeo que já cinco vídeos que louco
+então mais uma questão dessa vez o onde
+2016 da fgv e uma questão super 100 que
+nesse ano louco é uma ferramenta super
+quem não conhece mas que se desculpa
+droga ajuda demais a gente e é sobre o
+pincel formatação uma questão microsoft
+word o pincel formatação é utilizado
+para a estabelecer critério de cor de
+fundo nas células de um tabela b definir
+padrões de bordas para a tabela sei
+alternar que corri lá é alto e exibição
+de copiar a forma também o trecho e
+aplicá lo em outro ou é desenhar formas
+tais como retângulos certas e eles vão
+descobrir que o pessoal de formatação
+faz é bom
+ele fica aqui o na aba página inicial aí
+de transferência de formatação e aqui se
+você colocar o mouse em cima dele e ele
+vai dizer exatamente o que faz ou
+notificação falham
+bom vamos lá
+gostou da parte de uma seleção
+específica você pode aplicar essa
+aparência em outro conteúdo do documento
+que matou paul carton a escolha queira
+fazer um exemplo
+um exemplo um agente aqui eu vou seguir
+a gabíno instagram arroba é ser um
+mistério
+e aqui embaixo também vou seguir a
+gabíno instagram é ser um mistério
+percebam que é que tá em aires letra 12
+e sublinhado
+e aí está outra aqui está em a livre 11
+e nem tá no nem está sublinhado
+então vamos descobrir o que eu pensava
+a natação faz eu quero esta frase que
+fique em mesma formatação que esta aqui
+o que eu devo fazer
+seleciona o formato que eu quero
+venho em em céu de formatação e
+selecionam aquela que eu quero aplicar a
+carta feita
+resolvemos a questão um simples assim
+então a lei trata de copiar a formatação
+do trecho e aplicá lo em outro beleza
+galera é nós vivemos no próximo vídeo
+valeu

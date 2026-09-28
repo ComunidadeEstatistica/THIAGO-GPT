@@ -1,0 +1,457 @@
+# Métricas de avaliação do modelo - JEDI Adriana Silva
+
+- **URL:** https://www.youtube.com/watch?v=QbcWI9iUlrg
+- **ID:** QbcWI9iUlrg
+
+## Transcrição
+
+e aí
+e aí se você olhar minha trilha aqui no
+estatidados você vai ver que a gente já
+falou sobre regressão linear regressão
+logística árvore de decisão reymond
+forte gradiente bush o que é o verifique
+em e para que serve um modelo esse
+último vídeo para que serve o modelo é
+muito importante que vai dar suporte
+para a gente discutir esse vídeo de
+agora que são as métricas de qualidade
+de ajuste porque as métricas elas são
+baseadas no para que que serve aquele
+meu modelo eu preciso estar muito bem
+alinhado do porque eu estou fazendo
+aquele modelo para eu saber qual métrica
+escolher nesse vídeo aqui nós vamos
+falar de três metas tem em mente que
+existam várias outras e que é importante
+a gente saber as outras também mas para
+caber num tempo resumida minecraft
+curtir três imaginem que eu estou
+querendo fazer um modelo onde minha
+variável resposta é binária eu tô
+querendo prever 101 um evento acontecerá
+um evento não acontecer e aí eu tenho
+meu y e as minhas variável x que são as
+variáveis independentes aquelas
+variáveis que vão me dar suporte para eu
+conseguir fazer um modelo bom
+a ver o meu y meu 0io se o objetivo do
+meu modelo é decisão o que que vai
+acontecer num primeiro momento eu vou
+fazer um modelo e vou gerar uma
+probabilidade de cada uma daquelas
+linhas da minha tabela vai acontecer ou
+não vai acontecer o evento seja a
+probabilidade do evento de sucesso muito
+bem uma vez que eu tirei essas
+probabilidades o que que funciona
+decisão eu tenho que ter um tal do ponto
+de corte que a gente chama de cutoff
+vamos imaginar aqui neste caso que a
+gente seja falando de um ponto de corte
+05 se quer dizer o que você me a
+probabilidade estimada é maior do que 05
+então eu vou chamar o cara de um ele fez
+o evento de interesse se essa
+probabilidade estimada é menor do que 05
+então ele não fez o evento de interesse
+vou chamar ele de zero e aí nesse
+momento a gente cria então a decisão
+atrelada o que o meu modelo disse se o
+meu objetivo de modelagem é decidir
+então agora eu vou ter que calcular
+métricas para ver se eu tô sendo bom em
+relação
+eu estou me propondo a fazer e aí quando
+a gente entra nesse momento a gente tá
+só olhando o que a minha variável real
+que é o meu y e também o meu y estimado
+que veio da probabilidade gerada por
+algum dos algoritmos que eu fiz
+anteriormente gerando que baseado no
+ponto de corte se ele vai fazer o evento
+ou se ele não vai fazer o evento então
+aqui com essas duas informações apenas
+agora a gente vai então trabalhar na
+matriz de confusão e que a matriz de
+confusão do lado aqui deitado a gente
+vai ter a realidade então ou ele era
+zero ou ele era um e em cima a gente vai
+ter estimativa que veio do meu modelo é
+o que eu estou estimando ou ele vai ser
+zero ele vai ser um concorda que vai ter
+situações que eu vou chamar ele de zero
+mas na verdade ele era um eu vou chamar
+ele de zero e na verdade ele era zero aí
+eu acertei então a gente faz essa matriz
+de confusão um contra o outro
+simplesmente para conseguir mensurar o
+quanto que eu estou errando e o quanto
+eu estou acertando
+e se eu vou fazer essa matriz então a
+gente vai ter que ver quantos do que eu
+estou chamando de zero são realmente
+zero quantos o que eu estou chamando de
+zero são uns quantos do que eu estou
+chamando de um são zeros e quanto que eu
+estou chamando de uns que são uns e aí
+no momento da gente preenche essa tabela
+a gente então tem os montantes do que eu
+estou acertando do que eu estou errando
+uma medida muito utilizada quando o meu
+objetivo é decisão é o tal do mês
+klassifikation o que que é um mês
+klassifikation é tudo que eu errei então
+vamos ver aqui o que que eu tô errando
+eu estou errando o que eu chamei de zero
+e na verdade era um e o que eu chamei de
+um e na verdade era zero então se eu for
+somar esses valores eu vou ter o que
+aqui ó uma miss klassifikation de 0,25
+porque 5 / 20qq 2020 o meu conjunto de
+dados é o número n aqui da minha base de
+dados que a soma de todos os as cartelas
+do meio da matriz de confusão então quer
+dizer
+eu tô com modelo que tá errando só 25
+porcento tudo bem o que que é curasse
+são aqueles que eu estou acertando quem
+que eu estou acertando aqui na tabela os
+que eu disse que são uns e são uns e os
+que eu disse que são zeros e são 10
+então se a gente foi fazer essa continha
+aqui a gente vai ter três mais oito que
+dali os 075 ou seja a minha curasse o
+quanto eu estou acertando neste modelo
+são 75 por cento ah então beleza é um
+modelo bom mas a ideia também muito
+importante é que é matriz de confusão dá
+suporte para várias outras métricas
+então eu vou dar um gostinho aqui para
+vocês primeiro a gente precisa entender
+aquele lance de to negative to positive
+falso-positivos e falso-negativos
+primeiro para eu conseguir decorar isso
+eu tive que criar um método e aí eu acho
+que talvez possa te ajudar também quando
+a gente tá olhando do lado das
+estimativas eu seja o que o meu modelo
+me diz que é quando eu chamo de posse
+tiver quando eu caracteriza ele como um
+como meu e vem
+bom então os dois ali vão ser positivo
+quando é zero significa negativo então
+não é o meu evento de interesse então os
+dois ali vão ser negativos quando que é
+tro e quando que é falso tu é quando eu
+acerto ou seja eu chamei de um e era um
+eu chamei de zero e era zero isso é
+outro e o quando é nega tiver quando eu
+errei eu estimei de uma coisa e na
+verdade ele era outra então falso
+positivo é falso negativo também é muito
+bem baseado nessas medidas ali dentro é
+que a gente começa criar métricas que
+vão me dizer o combo ou não bom é o meu
+modelo aqui nós vimos foi me
+classifiquei chão e accuracy que que a
+miss klassifikation tudo o que eu errei
+então o fp que é o falso positivo eu
+chamei de um positivo e errei falso e o
+falso negativo eu chamei de zero né
+gates errei falso então esses dois são
+referentes a minha me classifiquei
+olá eu sou a esses e dividir pela soma
+de todos que é o número de linhas que eu
+tenho no meu dado eu vou ter então o meu
+percentual de erro quantos eu estou
+errando a gente está falando de acurácia
+a gente pode fazer um menos um mês
+klassifikation ou eu posso pegar todos
+que eu estou acertando quem que eu estou
+acertando aqui o tro positivo e outro
+negativo para o positivo eu chamei de um
+e ele realmente era um para onegate eu
+chamei de zero nega aqui e ele realmente
+era zero então eu acertei nesses dois
+casos então se eu quero calcular a minha
+curasse eu posso somar esses dois que eu
+acertei e dividir pelo todo para eu
+saber o percentual do com bom meu modelo
+está só que além disso existem outras
+duas visões que são super sexys e muito
+importante quando a gente está falando
+de decisão que o que o precisão e o
+recall o que que é o presídio presta bem
+atenção na minha frase de todo mundo que
+eu disse que era um ou seja a
+a propósito quantos eu realmente acertei
+esta é minha precisão de todo mundo que
+eu tô mandando você agir em cima quantos
+realmente eu tô acertando é o que
+determina a precisão do meu modelo em
+contrapartida a gente também tem um
+recall que é uma visão muito mais de
+negócio um pouco até estratégica quer o
+quê de todo mundo que era um ou seja
+toda a linha aqui do real igual a um
+quantos eu acertei essa medida ela me dá
+uma noção de alcance e elas são uma
+contra a outra enquanto precisão cai
+ficou aumenta o que eu quero dizer com
+isso quanto mais preciso eu sou menos
+gente eu tô pegando do que realmente me
+interessa pegar que são uns então o
+recall ele me dá uma noção de quanto que
+eu tô pegando do que realmente eu quero
+pegar eu posso ter um modelo que é super
+preciso mas que só pega dez porcento dos
+indivíduos totais que eu tenho interesse
+às vezes isso não vai
+e para negócio não vai ser o modelo tão
+sexy por isso que eu digo muito que me
+classifiquei isso me acordar vocês vão
+medidas um pouco pobre porque elas não
+vão me dar a real sensação do com bom é
+aquele meu modelo mas para sim
+comparativa uma medida muito boa no
+entanto para quando a gente está
+decidindo o modelo de decisão é
+importante ficar brincando com preciso
+de um recall mudando a variação daquele
+cutoff que eu disse anteriormente que é
+o ponto de corte para dizer que é um
+para eu dizer que zero porque isso daí
+que vai ter a graça que vai fazer a
+negociação no momento que a gente tá
+modelando a vida real e é por isso que
+eu sempre falo dito insisto não existe
+modelo assertivo hoje eu já nem sei mais
+o que isso quer dizer quer dizer que o
+meu modelo tá bom na verdade assertiva é
+uma pessoa que sabe se falar bem por
+isso que eu brinco que assertiva é minha
+mãe o meu modelo é acurado ele pode ser
+a curado ou então preciso que nem a
+gente viu anteriormente onde accuracy é
+o quanto que eu estou acertando olhando
+tanto 0 os pontos 1 e precisão é o
+quanto de todo
+e eu tô dizendo que vai fazer o evento
+quantos realmente estão fazendo certo
+então assertivo nunca mais muito bem a
+gente falou sobre o modelo de decisão
+onde a gente viu me classifiquei chão
+accuracy precision and recall são
+medidas muito importante para a gente
+conseguir decidir que modelo é o melhor
+para mim quando o nosso objetivo muda
+está de decisão e vai para ordenação
+nesse momento o nome já diz eu preciso o
+ordenar e agora a probabilidade ela não
+vai me fazer um papel para eu criar um
+ponto de corte definir c0e um agora eu
+vou usar essa probabilidade estimada
+para ordenação então a primeira coisa
+que eu tenho que fazer nesse exemplo
+aqui é ordenar
+o meu sonho era conseguir fazer isso na
+vida real uma vez que eu ordenei isso o
+que que eu espero bom e vou molhar a
+minha taxa de resposta da base toda ou
+seja se eu não fizesse nenhum modelo e
+pegasse dez pessoas quando eu esperaria
+ter de resposta ali bom eu vou para
+média taxa média aqui é o que então 10
+respondedores um 1001 então esse 10
+sobre 20 que vai dar 0,5 se eu tiver 100
+pessoas aqui eu pegar aleatoriamente 10
+eu espero que seja metade zero os metade
+uns ou seja metade faz o evento metade
+não faz o evento porque porque a taxa
+média 0,5 muito bem só que se eu tô
+fazendo um modelo e esse modelo é bom
+suficiente no momento em que o ordeno eu
+espero que aconteça o que que uns um
+subam pros um subir em então a gente vai
+ter que inventar uma métrica que
+realmente me diga que os anjos estão
+para cima a então vamos lá para eu jogar
+o suns
+e eu teria que fazer grupinhos e nesses
+grupos eu ver quanto um estão em cima e
+o quanto uns tão um baixo é muito comum
+a gente usar percentis para isso mas
+para poder contextualizar aqui eu vou
+fazer a divisão nos quartis por quê
+porque eu quero você vai poder dividir
+em quantos você quiser aqui minha base é
+pequena não tem como dividir de 10 em 10
+mas eu vou dividir de 25 e 25 porcento
+para ter volume em cada pedacinho desse
+na vida real você vai ter que ver o que
+que o negócio que é para você entender
+como que deve ser exatamente essa sua
+divisão de grupos muito bem dividir aqui
+em quartis se o meu modelo é muito bom
+para ordenação o que que eu espero bom
+então eu espero que nos primeiros 25
+porcento tenha realmente uma taxa de
+resposta muito melhor do que a taxa de
+resposta da base inteira então primeira
+coisa que eu vou fazer vai ser calcular
+a taxa de resposta nesse primeiro grupo
+que são os 25 porcento da minha base a
+gente tem 20 linhas 25% dela a gente tá
+falando
+e com dívidas então eu vou pegar esse
+primeiro quartil de 25 por cento e vou
+ver quantos são uns observa em ali são
+quatro uns contra cinco então 4 / 5 vai
+me dar o quê 0,8 de taxa de resposta no
+primeiro quartil beleza quando 0,8 é
+melhor do que 0,5 aí entra medida muito
+forte de ordenação que eu lift é
+simplesmente fazer 0,8 / 0,5 que vai dar
+1,6 que que significa significa que eu
+sou sessenta por cento melhor do que não
+fazer nada em relação a uma seleção de
+indivíduos que quer dizer o que vamos
+maginar se eu tô dizendo que meu lift a
+1,6 quer dizer o que chefinho o chefe
+presta atenção no que eu tô dizendo se
+você não me contrata você vai pegar
+aleatóriamente porque você não sabe quem
+pegar quem tá fazendo um modelo aqui sou
+eu então de 100 pessoas se você pegar
+aleatória
+e essa 100 pessoas se você pegar 100
+pessoas aleatoriamente do seu banco de
+dados quer dizer que você vai esperar
+que 0,5 que a sua taxa média de retorno
+no começo o evento que você tá buscando
+então de 100 50 pessoas vão fazer o
+evento outras 50 não vão fazer quer
+dizer o que você vai impactar sem você
+vai gastar concentra te retorno só de 50
+beleza chefe olha como eu sou e
+como esse meu modelo é bom se você pegar
+quem eu estou pedindo para você pegar em
+vez de você ter de 100 somente 50 te
+respondendo agora de 100 a gente vai ter
+80 te respondendo eu estou dando um
+implemento de sessenta por cento no seu
+retorno por isso o livro te deu 1,6
+então quer dizer o que eu sou muito
+melhor do que esse aleatório se for para
+contar com alguém contar comigo o que
+que a gente entende disso que o lift ele
+é o número que varia de infinito até um
+ou seja de uma infinito quer dizer o que
+que quando eu pegar minha base inteira
+que seria todas essas faixas ou seja
+pegar o primeiro você
+o meu quarto quartil acumulado a gente
+vai chegar no lift de 0,5 / 0,5 que dá
+exatamente um no entanto quanto eu vou
+pegando os primeiros com artes que está
+ordenado quer dizer o que eu tô tendo
+taxa de respostas melhores naquele
+público então por isso que o livro é uma
+medida que ela é feita por cortes e aí
+aqui no caso eu fiz em quartis e o como
+eu interpreto ela é sempre tirando um de
+1,6 tirando um das seis significa o quê
+sessenta por cento a mais de incremento
+se tivesse dado quatro seriam 300
+porcentual mais de incremento se quer
+dizer o que meu modelo é bom opa então
+aí eu já tenho uma orientação hoje eu
+consigo até vender meu peixe para o meu
+chefe dizendo com útil tá sendo meu
+trabalho por aquele negócio que a gente
+tá fazendo só que a gente viu que o
+modelo serve tanto para decisão quanto
+poder nação mas ele também pode servir
+para este motiva e aí quando que o
+modelo é bom para estimativa bom quando
+a pro
+a cidade gerado enfim ela é muito
+importante para mim porque aqui não só
+tá falando de variáveis binárias você
+quer dizer o que a probabilidade ela não
+pode estar sobre ajustada nem andar
+ajustado ela precisa tá na perfeição
+porque depois eu vou multiplicar essa
+probabilidade por alguma coisa por isso
+é importante ter visto vídeo anterior
+muito bem se eu tô falando de querer
+gerar uma medida que me diga com um bom
+tá sendo aquela probabilidade específica
+não sendo nem para decisão nem para
+ordenação então aí a gente vem com uma
+medida real de erro que medida seria a
+essa bom eu vou fazer a diferença do
+real menos um estimado adriana mas é
+compra e não compra 01 como é que você
+vai diminuir de uma probabilidade o
+conceito exatamente o mesmo isso é muito
+curioso se o cara é zero eu espero que
+minha probabilidade seja o que seja bem
+pequena para ela ser precisa porque ele
+não vai fazer o evento se o cara é um eu
+preciso que que a probabilidade estimada
+para ele seja bem perto de um porque ele
+faz o evento
+bom então se foi exatamente isso eu vou
+calcular as distâncias entre 0 e 1 e eu
+vou ter uma noção de quão impreciso esse
+meu modelo está sendo tô aqui se eu
+fizer o real menos o estimado somar tudo
+isso tendo da zero então o que que
+fizemos vamos calcular esse erro ao
+quadrado uma vez que o cálculo este erro
+a quadrado eu consigo calcular o everton
+escorel porque o ah ah e que nada mais é
+do que uma média desses erros ao
+quadrado e aí aqui neste caso de 10 18
+isso quer dizer o que essa medida não é
+uma medida que eu consegui interpretar
+por quê porque ela está o quadrada que
+eu brinco com meus alunos ela tá na lua
+na lua não vou ter interpretação daqui
+da terra então eu não conseguiria ter um
+a interpretação desse número é que nem a
+variante no entanto eu consigo o que
+comparar modelos então para eu escolher
+o modelo que menos erra eu posso olhar o
+acesso e dentre os modelos o que tiveram
+menor é o melhor para mim então repare
+eu tenho várias medidas sendo que cada
+uma delas elas têm uma bus
+e para decisão ordenação uma estimativa
+nesse caso aqui a gente falou sobre
+acurácia e me classifiquei chão para
+decisão a gente falou sobre o lift para
+ordenação e falamos agora sobre o a e
+quando o meu objetivo é estimativa então
+reparem que existem várias outras e que
+você pode buscar aí por aí na internet
+também que existe muito material
+disponível espero que tenha sido claro
+que você tenha gostado desse vídeo zinho
+e aí eu te convido para navegar um pouco
+no meu site porque tem muito material
+legal me seguir no instagram no facebook
+essas coisas todas o linkedin ambos que
+eu mais uso além disso eu gostaria de
+recomendar duas leituras que eu acho que
+vale bastante a pena se você já assistiu
+esses vídeos e o anterior que tal também
+tem isso escrito e lá no meu site eu
+tenho dois e-books que falou exatamente
+por que serve o modelo e quais são as
+métricas aqui nessas métricas eu explico
+também essas que a gente acabou de falar
+espero que vocês tenham gostado que
+tenha sido útil beijo e

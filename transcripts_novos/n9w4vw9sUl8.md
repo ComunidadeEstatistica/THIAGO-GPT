@@ -1,0 +1,547 @@
+# Tutorial Sapevo M - Thiago Marques (IME)
+
+- **URL:** https://www.youtube.com/watch?v=n9w4vw9sUl8
+- **ID:** n9w4vw9sUl8
+
+## Transcrição
+
+olá pessoal aqui quem fala é o tiago max
+eu sou aluno do instituto militar de
+engenharia ime e eu recebi um desafio na
+disciplina de apoio computacional tomada
+de decisões de implementar o método sa
+pelo m é um método multicritério de
+tomada de decisão né
+o nome dele é sim porque deixa pro
+france presse bairro de novatos no
+título decision makers é o método dos
+aterro m
+o método sap erro ele foi criado em 1997
+pelo carlos simone gomes é um dos nomes
+a 'grande da pior e o meu professor
+marcos santos também aí um excelente
+professor um nome muito forte na
+pesquisa operacional ea disciplina em
+conjunto também com o coronel afonso
+lopes paula fumsoft excelente professor
+também e eles pediram para que eu
+desenvolvesse guiné em um algoritmo que
+facilitassem o uso da metodologia e pra
+isso eu criei algumas funções no r
+e eu tô gravando esse tutorial aqui para
+ensinar como é que funciona
+mas antes disso eu queria falar nem bem
+raso nem falar um pouquinho do methodus
+a pm então basicamente a gente consegue
+dividir em duas etapas desse método está
+a primeira etapa a gente tem uma
+transformação ordinal de preferência
+entre critérios expressa por um vetor de
+peso dos critérios
+tá então basicamente aqui eu tenho um
+exemplo é um projecto que o ranking
+carros
+tá eu tenho dois especialistas está são
+os decisores que vão tomar as decisões
+nem e também serem é só os que vão
+avaliar os critérios alternativos
+quais são as alternativas têm aqui os
+modelos de carro ford ka ônix e prisma
+escritórios conforto e design
+dirigibilidade
+beleza então basicamente na primeira
+etapa
+eu faço uma transformação original de
+preferência entre os critérios está e eu
+vou gerar um peso segundo cada
+especialista
+tá na segunda etapa
+eu faço uma transformação original da
+preferência entre as alternativas
+o primeiro critério está na primeira
+etapa e depois a gente faz das
+alternativas que as alternativas entre o
+ford ka única esse prisma mesmo né
+e aí dentro de cada critério a gente vai
+conseguir é conseguir expressar uma
+matriz de avaliação no final né
+compilando todas essas preferências está
+então basicamente funciona dessa forma
+ok então aqui na primeira etapa
+já partindo aqui para o entendimento do
+do algoritmo a gente tem a gente entra
+aqui entre aspas com o nome do projeto
+tá aqui o nome dos desses anos está aqui
+eu voltei especialista um especialista a
+dor está como exemplo
+aqui a gente tem os modelos de carros
+são as alternativas está o ford ka ônix
+e primos que são as alternativas que eu
+quero fazer uma escolha tomar uma
+decisão
+tá e baseado que quais são os critérios
+conforto design dirigibilidade beleza
+não tá então primeira etapa aqui o que
+esses vetores aqui ele representa né
+como é que eu entro com esses vetores
+aqui eu vou ter uma primeira tabela está
+em relação à avaliação dos critérios
+está esse critério vão ser avaliado de
+forma a gente tem aqui uma escala
+nominal está absolutamente pior muito
+pior pior equivalente melhor muito
+melhor
+absolutamente melhor é basicamente uma
+escala de liquidez sete pontos tá então
+que vai de menos 3 a 3
+tá e aí de acordo com a preferência na
+pessoa em relação ao critério tá
+conforto eu voltei aqui o conforto ver
+esse conforto vai ser o que o conforto
+de conforto equivalente porque não tem
+como diferenciar quem está avaliando o
+primeiro especialista 1
+então vamos lá qual segundo conforto
+versus design o que o especialista um
+disse
+ele falou ele de um de peso qual é o que
+se quer só escala está dizendo
+1 ele está dizendo a que o conforto é
+melhor do que eu dirigi dirigibilidade e
+ele dá atribui um essa
+essa é avaliação tá
+e aqui ele vai ter o conforto verso
+dirige é aqui foi design conforto vez
+dirigibilidade ele falou que é zero ou
+seja tanto faz conforto dirigibilidade
+pra ele fala que o equivalente tá e aí
+aqui vão ser simétrica york foi o
+conforto e design aqui vai ser design
+conforto então é menos um tapa porque o
+réu simétrico dele tá aqui também seria
+o simétrico mais assimétrico de 0 a 0
+mesmo tá então é como se eu tivesse
+transpondo tá e aí aqui na diagonal
+principal é sempre zero porque eu tenho
+o conforto conforto com for design vezes
+design dirigibilidade vs dirigibilidade
+ou seja equivalente então a a diagonal
+principal vai ser simples é a próxima
+comparação né
+o design versus dirigibilidade e aí ele
+falou menos dois que é que isso quer
+dizer
+- 2 ele fala que o design é muito pior
+do que a dirigibilidade
+segundo o especialista um tá então os
+médicos dele vai ser o que é muito
+melhor então aqui coloco ele aqui tá
+então como ficou o nosso retorno 10 10 -
+10 - 2020 então se percebeu o que eu
+estou entrando com ele pelas linhas né
+então aqui o vetor vai ser a compilação
+de todas as linhas da minha primeira
+tabela aqui tá e aí eu tenho o segundo
+precisou quem vai vai avaliar os
+critérios também tá e aí o segundo
+precisou a mesma coisa vamos fazer aqui
+uma outra tabela pra ele tá mesmo os
+critérios não é conforto design dia
+habilidade está a diagonal principal vai
+ser sempre porque é confortável esse
+conforto design e design elegibilidade
+de dirigibilidade tá e aí o conforto
+versus design o segundo o especialista 2
+ele já falou que o 2 é muito melhor
+ele fala que o conforto pra ele o
+critério conforto é muito melhor do que
+o design e leva em consideração muito
+mais conforto do que o design está já o
+conforto versus a dirigibilidade de
+botton então ó ele falou que é melhor dá
+o conforto é melhor do que a
+dirigibilidade 1 não é tão quanto o
+design é pra ele tá ea quem de botas
+simétricos da mesma forma aqui ele falou
+que de design verso dirigibilidade
+equivalente então a gente terminou aqui
+também então a 02 10 21 - 20 - 100 então
+a gente montou aqui
+reparem que tem o seu zezinho que o que
+indica para o r1 vetor tá então toda vez
+que entrar aqui quando focar a terra
+você tem que entrar com aspas tá e tem
+que entrar com victor zinho aqui quando
+tem mais de 1 para indicar que o retorno
+tá e aí essa é a forma a de gerar
+manualmente da ossa pelo peso e aí do
+momento que se rodasse vai obter
+despesas referente a cada critério
+segundo os especialistas beleza e aí
+momento você tem o peso você pode rodar
+os aterros ranking está o sapo ranking
+está aqui embaixo
+é o que a mesma coisa entra aqui ó
+o projeto os especialistas não os
+decisores as alternativas e escritórios
+e aí eu entro aqui o vetor peso que foi
+gerada automaticamente pelo só pelo peso
+está esse vetor peso aqui ok
+e aí como é que eu vou como funciona a
+segunda parte na segunda porte é a
+preferência entre as alternativas a
+gente fez critério não fez o critério
+que conforto design dirigibilidade
+alternativa vai ser o que ford ka único
+sipri
+tá e aí agora a gente vai ver o
+especialista um ai vai
+o primeiro critério a especialista um
+depois segundo critério e assim por
+diante
+tá aqui ó vamos lá ó o especialista um
+primeiro critério é conforto
+tá e aí a gente voltou aqui o ford ka
+ônix prisma né
+pode ficar um unix prisma agora está com
+a matriz de alternativa está aqui foi a
+matriz de critérios está então ó na
+diagonal vai continuar sendo 10 está
+porque pode cada vez ford ka equivalente
+né
+olha que tiveram antes equivalente assim
+por diante agora ford ka vs sonics menos
+dois
+segundo o especialista um e confie no
+conforto
+então pra ele o conforto do do ford ka
+em relação ao unix é muito pior
+tá já o ford ka em relação ao prisma
+também é muito pior
+tá então ele avaliou dessa forma agora o
+une a iacc são simétricos na então se
+ele falou que é muito pior que vai ser
+muito melhor e aqui também vai ser muito
+melhor
+tá simétricos aqui vai ser jean e aqui
+ônix versus primo ele falou que há menos
+11 ou seja o ônix pra ele em termos de
+conforto é pior do que o primo
+tá e aí eu copiei aqui para o primeiro
+especialista o conforto e agora ele tá
+aqui ó 0 - 2 220 menos 12 10
+tá e assim por diante aqui o aí eu
+entrei aqui o vetor natas decisor um
+critério um retorno desses o dois
+critérios 1 agora eu vou poder co2 para
+o mesmo critério é 2 mesmo critério com
+conforto e aí vai vai assim né mesma
+coisa ele vai querer vai pegar a aaa por
+linha né
+e aí eu vou entrando aqui ó 0 - 1 - 3 10
+- 23 2 a 1 e assim por diante eu vou
+fazendo isso pra cada
+para cada especialista e para dentro de
+cada critério tá então no final a gente
+teve o que 3456 tabelas que questões que
+porque o que eu tenho 32 especialistas e
+três critérios 326 então vai ser um
+número de de matriz que eu vou te matar
+agora você imagina a medida que o
+aumento aqui o número de decisores a o
+número de alternativas ao número de
+critérios
+eu posso te matriz maiores concorda e
+ficaria bastante chato de você colocar
+na mão né eu até fiz um tutorial que
+ensina
+dessa forma pra você poder também fazer
+o anúncio você quiser
+tá também não é nada custoso é porque
+você tem vai ter sempre este métricos em
+ea matriz diagonal sempre né 0
+então é muito mais fácil mas imagina que
+você tenha sei lá pô é vamos voar bota e
+55 alternativa de cinco critérios
+a gente vai ter cinco quadrado 25 mas só
+vão ser 25 tabelas dessa aqui no quadro
+desse aqui 25 matrizes né
+então fica muito ruim de fazer por
+exemplo na mão né
+então a gente desenvolveu essa solução e
+pra você colocar um input aqui na não
+ficaria ruim também tá logo eu coloquei
+eu desenvolvia o sapateiro input pesos e
+os appel input ranking que eles fazem
+ele geram e automaticamente pra
+gente do saber e do saber o peso e do
+sapo ranking ea gente vai ver exatamente
+como é que trabalha com colocando os
+pesos colocando as entradas automática
+está então vamos lá então o pessoal aqui
+a gente já estava aqui no nosso estúdio
+tá que é a idéia mais utilizada e para o
+r
+então a gente tem aqui como é que a
+gente vai fazer para utilizar né
+a gente vai vai utilizar da seguinte
+forma primeiro a gente tem que instalar
+o pacote está e depois a gente carrega o
+pacote está lá você pega o pacote do
+cram entregue para sua máquina é que
+musicalmente falando tá você traz um
+pacote para sua máquina e aí você
+carrega o pacote para utilizar o pacote
+basicamente são funções que os usuários
+desenvolvem é que é utilizado para
+resolver uma solução né
+e eles usam isso reiteradamente então
+faz sentido você empacotar essa solução
+para comprar usar tá beleza
+então a gente tem aqui está o ponto pec
+deve turista o débito zé o pacote que
+vai habilitar se está o hit run bitta
+porque coloquei esses algoritmos que eu
+desenvolvi nome de ruby
+tá e aí a gente vai ter que baixar do
+derrame e pra isso a gente precisa dos
+débitos
+só que como já está além como é que eu
+faria para instalar eu clico aqui tá ou
+selecionam tudo ou só seleciona uma
+linha aqui ou em qualquer lugar aqui
+semana cursor é só apertar aqui em cima
+ou apertar contra o enter
+ele roda tá aqui eu vou carregar os
+pacotes então como já dizia estarei na
+minha máquina é só carregar
+então tô carreguei o débito está vou
+carregá lo sapevo input peso saber o
+peso o saber o input ranking e os
+apelantes tá beleza aí aqui a gente tem
+no na janela anterior que a gente tava a
+gente tem aqui manualmente tá só que eu
+quero gerar assim eu quero gerar tudo
+isso aqui automaticamente está como é
+que eu vou fazer
+a gente tem esse saber o input presas
+aqui tá e aí ó como é que eu faço pra
+rodar eu clico aqui do lado em qualquer
+lugar né e o dólar ou eu vou contra o
+entertainment eu vou dar contra o enter
+the control em ter aí a gente aparece
+aqui no pronto aqui embaixo
+qual o nome do projeto eu vou entrar
+exatamente com quintais
+aqui tá ó ranking carro está em carros
+quais são os decisores
+ele pergunta pra gente quem são os
+decisores é o que é especialista um
+especialista 2
+tá eu vou tirar só aspas né porque aqui
+não precisa de ajuda está essa bota
+vírgula especial está um especialista
+dois quais são as alternativas
+ford ka o vovô destaque o ford ka unix e
+aí eu entro na rua talim igualzinho não
+botar aquela letra maiúscula para ficar
+bonitinho unix prisma
+beleza agora ele pergunta quais são os
+critérios do projeto critério o conforto
+design de visibilidade conforto livro
+design vivo dirigibilidade beleza e aí
+quem lhe pergunta pra gente
+ó é conforto vestes design está
+lembrando daquela tabela né a gente vai
+ter o que é o primeiro é sempre 0 né
+aqui a primeira comparação que ele vai
+ter na então eu vou colocar aqui a 1
+vamos lá conforto design vou entrar um
+conforto da seed dirigibilidade
+vou entrar com 10 design verso
+dirigibilidade
+ele já está falando aqui ó desse cara
+que tá então vou entrar com menos dois
+beleza
+ai lá ele ele gerou aqui ó
+já um vetor aqui ó tá vendo ele já tem
+aqui há alternativas a que hoje têm
+alternativas critérios e os decisores tá
+e a gente tem um vetor aqui já com a
+minha saída daqui de cima da nossa 0 10
+- 2020 tá beleza legal
+ele deu 11 ic de expressão regular mas
+eu não tenho problema foi por causa do
+incômodo de itamar mas tem problema não
+só aqui é tranqüilo
+e aí ele pergunta conforto versa
+dirigibilidade agora está indo
+especialista 2
+tá agora a gente vai poder se só dois já
+tá nesse segundo vetor aqui então a
+gente vai votar aqui o 2 x 1 e agora ó 0
+tá lá agora olha o que ele me devolveu
+ele me devolveu exatamente a 0 21 - 20 -
+100 os vetores que estão aqui e certo
+então ó eu gerei aqui o meu projeto eu
+vou botar cadê o meu projeto aqui
+ele ainda num ele ainda não gerou o
+projeto mas aí a gente bota aqui o
+projeto pode botar pra ele
+qual foi o projeto quem não gerou depois
+eu vou alterar aqui
+agora ele tem ao projeto e decisores
+critérios alternativa projeto de
+decisões alternativas e critério está
+igualzinho aqui tá
+esses caras são os objetos que guardam
+esses elementos aqui
+ok e eu tenho agora olha só um objeto
+que eu gerei vetor final né
+então se eu chamar que o vitor final
+olha só ele me traz os vetores que eu
+quero que e aqui ele me dá um índice
+então eu vou colocar os índices a esse
+cara que o primeiro né então o alto
+índice de li aqui esse cara que o
+segundo então pega esse cara que jogou
+aqui tá então basicamente o seu geral só
+pelo peso o o nome de seu projeto é
+ranking carros alternativos ford ka
+critérios conforto e design de
+elegibilidade e ele me dá os pesos pra
+entrar não só pelo ranking
+tá bom vamos ver se ele o automático
+funcionou exatamente o mesmo resultado
+concorda legal
+agora a gente pode usar o que a gente
+usou calculou né saber o peso para os
+aterros ranking
+tá pra ele poder gerar agora em relação
+à as alternativas está a gente fez em
+relação aos critérios e agora a gente a
+coisa em relação às alternativas dentro
+de casa é critério beleza legal e ó como
+é que eu boto mesma coisa né até aqui é
+igual né
+só que eu entro aqui um vetor peso nem
+que foi o retorno ao clado tá ele gerou
+aqui eu tava no vetor peso
+tá eu chamava ator peso ele traz
+exatamente um vetor que foi gerado a
+conforto 1.8 e design elegibilidade 1.2
+tá
+e aqui eu vou ter que entrar ao retorno
+à decisão um critério um ele vai gerar
+esse vetor aqui tá então eu vou ter que
+gerar esses vetores aqui beleza
+então vamos lá agora vou gerar
+automaticamente nuno sá pinto em putin
+ranking tá então qual o nome do projeto
+é a mesma coisa né
+vamos lá ranking carros
+é quem são os decisores especialista um
+especialista a 2
+há alternativas fora de casa
+o unix prisma a critérios do projeto
+conforto conforto design e
+dirigibilidade e aí ele pergunta o
+especialista um e conforto ou seja
+decisor on e critério um tá eu tenho que
+dizer pra ele aqui esse cara aqui ele é
+sempre zero é esse cara que a primeira
+comparação então vamos lá - 2 - 2 e
+agora eu entro com menos um e aí ele já
+gerou aqui pra mim né tá aqui ó gerando
+o vetor tá e aí ele pergunta
+especialista um design agora até então o
+seguinte ele está o especialista um ou
+seja a decisão ainda está aqui o decisor
+do está então tem que ir pra cá o
+decisor um critério meritório 2
+tá ele está ele está aqui no ele quer o
+especialista um design ou seja decisor
+um critério 2 tá então vamos entrar que
+vai ser 0 1
+havana 01 é esse cara aqui ó e 10 beleza
+criou já tô nem aí ele vai acumulando
+também optem se alistam dirigibilidade
+ou seja estou aqui já no critério três
+desses 11
+tá então vai ser - 1 - 1 e 3
+beleza então agora já acabou todos do
+especialista um né então ele vai o
+especialista dois primeiro critério
+então volto aqui ó especialista dois
+primeiro critério então vai ficar - 1 -
+3 - 1 - 3 - 1 - 3 e -2 legal segundo
+critério do decisor 2 - 1 - num e 1 - 1
+- 1 e 1
+ele já criou também agora a gente vai
+pro último dois né - 2 - 2 e 1 - 2 - 2 e
+1 e agora ó ele é da saída com todos os
+vetores pra você imputar no saber o
+ranking
+só que aí você tem que tomar cuidado com
+o seguinte olha só a mesma coisa né bota
+o projeto desses horários alternativos
+critério for os objectos que lhe gerou e
+aí a gente vem aqui ó vetor final e aí
+vai pegar nos índices só o primeiro cara
+é o que esse cara aqui mas sei o que vai
+ser primeiro primeiro especialista
+critério um chato primeiro especialista
+critério um tem que ser 0 2 -2 tá então
+a beleza
+o segundo vai ser o que vai ser segundo
+o especialista critério 11 segundo
+especialista critério um vai ser esse
+cara aqui ó 0 - 1 - 3 com 10
+vai ser 1 a 0 - 1 - 3 102 tá porquê
+porque primeiro ele faz especialista um
+critério um especialista do
+o critério 2000 subir aqui ó
+especialista é um critério um
+especialista um critério 2 especialista
+um critério 3
+e aí ele vai para o especialista do
+escritório um tá e aí ele chega esse
+cara aqui beleza
+tá então só tomar cuidado na hora de de
+colocar aqui os índices respectivos né
+pra não colocar errado tá então só tomar
+esse cuidado mas no final é só você
+colocar aqui todos os índices e
+colocando beleza e aí ó se você rodar
+aqui ele falou ele que eles querem lhe
+deu de sair né
+ele deu o nome do projeto de deus até as
+alternativas os critérios o peso de uma
+matriz de avaliação
+tá que é a alternativa nesse critério
+nos peso está a pontuação de dois
+critérios como é que foi
+de forma geral né o design foi 3
+dirigibilidade 3.2 que for maior
+a dirigibilidade foi o que foi levado
+mais em consideração a e no final também
+ele te dá o ranking das alternativas tão
+quem foi escolhido porque em conjunto
+pelos dois especialistas foi prima está
+o prima teve quatro pontos 46 de
+ranqueamento de denota tá então o
+ranking dele foi primeiro segundo foi o
+único que o terceiro foi o ford ka
+segundo os especialistas esse agente
+rodar agora o o automático também tem
+que gerar um mesmo estado
+vamos ver se gerou o corte foi o prisma
+foi o primeiro ônix beleza tudo certinho
+3 beleza
+então esse foi o
+o tutorial do methodus a tvn eu espero
+que vocês tenham gostado utilizem
+bastante aí qualquer dúvida é só mandar
+um e mail escrever aqui mesmo no no
+canal está fica à vontade aí valeu forte
+abraço em francês falou

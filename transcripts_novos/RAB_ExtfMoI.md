@@ -1,0 +1,1872 @@
+# Live Walison Abreu - Projeto final Udacity - Head of Data Science Tecnologia Inteligente Ltda
+
+- **URL:** https://www.youtube.com/watch?v=RAB_ExtfMoI
+- **ID:** RAB_ExtfMoI
+
+## Transcrição
+
+e aí
+tá bom então vamos lá vamos começar aí é
+um prazer receber o tal alisson você aí
+que sempre deu apoio para gente né não
+só a comunidade estatística como do
+minerando também né você vem apoiando aí
+a gente não brinquedinho tudo mais desde
+sempre agradeço bastante tá e é um
+prazer aí tá recebendo você no seu
+projeto ainda iodaste né você conseguiu
+obter de forma né e boa sorte tudo de
+bom e manda para nós aí para gente valeu
+tchau legal tchau obrigado mesmo valeu o
+celular dele aí é uma noite pessoal bom
+o seguinte deixa eu deixa eu dar um bife
+que a gente começar é o que que a gente
+espera cobrir aqui que você se nossa vai
+ser a nossa agenda tá a ideia que a
+gente vai usar como tiago citou aí um
+projeto de análise exploratória em r que
+na verdade
+o projeto do nome de explicações que foi
+um curso muito muito bem dividida que
+foi uma parte um pai então de
+aprendizado unidades prisionais e
+não-supervisionado uma parte adulto e
+projeto final fui em r porque eu já
+totalmente aberto para o aluno
+desenvolver essas que os de de análise
+para tória de entendimento de problema
+de negócio do batizado e quando eu levo
+pro aluno adulto na caso não consegui
+virtual deles é interessante que você
+tinha que ver o código em python e gerar
+na mão uma criador e o redutor e rodagem
+adultos da audácia maneira que legal
+então assim que o que é o objetivo é
+porque eu quis compartilhar com vocês
+mostrar primeiro primeiro
+eu não não sou a pessoa utilizada por
+esta mais agora é uma cdr no no como
+assim depois eu fui para o pai com aí na
+dado essa necessidade da esse projeto
+saiu da sic chegou eu quero ser
+completamente perdido né porque a gente
+vai mostrar que uma série de trechos de
+código pode parecer com uma coisa é
+muito simples ou muito complexa na
+verdade não é nenhum dos dois vai
+depender muito do da sua habilidade de
+olhar para que eu lhe entender qual é o
+objetivo ou propósito e estudar essas
+pequenos blocos de conhecimentos
+coletivos então tá bem quente discuta
+quais são os quais são as etapas que
+foram seguidas esse projeto para nós
+escritório não necessariamente o que o
+conduzia aqui foi a melhor abordagem que
+pode ser feito de n maneiras com ele
+forma diferente é o projeto
+as premissas ou seja atma ruga do
+projeto que fala seguir algumas
+premissas depois eu vou mandar junto do
+material que vai complementar uma dessa
+a nossa experiência aqui para que todos
+possam ver e uma das premissas é que
+fosse gerado r markdown que é semelhante
+a um fenótipo é seguindo alguns algumas
+uma sequência de entradas de raciocínio
+de etapas do processo armário da
+assistir lá tem um mecanismo de anti
+plágio e validação de código tão é super
+subjetivos seguindo essas tendências que
+antes eles fazem uma varredura no código
+detectar plágio depois eles fazem a
+validação a seu pai já acordou não numa
+parte automatizada e a parte final que o
+revisor tá então então depois que eu fiz
+esse projeto nem ops eu vou abrir terça
+que posta terço com problema discutir de
+deus português
+e como você digita muito linha de código
+lá do documento da escola eu não sou
+desenvolvedor e achei quem também não
+pensa escola desenvolvimento deve
+entender essa tipo da gestão documental
+código um negócio assim já é o passo já
+teve muito trabalho para fazer o código
+funcionar e depois tem que documentar as
+causas essa daqui exploratória
+necessário então eu fiz uma forma muito
+mais você tá é sim senão a gente vai
+seguindo aqui qualquer dúvida qualquer
+momento podem interromper vou te pedir
+já não para você pegar um gancho sempre
+abordar o termo além cadú tá no quadrado
+aí para estatística vou te dar abertura
+para que você se você quiser fazer uma
+vendo uma explicação pouco mais denso
+melhor olha por favor tá beleza então o
+que está no estúdio aqui já paga um
+pouco mais ser realizado com êxito aí
+você falando aqui ó desenvolvedor
+documento a menos ainda do código falo
+por experiência própria a
+bom então aqui a gente tem o r-studio é
+o falei que os clipes aqui a gente tem o
+r markdown que basicamente pode iniciar
+uma logo r markdown aqui mesmo pelo
+menos ele vai te dar as opções
+apresentação charlie e tudo mais
+e ele vai ficar assim ah deixou só
+e ginástica santa maria clara ok então
+basicamente que ele é um documento que
+ele tem uma votação de código que ao
+final desse processo a gente pode gerar
+uma saída a com vários tipos de arquivos
+tá então aqui a gente tem um cabeçalho
+que isso a gente pode inserir outros
+outras opções de menu flutuante pode ir
+para css melhorar esse corte html como
+não era esse o objetivo oficial título
+simples a gente vai usar esse cara aqui
+ó knit knit eu fiz da lotação aí ele
+estabelece um só água discussions o que
+que são os jogos acaba linhazinha da
+assistir missão de seria um aqui para
+gente ir
+o tipo júpiter notebook é isso
+exatamente então aqui ó
+e ele vai inseriu natação que você pode
+ou não colocar o teu quarto tá ok então
+eu vou entrar que já tá mentindo para
+qualquer objetivo é o conjunto cidade
+ele tem 1.600 observações sobre as
+calças você clica 11 aí para inseriu o
+shampoo ah desculpa tá aparecendo aí
+aqui ó insert beleza tá ótimo não vai
+levar deixou legal e aqui nesse
+intervalo no centro com teu código
+direto
+e você pode rodar esse cara deixando só
+colocar um negócio aqui mas não vai
+abrir uma
+e aí
+e ele vai jogar para cá tá vendo agora
+dele executar aquilo console ele vai
+jogar dentro do próprio documento o teu
+chuck tô pedaço do código coloquei a
+gente pode navegar por exemplo as
+primeiras linhas o convite dados legal
+quem pensa que a locação pode ser uma
+série de parâmetros aqui para você por
+exemplo definir um padrão de
+posicionamento no documento de seus
+gráficos para que todos tenham o mesmo
+tamanho enfim tem uma série de pessoas
+podem ser servidas aqui no lugar
+objetivo eu acabei também não tem
+conhecimento de todas as secções eu
+recebi documentação depois mas eu não
+vou tanto do conjunto de dados então a
+gente tem aqui 1.600 observações sobre
+vinho e cuba 11 variados essas variáveis
+são as propriedades químicas e se esse
+vídeo ele recebe uma nota objetivo desse
+projeto
+e agora identificar quais são as
+propriedades que fazem esse vinho
+receber uma boa nova qual a correlação
+entre ela então aqui tem um dicionário
+na segunda não vou entrar muito isso
+aqui que eu vou mandar o documento para
+vocês depois melhor que você olhar com
+calma a gente vai acabar se estendendo
+demais tem que ir 7 que horas que são o
+que são todos bibliotecas foram usadas
+no projeto a digestão aí eu vou anexar
+depois a gente gravar o vídeo né eu
+coloco lá e o anexo lá o documento legal
+e quiser dar uma olhada depois desse
+legal então eu limpei o código tudo aqui
+para a gente poder fazer junto limpei as
+saídas né porque poder fazer junto
+porque tem um arquivo que já é faz parte
+do projeto que eu dissesse ver neste
+você já sentou ele né já sentou lá no
+diretório né e isso beleza e
+o preço desse cara aqui deixa eu fazer
+melhor deixar fazer aquilo então sabe
+pessoal entender ele já ele já aceitou
+no diretório que tal até o arquivo wine
+quality redes tá e aí ele não precisa
+dizer para o rio dissesse ver ele ele a
+pasta onde ele tá tá porque já tá
+sentada né beleza todo mundo aí ju é
+muito importante que são comuns que às
+vezes a gente está tentando colocar o
+tipo de arquivo e tem um erro no
+diretório mesmo tá então tio eu chamei a
+função viu a gente poder ver se curte
+dados como
+a fábrica que vai ficar mais fácil com
+mortadela então a gente tem todas as
+propriedades de vinho acidente fixas
+yhdysvallat o aço se tipo resolve
+açúcares coloridos e aqui a gente tem
+essa essa variável chamada quality que a
+qualidade a nossa quinzinho recebeu
+quando recebe uma nota de 1 a 8 tá o
+crush passa o dia considerado também de
+repente a temperatura né o centro né eh
+também foi mas aí eles só pegaram as
+características químicas né beleza só as
+características químicas e
+que legal onde tem esse cara aqui as
+descobriu que a qualidade é o lembrando
+o mais importante de qualquer nós agora
+a gente entender qual que é o problema
+de negócio o negócio aqui é identificar
+quais são as características que
+influenciam na qualidade ainda tem umas
+oi água determinada qualidade ela já é o
+cara que o nosso foco é preciso entender
+exatamente tá o que este caminho aqui
+para uma entender um pouco de nada que
+ele vem os variados tipo da variável
+o negócio do nosso não somar aqui e cada
+uma das cidades é a de tentar o
+máximo que você pegar média sumário
+entendeu ali exatamente vocês começando
+a entender a tendência de cada uma
+dessas variadas e lá na parte vai ser
+importante tá comportamento dá uma né
+melhor isso exatamente estão com
+qualidade a nossa nossa com nosso target
+aí a gente pode pro colocar aqui uma
+distribuição aqui são os recebidos assim
+eixo até quantidade de amostras
+distribuição e aí o que que eu fiz
+necessariamente não precisa ser feio eu
+percebi o seguinte só tenho essa ele
+sabe que tem uma distribuição muito
+informe dos vinhos de é
+a cinco e sete livros colocar significar
+leque muito aberto eu removi ei isso aí
+tá então eu queria algumas categorias tá
+meio ruim bom excelente como ficar nota
+de uma oito chevron o negócio meio
+estranho de muito aberto leque para você
+avaliar tá então eu classifiquei esses
+caras com fator e gravei novamente um
+copo aqui e só pra rápido em volta lá no
+na queimar as notas recebidas né e
+recebeu legal e aqui é um histograma né
+você tem aí deixa eu voltar aqui no
+código dele para garrafa ou seja aqui dá
+um dá um bar qualidade e o x a qualidade
+né o y é contagem que a frequência né
+então a gente tem que por exemplo é a
+nota 4 a vamos pegar uma que tá aqui em
+cima né que é mais fácil
+16 ela ela repetiu ac620 vezes se ela
+por aí né 620 vezes mais ou menos tá
+então vocês entendem que isso aqui é
+frequência a distribuição né das notas
+por exemplo e aí aqui a gente pode
+tentar entender o padrão da distribuição
+que ela me parece uma uma distribuição
+assimétrica à direita será ela ela tem
+pouca simetria né mas ela assimetria é
+uma leve assim é uma leve assimetria
+direita se eu não me engano tá você
+consegue fazer aí o assimetria dela
+quem sabe fazer é
+e as que eu nasci é mas o pacote eu não
+sei se você vai teria é da minha pois é
+agora não é com h maiúsculo
+ah e sei que já tem que tá lá dentro não
+não não não fazer rapidinho não está o
+ponto packages é rapidinho já tá aqui
+carregou já carregou s k s k s w é isso
+aí bota o nota né a moto da do dólar
+notas 1
+qual é o nome do dado né como você qual
+é se chamou de que aí vamos lá a data
+red wine né red wine wine long island
+dólar coelho isso mas não precisa botar
+o data igual não bota só headliner
+direto dela isso aí bota dólar
+e aí fica pegando a nota né
+e é quase nota dez pontos filmes fique
+bem o que não te faz quantos quilos é
+com dois cai se eu não me engano cara 12
+dados
+e é uma dessa era com 2wc eu acho
+e como é de chocolate valeu desculpa não
+vai sair do vídeo para digitar aí tenta
+botar comer vamos ver se vai dar
+o calendário
+e aí
+img1
+ah é só para deixar um pouco mais
+produtivo não beleza ao show de bola
+eu ia falar com ela com ela tá faltando
+é a i s k é isso filmes tentei a aí
+skate ps ah desculpa é dessa então eu
+falei errado pacote dá zero para ele
+cidadão nesse tem esse pacote aí é 1071
+lazer é 1071 é o pacote de meu oi oi oi
+beleza então fodem esquinas tiro w lá
+um tiro w aí fabi
+e aí
+o seu negócio aqui não não tem que estar
+junto com o pote tiro mais lá em cima
+tiro mais um em cima por favor o mais
+tem mais na linha de cima aí isso aí
+fora opção de baixo agora selecione o
+deboche alho vai rodar separado é isso
+tá bom aí então bota.na ponto remove
+gaúcho
+oi vírgula em ah não é meninas pelo
+menos não n ã minúsculo contruimos rm.na
+com trm a acho que ele vai vai tentei rm
+vai mm bem também
+a fonte eu não tá aceitando um corte
+quarentena cara não não tem não tem não
+tem estranho então quer nada
+me dá um tempo do com ele aí
+a paz table
+a red line dólar pallet
+e aí
+é é é um tempo acho que ele não vou dar
+um describe describe
+se é começo com dentífrico o pai
+eu fiz um
+e aí
+e eu não tenho esse pô ele tá
+acontecendo aí em roda aqui na roda no
+terminal hoje espelho tá cheio tá
+cagando
+o
+do not willing for order ele tá como
+fator carne ainda número não dá dá um
+anjo me dá umas numérica aí só existiu
+nesse as numere-as ponto numérique as
+fontes numérico e red wine collection
+não volte num red ant red ex.na que isso
+aí vai a alá garoto olha a simetria
+direito isso aí tem uma leve assimetria
+direito tá vendo 021 estatística é o
+cara bateu quando ele foi lá ele chegou
+e não tem uma leve assimetria direito ou
+seja os valores dos da qualidade está
+mais concentrada a esquerda então você
+tem notas menores de qualidade a maior a
+maior parte das notas estão nas menores
+né isso isso aí meus amigos tá então
+meninas
+é a região aqui na pan parte aí nós tá
+beleza foi legal né então a gente deixar
+as obras de 18 resumo novo arranjo aqui
+a para ruim bom excelente ator vamos ver
+aqui como é que fica essa distribuição e
+aí ó agora aquilo que você falou mesmo
+vinhos dessa nessa lista eles são ruins
+1011 e apenas ok já estou a ideia que a
+maioria dos caras estão como bom e
+segurando no meu entendimento quando eu
+cheguei nesse ponto aqui o povo é o
+negócio é ruim porque tivesse sete maior
+de valença é exatamente com mais
+visualizou mais excelentes ficaria mais
+fácil de você caminhar e clonado uma
+coisa comum
+é verdade não é pouco também estranho
+isso aí beleza então a gente já sabe lá
+qualidade vamos ver então sobre sobre
+sobre a nota vamos plantar aqui a
+distribuição dentro dessa nova classe
+agora quando te ver que agora ficou a
+galera toda como como passe atualizado
+como bom né já sabe a qualidade aqui já
+botando agora que você entender quais
+como que a distribuição dos demais
+componentes químicos kefir ela vai
+e fala a tua tá todas as demais
+distribuições seleções de cada uma
+dessas criar acho que dá para ver mais
+ou menos assim mas não conta nada para
+gente sobre o raça é o a maior corrente
+a maior parte assimétrica à direita seu
+like se aqui já viste alguma que tiram
+densidade que é bem organizado as outras
+todas densidade ph né que a talvez a do
+ph seja simétrica esquerda ia fazer aí
+para ver fazer o pegar ele é o que não
+falta o nome é então mete bronca
+esquilos né
+a red wine da fábrica de você deve
+senhor estava certo lá eu disse aí
+esquinas aí valeu
+a red wine aí bota um ph aí dorme pegar
+aí é direito também por outra tudo
+assimétrica direito aí cara eu acho que
+foi proposital eles fizeram isso aí para
+dar uma vez mais tranquila terra chelsea
+o thiagão só pode falar quem tá falando
+é o nilson beleza fala aí nilson como a
+dúvida aí sobre esses que une sair que
+tu brilhas ou é quer dizer que assim se
+ele retornar acima de zero quer dizer
+que a distribuição a direita e abaixo de
+zero a esquerda isso e se for maior do
+que zero à direita a simetria direita se
+for menor do que zero é a simetria
+esquerda negativa né
+oi e aí você investe a concentração sua
+assimetria direita e concentração de
+valores da esquerda e se você tem a
+simetria esquerda tem concentração de
+valores é direito beleza beleza valeu
+valeu show de bola para você não ter uma
+essa distribuições como elas são
+assimétricas a direita significa que a
+maioria delas está concentrado os
+valores nas menores nas menores valores
+de x no caso aqui o ph está concentrado
+na menor o frio acho que sulfúrico né
+tudo mais todas elas estão concentradas
+nos menores valores indispensáveis
+consegue perceber isso porque aqui o
+eixo y é sempre a frequência né e aí ó
+se você você percebe aqui claramente no
+total sulfur dioxide aqui o segundo mais
+inferior a 1
+e aqui em cima você vê claramente que os
+valores estão concentrados ali de 0 a
+ela 50 e tanto ou seja são valores
+menores né de de ácido sulfúrico beleza
+isso legal cabelo esses casos aqui vamos
+agora vamos caminhar para entender cada
+uma dessas dessas variáveis aqui aí ele
+chega com nosso box-plot que eu acho
+assim nos gráficos aspiracional
+sensacional box plot scatter foto
+gráficos são esses trás e frente uma
+medida que sobre o serviço que ela é
+fantástica se possa tá esperando aqui a
+gente tem aqui esse primeiro partes na
+região tchau thiago contigo é só é isso
+aí vai lá o mais inferior da caixa que o
+que una o que o do meio é o que é dois
+né
+bom e o que tá mais superior aqui é o
+que 3 né eu não posso desenhar e fica
+meio lá meio ruim o quê que aí a gente
+pensa nas cercas como o valor máximo de
+distribuição que não passou da cerca né
+é um não outline né agora a gente pode
+ver que tem alguns outlets ali né ali
+assim vai tá vendo e aí ele passou da
+cerca isso quer dizer o quê que existem
+isso aí é um calvariano acidente
+acidente acidente fixa existem variados
+valores na acidez fixa que são valores
+atípicos né você tem desconfiar que pode
+ser um erro ou pode ser fruto de uma
+sazonalidade alguma coisa do tipo água
+tipo beleza negócio de caminha com essa
+com essa mesma volta de rapidinho a
+gente pode perceber também o seguinte
+nesse pote aqui ó
+é claro que a distribuição assimétrica à
+direita a gente vê que o segundo quartil
+ele tá mais próximo do 1º quartil isso é
+característica da distribuição
+assimétrica à direita você pode desenhar
+uma curvinha em cima do box corte por
+exemplo para entender a gente viu lá na
+vila lá na sala quando vocês chegarem lá
+na quarta de dispersão beleza legal
+legal para a gente sair para saber se é
+a mesma análise josé mais tal ácido
+volátil tá aqui a sabe que esse cara aí
+é assimétrico esquerda carne
+é mas não são vai isso é isso aí porque
+o q2 dele está mais próximo do que três
+faz os filmes de serviço daí ele vai dar
+esquerda quer ver ácido vários filmes
+red wine dólar é volatile a cidade valor
+067 e não cara direita vai fiz isso né
+porque parece que essa essa linha aqui
+do meio da caixa tá mais próxima do que
+triste do que do que um né pelo menos
+nada mais falar disso tem uma diferença
+está mais próxima do que três meses era
+para ser era para ser simétrico a
+esquerda é que esse gráfico aí tá meio
+esquisito mas enfim
+se sair no joguinho lá acidez cítrica
+daqui já é uma submissão totalmente
+diferente mas é mais tá vendo tem um
+outliner ali também não uma conselheira
+tutelar ele vai agora residual do açúcar
+foi um cara aqui olha tá vendo com ele
+tem muita só é né é um cara que chamou
+atenção seja tem todas as regiões como é
+que funciona e o tem uma tem uma
+variável que é categórica em relação às
+regiões ou não não não não não não ele é
+porque por exemplo se fosse diversas
+regiões né de repente era podia estar no
+bolo né que você faz o região de repente
+não teria tanta diferença assim não
+ah então beleza é
+um mousse de casa é mais aqui aqui são
+os coloridos eu vou passando aqui para
+não ficar pertinho traiu ou jogos surfar
+dióxido sulfúrico livre na
+o meu caramba aqui no portal dos jogos
+isso furgo twist braids correndo aqui
+sobre todas as aprontar todas elas
+histograma inbox pode combinado que nos
+capricórnio para embaixo que tem as
+inscrições que a gente tá vendo cada uma
+delas depois você vai dar para o almoço
+esse carro
+e vai ser sempre responder aquela
+pergunta aqui do marcos você perguntou
+no processo de descoberta das variáveis
+você pode aplicar no box pote e outras
+ferramentas para algumas variáveis e na
+verdade não traz nenhuma informação pode
+ser e aí no fim você só guarda as
+análises que são importantes na verdade
+é para você fazer isso porque a gente
+está na estatística descritiva então a
+gente está descobrindo como é que é o
+comportamento das variáveis então você
+só vai saber se elas são é de alguma
+forma importante só não se você quiser
+largas descritivo entendeu então tem que
+fazer para tudo mesmo e que ver o seu
+banco todo beleza
+e é isso aí e além disso a como objetivo
+desse projeto é a gente descobriu a
+correlação entre elas depois de fazer a
+salário cada uma isolada começar
+combinar entender quais são as
+associações que elas têm que podem ou
+não causar essa esse efeito aí de uma
+boa nota na avaliação final do vídeo
+a condição legal fechando aqui
+o álcool
+o que foi a última não ok beleza então
+aqui chegou as considerações a gente ver
+que aqui resumo até aqui né que eles têm
+lá cisne abs que na verdade eram doze
+ficou preso que te criou mais uma vez de
+ser aquela nota de 18 a gente cama
+categoria aqui é bom ou excelente
+transformava né beleza amigo eu consigo
+observar que o ácido cítrico ele tem uma
+missão mais agrupada é e aqui a sessão
+foi escrito pode ter ocorrido devido
+amostragem coletada
+e ela tem o comportamento essa pedágio
+ou não relação à qualidade então aqui ó
+e se sente 132 132 observações agrupadas
+de ácido cítrico agora que começa a
+fazer uma análise de correlação ah então
+tá fez uma analise cada uma das
+variáveis já soltou a gente já colocou
+em baixo ali abre para chama de zero não
+entendi como é
+eu te falo tchau
+eu tenho tem 132 e isso vai são quantas
+contas registros no luz que a gente tem
+noticiado a sapatão aprendeu culpada não
+entendi o que você quis dizer nada eu
+desbloqueei contei para será no
+computador lá 40 de beleza tranquilo tá
+o ok então agora a gente
+oi gente vai ver com as suas
+propriedades aí já começa a falar de
+correlação quais são as possibilidades
+de correlação e como é que a gente torna
+essa essa percepção pouco mais claro né
+e aí eu pesquisando descobri que tem
+esse cara aqui ó tem blockman cláudia
+santos acho que te dá aqui raimunda
+tabela né é está um solar aqui somente
+tabela aqui que é bem legal e na garagem
+dela relação aqui a gente consegue aqui
+no final dele tem algumas alguns
+negações a gás 1
+e aqui acidez não tenho uma coisa muito
+com relacionada à tem sim tem lá o
+álcool acidez e este slide é alto
+isolate pote relação com o álcool e
+amizade 4762 né e qualidade né álcool e
+qualidades né
+eu quero já tá lá embaixo lá
+o melhor 47 não chega-se alta né porque
+é menor do que 05 mas se é moderado é
+próximo de moderada beleza
+a beleza agora a gente vai caminhar
+pacote e paga a relação vai dizer a 1
+quanto mais próximo de 1 ou de menos um
+é mais forte legal então aqui a gente
+conversa com a minha para o salário bem
+interessante tô aqui tem a nossa hein
+macho
+oi oi diferente esse box forte hein me
+fala onde você tá para galera que que a
+gente está fazendo aqui que eu achei as
+notas embaixo a gente tem a qualidade de
+artes fixas e subsolo quais são as
+observações com gripes que falta três
+aqui no box para elas são verdade tem um
+agrupamento aqui mostrar o código o que
+é que usa o victor inox potes na mesma
+é da mesma ter uma ideia não é layout
+erro cara que você colocando camargo em
+cima do suporte me fale o tempo mas é
+como se fosse camada magnesian do teu
+pai não percebe aqui como a gente já viu
+lá em cima lembro que a maioria dos
+vinhos estavam nessa figurinha aqui ó
+puxei mais aniversário a gente vai está
+isolando nesse box pote aqui dentro da
+dos observações com nota 5 de qualidade
+esse esse box pode acidez fixa para esse
+grupo de observações então que já está
+abrindo o leque para gente ver o todo do
+conjunto cidade estava um diferentes
+participar está olhando para a população
+está fazendo mostrar isolar visualmente
+representar como é que é essa
+determinada variável que se
+correlacionam com a qualidade
+e você pode levantar ali que a nota 7
+ela é um pouco diferente das demais
+nesse ver que a gente demais elas são
+bem próximas ali de site né de ácido
+fixa né ali e as 7 ela diz estou um
+pouco dos demais né a mediana né a
+mediana da docete ela tá limpo ano de
+1899 alguma coisa né por aí né
+exatamente e a nossa três também curso
+mostra que a gente tem um conjunto de
+dados que ele não tá bem tá muito
+enviesado né então resultado ajuda como
+águas também atrapalha porque se
+acabamos não tem muito recurso pra poder
+destrinchar melhor como é que fica essa
+distribuição é verdade porque se tivesse
+uma comportamento diferente em agosto
+teria uma informação maior para poder
+destrinchar isso
+o exato então a gente vai escorrer nesse
+mesmo tipo de abordagem para todas as
+nossas variáveis aqui tem umas isolate a
+mesma coisa que consegue ver a
+constipação essas tão bem distribuídas
+tem algumas acham que eu chegar lá no
+elas elas são bem diferente dos sério
+oscar presentativo ela tem uma diferença
+e a suicídio por exemplo a pele como os
+potes de cartão se quiser é 178 eles
+estão lá o 3 o 4 está lá embaixo né o
+seguinte não seja a mediana em termos da
+mediana né a mediana
+é só um pouco mais acima limpa próximo
+de zero 25 né entre cinco e seis ali né
+mil de sete oito tá já tá mais próximo
+de 0 45 e o quê que isso pode indicar
+formação de classes né você pode ver que
+o 3 e 4 estão mais próximos os 5 e 6
+eles estão mais próximos em relação a
+eles dois é um 78 distortion também
+desses outros dois já então você pode
+ter três coisas né triste comportamentos
+parecidos entre pares né por exemplo é
+exatamente é e uma interessante notar
+também que a nota 6 lá tem uma é uma
+caixa maior né indicando aí que aí você
+tem uma variabilidade maior do o ácido
+cítrico na quando a nossa é seis tá
+é exatamente quando você pode colocar
+esse gráfico do que um né tem um
+intervalo interquartílico né e três
+menos do que um
+e quando eu vi esse gráfico que eu vi
+tava muito diferente eu não consegui
+entender teoricamente por quê que nessa
+distribuição por que que ele tinha essa
+representação tão diferente dos demais
+tá é para mim assim eu aprendi a
+construir esse tipo de gráfico que eu
+entendi que era uma forma de sobrepor
+uma variável a outra e os outros pensam
+de nós mas eu não consigo tirar um site
+praticamente isso aqui só que eu
+coloquei aqui na descrição que que é
+quanto que foi o genérico né um beijo
+boa qualidade foi bem genérica não disco
+rico nenhum tipo de explicação mais nas
+teórica porque realmente eu não não sou
+da não não conseguir entender porque
+explode estava dessa forma entendeu
+entendi a gente pode ver que tá as notas
+elas estão mais concentradas no 5 e 6 né
+como a gente já tinha visto
+anteriormente né e no set
+é mais esperta né você vê um bolo um
+bolo lá embaixo um bolo lá em cima né e
+no meio ali um pouco mais disperso nós
+vamos assim acho que dá para enxergar
+isso isso em todas as variáveis quando
+ele tinha concentração maior de
+observações nessa categoria de derrota
+perceber que amauri nas variáveis também
+tem essa observação agora olha o
+residual de açúcar como é que ele já são
+comportamentos totalmente diferente
+muito sexuais uma lição estão muito
+próximas né ou para o próximo agora ele
+realmente nos 56 aninhos site tem um
+monte lá para caramba né tá
+e agora a gente vai fazer os coloridos
+os corretos
+e também bastante uai
+o google passando aqui tá pessoal por
+utilizar o tempo mas depois eu vou
+mandar se entender com o carro aqui não
+chegou ainda melhor parte tira os
+insights não é jogos surdo também tem
+uma seleção muito festas é mais né
+e aí
+oi total atualização dos jogos jogos
+funicular era amostra isolada que eu
+total
+e aqui a densidade do vinho
+é um dos lagos também são sim que a
+gente acaba tendo que fazer um trabalho
+de ter que descobrir cada uma dessas
+propriedades que a gente poder entender
+eu assim não entendimento faz parte do
+processo assim poder continuar logo
+percebeu uma coisa diferente canal é a
+relação do ph com a qualidade e aí
+novamente é como assim dados seguros na
+forma civilizada isso que acabou no chão
+muito muito para fazer uns querem pote
+gráfico de dispersão eu fiz eu ia fazer
+seu ele somente eu comecei a fazer com
+ele mas é porque o negócio gigantesco na
+quantidade e o ph por exemplo pega o faz
+aí no código rapidinho bota aí pote
+o pallet não lá no terminal terminal
+terminal ambas mas o código né
+oi aqui é isso bota aí pote
+o grato é ascot a fazer um simples mesmo
+watch red wine não não precisa de data
+não tiro dá tempo sim
+a red wine
+o dólar quality
+o e vírgula red line dólar dance on
+e aí
+a luta é isso aparecer a janela certo e
+não roda de novo mas não viu vai não viu
+ué
+ah não então roda roda de novo aqui fiz
+um aqui ó
+e eu não tô vendo eu só tô vendo um
+pouco aqui deixa eu dar um interessado
+lá para não não não tá vendo não faz o
+seguinte é da aperta na vassourinha aí
+na vassorinha esse aí aí não dá uma não
+é um festa só até aqui isso é o banco
+spot né não tô querendo box fort
+e aí
+bom então tchau coisa direto com função
+é beleza é próximos cap prot aporte
+é estranho para vou apareceu ele tá
+fazendo boxe esporte que é essa
+peça corte
+14 morderam
+o marcelo o que é que está entendendo
+unbox potinhos aí carro
+é procura alguma coisa mega distribuição
+leque não né
+e ele tá ele tá fazendo alto complicado
+tá código ele tá rodando o banco scott
+lá em cima né sem sei lá ele tá
+entendendo aí nunca aconteceu isso
+comigo não é que vamos fazer aqui
+rapidinho tá o eixo y vai ser a
+densidade não é fogo né
+e aí
+e você botou um w lá no g4 e depois
+tirou agora não vai ter mais como
+e aí
+a música de quando vai 101
+a região point né região polícia tira o
+w
+e aí
+olá boa
+o w hã beleza e quanto cuidar de
+eu exijo potes lá não não seja quarto só
+nós dois não é
+ah beleza mas né e aí a jejum point
+e aí ela sai ano foi mais ah tá me
+desculpa é porque o coisa não é não é
+numérico né agora entendi tem que botar
+as numérico nós quality tá bota lá eles
+numérico e nós quality
+e no aqui no red red wine total bota ex
+numéricos tira o não sei se ele vai
+funcionar com com y leche eu tentei
+tentei
+os peixes
+e aí
+e os valores são muito próximos né do
+densidade né então você não vai
+conseguir fazer um
+se esquece esquece isso aí deixa para lá
+deixa de graça vamos lá vamos lá e palco
+então sim tchau
+essa é a mobília ph é porque eles né
+então ele vai fazer seis pontos então
+não vai adiantar de nada você tô maluco
+esquece que você tem uma variável
+continua vai vamos lá vai
+bom vamos lá vamos seguir aqui para
+nossa com relação ao tá que tá doendo
+aqui
+e aí
+que bom legal isso aqui é uma ela uma
+representação da correlação do ph com
+acidez fixa o que que ele está fazendo
+isso aqui tem que saber aquilo bh
+o que os vinhos que tem a melhor lavar
+um martelo de utiliza aqui tem uma
+avaliação boa para excelente eles têm a
+menor com esses ph não precisa entender
+alta incidência de se esse ph tem com a
+com acidez fixa
+os parques tem essa essa simog das
+escalas nesse distribuição
+se ela não quiser comentar aí sobre o
+gráfico o acidez fixa né você você viu
+que tem uma relação forte né então a
+gente espera que ele entenda se a gente
+tá vendo uma reta né e aí como você tá
+ainda fazendo aqui está o logaritmo né e
+aí vai ficar mais próximo ainda o jogo
+hoje vamos vai ficar mais fácil ainda de
+você é representada por uma reta né uma
+relação bem bem que nem a área como a
+gente viu para uma correlação ea
+moderada né e aí você eu espero que ser
+uns tinha as novamente bem né
+oi e aí o que a gente tá vendo aí mais
+ou menos você botou você botou lm nessa
+traçando uma reta de regressão aí também
+né reta de regressão e tem um detalhe
+importante que interessante para
+comentar sobre sobre esse esse gráfico
+aqui que é exatamente isso aqui ó essa
+escala em logo levar o escudo assim para
+poder descobrir que dava para fazer isso
+aí porque ele perguntar executar esse
+tipo de próteses ensinar xbox isqueiro é
+você não vai entender nada não vai
+conseguir pegar em site e pesquisando eu
+descobri essa essa eu vi que está
+acontecendo as as unidades do das eles
+fixa e você dá não tem boa aí na cidade
+fixa por favor
+o símbolo hadwenii dólar acidente fixa
+os valores daqui eles são muito muito
+próximos aqui né agora faz um table do
+log de isso aí vamos ver então acontecer
+ele vai ficar mais próxima e não tive
+aqui
+o white max max saiu né
+e não não só é só login mesmo acho que é
+só isso bem aí
+e aí
+o fecho parêntese mulher tá vendo que a
+distribuição ela fica mais se distribui
+mais ela né ela fica mais linear tá eu
+vou falar por exemplo a diferença do
+15,9 para o qual qual o mínimo avelar tá
+na ordem volta vai lá para cima só meio
+possui não é a outra distribuição aí 4.6
+por 15.9 é uma diferença maior do que
+1,52 60 para o último lavar lá embaixo
+vai lá no último agora
+e desce aí no tribunal modificado não na
+outra tela aí vai desce a 1152 o mínimo
+né vai lá para baixo
+e não não messi alexandre até o último
+aí
+já chegou no último já não aí dos sete e
+meio para 2,50 alguma coisa é muito
+menor do que a amplitude lá de de quatro
+para 15 né então é mais fácil você
+prever descansarem enxergar isso mas não
+quando você transformou logaritmo você
+consegue prever mais facilmente esses
+valores entendeu as escalas do x e y com
+mais próximo né tá então a ideia mais ou
+menos essa e a gente vê que se ajusta
+legalzinho né não tem alguns pontos aí
+aqui estou mais né da reta né o ideal é
+que a reta se ajuste os pontos já tá aí
+é interessante cara você que sabe faz
+uma correlação olha que faz um corre aí
+entre o
+e faz um corre dentro red wine eu fiz
+aqui embaixo faz com um blog também seu
+login vai dar maior tá você viu que deu
+046 alguma coisa não sei escolhe quase
+faz sem lag rapidinho aqui do lado no
+país corre
+o adware dólar bh
+oi vírgula e aí bota redline dólar as
+três fixa e
+a avó roda em dar meu 8068 já tá alta é
+o motivo ea negativo né tv que realmente
+a a reta ela está declinando né e ela tá
+com uma como é que fala ela não é como é
+que é aragão é assim ela é assim é
+decrescente né ela é decrescente por quê
+porque a correlação é negativa né quando
+uma aumenta a outra diminui tá essa
+ideia e se você quiser o logo acho que
+vai dar maior ainda faz o corre agora
+com óleo
+o que faz agora ocorre aí com um blog na
+rádio s10 fixa ai bota login login aí eu
+depositar direto aqui no console não
+maior aí tá vendo aumentou um pouco mais
+tá porque porque ficou mais fácil de
+você para ver tá então acho que a ideia
+por aí ia ficou bem legal assim bem
+maior então ph ele tá explicando vai na
+verdade você imagina que eles têm uma
+variável que vai contribuir muito
+poderoso beleza já pega uma localização
+que pega umas ideias importância de um
+é uma bora para iphone5 para que também
+aplicando o login já tem uma a outra
+outra relação essa correlação positiva
+né positiva levemente positiva na
+esteira e agora o ph e o ácido cítrico
+para realmente diferente negativo também
+né aí é o seguinte pulou vamos chegar no
+ponto aqui que foi foi o grande divisor
+de águas esse projeto para mim como eu
+disse algo começo né ainda tô morando
+estudar vinda linda parei com uma
+situação totalmente diferente que era a
+gente viu aqui que a gente tem
+informações de ph gente tem uma
+tendência de dragão a tendência do ácido
+horário da água suco que elas epa
+e ela ela mostra a cena mostra
+tendências contrárias totalmente fôlego
+criativo alexis positiva negativa então
+fazer menor ideia é isso fui descobri
+que é o pau do cara só simpsons dragão
+se quiser falar com a galera é isso
+basicamente é nova e os variados que se
+comportar como é que quando combinados
+aqui é totalmente formas em inglês é
+exatamente elas têm um comportamento
+sozinha né mas quando você mistura assim
+variáveis elas acabam que um
+comportamento distinto do que você
+observou o que pode acontecer isso
+porque por exemplo correlação ela não
+implica em causalidade né por exemplo
+quando a gente se quando tá calor
+aumenta a temperatura
+e é geralmente você tem mais casos de
+dengue né tá mas não quer dizer pô vamos
+acordei hoje chamar para jogar futebol
+tá calor não vou jogar porque vou pegar
+dengue né mas não posso ficar download
+dependem tá é uma esqueci causa bem
+então mas o calor hoje provoca a espuma
+e aí a chuva acumula lá água no pneu e
+aí criam mosquito da dengue e aí já era
+mas daí tá então aí o negócio
+interessante que é correlação não
+implica em salvar idade tá você ter uma
+ou se você quiser a por exemplo a
+evolução do calor e a evolução as de
+dengue você vai achar talvez uma
+correlação só tá provavelmente você vai
+achar mas a correlação entre o calor e o
+ir à dengue não significa que
+e a outra provocando bem tá só ficar ele
+ele tá tem uma terceira variável aí né
+no caso é a chuva e vai fazer com que
+acumula água lá e o mosquito da dengue é
+que vai causar da índia beleza whatsapp
+são o paradoxo que acontece por causa
+disso você tá juntando coisas com
+correlações distintas né que aí quando
+você mistura você deixa o padrão a
+típico né beleza exato e quando eu
+cheguei nesse ponto aí eu falei caramba
+agora eu vou desistir porque eu fui eu
+fui buscar a literatura para explicar o
+que que era isso e aí de apresentamos a
+notação matemática lá complexo ela
+clicar no botão melhor condição da isso
+aí e pessoal surf rm ganhou aqui tá
+quando é um pacote de siso tudo bem
+bom então assim é um negócio acho que
+esperar aqui simpsons o que é que fez
+amostragem qualquer coisa complexa de
+estatística também é minha lg modelos de
+painel tudo que você imaginar tem
+faculdade já estatística então
+basicamente que você gerar chamar o
+gabriel até que eu vou pausar e aves ele
+vai gerar com você as um certo parça
+você tem que criar essa função certeza
+não não tenho dúvida é ué tem que fazer
+uma coisa nova passam matemática lá na
+mão então ele vai gerar que o modelo
+está fazendo um
+e ele demora um pouquinho eu acho um
+microfone aberto aí você tá ouro bolso
+celular de alguém mesmo quando quanto
+ele gera vai demorar um pouquinho aqui
+tá tranquilo pessoal tá tá claro até até
+o momento tem uma dúvida
+o que dá vontade aí para perguntar uma
+coisa aí ó
+e na medida do possível mas o felipe
+mandou aqui ai ai
+é legal antes marc newson sim é só
+reforçando aqui tá nado que tem nesse
+depois que vocês vão receber esse jato
+aí me avise também que medida que esses
+foram os ângulos com o tiago e vendo
+mais conceitos estatísticos não vê que
+nada do que tá aqui é complexo sim volta
+aqui a contar com vocês olha só gente
+pegou um teorema aqui complicadíssimo da
+da matemática santista e o rj naturais
+para gente por um suco de pacote algum
+de plaquinha de porta que a gente fez
+aqui tá gravando uma variável é está
+chamando a biblioteca simples está
+passando as duas variáveis que
+demonstraram um comportamento diferente
+combinados entre si ou combinadas entre
+outras variáveis está fazendo só
+exatamente só isso
+e olha o que que o pacote olha que o r
+fez prazer e criou três kansas mostrando
+pra gente exibições comportamento entre
+as variáveis nessas três amostragens o
+negócio assim simplesmente mais baixo
+acho que pagam quiser comentar um pouco
+mais aí do braço pra galera é exatamente
+isso né ele separou em três planos tv né
+a gente veio aqui até um vai até 05 aí
+da volatilidade na outro vai dizer 15
+até sei lá 007 né mais ou menos né e aí
+para frente já vai já vai o vermelho né
+o azul ele vai atrasar uns 5 depois do
+verde mais de 05 até 107 né e aí fica os
+vermelhinhos de tão também um pouco
+juntos lá os outros já e aí você pode e
+tem duas ele fez ele plantou a
+volatilidade com essas costas né em
+relação a p a
+bom e quando ele pega clusters se eu não
+me engano aqui azul lá ele vai ele vai
+fazer um tipo de comportamento que no
+caso aqui é crescente né só à medida que
+aumenta vou atividades asus ele diminui
+tá mas aumenta também né e o verde aliás
+vermelho com a medida que aumenta a
+volatilidade aumenta o ph diminui o
+volatilidade então você vê uma
+decrescente no vermelhinho tá então a
+ideia parar entre em três cores né
+porque ele viu que tem comportamentos
+distintos quando considerados em grupos
+separados né beleza legal é um bom vamos
+dar uma pausa nossos até que esse
+momento que a gente fez a gente foi lá a
+gente pegou lá nosso conjunto de dados a
+gente tonalizou a gente pegou média a
+gente é entendeu a inscrição de cada uma
+das colunas
+a cada coisa é é a gente botou a nossa
+nossa distribuição de notas de 18 20
+reconfigurou a isso com a nova criar uma
+categoria ou ruim e somente depois
+seguiu avaliando a entendendo a dá uma
+das variáveis as postou lá no programa
+junto bote a combinado a gente viu umas
+algumas tendências se mostrando como por
+exemplo ph e o ácido lático é combinado
+assim os demais tio variação tem chegou
+nesse ponto aqui que o paradoxo simples
+sobre todo o pacote sim aqui esse é um
+teorema deve ter longe teoremas também
+tem um toca o outro é e talvez também
+não precisar chegar até depois uma
+medida de aprofundar prática minha ideia
+era o seguinte não ler ou seja feita no
+projeto
+eu vou mostrar para você deixa eu ver
+viu ah é e tentei para nós for agora sim
+mas assim mas extra ela que está no
+social máximo mas não no ponto
+desconfortável né e quando chegou nesse
+esse paradoxo simples aplicar vou virar
+totalmente que eu fiz de mim conseguir
+pronta linha esses uma linha mais
+simples mas quando o bicho pacote tudo
+mais a ideia aí vocês descartando essas
+suas a trabalhar nesse sentido então a
+gente é o conclusão aqui a gente pode
+afirmar que ocorre se a reversão das
+tendências nessas relações os fornos
+combinados né então esse elimina esses
+caras a gente vai seguir com as demais
+propriedades aí que são as que ficaram
+faltando lá né é a qualidade do sulfato
+muito bom cara show de bola
+e aqui ó interessante o álcool ea
+qualidade beleza vamos lá vamos falar de
+um cara aqui que eu tô lendo aqui aí já
+tem tempo que eu fiz assim eu nem sei
+que que eu escrevi aqui embaixo essas
+essa o carro deu da se falou para mim
+para cada prótese escreve como se fosse
+o artigo em baixo quanto mais detalhado
+melhor vai ser super dados pessoais
+quebra a linha de juiz de costas que
+escrevo um artigo de basta levar o
+negócio para poder entregar no caso a
+gente tá claro dizer que vinhos tem
+maior teor alcoólico eles em uma nota
+melhor a gente já tem uma cara aqui a
+conta pra gente alguma coisa sobre essa
+variável beleza meu sobrinho
+e aí beleza dado essa essa essa nossa
+suposição hipótese a gente pode aplicar
+o modelo linear para atender novamente
+onde modelo linear abaixo lanital cara o
+delinear no r5r beira do simples refri n
+a sua variável no caso que é categórica
+como numérica né ele a fator né agora e
+esse foi o que a gente fez passar a
+simetria né
+é isso aí então aqui está falando que
+álcool a direita da qualidade né nossa
+k7 red wine vai gerar que o modelinho
+linear simples você vai dizer que a
+qualidade é a resposta né e o álcool é
+variável explicativa que vai tentar
+aprendir a a variável qualidade né tá
+exatamente então a quem te deu meu
+presente aqui um
+e mais dois baixo né uma região guarda
+dois o r2 ajustado ele ele perna ali na
+cidade de variáveis no seu modelo tá e
+aí quanto mais próximo r2 r2 ajustado
+melhor especificada tá sua função em
+termos da quantidade de variáveis tá e
+aí você tem aqui que o álcool ele pelo
+tst ele rejeitou né hipótese então do
+significativo mas o intercepto não
+emprestado não foi significativo
+exatamente fiz quer dizer para ti que o
+álcool esse somente ele não é o cara que
+faz a qualidade da gente ficar em cima
+exatamente montante não tem uma relação
+tão alto tão forte entre o álcool ea
+qualidade do vinho né sozinho você matar
+falando a chamada no caramba de noventa
+porcento ao não é então assim não mas
+tem um álcool lá manda aqui
+e os deixarem para coringas que é um
+pouquinho melhor tive um negócio aqui
+interessante também de falar que volta o
+que apesar da da tua regressão tem sido
+significativa na taxa f por exemplo aqui
+ou pelo valor de o menor juro eu baixo
+né então quando ele é baixo e você
+rejeita gazeando então significa que seu
+regressão foi significativa contudo no
+tst lá você viu que o inter sabe que tu
+não foi significativa e a gente teve
+também um r2 baixos lá tá beleza arruma
+sai do jogo legal aí eu finjo mais uma o
+negócio tá ficando muito legal do erre
+pacote 7 eles strass aqui o conjunto
+peça que coisa mais símbolo novamente
+chamou não se recorda essa daqui na
+linha daquilo que a gente fez lá em cima
+direto no console mas passando
+a todos os parâmetros de gravando uma
+variável chamada amostra é se faz um
+teste de correlação de pearson né para
+ver se há correlação significativa ou
+não
+é exatamente então aqui ó a gente tem o
+álcool que batendo 47 o que que aqui
+tava tendo 47 e lá em cima batendo 22
+novamente aquele que o thiago acabou de
+falar causalidade coisa com relação a
+outra totalmente diferente e tem uma
+coisa também aqui a gente tá lá o r2
+seria o poder de explicação de seu
+modelo seja o quanto o quanto eu tô
+explicando né do por exemplo quanto
+altas o álcool tá explicando na minha
+variável resposta que a qualidade do
+vinho tá no caso r2 ele é com relação ao
+quadrado tá ia no caso aqui o bota aqui
+ó
+e a correlação simples não é o r2 tá
+diferente tá poder de explicação do
+modelo é uma coisa e a correlação é
+outra tá a gente tende a por exemplo
+quando a variável relacionada significa
+que muito provavelmente ela explica bem
+àquela variável tá mas não
+necessariamente beleza
+é uma tendência muito forte né sim
+a minha beleza abrir algo na mão
+novamente criar um cara que está
+chamando muita atenção vamos fazer o
+contrário amor com coragem do álcool eu
+não vou avaliar o álcool uma densidade
+por exemplo
+a nossa carne instrumento outra as duas
+juntas não por exemplo as duas maiores
+por exemplo o álcool junto com acidez
+volátil para ver qual o the face lips
+principais aqui caveira que não tem
+nenhuma relação beleza tá felicidade
+álcool aqui a gente tem o álcool
+sulfatos aqui são as observações em um
+bullying excelente a linha uma mota
+e aqui ó então aqui já tem uma
+observação interessante está
+oi nego
+e aí
+e eu acho que quando ficou meio
+esquisito juntar esses três aí né a lu
+tá todo mundo aí
+ah tá todo mundo aí leo felipe benício
+manda brasil legal pois que serve
+sulfato de algo como duas duas grandes
+candidatas aí é ter uma referência maior
+ácido lático e álcool mesmo coisa mesmo
+de novamente uma distribuição pelas
+categorias né a nota
+a avaliação pinto
+eu consegui com o álcool ph ele uma
+coisa distribuindo as categorias e a
+nota
+o álcool e resolve açúcar só que a gente
+poder fechar o símbolo aqui de passar
+por todas elas tá é novamente é
+necessário fazer isso depende aí eu acho
+que eu acredito que eu vou ao melhor
+forma de você fazer uma mais claro agora
+você esgotar o massa o seu as
+informações que você tem os seus dados
+combinar gera vários prótese sim falou e
+mais uma experiência aí pode
+que pode completar é isso mesmo essa
+aqui ficar descritivo ela existe para
+você encontrar padrões né então você tem
+que esgotar se tem que fazer toda todas
+as variáveis não em relação à que você
+tá querendo explicar né e ver qual é o
+comportamento delas em relação a essa
+variável que você tá querendo explicar
+será que ela não aumenta a outra diminui
+será que eu tinha quando uma diminui a
+outra aumenta né como é que essa relação
+então a gente faz tentando estudar isso
+será que a gente sai do jogo um padrão
+valores maiores menores né então a ideia
+tá
+tô conseguindo aqui acidez fixa aí acho
+que o sítio e
+o acidente mas não erra volta lá
+rapidinho antes acidez fixa e a sucinta
+ficou um pouco mais ajustada na
+categoria beleza é acidez fixa e ácido
+volátil e
+bom então agora o seguinte
+essa é a e vai chegar geral modelo
+linear agora
+e com essas com essas categorias em
+disputa pegou lá em cima que é osso
+passo as desolate o aço se é acidez fixa
+e o ph ok que que é um acidente oi aí
+são vários modelos né sim a gente tá
+pegando nesse carrro aqui não você pega
+o álcool e aí coloca com sulfato depois
+você pega o álcool coloca o valor
+utilidade né e isso ela vai ficar
+fazendo está pegando a qualidade né que
+é a nossa categoria a como numérica tá
+ancorando no álcool
+a intenção de ficar string data e esta
+criou uma série de noites aqui como
+essas principais variáveis que a gente
+viu lá em cima que elas têm elas dão
+alguma indígenas apresentam algum
+atender ao sulfato acidez volátil o
+ácido cítrico é acidez fixa e ph tá está
+gerando esse canal a gente vai só para
+você você pegou o treino sessenta por
+cento né ali isso não é novamente porque
+porque sessenta por cento porque a gente
+tem uma base de dados que ela é muito
+pesada ela tem 1500 informações e miltão
+categorias hoje eu também quebrando
+negócio de marketing certo sim não vai
+fazer muita diferença né então aqui eles
+têm do nosso resultado aqui do certo
+aqui de álcool a não ser você
+tô dando uma né e isso exatamente o que
+quebre vários vários vários pequenas
+amostras então aqui está o álcool 03 os
+sulfatos 0733 o foram segundo mais está
+caro aí a gente pode aplicar o modelo
+que melhor explicou foi o m3 na usina
+e e
+bom e com todas as variações
+significativas não m34 prometeu deu uma
+é mas o m4 tem a variável cítrico ácido
+cítrico e fixo assim ela tá aí no preste
+ele não ano ela não foi significativa no
+teste aí não ficou legal amiga legal
+isso aí esses casos a gente já pode
+descartando já tá aí o negócio para
+gente fazer para gente começa a gente
+começa a fechar aqui tá vendo que a
+gente tem que isto faz a se desenrolar e
+e o álcool com os caras tem no parque
+uma senhora tá bem baixo no tomar na
+marra você já fez o logaritmo da
+se ajustou com o logaritmo
+e não se nenhuma parte aí você fez de
+repente a gente vai melhor quero ver
+tenta volta lá em cima rapidinho e tá
+fazer bota
+o logaritmo
+o seguinte bota
+e em cada uma das variáveis não bota no
+álcool bota no sofá tu tenta botar e
+logo em tudo aí rapidinho só para gente
+testar o botas botas sai uma só para
+gente ver se vai já vai aumentar bota o
+binóculo lá no pode ser vai bota nada
+vai ser isso mesmo mandei
+e aí como é que ele ficou aqui sofá
+preto dois nós já teve uma m5 já foi
+melhor tá vendo 32 90 era 318 nasceu não
+três duas né 320 uma coisa assim agora
+bota no álcool lá botar ele no álcool lá
+mandei o sulfato online ontem ontem
+botei neon em cima sim
+e aí
+oi olha aqui ó
+a passar farra ela não teve uma melhora
+significativa não é me sinto continuar
+melhor vai botando lá nos outros botando
+bota na rua utilidade
+e a qualidade ela vai de 18 nessa ou não
+321 caiu né mas bota no outro lá
+e você como é que eu pegar
+e a bota no carro aqui temas infantil 1
+e aí
+o caramba
+e aí
+o que é 48 então
+e ai seguinte tira tira logo de tudo aí
+o show pescar aqui quem será essa aqui
+na hora só da lua
+e a tira esse lado aí e aí você bota o
+login na variável resposta bota lá no
+qualitte é blog as numérica quality
+o antigo aí na ontem tem que ser
+compartilhada na tela aqui o meu momento
+aqui cara acho que não dá problema isso
+aí cara volta aí ela não vai no antes eu
+acho né tem que ser antes das moleque oh
+o anti stress aí bota um blog
+e aí caixas no collection aí ó ali ele
+não tá indo com lulu e chave com você
+mulher
+e não não deu certo
+e já negócio tá ruim mesmo vê com ele aí
+em volta pescar aqui é só melhorou um
+pouquinho não foi tão significativo
+então coisa pouca coisa faz sentido
+então transformar vale a teve melhora
+depois para 032 né zero 3029 ele tanto
+ela levou uns assim tão legal eu já
+peguei esses dados de treinamento daqui
+agora e a gente vai colocar esses carros
+para rodar eu mexi editora aqui
+e a gente vê que a nossa qualidade o
+erro do modelo
+e vá aumentando a gente tem uma
+descrição de erro aqui tá bem
+a tirinha linhas linear positiva você
+fez um não negativa né negativa direita
+negativa
+se você tem ali crescente não é uma reta
+decrescente aí né
+e interpretações da qualidade já não
+consigo qualidade visível é isso toma aí
+vó é que você tinha que ir na verdade
+está festando base quem tirou a mas você
+tinha que isso é preguição isso é
+eu estou usando o m5 aqui ó
+é estranho clique no botão errado então
+e por que que não postou a reta
+e não aqui embaixo a gente faça a tá
+bota então bota embate e
+e aí
+é aquela então assim como voltar aqui
+pra gente poder entender que aqui fica
+está fazendo tá hoje que hora que vamos
+voltar aqui é alta qualidade hoje eu já
+tinha visto lá em cima estação
+resgatando aqui ó
+os quais foram as que vai destacaram o
+álcool e os fatos que existe previsão no
+alto percentual de álcool
+o sapatos
+o padre fábio
+e aí
+e agora xinguei ele mais dinheiro
+e foi só uma pergunta só que tá travando
+aqui é um sinal de mensagem de link
+lento aqui para mim tá tranquilo tá
+tranquilo não vou ligar porque resgata
+álcool e qualidade de vinho que serviço
+em cima e a gente percebe no final é
+baseado pacientes por estou indicando
+aqui o mc seu do álcool e os fatos
+tiveram o maior o maior não é não chega
+a ser grande mas tiveram a uma taxa de
+certificação um pouquinho mais acentuada
+para o modelo onde fez essa comparação
+do álcool e o sofá seguindo aquela linha
+de de votar aqui um uma escala cortina
+tô procurando aqui
+e pela nota percentual de álcool e
+sulfato de potássio entendimento que
+para esses parece avaliação essas foram
+duas variáveis sociedade se tinham
+dentes que demais destacaram foram os
+que mais contribuíram para uma nota
+mailon nesse dia então nacional porque
+eu cheguei no ponto final foi que essas
+seriam as duas mais importantes para
+chegar uma nota ou não então texto
+explicativo aqui que as referências
+perfeito é basicamente foi isso mas
+deixa eu só fazer uns comentários finais
+aqui não sobre esse processo como um
+todo tá o meu amigo só pra gente poder
+resgatar primeiro amazon natal e um
+negócio que é eu não acho que existe uma
+receita de bolo de órgãos em várias
+técnicas para você seguir o
+a caminho só não é necessariamente não
+necessariamente o que foi feito aqui
+mora tem a sua mostrar para vocês aqui
+xô ver se eu consigo não consigo
+compartilhar aqui ó ó
+é o que mostra pra galera aqui como é
+que é a região lá da aquífero chorei
+aqui
+e aí
+é tão vendo aí não
+e isso acaba está não é tu safari o web
+agora tá agora tá legal então aqui só
+precisa saber como que era que a beleza
+todo lado todo o código funcional tá os
+caras colocam aqui e te dou umas dicas
+lembra que eu falei que eu aprendi pode
+melhorar o ao que não acho alchemist e
+colocar mais diferença atualizar os
+gráficos mas elas vão a dica aqui o
+esquema do flute que que é você ter os
+menus flutuantes já já vou mostrar para
+vocês qualquer saída daquele aqui
+viladoartesao todos os gráficos assim
+aqueles principais resolvi observações
+novas dicas aqui referência padrão óleo
+que tá tudo bagunçado não há mentiroso
+eu sou desenvolvedor não tendo bem nessa
+escola desenvolvimento eu passo rápido
+aqui porque não é que eu vou te mostrar
+avaliação que vocês verem que faz elas
+cremes grossos os escolhidos para
+atender os critérios avaliados redor
+interesses tendências relacionamentos
+esse filme também se quiserem dar uma
+olhada lá depois o tem problema não
+eu vou tá aqui outro é
+eu não ainda não
+a nossa vou apanhar viu se não tu já bom
+legal então esquecidos aqui tá tudo
+envelopado aqui nesse carinha código que
+a gente faz no final a gente vem aqui
+nesse a arte alfinete mágica clica aqui
+html ou everton também pode ser qualquer
+coisa e vai gerar todo o código para
+gente vai me passar o teu rosto inteiro
+ele vai gerar alguma vez cada um dos
+seus sonhos ai detalhe tá esse código
+zinho aqui para venda aqui a gente tem
+mensagem por exemplo você pode colocar
+que mensagem de erro ou warning elas não
+sejam exibidos na és um escolhido por
+exemplo outros né olhos isso não é sim
+meu código inclusive o gráfico
+aí sim né só aparece gráfica
+e é bem legal
+oi oi quando ele vai gerando aí pessoal
+que tiver alguma dúvida assim eu não
+preparei eu não preparei apresentação
+para você escrever um ótimo tô muito bom
+nada não especifica só para compartilhar
+mesmo que
+oi oi quem tá falando aí cuidado hein
+tá tranquilo outra coisa não
+bom dia
+a história nilson marcos infinitos
+alguma dúvida que colocar a hora van
+e eu não sei se ele já carregou aqui
+barra tão vendo
+e o documento ainda não botou não é
+deixa eu ver se eu consigo carregar o
+documento ele vai abrir direto não levo
+direto lá na outra janela abre outra
+janela a ele já viu para você abriu
+compartilhei ver se apareceu aí também
+aí show oi aqui é a saída mas percebam
+como ela está notebook praticamente né
+grafilapa neide corpo péssima na fui
+péssimo e na minha por votação na minha
+meu corte dos essa é a gente poderia
+colocar imagem poder fazer compras uma
+página web mesmo poderia suprimir tudo
+isso aqui tá vendo se vai ficar
+bonitinho
+e aqui para todo nossa documentação
+sócio júpiter mesma coisa é faltou
+centralizar os gráficos quando uma série
+de coisas assim como eu fiz daquele
+jeito bateu a cabeça porque a estourar o
+prazo que o padre atender os requisitos
+para poder não perdeu curso é né tá bom
+cara cheio demais chegou a famosa famosa
+perfumaria só pô funcional não dão
+graças aqui também cara só tem uma
+dúvida assim é esse datassette essa essa
+proposta daí foi eles que colocaram para
+você ou você tinha várias opções que
+você por escolher as opções aí a gente
+poderia escolher entre 4 opções isso
+mostrar para vocês aqui pera aí não sei
+lá
+e aí
+é isso aí você já imprime o relatório né
+vamos cobrir sim sim o seguinte aqui ó
+oi como é que foi assim esse nome de
+grupo de pacientes primeiro projeto ele
+era um projeto de apresentar os
+pressionarem prisional em python que dá
+um data set de do censo americano e você
+através de uma série de informações se
+possível lavar o modelo preenchido e
+quem seriam possíveis doadores pro seu
+estômago segundo de gajos pressionada
+criar segmentação de clientes uma rede
+de varejo ela queria deve seguir a cruz
+os credores cliente por nicho que o cara
+do bico da tim e dependentes dos adultos
+dados do metrô tem lá das informações
+catraca das meteorologia informação de
+táxi no maior que a ideia é criar um
+modelo para prever a influência do tempo
+no volume de acesso ao metrô de nova
+york
+o último nesse cara que a nossa dados
+colégio consigo abrir esse esse do metrô
+de nova york aí eu já já ouvi falar já
+com ele bem rápido bem interessante eu
+não lembro exatamente aonde mas eu já eu
+já vi o pessoal fazendo esse desafio aí
+e eles eles atualizaram esse esse nome
+de glitter agora ele próximo mesmo ele
+não vai ser a mesma coisa não cabelos os
+cônjuges a água segurado
+o seu quatro cinco conjuntos hidratos de
+dados
+ah e assim você teve que fazer todos
+esses projetos aí para completar sua
+formação é isso aproveitar a promoção
+que foram todos os quatro e quanto tempo
+mais ou menos se elevou para fazer assim
+seis meses curiosidade seis meses
+e o deve ter sido bem puxado hein puxada
+cara para falar a verdade assim eu não
+começo primeiro projeto eu já deu uma
+travada porque é muito puxado não
+recomendo recomendaria para ninguém
+começar direto com esse curso e aqui ó
+ficou custa o seu jogo se abrir já
+terminou espécies com as aulas bem fruta
+avançado eu não tenho medo avançado
+embora seja do novo tempo já ligou lá
+e o atraso estudo pesquiso tento que a
+cabeça faço muita prática mas foi
+difícil primeiro projeto foi muito
+difícil para o tecido primeiro impacto
+aí ele ajudasse ela não tinha ela te dar
+alguns vídeos ajudar os exercícios
+passou pula acaba te forçando aí buscar
+as formas tá e esse outro projeto em r
+foi especialmente desafiador eu vim do
+python certo with python curso terceiro
+e último módulo é analisados com r e e
+o ácido r isso aqui muito legal
+escolhemos baleados pelos se consigo
+abrir aqui
+e assim cara suas aulas só rola se está
+aqui não posso apagar já paguei para
+ajudar você me deu de prova gente
+endereço um pouco lenta aqui
+eu passei na superdose é meu anjo da
+guarda deste romance é buscar faz ele a
+galera que os instrutores não tens do
+facebook eles trazem muito esquecido
+facebook para casal então se voltando
+com esse frango é então é aberto não tô
+conseguindo pegar mas ela tá escolhendo
+45 por escolher entre ver que eu achei
+eu peguei mais fábio agora projeto o
+[Música]
+projeto que eles colocam viola eles
+colocam os dados projeto analice lá na
+26 lado esquerdo aí ó opções coordenava
+ser aquilo ou
+e aqui olha esses aqui ó red wine white
+wine
+o pai deixou o português super deixam
+campanha de doações de campanha
+hoje eu olhei todos aí tá certo se eu
+achei esses dois mundos parecidos mas eu
+preferi pegar o em vermelho que elas
+mais fácil aí eu peguei os mais faces
+que realmente meu amigo vai avançado e
+eu fiquei dois meses nesse cara batendo
+cabeça demais para poder mexer no bola
+ficou bem legal que eu gostei muito
+gostei muito bacana né obrigado para
+colocar outras variáveis no modelo eu aí
+por compartilhar com a gente aí ou ser
+se os as peças vai faz faz um último
+mostra aí as correlações aí
+eu vejo ele havia saído pode ser no do
+projeto final do negócio no arremate da
+hoje é gerado no html e
+eu já não aguenta ele quer algo mais
+pode três correlações aí das várias
+o álcool sulfatos
+e não não uma correlação bota lá os as
+correlações entre as variáveis aquela
+grandão ele gráfico aquele açaí do sal
+tipos com as correlações entre as
+variáveis todas elas emoção não cheguei
+fazer com todas não tá falando esse aqui
+o primeiro com o em relação a resposta
+né cadê o mostra que você mostrou essa
+daqui pelo com todas as separei vou
+ficar muito grande entendeu não não não
+é o gráfico não quero correlação mesmo
+eu quero um
+e é isso aí na correlação não cara isso
+aí ções as descobertas dos modelos volta
+vai para cima e
+e aí
+a nikita não é
+eu acho que não não aqui ó aí eu modelo
+avisa meu você fez ocorre lembra uma
+correlação fez uma outra função
+diferente lá o várias correlações entre
+as variáveis se a resposta às outras
+lembra ela me iniciantes para o cara
+mesmo e chover no código no espaço que
+pode ficar aí
+e aí vai demorar para rodeio aí ó
+se você não muito você fala para o igor
+documentários eu faço um menu flutuante
+ali cada uma das vezes ele era só que
+cai sair direto e
+no entanto explicar o preço de um
+e não tá mostrando a tela do rn
+é feito aquilo
+e agora como é que eu acho aqui um
+pegador do texto 1
+e aí
+e pode mostrar não é mesmo é melhor mais
+fácil né
+e aí
+oi oi opa ah legal legal esse aí que tá
+no documento éden sabe a variável
+resposta a qualidade qualidade
+e aí
+a volatilidade vai passar para baixo
+para baixo tá aqui ó pode posso minha
+mãe comigo aqui vou passar um zap
+e aqui mas acho aqui ó tá vendo isso
+álcool bota lá no modelo o álcool e a se
+desenrolar nossa isso bota essas duas aí
+faz duas no modelo
+e aí
+quem pode pode fazer pode fazer linda
+nele m
+oi eliane redline nessa vai botar como
+data não bota data igual redline quer só
+precisa de a pé não preciso digitar não
+tá beleza dólar é o dólar não cobrinha a
+cobrinha tem que ser cobrir
+e aí
+e no álcool não é a qualidade né
+explicar qualidade né mas a diferença
+pessoal é numérica não tem que ser no
+leque senão ele vai dar um ex numéricos
+e aí
+é muito ruim que direto para o console
+mas na qualidade e aí é ácido volátil e
+e e álcool botei ácido volante e volante
+dele assim ó
+o senhor jogo
+e aí
+o senhor
+e não é que tá os principais já me sair
+de uma deus não vai vai gerar nada chama
+modelo igual lm
+e a modelo zero sei lá que coisa modelo
+bota o modelo não não não é aí
+oi dona pedro henrique tá fazer um
+negócio aqui que é muito ruim já está
+direto uma vírgula teste tempo antes não
+o livro aí abre uma inscrito sim é
+melhor e mais ou menos anos pessoa
+jamais aí tirei tirei isso parente ser
+tá com a mais aí
+e aí ontem eu rolei
+a beleza guardar uns amarelo modelo da
+eliane
+e aí
+oi oi
+e aí
+o marcadores cute
+fala comigo
+e ele tá ele tá indicando lá no lá no
+terminal ele tem que fechar ainda não
+nunca vou sair agora não ele não vai
+rodar porque tá embaçado aperto de
+resgatar isso
+e ele deu um erro aí como aí
+a ilópolis lei mano
+os jornais assistência é maiúsculo é o
+que é
+a marca igual tiras 40 ck one da função
+toda
+é o é melhor função toda essa não só
+[Música]
+manda só mais no mere que isso aí para
+ver se ele vai fazer ou não eu tô
+achando que esse red wine aí tá escrito
+errado mas tenta aí tenta redação mais
+numérico e red wine collection não não
+valores numéricos red wine cole-as
+numérica e hardwere 4
+é isso aí não fica um parênteses
+é difícil não tem que tirar o parentes
+do dlm aí ó
+e ai ai vai pode ir
+e ele tem perto de novo fala de novo dá
+um controle entre
+o irmão brincar agora foi
+a pena tom a roda e vamos aqui eu acho
+que tem alguma coisa aqui tá escrita
+errada red one ou três filhos de bombril
+tenta rodar essa linha agora do modelo
+da linha de mim é
+e esse aí é meu acho que tá com ele mais
+contam ou não para mim não é
+a mary kay linda
+o velho
+e a é maior mais cara calma aí que
+ainda viu no maluco é mais lado depois
+do vou descer mais lá beleza vai é mais
+a mais a veio rodeio
+a beleza agora dar um samba aí na parada
+e aí
+o 307 a filha da deus deu tudo e
+significativo tem um modelo mas o que tá
+faltando uma variável vou brincar aí
+depois com essa aí doido deve
+fazer assim depois de refinada medida
+que for aprendendo um pouco mais em
+voltou esse cara aí que eu boneco stuart
+peguei a base as aulas é ó vou dar uma
+brincada eu trago aí para você
+experimentar também ótimo gostei muito
+obrigado demais aí acho pessoal bastante
+também teve várias perguntas aí pessoal
+gostou e por obrigadão né e sucesso aí
+com teu diploma daí o das vai conseguir
+agora aí trabalhar com datas ai como é
+que fez aquela loucura né de largar eu
+melhore
+é um emprego já estabilizada né e aí
+para um sonho ainda tá site né aí agora
+vai parar consolidando aí teu tem o
+objetivo de todo mundo junto ainda
+galera precisando pode comer junto e
+chama não é isso aí galera uma coisa
+pode mandar lá no grupo lá que é duro é
+coisa que a gente vai falando eu vou
+mandar o material para vocês lá tá massa
+demais pegar meu produto eu vou anexar o
+seu material lá não quando eu for
+colocar o vídeo tá beleza beleza só
+valeu galera aí um forte abraço aí para
+vocês obrigado aí pela presença
+e até a próxima valeu abraço gente até
+mais valeu olhos brigadão hein
+e aí

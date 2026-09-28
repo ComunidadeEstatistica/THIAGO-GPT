@@ -1,0 +1,2632 @@
+# Workshop Projeto Màiron Chaves - Self Service Estatística com R (Prof. Thiago Marques)
+
+- **URL:** https://www.youtube.com/watch?v=ZO2Egj99QM4
+- **ID:** ZO2Egj99QM4
+
+## Transcrição
+
+é só é ao arrastar ficar você consegue
+tirar Insight muito bom né E a gente vai
+fazer aí mas na cidade bem maneira né
+com com dados do Pokémon É verdade bem
+melhor aí sim boa noite Tiago e Mairo
+Tudo bem boa noite tudo bom Thiago Oi
+tudo joia aqui ele se inscreveu agora
+então ele não é
+aí eu mando o link
+e é eu vou mandar para ele então até
+copiados copiei aqui do bojo chat eu vou
+copiar do e-mail que você mandou Então
+vou mandar para ele aí tá bom aí você me
+fala valeu obrigado tá
+É mas o Tiago manda aí vai ter uma
+pessoa 1981 já tem seguro fazendo aqui
+vamos pro assim com certeza agora beleza
+Beleza então que sol bom então é queria
+dizer boa noite a todos né Obrigado aí
+pela presença não é um convite aí depois
+amarela também né é e parabenizar né por
+essa iniciativa fantástica né Eu acho
+que é muito importante né tô sempre
+tentando incentivar vários tipos de
+iniciativa nesse sentido né porque eu
+acho que a gente tem tem que ter Igual
+igualdade de oportunidade infelizmente
+no Brasil a gente não tem isso né mas a
+gente tendo Formento aí como os do
+pastor Maio é dia Paulinho de pé né ele
+tá tirando aí dedicação aí tá chegando
+no trabalho para fazer aqui aula com
+vocês convidar pessoas também na área
+para ela tá trocando uma ideia aqui
+fazendo arte
+e vocês e passar conteúdo de qualidade
+então é um grande prazer estar aqui tá é
+professor Mário né tá lá junto comigo na
+comunidade estatística também uma grande
+honra que o conosco já fiz live com a
+gente também então um cara que eu admiro
+bastante né pessoa excepcional né então
+vocês estão muito bem encaminhados aqui
+com ele né então eu vou vou compartilhar
+aqui minha tela tá mas antes eu só só
+vou falar para você dar um breve
+histórico aí né Hoje em dia eu sou
+consultor no IBGE né trabalho lá no
+censo agropecuário indígena eu dou aula
+na MB da USP natação esse Analytics nas
+do aula na ambiente 100 cilindradas da
+Unifor e da Farias Brito também ambas de
+Fortaleza tá E todas também esse de
+dados né E já trabalhei aí tanto na
+Esfera privada quanto na esfera pública
+né então
+é uma visão um pouco Ampla né E tem
+consigo trazer um alguns Alguns cases e
+são bastante relevantes né para o para
+você entender aplicação da estatística
+na Então eu acho que aqui hoje a ideia
+vai ser a gente fazer isso mesmo é
+trazer em site arrastando E clicando né
+no draganddrop né que a gente chama né
+então eu acho que a ideia é um pouco
+essa tá então vou compartilhar aqui
+minha tava com vocês eu pressionar eu
+tenho que me dar o rosto aí senão não
+consigo compartilhar aqui por favor boa
+Oi Rayane boa vamos lá então vou
+compartilhar aqui minha tela toda tá
+bom então é
+a beleza aqui pessoal só vou eu fiz uma
+breve apresentação aqui né aqui vocês
+podem conhecer né meu trabalho tudo mais
+aqui no link e Dinho são bastante
+atuante tá em Tem tudo aqui que eu faço
+né então não vou ficar me alongando
+muito tá aí eu vou mandar o link aí para
+vocês também se vocês quiserem conhecer
+aí o trabalho também que eu ver aqui se
+eu consigo compartilhar um chat
+E aí eu sempre me perco no sun online eu
+eu não tô achando chat aqui calma aí
+deixa eu tirar tudo voltar ao tragar é
+boa uma ótima de tão tá aí pessoal que
+vocês quiserem conhecer todo o meu
+trabalho tem aí o a comunidade
+estatística acordando a casa da pesquisa
+operacional também que são dois projetos
+têm um fundo Educacional muito legal tá
+é o r Leão ele é uma potência tá é uma
+Ferrari tá você tem o r aí para que ser
+utilizado em ela é utilizada pelo pela
+IBM pelo Google né pela NASA estão
+porque a gente vai usar o RNA é o r ele
+é uma ferramenta que tem sorte não é
+gratuito né com código de código livre
+você pode ir lá alterar né fazer tuas
+análise esse 10 tipos de aqui por
+exemplo ele foi que
+e não erre tá uma biblioteca chamada
+flexdashboard tá só que foi uma análise
+de dados do Netflix é lá da Netflix do
+lado da casa da minha namorada né E aí
+lá eles assistiram 34 1775 tá alguma
+algumas séries também assistir junto né
+porque a gente compartilha ou o perfil
+né tem cinco usuários né e compartilha
+esse perfil e 13145 total de horas
+assistidas né entre séries e filmes
+nessa Jornada das Estrelas patrulha
+canina Era Uma Vez Lost Agente da SHIELD
+é How Met Your Mother muito engraçada na
+frente também bem clássica né e dez
+mandamentos The Walking Dead né e
+Anatomy Grey né E aí Aqui você encontra
+algumas estatísticas também a quantidade
+de horas assistidas por perfis né todos
+os vários
+e tem aqui também a quantidade de
+visualização tô aqui todo mundo acho que
+já conhece lá do Facebook né palavras
+mais frequente então quanto maior é a
+palavra maior a sequência que ela
+aparece na quantidade de vez que ela
+aparece e quanto mais próximas
+tonalidades mais próximas são essas
+frequências tá E tenha um de magnitude
+né então ontem a dia Três é Demais Power
+Rangers Marvel Demolidor Doutor House
+era uma vez na stranger things O Último
+Dragão Então essas são as séries e
+filmes né Que Eles assistem com mais
+frequência na que aparece aqui maior aí
+aqui
+o show
+e eu fiz um gráfico de usuários das
+séries assistidas tá o grafo ele ele tem
+nós e arestas né o gráfico que
+representa a relações né aqui a relação
+entre as séries assistidas e usuários
+Mas então por exemplo aqui ó vou dar um
+ele é interativo só que uma rosa é uma
+caneta fica um pouco complicado aquilo a
+gente consegue vamos lá olá aí aqui por
+exemplo minha namorada Maria Amélia aí
+aqui ó as séries que ela assistiu a o
+golpe duplo é caminho do demônio Terra
+20 anos mais jovem sim aqui tem a
+quantidade tem as séries né o nó são os
+usuários Então ela é um usuário tá e
+aqui são as arestas e as ligações entre
+as arestas são os filmes que tem comum
+por exemplo aqui aqui embaixo você tem
+outros usuários como é que o irmão dela
+e o Hermínio e ela tem em comum esses
+filmes aqui ó
+e eles dois assistiram esses filmes e
+séries aqui ó e é Uma Aventura
+Congelante Jamaica Abaixo de Zero tá
+vendo a revolução então a gente consegue
+ver o que cada um assistiu né para você
+ter uma noção né E aí poderia ser por
+exemplo seus clientes né lá quais
+clientes que compartilharam na compra de
+produtos né esses clientes aqui compra
+esses produtos e esses produtos aqui e
+não então você consegue já vislumbrar
+esse tipo de coisa para fazer
+recomendações né Assim como as
+recomendações do Netflix também né de
+filmes usuários sim então tem vários
+tipos de algoritmo de recomendação né e
+aqui eu fiz uma visualização que é o
+número de visualizações de 2002 é 2021
+do Netflix né então a gente vê ao longo
+do tempo como é que vai sendo essas
+visualizações vão se dando né
+Oi e aí você pode vir como é que esse
+gráfico ele é criado tá então R é uma
+potência né E a gente vai utilizar para
+fazer a análise do banco de dados do
+Pokémon Tá então vamos mostrar para
+vocês a base de dados que a gente vai
+utilizar Tá mas antes eu queria que
+vocês baixasse não erre para quem ainda
+não tem o r na máquina por favor
+acompanha que comigo aí você vai digitar
+aqui ó no Você vai ir no Google né aí no
+Google você vai digitar r-project beleza
+e aí o primeiro que vai aparecer isso
+aqui ó daí para o gente só tático compre
+beleza aí você vai clicar tá você vai
+botar aqui ó download are
+o Wellington que faz tá aí aqui você
+escolhe um clã tá aqui o que que é o clã
+onde vão estar os pacotes que são
+pacotes pacotes são soluções que os
+usuários eles utilizaram para resolver
+determinados problemas né sejam eles na
+área de medicina é na área de
+estatística na área de biomédica na
+enfim é de água na parte de agronomia né
+então tem pacote em todas as áreas que
+resolvem vários problemas que os
+usuários tiveram né então por exemplo
+aqui vamos baixar o da Fiocruz né então
+você vem aqui no da fio Cruz tá E aí
+download R for Windows beleza aí você
+vem aqui ó instalar re Ford freestyle E
+aí você vem aqui na versão mais recente
+dele que é 4.0.3 e download aqui tá
+então se você clicar aqui ó ele já vai
+começar a fazer o
+e não demora muito não tá E aí
+basicamente apertar next next next toda
+vida tá que ele vai estar lá beleza
+então é o r é o que a gente vai precisar
+para estar fazendo análise do nosso
+banco de dados tá E aí a gente vai usar
+o RS a gente abrir ele ele é muito feio
+né Ele é um pronto tipo um prompt do
+ms-dos né para quem conhece aí né ele é
+ele é pretão né ou azul e aí vai ser ali
+uma linha de comando para você fazer né
+mas você pode baixar também uma ideia
+que é o que que faz a ideia Opa tem um
+microfone aberto aí tu só desliga aí
+para mim entendeu falando contigo Beleza
+a beleza Olha aí tranquilo eu já fui já
+aí aqui ó a gente vai baixar uma ideia
+aqui que eu me der a ideia ela faz a
+interface com o usuário né então ela vai
+te permitir abrir janelas gráficas você
+fazer coisas mais ponte clique né baixar
+biblioteca de forró mais ponte clique
+também sem precisar programar tá então é
+aí aqui ó vamos vamos vir aqui ó a gente
+tudinho tá e aqui você vai botar vai
+colocar aqui ó download da Estúdio ideia
+Beleza então bora lá ele ficou aqui
+entrou no site tá E aí você vai vir aqui
+ó você vai ver que tem várias versões tá
+a gente vai baixar gratuita tá Eu nunca
+precisei usar paga beleza não então tudo
+que você vá fazer daqui para frente não
+é eu acredito que você não precisa não
+precisa de diversão paga tá a gratuita
+resolve todos os problemas beleza
+Olá a todos os problemas que eu tive até
+o momento eu usei gratuito tá então é só
+você vir aqui ó download tá E aí vai
+depender também da só para falar a gente
+tá baixando aqui para o Windows tá aqui
+foi a versão indo mas o erre ele é muito
+plataforma tá você pode ir só tem versão
+para Linux Tem versão para Mac Então
+quem tiver lindo que são né que eu tenho
+que faz tá é só você baixar de acordo
+com a sua versão beleza até aqui tudo
+bem PSOL é a ideia aqui né só para ficar
+mais claro né é a gente fazia de uma
+forma mais assíncrona tá Até porque vai
+ficar gravado então vocês vão poder
+revisitar beleza por quê Porque se fosse
+um por um nessa fosse cada eu pudesse eu
+tivesse aqui pedi para pessoa
+compartilhar e tudo mais não é como tem
+50 pessoas assistindo aqui né Ia ser um
+pouco complicado da gente
+o quadro né de fazer isso tudo tá então
+a ideia que eu vou fazendo passo a passo
+tá caso tenha dúvida pode perguntar à
+vontade ta pode ser pelo microfone pelo
+chat está fica à vontade é ir além disso
+é a gente vai trabalhar de uma forma bem
+passo a passo tá então bora lá então tem
+uma tem uma pergunta aqui no chat a uma
+para tomar um botão aqui o guia para
+instalação da Studio beleza aí para
+somar eu vou pedir se tiver alguma
+dúvida alguma coisa pode interromper
+aqui passar na dúvida tá fica à vontade
+Beleza então você vem aqui né Aí você
+vem aqui se for Windows né No meu caso
+aqui é o Windows Então é só download a
+study for Windows tá ele vai baixar tudo
+mais é só você dar next next next toda a
+vida também aquele vai estar lá beleza e
+aí logo depois disso né você vai digitar
+aqui
+e por exemplo já vai aparecer atitude tá
+então você vai clicar vai abrir E aí ele
+já vai abrir uma tela similar essa aqui
+tá só que pode falar o outro pessoal tá
+perguntando aqui sobre o resto de febre
+seja o a mexer eu nunca Mexi o Cláudio
+né que você tá falando então eu mexi
+pouco tá mas existe você pode rodar
+Inclusive tem o Google colab também tá
+você pode usar o usar o r na nuvem com o
+Google colab tá é o jogo tem notebook
+também rodoerre tanquinho é o mesmo do
+Python né é o Júpiter notebook também
+para rodar na nuvem né então você pode
+rodar na nuvem também é mas aqui prefira
+o resto dlocal tá não na nuvem para a
+gente rodar Ah não sei como é que ele
+vai se comportar com a biblioteca que a
+gente vai utilizar na nuvem tá então o
+gentileza use o local tá Então baixa
+é só para gente utilizar beleza tudo bem
+Legal E aí ó essa aqui é a carinha da
+Estúdio tá o r-studio ele A ideia é que
+eu falei que ela potencializa essa
+linguagem né então se você você tem
+janela asinhas aqui né que aqui é
+equivalente ao bloco de notas tá onde
+você digita o seu código né Aí eu você
+dava o contra o Inter e ele vem aqui
+para tua eu console tá o console é aonde
+vai rodar de fato código tá aqui você
+escreve o código e aqui você Rosa tá
+nessa aula a gente não vai rodar muito
+código tá gente vai fazer mais uma ponte
+clique Tá mas eu estou falando de forma
+geral tá caso você ter avançar né os
+teus estudos é assim que vai funcionar
+tá aí aqui no global environment é onde
+fica o teu spoiler né então todo objeto
+que você criar você já irão vetor um
+Data Frame né quel é o que a gente está
+acostumado lá no céu né com um conjunto
+de linhas e colunas e cru
+a minha coluna né O que que tem lá as
+nossas variadas tudo mais você vai ver
+acontecendo aqui tá os espólios o sal
+tipos né saídas tá no de tudo que vai
+ser rodar vai vir aqui e adiantou a
+mente quando você fizer gráfico ele tem
+uma janela aqui de viu e de pote né
+então ele vai aparecer os gráficos nessa
+janelinha tá isso de forma geral ta hoje
+a gente vai mais no point click como a
+gente tá falando tá então ó eu vou
+mostrar para vocês né como é mais beleza
+né se você for tá mostrando o código né
+como é que você vai fazer assim código
+né então vou mostrar aqui para vocês
+como é que a gente usa o r sem código tá
+toma a gente eu tenho o link assim aqui
+vou qualquer compartilhar aqui no chat
+com vocês vou mandar o
+e deixa eu ver se foi tudo aqui na nossa
+eu eu consigo outra saiu aqui não
+consigo mestre Vou compartilhar o Faro
+aqui com ele está você anexar tá tão
+calma aí pessoal que eu vou anexar aqui
+ó
+e a nossa aula é para ficar mais fácil
+aí para vocês também tá deixou dia aqui
+o shopping
+o workshop Marlon Chaves
+Oi ó vou botar o tanto a base quanto as
+bases nas duas ou ele só aceitou de um
+de cada vez né eu vou botar o código vou
+botar o código para vocês vou botar a
+base em Excel tá quer que a gente vai
+usar de fato e vou botar a outra só para
+que eu vou mostrar como é que você se
+importam esse tipo de arquivo também tá
+RD até mais nativo do tá então beleza
+então eu vou mostrar aqui para vocês
+esse link que eu mandei para vocês ele
+faz uma comparação tá de interfaces
+point click para você utilizar tá então
+aqui ó se você olhar aqui ó Existem
+algumas tá ó Buscai tá rsrs MDR resto de
+Dulce já movi de arte enfim tem várias
+tá a gente vai usar o rcmdr porque o
+skar Ele é bem legal tá ele é muito
+o spss inclusive ele foi desenvolvido
+por Ash desenvolvedores do spss tá ele é
+muito legal ele faz muita coisa tá só
+que a parte gráfica ela é muito boa tá é
+com GG port tudo mais tá a parte gráfica
+como tudo ele tá com um buquezinho
+bastante forte na parte gráfica ele não
+tá trabalhando bem com gastos tá então a
+gente vai optar pelo rcmdr que o gráfico
+ele é menos vamos assim profissional do
+que o Buscai Mas você consegue extrair
+muita coisa legal tá então a gente vai
+trabalhar com rcmdr E não esqueça que
+não chega a ser uma uma interface desse
+tipo aqui porque ela não é tão completo
+A serve mais para visualização o foco
+dela é só visualização esses todos aqui
+eles fazem as vezes modelagem fazem
+transformação de dados então o esquecer
+não me trai
+Oi maninha mais limitada tá então a
+gente vai ver direitinho tá E aqui tem
+uma comparação entre eles né também ó se
+você olhar aqui ó ó a instalação é
+simples é simples de vocês tartar
+importar os arquivos é fácil aí tem tudo
+aqui os usuários deram notas né E aí
+você pode comparar e eles fizeram aquele
+lá com essas notas usuários tá beleza
+legal a gente vai usar esse aqui ó rcmdr
+tá beleza então como é que eu faço para
+usar o rcmdr Né o r como André tá que
+esse esse aqui ele é excelente tá você
+consegue importar base de dados você
+consegue fazer regressão você consegue
+fazer com a esterilização você se você
+não sabe o que que é isso ainda eu vou
+explicar tá não não se preocupe tá mas
+você consegue fazer cruzamento de dados
+de tabelas de frequência né e e assim
+por diante a gente vai ver na prática
+como é que funciona tudo isso tá então
+como é que eu
+a s m r a gente tem uma Binho aqui
+embaixo chamada packages tá aí se ele
+tiver aqui estao
+e só dá um clique tá ele vai demorar um
+pouquinho para abrir E aí ao abrir a
+gente vai digitar rcmdr tá olha Abril tá
+vendo aí ele vem aqui ó repositório no
+clã né que é onde tem o conjunto da juve
+Leo até acho que eu vou trabalhar tá
+então digita aqui ó é assim cmdr cm de
+já vai aparecer ó tá vendo é o segundo
+aqui ó rcmdr tá vendo eu dou uma estao
+tá o estou ele vai começar a instalar
+mais tarde pacote tava demorar um
+pouquinho para vocês se vocês nunca
+instalaram ele ele vai demorar um
+pouquinho porque ele está lavar ele tem
+várias dependências que que é isso baixo
+pacotes que precisam para ele rodar tá
+então ele vai com ele vai começar a
+instalar todos os pacotes né ele vai
+demorar um pouquinho tá E aí depois que
+ele está lá eu o meu não vou estar lá e
+já tenta depois que ele está lá você vem
+aqui ó E você Vai comandar Esse comando
+aqui ó
+o CMD é essa linha oito aqui tá do nosso
+arquivos tá você vai vir aqui ir lá tá
+clica aqui ou você vem aqui da contra o
+Inter tá tanto faz Beleza vou ver aqui
+no bloco que hoje a aula é mais frente
+dele tá só hum
+Oi e aí ó como ele já está instalado eu
+só tô carregando né porque eu tô falando
+para ele eu quando eu estalo né quando
+eu dei um estalo aqui que que eu tô
+falando olha eu tenho lá na Fiocruz uma
+nuvem onde tem o pacote né eu tô
+chamando olá uh rcmdr que tá lá na
+Fiocruz na minha máquina tá quando eu
+dou o estou E aí do momento que ele tá
+na minha máquina que que eu preciso
+falar para o olha eu quero usar esse
+pacote né quando eu quero usar esse
+pacote ou dois comando aqui ó Library tá
+o Hitler tá Angus fazem a mesma coisa
+eles têm uma uma diferença a pena tá que
+não vale a pena comentar aqui no momento
+tá mas você pode usar tanto um quanto o
+outro ele vai carregar tô biblioteca
+tranquilamente para você utilizar beleza
+tudo bem PSOL e ao carregar você vai ver
+que vai surgir uma vizinha aqui do lado
+do lado do da do RT né porque o meu tem
+alguma coisa aqui do lado tá
+se fosse uma vizinha aqui do lado e aí ó
+ele já aparece o novamente valor eu não
+peguei agora para carregar o pacote
+pacote Você já instalou já instalou né
+carregar o pacote você vem aqui na linha
+8 tá vendo pode clicar em qualquer lugar
+da linha tá e dá um outro Você foi no
+tudo bem vamos lá para abril para abrir
+a aula né tem que vir aqui ó é isso que
+a gente vai abrir tá desculpa eu esqueci
+de avisar tá bom
+bom então eu não digo quando você clica
+aqui ele vai abrir aqui essa minha aqui
+tá com isso tudo aqui tá tudo bem beleza
+todo mundo consiga fazer esse passo aí
+para gente seguir conseguiu aí que me
+perguntou
+E aí
+é de conseguir sossegado Beleza então
+Qualquer coisa é só falar tá pensando
+fica com dúvida não então beleza então
+ele abriu a janelinha aqui ó Tá mesmo e
+aí você pode reparar lá tem uma
+janelinha aqui com o arquivo editar
+dados estatística gráficos modelos de
+missões ferramenta ajuda editar conjunto
+de dados ver conjunto de dados né então
+tem uma série de funcionalidade tá ela é
+bem completo tá legal E aí como é que eu
+faço para carregar um banco de dados né
+primeira coisa né Qual o formato que o
+banco de dados está né Eu tenho dois
+arquivos aqui tá aí eu tenho esse
+Pokemón aqui que tá em arredata tem um
+formato nativo do Erre tá é bem
+específico tá você não vai encontrar em
+um software nativo do é tá e tem um
+formato que é o csv que a gente está
+acostumado no Excel tá que no caso é que
+se a gente tem várias extensões X
+e xlsx e também a gente tem também o csv
+não é que é separado por, ou
+ponto-e-vírgula tá então por exemplo se
+eu abrir aqui ó ele é um arquivo normal
+e vocês estão acostumados geralmente tá
+vou abrir aqui para vocês verem a
+carinha dele só para
+e Vocês entenderam um pouco mais que eu
+tô falando
+E aí
+Oi ó você tem um arquivo aqui está vendo
+aqui em cima a gente chama de rede tá
+que é o que o cabeçalho do arquivo tá
+que aonde vamos ter um nome das
+variáveis Então vai ser Pokémon altura
+peso experiência ataque-defesa tá
+e você vai ter aqui para baixo o banco
+de dados em si tá e se você ver as
+observações elas estão separadas por, tá
+vendo Então ele é um tipo de arquivo csv
+separado por, tá então esse é o tipo de
+arquivo que a gente vai importar lá
+dentro do rcmdr agora tá então vou
+fechar aqui tá Então você já viu mais ou
+menos o banco a gente vai mostrar lá
+mais detalhadamente quando a gente me
+cortar Tá então vamos lá primeiro passo
+vir aqui em dados tá
+os dados para importar um arquivo que é
+se ver eu tenho que vir aqui ó importar
+arquivos de dados tá vendo tem uma Bia
+chamado importar arquivo de dados e aí
+você vê que ele ele é bem robusto ele
+tem uma extenção bastante grande arquivo
+você pode importar spss é um software
+estatístico tá então e importa extensões
+do spss tá ele importa extensões do site
+também que a outra software estatístico
+autoral né que é pago também a espécie é
+pago também tá ele importa do minitab
+também tem outro software estatístico tá
+que o militar Salvo engano ele é
+gratuito tá o estátua é autoral também
+né ele porta arquivo do estátua tá indo
+Excel como é que a XLS né E caso a gente
+quer importar arquivo que são TXT ou csv
+né que são extensões de arquivos né você
+vem aqui ó nesse cara aqui de cima tá E
+aí ele vai abrir uma janelinha para você
+ó aí ele vai perguntar ele desse
+o conjunto de dados Esse é o nome que
+você vai dar para o teu conjunto de
+tarde então eu vou chamar de Pokémon tá
+então tô chamando aqui ó
+jogo de Pokémon é vou chamar de Pokémon
+tá beleza e aí ó nome das variáveis do
+arquivo tá então eles não tá eu vou tá
+marcado aqui tá ó convertera variáveis
+que são caracteres para fatores para
+entender que tem níveis da variada tá a
+gente vai explicar isso melhor como a
+gente for trabalhar tá aqui ele vai
+perguntar olha para dados faltantes qual
+qual vai ser o símbolo que vai me
+identificar que eu tô com dados
+faltantes vai CNA tá beleza eu tô me
+importando de URL da internet clipboard
+ou sistema de arquivo local a gente vai
+importar de local da máquina tá então
+nosso arquivo tá na máquina então
+sistema de arquivo local tá E aí qual o
+separador separador a, que a gente viu
+lá as observações elas estão separadas
+por, tá Tem banco de dados que vai ser;
+tem outro que
+o espaço tem outras que você vai botar
+um pai pena que há uma uma barrinha na
+vertical né que é o pai pedido de
+separação tá o pai do RD tarde Vanessa é
+outra coisa tá E aqui ele tá dizendo que
+o ponto decimal por exemplo se eu tiver
+uma observação que 10 10 e 64 por
+exemplo r$ 10 64 centavos né Será que
+ela vai estar com, como pontuou como, né
+lá fora o formato é ponto aqui no Brasil
+é, tá então como esse essa base da Di
+Ela veio lá de fora né a fruta de uma
+bicicleta lá de fora ela veio com ponto
+de ponto flutuante não desse mal é. Tá
+não é, então a gente vai botar aqui. Tá
+então ao comandar ok aqui ó
+e ele vai
+E aí você vai dizer para ele Qual o
+banco que você vai estar importando né
+então o Pokémon filtrado tá vendo
+Pokémon filtrado Abrir tá então Ó eu já
+importei o meu banco aqui tá vendo
+Oi tudo bem pessoal
+e ele tá aqui aí eu quero ver se eu
+importei direito esse banco tá então vem
+aqui ó ver conjunto que tá vamos ver se
+foi direito tá se ele não importou
+direito vai tá errado aqui vai tá tudo
+vai estar todo diferentão eu tô aqui
+rindo mas olha tá que nem o Excel na
+geralmente então Pokémon tem aqui os
+Pokemons a bubassauro de só altura do
+Pokémon peso experiência ataque-defesa
+vida tipo do Pokémon se a planta água
+nem inseto ataque especial deferência
+especial velocidade habilidade e forma
+tá então esse é o nosso banco de dados
+tá então Já entendi já importou banco tá
+agora eu vou ensinar para vocês como é
+que eu importo esse segundo aqui com um
+formato R deita tá que às vezes tem
+também esse tipo de arquivo tá então vou
+mostrar aqui para vocês como é que faz
+então
+eu vou vir aqui ó carregar conjunto de
+data é mais simples tá porque ele é
+nativo do então tem ele é bem mais
+tranquilo então você vem aqui ó carregar
+conjunto de dados se você vem aqui marca
+Pokémon e simplesmente Já carregou tá E
+aí como é que eu faço para ver esse
+banco de dados aqui carregada né então
+tem um negócio aqui chamado conjunto de
+dados ativo tá você tem aqui ó
+selecionar conjunto de dados ativo é
+para ver o conjunto que você vai tá
+trabalhando tá
+bom então
+O Julia Eu acho que eu não te perguntei
+eu vim aqui ó um conjunto de dados ativo
+selecionar conjunto de dados ativo
+e a mãe deixa eu ver se eu me cortou
+e a ó ele já importou aqui
+e ele já importou o outro arquivo tá
+vendo ele tem muito mais coisa tá vendo
+ele tem 30 colunas Salvo engano tá ó
+aqui ó TV Tem um Pokémon tem laid eu
+traduzir tudo para português e fiquei
+com menos colunas tá gente só vai
+trabalhar com 13 colunas Beleza então a
+gente vai trabalhar como segundo arquivo
+tá e não vai trabalhar com esse arquivo
+aqui tá então quê que eu vou fazer eu
+vou deixa eu ver aqui como é que eu faço
+para mudar o conjunto
+e a tem uma forma de vocês aqui time
+aqui
+com a ajuda variáveis no conjunto de
+dados motivo e eu dei não
+oi Calma aí deixa eu só lembrar como é
+que eu faço para trabalhar quando tem
+dois
+hum hum
+E aí
+e não
+E aí
+a porta corrente de idade mulher
+o d-fine A de conjunto fazer filtro
+variáveis
+e com ele tinha que estar aparecendo
+aqui mas enfim vamos vamos importar de
+novo aqui então o de o de texto para
+ficar por cima depois eu vejo como é que
+a gente faz então vou botar aqui Pokémon
+de novo até bom para vocês refrescar
+aqui como é que faz então amar deixa
+tudo marcado aqui aqui deixei minha alma
+nesse que nada tá só vem aqui ó como a
+separado por, tá e pontos tá sobre a
+escrever conjunto de dados sim então eu
+tô botando em cima do outro tá então
+sobre a escrevendo aquele aquele
+conjunto
+bom então vamos ver se ele tá
+trabalhando agora com ele certinho
+beleza agora tá em português tá tá com
+meu conjunto certinho tá tudo bem
+pessoal eu importei de novo o mesmo
+conjunto para gente trabalhar aqui tá
+até aqui tudo bem alguma dúvida todo
+mundo consiga fazer isso
+Oi e aí ó é vamos vamos fazer algum
+Jesus univariados aqui eu botei um
+motorzinho para gente brincar tá então
+já importamos o banco então eu vou dar
+um ok Aqui tá estatísticas univariadas
+ou seja para uma variada né Então bora
+lá como é que eu faço novamente por
+favor ainda tá baixo no pacote estava
+fazendo aqui eu consigo só onde você foi
+aí para colocar um
+Eu sei que você quer fazer o que quer
+que o esporte aqui não é onde você foi
+aí comando beleza importar arquivo de
+dados em dados de ar livre playground
+que comanda que eu não tô achando aqui
+no rstudio você tem que já estava
+biblioteca já tentei carregar você
+carregou
+É verdade Tem que comandar essa linha
+oito aqui ó tem que dar hum ou contra o
+Internacional em oito aqui e aí ele vai
+surgir aqui ao lado tá
+Oi beleza
+e ele vai surgir do lado do lado da
+Estúdio o computador aí tudo bem
+Tranquilo Beleza qualquer coisa chama aí
+aí a gente vai fazer agora alguns
+resumos não tá então resumos numéricos
+por exemplo a primeira eu vou ver de
+forma geral né o banco tão conjunto de
+dados ativo ele perguntar 13 variáveis
+Você quer continuar Ok E aí quando eu
+aperto aqui ele vem aqui ó e já cria no
+console análise para você ó ele já venha
+ele ele ele mostra qual comando que ele
+usou para fazer que eu Summer tá então
+você não precisa saber que é o Summer tá
+ele já faz automático e te mostra qual
+código e aí você vê aqui um resumo de os
+Pokemons a quantidade de Pokémon Então
+esse amor a bom mais nao tem um tem um
+abra que tem um e assim por diante tá E
+aí a altura o mínimo é um
+O primeiro quartil é seis ou seja 25
+porcento dos Pokémons tem até 6 de
+altura é isso que o primeiro quartil me
+fala tá mediana cinquenta por cento dos
+meus Pokémons tem até dez de altura a
+média É somar todo mundo e dividir pela
+quantidade de elementos do teu conjunto
+certo então 17 pontos e 78 tá ele é o
+ponto de equilíbrio do seu conjunto tá E
+aí ó terceiro quartil você tem cinco
+porcento das acções observações é essa
+representado que foi o terceiro
+porquinho então por exemplo eu tenho que
+75 por cento dos Pokémons tem até 15 de
+altura tá e você vê que tem o máximo
+aqui de 1.080 quer um cara bem bem
+distante né a gente pode até considerar
+um possível outline um cara bastante
+atípico né bem diferente ali da Média
+nessa média 17.38 ou eu tô com cara de
+mim 80 então provavelmente ele vai ser
+um cara muito influente
+a recém só para analista tá muitas vezes
+pode ser um erro tá também tá pode ser
+fruta ele de 10 que colocou a mais aqui
+poderia ser 108 cara botou 10 a mais
+aqui ficou 1080 por exemplo né então tem
+que considerar esse tipo de coisa tá ao
+peso mesma coisa mínimo é um primeiro
+quartil 95 então é 25 porcento dos
+Pokémons tem até 95 de peso né a
+cinquenta por cento tem até 295 e assim
+por diante Então você começa a explorar
+os dados univariada mente você consegue
+ver as variáveis tá de forma univariada
+tá então você tem ataque defesa vida né
+o tipo E aí o tipo ele mostra as
+categorias na uma variável categórica
+então o de água a gente tem 113 Pokémons
+normal 98 plantas 70 inseto 69 e 56
+assim por diante tá então é a frequência
+absoluta simples ou seja a contagem dos
+elementos
+Ah e assim por diante beleza tudo bem
+até aqui pessoal alguma dúvida
+e se tiver Fala aí não tá beleza Bora lá
+então então vamos vamos fazer aqui
+alguns resumos então numéricos tá então
+vou eu posso escolher uma variável
+específico aqui por exemplo a gente vai
+querer analisar muito a experiência do
+Pokémon tá então quais variantes que
+influenciam na experiência do Pokémon tá
+será que é o ataque o peso a vida né A
+gente vai fazer inclusive é posterização
+E vai fazer também regressão tá com a
+experiência do Pokémon tá para descobrir
+quais fatores que influenciam na
+experiência do Pokémon tá então eu não
+vim aqui ó resumo numérico né e
+selecionei a variável experiência né
+Então bora lá a média
+há 151 né desvio padrão que que eu
+desvio padrão e ele me dá a
+variabilidade do seu conjunto tá então
+enquanto diz tem relação à média tá em
+relação aqui a média da experiência que
+é 151 quanto que está distante dentro
+dos Pokémons tá então a gente tem o
+desvio padrão que você tem que ter oito
+esse aqui é o que 3 - O que é um né o
+dever interquartílico o terceiro quartil
+- 1º quartil aqui o primeiro quartil que
+a gente comentou né 67 Ou seja é 25
+porcento dos Pokémons tem 67 de
+experiência tá 30/75 por cento tem até
+160 89 de experiência tá e a gente tem
+no total 800 e um Pokémon tudo bem
+para-sol beleza
+o Ok vamos seguir então então essa foi
+uma variável que a gente a gente fez o
+resumo Em relação não variado a gente
+pode fazer em relação a mais variados dá
+para fazer também você pode selecionar
+se você clicar aqui e segurar O contro
+você consegue selecionar mais de uma tá
+E aí você pode dar um ok aqui e aí ele
+faz para mais de uma tá vendo a parte
+especial defesa defesa especial então
+ele já te dar todas as estatísticas
+descritivas aqui Acerca das variáveis
+que a gente marcou tá tudo bem para-sol
+então eu tô indo univariada mente né
+então cada variável tá então beleza
+resumo numérico já vimos distribuições
+de frequência né então é importante a
+gente saber cada tipo de variável vai
+levar a uma análise diferente como a
+gente tava com variáveis numéricas a
+gente tava fazendo ali medidas
+descritivas média desvio padrão
+variância intervalo interquartílico
+agora
+a trabalhar com variáveis categóricas Ou
+seja que representa o categorias tá
+então a gente vai fazer o que com elas
+se não pode uma tirar média fazer desvio
+padrão tá errado tá não quê que é por
+exemplo a média de seu CPF né Se eu
+pegar o meu CPF quando para somar e não
+vai dar o que né vai dar o que indivíduo
+né não faz sentido né fazer a média de
+CPF Então as categorias né que a gente
+tem aqui por exemplo que é tipo de
+Pokémon as habilidades as formas dele né
+e os próprios Pokémons a gente consegue
+contar né O que a gente consegue fazer
+com time né então por exemplo o tipo de
+Pokémon como vamos lá ok tá lá ó
+a missão 69 drac 31 dragão 32 elétrico
+44 assim por diante tá aonde que tá esse
+comando de frequência frequência Tokyo
+estatística Jesus resumos distribuições
+de frequências tá tudo bem Obrigada
+distribuição de frequência aí você
+escolhe o tipo e da Ok tudo bem beleza e
+aí aqui a gente tem o que frequência
+absoluta assim que eu seja mera
+quantidade por tipo de Pokémon né e aqui
+a gente tem as porcentagem essa coisa
+relativas o quanto representa do total e
+aí a gente consegue já observar aqui o
+quê que por exemplo a maior parte dos
+Pokémons são são normais de água 14 por
+cento são água normais são doze por
+cento né quem depois sei lá é insetos
+são 8
+bom então se você formar aqui da 28 tá
+quase 40 alguma coisa por cento já com
+esses três Pokémons aqui então a gente
+começa a ver poderia fazer por exemplo
+caso tivesse - categorias um gráfico de
+pizza nessa se tivesse eles três
+categorias por exemplo o inseto normal e
+água você poderia fazer um gráfico de
+pizza mostrando quanto que cada parte
+daquela pizza representa do total até o
+que o gráfico de pizza mostra pra gente
+passa consegue já identificar já quais
+são o que tá mais Evidente na tua mostra
+então por exemplo se fosse se fossem
+clientes aqui quais são os clientes que
+compram determinados produtos e aí eu
+vou saber por tipo de produto Quais são
+os clientes que mais Compra aquele tipo
+de produto que dá esse tipo de análise é
+muito rica porque o negócio tá estão
+trabalhando com base de Pokémon para dar
+uma ideia bastante rústica né Mas a
+gente pode trabalhar com base cliente né
+pode trabalhar
+e tirar Insight de negócio por meio da
+estatística tá
+Oi tudo bem Beleza então a gente vai
+seguir nós univariados né É vamos vamos
+ver que outra variado só para de forma
+né vamos ver aqui as formas que tem ó
+amu Arms Ball blog Bob baldwin diz né
+são as formas de Pokémon que tem né
+então a gente vê que acho que predominam
+aqui são letright é uma noid né ir e
+quadro tradicional se você somar os três
+aqui já dão mais de cinquenta por cento
+né da do das duas formas né então isso é
+uma análise bastante rica você pode
+fazer também um gráfico chamado gráfico
+de Pareto né que ele pode ser usado por
+exemplo a gente ficar que seus problemas
+estão em vinte por cento das suas causas
+né então por exemplo você tem ali 2020
+os seus produtos que representam oitenta
+por cento do seu orçamento tá então você
+consegue extrair em site do Tony botar o
+negócio tá esse que vai começar a
+investir mais no que você realmente te
+dá mais retorno tá financeiramente
+beleza e aí você pode fazer também ó com
+tá observações faltantes né então como é
+que você trabalha com uma shirlaine
+observações faltantes podem deturpar e
+suas análises não é podem ser um
+problema tá tão análises faltando são
+importantes de serem feitas tá e tome
+muito cuidado tá não pode estar aí
+tirando observação faltante porque tem
+um banco de dados cada observação que
+você tira faltante uma linha vai embora
+tá então você vai acabando você vai
+tirar muita informação do teu banco tá
+então você vê aqui ó e só forma que tem
+80 faltante tá E aí tranquilo a gente
+não vai se preocupar muito conheço nesse
+momento tá legal
+E aí continua nas univariados né Beleza
+então correlação já vi variado então vou
+deixar para depois tabela de
+contingência né é dupla entrada também
+já vai para bem variadas aí aqui já
+entra em parte inferencial aumentar
+esteira para comparação de médias tudo
+mais é teste for Américas aqui tem
+posterização ajuste de modelos né a
+gente vai trabalhar com posterização e
+modelos ainda hoje tá mas vai ficar para
+um pouco depois tá beleza a gente fez os
+univariados Então vamos fazer alguns
+gráficos univariados também tá ó olha
+pode fazer um gráfico de ponto tá vamos
+escolher aqui ó Experience
+e o gráfico de pontos ele é muito
+similar ao histograma tá então você
+consegue ver aonde que tá concentração
+né então você vê que está concentrada
+aqui tá concentrada aqui né mas
+histograma ele é melhor para mostrar
+esse tipo de coisa tá então vamos fazer
+o histograma então agora a gente tá aqui
+em gráficos tá então gráfico de ponto
+que a gente fez anteriormente agora a
+gente vai fazer histograma também da
+experiência tá a gente tá trabalhando só
+com a experiência aqui tá então então se
+você notar aqui ó
+se você tem que um histograma dessa
+forma aqui se você traçar um só avisar
+daqui aqui que mostra ele mostra que
+você tem uma concentração dos valores
+aqui a esquerda né de 90 alguma coisa né
+a 200 né e grande parte da experiência
+dos Pokémons estão concentradas de 100 a
+200 tá então aqui você poderia também
+estar em um site de negócio lá da tua
+base de clientes tá E à medida que vai
+aumentando aqui a experiência vai
+ficando mais rarefeito tá vendo você tem
+um carinho aqui e tem uma experiência
+bastante alta né mas ele é bem atípico
+né a a galera quando vai aumentando a
+experiência né a frequência de Pokémons
+que tem uma te dão maior de experiência
+vão diminuindo né Tudo bem isso mostra
+né no máximo é frio direita tá porque
+porque a curva tá mais alongado aqui é
+direita e tem uma concentração maior de
+valores da esquerda aqui tá é uma medida
+de está
+e descritivas atacar simetria tá que a
+gente pode utilizar aí também por
+exemplo para coronavírus né para ver
+onde está a maior concentração de
+pessoas que morreram de coronavírus por
+exemplo né Tudo bem e entra também aí um
+conceito também de curtose é o grau de
+achatamento da curva né que no momento
+que as pessoas fazem isolamento social
+essa curva ela vai diminuindo né é o que
+a gente espera né E aí ó Estimativa de
+pode falar eu tava pensando aqui no chat
+você tem como botar a atua na função de
+densidade a couve normal Faremos agora o
+homem não nesse exato momento aí 1956 aí
+pessoal perguntar isso aí então bora lá
+ó experiência
+bom então vem cidade tá vendo só avisado
+então você vê a mesma coisa concentração
+aqui no início ver algumas concentrações
+mais pontuais aqui né E à medida que vai
+aumentando a experiência vai ficando
+mais rarefeito né então você vê
+claramente aqui uma distribuição
+assimétrica à direita tá no início um
+pouco leptocurtico aqui na aguda e vai
+ficando mais mazzocut né até chegar pode
+curte fica né mas achatada no pa tu tá
+eu ia diagrama ramo-e-folha não é tão
+mais utilizados Tá mas ele é muito
+parecido também com os programas com
+gasto de pontos tá box plot no gráfico
+bastante interessante tá ele te dá muita
+informação
+Oi ó você ver ó o que a gente não estou
+lá no histograma por exemplo acerca da
+tanto da simetria né que a gente vê que
+é uma simétrica é positivo assim como
+também valores que tinham possibilidade
+de ser valores atípicos né então cê vê
+que tem valores aqui que são tipo já
+eles são muito acima ou muito baixo
+daquele valor aqui a gente não tem
+abaixo a gente só tem outro lado
+superior aqui né então a gente tem que
+investigar essas informações só foram
+coletadas corretamente ou não uma
+seleção fruto de uma sazonalidade por
+exemplo né Por exemplo Dia das Mães a
+gente sabe que o varejo vem demais né
+você não pode ignorar e que isso existe
+né todo ano acontece isso então gente
+não pode tirar aquilo da nossa análise
+tudo bem E aí aqui a gente tem o
+box-plot o primeiro quartil ele tá aqui
+embaixo né Então a primeira parte ele
+fica aqui né o aqui é o segundo
+quartinho né que a mediana
+ó e aqui é o terceiro corte ou seja 25%
+atenção observações estão até aqui nessa
+experiência que a gente viu ir aqui até
+cinquenta por cento né delas estão aqui
+e até 75 tão aqui tá então 75 delas
+estão até esse ponto aqui né aqui é um
+intervalo interquartílico né que é o que
+3 - O que é um tá então o ele o box-plot
+é muito interessante que te dá a cerca
+de assimetria da distribuição te dar o
+possíveis out lares né ele tem que saúde
+outlet por meio das Serras página é ir a
+gente consegue também ver a distribuição
+desse valores como é que tá se
+comportando tá tudo bem e o mínimo eo
+máximo também tá na distribuição tá
+então deixa eu fechar aqui vamos voltar
+box-plot gráfico de comparação de
+quantis essa interessante também
+Oi ó
+e não esse aqui na verdade ele é mais
+interessante quando a gente faz
+regressão dá para ver o que que é pode
+por exemplo para ver se resíduos estão
+seguindo a normalidade ou não Tá vou
+falar isso depois essa que não vai na
+verdade eu achei que fosse outro aí pode
+falar no chat tem como fazer edição nos
+gráficos tipo assim mudar a cor no
+bercinho então todas todas essas janelas
+que eu estou abrindo ó se você vier aqui
+resolvendo um único fazendo tem uma
+série de configurações tá eu não tô
+entrando porque senão vai demorar muito
+tá não vai ter gente não vai ter tempo
+beleza mas tem uma série de
+configurações cada janelinha tá que você
+abriu do histograma por exemplo tem as
+configurações aqui para você brincar tá
+tenho alguns permitem você brincar mais
+outros menos tá mas você consegue
+brincar tá tudo bem e eventualmente você
+pode ele Gero ele já era tudo que a
+gente tá fazendo aqui ó ele gera código
+tá vendo eu não estou mentindo
+e esse código jogar não erre ele já que
+faz o gráfico para você e aí lá você
+altera também tipo de coisa tudo mais tá
+mas aqui ele faz um gráfico como eles
+profissional Tá eu vou mostrar um quer
+mais profissional que eu esqueci beleza
+mas a gente ainda vai chegar lá então a
+gente tem aqui ó esse médico Box pote
+que é interessante ele te mostra o teu
+riso aqui ó por exemplo a experiência só
+dá um aqui que ele te mostra ele tinha
+uma se eu fizer transformações né de
+variáveis se eu fizer por exemplo o log
+da experiência se eu fizer a raiz
+quadrada da experiência como é que vai
+se comportar será que vai continuar
+tendo perdão a mesma quantidade de
+mutilar ou não será que teu box pote vai
+mudar ou não E aí ele te dar essa
+comparação muito interessante tá isso
+aqui é muito bom para quando você tá
+trabalhando com regressão linear por
+exemplo né quando eu não obedece algum
+pressuposto de não normalidade do G
+E aí você faz a transformação para ver
+qual a transformação mais adequada para
+você fazer com que esses esses resíduos
+sejam normalizados tá aposto uma outra
+culpa atrapalhar tem uma pergunta Só
+isso que eu faço eu lido com o mercado
+financeiro eu achei interessante o r que
+a gente usa bastante eu rapidamente né
+Se eu pegar no site que mostra todas as
+cotações assim da você pode fazer isso
+direto tá tem pacote que faz e pega
+direta de lá aí vai no E aí eu acho isso
+né não erre tem um pacote exatamente que
+você você já já ele já faz o webscreping
+ou se já tá no Arquivo disponibilizado
+ele lei direto lado do arquivo tá depois
+eu passo posso mandar para você
+inclusive tem playlist no estatidados de
+trade para o lado tá muito legal pode
+machucar maratona tá
+é o que eu queria fazer um gráfico das
+cotações assim para ver a Tribuna do
+Chile tem uma playlist também de graça
+de Dr para Finanças quantitativas com um
+red da Xperia né E também tem o canal
+dele né que é o altos pouco em marketing
+não é o professor Leandro guerra aí
+Nossa Senhora também aconselho você
+olhar o canal dele tá depois eu posso
+deixar de dia aí para você beleza
+parabéns show de bola e aí né você
+falando em financiar geralmente
+financiar a gente tem medo do tempo né
+aqui na nossa base da gente não tem
+tempo então gráfico de linha gente não
+vai fazer tá mais gráfico de linha já
+fica a dica aí é para acompanhar
+evolução temporal tá você quiser ver por
+exemplo Como é que tá a quantidade de
+seguidores ao longo do tempo por exemplo
+na página lá do estatidados Isso é uma
+um gráfico de linha para Inclusive eu
+posso mostrar depois para você o um
+a mágica Fix online é só ir lá na
+república viver é uma eu compartilho com
+vocês depois aí aqui já entra no nos nas
+variadas gráficos gráfico de médias eu
+acho que suas anti mas depois da
+televisão e variada é tenho alguém com o
+microfone ligado aí desligar aí por
+favor ó strip chart não é para ver se
+esse tipo Jardim Interessante não ele
+não é legal é deixa eu ver aqui se tem
+mais alguma coisa para mostrar
+interessante gráfico de barras né então
+por exemplo se a gente tem uma variável
+que categoria né Por exemplo você tem
+aqui eu quero saber quais são as
+habilidades mais frequentes me lembro
+que a gente fez lá as coisas mas a gente
+pode fazer um gráfico para representar
+isso aqui é um gráfico de barras então
+e a gente tem aqui ó mas um gráfico de
+baixo que vai representar né aqui só a
+quantidade de cada um parece aqui tem
+mais categoria mas vou fazer um com
+menos para ficar melhor então é gráfico
+de Barra do do tipo por exemplo Então
+olha só que interessante você vê que
+água tem 113 né normal tem 98 planta tem
+70 e assim quando você pode levar também
+para o negócio né quantos clientes
+compraram determinado produto qual qual
+a filial que tá vendendo mais né então
+eu posso olhar esse tipo de coisa para
+um gráfico de baixo por exemplo tá então
+aqui a gente vê que a predominantemente
+a água normal e planta tá beleza e
+também me certo também né como a gente
+já tinha visto lá na nos números né o
+gráfico ele serve muito para você olhar
+de uma forma muito mais rápida né
+aqueles números que a gente ficava
+olhando tentando observar e para isto
+é estranho muito mais fácil com gráficos
+não é gráfico de pizza por exemplo né se
+eu ver aqui sempre vai fazer um de pizza
+e eu acho que pizza não vai ficar legal
+tá porque todos têm categoria para
+caramba então não vou fazer porque
+gráfico de pizza é até quatro categorias
+estourando tá corta cinco categorias se
+tiver agrupar é bem bem delineado né
+Você pode até fazer tá acho que eu acho
+proporções mas gráfico de pizza Se tiver
+muita categoria não faça tá estourando
+ali quatro a pedindo muita Rego no cinco
+animais entendeu não faça mais do que
+esqueci não fica horrível Faça um
+gráfico de barras tá
+Ah beleza então a gente fez univariados
+né então agora a gente vai voltar e vai
+fazer bivariadas tá Quê que são vi
+varias com duas variáveis já então vamos
+marcar nosso check list aqui então
+univariada ok tá então é Qualquer coisa
+manda aí tá mexe mais então vamos para
+vamos para vir variar então
+bom então bivariada Ó aqui que a gente
+tem de vir variado aqui a gente pode
+trabalhar com resumos numéricos de forma
+bem variada como é que a gente faz isso
+tá ó a gente tem aqui ó por exemplo
+experiência né Você pode agrupar porque
+o tipo de Pokémon vamos ver a
+experiência por tipo de Pokémon então se
+você clicar aqui o resumo ou por grupos
+e botar aqui tipo Ok ó
+se você ver ele mostra inseto a média né
+de experiência dos Pokémons insetos 124
+né desvio padrão 62 terceiro quartil aí
+você pode ver aqui ó 75 por cento dos
+Pokémons de Missel tem tem 173 é do tipo
+inseto tem 173 de experiência né já aqui
+se você pegar o dragão a dragão
+geralmente são os mais fortes né você
+tem aí os Pokémons lendários né e tudo
+mais você vê que a experiência dele
+maior 224 Aí você vem aqui O terceiro
+quartil também a maior 306 em relação
+esse aqui também 173 e são menos
+Pokémons do tipo Éder na verdade aqui é
+Cadê só 32 tá vendo tem 32 do tipo
+dragão e banho que tem 69 né os dragões
+são mais um dos mais raros né também
+então você vê aqui que tem Deixa eu ver
+aqui mais quem o elétrico e o
+eu fico cada psíquico também são
+bastante forte tá vendo Então você
+consegue começar a ver quais são os
+Pokémons que tem as características mais
+fortes aqui eu tô trabalhando com uma
+variável né que ela na verdade duas
+variadas porque é o tipo do Pokémon e a
+experiência né Poderia botar mais
+poderia votar mais poderia colocar
+outras variados para ver a experiência
+por ataque experiência por HP é a vida
+né o ataque especial e assim por diante
+irá cinco também botar para cliente né
+então é por exemplo Qual o cliente que
+está me trazendo mais retorno dentro ali
+do incerto ramo de vendas que eu digo
+que eu tô trabalhando eu tenho varejo
+ali que eu trabalho com um ver com
+vendas ali de sei lá Filmes série
+Como por exemplo o Netflix né tem os
+tipos de coisas que ele vende ali dentro
+também enfim Tem vários tipos de exemplo
+então você pode levar esse pro negócio
+de diversas formas tá vamos lá então
+vamos continuar pa resumos numéricos a
+gente fez né Tá bom então aqui a gente
+já fez vamos voltar aqui para
+distribuições de
+é de frequência Vamos fazer uma não essa
+aqui não tem como fazer tem que ser aqui
+ó tabela de contingência tá dupla
+entrada tá então aqui eu vou fazer dupla
+entrada o que que é isso eu vou cruzar
+variáveis que são categóricas então por
+exemplo tipos de Pokémon com a é o forma
+né então vou cruzar as duas coisas então
+você veio aqui ó inseto
+e tem do tipo amor né Arms Ball E aí
+você consegue dizer eu as
+características né então esses o banco
+ele tem mais do ar morar me logo das
+formas dessa tipo de forma né já o
+dragão ele tem mais de uma noid
+quadrúpede de cada demais tem White e
+assim por diante Então você consegue ver
+o que cada um tem de para para te
+mostrar né então por exemplo lembra do
+braço que eu mostrei da série do Netflix
+né que tem os nossos onde eram as
+pessoas e as séries que as pessoas
+assistiam os filmes eram as que estavam
+relacionadas a ela aqui eu posso ter por
+exemplo é o os Pokemons né os tipos de
+cada Pokémon né e a posso ter também um
+outro uma outra perna aqui são as formas
+né então posso fazer Graças né relações
+entre essas é
+e aqui na verdade ele faz um teste
+qui-quadrado também tá que é para
+Independência e tudo mais mas não vale a
+pena entrar aqui no momento Tá mas ele é
+bem completo tá ele faz muita coisa né
+e a tabela multi entrada pode ser mais
+duas né É
+e aqui a parte mais diferente tudo mais
+tá E vamos de gráficos de variadas então
+então vamos fazer um
+Oi ó
+o gráfico de comparação de quantis esse
+ah não esse não esse é o isso é não é
+legal para fazer o de simétrico pote
+gráfico diagrama de dispersão diagrama
+de dispersão Ele é bem variado pode
+falar depois com um monte de médias
+e eu vou esperar dá uma olhada levar de
+volta vamos fazer vamos fazer vamos
+fazer inclusive bem variado tá é olha
+experiência e velocidade por exemplo
+está tão que que eu vou fazer aqui eu tô
+fazendo um gráfico de dispersão que que
+o gráfico de pressão me mostra
+Associação linear entre variáveis né ou
+seja ele vai me dizer que quando um
+momento a outro aumenta ou com um
+aumento a outra diminui né ou no momento
+a outra não acontece nada né forma
+linear então quanto mais próximo de uma
+reta tiver né seja ela inclinada
+positivamente ou negativamente significa
+que eu tenho maior Associação linear
+entre as variáveis tá então
+bom então eu fiz aqui ó o gráfico de
+experiência veste velocidade então você
+vê que quanto mais ou na verdade aqui em
+vestido né que eu vou fazer um só fazer
+uma velocidade experiência aqui ó
+Oi ó a
+e pensam a ver variável x né eu botei o
+contrário vamos lá velocidade e a
+experiência no Y vamos ver ter aqui
+ó ó se você der um OK
+E à medida que aumenta a velocidade ó
+parece que ele ele tem uma certa relação
+linear aqui é mais ou menos né vamos ver
+vamos ver se essa suspeita se confirma
+ou não né vamos ver se é isso ou não é
+deixa eu ver aqui vamos ver qual é esse
+Grau né a gente pode fazer um gráfico de
+correlação um uma matriz de correlação
+Tá então vamos fazer aqui entre
+experiência e velocidade vou fazer de
+todo mundo só para vocês verem Aqui quem
+tá mais correlacionado que a gente já
+pode fazer um direcionado lá então o
+marquei todo mundo é para marcar todo
+mundo tem que apertar shift e clicar em
+cima tá diz que você quer e aí ele marca
+todo mundo ou contra o que você marca
+mais de um tá E aí aqui que me mostra né
+se quanto mais próximo de um tiver né e
+módulo significa que a relação é maior
+ela é
+O que é mais forte tá ali meramente
+Então vamos ver aqui experiência com
+velocidade Quanto que é a velocidade
+experiência 053 né moderada né não é tão
+forte Vamos pegar uma que é mais forte ó
+Play isso daí ela toque especial por
+exemplo vamos fazer agora um gráfico lá
+fazendo aqui que a minha rosa ataque
+especial experiência vamos ver lá como é
+que vai ficar esse gráfico aqui que a
+gente fez na gráfico de inspeção só que
+agora com a experiência aí a vamos lá ó
+gráfico de dispersão é velocidade
+a experiência em agora ataque especial
+e você vê que ele tá mais próximo de uma
+reta tá vendo Então quanto maior aquele
+númerozinho aqui que eu coeficiente de
+piercing tá de correlação e né é mais
+próximo vai estar de uma reta e se você
+vai a sentir vontade de traçar uma reta
+aqui tá Isso outra coisa interessante é
+você parece que ataques especiais são
+divididos em três classes aqui ó a gente
+pode fazer uma segmentação para ver
+esses esses grupos nessa informações
+Então vamos ver aqui é um voltar aqui
+eu vá
+oi ó como voltar aqui pelo diagrama de
+dispersão E aí sei lá vamos separar aqui
+por tipo de Pokémon vamos ver
+E você vai ficar legal
+Oi ó você vê o que tem uma certa relação
+aqui tá você não consegue ver claramente
+ainda mas se ele tem uma certa relação
+aqui que esse é dividido em três partes
+aqui tá né então cê consegue analisar e
+extrair Insight tá então a matriz de
+dispersão por exemplo vamos ver aqui
+selecione três ou mais variáveis né
+Vamos por exemplo vou selecionar ataque
+especial velocidade experiência tá E aí
+é por enquanto Por enquanto não vou
+botar para o grupo não depois a gente
+faz para o grupo
+o som que que ele mostra pra gente ele
+faz um gráfico aqui que ele te mostra
+exatamente as relações não é de
+associação então eles fazem gráfico de
+dispersão né aqui ele te faz a densidade
+minha para você ver como é que é o
+comportamento da do ataque especial da
+experiência da velocidade é que são os
+cruzamentos né então se você fizer o
+cruzamento da experiência que o ataque
+especial a você vê aqui tem uma relação
+mais linear né já aqui com é k de
+velocidade experiência como a gente viu
+não é tão nem assim né moderado né 50053
+não é tão forte assim você consegue
+começar a gente traírem site né E aí se
+você quiser fazer também
+e colocar isso aqui o grupo
+Oi e aí vamos botar aqui por forma por
+exemplo
+ó ó cê consegue já começar a extrair
+alguns insights Acerca das cores já
+coloca várias coisas aqui tá vendo por
+tipo de o tipo de ar de de forma de
+Pokémon em tudo mais então você consegue
+já começar a extrair outros tipos de
+Insight tá com a gente você começa a ter
+uma visão de variados tá e o gráfico de
+médias né que pressionaram pediu né vai
+realmente é muito interessante vamos
+fazer aqui é o
+nós vamos fazer experiência por tipo
+e você vê que ele te mostra até o
+intervalo de confiança tá vendo Então o
+dragão o dragão o os Pokemons voadores
+os psíquicos e sacos de as eles têm as
+maiores experiências tá vendo aí eu te
+dou uma experiência ir entrar aqui o 220
+pouco e ele te dá um intervalo de
+confiança tá aí te dar um intervalo e
+ele coloca um erro para se mover para
+baixo da onde tá até onde vai essa média
+tá então a gente te dá a média e também
+dá um intervalo de confiança até onde
+ela tá ela e você veio aqui e fanho é
+gigante nesse intervalo por quê Porque
+ele deve ter uma variância muito alta tá
+então ele acaba dando uma
+é aumentada nesse intervalo Tá beleza
+então bora voltar aqui então muito legal
+Valeu pela dica aí para sua mãe Bora lá
+hum pizza tem como fazer 3D também se eu
+quiser fazer um 3D dá para fazer também
+eu vou estar aqui
+a culpa com i.a. o escolha uma variável
+resposta né que é o que você está que o
+fenômeno que você tá estudando com a
+experiência do Pokémon né Vale acho que
+eu quero que explique a diferença do
+Pokémon ataque especial e velocidade por
+exemplo né E aí vou botar aqui
+E aí ele cria aqui ó um gráfico 3D Tá
+vendo você pode mexer aqui ó e aí Olha
+só como é que fica claro esses três
+esses costas aqui ó tá vendo ó
+e três Costa bonitões aqui ó tá vendo
+ataque especial experiência em
+velocidade tá tudo bem então você
+consegue começar a enxergar alguns sites
+tá E aí deixa eu ver aqui agora como a
+gente viu que a gente pode com exterizar
+né dividir em grupos como é que a gente
+faz esse tipo de coisa né então por
+exemplo eu vou selecionar aqui deixa eu
+ver aqui o só Então vamos marcar o
+check-list aqui então a gente é fez já
+importou já fez 75 univariadas
+bivariadas gráficos univariadas e
+bivariadas para variáveis quanti-quali
+né o distante vi qualitativa agora a
+gente vai fazer análise de agrupamentos
+costas né os costas eles fazem uma
+medida de similaridade que que são isso
+por exemplo
+e o pão distante está em relação à média
+pode estar classificando em determinados
+grupos né então por exemplo se eu tenho
+Pokémons que tem determinada média e se
+encaixam no grupo de água né eles vão se
+encaixar naquele grupo de água o uso de
+Pokémons dragão por exemplo que são os
+mais fortes né provavelmente quando os
+Pokemons de dragão vão tá em clusters em
+que eles têm características superiores
+aos demais né então a gente pode fazer
+esse tipo de análise Então como é que a
+gente vai fazer essa análise de cluster
+tá então é eu vou fazer coisas têm com 3
+variáveis tá ataque especial de fez
+defesa especial e velocidade tá bom Bora
+lá como é que eu faço isso vem aqui ó
+estatística análise dimensional tá aqui
+tem uma série de algoritmos né para
+fazer fazer clusterização Tá mas a gente
+vai usar o cara
+Esse é um dos mais conhecidos é que
+fazer o que a média está com você queira
+chamar E aí eu vou clicar aqui ó tá uma
+análise Dimensional análise e
+agrupamento de costa tá médios Beleza
+então vou selecionar aqui ataque
+especial defesa Opa mãe selecionar com
+contra o encontrou ligado tá ataque
+especial defeito especial e velocidade
+tá então eu quero criar costas né com
+essas três características tá E aí ele
+pergunta para gente olha qual o número
+de clusters que você quer formar né
+então vou formar três costas tá para
+nossa análise aqui tá vou formar três
+postos beleza é então eu digo quero três
+de três grupos me consegue três grupos
+levando em consideração a velocidade o
+ataque especial e a defesa especial tá
+Oi e aí Aqui você não precisa mexer
+toque tá
+o reparo o seguinte ele já separou aqui
+ó os teus Pokémons em três classes lá
+tem um grupo com um tem um grupo com
+dois tem um grupo com três papa e cada
+um vai ser vai estar respectiva é vai
+vão ter respectivas defesas ataques e
+velocidade tá então vamo dar uma olhada
+na saída dele aqui então ele criou aqui
+para mim no console uma saída tá essa
+saída aqui que me diz me fala olha
+e eu criei três grupos para você tá o
+primeiro ontem 325 Pokémons
+e o segundo contém 160 Pokémon e o
+terceiro ontem 316 Pokémon tá E aí
+beleza mas dentro desses cores terminar
+esses agrupamentos como é que é o ataque
+a defesa EA velocidade Carrefour
+seguinte Ele criou três classes um mais
+forte né que tem uma ele tem um ataque
+especial a maior tá vendo aqui ó e a
+velocidade maior tá isso eu entendo 47
+pessoal tá ligado aí o microfone Ó 47547
+o moderado né que é esse cara aqui do
+grupo 1 à perdão é É isso aí tu moderado
+grupo 73 experiência é já tá que
+especial defesa especial 86 velocidade
+em 74 E aí o que que isso é legal né O
+que é que por exemplo vamos dizer que eu
+tô fazendo eu quero fazer e-mail
+marketing né Eu quero segmentar os meus
+clientes de forma que eu envie conteúdo
+né Por exemplo eu tenho vocês lá no meu
+e-mail já E aí eu tenho meus conteúdos
+do estatidados onde eu tenho cada vídeo
+né relacionado o assunto um lá a cerca
+de storytelling outro é mais a partir de
+estatística outro é mais de voltada para
+a área de saúde então eu quero
+posterizar vocês não amor forma aqui eu
+mande conteúdo de quem é da área de
+saúde para área de saúde de quem é da de
+quem consome conteúdo de
+é de storytelling nunca tá lá galera de
+jornalismo tudo mais a galera mais
+humana acho que gosta mais essa parte de
+de mostrar os dados e tudo mais e claro
+que estão mobilidade todo mundo tem que
+ter mas é sol geralmente ele gosta
+pessoal gosta mais essa parte de
+storytelling tudo mais tá ir então eu
+consigo segmentar os mais cliente de
+forma fazer e-mail marketing de forma
+que eu vou maximizar no engajamento né
+então crosta não tem forma certa de
+fazer tá existem vários algoritmos que
+ele vai te dar os ele vai fazer essas
+coisas teorizações de acordo com as
+características que você deve para ele
+né e ele vai descobrir formas de você a
+segmentar seus clientes da quais
+variáveis que você deu para ele tá bom
+então aqui não vem ao caso precisar puts
+Aki tah e agora porque a gente vai fazer
+a gente vai introduzir essa variável que
+a gente criou dentro nosso banco tá
+então aqui eu
+um pouco de código tá só para fazer isso
+que eu não sei fazer isso clique tá pode
+falar é uma dúvida sobre e-mail
+marketing você vai saber mais falando
+ele ir para a montagem permite analisar
+no caso não posso dizer às pessoas que
+leram o e-mail vamos assim os que foram
+mais de 100 dias no caso me retorne isso
+que foi analisar no R1 problema perfeito
+pode ser você pode pegar lá exportar lá
+do teu gerenciador de e-mail sem de
+burro ensino que você utilizar né pode
+exportar os dados e a trabalhar aqui né
+Inclusive tem uma biblioteca específica
+que trabalha com esse tipo de coisa aqui
+dentro do Erre também cozinha dá para
+conectar o Google Analytics recentemente
+eu tô conversando com o professor Marcos
+Severo né que a gente deu o curso de
+marketing analyst também e com uma aluna
+minha do Senac e a gente vai criar um
+curso um treinamento voltado para
+o sociais e marketing tá na utilização
+de anúncios tá a gente vai trabalhar com
+esse tipo de assunto mas pode mandar
+mensagem lá depois a gente pode
+conversar também tá não tem problema
+nenhum mas é totalmente possível tava
+segmentar de acordo com pessoas que
+viram eu sou os que ficaram na link
+pessoas que visualizaram a página né
+então você consegue trazer tudo aquilo
+do Google da inteligência do Google
+Analytics aqui para dentro do Erre
+também e analisar isso tudo tá fazer
+dashboard online Enfim tudo mais tá dá
+para fazer beleza obrigado tudo bem
+Olá tudo bem Ondina
+tá tranquilo beleza não sei que aqui
+então então repara que ele criou esse
+código aqui para mim né então eu vou
+aproveitar o código para a gente criar
+porque porque eu vou criar uma variável
+tá que a variância que vai representar
+os clientes para a gente poder analisar
+tá então bora lá então eu vou eu vou
+pegar aqui de contra você aqui tá nem
+control Serra da controle aqui beleza
+até aqui tudo bem como é que ele ele não
+não é essa aqui que eu quero não calma
+aí é isso aqui tá Então esse aqui de
+cima tá quanto custa tá ó vou tirar aqui
+coloca no cheque para gente Esse comando
+por favor tchau já tô aqui tá ele tá bem
+aqui ó Tá bom ele tá bem aqui para você
+está Eu deixei comentário aqui em cima
+beleza Tá cluster novo é isso aqui que a
+gente vai usar só tô mostrando onde eu
+tirei tá então para ficar mais didática
+tá
+e eu tirei aqui eu vou tirar isso aqui ó
+a gente sempre Dr tá vou tirar essa aqui
+beleza isso Só isso tá então e aqui eu
+vou chamar de coster novo tá então
+basicamente é o comando que tá aqui em
+cima passe você tirar essa aqui ó você
+pode ir dar altir da Alt e clicar em
+cima e tirar de uma vez só se você
+quiser tá E aí eu tive aqui beleza e aí
+você pode utilizar Então a gente vai
+criar esses por que que eu tô eu tô
+fazendo aqui né porque eu não sei
+trabalhar com ele lá dentro tá eu quero
+criar variável para poder trabalhar tá
+então eu vou criar ele aqui e vou
+exportar eu vou vou botar ele lá dentro
+tá para gente trabalhar então isso tudo
+vai ser essa linha aqui então voa Vou
+apagar aqui como eu já falei que a mesma
+minha tá eu vou pagar e a tia
+é como andar sozinha 41 tá eu mandei
+Beleza então ele criou o crush tá vendo
+aqui ó vou chamar o crush aqui o perdão
+seu como andar aqui em baixo custo de
+novo ele vai me trazer os pois tá bem
+esse é o meu objeto do Costa
+e olha ele vai me trazer objeto do
+cluster aqui com tudo tá E aí eu vou
+salvar vou criar uma nova variável tá
+dentro do banco salvando ela tá é isso
+que eu vou fazer aqui tá então vou
+comandar essa linha 45 E agora se eu for
+aqui no meu banco Teoricamente eu criei
+minha variavam de se criou
+o óculos teclado tá vendo aqui ó ele
+representa o que ele vai ele me botou um
+negócio quem faz parte do cluster um tem
+as partículas ter dois quem fez parte do
+projeto é 3 tá bom beleza legal que que
+eu tenho que fazer agora tem que vir
+aqui
+tu tem que vir aqui e aí eu vou dar um
+refresh tá tem que ver aqui ó conjunto
+de dados ativo renovar conjunto de dados
+ativos ou não reflete tá
+o flash
+as linhas de 14 colunas então ele criou
+uma variável tá beleza vamos ver se ele
+realmente criou né E aí eu tenho que
+fazer um segundo passo por quê Porque o
+r como eu criei essa variável e não vai
+entender que ele é uma uma ele vai
+entender Ele não é um fator de fax tá
+então eu não vou conseguir fazer
+quantitativo dele tá porque ele não vai
+entender que é um faltou Então tem que
+transformar ele não faltou tá não tem
+que vir aqui ó é o Com certeza variável
+numérica para ele tá entendendo que é um
+número tá porque porque eu botei um dois
+e três não tá entendendo que é um dois
+três como número então tem que entender
+que ele é um fator tá então vou
+selecionar ó coisa ter criado tá vendo e
+eu vou falar defina o vou botar para ele
+definir como o número mas eu já vai
+entender como fator Tá bom então ele vai
+transformar em fator
+fala sobre escrever variável Beleza sim
+OK agora ele é um fator então eu consigo
+ele não vai entender mais como o número
+ele vai entender como uma categoria ele
+vai ter níveis tá então eu posso fazer
+frequência com ele número a gente não
+faz frequência agora categoria A gente
+faz então você vem aqui o resumo resumos
+numéricos
+quem é
+eu vou pegar aqui
+Oi Fala aí
+e ele não cometi tem que dar uma ativo
+aqui com ele é resumo conjunto de dados
+ativo
+eu vou fazer isso aqui só para eu
+entender que ele tá ativo vamos ver se
+vai funcionar
+em resumo numérico Pan não não funcionou
+com aí deixa eu ver aqui eu acho que ele
+não criou o fato deixa eu deixa só fazer
+um teste aqui galera
+quem é
+e não precisa fazer isso aqui não tá É
+irmão este criado
+e aqui ele tá entendendo como fato mas
+aqui ele não tá entendendo como fator
+que não tá aparecendo aqui
+ah ah não tá entendendo sim eu que sou
+besta calma aí Desculpa pessoal aqui
+obviamente né só tô fazendo resumos
+numéricos ele não vai entender se ele é
+um fator e não vai tá aqui o valente né
+ele vai estar no grupo por quê Porque o
+grupo eu consigo fazer agrupar como é
+que ele é ele é uma falha minha tá
+desculpa Ele é uma categoria então o que
+que eu vou fazer Beleza se eu quiser
+saber por exemplo a velocidade dos
+Pokémon pelos cursos que eu criei né eu
+vou que selecionar aqui o coisa aqui ok
+E aí que que ele vai fazer ele vai me
+trazer ó ele vai me trazer todos os
+resumos tá vendo por o corte tá então
+cluster um costas doações entre a
+variável velocidade a média dela é 49
+para o colesterol um janocas tem dois
+tem 71 no PS3 tem 91 então né É É aquela
+coisa né gente espera que no PlayStation
+3 tem um Pokémon é mais forte né no
+cluster 1
+Quem são os medianos só me engano e aqui
+os mais fracos são os enganos tá então a
+gente pode agora fazer análises com os
+custos Tá então vamos fazer alguns
+gráficos os custos para abrir então
+vamos criar aqui
+e como fazer uma matriz de dispersão
+agora alguns selecionar aqui três
+variáveis por exemplo ataque especial de
+fé especial e velocidade por cluster
+E aí ó olha que interessante Agora ele
+já consegue identificar claramente o
+padrão ó tá vendo ele fez três curvas né
+porque porque a cluster nunca está dois
+e três Então você consegue ver
+exatamente esses caras tem a maior
+experiência de uma só vez mais forte
+esses caras são os mais fracos dá uma
+melhor experiência né então cê consegue
+separar mente dentro as cores nas cores
+que dão Esses caras são os menorzinhos
+tem as melhores experiências e situações
+maiores e assim por diante então cê
+consegue identificar esses padrões tá
+então isso é muito interessante tá então
+você criou né artificialmente contexto e
+te dão é riqueza né para análise de
+negócio tá então isso aqui você consegue
+a ganhar uma grana forte tá porque
+porque se identifica Quais são os
+clientes que mais compram determinados
+produtos a identifica quando eles compra
+sem identifica Qual a sazonalidade né
+Então você começa a chita Chita né então
+quando você tivesse jogando né um um
+programinha ali te ajudando né porque
+porque você tá com informação valiosa né
+então você tá olhando atanas data de ver
+né O Ian tava dados tá então essa esse é
+o poder da estatística tá E aí aqui a
+gente fez coisa realização que não
+supervisionado tá uma técnica
+exploratória tá não tem nada de
+supervisionado nela tá então agora a
+gente vai fazer uma que é supervisionada
+que a regressão linear tá e o intuito é
+você fazer o quê uma modelo né como a
+redução da realidade que vai me explicar
+Quais são as variáveis que influenciam
+na experiência
+Oi e aí poderia ser precificação de
+imóvel por exemplo a número de banheiros
+número de corpos metrificação do imóvel
+isso é muito importante para precificar
+o imóvel né então por exemplo se for
+para modelos logísticos não ainda
+variável qualitativa né que aí a outra
+história né ele também é linear mas a
+linear generalizado né falta ela é Ela
+tem ou aluno evade ou não Por Exemplo né
+então no momento que o cara é vadio ou
+não Qual comigo porque que ele saiu é
+que ele tá tirando nota baixa porque ele
+tá inadimplente ele ele mora longe Então
+você começa a descobrir Por que que tá
+acontecendo as coisas modelos e estudam
+esses insights Tá então vamos fazer um
+modelo aqui para calcular para tentar
+predizer a experiência do Pokémon para
+do momento que eu tenho né um nível de
+de ataque defesa vida né e velocidade
+como é que
+eu consigo calcular um essa o valor da
+experiência que Pokémon vai me dar Tá
+beleza então bora lá então aqui a gente
+tem uma Pinha chamada modelos tá não
+mentira da dados não estatísticas ajuste
+de modelos tá aí você vai ver aqui ó
+regressão na tá aqui você vai deixar o
+padrão usar um tal o nome do modelo tá
+que ele vai criar aí beleza como minha
+variável resposta você qual fenômeno que
+eu tô estudando experiência do Pokémon a
+variável resposta tá aqui então
+experiência do Pokémon Eu quero explicar
+por quais fatores E aí aqui eu botei o
+ataque a defesa a vida vamos botar aqui
+ataque a defesa a vida
+Esse é o ataque especial a defesa
+especial
+Oi e a velocidade do Pokémon E aí eu vou
+dar um OK tá
+e quando eu dei Ok olha só que eu queria
+me dar ele me dá essa saída aqui né Ele
+fala Quais são os resíduos do modelo o
+resíduo é a diferença entre o que
+realmente predisi e o que era de fato tá
+então quanto eu errei Tá beleza então eu
+tenho eu tenho o número real eu preciso
+eu fiz eu fiz uma petição de um valor né
+o quanto eu errei desse valor é o
+resíduo tá E aí é aqui eu tenho algumas
+estatísticas tá uma das mais importantes
+aqui
+o som é os textos de estatísticos de
+significância tanto conjunta quanto
+individual do modelo para saber se é
+significativo não Ou seja esse modelo
+existe de Fato né ou tem um coeficiente
+ali que 0 né ou seja esse ataque
+especial aqui tá dentro do modelo mas
+ele é zero mas estatisticamente ele não
+saia para nada né É ou a defesa não sai
+para ver se por diante Então a gente tem
+que fazer esse tipo de análise então
+olhou para cá viu a p-valor eu baixo eu
+baixo a gente tá rejeitando então a
+gente tá dizendo E existe modelo essa
+conclusão existe modelos
+estatisticamente tá E aí aqui a gente
+tem o r quadrado é o que quando a gente
+tá com uma regressão linear simples Tá e
+que não é o caso aqui tá está com
+regressão linear múltipla ele é o
+coeficiente de pistão quadrado tá mais
+aqui ele ele que ele tá te dizendo Ele
+tá te dizendo quanto das variáveis
+e aqui ou seja do ataque das tac
+especial da defesa da Defesa especial da
+velocidade da vida o quanto ele tá
+explicando da minha experiência né então
+só tô colocando essas variáveis aqui o
+quanto da variabilidade da minha
+variável resposta da experiência está
+sendo explicada pelas variáveis
+explicativas aqui tudo bem
+o guardo o é quadrado no estado é mais
+para você tirar o efeito de da
+quantidade de variar Hospital São modelo
+Porque quanto mais você colocar o seu
+modelo mas o R2 vão aumentar mas essa
+Esse aumento pode ser significativo não
+tá então R2 quadrado ajustado se tiver
+próximo da R2 significa que ele tá bem
+ajustado por ter ele ele tá codificando
+bem mas ele penaliza quantidade de
+variados que tem dentro do seu modelo
+faca um dos pressupostos do modelo a
+quantidade de variadas tendências é o
+quanto mais enxuto melhor
+e aqui está te scaef também que é
+utilizado para fazer o teste f e aqui a
+gente tem start 3 individuais que
+mostram por causa Beleza não tem chefe
+ele diz o seguinte pelo menos uma das
+variáveis estão diferente de zero com
+esse do coeficiente delas né então tem
+um modelo mas aí a gente faz o teste t
+para ver se cada uma existe ou não ali
+dentro tá beleza mas e aí dentro
+daquelas variáveis estão é tem tem uma
+variável que é significativa não então
+eu vou testar os cursos sente dela então
+tá aqui quando tem as três estrelinhas
+significa que os três livros dos olhos é
+um por cento 5 por 110 por cento a gente
+é trabalha com a hipótese de que é
+válida né então a gente tem modelo e as
+variáveis estão sendo significativas
+aqui dentro do e também quer significado
+individual tá beleza e essa abobrinha
+toda para serve para que que serve né
+serve para eu dizer o seguinte olha
+e 37,4 quatro por cento da minha
+experiência está sendo explicada pelo
+meu modelo tá então por exemplo se eu
+pego aqui um eu peguei aqui valor de
+meio de anos tá então por exemplo que
+que eu fiz aqui é só para vocês entender
+eu peguei a eu vim aqui resumos
+numéricos tá vem aqui ó em vez de média
+eu botei aqui só para aparecer a mediana
+tá aqui a cinquenta por cento tá então
+eu vou tirar todo mundo aqui só vou
+deixar mediana tá então aqui a median e
+eu quero a mediana do que do ataque da
+Defesa do ataque da defesa da vida
+chá da vida do ataque especial
+e da Defesa especial
+e ir lá velocidade e vou botar a
+experiência também para saber que qual o
+experiência medianas que um Pokémon
+dessa natureza teria tá se existe um
+Pokémon que tem as as qualidades
+medianas né Eita como a Não ele tá
+agrupado com extra ainda como é que eu
+tenho que tirar Deixa eu tirar aqui
+pessoal desculpa a gente tem que vir
+aqui ó e clicar no controle e clicar uma
+vez para ele tirar tá bom
+e a Eita calma aí de média média mediana
+citada com um
+e não não trouxe como é que eu tenho que
+desmarcar umas coisas aqui a volta aqui
+resumos numéricos
+a estatística desvio padrão não quero
+isso eu só quero a mediana tá então vou
+tirar isso tudo só vou deixar mediana
+e fala Tom ataque mediano 75 então o
+Pokémon mediano tem ataque 75 Bora lá
+então 35 o Pokémon mediana tem ataque
+especial 65 para especial 65 a defesa do
+Pokémon mediana tem 70
+e a defesa especial do Pokémon mediano
+tem 70
+e a
+e a experiência do Pokémon mediano tem
+158 eu espero que ele seja próximo 158
+tá é ali dentro do do que a gente chamou
+né Mais ou menos do da capacidade
+preditiva né então velocidade 65 né E
+lembrando também que a gente tem que
+verificar assim realmente a gente tem
+essa esses valores aqui dentro do meu
+meu conjunto de treinamento está por quê
+Porque eu não posso fazer extrapolação
+né se não existir eu não posso fazer
+esse tipo de coisa tá ele tem que estar
+dentro da interpolação velocidade 65 tá
+lá e Vida 65
+bom então eu eu espero que um Pokémon
+mediano tenho em torno de 158 diferença
+vamos ver se nosso modelo ele tá ele tá
+bem agitado não ver ele tá com 80
+oitenta e sete porcento de R2 não vou
+ver se eu dou um predict aqui
+Oi ó deu 136/17 14 o observado real
+seria 158 então ele errou aí né 136.
+1714
+E aí o real é 158 - 176
+o ponto 1774 E aí isso dentro de 158
+para a gente saber o quanto por cento o
+passeio não
+ó ó se você fizer um eles isso
+Teoricamente ó 0836 então mais ou menos
+o poder ali que eu tava esperando né de
+predição que era ali 87 por cento de
+pressão né então eu consigo dizer para
+ele né um erro né obviamente não modelo
+é uma redução da realidade Então você
+sempre vai ter um associado né então
+você vai conseguir dizer com uma certa
+confiança né de que esse valor ele é
+tanto né com E aí você pode fazer um
+intervalo de confiança para sua
+estimativa também tá é eu queria mostrar
+isso e também fiquei de mostrar também
+se esqueça aqui tá Então vamos ver
+rapidinho aqui né gente passou um pouco
+mas vamos ver aqui que eu acho muito
+interessante isso aqui tá para vocês
+então liberais que está mesmo mesma
+coisa tem que vir aqui stoll esqueça né
+é o pacote tá você vai lá aqui ó digita
+esqueça
+tu vem aqui de GTA esqueça né E aí dá
+estou né e depois você dá o líder Beleza
+então só vou da Live e nós já tá E aí
+aqui eu vou dizer para ele que eu quero
+no Browser e
+E aí
+e antes disso né só para a gente fechar
+aqui essa parte aqui eu vou ter acontece
+aqui ele vai gerar um relatório Tá bom
+vamos ver o que você vai girar ele já
+era um arremate Down tá então por
+exemplo se eu pedir para ele gerar aqui
+ó relatório vamos ver se vai gerar eu
+vou pedir para gerar um HTML tá
+E de tudo que a gente fez vamos ver se
+vai fazer
+e enquanto ele está brincando aí
+e eu não sei se ele vai levar geral
+junto com o notícia
+e é vamos fazer isso que isso aqui
+depois a gente volta lá então Ó vou
+escolher Pokémon tá que é o nosso banco
+tá o treze variáveis que é o traduzido
+já nem tudo mais aí te dar aqui ó o
+tiver laranja discreto Se tiver azul é
+continuar tempo a ide é cinza tá aqui eu
+posso converter avariado que a gente fez
+proposta ele era número né eu poderia
+transformar ele aqui e faltou tá ele já
+faz a transformação aqui e aí tudo certo
+beleza e eu posso também eventualmente
+só escolher vai acho que eu quero aqui
+também tá eu vou botar tudo Tá mas eu
+posso tirar ele mostra aqui ó Paulo
+faltante tá tudo mais tá mostra o tipo
+da variável tá tudo bem e aí você clica
+em Vale deita ele se importa deita tá E
+aí beleza aí eu vou só passar aqui para
+baixo que eu não tô conseguindo enxergar
+aqui até o direito com o deixou
+Minimizar negócio aqui
+Ah então é aqui ele ele vira um para
+abortar para quem conhece tá boa é só
+você arrastar Ele criou gráfico tá então
+basicamente né a gente fez lá um gráfico
+de dispersão né Por exemplo Então vamos
+fazer aqui ó um gráfico de dispersão por
+exemplo com a gente fez ataque a gente
+viu que ataca especial é bastante
+relacionado com o experiência né então
+vou botar aqui no y a experiência e no x
+o ataque especial
+E aí magicamente ele cria aqui para você
+o gráfico de dispersão tá legal E aí mas
+lembra que a gente tinha a criar um post
+a gente pode botar o cluster' para
+aparecer na cor e
+e aqui o meio ó olha que interessante
+e esse aqui é o pôster una o PlayStation
+2 está aqui e o cluster três tá aqui né
+com os mais forte Então você consegue ir
+trabalhando com os dados de forma
+extrair os insights na fazendo esses
+agrupamentos está ele faz vários tipos
+ele já ele já entendi é automaticamente
+tá os gráficos que você pode criar tá
+então ele veio aqui olha eu poderia
+criar um pai ou sei lá ó ele creio que
+isso né é o tipo o calorzinho né sei lá
+é tipo um gráfico de calor com Total
+gráfico de área ficou feio pra danar né
+Ah então beleza vamos voltar para o de
+pronto beleza e aí vamos ver aqui vamos
+fazer um unbox vamos ver se a gente faz
+um boxe corte aqui
+e eu posso tá deixa eu só vou tar aqui
+com a variar só para mostrar eu posso
+trabalhar com ele também porque tipo de
+grupo tá então eu faço um gráfico para
+cada Costa esse aqui é o primeiro coisa
+você quer segunda você canta é cedo
+então ele ele botou por o grupo tá então
+eu consigo fazer esse tipo de coisa que
+não esqueça a gente tem um vídeo né
+detalhado lá no estatidados Professor
+porção Antônio né peixe para gente lá
+para aluno lá da comunidade estatística
+também né era bom para caramba também
+muito legal tem mais um vídeo com ele
+mas tem Live então a gente pode fazer
+também te ouvir aquilo experiência no
+e o x e aí a gente pode fazer uma
+densidade né aqui por quase também ou
+para o botar na cor é
+e você pode evidenciar no tamanho também
+né a isso também é interessante de
+mostrar né vamos voltar aqui só para
+mostrar ataque especial e aí você pode
+aumentar também onde acordo com o
+tamanho da experiência da magnitude da
+experiência o tamanho da bolinha também
+tá então aqui eu botei aqui mas eu posso
+botar na cor também tá vendo Então ele
+pode botar aqui na cor conta no tamanho
+também então você pode evidenciar de
+diversas formas tá tá interessante
+também tá
+eu estou por aqui ver se a gente
+consegue fazer um outro tipo de gráfico
+aqui
+Oi ó o histograma a gente pode fazer
+densidade né E aí a gente pode botar o
+cluster também na parada ou a cor
+é a cor aqui fio né nem me mostra
+claramente que os Pokémons do cluster um
+são os mais fraquinhos né que tem menor
+parte especial tem o 2ten mediano né e
+três são e mais forte é deixa eu ver
+aqui
+em outubro experiência tipo a gente tem
+poucas variáveis categóricas aqui para
+brincar mas a gente pode botar aqui ó na
+tipo do Pokémon né então a gente pode
+ver como é que é o tipo do Pokémon meu
+densidade a gente pode voltar aqui com a
+experiência também e ver o a parte
+especial e tipo de Pokémon pode ver Rua
+forma do Pokémon também aqui vai ficar
+horrível porque é muita categoria tá mas
+você pode também trabalhar dessas formas
+tá
+bom então cara é o mundo você vai
+arrastando aqui fazendo e faz Box pote
+faz Benjamin potti gráfico de barra né
+então gráfico de dia então você consegue
+fazer aqui muita coisa ta e o melhor de
+tudo tá cereja do bolo você pode botar o
+título aqui também ó gráfico workshop
+o mestre
+o Marlon Chaves
+Ah tá
+E aí você pode botar um caption também
+que apareceu
+e a aqui tá vendo apareceu aqui em cima
+E aí você pode botar um subtítulo né É
+oi lá
+e aqui ó
+E aí
+bom então subtítulo lá posso botar a
+legenda né a legenda não é a origem na
+fonte né
+e vai aparecer aqui em baixo
+é a fonte também posso botar da onde vez
+só de bebê é qualquer trabalho cidade
+aberta não posso botar o título Será que
+tiver cagada né gente pode botar aqui ó
+bonitinho a experiência botar o acento
+bonitinho tá e assim por diante tá posso
+embelezando o gráfico aqui posso fazer
+posso trabalhar com filtro tá então ele
+tá filtrando tá aí eu quero só tamanho
+de: até: até 11.0.96 tá lá posso
+transformar variável posso mudar as
+cores tá não gostei dessa até a outra
+posso botar também tá
+Oi beleza
+Ah e assim por diante tá posso vir
+montar mais aqui posso inventar aqui as
+cores Sem Fim o asta botar tem apenas né
+Posso botar o tema do Excel em uma do
+spss tema de diversas coisas aqui é uma
+mais padrão tá é posso botar legenda no
+gráfico posso jogar ela para cima para
+baixo para o lado pro outro tá E aqui eu
+posso filtrar por variável né ah eu
+quero um pouquinho acontecer essa até
+117 igual a ele esse homem arrasta aqui
+ele muda automaticamente Tá quero só
+Pokémons elétricos de água e bugue vem
+aqui selecione vou tirando tudo e aí só
+coloca os que eu quero assim como eu
+posso repor também tá beleza aqui são os
+clãs você posso fazer filtro né Beleza
+Aqui tranquilo e o melhor de tudo Tá se
+você quiser aprender o é ele também te
+ensina porque
+o que você faz ele queria aqui tá então
+ele tá filtrando o tipo Ice Dark Steel
+ele fez o filtro ele tá fazendo os
+gráficos né Se você pegar essa aqui e dá
+umas sete code
+e lá no próprio R ele vai fazer o
+gráfico igualzinho para você tá te dar
+um contra o contra você contra o vir
+aqui ó o próprio Borges para o iscsi
+voltar lá ele faz o gráfico para você tá
+aqui é pode gerar um png com gráfico tá
+e vai salvar né pode geral PPT direto se
+você tiver com a biblioteca instalada
+para fazer o PT tá
+e tem que ter lá o biblioteca do até do
+miktex E se for do do McQueen é outra
+tem que dar uma olhada lá tá e
+Basicamente já criou aqui tem o pneu da
+onde que ele tá a onde foi parar de sair
+oi Calma aí eu cliquei aqui
+e ele ainda tá ganhando né não né
+e na calma aí que eu não tô vendo tu me
+embolando na janelas
+e a
+não era para ele gerar que ataque pô
+i***** eu tava aqui a década aí ó ele já
+traz aqui para você é bom para você você
+explorar variar você explorar fazer
+várias decorações do teu banco né Isso é
+importantíssimo tá tudo que a gente fez
+aqui é totalmente necessário para se
+criar um modelo tá porque o que te dá o
+feeling para você saber qual o tipo de
+variável que influencia é qual o tipo de
+variável do qual a variável que
+influencia na experiência do Pokemon ou
+na precificação de imóveis ou na na
+quantidade de cliente que você vai
+vendendo na quantidade de produtos Você
+vai vender o próximo Leite né tudo isso
+a exploração de dados e estatística
+descritiva não só descritiva tá a gente
+for a gente foi muito aqui na descritiva
+a gente falou de novo precisar também um
+pouco e também um pouco de descritiva e
+a gente fala um pouco de referenciar o
+também com modelo de regressão linear
+bom então pessoal eu espero que vocês
+tenham aproveitado bastante tá foi meu
+melhor aqui para você está e qualquer
+dúvida estou à disposição tá a gente
+fica aí nesse nas redes sociais tá é só
+você me procurar aqui no adiciona lá no
+eu mandei o link para vocês do
+o Sonic tri onde consolida todos os rins
+tá tem lá no instante cidade grande
+parte do que você viu aqui tem lá no
+instante daqui tá tanto forminha
+enquanto outra pessoa que eu sou mais
+não também fez Live sensacional séries
+temporais para a gente foi sensacional
+sim e muita coisa legal tá eu queria só
+mostrar aqui no finalzinho para vocês o
+que que tá indo está ditado né só para
+sistema ideia tem mais de 500 vídeos tá
+hoje em dia
+e a gente tem mais de 22 mil inscritos
+no instante da Asus tá só para a gente
+finalizar aqui
+o valor de Alex já está me mandando
+dormir aqui tentando Parabéns lá na sala
+porque o aniversário da minha tia Mas
+tudo bem aqui ó o esporte Analytics
+jurimetria trem com dados a apresentar
+nesse negócio marketing Analytics na
+mais e gráficos de análise dados
+estatística está em tudo pesquisa
+operacional para todos vai bicicletas
+tendências e adaptação esse analítica
+modelos não supervisionados está
+entrevistas nacionais e internacionais
+também já teve live com era processa com
+o sujeito de cada anta nem dono do canal
+lá fora e caramba calma aí não pode
+ignorar o seu mostrado pessoal aqui ó
+e esse aí é o ficha
+E aí o ficha para você ver é uma Esse aí
+sabe estatística legal
+oi Calma aí mano tem que terminar aqui
+eu tô na Live né beijo
+Ah tá bom tchau tchau tchau valeu valeu
+valeu valeu valeu um abraço tchau mãe
+Então pessoal é basicamente é um mundo
+só está você só precisa tirar um ano
+sabático aí uma quarentena dessas PC
+Antena agora na Espero que eu não tenho
+mais quarentena só ano sabático daqui
+para frente né para você assistir vídeos
+tá então fique à vontade né a gente tá
+aberto aí a a perguntas né fica à
+vontade para falar qualquer coisa aí Se
+quiser xingar também tem problema não a
+gente aprende todo dia um por cento
+desligado aí pelo espaço profissão Mairo
+Manda aí manda aí Aline
+a agradecer a nossa apresentação foi
+bastante produtiva uma criança soltar
+esse aí no pelo curso de estatística mas
+eu tô entrando nesse mundo de ciência de
+dados e assim quanto maior contato com a
+tecnologia melhor né então assim muito
+obrigada foi bem produtiva a Hum que bom
+legal fico feliz ti com certeza acho que
+é a ideia é que vocês consigam
+vislumbrar né o potencial da estatística
+na área de vocês né porque a estatística
+é muito ensinar né você ver se eu abrir
+eu vou abrir que precisa essa triste
+aqui você vai ver a variedade é absurda
+e é surreal tá olha só as aplicações
+olha olha o nível da parada é desde
+genômica Olha só aplicação de genômica
+né que você analisar o gene não é humano
+para fazer medicamento e personalizados
+né descobrir novos tratamentos para
+doenças né que ainda não
+bom então já nome que é uma área que lá
+fora tá muito forte Inclusive eu tô
+trazendo um profissional de fora da tua
+negócio nos Estados Unidos e junto com o
+professor do Instituto Federal mexe
+knauber a gente vai trazer um curso
+sobre genômica né estatística aplicada a
+dinâmica tá vai ser bem maneiro também ó
+tem astronomia na estatística aplicada
+astronomia também vou trazer aí com eu
+sou Danilo que é formado pelo Ita né tem
+pós-doutorado aí hein pelo Ita e caras
+era de de astronomia aí vai a gente vai
+trazer estatística aplicada astronomia
+classificação de galáxias e as três olha
+olhos vivos na parada muito louca né Já
+disse que ela foi aplicar em todo o
+tempo o Analytics profissão Galo aqui é
+aplicar no recursos humanos tá o arquivo
+redes neurais nessa que eu boto porque
+pessoal acha que rede neural e não vai
+estatística né mas é só estatística tá a
+rede neural mais cinco que tem a
+regressão
+e a rede neural mais simples que existe
+tá percebe você tem regressão linear
+também tudo mais então é estatística na
+vez porte Analytics professora takata
+entre outros professores coordenadores
+Flamengo no alunos da comunidade
+estatística tem bim também que é uma
+análise de arquitetura né aplicado a
+estatística também vale a pena vocês
+assistirem um negócio bem inovador
+professor da ESPM para saber o que está
+lá com a gente na casa da pesquisa
+operacional da comunidade também pois a
+Live de estatística aplicada a projetos
+né aqui estatística aplicada a já
+estatística Então você olhar padrões já
+espaciais né aqui a direita nem
+jurimetria você mensurar a como é que tá
+o as ações dentro do STJ dos tribunais
+como é que tá correndo esse tipo de
+coisa como é que se dão as decisões Neto
+a taxa de reforma esse tipo de coisa
+aqui tem também nas empresas têm isso
+aqui é na toalha né estatística e a
+toalha andam juntas também tá lixo
+também é muita claro né Aqui tem
+estatística na área de saúde com a
+Isadora haluch também foi sensacional é
+o pressionando correr falou a parte de
+estatística aplicada à Finanças né tem a
+professora Adriana falou sobre
+estatística de forma geral também mas
+ele rocks for a Fera também da costura
+NBA gaúcho também tem uma perícia dela
+que mais bomba no canal e a dela de
+modelos o Mateus falou de estatística
+aplicada ao setor energético O Ricardo é
+lado com ele falou também um pouco da
+estatística na vida dele a a Anna escala
+entre as entidades indagou e falou sobre
+séries temporais também
+Essa é a Iara falou sobre a picada
+Market né o tem também Market analysis
+Ok professor Severo em cara tem
+estatística para tudo tá você imaginar
+onde não tem estatística tem estatística
+cansei aqui é muita é muita coisa
+e é beleza Alguém tem alguma dúvida
+específico vai fazer algum comentário
+obrigado Mais uma vez
+e a gente vai disponibilizar depois na
+PSOL para mandar o vídeo aí para botar
+no site da gen é preciso alunos eu vou
+compartilhar por um drive a gente já
+feito tinha lá e eu te mando o vídeo
+para limpar forno a gás para colocar lá
+efeito ou agradecer o seu Tiago pela
+ação voluntária aqui no nosso grupo
+também contribuiu bastante eu
+principalmente a biblioteca é esse com
+isso eu conhecia mas a ou é comanda
+nunca tinha visto É bem legal depois que
+depois baixo Buscai Buscai que ele é o
+spss cara é bizarro inclusive Fórum de
+desenvolvedores do spss que criaram
+buscar é gratuito né Faz muito faz até
+modelo multinível esta é bizarro e assim
+o problema é a parte mais do gráfico que
+tá com os bugs muito severos assim
+e não trair Mas é bom para caramba assim
+vai é como consertar os bugs vai
+estourar sim dá para fazer tudo tudo que
+você imaginava que fazendo buscar mas
+que eu mando ele é brasileiro ele tá
+todo em português
+eu não sei te dizer te dizer eu acho que
+não não sei dizer não mas acho que não
+mas é muito bom é muito bom eu tinha
+ouvido um gato uma vez que foi o pessoal
+lá do Oeste que fez mas não tem certeza
+tá não tem certeza vocês CD colaboraram
+Cê tá é mais então cara é isso né
+parabenizar mais uma vez aí pelo projeto
+incrível na espero ter dado uma
+contribuição significativa aí e tamo
+junto cara a gente tá sempre fazendo a
+casa pediu pressa não tem Live aí
+semanalmente a comunidade estatística
+tem lá de semanalmente também então é só
+acompanhar né quem quiser aprender tá lá
+tá tudo barato hoje em dia uma das
+coisas mais importante é que o acesso à
+informação ele é para todo mundo não
+hoje em dia você consegue estudar em
+Harvard e eu pela internet Você tira
+muito esse gato que nada do ensino Então
+quem quiser buscar
+e atrás né eu também Inclusive eu não
+não não vim de colégio muito forte né eu
+era bolsista também na faculdade e e põe
+muito importante né eu esses esses
+materiais Não só na minha faculdade foi
+muito boa né esse federal do IBGE é
+fantástica né tive oportunidade de
+estudar lá né e de me deu uma base
+fantástica assim como também nem muito
+esperando por materiais na internet amor
+tem um curso né E 6:00 lá com só com
+curso gratuito lá da eu até
+disponibilizei uma vez no brinquedinho
+depois eu posso mandar o link para você
+estar consolidado lá um artigo falando
+como aprender estatística tudo mais tem
+tudo lá né Tá um pouco antigo a relação
+dos cursos mas ele não deve servir
+alguma coisa né aí eu botei tudo tudo
+gratuito era 6 horas por dia estudando
+aquilo ali é um cara quem quiser tem
+quem quer faz acontecer então e com essa
+com esse empurrão ainda
+bom então é melhor ainda parabéns aí de
+verdade né temos que ter mais maiores aí
+na no Brasil e no mundo né show de bola
+cara então eu tenho que sair aqui senão
+já cantaram até o Parabéns não não vai
+sobrar meu para mim valeu aí para só
+qualquer coisa tamo junto É só adicionar
+lá no link 30 em tudo tá linktree é o
+conjunto dos gente já tem o link lá do
+curso de marketing analítico das redes
+sociais tem tudo tá então valeu pessoal
+até a próxima Até o mestre brigadão
+falou tudo de bom vamos marcar a tua
+volta também lá na comunidade Vai lá boa
+vamos marcar assim que um prazer Valeu
+cara um abração aí
+Olá pessoal vamos lá chamada
+que houve que foi muito adulto aqui é
+acaba que eu não dá para responder tudo
+a perder
+A Aventura Começa a legal
+se esforce eu acho que é plágio não
+porque já está lá disponível né
+publicamente mas
+e a isto se faz com que o pessoal não
+a beleza passa a data é muita coisa vale
+a pena maratona lá eu tenho aqui um
+playlist lá também e Mach Lane com
+biblioteca chamada sol e pro é também
+Oi beleza
+e o Mário Oi aquela pergunta que eu fiz
+no início que eu não entendi quando ele
+está no é que ele puxou lá da Fiocruz tá
+é porque a gente tem tem alguns
+repositórios ao longo do mundo se
+hospedam os pacotes do r a biblioteca e
+lá é fio Cruz é um desses lugares aqui
+no Brasil nós temos dois repositórios
+São Paulo eu acho que é um desses né
+temos um Paraná tem uns seis sete
+lugares no Brasil mas é em teorias você
+marcasse por exemplo de outro local lá
+para poder ver se Nova York every também
+de problema não é
+E aí eu pensei que ele viesse com uma
+biblioteca específica não é isso pode
+marcar outro lugar ele tem problema não
+é só porque aquilo que você tem aos
+servidores que hospedam né o o a
+biblioteca do r a Kate que ele comentou
+sobre manutenção é o kit manutenção de
+equipamentos né Eu tenho um vídeo que
+interessante depois eu vou mandar eu vou
+te mandar no grupo lá
+a beleza Mairo beleza pessoal vamos lá
+deixa eu compartilhar aqui o Adele não
+veio o Alan Alan posta aí além do Ei Ana
+Clara não vi ela acho que vão ver
+E aí Angélica One
+Oi meu anjo não vezes bem da garganta
+E aí LG Beijing tá aí ela está aí Erick
+[Música]
+Pereira a
+o azeite a bit tricky Rodrigues presente
+o presente Gabriela Valência a Gabi tá
+aí vou agora a gente fez Silva me
+e a gente vai para
+o desafio é
+o Marcelão purificad
+quem está aí de disco altena Lidiane
+Aparecida a gente não pode vir mas é
+isso aí né Acho que sim presente beleza
+Matheus Medeiros
+e parabéns Mônica tá aí A Pâmela tá aqui
+é a forma hoje
+em qual a Regina também ela teve que
+sair agora pô Rafaela está aí ela tá aí
+ainda tá aí
+e o professor beleza Renata apresentei
+sou José Alberto está presente também
+viu
+e quem José Alberto a
+E aí
+a beleza e a bruxa aqui aí as mídias 1
+o Jardim não não vai vir né bem só que
+foi ótimo beleza pessoal Olha só olha só
+Obrigado por Frank a aula para o pessoal
+externo aí eu queria saber você falou e
+disponibilizar no Android vi um
+diretório esse esse a certinho Android
+a ficar disponível também para ambiente
+não é isso André essa os alunos mas o
+Thiago ele vai pouco o vídeo no canal
+dele tá ótima ok a gente consegue dele
+do Estado de dados é consegue acessar
+ele vai ser o ventilador tá bom Rocha Ok
+obrigado então tá pessoal vamos vamos
+ter aqui na gravação

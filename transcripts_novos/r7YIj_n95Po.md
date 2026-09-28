@@ -1,0 +1,261 @@
+# Backpropagation: What Is It? How to Apply It in R for Neural Networks
+
+- **URL:** https://www.youtube.com/watch?v=r7YIj_n95Po
+- **ID:** r7YIj_n95Po
+
+## Transcrição
+
+olá pessoal hoje a convite do tiago a
+gente vai conversar sobre propaganda
+nós vamos entender qual o mecanismo por
+trás do treinamento das redes neurais às
+vezes morais são otimizadores são
+pescadores que são considerados caixas
+pretas e isso não é verdade a gente vai
+entender como elas são treinadas hoje
+aqui é o que se precisa de background
+para entender o cálculo mas coisa bem
+básica entendeu que era negativa porque
+a gente vai buscar minha mão quente vai
+buscar máximo e o que era de cadeia
+popular alternativa de funções composta
+está em termos de classificadores é
+interessante até um contato anterior com
+a agressão e então conta também com a
+otimização que a gente vai fazer de base
+se você quiser aprofundar no tema como
+este livro aqui os indigitados pelo fez
+aplicações
+estou trabalhando nele está disponível
+neste link aqui e se você quiser entrar
+em contato comigo via email alguma coisa
+está a descrição do vídeo e que está
+disponível também então o fecho do
+primeiro tempo planeja resgatar o
+conceito histórico aí como é que ele
+surgiu em três casas que contribuíram
+para este a forma significativa assim o
+um deles é o pl ele fez um pc me now o o
+brasil veio logo em seguida e um
+terceiro em breve os drivers foi o cara
+que vai trazer essa abordagem que a
+gente vai usar animais que é relacionado
+à a área de cadeia mas o caso foi que
+primeiro resolver isso e num contexto
+que é interessante observar que ele
+pensa ter um veículo que está aqui
+habitam um ecossistema e aqui eu tenho
+também a terra até março eu tenho um
+sonho tem diversas forças agentes sobre
+o acidente
+eu consigo navegar sobre ele imprimiu
+assim aceleração otimizando
+acho que o chile viveu a energia que
+estou gastando se observar se há quase
+um sistema para acelerar o momento certo
+para fazer as coisas no momento certo e
+por exemplo poderia sair da terra e faz
+um espiral que até chegarem martins de
+fato usar o ie e navegação espacial
+o problema é que isso foi colocar toda
+uma população só ficava muito complexa
+tratar diretamente o que ele fez foi
+dividido para as equações seqüenciados e
+por isso eu consigo calcular as
+derrubadas parciais já mandei de peniche
+e eu consigo chegar à solução mais
+elegante uma solução que é mais fácil de
+calcular de forma seriada forma paralela
+a gente consegue simplificar isso vamos
+entender como isso aqui funciona na
+prática como imaginar que a nossa reiner
+a hipotética ela tem todos esses nós
+aqui cada um deles corresponde a um
+neurônio e os anos a mãe acamada ele
+está só uma coisa que não a segunda
+camada que passa o personagem da 3ª
+câmara que passa com isso não está
+última camada sucessivamente
+então um classificado o clássico ele
+funciona só com um novo tá
+a gente está acostumado a entrar em
+butiá kyoshi site abriga transformação
+negro a funcionar hoje chica
+brown a gente entrega o tipo ç aqui a
+coisa é um pouco diferente começa a
+transformação sucessivas necessitados
+ele é transformado é não só uma nova
+entidade o agente
+de onde surgiu esse assunto vai pro
+planejam eu quero saber como eu que
+modificar os preços desses da onu saque
+de cada camada doenças para melhorar
+minha posição e eu quero saber se em
+relação à entrada para saber se dê em
+relações públicas mais elementares e de
+oferta local então posso falar e se
+independente de ser dependente de si e
+conseguir no final das contas chegar ao
+momento final perto por vez na verdade é
+a seguinte idéia eu faço uma predição e
+depois em relação ao que eu tenho como
+gabarito
+eu tenho ele em relação ao que eu disse
+e eu trago de volta seria ía a um homem
+de vencer falou entanto prata 6 3 e 6 3
+3 para 2
+ele se veste assim que a justiça esteja
+como funciona na prática vamos porque
+está aplicam funções de maneira
+seqüencial aqui então logicamente que
+acontece a camada 3 aplique a funcionar
+fica mais a 2
+a camada 2 aplica a função já na camada
+um a tomar a opção leste na entrada o
+que eu quero é que é uma derivação zona
+do euro em relação à entrada ou seja eu
+quero é um derivativo do euro o que eu
+devo alterar nos pesos na verdade ela
+teria batido em relação à a minha alguns
+pesos de entrada
+basicamente você consegue calcular isso
+eu consigo fazer isso de uma maneira
+local
+eu consigo processar essa mulher muito
+eficiente como eu faço isso por exemplo
+quer saber como é que eu tenho variar
+que minha meu
+a função dada em função do do meu da
+minha entrada
+eu consigo lembrar e com isso consigo
+explicar uma tomada pela outra que foi
+muito buscou colocar um desses animais
+vivos individualmente e depois só
+multiplicar elas para chegar ao bi a
+subir deixe isso seja debatido é a
+última camada em relação à entrada
+respeitada
+tá então prometeu definir isso eu posso
+definir a nova de em relação à ashes com
+o nome de diana
+eu defini a minha posição - á o que
+seria isso vai ter a opção de x porque
+isso aqui vai ser definido qual a ser
+dado pelo gabarito vovô fixo para cada
+livro ea minha entrada vai ser em função
+de deus dado e do meu gol x aqui então
+dá pra resolver o que acontece a gente
+vai calcular a derivativos de gedaref da
+verdade várias funções em cadelas como
+ele chegou aqui a regra em cadeia mostra
+que essa negativa aqui gdf linha vai ser
+gerir a bola f12 cef no entanto estava
+lá e se te alagoas mg com efe e ap o
+motivo df simplesmente primeiro tempo e
+sabendo que ela não acredita nisso aqui
+usando a regra atual só passa aqui para
+ser duas vezes
+ele vai explicar é fininha
+dessa forma é fininha vai ser
+simplesmente x porque a gente vai ter
+menos lembrar esses valores aqui e os
+que não têm a ver com
+nosso objetivo aqui que é com respeito
+aos pesos vai virar somente isso
+o livro é uma forma essencial mas
+acompanhada mas acho que debateu uma
+intuição de como funciona a gente vai
+ter funções alinhadas a gente vai
+calcular que a aced negativo zona aérea
+de cadilhe de cadeia e vamos chegar até
+um uma coisa final que é mais simples e
+calculado que você consegue paralisar a
+grande vantagem é incrementar essa aqui
+na prática a esse é o mark 2o o nome é
+uma homenagem ao primeiro neurônio no
+nível desses para conferir mais com o
+que sucedeu fernando artificial
+inspirado no nome o lógico e aqui estão
+as funções de perdição
+na verdade a pdg duas vezes em função
+das negativas que a gente colocou ali na
+mão
+então aqui os separou como eu vou prevê
+o cumprimento das pedras de certos
+senhores em relação ao comprimento e
+largura das células e para os tablets
+são as células e é a pétala a pétala
+pico o homem general vai se apresentar
+os dados várias vezes e os pousos
+atualizá los sempre procuro a derivada e
+até do peso no sentido de minimizar o
+erro
+depois de um tempo se estabiliza e
+começa
+i e 113 o euro 2004 que as câmeras 1.113
+é uma primeira pequena rita a gente faz
+isso aqui também está disponível lá de
+baixo e de perder tempo o nosso grande
+em luanda mas muito eficaz e ando aqui
+em torno de 2.50 mas não melhora tanto
+ea nossa relação com a bahia 2006 mas só
+por um momento difícil
+isso não é enquadrado por 30 mais
+acostumado com esse tipo de medida de
+aproximadamente 104 a 86 mais ou menos
+que a operação com o ponto que está
+acertando em relação à média do ensino
+médio acertava uma contínua afetando 1
+relativamente bem aqui usa a nossa
+general da organização também só para
+ajudar a gente entender que a nossa rede
+neural ela entender bem aqui elas o
+nomearam estas duas espécies são a
+vigília silenciosa mas é o terceiro
+espécie de ataque que o usual é um pouco
+diferente
+ela tem 87 diferente era um pouco mais
+inclinada enfim talvez 80 por dia e
+funcione melhor
+os neurônios conectar de outra maneira
+um treinamento de outra maneira
+e aqui meu que ponto a gente tem esse
+exemplo usando um alicate e as mesmas
+feitas mesmo tarde
+estou usando percebe a mochileira da
+mesma maneira só que de uma forma
+automática e testa várias tecnologias e
+usa esse processo de diferenciação
+automática de é composta negativas é
+possivelmente era trazer o melhor pra
+gente enquanto eu tinha uma condenação
+de 06 que vai ser reparado aí
+aproximadamente 04 na forma seriam menos
+a oeste nas expedições os em relação aos
+censos meta média
+aí pra ele em relação ao euro e chutar
+somente a média e esse sujeito tendo
+apenas um qe3 moron de outras camadas
+internas é é um exatamente com a
+especificação do pacote
+você vai ter recordado bem superior 10
+67 coisa que já é mais significativo que
+você pode tentar outras arquiteturas
+também é formas é o do tipo de ativação
+para ter na rede para ter uma posição
+mais legal
+então nessa maneira de entender o que o
+banco paga deixa a gente tem um grande e
+crescente que vai puxar os galões de em
+algum sentido
+ele vai puxar seus em direção ao melhor
+caminho e no caso da daiji a gente vai
+preparar esses textos por camadas que
+eles já tinham a 16 horas
+espero que tenha ficado claro e aí se
+houver uma dúvida vocês e quero mandar
+um alô galera um feedback baixar tudo
+gratuito na internet é verdade pelo
+convite estado falar aqui sobre papa
+deixou
+é um traço

@@ -1,0 +1,388 @@
+# Dummy variables: what they are and how to use them to estimate models with greater accuracy in St...
+
+- **URL:** https://www.youtube.com/watch?v=oRDYPiEVJcI
+- **ID:** oRDYPiEVJcI
+
+## Transcrição
+
+[Música]
+olá pessoal tudo bem a gente vai falar
+sobre a infecção de varáveis exame em
+modelos preditivos bom como sabemos
+muitas são as fontes geradoras de dados
+no mercado a todo instante são de novos
+dados financeiros e econômicos dados
+sobre o comportamento de consumo varejo
+e dados da indústria
+dados sobre saúde pública dados sobre a
+nossa saúde exames laboratoriais dados
+sobre educação dados sobre redes sociais
+[Música]
+dados sobre segurança pública
+ao mesmo tempo pesquisadores jornalistas
+e ambientes acadêmicos e organizacionais
+eu sei o que responder suas perguntas a
+partir da definição do fenômeno que
+estão estudando as variáveis que
+eventualmente se relacionar com esse
+fenômeno por exemplo um determinado
+modelo preditivo o fenômeno estudo pode
+ser as notas dos alunos no vestibular e
+as variáveis que eventualmente se
+relaciona com essas notas podem ser por
+exemplo a faixa de renda a escolaridade
+dos pais e até mesmo a quantidade de
+horas semanais de estudo no ano anterior
+ao vestibular do nosso modelo objetivo a
+gente vai sempre existir o fenômeno
+estudo ou seja a variável resposta ou
+variável ao cân como sendo a variável y
+e as variáveis que eventualmente se
+relacionam com esse fenômeno ou seja as
+variáveis preditor as como sendo as
+variáveis x o nosso construto então o
+pessoal se apresenta dessa forma que o
+nosso modelo teórico pode ser inscrito
+testa maneira
+[Música]
+pois bem pessoal mas em muitos casos uma
+ou mais variáveis x se apresentam de
+maneira qualitativa ou seja não
+apresentou medidas de posição uma média
+ou medidas de dispersão como desvio
+padrão por exemplo o setor de atuação de
+uma empresa é naturalmente uma variável
+qualitativa e pode definir os seus
+empenhos o sócio do indivíduo também é
+uma variável qualitativa e pode definir
+a sua propensão a determinados tipos de
+doenças
+o grau de satisfação dos consumidores
+definido por exemplo por meio do
+diferencial semântico do tipo ruim médio
+ou bom se relacionar com o fato de esse
+consumidor voltar a comprar naquela loja
+ou não
+então pessoal como inserir essas
+importantes variáveis qualitativas e
+modelos preditivos responder a essa
+importante pergunta é que nós estamos
+oferecendo mais esse vídeo
+espero que vocês gostem pessoal ah ah ah
+ah é pessoal a responder com e ser
+variáveis x qualitativas em modelos
+preditivos vamos imaginar inicialmente a
+seguinte situação determinada variável
+projetor ashes também conhecida por
+variável explicativa apresentar apenas e
+tão somente duas categorias
+podemos facilmente atribuir o valor zero
+para a categoria de referência e valor 1
+para a categoria alternativa esta
+variável é portanto de crônica e
+conhecida por variável thame
+nesse caso o modelo preditivo apresenta
+essa expressão que o parâmetro alfa
+representa o valor médio da variável
+alto campo também conhecida provável
+resposta ou variável
+para as observações que apresentam um
+valor zero da variável x ou seja para
+aquelas observações em que a variável
+prefeitura oferece a categoria de
+referência
+já a soma dos parâmetros alfa e beta
+representa o valor médio de y para as
+observações em que a variável x oferece
+a categoria alternativa portanto o
+parâmetro beta representar a diferença
+em y quando da alteração da categoria de
+referência para a categoria alternativa
+pois bem pessoal mas e se a variável x
+apresentar por exemplo três categorias
+nesse caso é muito comum que
+pesquisadores e analistas atribuem pesos
+arbitrários a cada categoria ou seja
+valores por exemplo iguais a 1 2 ou 3 ou
+algo do gênero
+isso é um erro grotesco já que se supõe
+que as diferenças entre as categorias na
+variável links sejam de mesma magnitude
+quaisquer outros valores para as
+categorias da barão x seriam igualmente
+arbitrários dado que as categorias são
+qualitativas e só permitem que o
+pesquisador estabeleça tabela de
+freqüência para aquela variável x e não
+um cálculo de médias om desvios já que
+os valores atribuídos são apenas lei
+bons rótulos
+embora esse erro de ponderação
+arbitrária seja muito grave é muito mais
+comum do que se imagina na academia no
+mercado portanto pessoal quando avaliava
+o projetor a qualitativa apresentar três
+categorias
+é necessário que sejam criadas duas
+maravilhas dame já que teremos duas
+categorias alternativas à categoria de
+referência às duas dames assumiram
+valores iguais a zero para a categoria
+de referência
+já para a primeira categoria alternativa
+a primeira dama assumirá valor igual e
+para a segunda categoria alternativa a
+segunda de dani é que assumir o valor do
+dólar assim o nosso modelo apresentar
+agora duas variáveis da empresa editoras
+e 2 correspondentes parâmetros bota bota
+um representa a diferença na média de y
+quando se passa na categoria de
+referência para a primeira categoria
+alternativa na variável x original
+já avatar 2 representa essa diferença
+quando se passa na categoria de
+referência para a segunda categoria
+alternativa na variável x original dessa
+maneira pessoal
+se a gente tiver uma variável x
+qualitativa com n categorias quantas
+delas precisaram ser geradas 1 resposta
+e nem menos uma dame já que o parâmetro
+alfa do modelo representará o valor
+estimado de y para as observações que
+apresentarem a categoria de referência
+além deste procedimento ser muito
+simples
+evitamos que ocorra o famigerado erro de
+combinação arbitrária
+a gente vai então agora mostrar pessoal
+como inserir variáveis dame modelos
+preditivos no estatal versão 15.1 para
+tanto pessoal e vai utilizar o banco de
+dados corrupção ponto de te a que se
+encontra no material do livro maior de
+análise de dados lançado por mim e pela
+professora patrícia mil flores em 2017
+para que a gente possa estudar esse
+banco de dados pessoal vamos
+inicialmente digital comando desk ou
+describe podemos perceber que a base
+contém dados de 50 países
+uma das variáveis chama-se cpi e
+refere-se à cooxupé 71 de ex
+ou seja o índice
+a percepção de corrupção por parte dos
+habitantes de cada país é um dado da
+transparência internacional bem como a
+região do globo em que se encontra cada
+país
+digitando comando edith podemos olhar um
+pouquinho na base de dados é uma base
+muito simples nós temos aqui então como
+a gente falou 50 países
+a variável cti que é uma variável
+quantitativa porque o corruption
+perceptions index é o índice é uma nota
+que varia de 0 a 10 e quanto maior a
+nota melhor é a percepção sobre os
+indicadores de corrupção de cada país
+pode perceber aqui por exemplo canadá
+forró 8.9 dinamarca com nota 9.3 ao
+mesmo tempo podemos perceber aqui o
+nosso brasil com nota 4 e e temos também
+uma variável qualitativa e refere se à
+região em que está inserido cada um dos
+50 países
+a gente pode perceber para essa variável
+região que foram preenchidos lei bons
+correspondentes a cada uma das regiões
+do globo
+mas que inicialmente existiu valores por
+exemplo a gente ficar em cima da américa
+do sul
+existe um número 1 em cima do américa do
+norte o número dois da europa 3 a 0 o
+oriente médio 4 e oceania 5
+esses valores foram preenchidas pessoal
+apenas para que pudessem ser atribuídos
+lei bons eles não dizem nada a respeito
+de métricas de cada uma das regiões
+isso fica claro se a gente voltar pra
+nossa tela de comandos editar tab região
+a gente percebe então uma tabela de
+frequências dos 50 países cinco nosso
+banco de dados estão na américa do sul 2
+na américa do norte 24 na europa 17 na
+ásia ou no oriente médio e dois na
+oceania
+o que a gente tem interesse pessoal em
+avaliar se existem diferenças médias na
+cpi dos países provenientes de distintas
+regiões como a variável região foi
+inicialmente preenchida com valores
+depois foi atribuído o cavaleiro bom o
+que analistas e pesquisadores muito
+freqüentemente fazem neste momento é
+rodar uma regressão da seguinte forma
+regressão a variável cpi em função das
+regiões
+digitando comando harry cpi região
+a gente dá em ter um software realiza
+essa regressão
+mas essa regressão pessoal pelo amor de
+deus ela não nos diz nada porque mostra
+que para cada alteração de uma região
+para a outra mudança se aqui um
+coeficiente da uefa que não tem o menor
+sentido porque o atribuir aqueles
+valores um dois três quatro ou cinco de
+maneira puramente arbitrário que depois
+eu vou incluir os leigos se eu tivesse
+colocado europa comum américa do sul
+como 4 oceania como 3 e assim
+sucessivamente um tem o menor sentido a
+estimação neste modelo esse modelo está
+completamente errado
+carlão próprio orar pessoal
+pesquisadores e analistas ainda
+solicitam os valores estimados de cpi
+para cada um dos países da amostra a
+partir desse modelo estimado aqui ou
+seja digitam predict y hatch por exemplo
+em y hatch o valor previsto a partir do
+último modelo de cpi para cada um dos
+países e um chapéu
+olhando o banco de dados podendo
+verificar os valores estimados de cpi
+para cada um dos países a partir daquele
+modelo mas isso não tem o menor sentido
+nós vamos mostrar agora porque decidem
+construir um gráfico a partir do
+seguinte comando da cpi região pai pipe
+aquelas duas barras verticais msp laine
+y hatch nosso chapéu
+os valores previstos de cpi a partir
+daquele modelo região e esse gráfico é
+construído pela estatal
+podemos perceber pessoal que esse
+gráfico não tem o menor sentido uma vez
+que alterando se a região a queda em cpi
+é linear o que não é verdade
+podemos perceber que os países da
+américa do sul os valores cpi estão
+nessa faixa para os países da américa do
+norte aqui em cima em torno de 8 e assim
+sucessivamente para os países da ásia e
+oriente médio aqui em baixo com uma
+média aproximadamente 2 e pouco né e
+estimo este modelo linear de agressão e
+não capturar essas alterações em outras
+palavras pessoal se eu fazer uma
+previsão de cpi para os países da manhã
+o norte é esse valor previsto vai estar
+aqui abaixo de 6
+enquanto estados unidos e canadá quem o
+cpi
+lá em cima em que o essa é a principal
+razão pela qual faz sentido o
+estabelecimento de varáveis dame para
+que sejam capturados as diferenças de
+comportamento entre as categorias da
+variável qualitativa para que sejam
+criadas variáveis dame a partir das
+categorias de uma variável prefeitura
+qualitativa pessoal
+devemos digital estatal comando xiv
+espaço i ponto vá em que vá refere-se a
+variável qualitativa acreditou no nosso
+caso então o pessoal
+devemos citar o comando xv e espaço i
+ponto região como para a região
+apresenta cinco categorias foram criadas
+m - uma delas ou seja quatro damas
+correspondentes às regiões de 2 a 5 uma
+vez que a região 1 américa do sul será
+capturada pelo parâmetro alfa no modelo
+preditivo digitando edith pessoal
+podemos verificar o que aconteceu com o
+nosso banco de dados
+foram então criadas essas quatro
+variáveis dame e olha só para os países
+da américa do sul
+as quatro dames assumir valores iguais a
+zero para os países da américa do norte
+10 00 para os países da europa
+01 00 para os países da ásia e oriente
+médio
+00 10 e para os países da oceania 000 e
+um pessoal
+vamos então vai ficar como agente inclui
+essas variáveis dame no nosso modelo
+preditivo
+vamos ditar o comando o blog ct i am the
+maine e asterisco uma vez que esse termo
+underline asterisco consegue capturar o
+comportamento de todas as dames nosso
+comando porque todos os danos criadas
+começam quando online i maiúsculo se eu
+tiver a variável qualitativa x como por
+exemplo 500 categorias vão ser geradas
+499 dames imagina digitar o nome de cada
+uma delas no comando ao digitarmos
+underline e mails com asterisco já
+conseguiu capturar todas elas no nosso
+comando audarzean interpessoal
+o modelo é estimado que podemos perceber
+que todos os parâmetros são
+estatisticamente diferente de zero a um
+nível de confiança de 95 por cento ou
+seja não faria sentido procedimentos
+habituais nesse caso e nós podemos
+perceber que os países da américa do sul
+apresentam em média o cpi de 4.18 esse
+comportamento é capturado pelo alfa pela
+constante entendeu e muito bom e cada
+aberta representa a diferença no cti
+médio entre cada região ea região
+referência ou seja américa do sul
+portanto os países da américa do norte
+apresentam em média um cpi três pontos
+82 maior do que o 4.18 que a cpi e
+médios países da américa do sul
+essa diferença estatisticamente
+significante e portanto os países da
+américa do norte apresentam cpi médio de
+4 pontos 18 mais três pontos 82 ou seja
+igual a 8
+em outras palavras pessoal as diferenças
+entre o cpi médio de cada região e ao
+cpi médio da categoria de referência
+no sul essas diferenças não são lineares
+e são estatisticamente insignificantes
+se eu digitar pessoal está a cpi vai
+região entre parentes
+eu posso verificar exatamente esses
+valores os valores médios de cpi para os
+países da américa do sul
+esse valor é igual a quatro pontos 18 no
+alfa da américa do norte
+4.8 mais três pontos de 2008 e assim
+sucessivamente
+podemos construir um gráfico análogo ao
+gráfico anterior
+para tanto devemos visitar edith 72
+correspondente ao segundo modelo e
+último que a gente tirou aquele modelo
+do exame e agora vamos ditar o comando
+graf chuva o ei região
+pipi m2 região
+podemos perceber então o pessoal que o
+nosso modelo consegue capturar as
+diferenças na média dos indicadores de
+cpi para cada um dos países provenientes
+de regiões distintas pessoal
+por hoje é só pessoal espero que vocês
+tenham gostado desse vídeo e aguardem
+nossas novas publicações
+[Música]

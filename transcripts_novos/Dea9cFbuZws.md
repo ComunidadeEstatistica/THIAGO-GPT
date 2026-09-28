@@ -1,0 +1,1251 @@
+# Multivariate Analysis in Insurance Pricing - Laura Ricordi (Coordinator - Tokio Marine)
+
+- **URL:** https://www.youtube.com/watch?v=Dea9cFbuZws
+- **ID:** Dea9cFbuZws
+
+## Transcrição
+
+a ação da empresa também somos nós que
+programamos a gente programa em várias
+linguagens já que ele também a gente
+mexe hoje já quase não usamos esse Kelly
+mas encheu os programas nas Kelly eu não
+como eu não manjava muito da linguagem
+outras maneiras tudo em paz para
+alocação usam muitas linguagens não é
+atingir bom a gente já tá chegando aqui
+a 20 horas então queria agradecer aí é
+sua presença né falar que pô é a gente
+gosta muito de receber aí profissionais
+já qualificados aí como você né que já
+tiveram uma um caminho né e com certeza
+que vocês têm muito acrescentando Porque
+como você já passaram por aquelas coisas
+que a gente vai passar então dá os
+atalhos entendeu então a ideia que essa
+troca né É um prazer enorme recebeu aí
+na
+e me fala um pouco aí da sua carreira
+fala um pouco da área de purificação
+fica à vontade de ir para falar que você
+quiser não sei quer fazer algumas
+interativo né conversando com o pessoal
+vantagem para todo mundo me interromper
+perguntar até ser usar algum terno mais
+técnico do Meio tutorial do segurês não
+tem problema nenhum mandarem aqui no
+xat.com chat aberto que aro lá não sei
+que assim nisso lá não sei que é legal
+eu ganho selagem quando eu eu bolei o
+roteiro aqui entrando o mínimo possível
+nos termos técnicos o Areias e um
+Segredos mas sempre vou falar alguma
+coisa mais técnica essas podem me
+questionar Tá eu vou tranquilo que a
+gente vai perguntar como que eu fico na
+dúvida se vocês estão gostando do
+assunto ou não Tá então
+o podem participar feliz e tava agradeço
+a oportunidade e admiro e o trabalho que
+você faz importante ao a disseminação do
+conhecimento e a série de estatística e
+modelagem que eu sou muito apaixonado e
+sempre legal achar pessoas que tenha
+sangue compartilham dessa paixão relógio
+legal demais nele e bom então me
+apresentar me chamou Laura Record todo o
+Rio Grande do Sul formado em ciências
+atuariais pela Universidade Federal do
+Rio Grande do Sul e Flamengo 2010
+Oi e já trabalho com Seguros a 12 anos
+comecei a trabalhar na época da
+faculdade quase sempre com seguro de
+automóvel você trabalhar em corretora
+fazer um Sim foi foi não era nada da
+atuarial na estatística mas foi
+importante para entender da operação né
+do negócio do fluxo de venda de seguro
+então trouxe uma bagagem legal entender
+justamente negócio né
+com a ajuda de alguma forma com certeza
+depois no final da faculdade meu último
+ano da faculdade eu trabalhei na Unimed
+Seguros daí como prestação de planos de
+seguro Eu adoro a a trabalhar lá a foi o
+meu primeiro contrato profissional com a
+parte de fatorial mesmo só que eu te a
+planos de me casar e fazer com um
+militar então ele não conseguiu ir para
+o porto alegre e então eu abri mão na
+época do meu emprego na Unimed para
+acompanhar ele na carreira dele e ele só
+que eu falava para ele tenta aí para uma
+cidade grande que eu conseguiu voltar
+para o mercado de trabalho foi então que
+ele conseguiu para Campinas
+Oi e eu consegui emprego aqui na Tokio
+Marine já eu fiquei dois anos morando em
+Campinas e vendo a costura tá na Toca
+quanto tempo aui mais de oito anos me
+formei em agosto de 2010 aí 2011 janeiro
+de 2011 eu fui para Campinas e junho
+Primeiro de Junho eu comecei a trabalhar
+6 de junho comecei a trabalhar aqui na
+toca vocês de junho de 2011 2011 e nunca
+mais sair daqui eu entrei aqui na Toca
+então como analista junior
+a ver fui crescer e nessa pleno-senior
+especialista na ano passado que ele já
+queriam que eu virar as coordenadora da
+área por aí meu marido por causa da
+profissão dele foi transferido para o
+Rio de Janeiro e e eu tinha duas filhas
+pequenas uma com um ano pelas estamos
+seria muito complicado ficar aqui em São
+Paulo assumindo o cargo de Gestão com
+duas filhas pequenas sozinha e eu não
+tenho família aqui minha família toda do
+Rio Grande do Sul né então eu fiquei 10
+meses trabalhando o Home Office como
+especialista Então isso é uma coisa
+legal Dá toque o que a top ainda não tem
+tema de trabalho remota assim mas em
+função da minha situação eles liberaram
+porque eu trabalhasse com novos jogos
+e esse ano nós Ela ficou em segundo
+lugar na Great Place To Work ela Caramba
+que legal lugar segunda melhor empresa
+para se trabalhar no Brasil é um orgulho
+enorme isso e bom eu tô aqui há oito
+anos e meio tivesse essa oportunidade de
+trabalhar o move se por um problema de
+gestão minha pessoal né que você empresa
+pode usar o problema dela né ela
+escolheu ter duas filhas casaco militar
+dela não a empresa ele e me ofereceram
+almoça viu não peninha algo que eu pedi
+então foi legal não sou suspeito tem uma
+geralmente é difícil né gente ver a
+empresa se importando com os
+funcionários é um negócio que nós não é
+tão não há uma regra né infelizmente
+e não é a Tóquio é o exemplo esse muito
+bacana estou aí a gente sente aqui e
+todo mundo tem muito orgulho de
+trabalhar aqui isso faz diferença né
+pegar um bom essa é minha história
+profissional faz um ano que eu irei
+coordenadora da equipe e eu cuido
+especificamente do seguro de automóvel
+mas que o carro-chefe aqui Dr Marinho
+responsável por mais de sessenta por
+cento do faturamento é uma grande
+responsabilidade nessa e coordenadora da
+área de precificação do produto que
+representa mais da metade do faturamento
+são mais de 3 bilhões de faturamento
+anual é gentil um grande desafio sua
+habilidade e
+e eu preparei aqui esse PowerPoint para
+a conduzir mas tão coisa mais básica
+como é que o como é que a composição do
+prêmio do seguro é ele é composto pela
+da despesa administrativa comissão
+outras despesas operacionais tributo
+lucro e os Sinistros né que assim como o
+que é produto convencional a empresa
+sabe qual qual que é o custo daquele
+produto né Você vai vender pela livro
+você tem saber um caderno você sabe
+quanto que você gosta de matéria-prima
+com papel com no seguro o que que é essa
+matéria-prima é as indenizações de
+sinistro
+o pessoal sabe o que quer é melhor
+melhor explicar não sei se todo mundo
+sério é a ocorrência do evento que foi
+segurado por exemplo seguro de automóvel
+Qual que é o qual que é a cobertura mais
+procurada é de roubo então se você tem
+se você tem seguro de carro e o seu
+veículo é roubado acontecer um Sinistro
+né O Roubo é um sinistro mas há uma
+batida sinistro então grande desafios
+das áreas de precificação de seguros é
+estimar o quanto que será gasto com
+sinistro que você faz o seguro né a
+seguradora vende o seguro ela não sabe
+quanto que ela vai pagar de indenizações
+certo
+bom então a gente faz modelos para
+estimar a quantidade de sinistro e o
+valor que vai ser gasto com esses que
+isso vai pro preço é a parte quanto que
+eu tenho que cobrar de cada cliente para
+ter dinheiro suficiente para pagar todas
+essas indenizações que vão acontecer e
+mais a de ar começou a morder os
+tributos e o lucro que a diretoria que é
+certo então eu coloquei relógio não dá
+para cima agora foi eu peguei aqui um
+bem antigo da toque para não ter
+problema né bebê foto dá uma foto o do
+João Excel do
+e aperta aí o botão de maximizar de
+repente já não tá maximizada né aí fica
+um pouco maior para a gente ver um
+a minha apresentação é o parágrafo até o
+fim de maximizar até agora chat aparece
+melhor eu vou fechar então não não
+desculpa não a sua a sua a sua a nossa
+nossa civil não tem não vai aparecer o
+seu chat para gente não
+o Anderson
+Ah não tranquilo abaixo
+bom então a de a comissão de os tributos
+o lucro isso tudo Eu sei o percentual
+que tem que ser carregado no preço porém
+O Grande Desafio da área de precificação
+é este mas a parte dos sinistros certa
+bom então nós fazemos modelos para
+estimar a quantidade de sinistro e o
+valor
+é a quantidade a gente transforma a
+gente média frequência então a gente faz
+um modelo usando a quantidade dividindo
+pela exposição ao risco são conceitos
+meio mas atuarial mas calcula a
+frequência desse nisso frequência o que
+ele né todo mundo entende Você tá em
+qual dói desculpa você também
+sinistralidade Projetada veste real ou
+tá na casa apresentação porque ela não é
+bem a sequência nem falei eu vou
+primeiro se deixa aqui depois eu
+continuo nela que eu vou primeiro falar
+dessa parte de as bem que não espetinhos
+Lanches aqui sobre isso aqui ó
+E aí
+[Música]
+Oi beleza
+bom então é meio que é consagrado no
+mercado segurador entre os atuários que
+a melhor forma de modelar essa
+frequência de sinistro é utilizando glm
+a Espanha é o país além de ser usado
+a isso e que se a frente o a
+distribuição do erro nesse modelo é o
+assumo tá
+o Iago e a gente usa a taxa né número de
+ocorrência de sinistro por determinado
+tempo sei lá na uma taxa exatamente a
+gente faz sempre o porque o seguro ele é
+vendido sempre anual então a gente
+calcula uma taxa já para o risco anual
+perto então sempre a gente modela a
+frequência de a probabilidade quando ela
+frequência para o risco ficar vai ficar
+exposto durante um ano beleza
+bom então desde que eu entrei aqui na
+Tokyo a gente sempre trabalhou desta
+forma fazendo o modelo glm e definindo
+que a força a distribuição do erro do
+modelo Segue o som como parâmetro e que
+o modelo de custo de valor do sinistro
+também uma a gente faz uma glm um
+parâmetro é que a distribuição do erro
+Gama sal
+Tá certo a gente usa o pode ser chamado
+em que foi desenvolvido por uma
+consultoria atuarial MB e depois a
+Towers comprou a Towers é a consultoria
+atuarial mais famosa no mundo e ela
+comprou essa outra consultoria MB em
+função foi para me contar não tal nunca
+me ligar em função desses of trembling é
+assim o todo mundo que eu converso no
+mercado segurador da área de Francisca
+são todo mundo usa esse hembling Ou no
+máximo usa também os as Mas eu não
+conheço nenhuma seguradora que não
+trabalhe com ele para fazer para esse
+situação fazer modelos de 31 anos
+frequência e custo de sinistro endereço
+só tua inglês assim é só
+Oi Maria m
+a entender é como se fosse um review
+hoje lá para a econometria né é mais
+utilizado por economistas é só usava
+muito lá no instituto brasileiro de
+Economia Entendi então a nosso trabalho
+aqui de modelagem é fazer modelos dlmm
+principalmente né porque isso é o corda
+Nossa área é estimular o quanto que será
+gasto com sinistros
+a beleza faz os modelos Flash uma
+frequência e custo de sinistro das
+principais coberturas né aquelas que têm
+uma exposição suficiente para fazer o
+modelo porque tem coberturas por exemplo
+app de acidente pessoal por passageiro é
+uma cobertura que praticamente não tem
+sinistro tão logo a gente não consegue
+fazer modelo para estimar o risco
+certinho dela então a gente usa por
+exemplo modelo de responsabilidade civil
+danos materiais responsabilidade civil é
+assim por exemplo o seguro do seu
+veículo a gente chama o seguro do casco
+que ele cobra as coberturas de perda
+parcial seja uma colisão que você
+danifica parcialmente o seu veículo
+em uma colisão na Qual você tem uma
+perda total do veículo ou roubo nessa
+todas as coberturas de casco são as três
+classificações é que a gente faz a
+modelagem né gente se estima as
+frequência de perda parcial quando a
+casa lá em correndo um custo distinta
+isso cabe a casa
+Essa é a gente faz um modelo de
+frequência e onde custo para perda
+parcial porque as variáveis que
+influenciam no risco de uma da
+ocorrência da perda parcial não são as
+mesmas variáveis que influenciam no no
+custo de sinistro um exemplo clássico
+assim fácil de entender isso que eu tô
+falando sexo né dizem netos já vi mulher
+bate mais que os homens então no modelo
+de frequência de perda parcial o fator
+de risco do sexo feminino vai ser maior
+que o masculino porém dorme também esse
+essa
+e na verdade empiricamente é verdade ou
+não é
+há mais ou menos depois eu entro nesse
+ponto de novo slide sobre a mente sobre
+isso independe da idade tem uma
+interação essa variável ela é a gente
+interage com a idade da pessoa mas sim
+na média assim ser a mulher que uma
+frequência maior de perda parcial de
+sinistro de colisão com perda parcial do
+que o homem porém o custo do sinistro
+ele é maior no sexo masculino do que
+para mulher né mas para você chegar no
+preço do Risco
+se você combina você multiplica o modelo
+de frequência com de custo e aí você
+chega no preço que você tende a cobrar
+para para ter dinheiro suficiente para
+pagar suas indenizações tu não combinado
+fica quase 100 não tem muita diferença
+tirar suas quantidade né hum preço vezes
+quantidade nos assim calcula o preço
+calculou a quantidade na vezes o curso
+a beleza daí quando a gente modela o
+custo a gente divide pela importância
+segurada importância a gente chama de S
+na segurança mas aí é se é o o valor do
+bem segurado em
+E aí eu não coloquei leque sobre isso
+é mas assim quando você vai fazer essa
+uma cotação para seguro o que que você
+manda para seguradora o valor do seu
+carro eu estou atendendo você manda Olha
+esse é meu carro quero que você me deu
+um preço né então do seu carro eu sei o
+quanto que ele vale eu vou segurar seu
+carro lá que vale 50 mil a gente tem que
+chegar no matar acha que vai multiplicar
+por esse valor do carro e vai ver a um
+preço então a gente modela uma taxa
+a frequência vezes o custo de um preço
+mas eu não quero o preço porque o
+cliente vai me entregar uma ia valor né
+que ele quer segurar então que que a
+gente faz a gente divide esse valor da
+ISS da nossa base de dados pelo custo do
+sinistro a gente chega numa taxa que a
+gente chama de grau médio de dano você a
+gente moderna o custo do sinistro toque
+transformando ele numa taxa beleza deu
+para entender mais ou menos entende
+pessoal fica tranquilo aí
+Me responde aí se entendeu aí no chat e
+e eu posso montar um salão Luiz Felipe
+falou assim que não falou assim beleza
+né Rodolfo também beleza show não dá
+então eu domingo ainda a gente tem que
+fazer modelos para estimar a frequência
+e o custo do sinistro mas esse custo
+encaixa e depois eu pego essa taxa
+multiplico pelo valor Está Sendo
+segurado e ele ver um preso
+é legal então assim basicamente para
+fazer o preço do seguro de automóvel nós
+fazemos no mínimo esses oito modelos
+aqui que está está nesses laje que é um
+presente para frequência de perda
+parcial de grau médio de perda parcial
+frequência de perda total grau médio de
+perda total ao frequência de roubo e
+furto grau médio de roubo e furto
+frequência de danos materiais grau média
+de danos materiais danos materiais
+responsabilidade civil de danos
+materiais por exemplo você faz seguro do
+seu carro mas você pode se você bater em
+outro carro você é responsável também
+pelo dano material que o seu carro gerou
+a outro veículo certo certo né você
+bateu em um poste você
+o sábio pelo dano material não é pelo
+valor para que ele possa ter que
+indenizar a prefeitura não tem que
+indenizar a pessoa do carro que você
+bateu tão essa indenização de
+responsabilidade civil entra é a
+cobertura de danos materiais DM aqui no
+CDM essa cobertura ela tem uma
+frequência de sinistro igual a de perda
+parcial no próxima então assim a perda
+parcial e responsabilidade civil danos
+materiais são sinistros com maior
+frequência para seguradoras Então deixa
+eu tentar entender por exemplo se você
+tem uma uma perda vamos ver Total sei lá
+quanto maior é a perda eu tô me
+aproximando mais uma distribuição de
+poisson
+e esse conta menor eu estou me
+aproximando mais a Gama é isso eu uso a
+possam quando os caras são mais severos
+e a grama com os casos mais leves após
+som para os modelos de frequência
+frequência da Gama dos modelos de GNT
+entendeu gmd tá beleza e saúde que você
+me deu custo / RS a um valor círculo Tá
+certo beleza
+Ah e assim porque que porque é que o
+mercado usa muito glm porque a a
+resposta do modelo ela ela levantou
+simples a né é dia de fazer um pode
+ocorrer ou não Sinistro né Por exemplo
+pode ocorrer o sinistro não assim mas a
+gente modela a frequência Então não é 01
+né hum ah sim com certeza a gente pega
+as ocorrências e dividir pelas pela
+exposição ao risco é uma gente modela
+uma frequência tá beleza Já sim um
+modelo que a gente faz que 01 é de
+propensão a renovar
+é né eu tenho sal meus clientes da
+carteira e daí está próximo da Renovação
+a gente roda um modelo e estima a
+probabilidade dele renovar o seguro com
+a gente dado o preço e o modelo e risco
+esses frequência combinado com de custo
+e apresentou né então o cliente é o
+segurado na renovação dele aí eu volto
+no modelo vejo se eu cobrar o preço do
+modelo que foi r$ 1000 a probabilidade
+dele renovar e cinquenta por cento base
+a diretoria não quer uma renovação de
+cinquenta por cento aqui é uma renovação
+de 75 então quanto que eu tenho quanto
+que eu preciso ajustar esse preço para
+quê
+e leve essa probabilidade de renovação
+ao patamar que a diretoria Esta é a
+gente faz isso aí você faz logiscargo
+essa decisão que a gente usa mas é glm
+também também eu enfim são três modelos
+e que a gente faz aqui no yngling
+perigosos todos os velhos de frequência
+para função de ligação um blog e
+distribuição do erro com as um o dia e
+grau médio de dano DLM constribuição do
+erro Gama são de ligação log ambos a
+resposta do modelo é multiplicativo
+então eu consigo combinar eles e
+facilita bastante a programação desse
+roteiro né desse modelo transformar ele
+em um roteiro de cálculo também é que
+pedir para descansar rock
+em casa sua programação do roteiro de
+cálculo na maioria das seguradoras hora
+de their vamos fazer essa parte que a
+gente faz e o modelo logit já a resposta
+dele não é o modelo multiplicativo ele
+não é tão simples de interpretar quanto
+hoje os que são função log né são de
+ligação long
+É sério não é tão complexo também a
+gente juntos utilizam Então essa aqui ó
+olha esse slide é a resposta de um
+modelo é eu peguei um bem antigo tá dou
+é completar Eu por exemplo ele tem a
+primeira variável que aparece
+e se existe jovem com veículo próprio
+possui não possui alguns resposta Mouse
+mexe mexe Mouse aí para ver se eu
+consigo aí isso aí a ponta e tu para lá
+para onde você tá falando que eu não tô
+conseguindo ver a Valeu aí agora tá e
+que sexo Vocês de EMS uso do veículo
+vendo separar trabalho e região entendeu
+na outro modelo que a gente que a gente
+gostaria de fazer mas nós ainda não
+fazemos não temos muito Expert se mas
+gostaria de aprender mais e se tiver
+alguém aí que queira compartilhar sobre
+esses modelos que são os não
+e não previsiona dos médicos
+atualizações para definir por exemplo os
+grupos de região que vão ser levados
+para o modelo né Legal industrializados
+atualização e geralmente com que você
+distribuição na similaridade para
+agrupar os elementos a gente teve uma
+aula disso com a Rebeca Não é ontem ah é
+que legal então é algo que a gente tá
+correndo atrás da tia tá de fazer no
+sasu não é a gente vê o pai tudo bem
+Você Já identificou as ferramentas que
+fazem a gente tá correndo atrás aí para
+sofisticar porque a toca vem crescendo
+muito e a gente precisa melhorar as
+coisas todas as nações não é hoje não tá
+funcionando a gente ir fez um trabalho
+no passado mas preci
+é constantemente aperfeiçoar esses
+conectar com certeza até porque não se
+perdia nada né infecção Até porque não
+supervisionado da inserção de novos
+dados na base já multi fica tudo né
+então tem que rodar com bastante não
+adianta um modelo nunca vai ficar bom se
+não tiver uma tuas realização adequada
+das variadas as principais variáveis a
+complexidade fica muito alta né você tem
+que caracterizar para reduzir a
+complexidade né achar nicho mas
+homogêneos né para poder atuar
+é só por exemplo seu ao grupo aí no Rio
+de Janeiro né digamos a barra é
+relativamente próxima lida no bairro do
+lado Taquara jamais você chegar aqui na
+minha casa eu chego na Barra rapidinho
+pela linha amarela então mas é
+totalmente diferente o padrão entendeu
+então você vai agrupar essas coisas
+imagina vai ficar louco Jacarepaguá ali
+Rua Jacarepaguá já com a baixada
+fluminense tem novo modelo vai perfeito
+mas ele vai dar um fator médio então vai
+ficar totalmente vai ficar errado o que
+que vai acontecer a perna que foi
+enviado por os extremos a gente sabe que
+essa parte de clusterização ela é
+extremamente importante que no nosso
+trabalho a gente toma muito cuidado
+e ela e a gente sabe que precisam
+aprender mais desses modelos não
+supervisionados para melhorar sempre na
+posterização de regiões e demais
+variáveis a gente usa nos modelos dessa
+também pode ser que alguma variável a
+gente está levando para os modelos não
+está fazendo sentido mas na verdade ela
+não tá bem localizada certo certo com
+certeza que aconteceu com certeza o
+E aí
+[Música]
+eu voltar aqui
+e eu anotei aqui mais alguns modelos que
+que a gente trabalha aqui na área o
+principal são esses para estimar a
+frequência e custo do sinistro que é o
+corda área vai fazer o preço bem agentes
+a gente sabe que funciona bem trabalhada
+a forma que a gente trabalha com glm
+coen Billy porém a gente tá correndo
+atrás de ver que existem ferramentas
+melhores outras
+os outros modelos não só glm né a gente
+nunca testou outro então a gente está
+nesse processo para ir te buscar e foi
+inclusive nessa busca de conhecimento
+que eu cheguei até você sabe que você
+tem lá no você tem no YouTube os cursos
+dieta é muito legal então eu e tem tanta
+coisa legal Onde está a cidade é então
+nessa busca né de pessoas geram
+informação e conhecimento de graça
+bacana velho da minha são também
+acompanhando seu trabalho legal cheio de
+bom feliz aí só tem alguma pergunta aí
+um específico até o momento aqui
+e o Tiago Laura Boa noite Luciano Sou
+aluno do Tiago aí na noite na no curso
+de estatística que ele tem para a data
+Science tava que é fantástica muito bom
+e também sou aluno do dos gêmeos viu
+Thiagão tá legal número zero Lissa chão
+é o que eu queria perguntar se eu já
+prestei serviço para Mapfre Seguros já
+trabalhei na Real Seguros que foi
+Inclusive a toca eu comprou a muito
+tempo atrás Então já tá um tempinho aí
+no mercado eu trabalho mais com análise
+e carga de dados né mas
+eu vou tampar essa parte de atuais Achei
+bem interessante e eu vou aprender
+alguma coisa quando Trabalhei na Mafra
+essa parte de Calcutá uma especial como
+fazer muita raiva de nós não entramos um
+detalhe pelo fato do dia a dia parecendo
+escolhido é você acha que tem mercado
+assim para data Science voltado para a
+toalha porque alguma coisa que eu é que
+você é mesmo comentou que vocês
+trabalham no uma equipe muito enxuta tem
+saído bastante gente mas tem saído para
+o mercado é realmente está aquecido essa
+área de atuária é para quem é da parte
+de hidratação esse ou o estatístico que
+nem no Tiago enfim essa parte de cálculo
+é é um mercado promissor
+e eu acredito sim que é o mercado
+promissor eu acho que as seguradoras
+estão atrasadas nesse quisito né nem tem
+as práticas que todo o mercado segue e
+todo mundo fica livre muitas seguradoras
+fazem em preço comparando o seu preço
+com a Porto Seguro ou ela toca o que são
+as referências atualmente né se
+preocupam mais em ver como é que o seu
+preço está em relação as outras do que e
+se preocupando em fazer modelos e
+estimar bem o risco então eu vou pedir
+Supermercado vai evoluir independente
+evoluir porque eu vejo a a gente percebe
+né que os dados da SUSEP tudo que a toca
+está se destacando muito no mercado a
+gente vem crescendo desde 2011 muito
+mais do que a média de mercado
+bom e como os melhores resultados do
+mercado automóvel do mundo
+especificamente do automóvel que é o que
+o acompanha porque é o produto que eu
+cuido e eu sinto que a gente aqui na
+Tokyo está atrasado na esquisito Mas
+então o mercado tá é assim não sei se
+todas as seguradoras Tá mas fala um
+geral O mercado está atrasado acredito
+que sim tem seguradoras que estão já
+sofisticadas nessa parte de modelagem de
+datações tá sem bem porque eu não
+conheço pessoas específicas de cada uma
+das seguradoras Mas a impressão que eu
+tenho é que a maioria ainda vai evoluir
+nisso vai ser um mercado ainda vai
+crescer para esses profissionais Então
+até para dar uma ideia assim eu acho que
+a Porto pode tá até um pouquinho à
+frente a isso daí é a máfia e você
+sincera é
+e eu acho que não eu acho que não tá
+então eu trabalho numa outra área né a
+parte de fazer uma parte de carga de
+dados é bem o centro do corte deles mais
+difícil a partir de cálculo eram que
+permeava todo do processo é e em relação
+a Tóquio realmente a qualquer Pioneira
+em algumas coisas e o crescimento dela
+não é à toa então até esse esse prêmio
+de segundo lugar melhor empresa para
+trabalhar é merecida porque em relação
+ao mercado e eu eu tinha porque hoje eu
+tenho toc não é só o cliente da da Tokyo
+e eu tava na conta para o atendimento
+não me arrependo de ter trocado pelo
+atendimento da toca também vem se
+demonstrando um muito bom crescimento
+agora você acha que é devido essa
+a maquiagem de idade enfim essa essa
+flexibilidade de empresa é
+disponibilizar para o funcionários um
+ambiente de trabalho sabe que isso daí é
+o quê que ajudou a crescer ou a a
+empresa ainda pelo fato de você
+trabalhando na parte de cálculo e a
+toalha não é área de ter incorreto
+e não mas nós somos meio que o braço a
+gente tem que ter sim a gente tem que
+ser bem enxuta a gente tem cientista
+pessoal de ciência da computação análise
+de sistemas é um mesclado de atuário e
+gerente de t.i. né porque a gente faz
+essa parte de programar o roteiro de
+cálculo programar as regras então todos
+os projetos de produto a gente é
+altamente envolvido porque as regras de
+vistoria prévia as regras de instalação
+de equipamento antifurto todas as regras
+de aceitação são todas a minha equipe
+que faz então a gente a equipe de
+modelagem e a gente é uma equipe um
+braço de t.i. nem é uma área de negócio
+também então a gente brinca que a gente
+nem sabia que existia esse essa
+profissão cientista de dados e a gente
+era seguinte saber né É
+quem está falando não é aquilo que a
+gente faz você faz análise do dado fazer
+um levantamento é álcool implementação
+da regra né então assim de dados é feita
+com a Então mas vocês implementam isso
+nos sistemas cordon a empresa e final
+nos sistemas pontos que fazem cálculo é
+vocês são responsável por fazer isso aí
+ou Essa parte aí a implementação das
+regras no sistemas ou o sistema corda a
+empresa ou no sistema de cálculo aonde
+tem a entrada da da proposta conexão os
+prefeitos primeiros cálculos são vocês
+que fazem implementação ou isso é
+passado daí para área de ter ir embora
+vocês tenham braço de cara você e é
+responsável pelos pelo computador né
+então ela tem uma equipe de t.i. que foi
+responsável pelo computador e tem
+algumas regras que ficam lá
+e por exemplo ai até qual o valor de
+veículo a gente aceita qual veículo a
+sei qual o produto tudo é a programação
+fica na na minha área e a programação do
+roteiro de cálculos né a gente tem que
+ir ali pelo computador o corretor coloca
+os dados esses dados são enviados para o
+sistema Blazer que a responsabilidade da
+minha área e a gente programa esse
+roteiro de cálculo que chega num preço
+né esse roteiro de cálculo ele parte do
+modelo que também é equipe de
+precificação que faz então a gente gente
+tem esse sistema com roteiro de cálculo
+todas as regras de aceitação todas as
+regras de vistoria prevx e a gente gera
+um componente manda
+e ele link o computador dá um computador
+que chama esse componente que tem todas
+as regras e o roteiro e preço tá então o
+seu sistema consomem o que vocês
+produzem a inclusive até parte do
+sistema né a partir de cálculo para
+permite dita na Quando se diz a
+programação no mesmo ali o uma p-ify
+isso é produzido pela sua 15 sim então a
+cientista que dá de Ponta Grossa a terra
+essa pode falar pode falar tô só uma
+última pergunta se tratando da empresa
+toca que tem padrões né Tem eh sistemas
+e enfim é se o de provavelmente de
+fornecedores e tal essa questão de
+abertura por código aberto vocês tem
+isso daí muito fácil cê trabalhar com
+código aberto ou
+E aí tem aí uma uma uma questão de
+aculturamento da empresa para trabalhar
+com código aberto com sistema
+operacional Linux por exemplo que a
+gente sabe que é o pai tão r e todas as
+Essas tecnologias que vende data Lake
+mede Big Data as coisas muito voltados
+mais para Linux do que para o Windows né
+E se a plataforma corpos trabalhar hoje
+em dia com dados você acha que é Tokyo
+tem essa abertura Vocês conseguem essa
+abertura ou realmente ainda fica meio
+preso ali a contratos a como eu
+trabalhei já em outras empresas essa lei
+envolver na Mapfre enfim outras empresas
+eu tinha esse essa barreira para
+implementar alguma coisa atualmente Eu
+trabalho numa empresa que cuida de
+publicação científica da Saúde da
+América Latina da Europa se o MS
+quem trabalha com código aberto e isso é
+muito incentivado então eu tenho uma
+facilidade de implementar a coisas em
+código aberto inclusive R ai então e por
+isso um dos motivos de eu tá fazendo o
+curso também é para aprimorar a análise
+de dados Você acha que a toca ela tem
+essa vertente ou realmente ainda existe
+algumas Barreiras uma cultura aumento da
+empresa
+bom então eu não pude responder porque
+hoje a gente ainda não está trabalhando
+com código aberto e não tentamos
+trabalhar a então não sei se isso vai
+ser um problema ou não entendi hoje a
+gente tem desde que eu entrei a gente
+trabalha na mesma forma e majestoso fica
+doido por isso ele fala Laura tá
+funcionando mas não é possível os oito
+anos da mesma coisa e uma hora a gente
+vai ficar para trás sabe a gente precisa
+evoluir E por isso que a gente tá assim
+incomodado Claro a gente fazia
+Primeiramente só modelos de frequência
+ele danos e a gente foi a cada
+atualização de modelo que a gente
+atualiza todo ano identificamos novas
+variáveis novas interações melhorando as
+suas teorizações Então apesar de fazer a
+8 anos a mesma foi mesmo aprimorar
+modela
+é isso a gente sempre melhorou alguma
+coisa em cada modelo nunca a gente ia e
+a gente tem isso assim muito forte na
+equipe de querer sempre fazer alguma
+coisa diferente sabe todo mundo ela é a
+raiz super Vitória então coisas
+diferentes teve tal tal coisa diferente
+sabe acho que vai ser bom frustração da
+minha vida um dia que o modelo ficar
+igual ao do ano anterior sabe isso nunca
+existiu aqui tem que a gente melhorou
+apesar de fazer sempre glm sempre uma
+evolução foi passar a fazer modelos para
+estimar a probabilidade de renovação
+modelos para estimar a probabilidade do
+que está cortando os ser um fraudador e
+daí nem
+o cliente entrar ou deixe-o entrar com
+algumas restrições que se ele realmente
+é uma para o dor era a gente já espanta
+ele né Porque infelizmente No Brasil
+existe muito muita fralda inseguro né
+então é uma grande preocupação da gente
+então a gente também usa os modelos para
+ajudar nessa nessa quem tem a
+probabilidade maior probabilidade de ser
+um fraudador legal me modelos para para
+melhorar o direcionamento para vistorias
+não sabe o que a vistoria prévia fazer
+uma vistoria no veículo antes de em
+contratar o seguro 100 modelos para sua
+pensar o outro que foi novidade a a
+gente está começando a fazer agora
+modelos de cross-selling para ver dos
+clientes de alto que a gente tem quase
+tem uma
+a grande chance de fechar outros
+produtos negócio Mega outro negócio
+assistir podia pensar em Sistemas de
+recomendação também de repente né só que
+seria de mim se não é
+a microssérie Observe então a gente está
+o sentimento incomodado e buscando
+melhorias aqui no nosso trabalho tá aí
+legal parabéns aí pela diferente
+sinistros e valores de sinistros serão
+bem-vindas todas Parabéns pela postura
+aí de tá tentando Inovar sempre né Deixa
+eu te fazer uma pergunta não ficou muito
+claro para mim e essa por exemplo do
+modelo que eu no momento que eu criei o
+modelo tá aí eu vou colocar em produção
+tá bom
+e você coloca anunciam modelo lá tá
+ótimo a gente eu coloco em cima de lado
+para vou repetir o áudio Tá bom então do
+momento que você criou o modelo você tá
+lá com os coeficientes tudo mais mas
+como é que você colocou em produção Que
+sistema é esse que você falou por
+exemplo como é que como é que funciona
+aí eu nem nem muito bem isso a resposta
+do modelo glm é aquele Excel lá que eu
+moro mostrei e ele traz uma taxa base e
+[Música]
+e tchau taxa base para toda como todas
+as variáveis que são a referência né
+Sempre tem um nível nível que é a base
+que daí a fator 1 e normal é o que tem
+maior exposição né Por exemplo tem lá as
+classes de religião a região com maior
+volume de clientes é a base Então ela é
+fator 1 e todos os outros fatores são em
+relação a ela por exemplo vamos dizer
+que vai danshi
+a gravar aviso dames elas não não não
+são da Miss não solar não dormi é a
+gente dorme fica assim algumas variáveis
+Tá mas a maioria não não não é como é
+que se faz vontade não eu não tô ligada
+na rede Então eu fico com medo também de
+mostrar alguma coisa desde logo por isso
+mas aqui então tá um pedacinho da saída
+do modelo então ele vai ter uma taxa
+base e essa taxa básica eu vou
+multiplicar por cada por cada um desses
+fatores né Vamos você tá fazendo uma
+cotação E aí só o desses passo você se
+enquadra possui e jovem com
+se você não possui já já nem vai cair
+aqui já vai pegar o fator Uno principal
+condutor é quem dirige cinco vezes na
+semana vai pegar o fator 1 aqui também
+esse aqui vai pegar o fator também
+digamos aí e uso do veículo Vamos ver
+que o uso comercial então ele vai
+multiplicar por 1.23 você mora em Angra
+Vai Multiplicar por 1.32 tem algumas
+variáveis que tem interação né Por
+exemplo a curva de fator de risco para a
+idade ela é Ela é de acordo com o sexo
+e deixa eu ver se tem aqui mas acho que
+sim usam esse aqui é o Como é o em
+branco campeão trico mostrou um exemplo
+simulado nos dados pega bom poderia que
+abriu o temas mas eu tenho eu não sei eu
+posso mostrar alguma coisa confidencial
+da companhia então por isso que eu
+prefiro não mas a gente pode combinar
+depois uma outra conversa que algum
+ponto mais específico para vocês
+entenderem melhor e o preparo melhor
+Nossa Beleza não é porque realmente você
+falou por exemplo tem vários modelos não
+tenho aula de curso de frequência e tal
+mas é legal pegar pegar um né um dele
+assim pegar um exemplo específico E aí é
+a partir do processo civil sistema que é
+criado assim entendeu só para ficar mais
+claro assim o estepes então entendeu a
+gente for ir eu vou também tá bem legal
+se a gente a gente combina né frequência
+o concurso porque Ambos são modelos
+multiplicativos e eles eles partem de
+uma mesma base então eu consigo combinar
+eles estão ver eu tenho um modelo e daí
+eu combino Inclusive o de perda parcial
+ou de PT e viro o meu modelo para o
+risco de colisão E aí eu eu vou
+multiplicando fatorzinho de cada
+variável e eu chego numa taxa certo eu
+perdi dele tá aí
+o certo é saltar acha eu multiplico pelo
+valor do veículo e eu chego no preço de
+risco de colisão ou seja quanto que eu
+preciso cobrar daquele cliente e de um
+grupo de cliente naquele perfil para ter
+dinheiro suficiente para cobrir todas as
+indenizações todos os Sinistros de
+colisão que eu vou ter nessa carteira
+entendeu vamos marcar então uma porque
+aí você explica você pega um exemplo mim
+aí faz um passo a passo que aí fica mais
+claro quer falando assim fica um pouco
+mais complicado de especial é um pouco
+específica na área classificação você
+pegar o custo multiplicar e dividir pelo
+iis não sei que ela deve conta fica um
+pouco não eu mais tá mas tá ótimo tá
+ótimo se gostar excelente
+E aí
+e tem tem mais alguma
+se alguém alguém tem mais alguma dúvida
+depois aqui pergunta e perguntar
+especificamente da Tokio né eu vejo
+assim desde 2011 desde que eu entrei
+aqui houve uma reestruturação de toda a
+empresa né não foi especificamente uma
+área um trabalho só que que gerou isso
+né foi foi uma conquista da empresa
+mesmo mas eu vejo que sim a área de
+precificação teve uma importância enorme
+nesse processo em 2011 quando eu entrei
+a área de precificação ainda não fazia
+modelagem
+e existirá uma consultoria atuarial que
+a Tóquio 11 é a Toca pagava uma
+consultoria atuarial para a desenvolver
+um modelo e a nossa já pronta encontrou
+praticamente A modelagem na Toca é isso
+é não fui eu foi o na época quem me
+contratou aquela meu gerente hoje
+diretora que não toque de preço e de
+produto inclusive né Ele é fera demais
+feito de falar foi ele que me ensinou
+sua parte de modelagem ele trabalhava
+nessa consultoria que desenvolveu em
+inglês né então ele era um dos caras que
+eu acho que no Brasil ele era não mais
+um dos que mais manjava de modelagem
+tema Ele entrou na toca em janeiro de
+2011 e ele me contratou 5
+e depois então a gente trabalhou quase
+sempre juntos aqui então foi Foi ele que
+me ensinou fazer esses modelos não
+lembro
+o e né começar em 2011 como analista
+junior e até hoje eu participo do
+processo de modelagem né uma Agora Eu
+Virei coordenadora tô tentando dormir
+vou ver menos no técnico Mas eu ainda
+ainda me envolvo muito mas é isso então
+eu ia trazer aqui acabou acabou não
+dando tempo e a preparar um slide para
+vocês verem a evolução da Tokyo em
+quantidade de Seguros e e faturamento
+isso no produto de seguro de automóvel o
+quanto que a gente cresceu e o quanto
+que a gente ainda melhorou o resultado
+normalmente as seguradoras quando
+crescem na sequência O resultado vai pro
+espaço final a gente fez um processo
+muito bonito né de crescer de forma
+sustentável você viu
+a seção 30 por cento e o resultado saúde
+e foi muito em função de ter
+implementado A modelagem dentro da área
+né e das concorrentes não está só
+competiu no mapa então a gente se
+destacou no mercado e fez algo assim que
+o sol os dados para ter vantagem
+competitiva né mas as seguradoras têm os
+dados mas não sabe o que fazer quando
+vocês fizeram né exato E aí acho que
+entra um pouco na resposta da pergunta
+do Luciano que existe o controle da
+passagem sobre o tem um processo de
+sobre de modelagem lá em a galera lá de
+IPI e ele né Google as estatística a
+toalha né então um pouco tem um com
+certeza sabe o teu oportunidade que você
+vê aí ela falou aqui uns 889 modelos sei
+lá já e quem cria esses modelos cara tem
+que entender tem que limpar base tem que
+distrair
+é mas é todo o processo de modelagem né
+todo crisp-dm lá para que não tem mais
+um
+e com certeza muito bom cara show de
+bola das seguradoras não é só a área de
+precificação que faz o modelagem aqui na
+toca e a gente a área atuarial também
+faz modelos e modelos para estimar É é
+provisores na empresa estimar a
+quantidade de sinistro que já aconteceu
+e ainda não foi avisado Por que a gente
+precisa considerar eles na base para
+fazer os modelos modelos para estimar a
+probabilidade de alguém entrar com
+sinistro judicial modelos trazer quais
+sinistro seu envio para sindicância né
+porque é muito alto custo de sindicância
+Então sempre que tem um sinistro você
+suspeita que ele é uma fraude pois se
+todos que você suspeitar é
+já foi enviado para sindicância Talvez o
+custo-benefício não vale a pena então
+existe um modelo que a área de sinistro
+roda que definir aqueles imenso vai ou
+não para sindicância então tem pessoas
+com esse perfil de cientista de dados em
+várias outras áreas aqui da companhia
+não só na de precificação né Gente
+desculpa aqui aqui no chat eu não tava
+olhando e eu vi agora que tem a mas
+muito bom beijo
+e o Leonardo falou que ia com trabalhava
+com seguro sempre falavam buscando
+entender o crescimento da Tokio não é
+engraçado porque tem tem algumas pessoas
+que saíram de da área foram para o
+mercado e aí ficam o que que eu tô
+fazendo fica ai só tá trabalhando
+direitinho não é nada mulher a gente se
+cobra aqui para que a gente acha que tá
+atrasado que tem que fazer muito mais
+mecha não é acomodado eu acho que
+ninguém pode ser né que tinha incomodado
+acaba ficando para trás ela também se
+essa essa postura né que tem que ter
+evoluir sempre né você sair tão pouco
+estão buscando sempre a melhoria
+contínua Eu acho que isso é um segredo
+já é quando você está agindo ali acha
+que ah não faça isso aqui tá funcionando
+vou continuar assim
+e agora vai ficar para trás bom rodar
+não vou poder falar aquilo lá eu vou
+continuar com as mesmas vamos score
+mesmo indicadores e tal e vamos embora
+vai cair fácil né Não acho que essa
+postura já já significa bastante
+diferencial competitivo Com certeza né é
+aquela hora falou né Tá 8 anos fazer a
+mesma coisa mas não do mesmo jeito né
+Laura Essa é a questão né que vocês têm
+isso daí é essa questão do essa área de
+vocês é a toalha participação e da mesma
+coisa desculpa eu fiquei meio indicação
+tem uma área de atuária que na companhia
+que é responsável pela parte de
+provisões entende quem faz modelos mas
+para outros produtos que não têm uma
+área de precificação assim que nem é que
+que nem a minha montada para um produto
+específico
+o e em outros modelos também demandadas
+pela companhia se tu me fazem tem que
+fazer conta de informação em atuar isso
+facilitou a você trabalhar com
+classificação assim aqui na área é
+preciso canção é uma área de atuária
+também né É porque como eu falei não
+entendo todo o a área de seguros né
+Vamos fazer uma coisa muito centralizada
+a partir de carga da a porta proposta
+até virar uma apólice Esse era o colo
+nosso corpo é eu que permeia é isso que
+é a hora e depois que é gerada e até o
+cálculo antes isso daqui a proposta
+cálculo ele não tinha muito em movimento
+por isso que eu não tinha não tenho
+todos entendimento assim da interessante
+isso aí existe curso e São Paulo para
+isso
+o curso de ciências atuariais é legal
+legal e se você ia falar seu brinco
+desculpa te interromper eu e o pessoal
+aqui da precipitação a gente brinca aqui
+área de pesquisa a parte legal da tua
+cuida de muita burocracia né sim SUSEP e
+a gente fica um pouco afastado das
+burocracias é maior goza fazer uma
+pergunta em relação a isso como é que
+fica como é que fica esse esse trem do
+aqui entre entre fazer as modelagens é
+achar alguns Alguns pressupostos e e as
+leis da SUSEP da a legislação né tipo
+legislação ela te traz muito em um
+e eu não estou não
+a Avon pouco a legislação traz daí ficou
+ruim o áudio do lado de Lula contagia
+traz muitas barreiras para vocês o mar
+o Marcelo classificação na área da saúde
+sim é bem complicado Talvez o Nasa já
+tinha falado sobre isso eu já trabalhei
+também com classificação de plano de
+saúde e a legislação Trava muito
+trabalho no Seguros não a gente tem mais
+autonomia porém tudo que a gente faz tem
+que estar numa nota técnica atuarial
+então a área de atuária que responsável
+por essa nota técnica atuarial porém a
+paz específica de sobre precificação a
+gente faz em conjunto né eles nos mandam
+e a gente descreve como é que é feito o
+processo de precificação a gente coloca
+lá que a gente usa Engenharia e me faz
+um modelo de frequência faz modelo de
+grau médio de dano tal e a SUSEP aprova
+então EA gente tem uma liberdade grandes
+para para fazer para banco é um pouco
+mais
+a seguradora mais tranquilo mas para
+banco lá tem a Basileia e tal tem que
+correr tem que ter mais embarreiramento
+eu acho da legislação né nessa parte de
+é de Cláudia essas coisas assim
+Ah sim sei tanto dessa parte de ponto é
+assim na hora financeira i
+e é não era financeira é extremamente
+crítica pessoalmente essa parte de
+fraude e cartão de crédito para vocês
+terem uma ideia quem trabalha com isso
+daí e que que eu vou aguardar que tem
+que guardar por exemplo o número do
+cartão de crédito com operação uma coisa
+assim é passa por um processo e tem que
+estar dentro desse processo inclusive em
+rede fechada né dentro da empresa né
+então comprei prestar serviço para amar
+Seguros trabalho uma consultoria de
+informática e tinha um sistema que nós
+vendemos para outra outras seguradoras e
+era parte de corda seguradora mesmo de
+fazer a captação do cliente e fazer a
+proposta fazer os cálculos guardar que a
+informação será a apólice tudo mais e
+mandar um e-mail uma carta então tinham
+para assistir uma um sistema que nós
+vendíamos para um algumas seguradoras é
+e correr
+o seguro e guardava essa informação
+Então essa equipe ela ficava uma rede a
+passada né que passava por um processo e
+que a área regulamentadora e de cartão
+de crédito tenho que validar essa área e
+até a rede a gente ficava a Horda da
+rede deles né então a área final Isso é
+uma parte da área financeira tá que a
+parte de cartão de crédito que é as
+operadoras Visa Credicard tal eles Vale
+dão isso daí mas como o Tiago falou
+parecendo a Siri é muito mais crítica
+mesmo o Bacen e outras rotas transasse
+regulamentação é bem mais com a gente né
+analista de crédito das crédito e ela
+conversou com a gente ela falou que tem
+tem muita tem muito muito mais
+dificuldade nessa área de banco e tudo
+mais mas complicado para poder fazer a
+modelagem
+é mas pô muito legal cara gostei demais
+então vamos marcar essa essa dobradinha
+aí para você mostrar para gente um caso
+aí de uma dele de ponta ponte para ver
+como é que funciona essa essa
+classificação aí pode ser então eu disse
+focar hoje e falar mais Quais são os
+modelos né que a gente utiliza que eu
+pensei que fosse mais interessar galera
+mas eu tô aberto aí para conversar de
+pontos mais específicos
+o futebol Então vamos ver se a gente
+marca essa
+e essa Piedade aí fazendo pegar uma
+seu amor não pode ser uma base antiga aí
+sei lá para mim lá no trabalho também
+sei lá alguma coisa para poder fazer um
+ponto a ponta com a galera só pra galera
+vir com chance de Natal beijo Beleza vou
+sair da cama
+e pode ser sim uma ótima então então eu
+queria te agradecer mais uma vez tá já
+tá chegando aqui a uma hora aí pouco de
+Live já obrigado demais aí pelo a
+disponibilidade do seu tempo aí mas foi
+muito a Lilo engrandecedor e agradeço a
+participação e também do do Luciano e
+dos colegas né E alguém tem alguma
+pergunta mais específico para Laura
+vamos fechar aqui
+eu só tenho agradecer essas vagas em
+chegar um dia e Laura bem Obrigado aí
+pelo celular muito bom então obrigada
+bem mais uma vez que só Valeu agora
+então a gente e ver se a gente vai a
+gente agradece valeu tchau tchau tchau
+tchau um abraço gente pela pela postura
+aí como coordenadora vale a

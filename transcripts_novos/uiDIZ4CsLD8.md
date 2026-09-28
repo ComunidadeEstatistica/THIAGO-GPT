@@ -1,0 +1,377 @@
+# Aula 5 - Medidas de Dispersão 2 - Estatística (Versão Mobile)
+
+- **URL:** https://www.youtube.com/watch?v=uiDIZ4CsLD8
+- **ID:** uiDIZ4CsLD8
+
+## Transcrição
+
+agora a galera a gente vai estar
+tratando pra dados tabulados está dados
+tabulados em freqüência cobra a
+população de interesse vai ser o que o
+nosso sigma quadrado não é somatório xm
+x barra ao quadrado vezes efe sobre não
+é essa aqui é a forma quando os dados
+estão tabulados ou seja estão em
+freqüência eles pelo menos uma
+observação aparece mais uma vez está por
+isso que aparece efe
+ok e a gente pode substituir essa forma
+aqui sobre um sobrenome vezes somatório
+de x e o quadrado vezes efe - somatório
+de até não de che cf o quadrados ou não
+então vou pegar minhas observações e
+levam ao quadrado multiplicaram as
+frequências delas - o produto entre as
+observações das frequências e levar o
+quadrado e / ou não e depois dividir
+tudo por ele não tá eu e não o que é o
+somatório das minhas freqüência está e
+pra a mostra como é que eu vou está
+tratando
+vou chamar ds2 está aquela sigma 2002 e
+eu dividia por e não agora vou dividir
+por ele - 1 e aqui o que vai mudar é que
+aqui vai virar henin e aqui por fora vai
+vir aí mesmo tá é a mesma forma e quando
+a unidade estiver agrupados em classes a
+gente vai substituir o xis e pelo ponto
+médio está e calcular aqui a fórmula vai
+ficar o que a somatória de pontos médio
+maniche sbaal quadrado verdes efe sobre
+ele - unta analogamente pru cuidado da
+população ok show
+estávamos lá
+então agora a gente está falando das
+propriedades desde medidas de dispersão
+tá começar pela variância tá ela é
+considerada uma medida de dispersão
+absoluta tá
+tanto ela quanto o desvio-padrão tá e o
+coeficiente de variação considerando uma
+dispersão relativa tá ó ao selecionar a
+subtrair uma constante a todas as
+observações do meu conjunto a mesma fica
+inalterada então seu mau humor se uma
+constante qualquer a todas as
+observações do meu conjunto a minha
+variância ela vai ficar inalterada
+agora seu multiplica ou dividir por uma
+constante todas as observações do meu
+conjunto a minha variância vai ficar
+multiplicado ao quadrado por essa
+constante está a a mesma fica
+multiplicado dividido pela mesma
+constante ao quadrado
+ok desvio padrão ao somar ou subtrair a
+constante todas as observações do
+conjunto nem vai ficar inalterado mesma
+coisa da variante está a ser feito a
+multiplicação divisão por uma constante
+a todas as observações aqui já muda né
+a mesma vai ficar multiplicado dividida
+pela mesma constante então na aliança
+fica multiplicado pela constante ao
+quadrado e no desvio padrão só fica
+multiplicar sua constante tá coeficiente
+de variação
+ela é uma medida de dispersão relativa
+tá e é melhor de todas as medidas de
+dispersão por que por que ela considera
+tanto o desvio-padrão contra a média de
+distribuição tá então ó
+a gente sabe o que é dele que não possui
+unidade de medida está é a dimensional e
+ao se somar ou subtrair uma constante a
+todos observações do meu conjunto
+o denominador vai ficar somado subtraído
+pelo valor da constante só um
+denominador tá e aos efetuar a
+multiplicação divisão por uma constante
+a todas as observações a mesma vai ficar
+inalterada importante está a gente vai
+ver uma questão disso aqui que a gente
+vai usar essa propriedade está
+otto efetuar a multiplicação e divisão
+uma constante é todas as observações a
+mesma vai ficar inalterada possam
+multiplicar uma constante
+a mesma vai ficar inalterado até agora
+não está falando das questões de
+concurso no a 2010 fcc sefaz são paulo
+seja uma amostra aleatória simples
+extraída de uma população com o tamanho
+10
+então peguei uma mostra está no meio de
+uma população
+então em 10 representada por che se
+igual a um até dez
+sabe se que o somatório de x e 270
+somatório de x em um quadrado é igual a
+7803 ele está perguntando a variância
+dessa mostra tá então a gente sabe aqui
+que o somatório de x e a gente sabe que
+a nossa mostra tem tamanho 10 então a o
+n go desta nossa mostra tem tamanho 10 a
+gente sabe que o somatório da de
+observações de 270 então a gente pode
+tirar x bate bola numa somatória de x e
+sobre n270 divididos por 10
+da ok 27 então nosso x ba é 27 tá
+e a gente sabe que somatório de x e um
+quadrado é 7803 então eu fiz aqui pra
+vocês a tiramos que x barra 27 como
+tinha calcular e como é que a gente
+calcula a variância somatório x md x
+barra ao quadrado sobre ele mesmo um
+bicho tá falando à mostra
+só que lembra daquela forma alternativa
+que a gente pode usar o somatório de x e
+ao quadrado - nx barra ao quadrado sobre
+ele mesmo mas a gente tem que ser um
+atalho xv ao quadrado é 7803 a eu fiz
+aqui o 7803 o enem 10 e do tamanho da
+amostra x barra nossa média mostrar o
+que a gente achou aqui ó 27 estão a 7803
+menos dez vezes 27 ao quadrado divididos
+por nove vai ficar 7803 - 7290 de vídeos
+por 9 deu que 57 tó
+nosso trabalho é o que a letra é de que
+ele ganhe a galera
+agora a questão zinho que faz são paulo
+2010 etá em dezembro de 2009 o salário
+médio de 100 trabalhadores da empresa
+alfa é igual ao salário médio dos 400
+trabalhadores da empresa aberta
+tá então é a gente saber que o e no alfa
+é igual ao que ele falou aqui ó
+em dezembro de 2009 o salário médio de
+100 trabalhadores da empresa não foi
+igual ao salário médio dos 400
+trabalhadores da empresa beta então tem
+100 da empresa alfa e o m da empresa
+aberta
+é o que é 400 ea gente sabe que a média
+igual a nós que ele falou
+ou seja igual a 2 mil então a gente tem
+que x barra alfa olmir o caso aqui vamos
+ver a questão aqui até o fim ou seja
+igual a 2 mil porém o coeficiente de
+variação apresentada pelos trabalhadores
+de alfa e beta são iguais a 20% e 15%
+respectivamente
+considerando as duas empresas reunidas
+obtém-se que é correspondente variância
+em então ele está querendo a variância
+conjunta da empresa alfineta certo então
+a gente vai fazer o que a gente sabe que
+ele deu aqui o n alfa o e liberta tá
+e a gente tem um a média deles me alfa é
+igual a 2 mil
+me beta é igor 2000 está são iguais e
+ele falou aqui que os constante variação
+apresentar chapa 2 empresa alfa e beta
+são iguais a 20% e 15%
+então o coeficiente de variação de alfa
+respectivamente né então a alfa 20%
+isso é verde beta 15%
+considerando as duas empresas reunidas
+na obtenção que é correspondente à
+violência
+então eu substitui aqui no código a
+vocês a minha aqui para ficar mais fácil
+ó é não de alfa a gente viu que é 100
+onde berta 400 agente sabe que o nome é
+2000
+a gente tem mais desiguais da empresa
+off beta ecv de alfa 20% é verde beta é
+a 15%
+não é isso em vez de alfa 20% de berta
+15% serveal foi o que significa alfa
+divididos por mídia off
+então se uma alfa a ser verde ao francês
+midi alfa vai dar o que quiser 1,22 mil
+do que 400 cv direta sigma aberta sobre
+medida certa
+sigma aberto em gosta e vede berta vezes
+me liberta ser verde beta é de 15%
+quero igual a zero 15 vezes 2.300 tá ea
+gente tem que a variância conjunta de
+alfie beta é da seguinte forma é n é não
+alfa vezes signo quadrado de alfa mas
+o quadrado de beta / e não alfa major
+roberto é como se fosse uma média
+ponderada pelo tamanho das empresas está
+dá uma média da variância ponderada a
+média dá pelo número 10 e tem o da mãe
+desconfiou da quantidade de funcionários
+da empresa tá então a a gente já tem
+tudo esquematizado aqui ó menor sem o
+seguir uma quadrado de alfa sigma
+quadrado de alfa é 400 quatrocentos ao
+quadrado que é não berta 400 vezes sigma
+quadrado de berta 300 ao quadrado
+/ quanto é nova mas é uma beta 400 mais
+cem
+tá quente e se a gente fizer continha ir
+rodar 104 mil
+tá então 104 mil com a nossa letra então
+letras e de que a conquista pra gente
+conquistar o nosso cargo público
+desejado sair agora a gente vai estar
+com uma questãozinha de 2008 da fgv e
+cms rio de janeiro
+vamos lá a ver comigo uma companhia
+utiliza um sistema de avaliação de
+desempenho de seus funcionários por meio
+de dois indicadores de performance já
+tem dois indicadores de performance a
+qualidade das tarefas e a tempestividade
+com que as tarefas são realizados os
+funcionários receberam na última
+avaliação as medidas indicadas na tabela
+a seguir
+aí vem aqui o tenha média o
+desvio-padrão coeficiente de variação
+aí tenho que indica os indicadores de
+qualidade e tempestividade e tem a
+perspectiva do valor da média de rio
+branco e vale a sopa com base na tabela
+é correto afirmar que a média aritmética
+não é uma boa medida para representar a
+performance
+os funcionais em face ao elevado nível
+de dispersão das avaliações galera
+a gente tem o coeficiente de variação
+aqui é de 20% e 24%
+ambos são menores que 25% então a gente
+pode considerar cuidados homogêneo e
+você lembra lá na frente que lá atrás
+que eu falei pra vocês que a média é
+volátil se o meu coeficiente de variação
+que fosse maior do que 25% ela não seria
+uma boa medida mas ela é uma boa medida
+pois eu tenho por cento variação menor
+do que 25 por cento para ambas
+ambos os indicadores está um dólar
+furado essa aqui ó
+essa não é nosso galho tron
+então vamos continuar as avaliações de
+co da qualidade foram mais dispersas do
+que as avaliações de tempestividade a
+qualidade daqui tempestividade está aqui
+ele falou que as avaliações da qualidade
+foram mais dispersas qualidade mais
+dispersas do que a tempestividade isso é
+verdade
+não ela foi menos dispersa 20 menor do
+que 20% é menor de 24%
+então elas foram menos disperso está
+então a gente pode cortar e também as
+avaliações de qualidade foram mais
+homogêneas do que as avaliações e
+tempestividade as avaliações de
+qualidade foram mais homogêneas do que
+as avaliações de tempestividade vamos
+ver de qualidade tem 21% de ser ver e
+tempestividade 24% então é verdade né
+elas foram mais homogêneo porque
+apresentaram o menor coeficiente de
+variação tão nosso trabalho é o que ele
+traz e de conquista de novo mas não
+confirmar aqui ó
+os funcionários demoram mais para
+realizar as tarefas
+mas a qualidade das tarefas é melhor
+então galera a gente tem aqui
+informações acerca da de acordo com o
+tempo de ele realizar em ser melhor ou
+não a tarefa não né
+a gente não tem essa informação aqui a
+gente não pode afirmar nada disso então
+essa aqui a gente pode tirar nada se
+pode afirmar sem o conhecimento do
+tamanho da amostra como não o
+coeficiente de variação
+ele não utiliza o tamanho da amostra
+para ser calculado
+a gente não usa o desvio-padrão dividido
+pelo x barra o x baiano considera o
+tamanho da amostra o desvio padrão
+também considera da morte como eu não
+possa falar que eu posso estar embutido
+no mesm medidas certo então não traz e
+de conquista fazer mais uma questãozinha
+galha 2012 fcc trf 2ª região tá
+a soma dos quadrados dos valores dos
+elementos de uma população de tamanho 20
+é igual a 65,6 e respectivo desvio
+padrão é igual a 0,2
+a média aritmética dos elementos desta
+população a população aqui ó
+então tá querendo mostra não está
+falando da população
+então quando ele afirma pra gente é a
+soma dos quadrados dos valores dos
+elementos de uma população de tamanho 20
+então ele está falando que é pra gente o
+que é a somatória de x e ao quadrado de
+igual a um até 20
+a igualdade em 65,6 isso quem está
+falando pra gente e respectivo desvio
+padrão é igual a 0 2
+a gente está falando de população então
+esse guimarães sigue igual a 02 e ele
+quer a média aritmética dos elementos
+dessa população então ele está querendo
+aí o nosso me né
+pode chamar de x barracão também de
+forma não é de forma não oficial por
+exemplo é definir uma forma mas como é
+que eu posso falar
+cortei quarteira
+então a gente vai ter aqui a nossa a
+gente quer o que é o coque a média
+aritmética tá me matar que a média
+populacional está ó eu coloquei aqui pra
+ficar mais fácil de contas pra gente
+a gente tem que é não é 20 está porque a
+gente está falando de população então é
+não não é nem tá menina mostra que o
+somatório de seu quadrado quando não
+tinha falado de 65 mil a 6 sigma 02 tá
+então ó está perguntando x barra a gente
+então vai usar essa forma aqui ó sigma
+ao quadrado é igual é de x quadrado - é
+de x ao quadrado está então a gente sabe
+que o sigma é 02 a 02 ao quadrado é
+igual a zero
+esse segundo momento ordinário é
+somatório de x e ao quadrado
+sobre a não menos aqui o que é o
+somatório de x e sobre nk x barnes ao
+quadrado
+tá então a gente vai ter 65,6 / e não 20
+x barra ao quadrado
+tá então se a gente passar o x bar pra
+lá e passar 0,2 ao quadrado por outro
+lado a gente fizer contínua na 3024 está
+tão tirando a raiz quadrada de 3,24 da
+1,8
+como você faria pra achar essa raiz
+quadrada de 3,24 sugestão minha a gente
+sabe
+se a gente multiplicar a gente tem que
+multiplicar 08 2008 tem que dar
+tem que dar um valor 3,24 ea gente vê
+que só a gente só vai obter isso se a
+gente multiplica 1,898 vai ser o que é
+64 8 vez 1842 14 8 181 vez 1 484 12 3,24
+então a gente chegaria no 3024 essa é
+uma forma você vai testar nos valores
+até encontrar a raiz quadrada tá beleza
+então galera pra não ficar muito
+cansativo aí a gente vai dar uma pausa
+tá vai beber uma água aí apareceu um
+pouquinho tá e daqui a pouco a gente
+está de volta valeu

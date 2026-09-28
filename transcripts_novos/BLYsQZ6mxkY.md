@@ -1,0 +1,70 @@
+# Integração do Google Analytics e R - Código de autenticação (parte 5) - Ana Carolina Braga
+
+- **URL:** https://www.youtube.com/watch?v=BLYsQZ6mxkY
+- **ID:** BLYsQZ6mxkY
+
+## Transcrição
+
+Olá pessoal depois que você então criou
+a suas correntes de clientes sempre e
+também associou o usuário de teste do
+Alan no seu projeto na Penha do Google
+você pode voltar aqui para o r para
+poder dar continuidade a integração das
+duas ferramentas Tá eu vou só aqui então
+reiniciar minha sessão
+e dar um restart aqui
+E aí
+é só para a gente poder iniciar então eu
+tive que atualizar algumas bibliotecas
+minhas instalar e a versão do Erre
+também então é bom deixar isso tem
+sempre tudo direitinho para você poder
+dar continuidade Tá vendo até que a
+gente vai utilizar para esse projeto é a
+r Google Analytics tá então eu vou rodar
+essa linha aqui acha você clicar aqui
+E aí vai recarregou direitinho a próxima
+etapa então declarar aqui a tua parente
+em dia cliente assim que eu tinha vou
+rodar essas duas Lins para poder criar
+um eu tô pin né quando você clica aqui
+ele vai te Direcionar para ir para o
+browser não é para você poder visualizar
+o seu código de autorização para poder
+dar sequência aqui vou clicar aqui em
+Grand
+Oi e aí eu tenho aqui a minha conta de
+Gmail
+e eu vou pegar aqui então em continuar
+E aí
+e eu vou perguntar aqui em permitir
+Oi e aí ele então exibiu o meu código tá
+vou copiar aqui vou minimizar a tela e
+vou colar aqui meu código de autorização
+e da Inter
+e parece que foi tudo OK agora eu vou
+clicar aqui em salvar o meu toque han
+e ele cria um arquivo Zinho para você
+poder salvar o toque que dá um
+trabalhinho fazer toda essa parte e vou
+clicar aqui na validação também
+e olha ele deu o que o acesso faltou
+quem é válido então isso significa que o
+r conseguiu e a Júlia até que os
+reconhecerem aí a integração né com o
+Google Analytics e com a pele do Google
+tá então eu coloquei aqui apenas um
+exemplo de uma colher né com alguns
+parâmetros para a gente poder puxar
+algumas informações né do do Google
+Analytics né então eu deixei aqui essa
+data tem um pouquinho antiga né
+e a partir desse de visitas de peixe viu
+na mídia Então vou rodar essa
+colherzinha de exemplo só para gente ver
+E aí
+e eu vou clicar aqui na próxima
+E aí
+Oi e a próxima etapa seria extrair esse
+dado né e inseri um Data Frame

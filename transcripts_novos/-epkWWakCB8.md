@@ -1,0 +1,164 @@
+# Nuvem de palavras com R no Power BI - Marco Milanez
+
+- **URL:** https://www.youtube.com/watch?v=-epkWWakCB8
+- **ID:** -epkWWakCB8
+
+## Transcrição
+
+e fala pessoal beleza salão uma vez
+voltando aí para as presentes e futuras
+gerações
+e a gente trocar uma ideia o conteúdo o
+cabelo utilizando aí vai estágio nos
+trabalhos é um recurso em utilizando R
+dentro do qual enviai sexo.mae o outro
+sol e aí hoje o assunto sobre esse tema
+mas antes que ele pedir para você que
+ainda não é inscrito se inscreva no
+canal dados tem bastante conteúdo que
+gratuito Since the sense de dado
+estatístico entre outros conteúdos um
+professores e Mestres renomados mercados
+aí então dá uma força aí no canal se
+escreve
+Bom vamos lá pessoal vamos falar sobre
+nessa os Cláudia utilizando r taxiline o
+que que eu fiz aqui objetivamente aquele
+que eu estou utilizando a base de dados
+contratos de terceiros que eu peguei lá
+do dados.gov só pra gente utilizar como
+exemplo aqui é visual Então como é que
+agente faz para criar essa oleosa
+Primeiro qual são o como que eu cheguei
+na sua vitória teve eu precisei no
+trabalho é identificar tendências de
+terminal do espelho por exemplo a quero
+saber no mês dezembro a Quero saber qual
+é o mês que vence no mês de novembro diz
+tendências de Julho e aí eu pensei em
+alguma maneira então
+Olá neste modalidades E aí a nuvem de
+palavras fosse modificando de uma
+maneira automatizada e eu fosse ver nos
+quais as palavras foram as principais
+tendências É possivelmente planárias e
+para entender porquê daquele tema teria
+aparecido bastante então vamos lá é pra
+gente criar que esse gráfico a nuvem de
+palavras de hérnia gente vai utilizar
+esse esse visual com que o MPE Você vai
+clicar nele eu já tô com visual aqui do
+lado primeiro a gente podia adiantar não
+ficar mal um vídeo muito muito longe
+vou tentar ser o mais objetivo possível
+aqui
+Esse é o seguinte você vai clicar nesse
+visual aqui e aí ele vai gerar esse
+quadrinho
+um homem sozinho que você tem que saber
+falar qual é o homem que você utilizar
+para fazer criança o vídeo palavra e
+aqui no exemplo eu vou usar por um
+objeto Procurou no objeto é o que eu
+quero trazer camisinha Se tentar
+detectar aqui Quais foram as principais
+é prestadora de serviço as palavras hoje
+contrato de tecido e aí que que eu vou
+fazer vocês estão aqui a coluna eu quero
+usar para revisar o texman e criar um
+sabor especial
+Oi e aí por padrão ele chegasse aqui que
+é um carregamento toda novidade dessa
+coluna e tirar aqui uma forma para você
+remover do Picasso
+Oi e aí a gente não vamos a isso que é
+necessário é mais caro da como exemplo
+para você as casas que vocês queiram
+seja necessário pode utilizar essa linha
+aqui vamos lá voltando aquele plástico
+dá uma escola que já tá criado em
+é o seguinte a gente vai utilizar a
+gente vai ver TM que realizavam as
+transformações aí de caracter para vetor
+e fazer uma notificação de limpeza e out
+loud que a gente vai criar né Nuvem de
+palavras a
+a aparência depois a gente pode utilizar
+e o dia já pode ficar gente poder
+incluir novos arranjar consiste na
+postagem desse nessa nome de falar ó
+Esse é o seguinte que que eu fiz aqui
+e eu atribuí essa a coluna objeto na
+primeira vez comer né tudo em caracteres
+antes já tava em casa quiser mas isso
+aqui foi as para se certificar mesmo
+então
+eu transformei caracteres joguei ela
+para objeto tem e aqui abaixo eu
+realizei algumas promoções de palavras
+né que podem ser que vem lá para o Rio
+Bravo não traga informação necessária
+que a gente quer identificar e a gente
+usa o louvor e a gente morreu as
+seguintes palavras aí mas algumas aqui
+embaixo
+ó e aqui baixa já removemos da Serra e
+alguns caracteres não pode direções e
+ó e aqui a gente continua com a limpeza
+também né já que já criança o copo para
+fazer fazer a transformação caracterizou
+e realizar mais algumas outras
+modificações né devolver espaço de
+transformar de mais ou menos morreu na
+cruz algumas outras palavras composição
+e assim por diante
+Oi e aí a partir daí é eu queria uma má
+triste e da Matriz Ok o mais uma data
+Femme ela tá saindo contabilizada né as
+palavras e após isso
+aí eu fui e criemos causa traseiro da
+função lá Padre Augusto Paulo colocando
+uma te conhecer a mínima de três só
+tente dar um exemplo aqui e a rotação
+você pode colocar
+é a maneira que fumar e seja mais
+interessante para você apresentar e aqui
+no caso ao lado e Aparecida de fogo
+Então galera é só isso para criar saúde
+sabe que esse povo só quer dizer essa
+escola
+Oi e aí tu já Consegues lutar no vídeo
+palavras utilizando R dentro do Coisa de
+ar e aí qual foi o segundo passo aqui
+para poder identificar tendências por
+determinado período em segura tem que
+colocar um filtro aqui não seria um
+filtro voltar aqui um exemplo incomoda
+tem esse aula
+Oi e aí ele vai te dar aqui o período né
+sim
+o que está relacionado com estados e aí
+conforme você vai
+tô mudando né O que que tudo você vai
+nem ficar lá na Quais foram as palavras
+que mais apareceram aí
+e naquele determinado período
+Oi e aí também tem como você colocar só
+que eu painelzinho
+e cuidando estou com os meses aí fica a
+seu critério fazer essas mudanças
+bom Então esse foi o modo que eu
+utilizei para poder
+o acompanhar né Vocês tendências
+determinado período e ajudou bastante a
+área Coloco hoje identificar a tendência
+citações de atendimento para que a gente
+possa preparar melhor ou então voltar
+uma atenção para um determinado tempo
+bom então galera é isso que eu preciso
+mais rápido objetivo aí Espero ter
+agregado aí te ajudado você a trazer um
+uma nova uma nova análise
+a sua maneira rápido daí se tiver você
+dia de trabalho Valeu muito obrigado a
+ir mas já estás a todos e

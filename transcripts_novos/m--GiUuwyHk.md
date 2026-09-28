@@ -1,0 +1,46 @@
+# Depoimento Aluno Ivanilson - Casa da Pesquisa Operacional
+
+- **URL:** https://www.youtube.com/watch?v=m--GiUuwyHk
+- **ID:** m--GiUuwyHk
+
+## Transcrição
+
+E aí
+Oi bom dia a todos eu queria agradecer
+do fundo do coração ex-professores Tiago
+em eu e o professor Marcos da que são os
+fundadores aí da casa de pesquisa
+operacional foi um uma experiência única
+né Eu eu tenho uma seguinte reflexão em
+cima disso né Eu acho que o conhecimento
+compartilhado por pessoas que são
+entusiastas do ensino e eles complicam
+teoremas e e cálculos que que às vezes
+os próprios criadores né Desse dessas
+dessas desse dessas teorias não se
+preocuparam Em em passar né mas aí chega
+essas pessoas maravilhosas aí que nem
+Thiago Marques e o professor Marcos
+o que descomplicar o totalmente teorias
+extremamente complexas né e mostrar um
+novo mundo para nós né que é o mundo da
+pesquisa operacional né e uma coisa eu
+falo para você aí que está de casa se
+realmente você quer tomar decisões mais
+assertivas decisões com uma precisão é
+monstruosa cara entra aí no céu tá o
+botão aí entra aí na clica aí para se
+inscrever aí não precisa operacional e
+manda bala irmão qualquer área agrícola
+principalmente o pessoal da agrícola e
+eu sou da área de agricultura então o
+pessoal de agricultura manda bala e
+porque é coisa sensacional e outros
+setores também eu acho que é
+extremamente importante você está nem
+científica pesquisa operacional
+a tomada de decisão assertiva tem
+precisão astronômica é isso é a pesquisa
+operacional beleza obrigado professores
+Deus abençoe vocês aí e tamo junto nas
+próximas turmas em abraça

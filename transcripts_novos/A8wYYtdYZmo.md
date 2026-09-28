@@ -1,0 +1,159 @@
+# Explicando os cursos da Aprenda Virtual 1
+
+- **URL:** https://www.youtube.com/watch?v=A8wYYtdYZmo
+- **ID:** A8wYYtdYZmo
+
+## Transcrição
+
+[Música]
+aqui sim na nossa página virtual você
+tem diversas ruas para ser um
+profissional de mihai eu tenho separado
+sem a cadeirinha na academia fundamenta
+academia na linha de cada linha
+profissional
+a rede em diversos cursos que eu tava em
+destaque o power biai que é a sensação
+do mercado a rede tem o curso de barbear
+o curso de sql você tem uma idéia e com
+o professor juraci é um curso bem
+profundo custo de 24 horas
+o clicrbs em si é uma ferramenta
+excelente para você trabalhar com data
+discovery extremamente parecido com o
+pai biai você quer construir
+dw você tem um curso específico de
+modelagem de dados para a data house fez
+um curso de r aqui você quer fazer parte
+machine lane aprender a trabalhar com as
+ferramentas de mercado que é ligado a
+análise que tem um custo de r você tem
+curso aquele pele esquete cômica que
+complementa a aula de sql né você de
+administração ina que você quer montar
+um servidor de bias e precisa trabalhar
+com linux que a maioria dos servidores
+ele então você tem um curso específico
+esse curso é com alexandre alexandra ele
+que fez o site
+na época da presidente dilma rousseff
+então ele é realmente um cara expert na
+área e tentou puxar linux
+então gosto de pintar praça vinícius é
+um dos mais vendidos no curso excelente
+que nós temos aqui na nossa página
+virtual
+nós temos esse curso comigo de shell
+script esse recurso basicamente é o que
+eu uso no meu dia a dia para trabalhar
+por shell script para mim então você
+trabalha muito com isso é interessante
+que você saiba trabalhar com o show
+escrevi para linux
+ok se você quer mergulhar um pouco mais
+eu falei um pouco de r mas eu fiz um
+curso específico e mineração de dados
+aqui na praia virtual para que você
+possa trabalhar com essa área de ciência
+de dado então um curso bem profundo de
+mineração de dados você pode encontrar
+aqui nossa prevê atual o dever que a
+ferramenta data descobri da hora pouco
+então você quer trabalhar com uma
+ferramenta dá a desculpa da hora
+trabalha com o dever o dever é
+sensacional
+muito bom muito fácil trabalhar eu fiz
+um curso de excel para gestores mas o
+curso ligado à baixa de construção de
+indicadores keep ice ou seja mais
+profunda e técnicas
+é um curso de excel diferente esse curso
+que nós temos aqui na praia virtual e
+fiz um curso de atls para hora com a
+questão até wb que é o tele da hora com
+hoje ele tem rodado b tem o diário então
+o a wb é um dos mais usados no mundo a
+gente tem esse curso aqui na nossa
+página virtual e o tabu que é a sensação
+de mercado para quem usa a ferramenta do
+discovery cove biya e cliques em si
+o tablet é disparado um dos melhores
+mais bonito mais fácil de você trabalhar
+todos nós temos aqui na página virtual
+como eu falei nós temos as academias são
+três fundamentos analítico profissional
+caso você queira criar uma trilha fácil
+organizada para saber como eu entro
+nessa área escolher uma dessas academias
+fica muito mais fácil de você entrar no
+mercado o que é que já tá seqüenciado
+depende da sua necessidade daquilo que
+você quer trabalhar então academia bié
+fundamentos analítico profissional aí é
+só você escolher
+ok é isso esses são os cursos eu tenho
+aqui uma combinação de como se vocês
+quiserem comprar mais de um curso
+você tem a opção de combos com os duplos
+triplos quadros você pode comprar já tem
+25% de desconto mais barata
+se você quiser comprar a vulso eu indico
+que você compre néon demande o semestre
+anual aqui você compra um pacote de
+cursos né
+compra-se magistral né você tem uma
+quantidade de 8 curso por você mexe aqui
+o anual são dez cursos
+então eu indico se você quiser fazer a
+sua carreira não quiser seguir nem nas
+academias e quer fazer do seu jeito
+vá lá e faça um movimento um ambiente é
+excelente tem diversos alunos com ele
+ok aqui são os nossos professores
+professores da área todos super
+gabaritados da área né
+você tem aqui também muitas novidades
+aqui no site da plena virtual eu tenho
+aqui informações do blog da prenda
+habitual
+se você conhece o blog da feira virtual
+você tem notícias
+sobre tudo o que está acontecendo na
+área chega aqui o power biai quero saber
+o que está acontecendo na área de
+barbear e aqui ó uso de coordenadas
+geográficas a ferramenta do disco usando
+paul biya e pai dela eu seja você tem
+diversas informações aqui no blog da
+nossa prenda virtual venha conheça com
+esse é o nosso blog lute por dentro leia
+ok
+qualquer dúvida ó você pode ligar pra
+gente aqui estão os nossos números
+ok você pode ou ate zap né pode passar
+um e mail pra gente pra contato a roupa
+preta virtual pode conhecer mais
+informações sobre a gente como é que
+funciona os gols qualquer dúvida
+nós somos empresa de treinamento
+regularizada então o certificado valia
+como curso de extensão vale para você
+colocar no seu currículo vale pra que
+você indique a presença virtual como sua
+escola de treinamento nós estamos no
+mercado há muitos anos só trabalhamos
+cambiais e todo mundo de mercado todos
+os professores trabalham em grandes
+empresas ok e o nosso diferencial e se
+você tem um contato direto com os
+professores né passei e mesmo pessoas
+respondem em outra qualidade incrível e
+é muito fácil contato com os professores
+toque
+espero você venha a nos conhecer faça os
+nossos cursos entendo um pouco mais da
+área de viagem porque o mundo está
+mudando e você não pode ficar parado um
+grande abraço
+[Música]

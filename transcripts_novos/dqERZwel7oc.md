@@ -1,0 +1,513 @@
+# Aula 3  Exemplos de uma Abordagem Science Driven -  Prof. Leonardo Bars
+
+- **URL:** https://www.youtube.com/watch?v=dqERZwel7oc
+- **ID:** dqERZwel7oc
+
+## Transcrição
+
+o Olá pessoal tudo bem eu sou o Leonardo
+Muniz e essa é a terceira aula do curso
+marketing Analytics uma abordagem
+Science driver nas aulas anteriores nós
+fizemos uma introdução abordagem
+orientada por ciência posicionando ela
+dentro do contexto do marketing
+Analytics na contemporaneidade e também
+apresentamos os fundamentos de uma
+abordagem sem striving posicionando
+Quais são os pilares e conceitos que
+sustentam uma abordagem orientada por
+ciência na aula de hoje nós vamos ver
+exemplos de uma abordagem orientada por
+ciência a aula está dividida em três
+partes na primeira delas nós iremos
+discutir a utilização de artigos para
+gerar soluções orientadas por ciência do
+zero construindo modelos analíticos a
+partir de uma abordagem orientada por
+ciência
+é a segunda sessão discutirá a
+otimização de modelos analíticos já
+existentes então nela vocês aprenderão
+como que nós podemos utilizar uma
+abordagem orientada por ciência para a
+partir dela aprimorar modelos já
+existentes de Analytics e na terceira
+sessão nos discutiremos a relação de uma
+abordagem orientada por ciência com o
+retorno de investimento das ações feitas
+e como a gestão de marketing como um
+todo entendendo como uma abordagem
+orientada por ciência pode ajudar a
+alavancar performance da empresa e dos
+investimentos feitos em market
+bom então iniciando a aula propriamente
+dita na primeira parte nos discutiremos
+sobre a utilização de artigos para criar
+soluções de marketing Analytics do zero
+e aqui eu trago como exemplo para vocês
+um artigo intitulado os efeitos da
+participação em comunidades virtuais de
+marca no comportamento do Consumidor
+proposição e teste de um modelo teórico
+e como a gente sabe o marketing digital
+da crescendo muito e ainda carece de
+algumas métricas para entender alguns
+fenômenos que acontecem no digital o
+maior precisão um deles são
+investimentos feitos em comunidades de
+marcas grandes quantias de dinheiro são
+investidas em criar uma comunidade ao
+redor da marca mas ainda não se sabe
+como nem surar os resultados de uma
+comunidade marca e como que ela
+contribui para as práticas do negócio
+então esse paper vem justamente para
+trazer luz nessa questão Então qual que
+é a grande Pergunta aquele busca
+responder Quais são os ganhos que as
+empresas podem ter em termos de
+intenções de recomendação recompra e
+lealdade do Consumidor por meio da ação
+de comunidade virtual de marca ou seja
+como criar uma comunidade virtual de
+marca influencia as intenções
+recomendação
+a compra e lealdade do Consumidor e
+quais são as variáveis que eu tenho que
+mensurar para capturar esse processo são
+essas questões que se paper vai trazer
+para gente e aí ele foi testado no
+contexto de duas comunidades do Xbox ou
+seja é um contexto de aplicação cenário
+de aplicação real e portanto nos permite
+observar junto com a credibilidade do
+método científico que aqueles resultados
+Possivelmente são generalizáveis para
+outras comunidades de marcar a
+referência desse artigo e do artigo que
+nós vamos usar como exemplo na próxima
+sessão Estarão aqui no rodapé dos slides
+onde eu apresentam os modelos de cada um
+dos artigos e também estarão na
+descrição do vídeo Caso vocês tenham
+interesse em ler os trabalhos completos
+estão apresentando um pouco do modelo
+o e fazendo algumas considerações em
+cima deles a primeira coisa que eu quero
+discutir Antes de nós entrarmos no
+modelo e os resultados propriamente
+ditos é a questão da técnica estatística
+que nós devemos utilizar na construção
+de modelos de marketing analítico a
+maioria das relações que influenciam o
+comportamento do Consumidor são relações
+sequenciais e que portanto constituem
+uma cadeia de pensamentos onde eu tenho
+etapas e influenciam a cognição e o
+pensamento do Consumidor por que que eu
+faço essa observação antes de entrar no
+modelo propriamente dito lá na
+estatística a gente aprende e as
+análises possuem o que nós chamamos de
+termos de erro esses termos de erros são
+grosso modo as chances de nós estarmos
+errados em afirmar que um cenário
+diferente daquele calculado pelo teste
+acontecerá repetindo hotel
+É sim ver então e Ciências Sociais
+aplicadas com meu caso do marketing por
+exemplo a convenção da área é que aceito
+uma significância de cinco porcento ou
+seja uma relação significante é aquela
+que se eu repetir o teste sem vezes em
+apenas cinco delas eu vou ter um
+resultado diferente em termos de
+hipótese ok nós estamos falando em valor
+do coeficiente seja a variância em uma
+variável estar associada a variância em
+outra variável então quando eu rodo
+múltiplas agressões por exemplo eu tenho
+a somatória dos termos de erro Então
+concorda que esse o com direção do
+Consumidor ela é um processo
+é formado por várias etapas são mensural
+o efeito de um conjunto de variáveis
+Independentes em uma variável dependente
+por vez eu vou estar somando o erro de
+cada uma dessas agressões então aqui
+vamos tomar por exemplo o nosso modelo
+eu devo quatro variáveis dependentes
+aqui então se eu rodasse quatro
+regressões isoladas eu teria Vinte por
+cento de erro né cinco porcento para
+cada regressão que eu realizasse então
+no total e até uma taxa de erro muito
+alta nesse caso é muito mais
+recomendável nós utilizarmos uma técnica
+chamada modelagem de equações
+estruturais o que ela consegue capturar
+o efeito de um conjunto de variáveis
+Independentes em múltiplas variáveis
+Independentes utilizando uma única conta
+e portanto o meu erro final é de apenas
+cinco porcento então na maioria dos
+modelos de marketing Analytics
+orientados por ciência e deveria ser
+também
+a parcela de Tradicional em muitas vezes
+o modelo e o que nós queremos misturar
+deve ser construído utilizando essa
+técnica de modelagem de equações
+estruturais os dois exemplos que eu vou
+apresentar aqui para vocês hoje são
+utilizando essa técnica de modelagem de
+equações estruturais porque nós queremos
+capturar o efeito de variáveis
+Independentes múltiplas variáveis
+dependentes Então eu preciso de uma
+abordagem de modelagem equações
+estruturais na que eu tenho um erro
+limite de 5 por cento e portanto um
+modelo com muito mais acurácia e com
+muito mais credibilidade para embasar a
+minha tomada de decisão do que se eu
+rodasse regressões lineares isoladamente
+né uma para cada etapa então
+apresentando para vocês os construtos
+quais são os construtos que compõem o
+modelo desse artigo o primeiro deles
+chamado homogeneidade psicográfica
+percebida diz respeito a quanto os
+usuários da comunidade virtual
+e se percebem como semelhantes uns dos
+outros não é um grau de semelhança
+percebida entre os membros da comunidade
+o segundo construto disponibilidade de
+avenidas virtuais que diz respeito à
+infraestrutura propiciada pela
+comunidade virtual para que os seus
+membros interajam entre si Então quais
+são os canais de comunicação na
+existência de canais de comunicação e
+possibilite a interação entre os membros
+da comunidade o relacionamento com a
+marca diz respeito a quanto o consumidor
+enxerga a marca como parceira no momento
+de estabelecer um relacionamento com ele
+a participação na comunidade preciso
+respeito ao grau de atividade e de
+interação do sujeito na comunidade né
+então diz respeito ao seu engajamento na
+comunidade a identificação com a
+comunidade diz respeito ao quanto o
+sujeito percebe que a sua identidade
+e elegante com os ideais daquela
+comunidade do seu grau de afinidade
+entre quem ele é e a comunidade da qual
+ele tá participando as influências da
+comunidade dizem respeito ao nível em
+que a comunidade influencia a tomada de
+decisão do sujeito tanto em relação a
+categoria quanto as marcas que atuam
+nela e as avaliações e intenções por sua
+vez dizem respeito nível de intenção de
+recompra de recomendação e de advogar a
+favor da marca então agora entendendo um
+pouco mais sobre os resultados do modelo
+cada certinha dessa representa uma
+hipótese de influência seja positiva ou
+negativa aqui no modelo todas as
+hipóteses são positivas então todas tem
+esse sinalzinho de + ao lado do nome e
+do número da hipótese Quais foram os
+resultados finais do modelo
+em todas as hipóteses foram comprovadas
+é Foram confirmadas Então a partir desse
+resultado né Ou seja a partir do teste
+de cada uma das hipóteses que eu posso
+ver nesse quadro que tá aqui na esquerda
+eu consigo entender Quais são os
+relacionamentos que influenciam a minha
+variável dependente o final do modelo
+que são as intenções de recompra a
+intenção de lealdade na ser leal a marca
+e a intenção de advogar em favor da
+marca E aí a partir disso eu consigo
+entender duas coisas a primeira delas é
+quais variáveis são relevantes no meu
+contexto de estudo ou seja Quais são as
+variáveis que esse modelo tá me
+mostrando que se relacionam direta ou
+indiretamente com a intenção de
+recomendação a intenção de recompra de
+lealdade e o fato de advogar intenção de
+advogar a favor da má
+e ao mesmo tempo em eu dei os drivers
+para tomada de decisão gerencial onde eu
+sei aonde que eu devo estabelecer ações
+e sei quais são as variáveis eu tenho
+que incorporar o meu modelo de Analytics
+quais variáveis são significantes e que
+portanto eu tenho que mensurar para
+saber se o meu objetivo gerencial de
+aumentar a intenção de recompra de
+aumentar a lealdade de aumentar a
+intenção de advogar a favor da minha
+marca seja alcançada e portanto eu
+consigo guia Quais são as ações que eu
+tenho que tomar para chegar nesse
+objetivo e o que eu tenho que mensurar
+para saber se eu estou caminhando em
+direção ao alcance desse objetivo Ok
+então a partir de modelos como esse eu
+sei quais são as variáveis que eu devo
+utilizar no meu modelo de marketing
+Analytics e portanto a inclusão das
+variáveis Deixa de ser baseada na
+experiência de quem está construindo uma
+e como nós já falamos de fato pode ser
+muito rica Mas se constituindo a
+experiência de uma única pessoa e que
+por dentro não tenham poder de
+generalização para Universo para dizer
+que aquilo sempre vai funcionar ou não
+para começar a utilizar variáveis que
+foram testadas e validados com uma
+metodologia bem rigorosa e que eu sei em
+funciona em que estão relacionadas com
+aquele modelo que eu quero mensurar e
+otimizar a partir de uma abordagem de
+marketing Analytics então eu ganho
+segurança na construção do meu modelo ao
+saber que eu estou incluindo variáveis
+que já foram comprovadas e funcionam
+naquele cenário e que tem poder de
+generalização ou seja em qualquer
+cenário esteja incluído aquela situação
+de comunidades marca eu consigo utilizar
+àquela variável e ela vai me trazer o
+resultado E foi testado e que foi
+validado pelas hipóteses e
+o modelo Ok mas e quando eu já tenho um
+modelo de Analytics construído e rodando
+Como que eu faço bom nesses casos a
+maioria das vezes A melhor solução é a
+otimização dos modelos de Analytics já
+existentes Como que eu faço isso
+e eu trago aqui como exemplo um artigo
+chamado Green Project purchasing
+intention Impact of Green Brains
+attitude and download exert e vai se
+concentrar sobre a compra de produtos
+alimentares verdes O que são seus
+produtos Verdes são aqueles produtos
+ecológicos orgânicos são mais naturais e
+que trazem mais benefícios ou então
+menos danos para o meio ambiente é uma
+Esse é o cenário que a gente vai ter que
+como exemplo né como base para o nosso
+desenho esse artigo ele tem múltiplos
+objetivos mas de maneira geral ele quer
+entender Quais são os determinantes ou
+seja quais são os preditores as
+variáveis que influenciam a intenção de
+compra de produtos alimentares verdes
+produtos orgânicos mais saudáveis e que
+geram menos danos para o meio ambiente
+esse ao contexto de aplicação Qual foi a
+amostra
+é desse estudo pessoas que já praticam
+estilo de vida verde né que os seus vida
+mais saudável e que tiveram uma
+experiência recente e frequente de
+compra de produtos alimentares verdes ou
+seja é uma mostra e faz todo sentido no
+contexto do que o artigo que é testar e
+que portanto os resultados do estudo do
+modelo construído desse artigo são
+generalizáveis para população que essa
+mostra representa então pessoas que
+tenham um perfil semelhante ao dessa
+mostra vão ter e os resultados gerados
+pelo modelo vão ser válidos para elas
+também Então essa é uma grande sacada da
+abordagem em casa por ciência que a
+gente já vem falando a gente sempre
+testam os modelos e as hipóteses como a
+mostra que representa a nossa população
+de interesse para garantir a
+generalização dos resultados para essa
+mostra portanto pro ter um modelo de
+análise mais preciso e mais com
+bom então falando um pouquinho sobre o
+modelo e os construtos o que nós temos o
+posicionamento de marca Verde diz
+respeito ao valor atribuído ao produto
+ou serviço gerado por uma marca ver cujo
+este valor reside nos atributos
+ecológicos Associados a marca que são
+importantes para o consumidor atitude em
+relação as marcas verdes de respeito a
+preferência e avaliação geral que os
+consumidores fazem de uma marca levando
+em consideração os seus gostos e os seus
+elementos de desgosto né ou seja o que
+eles não gostam o conhecimento da marca
+verde e diz respeito aos atributos
+exclusivos de cada uma das marcas que
+atuam na categoria E que são percebidos
+como vantagens únicas que beneficiam a
+sociedade e o meio ambiente EA intenção
+de compra de produtos verdes por
+é desrespeito a intenção os consumidores
+de comprar produtos que sejam menos
+prejudiciais para a sociedade e para o
+meio ambiente uma vez que eu entendi
+Quais são as construções eu vou tentar
+entender Quais são as hipóteses
+geralmente elas estão delineadas no
+corpo do artigo por extenso em alguns
+artigos específicos apresentam as
+hipóteses também como um Diagrama como
+nós vimos no artigo anterior então
+quando eu falo de regressão de modelagem
+equações estruturais sempre tem que ter
+em mente que a hipótese é que a
+variância na minha variável independente
+influencia a variância na minha variável
+Dependente com um determinado peso ou
+seja ser sim uma determinada influência
+tão uma vez que eu vi Quais são os
+construtos e quais são as hipóteses A
+gente parte para análise dos resultados
+geralmente todo o artigo traz uma tabela
+apresentando Quais são as hipóteses
+o coeficiente do caminho que a gente
+está falando de modelagem em equações
+estruturais ou qual é o beta quando nós
+estamos falando de regressão e qual que
+é o resultado da hipótese se ela foi
+suportada ou se ela foi rejeitada E aí
+novamente a partir disso eu sei quais
+são as variáveis que influenciam no
+fenômeno que eu estou analisando Então
+quais são as variáveis independentes e
+quais são as influências que elas
+exercem nas variáveis Independentes do
+modelo e portanto Quais são as variáveis
+eu devo trabalhar para alcançar meu
+objetivo gerencial e quais são as
+variáveis que eu tenho que incluir no
+meu modelo para poder fazer a minha
+gestão de Marketing e tem uma dor de
+Analytics mais efetivo aqui é a grande
+diferença em relação à situação anterior
+ou seja na utilização de modelos de
+Analytics já existentes A grande
+diferença para a situação que o que uma
+abordagem cria uma dor de Analytics do
+zero é que na otimização
+eu vou incluir essas variáveis do modelo
+junto com as variáveis que eu já estava
+utilizando e quando eu criei um modelo
+do zero eu inclui apenas as variáveis
+que foram validados por esses artigos
+científicos Então essa é a única
+diferença lembrando também que quando a
+gente fala de uma abordagem orientada
+por ciência né então por dentro de
+artigos científicos tantas análises de
+regressão quanto o modelo estrutural
+servem para fazermos testes de hipótese
+ou seja se as relações pressupostos são
+válidas ou não o Beta né ou se no caso
+das modelagem equações estruturais o
+coeficiente de caminho é a mesma medida
+só muda o nome na regressão a gente
+chama de Beta e mudando de você
+estruturais nós chamamos de coeficiente
+de caminho o valor dele é uma guia mas
+não é generalizável porque ele não é
+generalizável porque ele foi calculado
+em função do padrão
+as respostas daquela mostra e a gente
+sabe que as amostras respondem de
+maneira parecida mas não igual então é
+natural que eu tenho uma flutuação no
+padrão de respostas de duas amostras
+diferentes e portanto uma flutuação no
+valor do coeficiente calculado então o
+esses artigos eram preço definir Quais
+são as variáveis que a gente vai incluir
+no modelo e ter uma noção da força da
+influência delas Lembrando que essa
+força né representado por esse
+coeficiente varia para cada amostra que
+a gente está testando que a gente está
+utilizando embora ela mantenha um certo
+padrão Ou seja ela oscile em função de
+um Exu né de um valor referência é o
+conceito de dispersão do desvio padrão
+então os dados podem ser um pouco
+maiores e um pouco menores mais oscilam
+dentro de si
+o cavalo fixo então a gente se concentra
+muito mais em utilizar e entender Quais
+são as variáveis e quais são as relações
+elas existem relação entre elas são
+positivas ou negativas do que olhar
+especificamente o valor do coeficiente
+em programar ele no modelo Ok e essa
+conjuntura nos leva ao terceiro ponto
+dessa aula que é a relação de uma
+abordagem orientada por ciência com o
+retorno de investimento EA gestão de
+marketing então aqui é uma relação de
+somatória se eu utilizo no modelo
+variáveis adequadas para o meu problema
+ou seja variáveis que tem ligação com o
+que eu quero mensurar
+E se eu mistura aspectos relevantes para
+o meu contexto ou seja se eu mensuro
+apenas aquilo que realmente vai me
+ajudar eu não fico adicionando outras
+coisas que não tem relação com o
+fenômeno que eu preciso analisar e
+entender
+bom E se eu consigo ser comigo assim
+gerenciais dos artigos Ou seja eu
+implemento na minha organização a
+sugestões fornecidas pelos artigos
+e eu maximizando o retorno das minhas
+ações aprimorando a minha gestão de
+marketing já que eu estou utilizando
+apenas sugestões e variáveis que tiveram
+sua generalização validada e portanto se
+aplicam ao contexto do meu trabalho ao
+contexto da minha organização e portanto
+maximizam os meus retornos e a minha
+gestão de marketing já que eu vou ter
+muito mais segurança do retorno
+propiciado por essas ações gerando uma
+gestão de marketing muito mais
+aprimorada e que entrega Mais resultados
+do que quando eu faço essa mesma gestão
+a partir de variáveis que não
+necessariamente são adequadas para o meu
+contexto e que vão funcionar e que vão
+ser úteis no meu contexto em quando
+e são lindo meu setor da minha categoria
+de atuação
+é bom pessoal Essa foi a nossa aula de
+hoje Muito obrigado pela sua atenção
+aqui estão os meus contatos eles também
+Estarão aqui na descrição junto com o
+link para os artigos foram utilizados
+como exemplo caso vocês tenham interesse
+em lê e fiquem à vontade e entrar em
+contato comigo para tirar dúvidas ou
+para se quiserem discutir alguma questão
+específica que eu tenho muito prazer em
+responder a mensagem de vocês ok então é
+isso e até a próxima aula pessoal

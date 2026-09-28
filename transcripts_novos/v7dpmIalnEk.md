@@ -1,0 +1,64 @@
+# Integração do Google Analytics e R - Extraindo dados (parte 6) - Ana Carolina Braga
+
+- **URL:** https://www.youtube.com/watch?v=v7dpmIalnEk
+- **ID:** v7dpmIalnEk
+
+## Transcrição
+
+E aí
+é bom para finalizar Então pessoal
+enxergar que a gente conseguiu integrar
+e o Google Analytics com R né eu vou
+rodar aqui uma com ele para a gente
+coletar algumas dimensões e métricas do
+Google Analytics tá é importante você
+você tá também o Eyed da da sua conta do
+Jean ta você checa direitinho que você
+tem acesso e permissão para coletar os
+dados eu vou rodar então aqui a minha
+playlist
+a minha geacre nem aqui eu vou pedir
+para ele extrair o dado para um Data
+Frame tá
+E vamos cortar um pouquinho e quando ele
+tá rodando
+Oi e aí ele viu que voltou quem é válido
+né
+Oi dermi Take a máximo dela de linhas né
+de dados coletados Então quem 10.000
+e ele ainda tá rodando a gente tem que
+aguardar um pouquinho
+E aí
+Oi e aí ele mostra que ap retornou né
+2828 1693 resultados que eu vou aí então
+armazenar um arquivo csv por exemplo
+extrair aqui o r e vou gerar esse
+arquivo csv tá
+Ah então tá aqui pessoal para vocês né
+concluir pra gente concluir assar essa
+integração você pode visualizar aqui que
+eles traiu 1.7 é megabytes tem o arquivo
+tá está está te dado os pontos sv eu vou
+clicar aqui e se ele abre para gente Vou
+colocar aqui um dia eu Fari só para
+gente dar uma olhadinha então ele mostra
+aqui uma visualização do arquivo que ele
+conseguiu extrair para gente tá você
+também pode importar enfim exportar esse
+dado aqui do para para poder analisar Tá
+bom então aqui mostra de uma forma bem
+bacana como é que você consegue integrar
+nem entregar também né dados de uma
+outra forma integrando o Google
+Analytics e o r tá a partir da conta que
+você deseja extrair o dado e analisar Tá
+bom eu espero que vocês tenham curtido
+então a explicação e depois a gente pode
+complementar com mais algum
+e análises enfim ponto de tráfico ou
+dentro da ferramenta R mas a princípio
+que eu tinha para apresentar era como
+fazer essa integração Como você tá na PM
+e aqui também na ferramenta ao código de
+autorização para que você possa dar
+continuidade às suas análises tá ok

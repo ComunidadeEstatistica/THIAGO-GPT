@@ -1,0 +1,312 @@
+# Marketing Analytics - Parte 03 - Prof. Marcos Severo (Pós-Doutorando em Mkt Analytics (USP) )
+
+- **URL:** https://www.youtube.com/watch?v=FEX8S_akj5Y
+- **ID:** FEX8S_akj5Y
+
+## Transcrição
+
+o olá pessoal tudo bem quero com a parte
+3 da aula de marketing analytics
+e essa ex é uma parte mais metodológica
+e eu vou discutir umas empíricos
+decorrentes do uso do marketing
+analítico é detalhar algumas relações
+esperadas entre variáveis de marketing
+como por exemplo o preço e variáveis
+independentes nos modelos de marketing
+analytics como por exemplo as vendas
+para quem não acompanhou a última aula
+eu resgato o slide que mostra a
+estrutura empírica para se compreender o
+marketing analyst e a estrutura empírica
+é análise de regressão
+o que é a na direção à direção uma
+estrutura funcional de uma variável y a
+variável dependente e conforme o
+discutir as aulas ela pode ser
+individual ou empresarial agregada em
+telemarketing e eu tenho um grupo de
+variáveis explicativas do lado de cada
+equação são josé b x ivo onde eu vou
+estimar o modelo e eu vou tentar
+explicar uma variável dependente
+o desempenho mercadológico a partir de
+um grupo de variáveis explicativas é de
+marketing em que se referem a decisões
+básicos de marketing como por exemplo os
+quatro ps produto preço praça promoção
+qual é a importância da análise de
+potência nas regressões como estimar os
+valores dos betas como é uma estrutura
+funcional eu vou fazer testes de
+hipóteses depois que o estimam modelo eu
+tenho testes de hipótese individuais
+para cada um dos betas onde eu vou
+testar a hipótese nula de que esses
+bettas são estatisticamente iguais a 05
+peças forem diferentes de zero e
+significa e a alma influência da
+variável x ou das variáveis x é na
+variável y então inclinação vai ser
+positivo a internação vai ser negativa
+logicamente é supondo que a base de
+dados contém uma amostra aleatória
+eu não vi assada e obedeço a todos os
+pressupostos estatísticos e do teorema
+do limite central que eu não vou entrar
+é indico são aqui nessa aula ok
+é um como exemplo prático eu vou
+recorrer ao exemplo mais básico das
+relações de marketing é a relação entre
+vendas e preço de vendas como variável
+dependente eu tenho preço como variável
+independente no caso exemplificado como
+x1 uma análise de regressão vamos por
+cima na direção simples e eu tenho um
+termo de eu que é tá de notado aqui como
+o que não observados aleatórios que
+estão fora do modelo eu espero nessa
+relação entre preço e venda uma relação
+negativa ou seja conforme o aumento
+preço eu reduzo agendas e por que que eu
+espero isso bom eu espero isso por causa
+da microeconomia da elasticidade-preço
+demanda e todo acabou os teóricos
+estrutura teórica que admitir que a
+relação entre preço demanda ela é uma
+relação negativa
+e além disso
+é algo importante para subsidiar as
+decisões de marketing e as análises de
+marketing analytics são perfil
+e em trago esse exemplo aqui muito
+prático né esse é um artigo científico
+publicado em 2005 onde esses três
+autores recorreram a uma série de
+estudos anteriores que analisaram a
+influência de preço nas vendas e
+chegaram algumas conclusões baseadas
+nesses estudos em um título do trabalho
+é nova generalizações empíricas sobre os
+determinantes da elasticidade do preço
+ofício do efeito do preço na demanda
+resumidamente o que que diz esse estudo
+estudo publicado no journal of marketing
+surf que é o segundo periódico mais
+importante da área de marketing em
+termos fator de impacto personalizaram
+851 efeito de preço longo de 40 anos e
+identificaram um efeito médio de menos
+2.62 por cento do preço nas rendas fica
+aqui em média o efeito
+uma das vendas e negativo e centrado em
+menos 2.62 por cento ou seja conforme o
+aumento um por cento no preço eu espero
+uma redução na demanda de menos 2.62 por
+cento esse é o efeito esperado ele pode
+variar em torno de outras questões é
+comprei um produto de luxo é o seu
+produto lançado é um produto inovador
+então eu posso parte com preço mais alto
+mas esses detalhes este pormenores eu
+não vou também entrar em detalhe nessa
+explicação para vocês ok
+a beleza para ficar mais claro essa é a
+distribuição dos efeitos de preço que
+esses três autores consolidaram né então
+vocês podem observar aqui há uma
+distribuição assimétrica é e ela varia
+de valores extremamente negativos aqui
+em baixo achou - 12 - 18 ponto 90 até
+valores um pouco positivos lá em cima eu
+tenho 2.0 1 e 4 né mas majoritariamente
+a maioria é dos registros de preços
+negativo são negativos altura da barra
+altura das barras que elas denotam a
+quantidade de estudos que eles
+consolidaram nesse intervalo então por
+exemplo eu vou pegar o topo apenas para
+melhorar a visualização é essa barra
+mais alta aqui ó
+o que significa que eles identificaram
+468 estudos
+a respeito do preço mais vendas é e
+esses efeitos giraram em torno de menos
+dois é de menos 2.99 até menos dois isso
+quer dizer isso quer dizer isso quer
+dizer que quando eu estimo
+se você tem uma base de dados onde eu
+tenho na coluna árvores após vendas de
+um produto ao longo do tempo e na coluna
+meu preço médio desse produto ao longo
+do tempo como se protejam meses quando
+eu estimar um modelo de análise de
+regressão onde eu quero identificar o
+efeito médio do preço nas vendas eu
+espero que esse feito seja negativo e
+mais ou menos em torno de menos 2.62
+então isso vai subsidiar o modelo
+estatístico que eu vou construir da área
+de marketing analytics e me dá certo a
+segurança como assim certa segurança de
+dar certo a segurança porque sim este
+mal modelo identificar um efeito de
+preço de oito ponto 99 por exemplo
+positivo é muito provável que eu fiz
+alguma coisa errada que o modelo
+estimado ele tem contém algo esquisito
+algo errado porque
+é simplesmente porque de acordo com essa
+distribuição um valor positivo de 8.169
+que foi mencionei está fora dessa
+distribuição e como se fosse uma outline
+lá na ponta então ele é muito pouco
+provável de ocorrer
+eu trouxe esses exemplos aqui para vocês
+não problema índio para deixar bem claro
+é e quando você trabalha com marketing
+analítico estão é só simplesmente
+apertar o botão e estimam modelo mas é
+compreender o que que você pode esperar
+da base de idade que você tem outra
+questão muito importante na análise de
+regressão aplicado no marketing
+analytics
+é a questão de como os dados foram
+gerados aqui listados foram entregues a
+você a quem vai analisar modelo é como
+que eles foram gerados eu vou dar um
+exemplo prático vamos pouquinho pegue
+uma base de dados
+é de preços e quartos de hotéis ao longo
+do tempo e vendas médias ou seja é
+desses quartos de hotéis de uma rede de
+hotéis ao longo do tempo e aí eu vou
+estimar o modelo de efeito médio do
+preço nas vendas só que a pessoa que me
+entrega essa base da diz ela não informa
+e essa série de preços de vendas ela se
+referem a um período gigante aonde por
+exemplo ocorreram feriados um período de
+final de ano aonde normalmente o preço
+praticado é mais ao que que eu tô
+querendo dizer que eu tô querendo dizer
+é que marketing um comportamento dos
+gestores ele é estratégico então se eu
+sou proprietário do hotel e eu tô em
+alta temporada e eu sei que vai ter mais
+demanda ou seja eu sei que vai ter mais
+venda eu aumento preço
+bom então se uma pessoa pega essa base
+de dados de preço mais vendas e ela
+estima o modelo para identificar
+influência do preço nas vendas e isso
+não é avisado para ela e ela não
+controla essa relação ela não inclui uma
+variável de controle para finalizar
+períodos de feriado períodos fora de
+feriado por exemplo ela ou vai achar um
+efeito positivo do preço nas vendas que
+não faz sentido que não corresponde à
+realidade ou ela vai achar um efeito
+menos negativo do que é na realidade
+simplesmente porque existe um fator não
+observado aqui ó que tá no termo de erro
+da impressão
+e aí
+o que possui uma correlação com preço
+e o analisando de maneira prática etário
+do hotel ele sabe que vai ocorrer um
+feriado está aqui e aí o que que ele faz
+ele aumenta o preço porque em feriados a
+demanda tende a ser mais alto
+e esse problema ele é muito comum na
+área de marketing analytics e também com
+quem trabalha com base de dados e ele é
+formalmente definido como endogeneidade
+da prometi quem tá acompanhando que o
+vídeo conhece é estatística a partir da
+econometria essa nomenclatura do vai
+ficar muito estranha né então
+endogeneidade é formalmente definida
+como a correlação entre uma variável
+explicativa do seu modelo e o termo dia
+da regressão
+e de forma visual qual que é a
+implicação disso para estimação do
+modelo em marketing analítica i
+e eu estimo modelo do efeito no preço
+nas vendas caso dois modelos aí como
+existem nessa figura este calor tem as
+vendas no eixo horizontal no eixo
+horizontal batendo preço a ponto de este
+é um preço
+bom e uma venda e é o valor de venda né
+reais em dólares correspondente a esse
+preço definido
+e essa linha que não é pontilhada é o
+modelo de ls ou seja é um modelo de
+mínimos quadrados ordinários e análise
+de regressão e o que significa isso
+porque mínimos quadrados ordinários eu
+vou estimar na verdade só se existe uma
+reta que a reta que melhor se ajusta aos
+dados ea reta que melhor se ajusta aos
+dados é a reta que tem a menor distância
+possível daqueles dados só que esse
+modelo aqui ele está errado entre aspas
+ele está errado porque ele foi estimado
+sem a informação
+e é dos feriados então essa reta é menos
+inclinada do que ela deveria ser
+em comento como a gente observa nessa
+reta que tracejada que seria o modelo
+real ou seja quando eu controlo o efeito
+do preço nas vendas eu tenho inclinação
+diferente muito provavelmente o efeito
+do preço aqui é maior quando eu controla
+a relação somente porque eu tive mais
+informações acerca das variáveis que
+incluem no modelo as variáveis que devem
+ser incluídas no modelo que comprar
+concluir o raciocínio dessa aula 3 que
+foi mais metodológica da de marketing
+analytics então problemas como esse eles
+são comuns em estudos de máquina
+analítica devem ser levados em
+consideração
+quem é e as estimações modelos sem que
+se conheça a realidade com que os dados
+a decisão dos gestores eles distorcem as
+estimativas dos parâmetros dos modelos
+em função das variáveis obtidas quando
+eu trabalho com datações contra o
+trabalho com a na direção o estatística
+eu quero identificar os melhores
+estimadores possíveis para identificar
+influência média da variável x na
+variável y das variáveis x naturalismo
+é uma sugestão na estimação de modelos e
+sempre encontrar um número razoável de
+variáveis de controle no no exemplo aí
+tá escrito a questão do feriado que vão
+controlar a relação entre as variáveis
+explicativas e a variável dependente
+oi e um exemplo prático da importância
+do problema e modelos de preço em que a
+ingenuidade não é controlada o efeito do
+preço é igual a menos 2.47
+ps1 de um por cento no preço eu tenho um
+decréscimo de 2.47 por cento nas vendas
+agora quando ela é controlada esse
+efeito ssobre sobe para menos 3.64 por
+cento então seu estilo modelo sem
+considerar as variáveis é e controle de
+marketing analytics eu vou estar
+subestimando o efeito do preço na
+demanda bom com isso encerra parte 3 da
+aula e a gente vai dar continuidade na
+parte 4 onde eu apresenta um projeto
+prático real é que eu desenvolvi com
+outros pesquisadores sobre marketing
+analytics ok obrigado

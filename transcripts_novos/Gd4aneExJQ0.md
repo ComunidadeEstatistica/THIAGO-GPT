@@ -1,0 +1,462 @@
+# MC04 - Gráfico de linhas e agregação - Prof. Marcello Nascimento (Aprenda Tableau)
+
+- **URL:** https://www.youtube.com/watch?v=Gd4aneExJQ0
+- **ID:** Gd4aneExJQ0
+
+## Transcrição
+
+e aí
+salve salve galerinha tudo de boa espero
+que vocês estejam todos bem eu tô com
+uma cara de risada aqui porque eu gravei
+esse vídeo já agradeço episódio pode o
+microfone estava voltado para a gente
+tudo bem tudo bem tudo bem com vocês
+galera sou marcelo e dessa vez eu vou
+falar sobre o episódio 4 aqui para vocês
+que é a criação de gráfico de linhas ok
+furinhos é aquele gráfico lá que você
+pega uma data o funcionalismo o várias
+coisas de forma atemporal ok isso cores
+mais tarde enfim você analisa em uma
+série temporal para você utiliza o campo
+de data e você utilizar nessa que que
+você quer analisar tá existem outras
+coisas também para você fazer ali mas
+você vai explorando aos pouquinhos viu
+então desde já
+e deixa seu like fortalecer o rolê um
+partido esses vídeos e também com parte
+do canal e vou aprender tá bom galera ah
+não esqueça ativa o sininho para você
+receber as notificações então toda vez
+que o galho vídeo volte no canal você
+vai estar recebendo no seu celular seu
+computador sus positivo desde que você
+tenha você vai estar recebendo os vídeos
+de forma integral então já deixa aí o
+like deixo sim ativado aí para você
+ficar ligado no conteúdo e vamos logo te
+interessa né beleza vamos lá
+eu gostaria primeiro de deixar os meus
+contatos aqui tá então a tem meu
+trabalho tem que o que eu faço onde eu
+faço eu creio que a minha solicitação
+tem o meu e-mail whatsapp está demorando
+linkedin youtube para você deixar suas
+dúvidas caso você tenha e o meu
+portfolio jomar o ponto fmt no estábulo
+publique para que você possa explorar e
+em verificar as visualizações que eu já
+fiz e nem dá uma olhadinha lá o fogo
+isso não sou feio né enfim pessoas
+críticas estaremos canais e vamos mal
+não era esse vídeo também faz parte de
+uma playlist de da comunidade de prática
+do professor thiago max ok então o
+professor aí me deu oportunidade de
+estar fazendo esses vídeos aí e
+o e passando para a comunidade de
+estatística de forma gratuita ok então a
+seguir o professor thiago no nas redes
+sociais ainda brinquedinho dele chave
+está ativado e o youtube canal
+estatidados pregador da palavra de
+fisher liga aos como o verão 2009 mês e
+muitos outros estatísticos aí que
+fizeram muito história aí para gente ok
+então é xistem conteúdo legal regressão
+linear para o ford ar e fala os pin tá
+ruffalo de muita coisa bem interessante
+bem legal lá na comunidade do professor
+thiago mais então se inscreva no canal
+dele é também ative o sininho para você
+não perder os conteúdos bacanas que ele
+tem lá no canal dele e vamos que vamos
+ele agradeceu professor aí pelo convite
+né eu sou thiago aí que tem colaborado
+bastante com a comunidade aí no nosso
+país
+a beleza gráfico de linha que tem um
+gráfico de linha já expliquei mais cedo
+mais cedo né
+bom então eles são fundamentais para a
+gente representar gráfico numa evolução
+conforme determinado período então seja
+ele diário mensal anual ok então dá uma
+pausa aqui no vídeo rapidinho já volto
+aí pessoal voltei só para fazer uma
+verificação peço desculpas em então
+continua no gráfico de linha a gente
+pode usar para determinar a por
+categoria né a gente define uma métrica
+por meio de série temporal ou seja a
+gente vai estar analisando uma métrica
+por data se diário mensal anual por hora
+por semana o que você quiser analisar
+por um período ok
+o que é bom para você representar um
+dado em evolução e principalmente datas
+né e é bem mais adequado beleza para nós
+criarmos um gráfico de linha no cabelo
+aqui eu falo estranho não é que o
+candidato a farinha tá eu acabei
+confundindo os presos aqui mas não
+digitar certinho mas beleza eu vou
+explicar conforme na prática também
+vamos utilizar um campo de data em linha
+e um campo de no perão campo de data em
+coluna e um campo de métrica que você
+deseja analisar em linha ok então beleza
+a gente vamos lá a gente vai fazer isso
+na prática deixa eu limpar aqui ah tá
+bom beleza nós temos com quem nós temos
+data abertura como
+o campo principal de data por quê porque
+tem todas as datas de abertura de todas
+as reclamações falando indicações extra
+base de dados de reclamações do
+consumidor de 2014 essa básica
+disponibilizo em todos os vídeos para
+vocês no link e vai estar na descrição e
+se você não pegou como fazer a conexão à
+dados por favor assista o vídeo dois o
+tiro are they hugo todas as explicações
+de como você faz a conexão à dados
+explico um pouquinho dos campos o que
+que é o que eu vou falar agora aqui nós
+temos da cobertura como que o principal
+certo só que
+e aqui tem uma de mim sou nós teríamos
+que colocar esse campo de data como
+continuar a data é um elemento contínuo
+certo então você vai estar analisando
+durante o tempo inteiro você tiver de
+forma discreta ele pessoa mais só
+apresenta alguns valores o que pode
+distorcer a sua análises então beleza a
+gente vai jogar campo de data em coluna
+e nós percebemos aqui que ele está ainda
+azul com uma dimensão de forma discreta
+um clique com o botão direito em cima do
+campo e vamos transformar esse cara aí
+continu
+e olha apareceu 2014 legal só que nós
+vamos apresentar não a partir da data ok
+existe parte da data e data troncada
+para trancada você vai pegar as datas em
+si de forma completa a parte da data
+vocês não tem uma parte do braço não
+sabe que parte são duas funções
+diferentes não tá ok então nós vamos
+selecionar o que o esse segundo mês que
+a data tão cada maio de 2015
+em maio 2015 são exemplos que o pablo
+oferece tá de como ficaria a data na
+visualização beleza aí selecionamos esse
+esse cara aqui nesse de forma truncada e
+data continua tranquilo você vai fazer
+esse ajuste mas eu gostaria já de julgar
+nas colunas a mesma coisa só que já
+ajustada posso fazer posso sim claro dá
+uma limpada aqui a gente vai usar data
+abertura
+o haruma professor pedro vamos jogar
+aqui em colunas na data de abertura e
+pegar alguma métrica por exemplo total
+ou número de registros o que vocês vêm
+escolher em que é é o mesmo valor tá
+nesse caso para esta base e vamos jogar
+em linha lá saiu o gráfico vizinho olha
+que bonito fala igual professora olha
+bonito saiu masculino então a gente
+nesse caso estamos fazendo análise
+mensal de todas as reclamações dessa
+base pela data de abertura então por
+exemplo julho 2014 marcelo 6337
+reclamações ok marcelo mas eu senti
+falta dos pontinhos que tem nas
+extremidades das linhas ou ontem pico lá
+em 1
+a ficar um mês eu senti falta disso dá
+para fazer muito da frozen
+e nós vamos selecionar cor lembra das
+cores
+o vídeo 3 dessa vez de onde o ensino a
+criar gráfico de barras falou sobre
+classificação e paleta de cores show
+vamos usar cor
+ó e aqui nós vamos ter marcadores ok
+temos marcador de forma automática
+marcador de forma completa que é tudo ou
+seja vai mostrar tudo mesmo olha aqui ó
+já apareceu os marcadores aqui dei uma
+olhadinha e nenhum
+se você não quiser vou pular nenhum
+marcador de forma permanente nos olhos
+ação ok ou não deixa aqui os marcadores
+de tudo né então independência o casal o
+mouse ou não ele vai tá curtinho aqui
+botando dar corpo a mais bem mais
+completo que esse preto gasóleo não é
+pastel nós vamos pastel mas tudo bem
+beleza mas a gente gostaria também de
+fazer vários categoria sintoma que eu
+vou falar agora
+e vamos pensar que você tem alguma outra
+coisa que você queira analisar de forma
+acumulado dizendo várias partes por
+exemplo na faixa etária um grupo pode
+ser uma área posso assunto que você
+continue já por sexo também dá para
+analisar é bem legal então você vai
+fazer a seguinte forma pede aquele campo
+que você quer analisar de forma
+categórica o sucesso gestor forma grupo
+que você quiser pode ser continuou
+discreta e jogue em cor sabe na verdade
+posso continuar os créditos se ele for
+uma dimensão ok se você jogar uma medida
+a cor e vai analisar de forma degradê do
+maior para o menor menor maior uma
+divergência
+o ok então vamos fazer na prática
+e aí beleza aqui eu quero agora analisar
+vamos pegar a faixa etária das
+reclamações gente temos muitos campos
+aqui ó se você acabar que não achar
+nenhum existe uma luva que ou para
+localizar um campo ok eu nem cliquei já
+fui direto para palio
+e nós podemos clicar aqui e digitar o
+campo faixa etária é importante que você
+digite o campo de forma correta ou seja
+de forma bem pontuada por que se eu
+digitar e área e não aparecer nada certo
+não aquele campo não corresponde é isso
+então ele tem esse caso estávamos aqui
+isso é uma espécie de case-sensitive
+para sempre e aí não sobrando aqui que
+insistir a pesquisar no google também aí
+contei para seguir mas nós não dá uma
+pesquisada no google é bem simples bem
+fácil tá
+é mas ele pense case-sensitive de
+aceitar então se você não digitar de
+forma correta o nome do campo ele não
+apareça mesmo então vamos estar etária
+com acento agora aparece
+bom então vamos jogar vamos fechar aqui
+né
+e vamos levar facetada na cor olha lá
+apareceu um monte de mim agora você já
+estamos analisando mensalmente a
+quantidade de reclamações por faixa
+etária certo
+ah negão
+e aí beleza agora a gente tem uns
+números aqui a gente quiser colocar o
+rótulos para mim lembrei daquele vídeo
+três onde eu ensino a fazer análise por
+rótulo não
+nós vamos colocar os últimos aqui né
+mostrava óculos de máquinas ou análise
+mostrando altura de marcas e aqui
+aparece olha só que legal todos os
+valores possíveis beleza marcelo mas se
+eu tivesse um eu vou fazer isso na
+prática tirar a faixa etária e vou
+colocar assunto aqui tem até 84 membros
+tem 84 assuntos
+e olha só isso diria que feio dá para
+melhorar muito isso só a gente tem os
+rótulos aqui mas não dá pra ver todo
+mundo
+e se eu fizesse isso
+o que é permitir que os rótulos que
+sobrepõe os outros marcos de homem só
+todo mundo olha só aqui feia e a
+visualização é essa
+e não dá então o pablo ele oculta de
+forma automática então toda análise que
+você faça você o tamanho de pinta
+utilizar ele tem um algoritmo que ele
+tentou utilizar todas as análises
+possíveis que você faça mesmo que você
+não deseja que eu ele tenta fazer de uma
+forma bem utilizada conforme práticas
+visuais coisa que não fala muito muito
+mesmo modo um preso ainda eu faço alguma
+e eu fale alguma coisa sobre práticas
+visuais ok então beleza é isso eu vou
+tirar o assunto aqui vou voltar a área
+porco e olha só deixar o rótulo também
+que tá ficando meu filho tá tudo bem
+show tão aqui já com eles vamos para o
+próximo passo
+e agora nós temos um ponto importante
+que também serve não só para gráfico de
+linhas mas sim para todo e qualquer tipo
+de análise que você faça um pablo em
+beleza eu gostaria de saber quantos
+assuntos tem na base quanto os assuntos
+que tem aquelas a tela base de
+reclamações mas assunto ele é uma
+dimensão de um são não é uma medida
+o cristian não diz que não dá para fazer
+e aqui eu falo campos de texto né mas na
+verdade é você converter uma medida para
+uma dimensão provar medida e é sujo
+estão ser uma agregação aqui pra frente
+certo como eu faço
+e você vai pegar a dimensão que você
+quer segure e arraste para medidas
+oi e aí você usar agregação que você bem
+entender pode ser mera para o sininho
+máximo contagem ou contagem distinta se
+você tiver mesmo os nossos beleza vamos
+fazer na prática
+e eu vou limpar a planilha aqui certo a
+gente lembre-se essa faça uma caixa de
+ferramentas bem importante que você vai
+usar sempre no tabor tá você não viu
+sobre não entendeu a sobre essa parte de
+amei episódio número um onde eu falo
+todos os conceitos introdutórios de jogo
+do computador desktop ok vamos lá vamos
+pegar o assunto eu não sei quantos
+grupos ótimo sem queria contar e
+recontar todo mundo como é que eu faço é
+de esse cara que joga aqui em medidas a
+raça de admissão para medidas então modo
+ele já atribui automaticamente uma
+ligação que é a contagem distinta sabe
+você pode fazer por contagem mínimo ou
+máximo de votos 4
+e as quatro agregações e o pablo permite
+que você faça quando você usa uma
+dimensão certo não aguentou agora não
+sei quantos assunto tem aqui não é uma
+medida vou lá e jogo aqui ó 84 eu tenho
+34 assuntos beleza ah mas tem texto né
+vamos fazer barra mostre-me barra
+tu falou com rótulo olha que legal 84
+assuntos nós temos na base tá isso é
+legal para você fazer os famosos big
+number big number é um tipo de análise
+só que mostra apenas um número só que o
+número muito grande tá não pode comer
+muito grande então o número que vai ter
+muito enfoque ali naquele painel que
+você deseja tá então essa vamos voltar
+aqui fizemos a conversão né e depois
+disso exercícios para vocês a aqui eu
+deixo 3 exercícios só que hoje eu e não
+não ele resolvemos hoje eu vou deixar
+por conta para que vocês façam e
+qualquer dúvida que vocês tiverem como
+no youtube qual é o brinquedinho vai
+mandar o whats aí eu ajudo você resolver
+tranquilo beleza então o
+se você faça o gráfico de linha então é
+quantidade de reclamações por mês e
+também próximo então praticamente eu já
+dei a resposta é um pouco antes ali nos
+exercícios né então você vai fazer a
+quantidade por de e vai jogar o assunto
+né eu sou feio não é um exercício
+anunciado manda lá você consegue
+exercício dois você vai chorar para mim
+a quantidade de registro o horária e por
+mesmo então se você vai fazer uma
+análise de linha mensal
+o e colocando área como uma categoria e
+usando exercícios ou seja você vai
+utilizar a área na rua ok não deu
+spoiler jantando já consegue fazer dois
+nesses já fez óculos conseguiu e o
+terceiro eu quero que você faça o mesmo
+exercício desse desse segundo só que
+você ao invés de usar linhas vai usar
+barra então se você não viu o gráfico de
+barras episódio 3
+bom e você vai identificar para mim qual
+é o quarto maior meio daquela área que
+foi registrada a reclamação ok então
+como eu quero que o seguinte fique algo
+maior ou menor das pediu maior usa
+classificação e também fala o episódio 3
+beleza
+a e agora exercícios de nível um pouco
+mais forte for you
+é só exercício um pouco mais harmonioso
+iria passou fácil ok então vamos lá
+esses são desafios que eu gostaria que
+você fizesse o primeiro com a base de
+reclamações você vai fazer uma análise
+geral do número de reclamações mensais
+por estado e por assunto que você vai
+usar gráfico de linha para fazer esse
+esse exercício dúvidas calma aí que eu
+resolvo a dúvida não exercício segundo
+eu gostaria que você fizesse uma análise
+mensal da nota do consumidor ou seja
+você vai pegar esse campo de nota e
+transformar em campo discreto e fazer em
+barras para mim beleza
+oi e o terceiro você vai misturar o
+portal de reclamações por grupo problema
+eu vou explicar o campo do grupo
+problema na verdade longe ele está aqui
+grupo problema é esse campo aqui
+ah beleza ele já tá bem curtinho bem
+simples não precisar tô tentando falar e
+você vai pegar esse grupo problema e me
+responder qual o mês que teve mais
+reclamações por grupo problema mas você
+não vai fazer para o gráfico você vai
+fazer por tabela de texto mas você não
+explicou sobre tabela de texto é então
+da silva meu amigo explore o pablo o
+pablo ele tem uma série de recursos
+muito interessantes para você explorar a
+tabela é uma delas e muito simples muito
+simples ok então faça um para mim esses
+exercícios desafio eu gostaria como
+vocês qual foi o andamento balcão
+desempenho de vocês fazer esse exercício
+fio beleza e também faça os exercícios
+normais gráfico de linha aí também
+usando o barracão que esse exercício que
+também ao mesmo se tranquilo galera é
+isso essa essa foi
+a aula de hoje tá falando um pouco mais
+sobre gráfico de linha e quem tiver
+dúvida eu não me procure nos canais que
+estão só apresentando aí para vocês
+whatsapp e-mail linkedin youtube
+instagram que vocês vão desejar ok então
+além disso me siga no canal se inscreve
+nosso joinha no vídeo compartilhe e
+ative as notificações para você não
+ficar sem nenhum conteúdo na íntegra
+quando eu postar um vídeo novo beleza e
+novamente agradecer aí o professor
+thiago marques pela oportunidade de
+poder gravar esses vídeos e lançar na
+comunidade estatística do professor um
+canal está te dados de forma gratuita ou
+seja conhecimento de pablo para todos de
+forma gratuita conhecimento não custa
+o que não tem custo que aprender falar
+no canal do professor aproveito dá uma
+dá uma bem aqui no meu canal ver os
+vídeos de pablo é de graça é para você
+que está interessado em aprender
+conhecimento não tem cursos que ninguém
+tira de você beleza é isso galera ah não
+sai sai professor nas redes sociais já
+está no canal e faculdades no youtube
+beleza um forte abraço e até o próximo
+vídeo
+e fortalece o rolê

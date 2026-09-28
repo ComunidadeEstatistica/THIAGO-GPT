@@ -1,0 +1,238 @@
+# O que é BackPropagation, qual a sua origem e como implementar no R para otimização de Redes Neurais
+
+- **URL:** https://www.youtube.com/watch?v=pH8s_dwzBz0
+- **ID:** pH8s_dwzBz0
+
+## Transcrição
+
+olá pessoal hoje o convite do tiago a
+gente vai conversar supere o aparelho
+nós vamos entender o mecanismo tarde o
+treinamento das redes neurais
+às vezes elas são utilizadores são os
+jogadores que são considerados caixas
+pretas e isso não é verdade a gente vai
+entender como elas são treinadas hoje
+que é o que sempre surge background para
+entender o cálculo mas coisa bem básica
+entendeu que era invertida quem tiver
+descaminho quixotesca máximo eo que era
+de cadeira para calcular a derivativos
+em funções com costa está em termos de
+classificadores é interessante até o
+contato anterior com a agressão e então
+contar também com a otimização quem quer
+fazer de base
+se você quiser aprofundar no tema é como
+ele é querido aqui eu senti aplicações
+estou trabalhando nele há disponível
+neste link aqui se você quiser entrar em
+contato comigo via e-mail a cogitar a
+descrição do vídeo e está disponível
+também em ti do primeiro quebrou planeja
+um concerto histórico aí como ele surgiu
+em três casos contribuíram para isso de
+uma forma significativa assim o que ele
+fez é seminal o o brasil veio logo em
+seguida o terceiro em breve os drivers
+foi o cara que vai trazer essa vontade
+que a gente leva os animais que é
+acionar a área de cadeia mas o caso foi
+que primeiro resolver isso e não
+aconteça o que é interessante observar
+que ele pensa ter um veículo que está
+aqui a habitar num sistema e aqui eu
+tenho a minha terra te machucar em um só
+tempo dessas forças a gente oscilou eu
+consigo navegar sobre ele imprimiu assim
+aceleração otimizando por exemplo gás
+como o cheiro a energia que estou
+gastando se observar a situação do
+sistema para será o momento certo para
+fazer as coisas no momento certo e por
+exemplo poderia sair da tela e faz um
+espiral que até chegar em baixa de fato
+usados
+em navegação espacial é problema que se
+foi colocar toda uma população só ficava
+muito complexo e afetará diretamente o
+que ele fez foi dividido em várias
+equações seqüenciados e por isso consigo
+propostas as derrubadas parciais foram
+de peniche e eu consigo chegar à solução
+mais elegante com solução que é mais
+fácil de calcular a gente consegue
+simplificar isso muito bem como é que
+funciona na prática
+imaginar que a nossa reinar o técnico
+ela tem todas nós aqui cada um deles
+corresponde a 11 da manhã e 10 também a
+camada eles passam coisas que na segunda
+camada que passa o preço da terceira
+câmara que passa com os titulares da
+última camada suas amigas então
+classificado o clássico
+ele funciona só com mel tá a gente está
+acostumado a entrar em butiá kyoshi
+somente a primeira formação da ilha a
+funcionar hoje chega é um pornô me uma
+coisa segundo grau a gente entrega
+discutir aqui a coisa é um pouco
+diferente mas em transformações
+sucessivas disse dado
+então o jeito aqui é transformado e
+transformar a nova directora os menores
+de onde surgiu o desafio sebrae pb chu
+eu quero saber como tanto modificar as
+coisas desses alunos aqui de cada camada
+dessas para melhorar minha posição e eu
+quero saber se em relação à entrada para
+o serviço de relações públicas mais
+elementares e de um filme local não
+posso falar e se demite nem se
+independente nesse e conseguiu no final
+das contas chegar ao momento final deve
+poupar mesmo verdade é a seguinte idéia
+eu faço a predição e depois em relação
+ao que eu tenho como gabarito não tenho
+ele e eu trago de volta seria a iaa a
+mídia deve ser no entanto pra tomar 3
+863 transformadores dissidência senti
+alguns desses textos a funcionar na
+prática vamos porque está aplicando
+funções de maneira seqüencial aqui
+publicamente que acontece a camada 3
+aplicar funcionava a câmara 22 afi com a
+função já comandam a época maroca funcef
+na entrada o que eu quero aqui é uma
+grande baixa do euro em relação à
+entrada ou seja eu quero negativo do
+euro um todo que eu devo alterar os
+pesos na verdade uma negativa do em
+relação à minha
+basicamente é isso eu consigo fazer isso
+de uma maneira local
+eu consigo processar essa mulher com
+deficiência é esse conseguir como
+confessa isso por exemplo quer saber
+como é que o tempo varie aqui minha meu
+eu a função a dar em função do da minha
+entrada
+eu consigo me lembrar dela com isso
+consigo explicar a chamada pela outra
+que foi possível colocar uma das
+alternativas e eventualmente depois a
+multiplicar elas vão chegar ao garçom
+deixe sua cidade adotiva da última
+camada em relação à entrada
+tá então também acontecido isso definir
+uma norma em relação à a ashes como é o
+nome que diana
+eu defini a minha posição - a observar
+itu
+leve seu quadrado isso é a opção de x
+por que isso aqui vai ser definido
+vai ser dada pelo gabarito você falou
+fixo para cada lindo ea minha entrada
+vai ser em função de nos dado e do meu
+lado o xis aqui então dá pra resolver o
+que acontece a gente vai calcular
+privativo de gedaref na verdade várias
+funções encadeados méxico aqui ainda na
+cadeia mostra que essa negativa que g&amp;g
+linha bola f2 f3 colar esse termo de
+gekko f1 team de apps primeiro tempo
+sabendo que ela não acredita nisso aqui
+os números do tango só passa a ser duas
+vezes
+ele vai explicar a linha x porque isso
+não tem a ver com o nosso objetivo aqui
+que é virar somente x no livro na
+formação inicial mas acompanhar mas acho
+que deu para ter uma noção de como
+funciona a gente vai ter funções
+alinhadas a gente a popular que a a
+série negativa zona aérea de cadinho de
+cadeia e vamos chegar até um uma coisa
+final que é mais simples e calculado que
+você consegue paralisar a vantagem
+complementar isso aqui na prática a isso
+é o mark bolso o nome naja primeiro nó
+no nível desses para conferir mais
+cursos e do hernanes que se alternando
+biológico e aqui com as funções de
+petição a na verdade update nossos
+filhos em função das negativas que a
+gente calcula ir na mão
+então aqui os separou como eu vou prevê
+o cumprimento das teclas
+certas flores em relação ao comprimento
+ea largura das células e para os tablets
+são as células e homicídios o que tenho
+um empreendedor são as células metade é
+a meta lá adianta eu aplico oab general
+vai ser apresentar os dados mas às vezes
+precisam ser atualizados sente calculado
+elevada e até do peso no sentido de
+minimizar o povo tempo e estabilizem e
+comecem e em 113 o euro 2013 pequena e
+30 a gente faz isso aqui tá enrolado no
+texto em baixo e depois do tempo o nosso
+gabinete ele nada mais muda fica em
+torno de 50 mas não melhora tanto a
+nossa operação com a aabar 06 de menina
+de aproximadamente 04 36 ou menos na
+comparação com o que a gente está
+acertando em relação à média
+na média assentava continua acertando um
+relativamente bem aqui os a nossa
+general da organização também só pra
+ajudar a gente entender que a nossa rede
+neural a beber bem aqui a relação linear
+essas duas espécies são a higiene com
+essa troca mas tanto terceiros é se
+tratar aqui que o usuário publique
+diferente ela tem 87 diferente era um
+pouco mais inclinada enfim talvez votou
+por dia e funcione melhor mas não
+desconectada de outra maneira um
+treinamento de outra maneira
+e aqui meu que ponto a gente tem esse
+exemplo usou na liberty e as mesmas
+fontes os resultados
+estou usando percebe o chiller da mesma
+maneira só que de uma forma automática e
+testa várias tecnologias e usa esse
+processo de diferenciação automática de
+é causa negativas é possivelmente irá
+trazer o melhor pra gente enquanto onde
+eu tinha uma condenação de 06 e vai ser
+enquadrado aí aproximadamente 04
+a forma seriam menos as leds nas
+reflexões os anos
+em relação à ausência das metas da média
+isso aqui o o quadrado
+aí pra ele em relação ao ele chutar
+somente a média e esse sujeito tendo
+apenas aqui três mil onde as camadas
+internas é exatamente com a
+especificação do pacote
+você vai ter agradado nem superior 0 67
+coisa que é mais significativo que você
+pode tentar outras arquiteturas também é
+formas é o tipo de ativação para ter na
+rede para ter uma posição mais legal
+então nessa maneira de entender o que o
+pec paguei a gente tomou e decente que
+vai puxar os danos de em algum sentido
+ele vai puxar sistema de direção ao
+melhor caminho e no caso dela em geral a
+gente vai preparar as coisas com camadas
+que eles já tinham a o melhor deve ter
+ficado claro e aí se eu tenho uma dúvida
+vocês e quero mandar um alô galera um
+feedback baixar tudo gratuito na
+internet
+agradeço pelo convite estado falar aqui
+sobre depp para baixo
+a taxa

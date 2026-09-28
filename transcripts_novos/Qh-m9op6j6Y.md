@@ -1,0 +1,144 @@
+# Sorteio da Semana de estatística aplicada à IA e educação
+
+- **URL:** https://www.youtube.com/watch?v=Qh-m9op6j6Y
+- **ID:** Qh-m9op6j6Y
+
+## Transcrição
+
+E aí pessoal eu sou estagiário professor
+Thiago mas eu tô aqui tá fazer o sorteio
+da semana de estatística aplicada à
+educação uma a gente teve cinco dias né
+de
+além de palestras então aqui a gente tem
+cinco arquivos dissesse ver onde o
+pessoal os ouvintes tem cheiro durante o
+período da Floresta 1
+bom então importa aí eu usei o o o r pra
+para fazer esse tratamento né dos dados
+então basicamente aqui o importei odeia
+o nome das colunas tirei o ponto e o
+traço do CPF né onde a gente usou para a
+chave o único do usuário então cada um
+tem o seu E aí contabilizar né as
+frequências
+e aqui temos o levantei ué todas as
+a todos os dias né do da maratona da
+semana já fica é é mordido obrigados
+nele com meu CPF
+e juntei todas as colunas aí CPF né e
+criei uma tabela aí eu obtive a
+frequência é o denim ordem crescente
+o e transformei nessa essa tabela ainda
+tá fêmea e depois eu juntei todas as os
+dados né da da coluna com todos os dados
+né com a coluna com o da frente CPF
+saindo de casa né E aí eu obtive essa
+tabela aqui
+e esse aqui foram as pessoas que tiveram
+a frequência em todos os dias né
+ó e aqui foi gerado um número aleatório
+para cada um
+bom então sorteio vai em basicamente vou
+sortear 10 números né no caso seria um
+exemplo de seria o número total de
+pessoas com frequência 5
+Oi e aí eu só queria te chatear iis 10
+números
+e onde há a pessoa número um ter ganhado
+com o número um caso né teria ganhado a
+pessoa com o número 3 ficar em segundo
+lugar a pessoa número 4 ficar em quarto
+lugar trocou o número 5 ficar em que
+lugar né
+bom então vamos a sorrir Oficial São 34
+pessoas como vocês podem ver aqui no
+meio de um lá até 4
+E aí
+[Música]
+bom então Vamos atirar né
+a beleza é então a pessoa com número 5
+ficou em primeiro lugar eu estou com o
+número 13 foi segundo pessoa comer 24 o
+terceiro
+e a pessoa com número 33
+é um quarto pessoa com o número 6
+tribune quinto
+Olá eu sou o Grinch e conhecer cesto
+bom pessoal primeiro 18 ficou em 7º
+Olá pessoal compra 23
+e ficou em oitavo e
+e esse é o primeiro 31 ficou em Nola
+pessoa o número 3 ficou em décimo
+a sua primeira 12 ficou em 11º
+o jogo no 17 ficou em 12º eu sou o
+primeiro quarto você põe décimo terceiro
+eu estou indo com o número 20 e 65 14ª
+Esse é o primeiro 25 ficou 15º eu sou o
+primeiro 27 ficou em 16º e sou o número
+8 ou empréstimo sétimo eles são câmeras
+7 ficou em 18º
+e a pessoa com o número 28
+o Ivan 19º
+a pessoa o número 16 ficou em 20º pessoa
+com número dois ficou em 21º
+a pessoa que o número 32
+e ficou em 22º
+Olá eu sou a com o número 29 com em 23º
+o seu primeiro nove ficou em 24º
+o jogador 21 vigésimo 511 26º
+um número bem 27º
+o primeiro 30
+o vigésimo oitavo a
+a quinta 28º C
+o número 15
+o vigésimo nono a
+o número um
+o 30º
+o melhor 22 31º
+o número 14 30 segundo
+o número 19
+oi Calma aí
+E aí
+e são segundo
+o número 29
+E aí
+o meu 29
+E aí
+e ficou em 20º
+e a rua o número 29 ficou em 20º ano
+o terceiro
+o número 19 ficou
+E aí
+a obrigação de ser um
+Oi e aí o número
+E aí
+a 22ª no caso 33º e agora que Jesus no
+quarto vamos conferir se tá tudo certo
+agora
+a programar tabela 1
+e é ordenado menor maior
+Oi ok
+e vão conseguir agora
+os primeiros
+e o número 5 13243 2018 2331
+o 31217 4625 27872 1816 dois 3229 2130
+a 15
+o 12214 19
+em 1419 em Jequié 32
+[Música]
+um dois três uma olhada novamente
+o nosso maior confessional 12214 1934
+certinho agora
+o bom é isso pessoal então o João ficou
+em primeiro lugar Aline de Paula solte
+ficou em segundo ele da Camila de Araújo
+aulas aconteceram então Professor daqui
+é agora o professor vai vai divulgar os
+treinos né e com a quantidade de creme
+Então se tivesse 10 prêmios as da gente
+que as pessoas ganharam Vou salvar aqui
+esse é o resultado né e divulgar junto
+com a tabela para você rir Então é isso
+pessoal é até a próxima
+E aí

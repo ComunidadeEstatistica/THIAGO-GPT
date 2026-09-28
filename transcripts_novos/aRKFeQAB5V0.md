@@ -1,0 +1,1877 @@
+# Recepção e Networking - MBA BSBR DS e STAT com Python
+
+- **URL:** https://www.youtube.com/watch?v=aRKFeQAB5V0
+- **ID:** aRKFeQAB5V0
+
+## Transcrição
+
+e e e aí eu vou sair agora que já
+trabalhar consciência de dados
+o e avisou que tá gravando aqui ó
+entendeu E aí então e aí quando aparecer
+essa porcentagem do enviei né que sim eu
+gostei nada do que foi apresentado tão E
+aí eu vi que assim eu vou precisar de
+interessante né aí vamos ver né legal
+ele agora aí
+mestre Marcelo é amante do pai tá
+então é que assim quando eu fui
+trabalhar comecei a estudar esse assunto
+né eu acabei caindo pela do pai do
+Talvez assim você quem me programação
+talvez eu já ouvi até comentários isso
+daí 15 pela programação caindo paguem
+vem
+eu já falei isso para mim é isso mesmo
+você falou né é isso
+geralmente acontece isso tranquilo
+e vocês ouviu avião mas eu não consigo
+me ouvir que eu moro aqui do lado com
+você tranquilo a gente escuta só um
+pouquinho aqui problema não olhe Mas de
+boa cara da muito bem-vinda para o
+microfone desse ele você pode passar o
+avião aqui que ele não vai pegar E
+ai já é profissional né É sim ou não não
+mandei mandei mestre Moisés
+Opá Boa noite Renan também não Felipe já
+tá Fala aí Boa noite
+toda a comunidade está te dar também
+acho que sou da terceira turma entrei na
+terceira turma é um dos mais antigos aí
+né legal é eu sou formado em
+administração na E hoje há mais ou menos
+há quatro anos eu venho tentando uma
+mudança de carreira na transição de
+carreira 4 anos 4 anos é muito tempo é
+porque você não tava com uma pessoa
+certa né começou o curso
+em seis meses eu jurava tu nesse Moisés
+ele ia para o NBB de marketing analyst
+né porque ele trabalha muito com essa
+parte demais mas ele veio para o de paz
+até fiquei surpresa Fala aí um pouco
+mais de você escolher então quatro anos
+que eu
+me tornei um auto de data então passei a
+aprender algumas linguagens sozinho né
+Por exemplo você mora aonde Moisés eu
+moro em Fortaleza não acredito não aqui
+em Fortaleza aqui é essa
+pai vamos conversar
+aí é passei a minha prima a ação que eu
+passei aprender foi aquecer o bebé
+bom né então assim eu passei a fazer
+mesmo desenvolvendo Excel e se a gente
+ficar só internacional de morre e aí fui
+me desenvolvendo só que eu tinha sede de
+melhorar Então fui aprendendo próprias
+linguagens me apaga vai pegar um drogas
+mais pesadas né foi pegando mais droga
+mais pesada
+por exemplo cheguei no presente Moisés
+Agora não dá para a gente falar tudo seu
+correto toda não senão A Carola Aí tem
+que dar o Renan
+também eu sei que tem muita gente na
+transição junto aí eu tô aqui
+Ah
+não tranquilo você já muito bem jeito
+orando um grande prazer aí que eu vou
+conosco aqui também alienada comida aí
+boa noite aí Renan Carolina querem se
+apresentar aí para gente
+Oi
+boa noite tá um só o Renan Forest falta
+de Porto Alegre Rio Grande do Sul
+vergonha é
+muito Boy
+já foi só a Gramado 4 vezes tá muito
+legal lá eu gravei aí na puc-rs no outro
+dia em Porto Alegre né pertinho aí
+meu amor eu não moro muito longe não é
+Caxias do Sul que você falou é não é
+Porto Alegre a Porto Alegre isso aí eu
+sou natural de Bento Gonçalves na Serra
+Gaúcha do lado de Caxias do Sul bom eu
+sou engenheiro mecânico temessem
+mestrado engenharia mecânica e e também
+tem uma minuta que se ao treinamento
+então 17 anos e trabalha como Excel e
+programação é doidão que nem o Valdinei
+né é da turma do balde um pouco menos
+pouco menos você conhece conhece a
+parceria parceria
+ambiente de né E aí a gente está
+lançando um curso de
+História de Jacques céu viu você é um
+candidato natural para entrar no 900 e
+aí o que eu e o cor dela Claudine já
+votamos até no site a problema é que o
+baldinho tá sem tempo agora de tocante
+mas o Valdir vai poder não conseguia que
+você acha que ficou bom que vai vir vai
+vir Inteligência Artificial né que você
+é doidão cara já criamos o curso rapaz
+já tá lá no site dicas observa o
+problema agora que eu tô sem tempo de
+tocar mas dá uma rolada Renan dá uma
+olhada lá ver qual é a disciplina que
+você se interessa lá é eu fiz eu fiz uma
+live agora eu passo mais a parte onde
+Excel é mais a parte de engenharia É
+mesmo né eu recente de uma laje compra
+pessoa hora o Marcos não é Marcos dos
+Santos agora tô na Sandra ó
+É isso aí exatamente igual eu fiz a
+sobre soluções mestre soluções de
+equações transcendentais na Nextel para
+mostrar algumas coisas que tem no Excel
+e mais alguns CONSEG na semana é sempre
+a legal isso aí fazia quatro
+então é é o trabalho mais com essa parte
+aí de Engenharia e programação boa muito
+bom cara é amigo do LinkedIn né
+O que é eu tenho que olhar editar
+passagem de nunca Acho que sim boa
+boa noite Carolina se apresenta aí para
+gente Abre a Câmera aí para mim por
+favor tá
+oi oi
+pessoal boa noite é boa noite tudo bom
+Eu vou abrir a câmera dois segundos
+deixar fica tô saindo do trabalho que a
+gente eu entrei aqui ó na reunião no
+final do carro
+bastante tinha
+tudo bem Carol trabalhar na Riachuelo
+é isso não trabalha no comitê Olímpico
+que legal
+bom então eu sou formado em educação
+física trabalho já nessa parte de gestão
+esportiva há 11 anos e enfim tem alguns
+anos aqui estou tentando Você conhece o
+Pedro lá no Flamengo Pedro Menezes
+não na mão então na comunidade total na
+comunidade estatística não tá
+então o Pedro nem instalar também ele a
+coordenadora do Flamengo nesta parte de
+esporte de alto desempenho né
+Então galera ferro tem que estar com ele
+e outros profissionais também porque o
+meu orientador também esportistico
+também
+é bacana então eu trabalho na parte de
+gestão já há 11 anos
+pastor na verdade é que educação física
+foi muito pouco eu já me formei logo
+depois de trabalhar no colo e fiquei
+nessa área e depois ainda vem tentando
+aprender outras ferramentas para eu
+tinha dá ao trabalho vai chegar a tomada
+de decisão então comecei a trabalhar um
+pouco com pai então como todo mundo
+comecei Nextel melhor um pouquinho achei
+que não era os itens nada reconhecer um
+professor na FGV
+porque ele não tá nem mais no Brasil
+agora está na Áustria daí ele falou que
+era para eu chamar você tem garota de
+programa
+porque não dá para ficar trabalhando com
+esse
+dinheiro
+eu
+fui tentando
+a fazer aí a transição do Excel para o
+pai dormir tentando aprender um
+pouquinho mas assim eu vivo atropelada
+pela rotear do dia aqui aí tem que eu
+começo a estudar eu paro começo paro
+começo paro né até bem pouco tempo
+Thiago mandou a mensagem eu nem sei te
+responder eu te respondido mesmo não
+né porque não consigo enganar daí hoje
+eu vi lá no por acaso eu vi lá no grupo
+essa mensagem e tá aplicaram talvez
+assumi um compromisso comigo mesmo né de
+fazer um negócio tem cronograma que tem
+que talvez eu não consigo fazer até
+ouviram entendeu certo participar para
+ver se vai né e o Carol Olha eu sou
+professor José Bezerra mora aqui em
+Fortaleza
+e a gente faz um trabalho de mentoria de
+carreras tá isso vai ser um bônus
+Inclusive a gente vai marcar fazer uma
+aula extra só sobre mentoria de carreira
+se eu fosse cobrar fria r$ 5000 mas aí é
+um bônus agora é uma das coisas que eu
+gosto muito de trabalhar ela se tem a
+questão da motivação e se você não tiver
+motivação você não faz nada nada nem a
+primeira coisa tem que ter motivação e o
+segundo é iniciativa pronto só que são
+essas duas o resto vem por acréscimo
+achei que era olhar para o bonito né é
+Carol vem a motivação a gente tá fazendo
+aqui Carol uma enquete você só vai dizer
+sim ou não olha a enquete é o seguinte
+voz n tem menos de que
+e três fontes de renda você só vai dizer
+sim ou não Ou seja se você tem que ter
+no mínimo você tem que ter três fontes
+de renda se você tiver duas você tem
+menos se você tem três fontes de renda
+tudo bem eu quero saber você tem menos
+de três fontes de renda hoje é
+pronto É porque não sabe que no final
+vou dar um bônus aí
+então eu já falei quem já falou foi o
+Felipe aqui agora quem é que falta falar
+o Gustavo Então boa noite Gustavo Abre a
+Câmera aí por favor
+e o mestre sobre entrando aí também
+linda da bisa diz que o Brasil
+o Ricardo e Sérgio tá chegando aí também
+a cola inclusive
+Boa tarde pessoal bem pa
+o Gustavo tá você tá falando de onde
+rapaz eu tô aqui de São Paulo capital e
+aí é boa tarde aqui é boa noite mano
+Três minutinhos aí dá
+assim que você tava em outro país pô
+eu quero
+não tranquila o melhor né Gustavo vai eu
+tenho 27 anos é a dois anos sou formado
+em administração de empresas né e há
+dois anos aí que eu comecei a trabalhar
+mais com essa parte de análise de dados
+né então atualmente aí eu trabalho na
+parte de planejamento eu disse ex né de
+customer Experience do banco modal então
+diariamente assim o trabalho vai fazer o
+acompanhamento aí das filas de
+atendimento e fico com a parte dos
+relatórios de produtividade da operação
+e dos analistas né então eu tenho
+conhecimento o que você vai Bob ai mais
+básicos ainda né então eu tô iniciando
+enviei para me aprofundar cada vez mais
+essa área de análise de dados e
+futuramente tentar emigrando para a
+ciência de dados também ó entender um
+pouco é melhor você falou se ex Como é
+que é o nome isso se ex ele chama desse
+ex customer Experience Kinect
+experiência do cliente então nessa a
+gente faz todo o planejamento do
+dimensionamento da quantidade de
+funcionários que vai precisar para
+ganhar demanda dos clientes Não é
+basicamente essa real né da
+acompanhamento dos indicadores de
+produção dos analistas da hora para mim
+a pergunta você tem menos ajuda demais
+tem medo de renda sim ou não
+E como que é não entendi você por
+exemplo quantas fontes de renda tem eu
+só vou fazer a pergunta você tem menos
+de três pontos de renda se você tiver o
+seu salário fixo e mais duas outras
+contas você tem três
+tenho menos de três tenho duas quer
+saber pronto só isso o não vai ter um
+bolo Boa noite Sérgio Ricardo Josenildo
+nessa Sabrina se apresentar tão vindo
+agora
+agora é só estamos sim estamos assim eu
+tive que entrar com o pelo acesso pelo
+celular porque a câmera do notebook
+ontem queimar ruim não concessão não
+estou no sofá beleza
+um vai pegar no programação programa
+conversei com o tranco a Valquíria
+Pascal Delphi
+E aí por aí vai hoje eu tô em seu chá
+vai ficar a sequência já o seu guerreiro
+guerreiro de Esparta né é eu eu sou das
+antigas né E já programou em cobol ou a
+coisa que
+é muito Nutella né
+então é importante também
+tinha
+eu sou um eterno aprender o que
+considero mais perna aprendiz né é mora
+aonde eu moro em João Pessoa na Paraíba
+João Pessoa aí que tá cidade bonita vai
+morei morei 4 anos em Campina Grande no
+meu mestrado de dois anos do doutorado
+em Campina Grande eu e a mulher João
+Pessoa Campina Grande e já foi
+referência nacional no curso de
+computação né
+hoje ainda tá um pouco mais fraco é
+porque quando ele se há 25 anos depois a
+Universidade Federal do Ceará abriu o
+curso de Mestrado
+eu quando eu fui fazer meu curso de
+Mestrado em Campina Grande não existirá
+curso de Mestrado
+no nordeste só existe em Campina Grande
+sempre esteve na Vanguarda a Vanguarda
+não tô fazendo aqui uma estatística você
+tem menos de três fontes de renda a
+pagar é só sim ou não sim sim pronto eu
+vou passar a bola para outro depois a
+gente roda a roda né Tá certo ainda
+falta se apresentar aí a Sabrina
+evangélica e a Taiane
+oi oi pessoal analisar é o pavão
+seja muito bem-vinda por favor obrigada
+é bom pessoal é eu tenho trabalho na
+área de ciência de dados né E já
+estatística faz um tempo aí eu entrei
+nessa área para
+comecei a trabalhar quando eu comecei a
+estudar hidrometeorologia
+Desculpa então eu fiz meu doutorado na
+França morei sete anos lá e a ideia foi
+trabalhar com previsões de chuva de
+curto prazo de tempo né da França então
+foi começa nas estatísticas e tudo mais
+e depois eu voltei para o Brasil
+hoje sonho vida decente de vaca Energisa
+da minha empresa de geração e
+distribuição de energia E aí trabalho na
+parte de ciência de dados não só
+diastrática mais a parte de modelagem de
+imagem de classificação de séries
+temporais e tá muito melhor que um
+problema na cidade que você mora aí
+Rio de Janeiro Rio de Janeiro
+aí você tem menos de três pontos de
+renda sim ou não
+tu tem o que menos e Três Pontes de
+renda sim ou não
+ah ah
+não
+quer dizer que você tem no mínimo três
+Fontes
+eu posso considerando a minha família
+posso considerar não se você tivesse
+ganho de renda não é menos é assim é
+matemática se você tem três fosse
+derredor mais é a minha que a pergunta
+você tem menos de três se tiver três e
+fizer menos de três folhas você disse
+não eu só seu coração renda não é sim
+entendi no final tem um
+apresentar então devidamente a mestra
+Angélica né A professora de estatística
+de vocês né então ela é fera demais né
+inclusive ela ela é se apresentou
+humildemente aí minha mas é tem um
+currículo Mega extension né não ia dar
+nem tempo dela fazer uma palestra aqui
+né só que esse palavra melhor
+experiência dela né inclusive passada
+ela foi os dados natureza cognitiva aí
+né então é é uma tremenda profissional
+né então uma grande honra tela quando eu
+cheguei na bebida bsbr aí professor até
+assim quem se interessa por essa área é
+mais de Aço artística e o Além da
+energia eu faço desenvolvimento parceria
+com senar densa já diz Campos que a
+parceria com o INPI antes Todo mundo
+conhece e a sua conseguir comendo a
+matemática a gente tem algumas mais
+voltada a pesquisa né aí na parte das
+empresas melhor demais que também tem
+dois dias muito bons dela no status
+idade né depois que vocês quiserem dar
+uma olhada na playlist lá para incrível
+lá já está aqui
+nós já somos amigos no Linkedin ou não
+a nossa 11 eu vou mandar um convite você
+me autorizava mandar um convite de
+amizade viu
+[Risadas]
+amor pa Beleza então então vamos lá
+então vamos mais uma mulher aqui então é
+Sabrina mastroianni Carolina já fui eu
+né se apresentar aí
+Oi boa noite gente tudo bom Opa boa
+noite mas tem
+e olha a Sabrina
+fazer
+isso seu colaborador ainda vs Bené
+desejar para vocês aí é um excelente
+fase né para quem está iniciando esse
+ambiente que seja aí um salto na
+carreira de vocês profissional a bsb tem
+tem muito para contribuir para vocês
+acredito que vocês também como todos e
+muita contribuir também para cima envia
+então aí boa sorte sucesso para todos
+sabendo é psicóloga e ela tem de online
+também que todo mundo precisa de um
+psicólogo todo mundo todo mundo
+em qualquer ser humano esse código
+qualquer ser humano
+então precisando aí eu faço meu contato
+depois
+tchau tchau
+E então começa Taiane então
+oi oi gente vai procurar na nossa
+gerente geral aí viu
+a gente também está online colaboradora
+que já bfbr né boa noite para você manda
+muito feliz
+hahaha
+estou muito feliz com esse curso não é
+mais não enviei sucesso da BR uma
+pessoas aqui com alto nível nós conhece
+honesto e só
+nos relembra que quando a gente anda com
+pessoas desse nível nós não é levamos
+mais ainda o nosso nível né então eu
+desejo para vocês é um bom
+aproveitamento no banco seja Aproveita e
+no YouTube e os professores
+eu e a Sabrina Sato nós estaremos aqui
+sempre que vocês pesquisarem olha que
+você
+olha a Saiane além de ser muito
+competente e ela é surfista entendeu
+Você que está qualquer ela tá sempre à
+disposição eu nunca vi tanta Boa Vontade
+de limpeza como essa tendência boa
+vontade não essa thai a série e ela
+valoriza a vida ela gosta de a vida
+Light uma vida leve Ela é formada em
+enfermagem Mas o negócio dela
+compromisso dela com a felicidade eu Se
+você quer seu e se juntar uma pessoa
+feliz em junto e a Sabrina a Taiane e
+ela é uma pessoa leve a sempre pensando
+uma degrau acima da gente eu gosto muito
+da Thayane por isso é minha experiência
+festa você é uma boa inspiração
+inspirações motivação de perseverança né
+quando quer vá quase consegue Então até
+o chefe melhor quieto não sei né bom
+então espero que vocês aproveitem
+passear os a dizer o time todo está
+incrível eu desejo muito sucesso tá você
+qualquer coisa estou por aqui
+é
+foi esse agora o currículo encaixada
+dela eu também tô com saudades
+boa boa vamos lá então juiz Sérgio e o
+Zenilda
+e fica à vontade aí
+Oi Ricardo
+eu estava escutando Opa manda em Julho
+ela mexer escritório eu sou do Maranhão
+São Luís sou engenheiro químico mestre
+em Engenharia Química conhecendo agora
+doutorado e o meu objetivo nesse curso o
+que de fato eu acho que no daqui para
+frente a gente precisa muito desse
+conhecimento Além de que eu tô tentando
+associar o que eu vou aprender aqui com
+o meu projeto de doutorado sabe eu tenho
+um amigo aqui inclusive vai ser
+professor que é o Ícaro e ele trabalha
+na polícia você ler isso ele consegue
+associar ele consegue fazer modelagens é
+um dois três vamos conhecimento de
+ciência de dados com o equacionamento
+termodinâmicas tipo de coisa então o meu
+objetivo é de fato acadêmico sabe eu
+pretendo agregar esse conhecimento com
+que eu sei como que eu aprendi no
+mestrado e com que eu vou desenvolvendo
+doutorado também
+e a mulher responde a minha pergunta
+você tem menos de três fontes de renda
+sim ou não tem no
+final tem um bônus para quem está até o
+final mas só para que a gente tem na até
+o final Então vou perguntar se o Ricardo
+aí meu grande amigo Ricardo Mendonça se
+apresenta aí Ricardo
+a boa notícia boa noite Pedro
+Itapecerica
+da Serra você me
+conduzido na PSN gamers trabalhando 15
+anos do Banco do Nordeste Ai que legal
+eu sou carioca né eu falei da coca-cola
+são
+98 e 99
+82 em buraco no Ceará
+tempo já estava de quatro Piauí pelo
+Santos em Angola está a planta Já
+possui duas receber com nossa missão era
+sistema
+[Música]
+uma pessoa presidente do momento que
+está no Ceará
+e aqui com o tempo deslumbrados aspecto
+tá todo mundo
+hoje é hoje é o mercado de trabalho você
+tem muito que habilidade bom é eu
+comecei acho que
+comecei com a fêmea portão com qual RG
+dois três Subimos atitude
+de um Brando para
+hoje mercado nessa conduzindo
+três anos todos não tem uma é a peça
+didática é porque nós não conseguirmos
+melhor sistemas RPG
+sistema simpático que você não consegue
+você tentar você não tem informação
+então paciência de tá que você vai
+começar a ter essa noção da informação E
+se o segundo bota o pai Tom Maior também
+estou fazendo o curso de bike no curso
+legal básico e avançado Spike porque já
+tem empresas ela tem conversar muito
+executivo que se faz tão bem executivo
+expressão raiva
+porque onde está a chave só voz né então
+vai conferir uma ferramenta agora como
+eu moro
+e é o outro viário né pior e aí também
+você não pode você não não não vai não
+vai diferente
+não está informação de Estágios você
+tinha lá embaixo de uma informação ou
+seja temos três
+e avançado vai começar e agora como eu
+enviei Você só vai arranjar tempo né mas
+eu vou sair o mercado tá todos os Oi
+Pedrinho o mercado todo só perde esses
+três Unidos e mais ou menos essa 14
+questão seus tempo e saiu de
+recuperabilidade Valência ou recarga ele
+também né peça
+básica do parte do sistema deve ter óleo
+e o Ricardo me permitem uma parte é o
+seguinte eu quero dar um testemunho
+porque ele cargo foi meu chefe no Banco
+do Nordeste
+ele Esse cara é um dos cara mais
+inteligente que eu já conheci quando eu
+cheguei lá para trabalhar que eu
+terminei o meu curso de o banco fez um
+treinamento interno para ser programador
+de computador aí depois foram
+distribuídos foi distribuído
+e eu tive a sorte a perto da vida é o
+seguinte você tem que ter primeiro
+competência isso aí é condição sine qua
+non para o rapaz joga um pouquinho de
+sorte também ajuda né ajuda muito
+eu tive oportunidade de ir trabalhar com
+uma das mentes mais brilhantes do banco
+Nordeste apresenta Henrique Carvalho
+brilhante
+eu nunca sei brincar dele eu nunca eu
+nunca vi um cara tão inteligente como
+esse Ricardo eu aprendi muito com ele
+rapaz aprende muito você tem que ter
+humildade tem que ter humildade eu
+aprendi muito com o Ricardo o cara tem
+uma visão
+para um estrategista ele foi chegou até
+ser diretor de bancos aqui no Business
+Network tudo né foi ser direito de banco
+tu não Ricardo é um cara muito preparado
+então Ricardo É uma honra contar com
+você aqui é eu fico muito feliz de saber
+que você tá nesse meio aqui ter óleo
+para você crescer na vida para você
+prosperar você tem que ter um negócio
+chamado frequência
+Oi e a outra ambiência
+e se você tá na frequência errada você
+não vai você não muda de patamar você se
+engancho você fica parado eu digo para o
+pessoal momento eu estudo esse assunto
+há 28 anos
+e o outro é ambiente é o homem é produto
+do Meio isso aí é a maior realidade do
+mundo se você andar com galinha você vai
+ser Madame ou és o senhor da com as
+águias você vai cima das águas Ricardo
+Então hoje é só havia rápido então você
+tem menos de três fontes de renda sim ou
+não é eu sim até o Clodoaldo
+gnx3
+o próximo aí
+Josenildo falou que quer ser o próximo
+aqui manda aí josenilson
+e
+o alarme se o Deus que me segue lá nas
+redes vejo esse nome aí que é que na
+como né tô com você não é não é oi gente
+ter Josenildo ele sou Baiano moro em
+Vitória da Conquista né sou professor
+universitário de Formação eu sou tem
+levanta é atualmente sou professor da
+universidade estadual e se não
+epidemiologia é tô concluindo doutorado
+em epidemia e sentir necessidade muito
+grande e me aprofundar na estatística E
+aí através da Regina Faria e o bezerro
+aí insistindo que o religioso as colunas
+da igreja hidratação esse coordenadora
+gerou a coordenadora também aí eu tô
+fazendo
+para fazer essa parte aí também melhor
+que eu senti Oi
+e essa possibilidade de loeb e realmente
+eu aprendi estatística fica pedindo
+doutorar que você sabe né que demorou
+gente tem uma grade grande estatística
+mas tenho que eu aprendi a falar isso
+aqui não é o suficiente aqui nossa aí
+quando eu tive contato com Regina ela me
+apresentou essa possibilidade eu falando
+vou perder a oportunidade não de
+terminar o doutorado Já comecei e vou
+seguir nesse caminho aí perca o saber
+que na realidade sem aprofundar esses
+conhecimentos da estatística não vai
+para frente não apenas está replicando
+modelos e não tá sabendo interpretar
+dados e poder pensar
+vai dar certo pessoal 52 horas do dia
+deles Raquel lá também ela trabalha lá
+no Canadá ela faz 3 MB a s b quais de
+Marketing e da velocidade de um jeito
+Nossa
+isso ao mesmo tempo além do doutorado e
+essa máquina do tempo de vocês aí pô eu
+Josenildo ele entrou no NBA hidratação
+esse já eu já tinha começado mas mesmo
+assim ele não quer entrar aí eu digo a
+gente também tá agora a gente tá
+começando um novo quer na verdade é que
+você possa segunda turma só que a ênfase
+vai ser em paz então eu convidei para
+ele assistir falei ó também porque como
+ele Faltou as aulas iniciais do ambiente
+anterior então para ir lá agora vai ser
+Fantástico agora você também vai entrar
+na minha estatística você tá ouvindo de
+três fontes de renda sim ou não se tiver
+Três É sim eu aprendi Não é não
+eu até tinha mas vai depois do aumento
+do combustível ter que ter quatro
+entendeu hahaha
+o brigadeiro na verdade assim Atualmente
+como eu tô fazendo doutorado eu sou
+bolsista eu só tenho o bico Universidade
+recepção a esse essa renda mas quando eu
+não estava não é assim é sim é bom
+porque aí você vai por causa de ser o
+dinheiro aí para criar mais duas Vamos
+abrir hoje ainda hoje boa noite abrir
+aqui então para o professor grande
+Professor desde Braga que se apresentar
+aqui também seja muito rígido nesta
+Obrigado aí mais uma vez sempre parceria
+aí cara seja mais apresento aí para
+gente por favor Olá pessoal muito boa
+noite a todos amigos brigado Tiago posso
+te guarde que São José dos E aí É uma
+honra aqui com vocês né é eu trabalho né
+não é leite Braga trabalho atualmente é
+uma estratégia de dados né que sair do
+mesmo então eu cuido amiga estratégias
+da América Latin é mais asma com alguma
+é projeções Brasil nem
+prova de fluxo mais Global dentro desses
+planejamento disse para coleta de dados
+é soluções a cultura geralmente a gente
+tem muita necessidade de capacitação
+muita necessidade de criar a iniciativa
+válida para toda a gestão as estratégias
+de como ofertar melhores produtos para
+consertar melhores é muito biologias
+trazer abordagens Que dragão que
+entreguem valor para o negócio então
+dentro disso tudo é gente trabalha com
+muitas multinacionais é Grandes projetos
+top cases hoje a IBM toca que muitas
+vezes só que eles é tanto são magros
+aquela palavra muito buscada aí pelo
+mercado como também cases complexo de
+alta complexidade é abrir novos
+conceitos né o pendente pouco encher né
+conceito de 20 balde
+navegabilidade dentro deixando os homens
+tecnologia só falta e tendo em virtudes
+né que existem muito forte na casa por
+parte dos clientes conceito de dentro do
+centro de né seria reservado
+Centralizado para tomada de decisão
+assertividade em cima de números né os
+outros amigos comentaram aí é
+estatística muito forte para virar sacos
+para trazer valor
+arquitetura infraestrutura suportando
+navegação dado governança que a gente
+tem a conjunção né e a diretrizes de
+adequada sobre o complexo sobre a
+segurança sobre as regras de negócio
+produtos da região estrela vega bastante
+aqui dentro dos projetos né e também em
+outras áreas aí dentro das parcerias
+médico Thiago a gente tem que ficar
+gerando conteúdo em outras plataformas
+né é basicamente né prosperidade mais
+forte direita né mas tá vendo aí embaixo
+multiplicidade de possíveis é
+hoje eu tenho eu tenho visto muito do
+mercado relacionado à questão do Pai tô
+tão assim como o Homem Comum e hoje até
+gestores tem ali uma certa necessidade e
+o nível de conhecimento para poder né
+criar capacitar trazer ideias ali
+relacionados a este mundo hoje lá na
+vida dos meus do Analytics analista
+diversos né e segundo aí que traz toda a
+condição das empresas perderem nossos
+clientes a entender o comportamento do
+mercado que Deus conforta muito deixa
+escorrer que é super importante então
+respondeste geral o quarto hoje concordo
+pelo mente no pedido aí que ele tá se
+tornando a linha nova ferramenta é
+matriz ali da gente tentar articular
+soluções para começar a pensar e uma
+análise dedicado a resolução do problema
+de negócio é muitas vezes temos muitas
+pessoas estão afastadas eu recebo isso
+para todos os dias né Muito profissional
+algum profissional senhor pleno até
+mesmo com a capacidade de muito boa mas
+quando a gente olha para problemas de
+negócio é como essa tem algumas
+indicações Oi pai hoje vídeo como uma
+ferramenta de um pouco RNA pessoas
+artista mais ouvido de paz um pouco mais
+abrangente porque não sou amigo de
+alarme quando você pensa de você
+escrituras até o nível de soluções a de
+aplicações do quarto dela amamentar
+fantástica para aplicações web né pra
+PIS Então temos aí uma novidade muito
+grande instalada dentro do quarto e
+entender como o parto dedicado a gerente
+sofre dentro de cá vale a consumir né de
+processo analítico sobre a gente possa o
+relacionar para organizar jogos para
+amplificar esses estudos é muito
+importante boa sensacional mestre desde
+é dono de uma esfriada diz né uma
+comunidade incrível aí de engenharia
+cidades né inclusive é um cara aí que tá
+sempre colaborando muito né Sempre
+trazendo muito conteúdo gratuito para
+galera também então aconselho fortemente
+você seguir em ele também lá no Linkedin
+e nos projetos dele aí barulho de mágica
+Valeu gente e vai ser o professor de
+vocês de Big Data e Cloud né Pode
+conferir né seja bem-vindo mas me
+responda à pergunta você tem menos de
+três fontes de renda sim ou não
+e não
+o Zé só isso obrigado pode passar para a
+próxima
+oi boa bom aqui então tive aqui quem tá
+faltando
+é uma ideia foi Ricardo Renato
+Luiz Luiz Carlos já foi não estou
+lembrando agora o Renato Pereira já se
+apresentou já livro as colinas Então
+acho que o Renato Vianna né
+e o Tiago só rapidamente o enquete então
+o professor José Bezerra não não me
+perguntou a massa apresentei
+o meu menos de três é menos menos não é
+assim
+beleza não respondeu a minha
+alguém não respondeu não
+e
+vermelhas também é menos de três sim eu
+também menos de três Quem é Carlos Luiz
+Carlos eu também menos de três Moisés
+Moisés sim
+Oi Moisés sim até agora só tenho não
+Esse
+é o professor dele aí o professor
+observa também eu tenho Domingos Sete
+fontes de renda o mínimo né Assim fica
+todo mês eu recebo o rendimento de no
+mínimo 7 fotos de emo mas eu quero
+chegar a 10
+professor era assim Ou não
+precisa humilhar
+vaca é para motivar né É
+Tá bom então sejam todos muito bem
+vindos né Eu acho que essa essa NBA não
+é como por um as outras e me disse que a
+gente vem lançando aqui na vezes que o
+Brasil não é só eu já cortei duas nós
+foi um beijo data sense para ti fica com
+R né e a gente teve o mais e 40 alunos
+em um mês né pra aqui na bsbr foi bem
+legal a singu e a galera empresa vai
+mudar de tática também e a gente tá
+rodando esse curso tem sido
+muito muito legal esse experiência essa
+troca né E pode conhecer os alunos mais
+perto né Deve ser tem um grupo onde tem
+lá os professores Então não é dizimo de
+de tirar suas dúvidas casas tenho né
+então fique à vontade para
+falar né o que você quiser divulgar o
+seu trabalho também tá gente comenta
+muito Network né eu tanto eu como
+professor Bezerra a gente é muito the
+Network muito forte né ele tem mais de
+30 mil seguidores lá no Linkedin tem
+mais que eu
+ainda tem ainda falta muito para chegar
+no Professor Bezerra ele não entende
+então acho que isso vai isso é muito
+importante né porque networking cara foi
+o que me deu mais trabalho hoje em dia
+né É tudo é parte de professor né todas
+as aulas Inclusive eu conheci o
+professor Bezerra por meio do LinkedIn
+né então todos os meus trabalhos
+como docente foram pelo LinkedIn né
+então acho que hoje é uma das fontes
+principais não faça o seu portfólio
+deixa lá bonitinho porque os
+recrutadores vão olhar diretamente ali
+né E você tá com uniforme em dia ou não
+né os projetos e as nessa pegada a gente
+também traz aquele NBA que a gente não
+tem prova a gente só tem projeto né
+então vocês vão fazer projeto né
+Praticamente em todas as disciplinas
+quase né então E aí um
+portfólio bastante rico né para
+apresentar para os recrutadores do mais
+isso tem sido um grande diferencial né
+Assim eu vejo nos projetos lá da
+comunidade estatística na casa né
+pessoal tem se destacado muito com com
+esse com essa pegada de portfólio né the
+Network tudo mais eu acho que isso é
+muito valioso né a gente
+valoriza muito isso aqui na vezes tipo
+Brasil né então eu passo a palavra aí
+para o seu Bezerra que é o diretor aqui
+no Instituto mises Brasil por gentileza
+fica à vontade dele mas então deixa eu
+me apresentar a Primeiramente
+boa desejar boas-vindas a todos vocês e
+quero rapidamente de me apresentar né Eu
+sou na verdade um sou alagoano eu sou
+alagoano e moro aqui em Fortaleza há
+mais de três décadas
+mas eu vou contar a minha história
+rapidinha né A minha bisavó era judia
+então
+e é lá em casa né minha vó já não era
+mais o dia porque por causa da passou é
+obrigado a ser católico né Antigamente
+era assim que você tem duas opções
+ou você passa para ser católico Você vai
+para a fogueira
+Antigamente era assim né E então a minha
+mãe também herdou muito um pouco da
+cultura da ajudinha dos judeus então lá
+em casa a gente tem um pouco dessa
+cultura agora meu pai era caminhoneiro
+não teve a oportunidade de estudar
+porque é o meu avô faleceu e ele teve
+que começar a trabalhar logo antigamente
+as dificuldades ele não teve estudo lá
+meu pai era muito inteligente e o o Alto
+Astral lá em cima e ele dizia Oi meu
+filho Tudo Que Você Quiser conseguir
+você vai conseguir através do estudo ele
+dizer a meu pai sabia motivado e mais eu
+acho que eu aprendi com eles Olha tem
+duas coisas que o homem quer na vida né
+pelo menos assim né ele olha primeiro
+se casar com mulher bonita se tiver um
+bom emprego similares enfermeiro faz é
+segundo você vai ter um carrão na
+Mercedes é de que é mesmo papai terceiro
+só você vai poder viajar fazer tanto que
+você quer agora você tem que estudar é
+mesmo papai e é porque você não estuda é
+porque eu não tive condições Mas o meu
+pai me incentivou muito a estudar então
+eu podia ir sábado lá né Tá sair para
+brincar eu tinha 17 anos e o meu Vila
+fui brincar com meu amigo e o irmão dele
+tava lavando um Chevette eu disse de
+quem é esse carro ele é meu disse Você
+ganhou na loteria ficar mente que o
+negócio de bingo era bico de cama de
+carro né Não eu trabalho no Banco do
+Nordeste Aí eu disse o que é isso não é
+um negócio que empresta dinheiro aí é do
+governo federal é para desenvolvimento
+do Nordeste Se eu quero trabalhar logo
+que eu quero comprar eu quero trabalhar
+no Banco do Nordeste que eu quero
+comprar meu carro a ABL errinhos
+calendula em Palmeira dos Índios chamava
+de bezerrinho a bezerrinha passando
+concurso do Banco do Nordeste não é para
+bunda mole que eu não consigo não
+me chamou de bunda mole aí ele espera aí
+a minha eu fui criado numa auto estima
+lá elevada né meu pai se meu filho tem
+sido concedido por aí se você passou
+também eu passo aí foi meu primeiro
+mentor aí eu me diga logo o que é que eu
+tenho que fazer para passar no concurso
+do Banco do Nordeste que eu quero
+trabalhar no banco Nordeste a meu filho
+tem uma prova de datilografia o novo a
+prova de datilografia para
+50 por cento dos candidatos a pressão Aí
+quando meu pai chegou de viagem não sai
+correndo papai eu tenho que me inscrever
+no curso de datilografia que eu quero
+passar no concurso do Banco do Nordeste
+mas vou passar meu filho só tem uma
+coisa cara no mundo é ignorante
+E aí eu era um único aluno do Colégio
+Estadual Humberto Mendes que comprava
+todos os livros dia papai precisa
+comprar todos os livros meu filho claro
+é você não comprar os livros cara é você
+não tem esse lindo veja o nível de e
+Sapiência do meu pai
+aí eu fiz o curso de datilografia
+mas depois que terminou com os a papai
+eu preciso de uma máquina para praticar
+porque só o curso não aprende não é um
+negócio aqui você tem que treinar direto
+nas meu filho eu não tenho condições de
+comprar uma máquina mas tem a máquina
+não passa aí o negócio de Vale no mundo
+é chance né turco
+o networking vale mais do que dinheiro
+o meu pai passou uma pessoa muito rápido
+excelente reputação e bons amigos a em
+Palmeira dos Índios chegou num cara que
+conserta máquina e cortou a minha
+história ele fizer tem uma máquina aqui
+que o cara tem dois anos essa que ela
+nunca vem essa máquina eu vou emprestar
+essa máquina para lavar o seu filho aí
+ele me emprestou a máquina aí você já
+entrei na máquina então resumindo veio o
+concurso do Banco do Nordeste
+Aí sim aí que a matemática português aí
+eu mudei meu marido e sete eu sentava lá
+atrás no fundão né que geralmente o
+aluno de a senta lá atrás não quer saber
+de estudo não mas eu mudei o meu marido
+mistério ele disse não você tem que ser
+bom em matemática ele tem que ser banho
+Costa do desse tem que ter uma redação
+de 9 anos 50 linhas
+eu e ele só fez dizer tudo que eu tinha
+que fazer não tive nenhuma aula com
+ninguém esse daí tudo sozinho então veio
+concurso do Banco do Nordeste e eu
+passei na primeira tentativa estudei
+tudo sozinho estudar sozinha nem passei
+no concurso do Banco do Nordeste então
+eu sair da classe c passou a senhora
+assim eu dei um salto eu mudei a vida da
+minha família e a gente era assim era é
+o salário inicial de um Banco do
+Nordeste porque antigamente para você
+trabalhar 6 horas 10 salários mínimos
+Então hoje seria o que
+quanto é que tá o salário mínimo hoje em
+quanto é que tá o salário mínimo hoje
+e quem lembra de fogo pronto seria os 12
+mil reais um jovem do dia para a noite
+trabalhando r$ 2000 rapaz aí eu mandei
+aí peguei a minha família mudamos de
+casa tudo então aí eu que cheguei no
+banco Nordeste e Criciúma muito porque
+onde você trabalhar em qualquer empresa
+qualquer empresa que você trabalha lá
+Renan você tem que trabalhar como se a
+empresa fosse sua você tem que ter um
+espírito você tem que ter um espírito de
+de
+gratidão tem que trabalhar com dedicação
+que você cresce Então por conta disso eu
+fiz mestrado e doutorado financiado pelo
+Banco do Nordeste
+nenhum por cento dos colegas lá fizeram
+então eu fui liberado com o salário para
+fazer mestrado e doutorado então foram
+seis anos de dedicação exclusiva
+inclusive já tive um a sorte né na vida
+a gente tem que ter um pouquinho de som
+e eu disse para o meu orientador lá em
+Campina Grande
+diz óleo meu doutorado que eu fiz na
+engenharia o doutorado ou mestrado eu
+fiz no curso de ciência da computação
+e o doutorado eu fui na engenharia e ele
+disse bem assim e disse Professor dizer
+que a professor Misael queria concorrer
+lá para os Estados Unidos para fazer meu
+documento a tese de Mestrado
+devolver a você não consegue não mas eu
+posso tentar
+ficar pode tentar fui lá e você
+conseguir desenvolver a minha tese na
+University of Mary lá nos Estados Unidos
+durante dois anos agora lá ó eu começo
+que o meu orientador
+eles têm trabalhava de segunda a sábado
+de manhã dia dez alunos de Oriente dele
+orientando dia dois que ficava ia sabe
+de manhã de vai ser meu orientador fica
+aqui dia de sábado porque eu tenho que
+ficar também
+o tempo todo dia é Todo sábado eu
+chegava lá de manhã e ficava até
+meio-dia quando chegava meio-dia ele
+dizia Bezerra vamos embora eu digo Bora
+ou seja isso é Compromisso Isso é
+dedicação para você ter uma ideia a
+gente só colhe o que a gente planta não
+tem outra coisa não a gente só colhe o
+que a gente planta agora o homem é
+produto do meio e a frequência que você
+tá faz a Total diferença então chegaram
+lá os melhores equipamentos eu tô
+contando essa história é no sentido de
+motivar mesmo chegaram os melhores
+equipamentos e chegaram dois
+equipamentos tops aí ele pegou e ficou
+com um e deu um outro para mim que dez
+alunos aí a turma da Alemanha tinha dos
+Estados Unidos assim a minha ele
+perguntar por que foi que eu recebi o
+melhor equipamento é desse rapaz e
+pergunta o professor que eu não estou
+entendendo não eu não tô entendendo
+porque que ele botou esse melhor
+equipamento para mim não mas pergunta a
+ele vai lá e pergunta ou seja na verdade
+é na vida e olha o que a gente planta
+até então eu gosto muito de trabalhar né
+eu trabalho lavando uma grande
+Universidade era professora mais de uma
+década mas eu queria fazer um instituto
+que ele é um instituto que fosse
+diferente que o foco fosse com sucesso
+do aluno é inegociável nós já estamos a
+mais de 10 anos Olha eu já tive aluno a
+moça você vai dizer isso vai incentivar
+de Gurgel tem um engenheiro civil Perdeu
+o emprego Professor quiser eu não tenho
+condições de pagar não tá perto olha faz
+o curso aí se algum dia você tiver
+condições de pautar pagar você e volta
+apagar o curso mas não abandona o curso
+não que o mais importante é o
+conhecimento e depois ele deu um
+depoimento e eu vi tanto ajudar os
+alunos que a minha esposa disse que eu
+tenho um defeito que eu quero ajudar
+todo mundo mas eu nasci assim é a pessoa
+é o que a gente nasce eu gosto de querer
+ajudar as pessoas por conta disso eu
+ajudar para fazer currículo dos meus
+alunos eu tenho vi quem trabalha com
+pós-graduação eu eu fui cheguei na
+UNIFOR Universidade de Fortaleza disse
+eu quero criar o curso de Mestrado em
+formato que você vai Professor dizendo
+só tem três doutores como é que a gente
+vai criar um curso digo não mas eu quero
+eu fui lá e criei o curso de Mestrado em
+formato até esse espírito empreendedor e
+tem essa veia empreendedora criei o
+curso mas depois de dez anos que eu tava
+na uniforme eu digo eu quero criar o meu
+Instituto Não eu fui dar aula no
+Instituto curso de pós graduação
+aí eu comecei a conversar com o dono lá
+ele só para quando foi que tem que
+construir o seu escrito ou seja
+Network frequência aí ele se vê aí eu
+digo o rapazinho que eu quero criar o
+meu também eles Bezerra você tem todas
+as condições
+E aí eu queria o meu Instituto há mais
+de dez anos então a gente agora como a
+nossa pegada no sucesso do aluno rapaz é
+o seguinte você tem que querer que seu
+cliente tenha sucesso
+e o que esse seu cliente não tem sucesso
+você não tem se você fizer alguma coisa
+para alguém ir buscar no sucesso do seu
+cliente eu por conta disso apenas escute
+destacou e a gente era a melhor
+instituição do norte nordeste
+disparadamente aqui no curso de pós
+graduação Olha a gente tinha vai chegar
+botar 60 alunos de novo ambiente
+gerência de projetos na modalidade
+presencial e quantas outras faculdades
+grande universidade e botava 20 e 30 20
+e 15 alunos e a gente com 60 Mas por que
+isso por causa do professor dizia eu
+sempre fui focado no sucesso do aluno e
+apoiar e isso faz a diferença Então veio
+a pandemia
+Oi e a gente só era ofertava curso na
+modalidade presencial
+então eu passei o primeiro ano
+aprendendo tivemos que ofertará cursos
+na modalidade online desde que
+aproveitar já era ele aprende depois de
+um ano de espera aí rapaz esse negócio
+aí dá para dentro de carro aí
+Network amizade eu encontrei o professor
+Thiago o professor Thiago Marques e
+mandei uma mensagem para ele professor
+de águas que tal a gente lançar um curso
+em ciências ditados e estatística não
+sei que lá aí na hora e pisei Fico muito
+honrado com o convite aí professor
+Thiago alinhou comigo a gente tem o
+mesmo propósito que a gente trabalha
+qual for a posse não é por dinheiro eu
+gosto muito de dinheiro mesmo a gente
+tem que gostar de dinheiro muito agora
+primeiro tem que produzir você tem que
+não pode ser escasso então professor
+Thiago veio e nós somos o nosso curso de
+ciências de dados com ênfase em um
+sucesso total pelos maioria dos alunos
+São Paulo Rio Minas Gerais
+Brasília temos do tênis eu acho que é do
+Canadá dentro dos Estados Unidos
+aluno fazendo aí em seguida
+e ele me apresentou o professor Marcos
+Santos que é da comunidade de status aí
+o lançamos eu convidei o professor
+Marcos Santos criamos vender em pesquisa
+operacional
+e já tava jantando com o passar sentado
+já passou de idade dentro adaptação esse
+mas também é o seguinte a foto mesmo NBA
+do Brasil em ciências de pesquisar
+operação que não tem nenhuma instituição
+que ofertavam enquanto que dá para assar
+esse tem em todo canto né então por
+conta disso nós lançamos eu com o
+professor Thiago já lançando o NBA em
+marketing com a ênfase em ciências de
+dados que também não tem curso inédito e
+agora estamos começando do esse eu
+agradeço muito essa parceria com o
+professor Thiago Marques porque ninguém
+faz nada sozinho você tem que ser
+humilde você tem que ter abundante nada
+de escassez E agora Eu já conversei
+demais você já vi ele que Professor
+gosta de conversar né falo mais do que o
+homem da cobra mas eu vou dizer e vamos
+dar as boas-vindas também Professor
+Ícaro aí que a pessoa aí que não chegou
+cadê o professor Yuri
+Acabei de chegar aqui pessoal
+se apresenta aí dá presente aí por favor
+o pessoal obrigado aí pela oportunidade
+que o atraso estava dando uma aula aqui
+mas acabou
+bom pessoal eu vou dar o modo de
+aprendizado não supervisionado para
+vocês eu não sou da área de dados
+Originalmente eu me formei em Engenharia
+Química
+me formei aqui na Unicamp eu sou de
+Campinas interior do Estado de São Paulo
+só que eu resolvi mudar de carreira no
+em 2020 e eu era da área da qualidade né
+daí eu
+mudei de carreira hoje eu sou sentir-se
+dados Sênior numa empresa do Rio de
+Janeiro chama radix e
+gosto muito de dar aula e tô aqui o
+professor Bezerra e o Tiago me
+encontraram e eu acho que o propósito
+ali o não é para você sair aí me
+convidar eu acertei com muita Honra para
+para ministrar o módulo para vocês aí
+tem uma depressão e que ele tem ajudar
+esse que inteira né impressionante
+também a
+ele cara ele consegue misturar os
+assuntos de sinceridade com física com
+química cara é muito louco assim nossa
+as coisas que ele fez lá no site das na
+polícia de distância de 10 aplicada à
+Engenharia Química cara Até Deus Duvida
+o negócio ali é bizarro cara é bom
+demais ligada
+e não grande prazer tê-lo conosco aí
+cara O prazer é todo meu aí bom então só
+uma breve apresentação aí também né PSOL
+tem não conhece meu trabalho né então
+meu nome é Thiago né eu vou estar
+coordenando aqui junto profissão dizer
+né então qualquer coisa qualquer
+problema que vocês tiverem né Então
+manda para o professor bezerro para mim
+esse Taiane tá que eu não vou atender
+não tô brincando pode mandar para mim
+também
+é
+bom eu sou estatístico na pela Federal
+do IBGE a esse aqui no Rio de Janeiro -
+Lapa Então aprendi estatística jogando
+sinuca lá na Lapa né lá na Lapa tem
+muitos bares e tudo mais né
+E aí é eu já já trabalhei tanto no
+mercado público quanto privado né Já
+trabalhei no brasileiro geografia
+estatística atualmente sou consultor lá
+também esse ano vai acabar o
+tatame e tomando um tempo que eu gosto
+eu gosto de consultoria mas eu gosto
+mais de docência né então eu quero me
+dedicar mais à docência né E aí esse ano
+vai vai terminar lá o IBGE consultoria
+um já já trabalhei também no Brasil
+economia na Yu hai né uma multinacional
+em Advanced Analytics Claro de
+consultoria auditoria também né então eu
+pude vivenciar tanto a parte pública
+quanto privada na então isso me
+enriqueceu bastante na Os queijos ficam
+trago para as minhas aulas tudo mais né
+E tu tô sempre na Geisa
+grande parte aqui está lá na comunidade
+também né e e é sempre um prazer
+recebê-los aqui na SBR né a gente teve
+por exemplo MB lá de datações com R
+vieram trinta por cento de alunos lá da
+comunidade né então acho que são Reflex
+de um trabalho que vem dando certo né
+como em
+2017 mais ou menos a lá o canal do
+YouTube por exemplo na Janeiro 2017 né e
+antes disso eu já fazia consultoria e
+dava aula também particular e tudo mais
+então eu também tenho um pouco nessa
+pegada de empreendedorismo e tudo mais a
+gente mas isso é um problema sério
+porque eu vou criando vários projetos e
+eu quero que eu quero fazer projetos
+educacionais né que
+projetos que deem certo então é pior
+ainda né
+dá um trabalho danado né pessoal que tá
+na comunidade sabe que a dedicação
+diária lá né o negócio é realmente
+coloca ali na o coração ali né a gente
+tá sempre à disposição do aluno né então
+é as banda mensagem a hora que desejar
+lá no WhatsApp tudo mais mais eu vou
+responder né a medida da do possível né
+com conforme os alunos Falam até que
+rápido né mas enfim é é mas a responder
+responda todo mundo né Um dia eu vou
+responder
+é bom então acho que basicamente é isso
+naquele agradecer mais uma vez aqui é o
+professor Bezerra né que aceitou Nessa
+Loucura aqui também a gente Lady porque
+assim adoece BR ela já tinha nessa forma
+todo esse do mais mas era presencial né
+então eu acho que eu a gente fez parte
+né dessa expansão para online também né
+Eu acho que tá tem dado muito certo né
+que tudo mais e acho que é essa essa
+parceria tem
+vai vai vai dar certo cada vez mais né
+porque a gente se preocupa de fato com
+os alunos né então tanto eu quanto para
+o seu bezerro a gente está ali sempre
+responde os alunos mais então acho que
+isso é é um diferencial né porque por
+exemplo não é vamos supor como é que
+você faça um NBA por exemplo o mega
+renomado estudo mais pô você vai ter ali
+1.500 alunos né dentro de um curso como
+é que você vai ter o atendimento
+necessário para mim 500 alunos na
+personalizado do jeito que a gente faz
+aqui não tem como né então é isso é um
+diferencial muito grande nossa né só
+proximidade esse Network Eu acho que
+isso realmente né É difícil de achar e
+fora em mesmo das Universidades mais
+renomadas do mais na aqui você vai ter
+os melhores professores você vê aí pô
+professora Angélica postou David
+Professor Ítalo né são férias demais né
+são nível de
+10mb Eis que vocês conhecem que são
+renováveis e tudo mais né e com custo
+benefício muito menor né no caso um
+custo menor e o benefício maior ainda né
+então eu acho que esse custo benefício e
+você não vai encontrar em lugar nenhum
+né então e é isso né dar as boas-vindas
+aí para vocês eu tô eu tô curioso Aí
+para saber essa Qual é a dessa internet
+aí do professor Bezerra aí agora eu
+pergunto a minha resposta é não também
+que eu vou criar mensagem querem saber
+como é que eu aprendi isso na cultura
+judia né como é que vocês têm que fazer
+ainda hoje para conseguir pelo menos nós
+duas fontes de renda quem quer levanta a
+mão assim para saber se se as pessoas
+querem saber
+e olha aí rapaz todo mundo quer então
+com então eu vou dizer você é o signo é
+bom que já tem o psicólogo ali né É
+coisa se tiver trabalho demais dá um da
+vida não é hoje planaltos da vida ela já
+tem a Sabrina ali para ajudar
+na cultura judia o dinheiro É
+valorizado e lá é o seguinte ele
+salienta que vocês não Judeus tem que
+ter no mínimo três pontos de renda
+Porque quem tem aquele diz o seguinte
+tem tem três em duas quem pensa em duas
+tem uma agora você ter só uma foto de
+renda é um risco altamente perigoso esse
+esse tá na corda bamba você pode é a não
+ser quando o cara é aquele funcionário
+público que tem estabilidade aí esse
+foge dessa mas se você é um CLT se você
+só tem uma fonte de renda você está na
+corda bamba tão que é que você tem que
+fazer é de Paris hoje Qualquer pessoa
+pode ter uma fonte de renda a isso eu
+vou dizer um agora que você já pode sair
+daqui já pode começar é o seguinte
+e eu olho ateu muitas possibilidades Mas
+eu só vou dar duas hoje um é o seguinte
+existe hoje o Marco digital tá muito
+forte então é o seguinte você não
+precisa produzir nada mas tem uma
+plataforma chamada hotmart
+sem Entra lá aí você entra lá e você vai
+ver os cursos que estão sendo mais
+vendidos
+mas vendido não você vai ser agora uma
+filiado daqueles curso Então tem curso
+que ele paga assim 30 40 50 por cento do
+valor do curso Então no seu pouco tem
+consular vou fazer uma conta de mil
+reais e eles pagam chega assim curso que
+paga cinquenta por cento se você tem na
+sua rede de amigos você pega aquele
+código lá e manda para os amigo ora veja
+esse curso aqui
+E se o cara comprar se o cara comprar
+você já ganhou cinquenta por cento no
+mínimo isso é um Ou seja eu só quero
+mostrar que existe ing possibilidade de
+você tem outras fotos de renda
+outra outra fonte de renda Olha você
+qualquer pessoa sempre tem alguém abaixo
+de você
+sempre eu vou eu sei que tem muita gente
+acima de mim tem muita gente que está no
+mesmo nível e tem muita gente que tá
+abaixo de mim então você pode chegar e
+dizer olha eu
+sou mentol Qual é a sua dificuldade
+claro sempre vai aparecer alguém que
+quer uma ajuda que você pode resolver
+então você pode ou você pode ser
+consultor ou você pode ser mentou mas
+agora é o seguinte você tem que falar
+isso para as pessoas sabe qual é o
+grande problema das pessoas é que que a
+pessoa não fala não de o que você é
+possível fazer então eu presente por
+conta de eu ajudar todos os meus alunos
+eu escrevi Três livros que é como você
+tem um correto magnético como você tem
+um LinkedIn magnético que eu LinkedIn
+Olha eu digo para vocês
+nossos cursos até hoje são de maneira
+orgânica eu estou deixando muito
+dinheiro na mesa porque eu não estou
+usando ainda o marketing digital para
+mais todos os nossos curso agora eu é
+porque primeiro você tem que aprender no
+orgânico quando você aprender no
+orgânico o Orlando que você já é que
+você não gasta dinheiro para vir vulgar
+mas o regra eu sei que eu tô deixando
+muito nele na mesa mas eu vou procurar
+uma pessoa para me ajudar
+no marketing digital que hoje é uma
+ferramenta fantástica que você ganhar
+dinheiro então hoje através do marketing
+digital hora você tem o Google se você
+simplesmente você pode criar um canal no
+YouTube se tiver ué em ações você pode
+ganhar dinheiro você tem muitas
+possibilidades então
+ganhar dinheiro fazer dinheiro é a coisa
+mais fácil do mundo agora você tem que
+mudar a frequência
+você tem que mudar ambiência e isso faz
+a Total diferença isso faz a Total
+diferença quando você muda a frequência
+quando você muda ambiência no meu
+trabalho de mentoria que eu virei mentor
+por acaso e tanto ajudar os meus alunos
+aí depois do meu filho tem engenheiro da
+computação
+Oi e ele eles papai eu vejo que o senhor
+aumentou Porque que só não vira menos o
+digo mais não para reparar alguém de
+fora tem que às vezes você precisa de
+alguém de fora foi meu filho que Deus
+está foi meu filho que Deus está aí eu
+disse Mas Felipe eu já faço esse
+trabalho só que Professor tem um
+problema professor
+ele tem problema de ganhar dinheiro o
+professor ele seguinte ele quer fazer
+tudo de graça para os alunos e por mundo
+inteiro Professor quer fazer tudo de
+graça meu amigo a gente tem que dar de
+graça quando você tá naquela hora mas
+depois a parte da Linha Consultoria
+mentoria eu chamo de mentoria eu que
+fazia tudo de graça eu passei agora você
+me mandou de carreira mental de carreira
+e e eu fiquei impressionado com os
+resultados que eu consegui e é pessoas
+que tava ganhando r$ 4000 que passou a
+ganhar 12 mil reais na mesma empresa
+eu eu fiz um curso de mentoria para me
+tornar mentor mentor de carreira e hoje
+eu nos últimos três anos eu venho
+trabalhando como mentoria e após dar
+muito dinheiro para você ter uma ideia
+minhas mentoria eu tenho mentoria de 50
+mil reais eu tenho uma mentoria de 10
+mil reais e uma mentoria de quatro mil
+reaes ou menos que eu cobro para dar uma
+mentoria r$ 4000
+o que custa quanto lá de quatro mil
+reais são cinco encontros pela internet
+eu não atendo mais gente porque porque
+não tenho espaço porque o teu sou uma
+pessoa muito ocupada tenho muitas coisas
+para fazer
+é mas qualquer pessoa pode ajudar outra
+pessoa só que agora você tem que dizer
+você tem que mudar o mais esperto que
+saber que
+aquilo que você tá fazendo de graça você
+tá deixando de botar o dinheiro na sua
+mesa eu aprendi isso nesse curso que eu
+fiz de mentoria de sódio para imagina o
+seguinte para você ter coragem de cobrar
+Joyce eu não cobrar isso pode faltar
+dinheiro na minha mesa mas é a melhor
+coisa do mundo Ou seja existe ele
+possibilidade qualquer professor pode
+criar um curso um curso e vender na mão
+da era o curso gravado para vender na
+modalidade de gravado Enfim pode
+escrever livros eu tenho livros meus
+livros que eu boto na Amazon para vender
+bota meus vídeos no hotmart para vender
+então é evento dentro dos meus livros
+sem simplesmente nem eu é uma renda
+passiva que você nem precisa falar para
+ganhar Então existe ele possibilitar e
+você ter de E então é só no sentido que
+a gente quer nesse ambiente Ei até o
+final a gente criar mentoria para você
+se tornar um mentor para você fazer um
+consultor ou em criar Startup juntando
+as ideias porque quando eu tenho existe
+um conceito chamado the mastermind Quem
+criou isso esse conceito de mastermind
+foi Napoleão Rio Eu tenho um livro A Lei
+do Triunfo de Napoleão eu que eu li esse
+livro há 28 anos atrás e ele nesse livro
+tem 15 Lei do Triunfo ele tem 16 edições
+a primeira lição é o macho é mais isso O
+que a gente está fazendo aqui hoje a
+noite é um chama-se mas tu é mais é
+quando duas horas até na Bíblia me a
+gente agora tudo bem da Bíblia quando
+duas ou pessoas estão Reunidas Reunidas
+eu estarei no meu de luz Esse é um
+conceito de matemática é só você
+conversar com as pessoas que surgem as
+ideias surgem as ideias então bom então
+esse é o objetivo é é por isso que a
+gente faz diferente a gente tem aqui
+esse curso seja diferente não e não tem
+nenhum curso no Brasil igual a isso não
+tem o primeiro pela qualidade dos
+professores que são top da galáxia são
+os melhores do Brasil segundo essa
+ambiência que a gente cria esse Network
+esse trabalho de mentoria como eu disse
+eu vou dar uma mentoria coletiva de r$
+5000 grátis é bom no você é bônus que eu
+vou aí vai marcar o outro dia que aí eu
+vou trabalhar passo a passo que é que
+você tem que fazer para você
+se dar bem e às vezes o que você quiser
+mudar a frequência porque todo ser
+humano
+ele ele ele é eu tô lido por viés
+cognitivo dos medos e esses medos e o
+rapidamente que eu já estou abusando a
+boa vontade de vocês mas eu vou dizer
+quais são esses medos que a gente
+precisa saber e eu vi assim ele no livro
+Napoleão rio que é o seguinte o primeiro
+mesmo que a gente tem são seis meses é o
+medo da pobreza por coincidência é o
+medo que mais travam as pessoas as
+pessoas ficam sem coragem de agir por
+causa do medo da pobreza
+Aí eu vou até dizer de onde vem esses
+mesmos
+setenta por cento desses medos vem dos
+Pais o incrível que pareça são os nossos
+pais que colocam as nossas limitações as
+nossas trava Uma Criança com 8 anos já
+ouviu
+50.000 não não não faça isso não faça
+aquilo aí depois onde é que vem os
+outros meses e vem a escola a escola
+bota velha é responsável por vinte por
+cento nem das nossas limitações
+aí o ensino religioso
+se encarrega dos 10 por cento ou seja e
+é aí De onde vêm os nossos medos Então
+os nossos medos são primeiro medo da
+pobreza o segundo medo é a gente tem o
+medo eu não vou dizer na ordem expressa
+mas vou falar os seis aí tem um segundo
+medo é o medo da crítica por causa disso
+a gente não faz nada não ó eu não tenho
+coragem de escrever um artigo no
+Linkedin não eu não tenho coragem de
+fazer um porque o meu amiguinho pode me
+criticar o meu amigo pode me criticar
+ah fulano de tal pode não gostar é o
+segundo feito é melhor do que perfeito
+então não tenha medo da crise que a
+gente tem que errar muito quanto mais a
+gente erra mais a gente para prêmio e a
+gente só aprende Oi Kel a gente só
+aprende fazendo ele é o segundo mês do
+aumento da crítica é isso é o pior
+paralisam as pessoas as pessoas não
+fazem nada porque não tem medo aí o
+terceiro medo ó terceiro medo é de
+perder a saúde a gente tem medo de
+perder a saúde só mas só que a grande
+maioria e nada para não pensar o mesmo o
+quarto e esse é o medo mais importante é
+o medo de perder o amor da sua vida
+aí tem o quinto o quinto é o medo da
+velhinha todo mundo tem medo de
+envelhecer mas não faz nada por onde no
+só para se preparar e o último medo é o
+medo da morte São eu vou explorar Ainda
+mais nessa mentoria que o que eu vou dar
+coletiva A gente vai trabalhar tudo isso
+que é para gente destravar porque às
+vezes a pessoa tá só travada às vezes é
+só a frequência que ela tá ela tá na
+frequência é real errada às vezes em
+ambiência pode olhar os gurus sempre
+disse que você é a média dos seus 5
+melhores amigos então se você quer subir
+para um degrau você tem que ter alguém
+que estejam de gravíssima se você está
+numa mesa onde você é o melhor você tá
+na mesa errado ok então esse foi o meu e
+esse é o nosso propósito o meu do que eu
+sou Thiago que a gente quer é ajudar
+vocês
+e quem depois quiser é um Chiquinho e
+procura tomar banho entrou uma pessoa
+recentemente quem foi que entrou aí que
+Ah e ainda não se apresentou é o vídeo
+já que só entrou e saiu acho ouvir se
+apresentou o Vinícius Vinícius aqueles
+entrou agora não foi Vinícius o já agora
+entrado mais saiu Manda aí Vinícius se
+apresenta aí para gente quando você mora
+essa Vinícius 26 anos Sou formada em
+área de tem como reclamação
+e é tá com defeito tá certo porque quem
+não é Providência a próximo que quem não
+é visto não é lembrado Já pensou
+encontrar Vista na rua eu vou saber quem
+conta da professora Angélica vou saber e
+vou lembrar da professora Angélica
+eu moro em São Paulo quem mais precisa
+Onde você trabalha ou é sua graduação eu
+sou formado em engenharia de controle e
+automação
+comecei uma outra faculdade de análise e
+desenvolvimento de sistemas hoje tô
+trabalhando do banco Carrefour na área
+de dados
+excelente vão Você tá no ambiente
+correto que que eu tava falando Vinícius
+o segredo do sucesso é a ambiência tem
+até um livro que quem enganou esse livro
+compra esse livro Leia que é
+é é
+de ele diz o seguinte Como Fazer Amigos
+e Influenciar Pessoas Rapaz aquele livro
+é muito Poderoso
+Ele livro quee assim já viu falar desse
+livro quem já vi falar desse livro Tem
+mais ainda não olhei não tem um cara que
+até há dois anos atrás eu foi um ano
+atrás de Hollywood gravou um filme que
+tem um nos Estados e para ele meus Ele
+leu esse livro na cadeia e a partir daí
+ele começou a dominar a mente das
+pessoas
+esse livro é fantástico tem um código
+Tudo tem um código é o código da
+sabedoria a Bíblia tem muito código e
+sabedoria para gente se você quer ficar
+rico você tem obrigação de
+Salomão em provérbios ali é o código da
+riqueza tá na Bíblia
+Então minha gente eu queria saber se
+alguém tem mais Néia Tiago se tem alguma
+mais alguma pergunta eu fazer aí essa
+quem tem qualquer tipo de pergunta agora
+fazendo Sérgio Sérgio Ricardo tejo água
+é que eu só falei que eu tinha
+trabalhado com aquelas linguagem Oi Pré
+adâmicas né o bom fortram e eu tenho 54
+anos eu devo estar aí fora da idade
+padrão dos alunos eu sou o auditor
+fiscal do Estado da Paraíba já faz 20 e
+28 anos legal aí Tem a formação
+acadêmica em ciências contábeis
+em Belém PA
+Oi livre em informática
+a e agora nesse o último fiz um Eu Fui
+aprovado para o curso de ciência de
+dados
+para negócio aqui na voz PB excelente
+mas em segunda a
+segunda propaganda do curso é o primeiro
+curso de ciência de dados voltados para
+negócios
+em nível de graduação né então eu voa
+entrar também né se
+É nesse estágio
+Sérgio estou apaixonado estou apaixonado
+por dados desde ela muito tempo para
+ficar né ele era dar é fiscal fazer
+concurso para Receita Federal e cms São
+Paulo este concurso é eu sou dos cms
+aqui da Paraíba
+excelente Rapaz você você com certeza
+com a experiência que você tem Sérgio eu
+vou quero transformar você num momento
+de carreira
+e eu fico com preguiça que você tem aí
+rapaz quantas pessoas você não poderá
+ajudar eu vou começar ajudando o senhor
+velho olha porque é o seguinte Professor
+eu preciso muito Olha eu sou eu sou
+afiliado de um curso lá no hotmart que
+pode ajudar o senhor
+o
+amor força na comunidade estatística na
+casa do lado professor de precisar de um
+curso para sair do orgânico
+eu tô fazendo nem Thalia Olha aí ótimo
+excelente
+a brincadeira da parte eu tava ficar
+para
+aprender com essa turma trabalha jovem
+né
+bom e o que eu posso passar talvez não
+dia de conhecimento mas de experiência
+eu tô aqui podem contar comigo mais
+alguma pergunta aí alguém tem mais
+alguma pergunta alguma colocação
+eu queria compartilhar com Sérgio somos
+todos jovens Eu também 53 anos de idade
+estão criança intervalo interquartílico
+do box pote
+minha vó
+benefício viu meu Luiz quer saber qual é
+o sangue todos jovens
+morrer velho É verdade foi a Deus cada
+dia Luiz no box plot o que é que mais
+chama atenção são os jogos que estão
+fora
+então é até já dizia poetisa moderna né
+é jovem para ser Novo e Velho para ser
+jóvem
+Sandy e Júnior
+para tirar um print Agora não dá não é
+tu não tem coragem de abrir
+e vai sair no print também é
+o Hotel São Luiz Carlos
+cachorro é o convidado especial é
+verdade aí tem o sorriso mais lindo eles
+sorrindo
+e
+pronto já ver como ficou aqui ó ela é
+Thales não Gaya Dil Gaya agora eu não
+sou eu acho que vai ter que tirar outra
+foto aí não vou mandar ele e vou tirar
+vovô Se eu mandar esse para o grupo
+Deixa eu mandar logo esse no grupo aqui
+que é rapidinho aqui aí porque diz lá
+nesse eu não gostei não vamos vamos
+matar o jogo do seu cortar aqui no grupo
+logo Senhor se eu postar no grupo aqui
+deixou
+o placar aqui
+tá
+bom deixa eu colocar aqui no grupo
+colar vamos ver aqui
+vejam aí Veja aí veja aí se precisar
+fazer outro a gente tira se não tiver a
+gente
+hoje eu não preciso de a gente deixar
+essa aí mesmo
+Oi e aí aproveitar né Quem ainda não tá
+me seguindo do LinkedIn me siga no link
+e Dinho Olha aí vamos tirar mais um
+agora porque eu Josenildo tava com ele
+tava retocando aqui o penteado certo
+então vamos tirar mais uma mais um print
+ou Moisés Abre a Câmera não tava com a
+câmera aberta pô
+e amém abanar aí
+vem aqui abre a ficar tempo inusitado
+problema então vamos lá
+e é espera aí não deu certo não eu vou
+ter que repetir só 15 dias para ele
+e sorria
+pronto vamos ver como ficou essa ficou
+bem melhor vou copiar
+copiar para de transferência agora eu
+vou colocar lá e se alguém não consegui
+acordo fechado a gente tira outro
+jogo tá aqui
+G1
+Tá bom eu publiquei lá então para para
+mim bom E então né e e terça-feira a
+gente começa aí com força total nesta né
+mestre Jandaia rapaz é a mestra Jedi
+eles vão ficar de quem ainda não conhece
+a mestra geday é cês vão gostar não a
+conheci incrível eu assistir aula sobre
+isso eu não conhecia não é verdade o
+aluno fica assistindo as aulas só
+aprendendo rapaz é você tem que ter
+humildade rapaz eu todo dia eu tenho que
+aprender alguma coisa eu começo lendo
+amigo né ó a minha Bíblia tá aqui todo
+dia eu tenho que ler um livro um
+capítulo da Bíblia todo dia Aí eu marque
+o risco eu boto aqui tá o saber o código
+da sabedoria sou católico né Sou
+católico mas eu a linha do tempo todo
+dia de manhã quando eu me acorda a
+primeira coisa que eu faço mas eu
+aprendi muito a primeira de idade Olha
+você tem que aprender com os outros a
+gente atende chamado efeito espelho todo
+mundo eu e todo mundo você tem que ter
+humildade todo mundo aprende com todo
+mundo
+então gratidão a todos vocês que estão
+aqui né E até terça-feira né Tiago
+terça-feira aí essa terça-feira 19 horas
+teremos aí fundamentos da ciência de
+dados com o mestre ajudai e agora tem
+mais um pensamento de judaico que diz o
+seguinte óleo peça só por seus amigos
+não peça para os inimigos que ele não
+vão fazer nada com você então eu quero
+pedir para vocês que cada um age como a
+gente ainda está só começando e cada um
+traga pelo menos mais dois colegas para
+se matricular aqui na próxima ainda dá
+para entrar até a próxima terça-feira a
+gente ainda tá aceitando gente aí então
+cada um aí convidado pelo menos dois
+colegas e rapaz olhar um curso
+diferenciado
+esse curso é diferenciado é o único do
+Brasil é o melhor do Brasil
+tá vendo aí que você tem que vender seu
+peixe é o melhor do Brasil os melhores
+professores a melhor Network do Brasil é
+o melhor é o melhor disparado Então
+pronto você Convida os seus amigos e ir
+para aqui na terça-feira a gente possa
+começar né Thiago show isso mesmo tamo
+junto pessoal qualquer coisa só chamar a
+gente aí valeu demais obrigado e os
+professores também gratidão a todos
+vocês já valeu tamo junto Valeu vamos
+com tudo
+pois é

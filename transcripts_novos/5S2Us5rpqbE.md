@@ -1,0 +1,2002 @@
+# Live Passo a passo para Escrever um Artigo Científico - Prof. Dr. Marcos Santos - Professor do IME)
+
+- **URL:** https://www.youtube.com/watch?v=5S2Us5rpqbE
+- **ID:** 5S2Us5rpqbE
+
+## Transcrição
+
+e esse aí então a gente vai nessa
+sequência né e parceria lá em mil né e
+tem tudo a ver porque ele já trabalharam
+com inovações né então artigo do joão
+ser publicado né para validar os métodos
+e tudo mais então acho que tem muito
+muito essa energia aqui né muitas
+pessoas e vão seguir a área acadêmica e
+precisam dessa orientação nessas dicas e
+nada melhor do que eu vim aí quiser
+publicou mais de cem artigos dentro ou
+certeza aí ó mas tem um marco santos é é
+bem indicado aí para o tema e com
+certeza é um prazer recebê-la novamente
+da comunidade estatística por favor
+fique à vontade aí se apresenta tem
+muitos alunos seus aí né mas tem algumas
+pessoas que ainda não conhece e por
+favor quando um pouquinho mais essa tua
+experiência aí
+é bem boa noite a todos né quem não me
+conhece o professor marcos santos é tão
+carinhoso oficial de carreira na marinha
+se o pesquisador do cá ginásio lá me
+conhecem como comandante marcos santos e
+isso também professor do instituto
+militar de engenharia do aula lá na na
+computação do aula na graduação de
+matemática avançada para computação e do
+aula na pós-graduação em sistemas de
+computação lá onde nós desenvolvemos as
+nossas ferramentas na computacionais de
+apoio à decisão
+eu tô mais uma vez eu gostaria de
+agradecer o convite do professor thiago
+sempre mais like prazer
+bom poder dividir o conhecimento né
+compartilhar um pouco desse desse
+conhecimento e na verdade nós estamos há
+quatro meses aí vindo numa trilha né de
+lá ele já é o thiago fez uma históricas
+né o thiago fez uma disciplina comigo lá
+no na pós graduação do ime e ele
+convidou para fazer uma live aí eu falei
+para ele bem não faz muito sentido eu
+chegar arrepiando logo dos métodos né
+ele tem que fazer um trabalho de de base
+de contextualização para que as pessoas
+é o metas comecem a se sentir à vontade
+com o assunto né então em dezembro eu
+fiz uma primeira live sobre teoria geral
+de sistemas e e processo decisório
+e em seguida eu fiz uma sobre os métodos
+multicritérios alguns pressupostos
+teóricos sobre o modelagem multicritério
+e é na seguinte é na sequência o
+comandante luís frederico pelado canal
+também terminou o mestrado dele ele
+falou sobre a mesa né tá fêmea que nós
+desenvolvemos também uma ferramenta lá
+no método novo na axiomaticamente
+falando né modelagem matemática é nova o
+método não existia e além da parte de
+matemática ser nova nós desenvolvemos
+uma ferramenta lá no inimigo já realiza
+os cálculos não uma vez de seguidor os
+input ele já realizou os cálculos tem
+desenvolveu desenvolver essas
+ferramentas junto com comandante lucho
+frederico
+bom então ele fez a terceira live na
+sequência foi quem foi eu a flor copo de
+2n foram conheci a quarta quarta larga
+de aumento do guarapiranga l a quinta
+foi o miguel falou sobre o impacto dos
+prometer um dois e três será o miguel
+novamente e falou sobre do prometer tá
+pelo m1 e inovação também né que
+realmente de novo também né é e a última
+foi o professor fabrício maione que é
+professor lá cefet e é meu orientando lá
+no m e falou sobre o método thor mesmo
+então quer dizer essa foi uma trilha que
+nós fizemos de métodos e outro de
+praticamente está encerrando essa essa
+porque para quem a gente que pesquisa
+sabe que não baixa
+a gente precisa publicar aquilo que a
+gente não existe pesquisador pelo
+público as o pesquisador tá bom você
+pesquisador você precisa publicar seus
+trabalhos como é que a sua pesquisa seja
+conhecida senão a sua pesquisa ficar só
+dentro da sua cabeça não então ali
+restrita o seu grupo de pesquisa então
+aí eu propus ao tiago fazia com os aí
+uma uma live e assim não é uma receita
+de bolo mas umas na alguns macetes algum
+alguns atalhos né os atalhos né para
+montar em uma linha de
+e de argumentação faça algum sentido na
+hora de colocar esse conhecimento no
+papel diante gostaria de agradecer aí a
+presença do professor luiz paulo fávero
+lá da usp e thai acompanha na nossa live
+é um professor que admiro muito não à
+toa convidei ele lá para o simpósio de
+pesquisa operacional e da marinha e
+uniforme e utilizo já amamos o livro do
+professor favero pesquisa operacional
+então meu agradecimento a ele por estar
+prestigiando aí a a nossa área tá melhor
+então vou
+hoje vou compartilhar aquilo a minha
+apresentação sobre isso aqui acho que
+essa aqui
+vou ver se vai dar tudo certo então é
+isso né olhando para ações para
+elaboração de um artigo mapeamento
+estruturação e fundamentação de ideias é
+isso que o tiago fala né que eles slides
+cinematográficos hahaha só vídeo não
+miguel miguel não dá para mandar não dá
+para competir comigo tô começando a vou
+dar um dinheiro para ele vai fazer então
+é então primeiro a motivação né é que
+seja você um engenheiro administrador
+e o gestor você será antes de mais nada
+um tomador de decisões e um resolvedor
+de problema tá então assim eu tenho
+muito foco trabalho muito seja para mim
+equipe de pesquisa lá na marinho
+trabalho muito focado eu sou eu tenho um
+viés mais prático né mas pragmático e
+identificar um problema e buscar uma
+solução a partir de algum neto
+e é claro que né dependendo da área
+principalmente precisar a área de
+humanas na educação e tal acaba não os
+pesquisadores então numa discussão mas
+mais abrangente mais holística né é
+discutir as linhas de pensamento na
+favor contra essa não é muito a minha a
+minha onda na minha onda é mais mais
+objetivo não identificou o problema pega
+o método propõe uma solução e eu acho
+que a maioria né pelo menos a maioria aí
+dos engenheiros administradores gestores
+tem mais ou menos essa essa pegada a
+maneira é como estruturais ou no papel
+tá
+oi e aí é uma outra questão que eu
+sempre comento que meus alunos também
+ele tem um monte de gente tem boas
+ideias todos os dias ah eu vou fazer um
+carro submarino a é uma ideia nova ideia
+nova né ah eu vou fazer uma lâmpada não
+é uma lâmpada lilás e brilha no fundo do
+mar é uma ideia é uma ideia ideias aqui
+tão importante quanto ter uma boa ideia
+é saber fundamental e ter a capacidade
+vende as ideia ou seja o tem né e seja o
+meu chefe seja o leitor não é o meu
+interlocutor eu tenho que mostrar que
+essa ideia é viável tecnicamente ela tem
+viabilidade econômica na ela a tem
+escalabilidade eu consigo produzir
+escala replicabilidade então tem uma
+série de questões que eu preciso é a
+trabalhar
+e para mostrar que essa ideia não só ela
+é boa como ela é incrível né como ela é
+uma ideia que pode ser recorte em
+prática
+oi e aí celmar figura que eu sempre
+mostro que eu peguei lá no manual de
+análise de dados do professor faro eu
+gosto sempre de mostrar essa figura com
+meus alunos é para eles entender essa e
+hierarquia de dados informação e
+conhecimento
+e o que acontece que a gente que
+trabalha com exatas né é essas coisas
+elas já estão na nossa cabeça né os
+dados a gente consegue pegar os dados
+para tá essa a esses dados ver a qual é
+a melhor decisão mas isso tudo fica
+restrito a nossa cabeça né eu sempre que
+eu passo por isso também às vezes eu
+olho uma situação analiso é como se eu
+já tivesse um diagrama de ishikawa na
+cabeça uma correlação de pinhas são pa
+não é realmente unir essas duas
+variáveis estão correlacionadas estará
+mas esse conhecimento ele fica ele fica
+restrito da nossa cabeça né e o grande
+lance eu consegui uma maneira de fazer
+com que esse conhecimento aqui na esse
+conhecimento aqui que é esse aqui é a
+joia da coroa né dados os dados estão aí
+disponíveis já a informação eu já tenho
+uma
+e é computacional bastante razoável para
+lidar com essas informações mas a jóia
+da coroa tá aqui na questão do
+conhecimento na tomada de decisão e aí
+que entra a cognição humana né então
+preciso é ter uma maneira de perenizar o
+conhecimento não adianta esse tempo ele
+está preso né na minha cabeça eu preciso
+de uma maneira eu preciso de uma maneira
+de perenizar e de divulgar esse
+conhecimento a
+quem é
+oi e aí essa é uma outra questão né e
+mostra que a interação entre a
+universidade e as empresas ainda é
+subestimada né então eu penso que o
+brasil está caminhando está evoluindo
+academia está se aproximando das
+empresas mas ainda é um movimento muito
+tímido né a gente precisa de um
+movimento mais forte é de aproximação da
+academia gerando soluções para as
+empresas então é todo trabalho que
+desenvolvo com os meus alunos que
+desenvolvem a maria sempre voltando ao
+primeiro slide né questão de um
+resolvedor de problemas
+eu já estou engenheiro administrador
+resolvedor de problema então eu procuro
+sempre na medida do possível quando os
+alunos é aplicar métodos para a solução
+de problemas gerais da sociedade pro nem
+agregue valor e tem uma escala
+considerado um atualmente eu tô
+trabalhando no projeto apollo lá no
+ministério da defesa e thiago pode
+conhecer lá no caso narrado né é
+tradicional muito legal é um projeto que
+praticamente todas as informações de
+mobilização de defesa nacional é elas
+veem a partir desse sistema que nós
+desenvolvemos lá na lá no cais na viana
+marinho tanto que mesmo tempo de
+decorrido e não dá para parar né não é e
+como a sua estratégia não pode passar aí
+tem
+a 40 pessoas que estão doentes no acre
+eu preciso saber o aeroporto mais
+próximo para o maionese c-130 te irritar
+para pegar essas pessoas eu entro lá no
+apolo consigo ver qual é o aeroporto
+mais mais próximo aí eu preciso montar
+um hospital de campo na comunidade da
+maré no rio de janeiro entra no apolo
+consigo ver todos os campos de futebol
+as áreas abertas ou eu posso montar um
+hospital de campanha né então quer dizer
+a preciso deslocar um carro lagarta é um
+carro lagarta para santarém são paulo
+para santarém ele me mostra o trajeto e
+se tiver alguma ponte no meio por
+exemplo seja de madeira ou seja mais
+fraco é um visual carro esse carro com
+esse peso não pode passar por essa ponte
+para ela não aguenta
+bom então realmente é um sistema que
+trabalha é um mobilização nacional no
+brasil né levando em consideração o
+brasil aí tamanho de um continente né
+então não é uma tarefa muito simples e
+para isso eu entrego não só a base de
+dados da própria das próprias forças
+marinha exército aeronáutica como eu
+também alimento esse sistema apolo com
+umas mais de dados de outros órgãos que
+nós chamamos de interoperabilidade eu
+acesso o banco de dados do data sus e o
+acesso banco de dados da polícia
+rodoviária federal restando como estrada
+bloqueada e o acesso banco de dados do
+correio para ver os apps do arruamento e
+o acesso banco de dados do ibge a gente
+acesso uma série de banco de dados
+realmente provença mobilização nacional
+a
+oi e aí a ideia é esse triangulo de
+sábado ana perguntou aqui mestre o apoio
+funciona como um sistema de informações
+geográficas também né também né também é
+na verdade a precisão no sistema é na
+verdade nós temos uns dias né tijolo
+defe esses tempos é de
+georreferenciamento de defesa e na
+verdade é um projeto casado junto com
+apolo o projeto apollo e méxico
+mobilização de defesa nacional e o outro
+sistema que é chamado de singer o df é
+sistema de georreferenciamento defesa
+exatamente isso que ela falou não
+trabalha com geographic information
+system não fez até atualmente escrevendo
+um artigo sobre isso foi precisamente
+hoje eu tava falando com menino que
+desenvolve mas à tarde estávamos
+escrevendo um artigo
+é sobre esse sistema de
+georreferenciamento legal então o
+triângulo de sábado ele envolve
+exatamente essa questão né eu tenho
+conhecimento enorme dentro da
+universidade eu tenho que permitir que
+esse conhecimento ele saia das cercanias
+da universidade então é o governo a
+ideia qual é como funciona os estados
+unidos na alemanha né o governo ele
+apresenta uma demanda né a quero
+desenvolver o tomógrafo novo era
+desenvolver um início rio o governo
+apresenta a demanda a demanda dele a né
+e para isso banca né senão cia a
+universidade ela desenvolve o naquele
+capital intelectual que ela tem ela
+desenvolve o aquela aquele produto
+aquele serviço né hum eh passa para as
+empresas e as empresas comercializam os
+produtos
+é isso vendem e naturalmente que recolhe
+em não acho ver e conhecer gunder com
+esse dinheiro que o governo é fora ele
+pode pagar mais estudos desenvolve mais
+produtos então forma se aí um um ciclo
+virtuoso né onde todo mundo ganha o
+governo ganha universidade ganha e as
+empresas ganham né por exemplo aqui nos
+estados unidos é os pesquisadores da lac
+ricky martin vieram fazer uma uma
+palestra na nos polos de 2014 ea locked
+in a cage de marte a maior indústria de
+defesa do mundo ela fabrica o f-22
+raptor
+e é exatamente isso né as forças armadas
+e são um órgão do governo já fala olha
+eu preciso de um caça de 5ª geração novo
+então uma marinha os armários são órgão
+do governo né representa logo ver quem
+pode desenvolver isso para mim não é
+universidade vai lá né hora eu vou eu
+consigo desenvolver esse caso eu consiga
+desenvolver esse produto
+oi e aí uma vez que a universidade
+desenvolve esse projeto o como fazer as
+empresas vão lá e as fábricas de
+armamento o governo compra ele não só
+compra como vende para países é de fora
+né band band é comercializado
+internacionalmente esse produto de
+defesa então no fim das contas nesse
+triplo lc todo mundo sai ganhando e
+assim parece que o brasil mas as eu já
+despertamos para isso
+oi e a coisa tá começando a tá começando
+a evoluir nesse sentido ainda bem bem
+devagarinho mais está indo eu acho que
+tava parado então agora agora temos a
+indústria de defesa né associação
+brasileira abid né associação brasileira
+da indústria de defesa tá fomentando
+esse movimento então a coisa tá tá
+começando a evoluir o
+é bem aí dentro dessa ideia né eu falei
+com os meus alunos que eu não sou muito
+teórico eu não sou muito a vamos
+discutir a importância da gestão da
+qualidade a vamos vamos discutir qual o
+coeficiente é melhor se é o de piercings
+ou não eu não eu não sei muito da
+salinha o seu a linha de resolver o
+problema
+bom então
+e eu utilizo muito pbl com os meus
+alunos não é o problema desde lori é
+exatamente essa questão eu faço uma
+variação né às vezes eu apresento um
+problema único para turma
+oi e aí cada dupla cada grupo ou
+individualmente tem que propor uma
+solução para esse problema então aí
+acabam aparecendo várias soluções
+diferentes para o mesmo problema e tem
+uma abordagem que eu acho bacana né cada
+um tem uma percepção cada um proponha
+uma solução
+o e às vezes eu inverto às vezes eu dou
+um método só
+em vários problemas diferente cada aluno
+busque um problema mas tem que aplicar
+aquele método
+oi e aí é todo mundo aplica o mesmo
+método só quem problemas diferentes
+então vamos ver o revezando na hora eu
+dou um problema só os alunos aplicam
+vários métodos hora eu dou o vários
+métodos é e aí os alunos aplicam no seu
+jeito né então a ideia justamente essa
+né então eu proponho um problema
+oi e aí os alunos lá faz bem storm parar
+discutem né compartilha informações é é
+40 mediação ali do professor e no final
+ele propõe uma solução de maneira bem
+prática bem direta e aí a questão é como
+colocar essa proposta de solução no
+papel e aí que eu eu explico para ele
+então vamos objetivo então assim eu vou
+ensinar aqui eu vou ensinar não que eu
+vou bater um papo com vocês não é uma
+receita de bolo não é uma não é uma anta
+não é nada disso só só algumas dicas
+podem facilitar na hora de confeccionar
+um artigo e
+é muito artigo varia muito pede
+congresso para com a quantidade de
+páginas a formatação né os tópicos que
+os subitens do artigo variam muito de
+congresso para compensa vale um monte de
+jornal perde ou não mas eu vou passar aí
+em gerais aqui é o quê que pode ajudar o
+pessoal na hora de organizar as ideias
+né então umas ideia é produzir um
+documento de 12 a 15 páginas a maioria
+dos congressos ficam nessa
+e nessa ordem de grandeza proposta de
+solução para uma demanda real da
+sociedade a partir de algum método
+consagrado na literatura como que eu
+falei lá sei lá a violência no rio de
+janeiro está aumentando ok um problema
+real da sociedade e podemos propor para
+tentar reduzir essa criminalidade sob o
+lema vamos usar um método né pra
+resolver se tentar fazer uma proposta
+para resolver esse problema é
+e aí aqui eu coloco por da luna de o
+documento deve seguir as regras de
+formatação do enepe encontro mineiro de
+engenharia de produção mas pode seguir
+qualquer outra formatação eu só coloco
+uma em particular para todo mundo
+padronizar né e a mais uma pequena já da
+bnt times 12 espaçamento um e-mail
+esquerda três em cima três não se você
+já entraram
+eu poderia ser a formatação da energia é
+o simpósio brasileiro de pesquisa
+operacional poderia ser qualquer outro
+qualquer outra dentro né importante você
+seguir ali uma uma formatação para não
+ficar um documento todo bagunçado então
+eu gosto de indicar esse do inmetro os
+meus alunos porque ele é bem
+explicadinho passo a passo tem lá no
+site do inmetro se quiser eu até tenho
+já esse esse formato aí é só copiar e
+colar em cima e ele já né já fica lá no
+formato bonitinho
+um negócio bem a gente começa a escrever
+o artigo não então normalmente o título
+resumo nós deixamos por último você não
+sabe quais são os resultados você vai
+chegar ao poder fazer o resumo não todo
+livro de metodologia científica fala
+isso a hora o resumo eu título
+normalmente deixamos por último mas
+também a questão a seguinte né é você
+começar a gente ele vem um trabalho por
+um não tem nem título
+é difícil até para começar aí o processo
+de de ação né então eu chamo de título
+provisório faz um título provisório você
+quer fazer pode ser que lá na frente
+objetivo mude né e aí o título tem que
+mudar
+oi e aí eu tive desgraçado que essa foi
+a primeira aula que eu tive no doutorado
+eu via lá um não está trabalhando maluco
+aí ela reprovado caramba cara e aí eu
+tive aula com professor ele fala palha o
+título é a alma do negócio título é o
+chamariz do teu trabalho né se o título
+não foi bom hein valeu o seu trabalho
+então título é a alma do negócio fazer o
+título é uma condição necessária mas não
+suficiente né o título for ruim o cara
+nem lê o título foi bom talvez o cara
+vai então realmente primeiro contato que
+a gente tem que qualquer artigo é o
+título do artigo então é por exemplo às
+vezes eu vejo assim a a importância da
+gestão da qualidade
+e o que que esse título jeans nada aqui
+vale é o aluno uma vez que vem que ela
+me falou eu quero falar o título do meu
+trabalho é o seguinte a ergonomia em uma
+multinacional depois chama a ergonomia
+ergonomia é boa é ruim você tá tendo ele
+você não consegue identificar qual é o
+problema que tá tendo é você não
+consegue identificar se ela usou um
+método de economia em uma multinacional
+e não
+bom então aí mas eu também escrevi assim
+aí nessa primeira primeiro dia de aula
+no doutorado o professor falou e o
+título tem que ter o próprio o título é
+composto por três partes o problema a
+ser resolvido a metodologia que será
+utilizada para resolver o problema e o
+recorte fácil temporal em quanto tempo e
+aí a ideia fica completo
+bom então por exemplo beleza vou dar um
+exemplo um exemplo aqui prático né cadê
+os compartilhou a imagem é eu sei que o
+gato tá beleza não tranquilo achei que
+tinha apertado sem querer então por
+exemplo vou escrever aqui ó vou dar um
+presente né
+bom então exemplo aqui ó desenho 1
+e aí
+um exemplo não tem um aluno que fez esse
+trabalho teve o trabalho de um aluno
+aplicação
+a aplicação
+e do método hp
+o tormento do hp prime desculpe é que a
+letra de criança de 5 anos de idade eu
+não usava totalmente ambientado
+ferramenta mas já me olhando já tá ou já
+tá melhor com certeza né
+e para seleção
+a seleção
+e aí
+e aí que minha canetinha não quer
+assumir um beijo
+os projetos
+e me perder
+e da vale sa
+e isso foi um trabalho que eu orientei
+você vê que realmente a ideia fica
+completa né
+se você tem três informações você ele
+tinha um problema qual era um problema
+ele tinha um montante de dinheiro que
+ele tinha colocado os projetos assim
+tinha dinheiro mas não tinha dinheiro
+para bancar todos os projetos então ele
+tinha que escolher para formar um
+portfólio de projeto né então ele tinha
+um problema que era selecionar os
+projetos de p&amp;d
+o dom então esse cara aqui seleção de
+projeto de p&amp;d é o problema
+o problema que ele tem para resolver
+e aí para resolver esse problema que ele
+utilizou foi a ferramenta ele tinha ele
+utilizou o método ahp
+e esse aqui foi o método utilizado para
+resolver o problema
+a nicole não contexto qual é o recorte
+ali espaço temporal onde que aconteceu
+esse problema foi na china ou no japão
+foi na no chile não foi aqui na vale
+navalha s.a. recorte o contexto é onde
+que o problema aconteceu
+o ponto não fica uma ideia completa
+a ideia completo aplicação do método hp
+para a seleção de projetos de p&amp;d da
+vale a entendeu quem lê o título não
+fica com dúvida nenhuma do que que o
+trabalho se refere sabe que ele não vai
+usar o mesmo comprometer sabe que não
+vai usar o método simplex sabe que não
+vai usar simulação de monte carlo sabe
+que vai usar o método ahp tá claro né e
+sabe qual é o problema o problema de
+seleção de projetos de p&amp;d então esse é
+um exemplo
+eu vou tirar aqui um exemplo aí de um
+trabalho
+bom dia um dos alunos o número voltar lá
+para nossa apresentação
+em três partes básicas o problema se
+resolvido a metodologia que será
+empregada né o método recorte fácil
+temporal e é exemplo e eu dei para vocês
+e não está passando a com os lá e passou
+posso um resumo a
+é uma vez vencida a primeira barreira
+que é do ave o título me interessei e
+vou dar uma olhada que que o leitor faz
+né então não parte para itália e tudo o
+que que eu sempre falo na questão do
+leitor o leitor uma subjetivo né
+eu não escrevo alguma coisa eu não
+escrevo para mim escrevo para o outro
+então tenho que me preocupar do juízo
+para os outros vão fazer do meu trabalho
+então feito youtube oi o convencê-la a
+lei um pouco mano meu trabalho poder
+vencer o resumo porém ele vai ler o meu
+resumo e vai ver se vale a pena ler o
+restante do trabalho
+bom então é o codigo ali como o próprio
+nome jardins o resultado na sintetizar
+todo trabalho com poucas palavras
+levaria também tem eventos que é bem
+juros são 500 falar mas o que são 300
+mas normalmente o resumo fica entre 150
+e 300 palavras e eu coloquei a prudente
+o resumo seja último texto a ser escrito
+você não sabe ainda os resultados e você
+é que você vai obter com teus tudo né
+então não faz muito sentido eu posso
+fazer um título provisório mas não faz
+sentido eu fazer um resumo provisório
+porque eu não sei nada ainda só meu
+trabalho vou ter que pesquisar os netos
+vou terminar aplicar ferramenta viu que
+tu vai acontecer
+é mas normalmente eu resumo tem que 150
+a 300 palavras
+oi e aí o que que tem um resumo do
+resumo é outra história que o pessoal
+fica um pouco confuso né então olha tem
+que ter uma breve introdução uma duas
+linhazinhas só para na economia
+brasileira parar tem passado por um
+momento de instabilidade tá tá acabou
+logo propósito do trabalho para que que
+você escreveu o trabalho qual é o
+objetivo neste trabalho tem um propósito
+dele no caso do trabalho do ano esse
+trabalho era selecionar um portfólio de
+projeto pois trabalho lógico de na o
+portfólio de projetos na vale a pipoca o
+seguinte analogia para alcançar os
+resultados pecado neto do hp é um método
+consagrado na literatura papá um dos
+mais
+e do mundo e tatá você fala um pouquinho
+na metodologia e aí tipo assim eu aplico
+e alcançou um resultado você falta
+comentar você pode dizer então aplicação
+no momento do hp foi possível alcançar
+um resultar parque tal é projeto é
+prioritário formar um morder nação dos
+projetos e tal você chegou em algum
+resultado você pode comentar se
+aprofundar muito mas você pode comentar
+que chegou a um resultado e muito
+importante que os avaliadores gostam do
+cores dia artigo e eu como avaliador eu
+sempre observo é se esse estudo se essa
+pesquisa é uma contribuição para a
+sociedade vai ganhar o que você tá
+estudando
+e você tá estudando para fazer um
+problema para você ou só vai resolver o
+problema de três quatro pessoas às vezes
+esse estudo não tem uma relevância né é
+muito questionado essa relevância né
+agora quanto mais pessoas esse seu
+estudo alcança mas ele levou ele se
+torna né por exemplo a universidade
+orientei o trabalho de duas meninas a
+responder para seleção de drones na
+utilizado pela polícia militar do estado
+do rio de janeiro o subsecretário de
+polícia teste presente chefe do
+estado-maior geral da polícia do rio de
+janeiro coronel marcos vazia ele até
+presente na como antes da banca do
+trabalho dela eu quero ver ela tá
+propondo não é uma metodologia para ser
+nesse horário
+o que vai ser utilizado no combate à
+criminalidade no estado do rio de
+janeiro né então quantas pessoas esse
+estudo beneficia são com a sociedade
+enorme são não as pessoas né então você
+procurar uma solução a vai melhorar a
+qualidade de vida do pessoal aqui do
+universitário melhorar a qualidade de
+vida dos trabalhadores da empresa a
+melhorar a qualidade de vida ou seja
+você deixar claro olha a contribuição
+que aquele trabalho vai fazer sociedade
+né então depois no final vou mostrar um
+artigo pronto você eu vou mostrar em 73
+vocês vão ver que ele tá amarradinho
+certinho dentro dessa como se fosse uma
+liturgia né
+de dentro dessa dessa sequência que eu
+coloquei era bem eu vou dar um exemplo
+que tá dando o exemplo mas aí no final
+mostro tudo numa beleza e aí abaixo do
+resumo tem que ter ali de três a cinco
+abra chave é melhor representa um estudo
+quem é e aí para montar o corpo do
+documento é o que eu falei isso não é
+uma receita de bolo não é uma receita
+mágica a próximo da carne pode
+acrescentar mais um análise não pode é
+argumentação que faça sentido para você
+né na sua cabeça tô colocando aqui é
+mais uma é como se fosse um fio é para
+meio que é uma argumentação para mim faz
+sentido e que tem dado muito certo nos
+trabalhos que eu tenho feito os meus
+alunos esteja do senai você não dorme
+planície seja do imi na tem dado
+bastante certo os alunos da pós lá da
+acetona o fluminense a gente usa também
+e temos obtido sair bons resultados em
+e tu normalmente faz um introdução
+descrição do problema não apresenta
+problema fundamentação teórica posso ter
+solução não é o método que a gente vai
+aplicar para receber uma regressão neto
+hp uma simulação de monte carlo seja a
+pessoa os resultados alcançados tá bom
+fiz uma simulação de monte carlo e aí e
+resultado que ela me deu tá aí eu
+discuto os resultados
+eu faço uma breve consideração final e
+no final vem a diferença e aí eu vou
+discutir cada uma é um pouco mais
+detalhes a introdução no mínimo na
+página na verdade eu coloco esses eu tô
+eu tô tomando como suposto que quem está
+assistindo muito escreveu mais uma
+pessoa fala assim agora um parágrafo ou
+escreve um parar na introdução um
+parágrafo pode fazer o problema ou parar
+na solução quando vai ver que o artigo
+tem uma página e meia e isso é uma a
+gente que trabalha com exata nós somos
+muito objetivo a gente não é muito
+descalibra vai lá fazendo numa o padre
+ela até falou ontem na do livro do
+professor que ligou é fimose
+a pedra velha eu o livro grosso e tá o
+cara estatístico em quase não tem
+fórmula isso para gente é uma
+dificuldade tremenda né porque é difícil
+tem que se comunica por fórmulas tabelas
+gráficos e esse é o nosso habitat né
+então eu coloco aqui no mínimo uma
+página pode ser mais de uma página um
+pouco menos isso aqui é só para
+atualizar vai escrever um artigo de 13
+páginas introdutor de uma página tá de
+bom tamanho uma página completa né a ana
+falou que é uma boa também não repetir
+as palavras das palavras-chave no título
+para não perder a chance de ingressar
+seu artigo a mais uma ideia é isso aí já
+é mais uma técnica marcar o macete zinho
+mas
+é mais específicos para ele já está com
+pouco mais experiência já começa né é
+levar em consideração esses esse
+detalhismo
+ah é então na introdução pesquisador
+deve apresentar algumas informações
+preliminares dentro do contexto do
+problema tudo bem superficial com o
+intuito apenas de situar o leitor é uma
+espécie de uma arma amortecimento né
+então o duan falou lá no posto escola de
+projeto lá da vale sa pode falar aqui a
+outros projetos de perder essa muito
+importante para as organizações e para
+ele parar e que essa escolha tem que ser
+uma escolha muito criteriosa lá não
+beneficiar projetos que não se anima com
+time estratégico da organização e papá é
+uma historinha eu não entro no problema
+ainda né mas vou ali tateando nas
+questões ali subir já
+bom dia o problema só para situar o
+leitor no problema eu coloco no mínimo 3
+pode ter quatro os meus alunos falam não
+quero descrição do problema com menos de
+duas páginas não vou aceitar porque
+senão não chega agora é só problema lá é
+que tem uma máquina extrusora que quebra
+todo mês é esse problema uma máquina que
+quebra seu problema ele tem uma linha né
+na empresa tal a uma máquina que queda
+todo mês e que a manutenção é feita de
+maneira correta manutenção preventiva
+mas não tem sido suficiente já comprou
+tua máquina e a outra também quebrou e
+né você tem que mas será o problema
+pessoa tem que entender o que que tá
+acontecendo você que tá na organização
+você
+é o problema você consegue entender né
+você consegue visualizar todas as
+condições de contorno mas tá aqui em
+italiano não consegue né é os seus olhos
+são os olhos da pessoa que está lendo o
+seu trabalho você tem que passar toda
+aquela pinta lembro de escrever no
+mínimo duas páginas para descrever o
+problema e sim deixa o segundo problema
+é a alma do trabalho né porque a razão
+do trabalho quando eu trabalho com pbl
+né problema beijo elaine o problema é
+uma do trabalho buscar uma solução para
+um problema então se o problema estiver
+mal compreendido mal explicado mal
+escrito o trabalho tá condenado né então
+que eu falei normalmente o trabalho
+nasce a partir desse ponto
+o que são a descrição bem detalhada do
+que tá acontecendo
+oi e aí são alguns quadros que tem lá o
+laboratório lá na universidade aí o
+aluno vem conversar comigo uma pessoa
+tem um problema lá na empresa e tal aí a
+gente usa eu nessa queira postando lá a
+simulação lá no arena a gente podia
+fazer uma opção para enviar a fila aí o
+passo o link o teoria dos braços a
+estatística parar vou juntando né a
+gente tentar ir tentando entender o
+problema que o aluno traz né então aqui
+é um outro problema esse foi um problema
+de quem um esse foi o problema era aí ó
+e esse foi um problema 1848 esse foi
+esse artigo já saiu esse foi o problema
+da jéssica uma aluna que fez da dieta
+para navios da marinha para que idade
+maior que 18 anos e menor 48 da idade
+que o cara vai para reserva né é seu
+menino tá chegando da escola de aprendiz
+de marinheiro e a idade é maior que 18
+menor 48 alguns tomates cebola carne
+tava modelando o ppl dieta com ela e foi
+o trabalho dela e depois virou um artigo
+que ela apresentou
+e é esse problema aí foi de quem esse
+foi com programação inteira esse
+problema foi do matheus falcão se não me
+engano é um problema de localização era
+para a gente usar o ppl do transporte
+escrevendo fazendo um brainstorm ali né
+tentando entender as condições de
+contorno modelo que atenda razoavelmente
+bem o problema é que o pessoal falou
+ontem né não existe o modelo perfeito né
+não existe modelo que resolva todos os
+problemas existe um modelo a like né mas
+já tem que ele no momento papa aquelas
+condições que temos foram colocados todo
+modelo mas em uma realidade com certeza
+bom né e aí o uma ferramenta que eu uso
+muito por meus alunos é um mapa
+cognitivo porque a nossa memória é muito
+visual né então às vezes você fica
+escrevendo duas três páginas a pessoa
+não consegue se situar quando você faz
+um mapa cognitivo mapa mental a você
+hora opa pera aí e tem dinheiro não quer
+dizer que eu tenho né tem uma situação
+central aqui né que eu tenho que ver a
+distância de baixo pouco então eu tenho
+que ver o preço dos alimentos ela tem
+que ver a necessidade nutricional de
+cada militar aí eu tenho que ver quantos
+militares estão no navio então a figura
+ela ela ajuda né anos ajuda a captar as
+condições de contorno do problema então
+normalmente eu cobro dos meus alunos e o
+mapa cognitivo ou mapa mental faça parte
+na descrição do problema e aí para fazer
+um mapa cognitivo tem uma ferramenta
+é né você me up tools existem várias
+ferramentas é a senhora que eu uso você
+me usa ele é do você baixo levinho e aí
+você consegue fazer figuras de mapas
+como esse que tá aqui na apresentação
+oi oi mental né mapa cognitivo é uma
+coisa mapa mental é outra mais né acaba
+que as duas coisas e resolvi o mesmo
+problema então isso aqui na carinha do
+mapa mental né e aí já tem uma outra
+outro passo a passo para fazer um mapa
+mental tem o livro lá de mapas mentais
+do interior essa metodologia dos mapas
+mentais ao tony buzan eu não me engano
+em inglês né e e aí ele existe a cada
+ramo do mapa tem que ser de uma cor
+diferente você deve usar ele tá usar
+muitas palavras e sim figuras porque a
+nossa memória mais visual então mapa
+mental também tem um jeitinho de fazer
+na torre quiser indicação do livro lá do
+tony busão eu posso passar depois de aí
+tem uma ferramenta também para o
+hospital e alex mind e também é de graça
+você coloca lá no google ex-marido
+e aí você vai conseguir fazer mapas como
+esse aqui que tá na apresentação né é
+particular para o particularmente para
+os meus trabalhos eu uso os ineptos
+porque ele é um pouco mais formal né eu
+estou mais acostumado a fazer mapa
+cognitivo
+o problema nenhum é você ter uma família
+tal tá é aí veja bem então você
+introduziu o problema
+o controle uma historinha eu não entendi
+o que você escreveu um problema
+detalhadamente olha tem um problema que
+é selecionar projeto de p&amp;d na vaga é
+esse meu problema foi lá e pegou não é
+possível que o mundo com mais de 6
+bilhões de pessoas ninguém tem a tido
+pelo menos um problema parecido
+bom então quê que eu vou fazer então eu
+vou buscar na literatura
+e se alguém teve um problema parecido
+com o meu igual a parecido então vou
+buscar outros artigos vou buscar a terra
+e vou buscar trabalho que fundamentem a
+minha proposta porque quando eu fiz uma
+proposta vou falar hora seja com meu
+chefe seja com meu orientador você já
+passei um pouco vou falar olha eu
+pesquisei 30 artigos e vi que
+normalmente resolvem esse problema dessa
+maneira aqui então a gente pode adaptar
+para nossa situação e chegar essa né
+aplicada essa maneira aqui então
+fundamentação teórica coloco meus alunos
+também no mínimo duas páginas
+e esse não também eu só faz dois
+parágrafos acabou tá feito a
+fundamentação não aí eu coloco não ia
+igual não coloco cinco citações de
+livros e 10 citações de artigo
+eu repito né é isso eu coloco por quem
+nunca escreveu um artigo então falo com
+meus alunos esquece esse negócio de
+pegar livro de 1904 quaquá 1990 1982 a
+prioridade na hora de te ver de artigo é
+citar outros artigos de preferência
+recente os últimos cinco anos então
+esses 10 artigos aqui que eu tô falando
+a questão do livro é que estão lhe assim
+eu aceito livros alguns né poucos o que
+alguns livros são basilares eu não tem
+problema nenhum você tá esses meu então
+pesquisa operacional se tá william lima
+com a coffee são wagner o fábio se tão
+direto flávio é um livro que eu uso com
+ele então não tem problema nenhum né
+esses livros que são basilares
+já são quase doutrinários pode citar
+eu gosto do trabalho do artigo outros
+artigos dos últimos cinco anos então tu
+tá fazendo um trabalho agora em 2020 tem
+que pegar artigos ali de 2014 até 2019
+2014 do rio até 2019 aí você tá né você
+tá apresentando algo no estado da arte
+que as pessoas estão falando agora a
+professor nunca posso pegar um artigo
+velho eventualmente pode por exemplo por
+falar em matemática nebulosa emoji 14
+tem lá o artigo do lotfi zadeh de 1965
+acrescentar o artigo dos added 65 tá
+tudo bem porque foi quando surgiu a os
+conjuntos fosse né fosse sete você vai
+fazer um trabalho do hp você citar um
+artigo de 1980 do tom mais tarde tudo
+bem foi quando ele perto do mundo né
+ver mais acessórios ficaram multi
+preciso porque é o melhor é citar é
+diferente os mais mais novos nova
+perguntando aqui alguma coisa né o pablo
+tinha falado aqui um programa
+estruturado é um problema mais isso aí
+mexe naquela quando você tava falando de
+problema e o wesley falou vale a pena
+entrar na valeu valeu a pena entrar
+nessa lá e show várias várias dicas boas
+parabéns obrigado e aí então objetivo da
+fundamentação teórica é mostrar que foi
+feita uma ampla pesquisa no sentido que
+buscar o que a comunidade científica tem
+falado sobre a
+e é realmente que vai fundamental o
+trabalho então quando você entrou fizer
+a proposta de solução o teu gerente
+cutter orientador teu chefe você quer
+dizer o seguinte olha só eu estudei o
+assunto essas ferramentas elas existem
+elas são consagradas não é uma ideia
+maluca da minha cabeça é para esquecer
+fundamentação realmente é para te dar
+sustentação na sua argumentação
+e aí manda aqui o que que não quer
+passar é para buscar esses documentos e
+vão fundamentar sua argumentação você
+pode pesquisar em artigos de congresso e
+também artigos de periódicos que perdeu
+ótimo é melhor que o de congresso mas
+quem nunca fez um artigo você pode
+pesquisar e congresso então temos aí
+vários já coloquei algumas que são do
+meu do meu metiê né tem aí o energéticos
+inmetro simpósio brasileiro de pesquisa
+operacional os fomos sintepp então por
+exemplo vou dar um vou dar um exemplo
+olha só
+e vamos supor aqui peraí vou dar uma
+licença para o energético
+ah tá
+vou ver se eu consigo compartilhar aqui
+pera aí
+eu vou dar um exemplo aqui do energia
+energia é pecar de aqui google google
+compartilhar bem então vamos lá com o
+gol aberto vocês vão lá coloca lá assim
+anais
+o que é
+oi e aí vai abrir a nádia energia por 51
+oi e aí tá então aí você vem aqui ó a
+pesquisa de trabalhos
+e aí aqui já tem por ano e aí você vai
+olhar aqui dos últimos cinco anos mas se
+19 você não achava que você queria tu
+pula pro 18 não consegui achar a cura
+para 17 o novo 16 até achar né então
+bora lá sei lá é 2019 estou escrevendo
+um trabalho caramba eu quero aplicar sei
+lá pegar a regressão vai lá e coloca
+aqui ó
+é para ver se tem alguma coisa se tiver
+alguma coisa vai aparecer
+já apareceu análise erro de método de
+previsão de demanda aplicados em uma
+empresa de autopeças mas você vê se te
+interessa ou não previsão de uso de
+peças melhor para dar análise de casos
+de dengue com resíduo sólido com
+resíduos sólidos urbanos no interior
+soro e deu erro não sei porquê
+e vamos ver o outro então dizer que você
+vai dar eu também abriu lá me interessou
+você clicou lá
+é um artigo vai abrir e aí você pesquisa
+quem é
+a falar o arquivo aberto análise e
+previsão de uso de peça mr11
+intermitente para atualização de estoque
+e domingos pediu para volta só imagem do
+artigo de periódico por favor como é que
+é imagem do volta sua imagem do artigo
+do período é o messias mostrar beleza
+então é então aqui você tem um artigo e
+o bongar se o próprio artigo ele já aí
+tem reformas explicando o pa e o artigo
+já te dá o bizu já te dá a dica aquela
+história qualidade né qualidade ele
+próprio já te dá a dica de outros bons
+trabalhos no final na referência né ó tá
+aonde tu pode dar uma olhada só copiar
+aqui que eu pego lá jogar no google ver
+se acha esse ó
+oi aqui é line o grupo a revista gestão
+industrial na internet o nal jornal of
+produtos são econômicos 2018 hoje isso
+aqui tá uma pérola nela artigo recente
+de 2018 de um internacional aí eu seguir
+eu vou lá copia e cola no no google eu
+vou achar esse diurno não então aqui
+mesmo você já acha excelente dica para
+achar outros monte de trabalho amanhã
+vou fechar aqui e aí vai a mesma coisa
+e aí hum aqui
+e aí que eu me perdia
+e aí
+a sobrevida dan dan
+e aqui na tela tô com várias telas
+abertas e
+e qual é a tela que tá aparecendo aí pra
+vocês need é o deus um zoom é é o
+navegador não navegador aparecer
+navegadores e
+ah ah tá essa aqui vai ficar me achei
+aqui pera aí beleza então beleza aí
+vamos voltar lá para nossa apresentação
+como assim que você pode apertar milcher
+mestre não precisa encher né ela tenho
+lá em cima tem o meu chefe deixa eu ver
+aqui pera aí ela não viu o áudio já vai
+matar o cheiro tá então a mesma ideia
+que eu falei de energético você pode
+fazer para todos os outros você for lá
+no sintepp você coloca lá no google a
+nice intef vai aparecer o primeiro site
+já é um simpático gonna de uma barra
+esquerda você clica já aparece por ano
+então você já pode ir do mais recente
+para o mais antigo não
+ó e aqui
+ó e aqui são artigos que você pode
+buscar em em periódicos né são fonte né
+repositórios do periódico então você
+pode buscar lá na springer em artigos
+muito bons cielo não é o ruim é que às
+vezes você não tem acesso ao artigo
+completo você tem que pagar né então às
+vezes você só tem acesso ao título é o
+resumo mas é eventualmente você acha
+algumas trabalho então tem alguns
+buscadores e na academia o google
+acadêmico a emerald eu acho que eu não
+coloquei aqui na ao google acadêmico já
+tem muita coisa já dentre o próprio
+portal de periódicos da capes também tem
+bastante coisa boa né dá para achar
+bastante coisa lá é
+é bem
+oi e aí as vezes eu faço uma análise
+bibliométrica simplificada é claro que
+se a gente vai fazer para um diurno com
+jcr não mastigam internacional traduzido
+pa esse é mais mais detalhado mais forte
+vais fazer uma análise a por exemplo
+esse aluno aqui escreveu sobre o
+problema do caixeiro-viajante não para
+ver os seus nem próprio então manda ele
+fazer em português e inglês no portal de
+periódicos da capes falando alano vendo
+lá quantidade de artigos publicados aí
+deu essa curvinha verde akira cássia
+coloca isso aqui você tá mostrando o que
+você tá mostrando aqui o assunto que
+você tá falando ele tá bombando ele é um
+assunto relevante né ele vem numa
+crescente não é um assunto e que tá
+morrendo né
+e o outro aluno o urso e fez esse ó
+multiply tela multi preteia métodos
+métodos multicritério então mostra like
+de 96 até 2016 houve um aumento muito
+grande de aplicação desses metros então
+não acha que você tá utilizando o método
+do mundo tá usando eu não tá utilizando
+uma cultura morta então eu gosto também
+de fazer esse gráfico zinho mostrando a
+quantidade de publicações acerca daquele
+daquele tema às vezes eu coloco em
+inglês no portal de periódicos da capes
+porque a diferença é boçal a diferença
+de trabalhos em inglês lá trabalhos em
+português né no outro dia eu coloquei
+linear programming
+e o em português deu assim 400 artigos
+ao modelar para o filtro para inglês
+deus 78.000 artigo caramba e
+bom então às vezes eu mando fazer em
+inglês é tão análise do meu neto dá para
+fazer tanto importante atacar-nos os
+copos é bom que ele já traz pelo menos
+já tudo pronto os braços lá bonitinho
+por autor área por ano já no portal de
+periódicos da capes você tem que fazer
+um por um de lá o ano e quando os
+trabalhos foram lá naquela alho
+vou fazer 17 né fazer uma bicicleta em
+usando r-type e aí vem o ponto alto do
+trabalho né é o onde se faz a luz né
+então fizemos uma introdução no item 1
+no item 2 você detalhou qual é o
+problema 33 você pesquisou na literatura
+como aquilo pode ser resolvido e aí com
+base nisso tudo que você pesquisou na
+literatura e tal você finalmente vai
+fazer a sua proposta de solução você vai
+aplicar o método você acho 10m diferente
+e para o meu problema eu acredito que o
+melhor sentimento do enterro ponto alto
+do documento é algo os dois itens mais
+importantes do artigo é a descrição do
+problema e a proposta de solução
+é um é onde o problema nasce e o outro é
+onde a solução é proposta a
+olá tudo bem então é aqui que você vai
+apontar um caminho hora eu acho que o
+caminho é por aqui para gente resolver
+então aí para os meus alunos não coloco
+lá no mínimo 3 páginas fazer parte da
+solução
+e depois você fez a proposta de solução
+obviamente se você aplicou algum método
+na regressão linear né é simulação de
+monte carlo método multicritério eo
+método simplex seja lá o médico os
+utilizou esse método ele vai te dar um
+resultado você vai chegar não resultar
+então aí você tem que dizer quais são os
+resultados que você chegou então a
+partir do método brushing balde
+programação inteira chegou se que a
+melhor configuração aplicação de 17
+escavadeiras piriri parara e assim a
+construção vai ter o custo mínimo para
+você diz para o resultar
+é só aqui eu vou sempre falo o número
+isolado é só um número não quer dizer
+nada né o número só faz sentido dentro
+do seu contexto então mais do que
+apresentar os resultados que você
+alcançou você tem que discutir os
+resultados aquele resultado que você
+chegou ele é incrível ele é factível ele
+é implementável eu tenho dinheiro para
+ter um recurso para colocar em prática
+aquela aquela solução amanhã é eu vou
+ter alguma resistência cultural na
+empresa e as pessoas resistem à mudança
+né será que isso para mim não é um
+problema é só comprar a máquina está
+resolvido então tem que discutir esse
+tipo de coisa não adianta só eu
+apresentar o resultado com o algoritmo
+me deu
+e no outro dia eu fiz uma simulação de
+eventos discretos com uma aluna usando a
+arena era um mercadinho e ela disse que
+na época de natal natal ficava sempre
+lotado e aí ela queria uma na e aí
+fizemos a simulação foi o pc dela ela
+tem dois ela tem dois vulcões e pode
+expandir mais um pode ficar com 31
+nós já fizemos um mercadinho pequeno do
+bairro né aí ela tinha ela tem dois e se
+chegasse para lá para cá e tal dá para
+colocar mais um ela até três caixas
+atendendo e aí colocamos lá medimos a
+taxa de chegada o tempo de atendimento
+que iria para lá jogamos tudo no arena e
+aí por exemplo de uma situação de
+carnaval deu keeper precisaríamos ter
+ali os caixas atendendo para não ter
+fila no mercado quer dizer essa foto que
+eu não sou matemática
+a simulação eventos de diz que são 12
+caixas para acabar com a portaria o
+problema eu tenho como colocar 12 caixas
+atendendo ao tem espaço para dois
+possível para mais um então quer dizer
+ela tem que discutir o resultado olha a
+matemática medição dose só que eu não
+tenho como colocar 12 então é e aí eu
+falei pode tomar você vai desenhar então
+não tem solução né que se dane para lá
+não quero saber não pensar em alguma
+outra saída 12 eu não consigo mas eu
+consigo colocar três caixas atendendo
+vamos ver o quanto a cila vai diminuir
+aí fizemos outra simulação aí diminuir
+um pouco a ferro tá bom mas eu consigo
+abrir o mercado um pouco antes de fechar
+um pouco depois tá eu consigo sei lá
+botar um cafezinho com bicho cantinho lá
+dentro para distrair os clientes lá
+dentro e tem que pensar em outras
+soluções e não só o algoritmo ali
+matemático né
+oi total interessante aqui o marcos
+colocou com a lhe mandou só para mim mas
+manda para todo mundo max vou mandar
+aqui ele mandou um convite ranger aqui
+com os códigos para fazer a bibliometria
+no r da revista scientific electronic
+library online plataforma scielo né
+legal o thiago negão valeu sempre fala
+quando eu dou uma aula isso não é balela
+não é piegas não isso é verdade quando
+eu dou uma aula eu aprendo muito mais do
+que eu ensino no youtube que eu falei eu
+já tenho que fazer né mas cada hora que
+eu dou vem um aluno como informação nova
+como é né então com certeza estado novo
+eu aprendo muito mais com você que vocês
+comigo né é
+e não é então é discutir os resultados e
+eu gosto muito dessa figurinha aqui que
+tem quase todos os livros de p o claro
+que é um pouco diferente mas todos tem
+mais ou menos o mesmo significado a esse
+é do livro do vai chamar é porque afinal
+r não era conheço ele é é um dos
+primeiros livros de peróxido de
+graduação estuda né produção pesquisa
+operacional é é a situação exatamente
+essa tem um mundo real para discutir os
+resultados do real um contexto gerencial
+no mundo real aonde um problema aparece
+então é um problema eu tenho uma época
+de carnaval de natal eu tenho fila muito
+grande e os clientes ficam satisfeitos
+esse era o papel gerencial dela então aí
+eu vou para um lugar simbólico ou seja
+e eu entrei para o universo da simulação
+entrei para matemática poemas modelo de
+simulação no arena software esse modelo
+me deu um resultado olha tem que ter 12
+caixas para atender para acabar com a
+fila
+e eu não posso parar o processo aqui né
+eu tenho que sair do mundo se embora que
+voltar para a decisão
+há 12 caixas eu não tenho como eu
+colocar 12 caixas só tem como colocar
+mais um caixa tá então sempre tem que
+fazer essa análise né eu tenho que sair
+do mundo real entrar no simbólico mas
+depois eu tenho que tomar o cuidado de
+sair do simbólico voltar para o mundo
+real porque senão eu vou acabar propondo
+uma solução absurda uma solução que eu
+não tenho o menor cabimento de ser
+implementada em
+quem é e aí interessante eu gosto desse
+exemplo né ele está muito acostumado a
+a propor né modelos aplicações em ter
+aplicação dá certo alegria de todo o
+pesquisador fazer uma aplicação da sua
+aplicação são sucesso né a curva de
+aderência lá abrir eu quero atender o
+método simplex da solução ótima a
+simulação de monte carlo chegar na
+solução só aqui é nem sempre a gente
+chega na solução tá nem sempre o nosso
+modelo funciona como nosso modelo não
+funciona o trabalho também tem no seu
+médico a também foi um trabalho de
+pesquisa que precisa ser divulgar para
+que outras pessoas não entrem nessa
+furada então tem um artigo aqui muito
+interessante isso é um artigo mesmo não
+é piada não ali ó aplicação experimental
+mostra que facas construídas de fezes
+humanas congeladas não funcionam
+e isso é uma bola no nossa arqueológicos
+sai ó é um julho é o serviço é uma
+publicação mesmo internacional
+replicação experimental mostra que faca
+facas construídas de fezes humanas
+congeladas não funcionam então
+interessante da publicação não apenas
+seu viés cômico mas também que é a
+publicação de um para cá né mostrou que
+facas feitas de fezes humana não
+funcionam é um fracasso provavelmente
+ele queria mostrar que funciona você
+pega o experimento viu que eu não
+funciona eu li como comprar cássio né
+então não é o que é normalmente a gente
+quer mostrar que o nosso experimento
+funciona mas quando não funciona
+importante a gente é reportar também né
+o marco perguntou aqui nessa parte de
+resultados
+oi para o aceite para publicar a
+implantação do modelo no mundo real ou
+só com a simulação da para publicar
+e aí depende aí na verdade depende do
+congresso que você vai mandado de ouro
+você vai mandar é aluno que às vezes
+escreve um artigo aí coloca assim
+aplicação do método prometer paraná pará
+eu falou para não já falava porque tá
+esse pessoal para esse congresso pois se
+a mulher estiver pior eu evito usar a
+palavra aplicação aplicação da entender
+que acabamentos nobre algo você não tem
+o contribuição nenhuma só pegou um
+médico de aqui por então tem isso tem
+lugar que não tem lugar que aceita numa
+boa mas tem lugar alguns turistas não
+gosta tá então aí eu falo não não tinha
+aplicação coloca análise análise
+multicritério e a não era ele não fez
+uma aplicação fez uma análise diferente
+ó
+é mas é uma questão de jogo de palavra
+né a gente vai pegando isso com tempo
+não é tudo bem então então eu gosto
+muito dessa frase aí do steve jobs já
+decidiu que não fazer é tão importante
+quanto decidiu o que fazer isso nós
+vimos lá no imo né até alguns exemplos é
+quando a gente está estudando alguns
+problemas multicritério
+o jogo aqui
+e é podia ter usado o meu xena a justiça
+por exemplo eu nós vemos algumas deixa
+eu ver meu tempo aqui para não variar
+muito era a tem que fazer outro
+whiteboard era news meu chefe e é mais
+body art locria então por exemplo não
+sei se você lembra lá na disciplina que
+nós vamos lá no m
+eu já tinha lá é a primeira primeira
+alternativa ter que escolher lá sei lá
+em várias alternativas né segundo
+terceiro e quarto ainda quando formos
+utilizar o método dos apego né da vara o
+número aqui é associado é 6,6 vírgula um
+aí aqui uma tá aqui 6,15 6,07 2,18 e
+1,04 espera aí como tô lidando com o
+método multicritério eu posso até ficar
+indeciso com esses dois aqui né porque
+como dar um pouquinho avaliação do do
+decisor eles podem mudar de ó ordem né
+segundo pode passar para primeiro
+primeiro para segunda então
+e eu já sei que estou eliminado
+e na eles estão muito longe do primeiro
+lugar então posso considerar aqui que
+houve um empate técnico
+a m o empate técnico aqui
+a cruz a sobre o problema de escolher um
+desses dois esse é o meu problema agora
+porque esses dois aqui eu já sei que não
+vale a pena escolher uma dessas duas
+alternativas a tendência é a frase que o
+óculos falou né decidiu que não fazer
+tão importante quando decidiu que fazer
+quer dizer se eu comprar isso eu agir
+com essa alternativas aqui eu posso até
+levar minha empresa falência né que ela
+é tão ruim né então sim saber o que não
+fazer
+e com certeza quem é então eu vou me
+voltar lá para cá
+o rapaz do jovem já estamos acabando é
+voltou aí para apresentar a
+o motor puto discussão dos resultados já
+estamos caminhando aí para o fim e aí
+vem as considerações finais meu coloca
+aí no mínimo meia página então nesse
+item o pesquisador ele aquecer as suas
+últimas considerações e é que tem que
+ficar claro se o objetivo do trabalho
+foi alcançado ou não você não falou no
+início que eu trabalho tem um propósito
+por exemplo exemplo que eu dei lá do
+portfólio lá dentro do hp para escolher
+um pouco escola de projeto perdê-la do
+homem zona vai no final não consideração
+final tem que aparecer você conseguiu
+selecionar um portfólio projeto foi para
+isso que você escreveu o trabalho você
+conseguiu chegar nessa seleção você
+conseguiu amor problema ou não né ah eu
+apliquei o metro hp e não consegui
+chegar no portfólio que atendesse a
+empresa ok né já viu com hp não funciona
+para isso como funciona
+e isso tem que ficar claro na
+consideração se não se você alcançou o
+propósito do teu artigo ou não e as
+referências tem que tomar cuidado com as
+regras da abnt e aí que eu coloco aqui
+muito importante apenas obras que foram
+efetivamente citadas no corpo do texto
+devem constar na referência a 20 30 anos
+atrás eu sempre que eu fazia isso na
+verdade eu perco consultei quatro cinco
+livros mas colocava uma lista de 50
+referências no final vai dizer que fez
+uma pesquisa rampa né então não ao hoje
+em dia isso não cola mais um dia você é
+uma é uma função bijetora está no corpo
+do texto tem que estar no final na
+referência está no sinal na referência
+ele sentado no corpo do texto é uma
+função bijetora de 1 para 1 ano
+tu é mal visto quando isso quando não
+for assim quando você tiver citação no
+corpo do texto só arquivo será reprovado
+ou será aprovado com o resto de sorte no
+final não tem a referência
+a investir nessa se no final tem a
+imagem referência no final do texto e
+você não citou no corpo do texto todo
+mundo já sabe que na verdade você só
+quer encher linguiça no final na
+referência e
+e é e eu coloquei alguns exemplos eu vou
+disponibilizar apresentação vou perder
+muito tempo com isso pois não quero
+mostrar o exemplo de artigo 10 15
+minutinhos eu mostro eu coloquei aqui
+uma referência aqui no livro aí do
+professor surfável tá aí nos assistindo
+então uma citação direto para bell fiori
+fábio 2013 a tomada de decisão na
+verdade acho que o nome dele vem antes
+né para ele dar o pior é tomada de
+decisão um processo complexo para olhar
+parar eu fiz uma citação direta né e aí
+eu coloco lá em caixa alta né feia
+patrícia com fiori os paulo fábio e o
+nome do livro entra em am
+um beijo você ganhou o epa aqui tá aqui
+pois é amostra ele aí no professor é
+isso aí deixa eu ver o nome do pai dele
+tá primeiro tá a não ir lá e paga no
+meio nome da patrícia tá primeiro então
+grossinho então o nome do livro aparece
+na ou em itálico dependendo do
+congresso do uno
+e aí aqui eu já coloquei uma citação de
+um artigo publicado em anais de
+congresso
+é um artigo meu quando são mais de três
+autores se for até três ao cita o nome
+dos três santos souza ficar 2017 aí 15
+se tiver quatro ou mais autores eu tiro
+o nome todo mundo coloca o et al por
+isso que o verbo aqui tá no plural é
+porque já entendo que são vários autores
+descansar filme todo o problema de pior
+por sua metodologia parará parará e aqui
+embaixo observa só ó sou eu de autor
+marcos dos santos
+e a isis acho que ele avalie carvalho
+lima fabrício barone carvalho marconi em
+e paulo roberto souza gilson somos cinco
+autores por isso o ideal aqui né nem que
+no caso do fábio ele não entrou e tchau
+ficou bell fiori flávio porque são dois
+autores é o mais fácil não falou que que
+ele pede desculpa mas será que ele tem
+que sair de você tem que sair né a
+elevação obrigado aí ó
+e eu coloquei aqui mais alguns exemplos
+né dia de licitações para o pessoal ver
+como é que faz citação indireta né no
+caso de citação indireta não precisa ter
+aqui né como é direto coloquei entre
+aspas né todo problema de p o paraná é
+uma citação direta mas se não for direta
+você não precisa colocar entre acha
+metros apego é um tecido aplicado em
+diversas áreas o meio santos 2019 pará e
+greco et al 2019 artigos aí que
+aplicarão os app sozinho aqui mas numa
+sizinha
+e no caso do livro o que fica em
+ao nome do livro no caso dos anais de
+congresso o que entra em não é o
+título o título do artigo e sim o nome
+dos anais do congresso estão
+detalhezinho chato né tem que tomar
+cuidado o título aqui do artigo é a
+escolha de um navio de desembarque de
+tropa para armada argentina por meio do
+método dos a pedro com múltiplos decisor
+aí muita gente pensa que é o título do
+artigo ficar em não é porque
+dos anais anais do 21º simpósio
+paraná paraná mas cuidado e é visto é a
+mesma coisa evicta botei aqui ó uma
+citação
+é uma citação direta santos et al eds
+somos mais de três 2018 aplicar o método
+simplex visando elaborar uma dieta
+balanceada para os militares da marinha
+embarcados em navios de guerra
+a onde eu moro lá embaixo tem lá marca
+dos santos vinícius pimenta fabrício
+carvalho rodrigo lauri e jéssica somos
+cinco é o nome do título do artigo uma
+estratégia de otimização e navios de
+guerra e é o nome do jornal que vem
+destacado em brasília ou não não
+é o título do artigo tão não pode
+confundir
+oi e aí o que que o avaliador observa né
+então eu por exemplo eu sou avaliador o
+sol refere parecerista o encontro
+nacional de engenharia de produção
+e você pode brasileiro de pesquisa e
+e da revista podes própolis a praia de
+sofre com piolho e filho marcelo de luz
+e o seu avaliador também vamos terminar
+logo com é é artigo para avaliar o que
+cavar rio eu avalie isso que eu mostrei
+para vocês nessa apresentação eu tô com
+uma olhada no seu título resumo
+introdução como é que você escreveu o
+problema você tem uma pinha cognitivo
+cobrar representar o problema
+ornamentação teórica que o assunto tá
+bombando ou não qual é a sua proposta de
+solução se ele é consistente você ela te
+levou algum resultado se você discutiu
+esses resultados horas referências estão
+certinho se você fez as estações
+corretamente e claro que a cor da aura
+o cara que escreve lá no fundo não vou
+tempo vou não mas não tem a menor
+condição né então português base a tão
+outra coisa cuidado com o plágio isso é
+uma é um cuidado também precisa ter a 20
+30 anos atrás você copiava alguma coisa
+de um artigo e um livro embora fosse
+errado né fosse plágio mas era quase
+impossível de pegar tava para gente
+pegar quando para um terceiro um artigo
+pode ser tá são copiava siemsen
+referenciar o autor hoje em dia há uma
+uma gama no mínimo eu posso te falar que
+10 só fitas diferentes e detector plágio
+eu gosto de usar esse verdinho aqui
+porque o que eu não preciso nem abrir o
+seu trabalho eu pego pdf porque antes né
+10 anos a tarde 20 ainda ficava pegando
+há três anos colando no google para ver
+se o google a chave hoje eu não preciso
+nem mais me dar esse trabalho
+e eu pego o seu trabalho completo em pdf
+jogo jogo aqui na nessa área assim aqui
+do plagiarism ele roda e já me da
+estatística aqui em cima aqui tá dizendo
+que não foi copiado esse trecho é
+vermelho quer dizer que você copiou ynti
+de algum lugar e além de dizer quantos
+porcento o trabalho foi copiado ele não
+dá me dá a relação de site de onde você
+copiou eu clico em cima ele com para ele
+abre a tela do teu trabalho e o site de
+onde você copiou ele está com os dois
+três primeiros então é impossível você
+pegar impossível você copiar e colar
+alguma coisa da internet e uma velho sem
+referenciar-se referenciar tudo bem né
+mas é impossível você copiar e colar
+alguma coisa do google e o avaliador não
+é impossível não tem como não
+se você copiou colou da internet ou
+avaliador vai descobrir
+e é dá um jeito para ir se assentar né
+segundo fulana beleza se você citou tá
+resolvido
+e lá e aí eu vou dar alguns exemplos
+aqui só para gente fechar peguei aqui um
+artigo artigo em
+é deixa eu ver aqui é
+e deixa eu ver se tá legal wesley falou
+tem algumas bibliotecas liberaram uma
+parte do acervo pago nesse período para
+ajudar no combate ao convite de 19 ele
+periódico da capes é uma delas legal é
+melhor da capista a gratuito né legal
+é deixa eu ver aqui pera aí problema
+o comercial teórico
+a conversão matrizes você tá eu vim aqui
+é tá isso aqui tá bom
+bom então aqui por exemplo eu vou falar
+logo pega a gente aqui que fala sobre o
+método do hp vai ser a nossa próxima não
+sabe né eu sou senhor então deixa eu ver
+aqui cadê o pé de paradinha aqui aqui
+cheiro tá aqui ó vou pegar esse exemplo
+aqui de um artigo ó um artigo de um
+aluno
+e vamo molhar o título olha só aplicação
+do método ahp na formação do portfolio
+de projetos estudo de caso na área de
+ter ido uma empresa sem fim lucrativo no
+estado do rio de janeiro o título tá
+completo né eu tenho um problema qual o
+problema é preciso formar um portfólio
+de projeto esse trabalho foi publicado
+na revista produção dos teles serviço só
+tem um problema preciso selecionar
+projeto de trem
+eu usei qual ferramenta o metro do hp
+aonde que foi esse problema
+se for na área de ter ido uma empresa
+sem fim lucrativo então a ideia tá
+completa
+e aí beleza aí vem o resumo olha só o
+resumo decidir corretamente é um desafio
+constante inventado pelo homem né nã nã
+tem que isso aqui é só um blá-blá-blá né
+é só um ah tá empresas para sobreviverem
+necessário é tão não quer dizer até aqui
+ó essa quarta linha foi só vamos lavar
+né não falou nada mais um blog tá aqui
+tem a ver né não pode ser o negócio do
+sul
+e aí depois ele fala este trabalho tem o
+objetivo já diz qual é o propósito do
+trabalho né no meio do método ahp tomar
+um portfólio de projeto de ipi pede ele
+já disse qual é o propósito do trabalho
+é formar um portfólio de projetos e o
+que que ele vai utilizar para chegar
+nessa proposta de solução aí foi
+realizada uma revisão parar é como é que
+foi feito aqui entrevista coordenador de
+t.i. na forma lá pa né é com isso foi
+criada a estrutura e ela arca do modelo
+que após os cálculos neném que resultou
+na hierarquiza são necessário para fungo
+quer dizer ele já falou um pouquinho
+aqui e deu tudo certo né falou foi
+criada a estrutura hierárquica do modelo
+e após os cálculos inerente resultou na
+hierarquiza são necessária para a
+e do portfólio de projetos então ele tá
+querendo dizer para quem tá lendo e tá
+querendo dizer eu apliquei e deu tudo
+certo os ônibus aqui é uma dica do
+leitor é opa deixa eu continuar lendo
+deixa eu olhar o certo deixa eu ver como
+é que ele fez
+bom então é que vem a palavra chave né
+pesquisa operacional aumento do hp
+gerenciamento de projetos gerenciamento
+de portfólio de projetos e aí olha a
+sequência aí vai aqui ab stretch
+introdução o mundo globalizado e
+competitivo chinesa dessa forma ocorreu
+militar o expansão das atividades quer
+dizer é uma enrolação aqui é um rolation
+né mas é um rolê que tem a ver com o
+assunto é só para o leitor esquentar né
+tu começa a rachando lá quebrando as
+duas pernas do leitor mostrando um monte
+de forma letal o cara o cara fica
+apavorado cara que tá lendo então não
+tem que começar devagar né então os com
+essa menina tu já não quero namorar não
+né o chegou
+e hoje você sempre vem aqui vamos ali
+tomar um suco aquele papinho mole né pra
+não não assustar a menina
+e aí aqui paraná ó aí entrei aqui ó
+problema então aí agora a gente vai
+começar o seu começou a descrever o
+problema dele né mostrou iva duro do
+processo seleção paraná quais são as
+dificuldades atualmente premiou conta
+com apenas um profissional quer dizer
+tem esse problema ele tem que selecionar
+os projetos e as ó ele sozinho para
+selecionar tudo monte de projeto sem
+metodologia é estruturada nenhuma tá e
+aí onix 2015 foram demandados 67 projeto
+ipi como é que um cara sozinho analisa
+77 projetos para dizer quem vai levar o
+dinheiro e não vai né então me explicou
+o problema dele ok baseado no problema
+ele foi buscar apoio para tu
+fundamentação teórica o referencial
+teórico
+e aí falando parada falou do método ahp
+clássico vai ser a nossa próxima live
+não é o método do processo analítico do
+método como é que a escala fundamental
+the saatchi
+e não a escala e aí ele entrou meio que
+esse tem quatro já é proposta de solução
+já é lhe aplicando o método para
+resolver o problema dele né então aquele
+já é a proposta de solução já é o item 4
+anos pegou lá estrutura hierárquica dos
+critérios formação do corte fora então
+tem que levar em consideração aspecto
+financeiro tecnológico estratégia tá lá
+para palha eu tenho que levar esse três
+fatores e consideração e aí ele foi a
+matriz decisão tomada de decisão a gente
+vai ensinar no sábado como é que monta
+matriz né verdade então esse tem quatro
+já é proposta de solução já é ele
+rodando o método ahp então papá obtenção
+dos resultados do modelo e tal chegou no
+resultado
+oi e aí o resultado que a gente queria
+ser na hora esse aqui ó ele pegou a 1 2
+3 4 5 7 8 projetos e aí ele fez um
+ranking do primeiro para o último
+tu vai levar a grana é o novo site da
+firjan segundo o cara que vai levar a
+grana segundo o projeto criação de
+relatórios no painel terceiro terceiro
+projeto painel de suplemento a
+ah então quer dizer ele chegou não
+resultado né o resultado é esse aqui
+agora será nesse né tudo será que essa
+aplicação ela é incrível será que ela
+pode ser aplicada realmente lá aí vem a
+discussão dos resultados
+e aí ele falou que papá e hoje como é
+que é feito hoje é feito por ordem de
+chegada e tem questões políticas
+envolvidas que não é só a questão de
+usar o que eu não e etc e tal né e por
+último as considerações finais então é
+que aquele deixou claro aqui no método
+foi utilizado com sucesso com a
+aplicação do método por suficiente para
+resolver aquele problema que ele tinha
+de selecionar projeto de tem é que um
+cara só tinha 67 projetos para avaliar e
+daqueles 67 tirar seis sete para receber
+o dinheiro tá então aqui deixou claro
+que esse problema foi resolvido aqui ó
+assim o aplicação do método ahp
+conseguiu se propõe uma metodologia de
+assine a tomada de decisão para que o
+decisor tem uma armazamento técnico
+administrativo na
+e na formação do projeto de lei quer
+dizer ficou claro que a aplicação dele
+funcionou e que agregou valor né que é
+realmente apoiou a decisão tá
+oi e aí acabou bem então é maravilha
+mestre muito legal ali vou deixar o link
+aqui para o pessoal do teu trabalho
+também eu botar aqui isso disponibilizar
+ele toca o rake o começo por exemplo eu
+botar aqui ó tá aí o seu cheguei
+brinquedinho
+o currículo lattes do mestre e-mail a
+quem quiser entrar em contato e levo lá
+que aonde tem os softwares medo que
+foram realizados aqui nas lives nas
+sequências né para poder aplicar os
+métodos né e tem também tem também
+alguns dias nós também né de pesquisa
+operacional em de filas né trem isso é
+bem bem interessante lá esse seguinte
+[Música]
+obrigado aí pela presença e também
+queria deixar dinheiro para show de bola
+valeu mestre muito sempre sempre bom aí
+recebeu e também queria falar aqui e a
+gente vai abrir a turma que dia treze né
+agora da comunidade de estatística e
+quem quiser conhecer mais da comunidade
+também eu vou deixar o link aí para
+vocês
+oi gente pergunta agora tia manda o link
+logo eu vou salvar aqui tá aí eu o link
+aí que tiver alguma dúvida eu sou super
+acessível também vou deixar aqui o
+linkedin também aí ó
+e aí
+ah e quem tiver interesse na área
+acadêmica né e e quiser seguir mestrado
+doutorado professor marcos santos é
+professor do instituto militar de
+engenharia né e ele tá super aberto aí a
+conversar com vocês e até de repente
+surge uma oportunidade de você estudar
+no estudo tão renomado como de esperar
+engenharia né é verdade tudo é uma
+questão de preparação é é justamente por
+isso que eu tô te explicando essa coisa
+dos artigos é importante ter artigos
+publicados né então a gente já tem tudo
+uma questão de preparação é um cara tem
+que aprender a deixar um pouquinho pai
+tô em r não tem que publicar um artigo
+zinhos e tal mas isso tudo eu não espero
+que ninguém venha falar comigo é uma
+experiência norm já o cão chupando manga
+do python não eu vou te mostrando o
+caminho não faz esse curso aqui
+e como escrever um artigo ali parar eu
+vou ajudando aí o pablo é hoje você faz
+uma disciplina isolada lá também né na
+tu me trazer eu fiz uma disciplina lá e
+sair com um software aí para uma
+biblioteca para ficar no r né no são
+pedro então já levou para caramba né não
+essa chorar além de eu ter aprendido
+muito na disciplina né eu também
+[Música]
+consegui traduzir isso não software aí
+no aplicação produto né necessários aos
+outros se fosse lá blá blá blá blá blá
+blá blá não com certeza fora que os
+professores sensacional pelo seu marco
+santos aí rademark a gente teve aula
+para os alunos do professor marcos
+orientando deles lá do imi coronel
+afonso lopes coronel afonso lopes também
+sensacional então vale muito a pena aí
+vocês procurarem aí o professor
+conversar um
+o coronel afonso gama lenda da
+estatística né exatamente nascido ele já
+já ele já tinha livro já é aquele ele
+tem ele é formado na universidade da
+carolina do norte né cara é fera demais
+cara é sério então tem muitos
+professores bons lá no instituto né se
+vocês quiserem procurar aí o pessoal tá
+falando aqui excelente obrigado
+excelente chow-chow para vendo excelente
+live obrigado por pessoa aí eu quero
+live pô é só gostou demais aí a gente
+teve aqui record de audiência hoje aqui
+na comunidade 85 pessoas na comunidade
+né a então o muito legal eu acho que a
+ideia é essa né
+eu vou ter que ir até fazer um outro
+plano nos vai passar de 100 né tem o
+paciente até ser já é sério ele quase
+chegou no teto legal demais tá então
+obrigado aí tiago tá santo e agradeço
+negócio de mais interessado na hora que
+vai ser sábado no celular 10 horas e
+essa live não serve para artigo
+científico também né para você
+estruturar o problema você falou de mim
+esse mapa mental cara até pessoas que
+querem concurso público né mapa mental e
+tá isso ajuda demais também ajuda ajuda
+é uma marinho por voz também né quando
+eu participo de uma reunião pessoal
+morre de reuniões e o meu joelho no mapa
+mental
+é porque uma ele já traz tudo toda
+informação que eu preciso e no final
+todo mundo tá participando a reunião tem
+uma visão geral do problema sério do
+programa como um todo então com certeza
+uma palestra seriada quando você tá no
+trigésimo slide o cara já esqueceu o
+primeiro quando eu faço um mapa mental
+não uma coisa vai na outra ramificando
+está no scan no final você viu o
+problema não é um cara se convence que
+aqui no trabalho e também pessoal vou
+deixar aqui também se vocês quiserem ser
+avisado das próximas lives vocês podem
+se inscrever nesse link aqui na que
+ainda não está escrito e aí vocês vão se
+avisares aqui também tem o cronograma
+das lajes você procurar aí a próxima
+loja do professor marcos santos vai ser
+hp né é vai ser no sábado agora né
+eu estava agora método é sabe que horas
+10 11 e agora tem umas blusas aqui que a
+gente com vermelho foi deixa eu ver aqui
+pera aí você foi 10 horas né
+e os 10 horas que foi dela e depois foi
+do iphone 10 porque a outra foi 11 e
+meio que entrou no almoço também é só
+falta foi das mais vamos vamos botar 10
+10 horas tá bom beleza sábado agora no
+sábado é dia quatro né teremos uma live
+e vamos explicar o método do hp passo a
+passo equação e inequação e no final
+também vai mostrar a meta nextel fácil
+de mexer para gerar os resultados do
+método ahp certezinha memes legais aí
+pro pessoal rir um pouquinho em brauna
+marcha mão na massa bem prática também
+bem bem objetiva sem muito bla-bla-blá
+da manhã
+o show de bola então até sábado valeu
+valeu obrigado valeu pessoal pela de
+sábado obrigado espero vocês aí no
+sábado valeu aí
+e aí

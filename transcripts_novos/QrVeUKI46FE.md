@@ -1,0 +1,218 @@
+# Part 2 - Data Analysis in Python - Reading and manipulating databases
+
+- **URL:** https://www.youtube.com/watch?v=QrVeUKI46FE
+- **ID:** QrVeUKI46FE
+
+## Transcrição
+
+olá pessoal voltei vamos continuar a
+nossa aula de análise de dados com
+pandas na aula anterior em cinema vocês
+aí como baixar anaconda como abril junto
+notebook como criar juntando tudo quem
+novo e vamos continuar aqui a colocar a
+mão na massa não vamos fazer nossas
+análises
+o da ceb que a gente não utilizava seu
+grupo mãe de tabaco vou deixar o link
+pra quem quiser baixar e acompanhar aqui
+ele está disponível no link rambi ser
+mais delongas vamos começar primeiro
+passo importar a biblioteca andas que
+vamos utilizar todas a biblioteca python
+de código aberto para análise de dados e
+da o python a passar a trabalhar com
+dados de planilha permitindo carregar a
+manipulá lo e combinados entre outras
+funções
+é eu explodi aqui do meu consolidado
+está aqui no meu no meu diretório do
+notebook está aqui ó ainda é você pode
+baixar e fazer o upload de cheque ou
+load só clicar aqui e você consegue
+carregar para que o seu conjunto de
+dados como também você tem a opção de
+carregar a directora do hotel btt a
+minha direto do seu computador só passar
+o caminho o panda consegue ler tranquilo
+vamos voltar aqui primeiro vamos
+importar a o panda está importa a na
+aula passado dei a dica do contran ainda
+para rodar célula mas hoje eu vou deixar
+aqui o active center o que ele já
+acrescenta uma célula baixo e podemos
+continuar com dificuldade aqui então já
+em por ter aqui a biblioteca pandas e
+agora vou carregar o nosso conjunto de
+dados
+então vou criar variável chamada df e
+ela vai receber perder weed e a dica que
+eu dou aqui hoje ela se ao clicar tab
+ele traz aqui todos os métodos
+disponíveis para o ide então a gente
+pode que leão
+se vê um excel html geison e o nosso
+arquivo csv tá então vou colocar aqui
+csv e a gente abre 40 c coloca o nome do
+arquivo como o meu arquivo está aqui
+dentro do meu diretório do notebook eu
+não preciso passar o caminho todo basta
+passar o nome do arquivo abre aspas e
+coloca kiep mãe de outro t é se ver e
+dizer qual o separador de arquivos não é
+esse nosso arquivo separado tabulação tá
+então coloca fim ao sepe vai ser igual a
+barra está separado por tabulação se o
+seu arquivo universal no seu computador
+você volta ao caminho aqui se cobre ela
+o caminho do seu arquivo joga aqui e ele
+consegue dormir tranquilamente também
+então vamos aqui lê carregal nosso das
+sete
+acabamos de carregar e vamos visualizar
+agora as primeiras linhas do meu
+conjunto de dados e como eu faço isso df
+ponto simples carregou aqui pra gente as
+cinco primeiras linhas do conjunto de
+dados
+o python ele indexa a partir do zero a
+indexação do pai do comércio em zero
+então ele traz aqui 04 as cinco
+primeiras linhas
+tá e como é que a gente sabe a
+quantidade de linhas e colunas do nosso
+direito a femme a família gostaria de
+saber apenas a quantidade de linhas e
+colunas certo tem um método aqui o
+chamado shape df ponto chip e ele traz é
+a quantidade e linhas e colas todo
+objeto da frame ele tem um atributo
+shape que retorna à quantidade de linhas
+e colunas sendo assim nós temos 1704 es
+e seis colunas e como é que o retorno
+apenas os nomes das colunas bem simples
+tf
+olha como é difícil df
+pontos comuns e ele me traz o nome de
+todas as colunas do meu conjunto de
+dados
+nós temos cá outro continente e é life
+ex pop gp cap certo vamos seguir sem
+enrolação e como eu sei o tipo de
+informação e contém em cada coluna df
+ponto de taipe aqui o tipo de informação
+object interfloat objeto e ele é
+equivalente é o estilingue no pai total
+objeto é um tipo stream
+então nós temos aí tal tem como stringhi
+e é inteiro life s flot tá aí o tipo de
+cada colorado
+vamos agora retornar apenas uma coluna
+digamos que eu quero montar um outro de
+37 com apenas uma coluna do meu conjunto
+de dados
+vamos dizer qualquer retorno apenas a
+como uma causa e se eu colocar aqui ó
+vou colocar aqui então cao-cri df vai
+receber df abre colchetes simples assim
+jogar aqui em baixo já o ritz f.biz
+trouxe aqui pra gente o fizera 4 aí sim
+o primeiro as unhas da coluna causa
+certo podemos seguir
+fernanda não quero retornar as primeiras
+linhas eu quero visualizar algumas
+linhas têm como tem sim efe ponto tenho
+cinco as cinco últimas linhas do nosso
+conjunto tietados tac a mas eu queria
+retornar as 15 primeiras as 15 últimas a
+gente coloca no parâmetro aqui df ponto
+river 15 e ele retorna aqui ó 0 14
+as 15 primeiras linhas do nosso taccetti
+não é fácil muito fácil e eu vou mostrar
+que agora um método muito bacana também
+pra quem gosta de estatísticas estamos
+no canal está difícil
+o método de escolhe df ponto da história
+eu quero que ele vai retornar olha que
+legal
+esse método ele retorna métodos
+estatísticos do nosso conjunto de dados
+e à tona informações como montagem a
+média dirigir padrão os cortes o máximo
+entrada que é o téo 1704 linhas qual é a
+média todas as informações referente a
+todas as colunas numéricas do nosso
+conjunto de dados
+legal não é vamos seguir
+agora vou mostrar um método ok método
+locke é utilizado para visualizar
+informações de data 7 e assim método e
+recebeu a lista o parâmetro em retornar
+o resultado da consulta
+vamos agora baixo vou mostrar pra vocês
+digamos que a gente queira retornar
+todas as informações mas apenas do
+continente oceania o mar que a gente faz
+eu vou criar aqui uma outra variável
+chamado assim aqui e ela vai receber df
+vamos utilizar um método lopes df ponto
+lope abra o shea para qualquer trazer
+quero trazer edf continente continente
+tudo que é igual igual em python são
+dois sinais de igual e tudo que é igual
+a o oceania
+ele já chegou aqui em baixo ian trazer
+as 15 primeiras linhas já trouxe aqui
+pra gente as 15 primeiras linhas de todo
+mundo que tem o continente o que seria
+fácil vamos em frente
+quer que eu quero trazer agora
+e se quisermos agrupar os dados por uma
+determinada coluna vamos lá vamos
+agrupar continente total de países do
+continente como a gente faz isso quero
+saber o total do país que o continente
+ainda fazer um agrupamento df ponto
+group
+ae
+eu quero trazer todos os continentes
+internet e eu quero retornar o total de
+países por cada continente então coloca
+um chat a gente vai usar aqui é o emmy
+eo nic método vai fazer ele vai contatar
+a gente é quanto os países únicos a
+gente tem em cada continente então daqui
+ou do m&amp;e unic e roda que ele traz para
+a gente então a gente tem 52 países do
+continente africano na áfrica 25 países
+nas américas 33 na ásia 30 na europa e
+dois países da oceania então ele traz
+aqui todos os a quantidade de países
+para cada continente
+vamos agora eu quero mostrar um método
+muito bacana pra gente finalizar essa
+parte do vídeo para não ficar muito
+longa então vou finalizar mostrando a
+vocês digamos que a gente está fazendo
+análise que o seu chefe pede a média
+qual era a expectativa de vida média por
+ano para cada ano com a expectativa de
+vida média simples vamos fazer novamente
+um agrupamento vai nunca que a gente
+quer a gente quer agrupar por ano e que
+atrasei a expectativa de vida
+então a gente entre parênteses coloco
+aqui o am e e a gente quer trazer a
+expectativa de vida correto bota aqui o
+life
+efe ele quer que a gente retornar à
+média olha como é difícil ponto de média
+e ele já retorne aqui pra gente
+a expectativa de vida média por ano para
+cada ano com a expectativa está aqui
+pessoal esta era a única que eu queria
+deixar essas foram as nossas análises de
+hoje não pára por aqui no próximo vídeo
+tem muito mais espero que vocês tenham
+gostado e a gente se encontra no próximo
+vídeo

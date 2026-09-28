@@ -1,0 +1,1017 @@
+# Live Mariana Nolde - Área de modelagem de crédito e desafios  - Comunidade de Estatística
+
+- **URL:** https://www.youtube.com/watch?v=yJuG-9UgxhQ
+- **ID:** yJuG-9UgxhQ
+
+## Transcrição
+
+até então assim eu vou falar na
+possibilidade do uso de modernas
+o mais comum é não aconteçam na mudar o
+nome dar um crédito dar um lugar o
+linense mais alguma personalidade essa
+na precipitação então baseado numa
+probabilidade de inadimplência
+eu vou ensinar o quanto de número eu vou
+colocar nem quando é que eu vou cobrar
+por cada um mérito mas nada muito maior
+não tanto muito maior
+eu acabo acrescentam não precisa melhor
+aquele produto dados da inadimplência
+maior ou também uma outra finalidade que
+a gente acaba usando é provisionamento
+de que a pessoa a entrar em
+inadimplência né
+existe aquela chance que ela não me
+pague esse eu tenho crédito e ela não me
+pagou
+é o que acontece todo mundo não pagar né
+o banco a instituição financeira vai
+falir então o provisionamento nada mais
+é de que assim sempre quando o crédito
+nem eu a pessoa tá
+a gente tem expectativa por exemplo eu
+dei um crédito de 100 a expectativa de
+receber a 115 por exemplo 115 reais um
+valor bem baixo
+pode ser que aquela pessoa não não me
+pague e aí que as instituições
+financeiras têm que fazer ela assim que
+provisionar elas têm que dar aquele
+crédito que ela concedeu e que ela
+espera ter o retorno tem que ter um
+volume de valor que ela vai guardar como
+se fosse uma poupança forçada
+caso a pessoa não não cabe é isso é a
+provisão provisão de crédito e há muitas
+vezes o modelo é usado com essa
+finalidade também né além do seu de
+calcular
+a probabilidade de inadimplência de uma
+pessoa a chance dela não pagar a gente
+também prevê que caso ela não pague qual
+é o valor que ela não vai pagar né
+daqueles ans em reais que eu emprestei a
+qual é o percentual que provavelmente
+ela não vai me pagar
+nesta zona não paga e digamos que seja o
+vinte ou trinta reais o que o banco faça
+ele coloca numa poupança foi forçada
+como se não fosse pagar só pessoa
+realmente não pague
+ele não vai atacar com o prejuízo total
+de volta é isso né então essas são as
+três finalidades nas quais a gente usa o
+modelo precificação concessão e provisão
+a provisão ela não é usada por os
+modelos estatísticos não são usadas em
+todas as instituições financeiras para a
+provisão na legislação atual do banco
+central não exigem essa exigência mas
+algumas em utilizam né e possivelmente
+no futuro dado que muitas instituições
+de outros países já utilizam e com uma
+tendência de implementação de uma nova
+legislação para a provisão aqui no
+brasil provavelmente nos próximos anos
+jamais usar muito mais
+o modelo estatístico vence para
+provisionamento então não só vai ser
+mais comum esse uso além da própria
+concessão que já é bem comum de ser
+usado
+e aí é legal destacar que a regra do
+negócio é fundamental
+sim é exatamente esse é o principal
+ponto é assim porque quando às vezes as
+pessoas perguntam né ai qual é o melhor
+com a melhor técnica né pra fazer um
+modelo e geralmente a resposta e não sei
+por que não porque não sei porque
+realmente depende da característica do
+negócio depende do apetite ao risco que
+aquela instituição tenha
+depende se ela usa para provisão ou não
+e porque não quero chegar nesse ponto
+porque por exemplo assim para a
+concessão de crédito né
+o curso eu vou dar um não limite pra
+alguém
+as instituições financeiras elas são bem
+livres para fazer esse tipo de escolha
+né
+elas não precisam prestar contas pra
+ninguém eu uso eu faço da maneira como
+eu acredito que seja boa e oque está
+adequado mas para a provisão o uso os
+bancos no caso as instituições
+financeiras elas precisam prestar contas
+ao banco central
+daí elas prestam contas através de
+auditoria de diversas formas
+então assim se ela usa o modelo também
+para a provisão é tudo que está sendo
+usado a forma como é calculada a forma
+como os de onde se extrai os dados como
+se mede estabilidade
+tudo tem que ser muito bem documentado e
+justificado transparente né
+exatamente tudo muito transparente
+porque isso é muito agitado e e aí
+precisa se quisesse produzir o resultado
+isso tem que estar muito explícito né
+tanto in documentações quanto a isso eu
+calculei uma probabilidade x quais foram
+as variáveis que eu usei qual a
+relevância de cada uma destas variáveis
+tudo isso tem que ser muito claro então
+entrando nesse ponto mas a amiga
+perguntou aqui ó
+eu pergunto se há um desafio escolher
+derrube gols né pra achar que
+indicadores para medir performance
+estabilidade do modelo
+a gente sempre é um desafio porque o que
+acontece
+primeiro claro pela como é que eu vou
+dizer assim pela disponibilidade da
+informação sim mas eu acho que o mais
+importante é realmente pelo desempenho
+daquela informação no teu conjunto de
+dados por exemplo assim digamos que eu
+utilize com uma das variáveis no modelo
+alguns cord virou externo por exemplo
+enfim um score do senado por exemplo do
+spc
+eu tenho que vencer a que aquela
+informação né
+dado que ela parte de um modelo ela foi
+feita através de um modelo se há aquela
+pontuação ela faz sentido dentro do meu
+conjunto de dados que poderão assim eu
+trabalho numa instituição financeira
+x só que o modelo do serasa por exemplo
+foi feito com uma base de olha o brasil
+todo e diversas instituições financeiras
+diferentes e olha esse comportamento
+então talvez quando eu olhar essa
+pontuação dentro do meu contexto ela não
+faça muito sentido né porque ela não se
+aplica porque o mesmo com a minha
+amostra de dados é diferente da amostra
+de dados que foi utilizada para
+construir aquela população aquela a
+pontuação que eles utilizam então o
+botão para boxe amb simpson a né
+e ele ficará na análise é isso
+exatamente porque também tem uma questão
+não é o que a gente usa de variável
+resposta dentro de um modelo né modelo
+de risco de crédito
+a gente usa a probabilidade de
+inadimplência é seja ela qual for
+às vezes é uma terá acima de 60 vezes um
+atraso acima de 90 dias acima de 30 ou
+atraso do primeiro pagamento enfim
+várias instituições já vi conceitos
+diferentes inadimplência
+isso varia realmente com o objetivo da
+empresa né
+e se o apetite ao risco o que é
+considerado inadimplência ela vem do
+negócio
+ela vem das áreas de negócio quando que
+a inadimplência começa a ser ruim por
+exemplo a gente sabe que há nos primeiro
+alguém que atrasa poucos vias não é em
+tese o mau cliente porque essa pessoa
+vai pagar as contas e ainda vai ter um
+juro desse atraso então geralmente essa
+pessoa inclusive ela é boa para o
+negócio pra isso agora porque ela terá
+um lucro
+e dentro desse pequeno atraso mas a
+partir de um determinado limite
+um trade off né isso exatamente a partir
+de um determinado limite é um bom cara
+eh neh e atrasará e o com um ruim é de
+de atrasar também não é exatamente a
+partir de que ponto dentro do meu
+negócio é dentro da minha empresa
+um atraso começa a ser mais prejudicial
+começa sempre judicial realmente quando
+ele me dá prejuízo
+é isso realmente quem vai trazer um
+conceito que vai trazendo variável
+resposta são os negócio a própria
+empresa que vai dizer não existe o único
+né
+nos locais em quem eu trabalhei em
+diferentes áreas
+a gente já vi conceito as diferenças já
+vi desde as finais no primeiro pagamento
+até atrasos acima de 60 a 90 dias
+às vezes pode aumentar para os dados da
+neve uma curva rock neve onde quer né
+a menor parte que está gerando a maior
+inadimplência vamos assim e aí ele sabe
+se acha um coffee dada pra olhar para os
+próprios dados
+mas geralmente acaba vindo realmente da
+área de negócio das áreas de recuperação
+por exemplo de crédito nas instituições
+financeiras é quem vai lá e cobra pessoa
+é que por exemplo o custo da cobrança
+acaba sendo prejudicial nem ação de
+cobrança é muito cara e aí esse cliente
+passa a ser ruim
+a partir daquele determinado momento
+quando o juro do atraso não compensa o
+gasto com o fabrício fez uma pergunta
+que com a faixa de renda do público alvo
+e as suas pesquisas
+o grande problema que nós temos aqui na
+empresa que nosso modelo visa atingir as
+classes c e d aqui após e 160g mesmo
+quinto dia que é quando ele entra em
+greve creve que crédito seria é aí o
+ponto de corte do mal para eles há 65
+dias
+acho que a variável resposta seja o
+cliente com atraso acima
+65 exata essa canção prefeito sair ilesa
+e falando em faixa de renda assim a
+gente não tem um predomínio específico
+onde o trabalho de alguma faixa de renda
+porque como acaba é é uma instituição
+que abrange todo o brasil e diversas
+regiões
+se tem diferenças muito importantes de
+comportamento dentro dessas regiões é
+tanto de região para região quanto agora
+de um tempo pra cá com um produto
+digital conta digital também se tem um
+perfil diferente então se tem o mais
+variado possível de faixas de renda mas
+em geral aparece claro isso varia
+realmente de instituição para
+instituição é das taxas cobradas do juro
+cobrado do perfil da instituição de como
+é que a imagem dela né como é que as
+pessoas enxergam
+mas assim a costa nos modelos que eu
+trabalhei até hoje nas instituições que
+eu trabalhei e na base de dados que eu
+trabalhei na universidade era uma base
+de dados real não se tinha tanta a
+relação entre a renda da pessoa eu
+atraso
+então o não tinha relação dizer que
+assim que pessoas com maior renda atrás
+ou menos o pessoal e pessoas que têm
+menor renda traz mais não se tem essa
+essa diferenciação é assim então quer
+dizer uma coisa leva à outra
+o que a gente só tem um pouco de cuidado
+e assim a gente desenvolve um modelo
+dando pra pessoa física quanto para
+pessoa jurídica
+e aí para pessoa jurídica com um uma pj
+maior que todo o crédito maior se tem um
+cuidado só um pouco maior na
+classificação e olhar algumas coisas
+algumas informações que inclusive não
+são específicas só do modelo porque se o
+11 a pj grande que tomou um crédito de
+milhões de reais atrás ao deixar de
+pagar o impacto disso é muito maior do
+que se uma empresa pequena
+de blazer então o cuidado às vezes muda
+conforme o valor exposto mas não que se
+tem uma relação menos visto até hoje nos
+locais que eu trabalhei entre a classe
+social e chance de inadimplência a a
+américa fez outra pergunta que o tiago a
+mariana está falando sobre inadimplência
+em modelos aplicados para prever a
+identificar clientes inadimplentes os
+modelos de fraude no crédito seguem
+nessa mesma linha de raciocínio que ela
+está câmbio segue a mesma linha assim eu
+nunca consegui o modelo de fraude mas
+assim a dificuldade conversando com as
+áreas de fraude né
+enfim com as pessoas que eu já tive
+contato só a maior dificuldade e
+modelagem de fraude é que o desfecho é
+muito pequeno
+é então se tem é aqueles casos que
+estuda como casos raros
+então assim só um pouco a dentro de uma
+base de dados não são muitos casos de
+fraude que se tem sim então acaba sendo
+bem difícil de modelar o fmi só
+exatamente pela definição por ser poucos
+casos
+e aí acaba inclusive são difícil de
+encontrar variar boas variáveis
+positivas
+diferente de um modelo de crédito que é
+um modelo que se tem muito mais
+informação a entidade pleiteava a chance
+probabilidade de inadimplência
+em geral não mas não é um evento raro
+pessoa ter azar enfim mais de 30 60 90
+dias quem ele seja a variável resposta é
+muito mais um insumo é pra você
+conseguir qualificar a conhecer
+exatamente o que se conhece assim de de
+fraude até acesso às pessoas elas
+procuram empresas né fornecedoras de
+dados que tenham alguma base da ntu e
+tem um pouco mais informação para poder
+reconhecer a esses bancos nesses bancos
+de dados por exemplo assim modelos de
+crédito instituições financeiras né
+não precisa nem ser uma instituição que
+não será
+anjo mais uma instituição financeira que
+tenha uma boa base de dados é tem uma
+quantidade de informações razoável
+consegue se fazer um modelo com
+indicadores bem longe assim
+aí está falando que que tamanho assim de
+banco mais ou menos assim a dimensão do
+dia de tamanho de amor à mãe
+o ditado de número de variáveis tamanho
+tamanho a informação mesmo número de
+linhas lá no teu banco por exemplo
+quantos nível
+olha eu já fiz os modelos que eu fazia
+na universidade tinham de 15 a 30 mil
+linhas e ele já tinha um bom desempenho
+já eram modelos bons mesmo modelos que
+não se tinham não se uma amostra muito
+grandes mas quando a gente fala depois
+instituição financeira a gente em geral
+fala daí já passa nas centenas de
+milhares de linhas ou até em mais um
+milhão de linhas mas bancos pequenos já
+se consegue
+só que assim o que a gente tem que ter
+um pouco de cuidado é que por exemplo
+assim quando a gente desenvolve um
+modelo a gente tem que ver esse modelo
+ele é estável ao longo do tempo o que
+quer dizer essa estabilidade ao longo do
+tempo se a performance dele na se ele
+está performando mês a mês de uma
+maneira semelhante né
+aquilo que a gente tinha conversado não
+adianta você a provar 20% em outro mês a
+provar 50 anos entre eles exatamente
+exatamente isso ele tem que ser coerente
+ele tem lá trabalhando sempre em
+patamares próximos e não ele não se
+torna previsível não consegue tomar uma
+decisão baseada na tri número se toda
+hora ele está mudando
+então a gente sempre tem que ver e
+estabilidade e dependendo do perfil da
+empresa do tipo de crédito que ela
+concede existe uma sazonalidade muito
+grande na concessão
+então assim no mês depois eu vou falar
+de uma loja de varejo né que enfim que
+tem um cartão um crédito bom
+provavelmente
+na época de o dia das mães natal o dia
+dos pais aqui cada um isso exatamente
+tem uma quantidade de crédito maior em
+outras menor então existe uma
+sazonalidade nessas informações e aí eu
+preciso
+se eu fizer um modelo baseado no meu
+comportamento de crédito em janeiro pode
+ser que ele não funcione bem pro agosto
+por exemplo que são meses com um
+comportamento muito diferente
+mesmo colocando um algumas dames pra
+entender o comportamento 17 o que em
+geral a gente faz a gente não coloca
+como dani e sim a gente pega safras
+realmente caótica televisão de vários
+meses
+você pega categorias divide em várias
+categorias onde assim é que estipula o
+número de classes e aí vai criando as
+classes senso não não eu pego dentro do
+meu processo de amostragem de selecionar
+mostra que eu vou desenvolver o modelo
+eu não pego ela só em um ponto do tempo
+eu pego ela em diferentes momentos do
+tempo
+o outro por exemplo uma base que vai
+olhar o histórico de 12 meses por
+exemplo entende que a fita em que o cro
+saxon melhor e por exemplo assim existe
+claro né existe dentro do da parte de
+modelagem
+existem modelos para diferentes em
+diferentes períodos de relacionamento do
+cliente por exemplo se o cliente que
+acaba de entrar na instituição
+financeira
+por exemplo eu tenho uma farmácia ea
+minha farmácia tem um cartão próprio com
+sede para compras na farmácia por
+exemplo não tem o cartão pra comprar
+eu tenho um cliente que acabou de fazer
+o seu cartão então eu não sei nada sobre
+ele não tem informações de comportamento
+nenhuma eu uso um modelo específico que
+o modelo de
+apliquei fomos core que ele então olha
+muito mais as informações cadastrais do
+cadastro daquela pessoa acaba olhando
+mais para as informações que amiri
+argumentou
+antes eu não me engano birô externo
+então essas informações acabam agregando
+um valor importante nesse primeiro
+momento porque como eu não sei nada de
+comportamento dessa desse cliente as
+informações de comportamento externa com
+outras instituições são importantes
+então essas informações acabam compondo
+esse primeiro modelo ele tem uma
+característica muito mais de informações
+da pessoa mesmo por exemplo a idade dela
+ou a profissão ou o enfim o tempo em que
+ela trabalha de uma determinada empresa
+ou se autónomo você tem carteira
+assinada enfim informações assim e se
+ela tem recepção no mercado ou não tem
+é um modelo mais com esse perfil e aí
+depois a gente tem um modelo debbie
+reynolds core que o modelo já é muito
+mais né como o próprio nome diz
+comportamental então eu passo um olhar
+menos para o mercado fora e passou a
+olhar mais para o relacionamento desse
+cliente comigo então assim é bom que o
+diferente uso de uma de modelos né com
+com determinadas especificidades
+pré-determinadas cliente onde é assim e
+isso está definindo vários perfis na
+exatos são modelos que eles são
+construídos da mesma forma podem
+utilizar a mesma técnica sala apresenta
+assim de uma vida normal de uma árvore
+de decisão de uma regressão logística
+enfim o que a pessoa for usar a técnica
+pode ser a mesma
+só que as variáveis de um modelo e as
+variáveis e ótimo dão bastante né
+no meu quero entender como é que esse
+cara eu quero conhecer e no outro eu
+quero olhar como é que ele está se
+relacionando comigo então por exemplo
+primeiro momento o modelo que é o que eu
+quero conhecer a pessoa a
+foto que eu tenho de variáveis
+geralmente uma foto ou daquele momento
+hoje por exemplo se eu for construir o
+óleo as informações dessa pessoa naquele
+instante de tempo né eu consulto virou
+externo e olha se eles têm restritivo
+hoje eu uso as informações do cadastro
+que eu coloquei hoje a minha idade
+enfim meu cargo o trabalho que que eu
+realizo enfim essas informações
+enquanto que o modelo comportamental
+modelo de raiva ele é um modelo que na
+sua essência as variáveis também trazem
+comportamento histórico ou seja eu não
+olho sob a foto hoje eu olho a foto
+desse cliente hoje e no passado com o
+tamanho do passado a instituição
+financeira que define
+de acordo com neodi os dados que têm
+guardados e depois de um processo de
+seleção de variáveis aquelas que fazem
+sentido
+a formação de seis meses a quantas vezes
+a pessoa comprou na loja nos últimos
+seis meses ela já atrasou não nesse
+período
+qual é o saldo de compra dela qual é o
+produto que ela compra enfim acaba sendo
+muito mais informações de comportamento
+do que em informações e as informações
+do cadastro dela por exemplo a idade
+dela já possivelmente geralmente não faz
+mais tanto sentido
+a restrição externa às vezes só sentido
+ou não
+às vezes é importante olhar né
+por exemplo se a se hoje ela tem um
+receptivo bom pode ser que daí
+futuramente ela vem à tona casar comigo
+mas aquele restritivo que esse esse
+cliente tinha lá na abertura de conta
+possivelmente pode ser que não faça mais
+sentido olhar então vai mudar muito o
+comportamento é o perfil dessas dessas
+variáveis que vão compor esse modelo
+acho que o fabrício fez uma pergunta
+pode ir pra min thiago marin um dos
+modelos que estão trabalhando é um crime
+traz a rentabilidade de um cliente após
+ficar devendo
+após um acorde que ele pague tudo
+corretamente de acordo com essa
+instabilidade
+ele ganhar uma nova vida com o nosso
+cartão e bem interessante porque assim
+dentro de si desse ciclo né de kadhafi
+explicando de relacionamento do cliente
+ele parte de um relacionamento 0
+vencendo
+aí o modelo que é que a gente chama de
+rever seu modelo comportamental e depois
+por último que a gente chama no final do
+círculo de relacionamento tem os modelos
+de atraso o que na verdade é um modelo
+de recuperação o que são esses modelos
+de recuperação que são os colegas de uma
+escola é assim dado que a pessoa atrasou
+qual é a chance que ela ter que eu tenho
+de que ela volte a pagar de que ela me
+pague novamente é de que ela me pai o
+quanto que daquele valor que ela atrasou
+que ela está detendo quanto que ela vai
+me pagar
+qual é o retorno que eu vou ter então já
+são modelos de um novo ciclo com um
+perfil completamente diferente de
+clientes porque daí são clientes que já
+começam de um perfil é de a partir de um
+perfil do inadimplente
+e aí o que eu quero olhar é a chance que
+eu tenho de ter um valor do ingresso de
+volta né a gente quer selecionar dentro
+desse conjunto de clientes qual que têm
+maior chance de volta de me pagar ou
+qual deles que vale a pena eu investi no
+assessoria de cobrança porque eu vou
+realmente têm uma rentabilidade maior
+vou conseguir ter um valor maior de
+pagamento com ele então são perfis bem
+diferentes e geralmente o que a gente
+usa para conseguir entender mais esse
+perfil são tantos os próprios os dias em
+que esse cliente atrasou por exemplo com
+o cliente com 15 dias de atraso
+é diferente de um cliente com 100 dias
+de atraso
+então muitas vezes a gente não faz um
+único modelo de collection score
+a gente faz mais de 1 porque muda o tipo
+de abordar muda o perfil né e as
+informações mudam também tem o olhar
+geral e se esse modelo ele olha muito
+mais ele também passa a ser de novo
+importante as informações de restrição
+porque daí elas nos dão uma visão do
+quanto essa pessoa tá devendo não só
+comigo mas com o mercado então
+possivelmente isso influenciar e ela tá
+vendo um monte de lugar
+qual é o lugar em que ela vai escolher
+pagar
+fabrício falou aqui você passou a falar
+a mesma língua
+agora nos colectores não é legal demais
+e eu acho que isso é interessante também
+a gente fazia 11 paralelo a icon com o
+tipo de abordagem de exatamente
+crescendo aqui convém é fugiu
+eu penso aqui do por exemplo você falou
+que certos modelos né você teriam poucas
+informações por exemplo de fraude né
+por definição você tem poucas
+informações na imprensa você já tem mais
+e aí por exemplo o dinar de imprensa que
+você falou que tem uma uma rigidez maior
+formal com a lei e tudo mais o que
+auditam né os três modelos e tudo mais
+né
+então aí você faz sentido você aplicar
+uma logística ou uma nova decisão que é
+mais fácil nem de você ele tá né exata
+por exemplo na fraude você usar por
+exemplo uma rede neural que aí você é
+mais uma caixa preta é um pouco mais
+difícil de você explicar pro pra quem
+está auditando né
+e aí você consegue num modelo é você
+consegue fazer-se 339 entre usar o
+modelo mais rebuscado mais simples né
+pra você adequar isso com a regra do
+negócio
+exato assim o que faltou eu levo dentro
+do rio dentro do risco de crédito que a
+gente costuma levar nos locais onde eu
+já trabalhei e acabou sendo sempre assim
+e conversando com os próprios
+professores na própria universidade nos
+traz é que sempre assim o que busca
+quanto mais simples for seu modelo né e
+más mas faz melhor ele é
+não digo mais simples no sentido dia os
+indicadores são isso não
+mas por exemplo se eu tenho um modelo
+vou falar de ks que é um indicador muito
+usado para a modelagem de risco de
+crédito porque ele é muito conhecido e
+tem muitos parâmetros na literatura
+muitas tabelas dizendo que é um modelo
+de application bom na qual é o ks que
+ele tem que ser o que o modelo de
+desempenho é bem comum
+assim vou pegar o indicador de ks por
+exemplo o modelo se ele tem acima de 50%
+de cairns ele é um modelo muito bom
+então digamos assim que eu construo o
+modelo com 25 variáveis que tem um cara
+essa de 61 modelo de dez variáveis que
+têm um carro chefe de 55 o que eu vou
+usá-la em geral isso também varia
+conforme o perfil da empresa mas em
+geral nós optamos por ter um desempenho
+menor mas o modelo ser mais simples
+porque simone exatamente tanto pelo
+princípio da parcimônia que né é muito
+importante da parte estatística nós como
+estatísticos a gente fala muito nisso
+mas também do ponto de vista de negócio
+porque assim são menos variáveis que eu
+preciso controlar dentro
+o processo porque o modelo ele vai estar
+sendo calculado uma freqüência muito
+alta e se por um acaso a bunda que há
+uma daquelas bases de dados algum
+daqueles sistemas que está trazendo a
+informação dá problema ou a tabela não
+for atualizada e eu tiver um monte de
+variável vai ser muito mais difícil eu
+conseguir detectar aquele problema e
+resolver se eu tenho - variáveis
+entrando no processo mais simples ele é
+para controlar e mais fácil é para
+identificar o erro
+a excelente época que isso é muito comum
+a gente fala muito em desenvolvimento de
+modelo mas na verdade na prática que nos
+toma mais informações mais tempo ea
+maior dificuldade realmente está
+controlando esse modelo rodando no dia a
+dia é tá vendo que ele não tá pegando
+performance que houve um momento que eu
+preciso é calibrar ou agora aquela
+variável que no passado fazer sentido
+agora já não faz mais ou realmente o meu
+sistema que traz a informação de um
+problema isso é comum isso não é incomum
+principalmente instituições financeiras
+grandes onde tem muitos processos onde o
+nosso banco de dados né
+diferente dos ossos antenor dentro da
+universidade eles não estão prontos
+a gente precisa cruzar e da jóia em um
+milhão de cabelos para conseguir formar
+nossa a nossa base de dados para a
+música popular modelo então isso parte
+de milhões de sistemas de milhões de
+tabelas e é muito fácil de acontecer um
+problema em uma tabela específica em uma
+variável
+isso a gente não tiver controle os não
+foi muito visível às vezes passa batido
+e aí depois a gente vai olhar o
+desempenho do modelo coxa mas modelo
+perdeu performance não é um erro de base
+teve muita emoção esse vídeo prestar
+actividade vai ficar fantástico na hora
+de mais a amaro o fabrício pergunta
+afirmar uma pergunta como é organizado
+desde antes que seja utilização de
+fontes variadas existe um de dado
+específico
+este levou poulson ia ficar ruim na
+conectando agora melhorou ou melhorou
+show lá os ossos os nossos dados são de
+muitas fontes diferentes
+então a gente nunca tem rodado pronto a
+gente sempre tem que trabalhar com ele
+ele vem em diversos formatos vêm de
+várias origens diferentes ea maior parte
+maior lentidão no cálculo do modelo né
+depois da implementação a maior
+dificuldade ela tá justamente em
+conseguir conseguiu consolidar esse onde
+informação e tratar a elas
+'trata-se as informações e ver se elas
+estão adequadas a calcular as variáveis
+que ele precisa transformar nas
+variáveis que a gente precisa porque
+muitas vezes elas não dobrou contas e aí
+por si só a parte final a cereja do bolo
+é tão popular né calcular a
+probabilidade aplicar a técnica que há
+hoje em dia essas transformações em
+botar o nome bonito e difícil onde nina
+e esse agora negócio ficou chique
+essa é a maior taxa maior dificuldade e
+o que é porque a gente na nossa na forma
+tão novo assim na nossa na minha
+formação pelo menos né aqui na ufrgs os
+nossos bancos de dados eles eram todos
+prontos né a gente tinha um conjunto de
+linhas duas variáveis prontas não tinha
+que testar variável ia ficar muito mais
+tempo pensando em técnica ou e técnicas
+muito sofisticados quando na verdade
+depois quando a gente começa a modelar a
+gente vê é a nossa maior dificuldade
+está em resultado de informação e não
+esquecer da boa estatística descritiva
+pra que as coisas que o tornozelo passa
+um sentido na exata permanente de que
+aquele dado é estado de que aquele dado
+é bond que eu não tenho muita informação
+faltando o enfim é o fazer uma vez
+critica boa e eu digo assim que a
+técnica ou de menos
+o que importa é a qualidade dos seus
+dados de andrada ficam os dados são bons
+se os seus dados forem bons eles forem
+confiáveis eles foram estáveis
+o teu modelo vai ser bom é o de volta da
+técnica
+claro que algumas podem ter uma
+performance um pouco melhor um pouco
+pior sim claro porque elas são
+diferentes mas eu acho que o principal é
+o brinco que a gente vai fazer um golo
+não importa tanto jeito como vai fazer o
+seu ingrediente tem que ser bom se ele
+não for bom tempo ou não vai ficar por
+quase uma técnica que seja um ótimo
+cozinheiro ea gente só consegue
+identificar que se os ingredientes são
+bons constante fica não entendi
+exatamente com essa dica básica
+descritiva e exatamente eu acho que uma
+das coisas que a gente mais bate aqui na
+comunidade tantas as pessoas que vêm que
+conversar com a gente né profissionais
+já consolidadas no mercado então todos
+eles falam da importância é bastante
+escassa descritivo eu acho que isso aí
+ficou marcado assim então os vídeos de
+cada um falou um pouco da importância da
+estatística descritiva a gente lá no
+curso agente embate bastante nessa tecla
+é fundamental de fato né não consegue
+fazer nada sem saber o que você está
+trabalhando nessa base o modelo se você
+não entende porque como é que a solvay
+está se comportando se aumentar uma que
+acontece da outra
+exatamente por ela só então não tem como
+você fazia a análise se você não
+consegue fazer análise comportamental
+não sou bom esse ground é conhecer os
+dados e ver como é que eles se comportam
+como é que atua base de dados como é que
+é o teu cliente como é que são como é
+que a distribuição das variáveis essas
+pessoas enfim entender porque daí depois
+do inclusive os instruem muito bem nessa
+típica descritiva se não sabe a
+distribuição de uma variável é por
+exemplo fez uma categoria duas
+categorias uma variável
+a gente sabe a quantidade que está em
+cada uma dessas categorias se dá algum
+problema nas suas bases de origem nativa
+é uma quantidade muito diferente que já
+vai saber de cara identificar
+verdade é bom para aí essa quantidade
+diferente da quantidade na dupla
+por exemplo sei lá é 30 e 70 bomba nesse
+- na categoria terá 30% agora tá 45
+outra será aí tu vai mais a fundo com
+lupa e ver se aquilo realmente foi um
+comportamento diferente e que no futuro
+vai pode inclusive trazer alguma mudança
+no seu indicador de desempenho do modelo
+ou se daqui a pouco vão foi algum
+problema de fonte de dados do sistema de
+origem fim consegue entender desse
+número entendendo essa distribuição um
+braço de bala simples que seja entender
+que aquela variável que está entrando
+dentro do processo está normal não tá
+legal de nós e aí também eu queria que
+você falasse um pouco da importância
+dada à amostragem né
+assim a avó também assim é muito muito
+interessante de falar porque ela é muito
+esquecida pelas pessoas que eu amo você
+fala que sou professora nem vou falar
+pra que eu fazer amostragens eu tenho
+banco nem tudo é exatamente foi um caso
+um pouco um pouco infeliz assim um pouco
+triste nessa trajetória eo professor não
+é não estatístico ainda bem que não
+faria mais chateado mas acho que seria
+muito difícil de me falar isso mas um
+professor que falou exatamente isso que
+porque eu vou mostrar se eu tenho uma
+base inteira de dados
+enfim essas coisas acontecem ea gente
+sabe que o tá na ocasião o governante né
+ele tem todo dinheiro do mundo é
+tratamente exatamente
+enfim é básica composição da minha da
+minha mostra o percentual de
+representatividade ele é muito
+importante por exemplo assim ela nesses
+casos vamos falar até agora do o exemplo
+de fraude se utilizar uma amostra
+proporcional da da população no modelo
+de fraude
+vai ser muito complicado porque qual é o
+percentual de fraude dentro
+de uma população ele pode ser o o 2
+tempo
+então se eu tivesse uma amostra de cem
+pessoas e teria dois casos de fraude lá
+dentro
+como é que eu vou modelar e saber os
+preços corretos daquela informação com
+dois casos não dá
+então eu vou ter que mudar nessa
+proporção na çã dessa mostra pra que
+aquele evento seja mais representativo e
+aí depois vêem na dentro daquele
+processo de amostragem dividir a mostra
+de desenvolvimento validação e teste e
+desenvolvimento a amostra que eu vou
+usar realmente pra construir os pesos
+das variáveis no modelo de validação que
+eu vou usar uma mostra similar com a
+mesma proporção e um teste que muitas
+vezes daí a gente aplica numa amostra
+com a proporção real e daí por exemplo
+se eu quisesse de fraude no modelo onde
+eu coloquei 50% de fraudadores de 50%
+não jogadores dizem conferir o modelo
+com essa proporção usaria essa proporção
+dentro da minha avaliação e aí depois no
+teste na minha amostra de teste
+eu volto na proporção de 98 2% para ver
+se o modelo performa dentro de um
+cenário real
+ainda que eu adoro e os pesos
+considerando uma mostra balanceada de
+bons ou maus porque porque essa moça
+balanceada porque o que eu de fato quero
+conseguir estimar bem não é ou não tal
+jogador e sim eu quero identificar ou
+fraudada do então ele precisa estar mais
+representado na moça né aí sabe que a
+gente coloca mais observações a gente
+consegue ter um resultado melhor
+às vezes vocês usam aí multiplicar pelo
+inverso do do tamanho pra ter uma
+representatividade eu já vi isso em
+algum lugar
+o modelo de desbalanceamento é você
+multiplica as vezes pelo inverso do peso
+né
+não conheço é eu nunca usei na verdade
+assim nunca fiz uma aplicação em algum
+caso ele fosse muito desbalanceado
+naquele que tivesse que mas
+desconhece se vou ficar te devendo já
+hoje tranquilo beleza mais portal ótimo
+já tá tá super bem explicado em taiz
+excelente já tá fazendo aqui uma hora de
+live né
+eu queria saber se o pessoal tem dúvida
+a gente liberar que a mariana que veio
+fazer um excelente live aqui pra gente
+foi sensacional brigada legal o pessoal
+alguém tem uma dúvida aí pra mary
+fabrício família estava cheio de 2001
+o fabrício agradeceu obrigado não bate
+papo amiga perguntou que o direcionado a
+carreira é importante um estatísticos a
+verdade e unha ou seja mexer um pouco
+com uma unidade ou nas empresas têm área
+que só existe para os instantes que
+trabalham somente com os modelos nem a
+opinião é fundamental porque assim a
+gente gosta de mexer nem sei se a gente
+não gosta de receber as coisas prontas e
+muitas estão acém com um problema então
+assim tu gosta de mexer no dado
+fundamental aprender essa parte é muito
+importante ela faz toda a diferença
+porque muitas vezes assim no seu
+dia-a-dia aí eu quero trazer tal
+variável quero testar a não mas agora me
+lembrei de outro jeito mesmo consegue
+manipular essas bases de dados e então
+essa parte eu acho muito importante acho
+que é uma coisa que particularmente eu
+tive muito pouco na universidade eu
+aprendi na marra exatamente como eu
+tinha comentado antes a gente recebia as
+bases prontas e fazer um modelo mas eu
+acho que tão importante quanto fazer o
+modelo é conseguir trabalhar em base de
+dados porque nunca em formação está
+pronto e muitas vezes a gente depender
+de um outro profissional para montando
+um banco para nós
+aí depois a gente olha faz uma
+estatística descritiva vê se que tem
+alguma informação que não está ok
+neco joy não foi feito corretamente que
+ele duplicou chave assim alguma coisa
+que não tem
+replica bomba né e esse é o flamengo que
+ocupa num a culpa é como é que fala é
+solidária não é exatamente um incrível
+que pareça acontece de ter um banco com
+uma chave duplicado eleito vai ver bom
+foi um erro do joy a pessoa esquecer de
+botão que duplicou
+léo não usou a chave correta então assim
+a gente como né como estatístico como
+alguém que gosta de manipular dados
+eu acho que é uma coisa que a
+universidade não trazem é uma pena não
+seja muito lógico né eu eu sou a favor
+de que acho que tu na universidade de
+estatística a gente tinha que aprender
+se quer ficar
+o s querem ajudar base da lógica de você
+fazer agrupamento grupo bae né fazê lo
+quando toda todo o trabalho de
+manipulação de dados
+você aprende mas quero né é uma gente
+tinha que ser obrigatório cá ea gente
+que pascal a brincadeira tá bom tem que
+ter acho que esse problema são
+obviamente vai programar também mas fogo
+bota a camisinha é exata
+a gente é fundamental é assim eu diria
+que o trabalho de modelagem a parte
+realmente de manipular dados fazer
+online
+ela ocupa assim falando daqui a pouco
+ela ocupa 70 do nosso tempo
+se eu subir aqui um pouco ao família ou
+então a primeira traz exemplo r manipula
+de pai é isso aí tivemos uma proporção
+pequeno e fraude numa mostra grande de
+dândis o modelo não vai aprender que não
+seria frontera como conseguimos diminuir
+o erro exemplos proporção 50 por cento e
+51 por cento poderia usar pode usar
+realmente só a maior dificuldade de
+acordo com vocês a onu foi isso exato
+tem uma mostra muito mais proporcional
+praças é um modelo e depois
+está na mostra onde tem a proporção real
+isso não roubar não né não
+se não se tiver uma performance boa não
+é roubar não só vai achar que robô
+beleza então alguém tem alguém tem mais
+alguma dúvida o pessoal
+a mídia falou que agradecer à mário
+tiago pela oportunidade de aprendizado
+não há briga das cara a gente vai ter
+então aguardam ansiosamente aí essa
+playlist lado de r de modelagem de
+crédito ainda está distante
+rezo o show de volta obrigado mesmo
+um abraço pra todos muito obrigada gente
+falou que era obrigado pela presença e
+também tão ligada muito obrigada

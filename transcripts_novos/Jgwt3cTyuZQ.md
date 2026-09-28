@@ -1,0 +1,162 @@
+# VIDEO 23 - 2018/CESGRANRIO/TRANSPETRO/Junior Administrator - Separator Measures
+
+- **URL:** https://www.youtube.com/watch?v=Jgwt3cTyuZQ
+- **ID:** Jgwt3cTyuZQ
+
+## Transcrição
+
+[Música]
+fala galera do canal está difícil tudo
+com vocês
+estamos aqui mais uma vez para resolver
+uma questão zinha dessa vez da
+transpetro tá que aconteceu nesse
+domingo tá da prova de dressage
+administrador júnior
+ok questão de 2018 fresquinho pra vocês
+e eu espero que que vocês gostem da
+nossa resolução beleza forte abraço pra
+você e valeu
+vamos lá então galera que estão zinho de
+2018 a fresquinha tá da prova de domingo
+da transpetro administrador junho embora
+mas nessa questão em casa comigo em
+questão
+a tabela a seguir apresenta distribuição
+de atropelamento uma cidade com vítimas
+fatais e nova taxa
+segundo grupo etário no período de um
+ano tá aí ltda que os grupos grupos
+etários na infância juventude meia idade
+e maturidade terceira idade e ele daqui
+vítimas fatais em porcentagem que a
+gente sabe que a nossa freqüência
+relativo simples está e vítimas não
+fatais está beleza beleza se que 1 e 2 e
+que três são respectivamente o primeiro
+quartil a média e o terceiro curtiu
+então que um t2 e t3 das vítimas fatais
+ou seja ele quer desse aqui nos
+atropelamentos numa ordenação com o
+proprietário se encontram
+respectivamente nas faixas etárias então
+ele quer dizer aonde se encontram o que
+é um o q2 e q3
+a gente sabe que o q1 q2 e q3 eles são
+medidas e para atrizes né pessoal pra
+gente relembrar que o conceito vamos
+fazer aqui como se fosse uma
+distribuição continuam só pra gente tem
+uma idéia
+vamos supor aqui que é uma normal tá aí
+o que seria o primeiro quartil numa
+normal tá o primeiro quartil ele é o
+valor que deixa 25 por cento para baixo
+e 75 por cento acima dos valores ok
+então a o até aqui 50% até a metade 50%
+então se a gente pegar metade da metade
+que é isso aqui é o primeiro corte de 1
+25 por cento
+beleza e aqui só para 4 75% por
+conseguinte certa legal
+então vamos fazer mais normal zinho
+é legal a gente sabe que até o momento
+tem 50% né então que 2 qe2 nosso 2º
+quartil ou a mediana tá
+ele divide exatamente no meio está 50%
+abaixo ele deixa 50% para 9 50% pra cima
+tá então a gente estaria pegando aqui ó
+essa partida aqui beleza legal e por
+último vamos fazer aqui
+ele pediu pra gente o terceiro curtiu o
+terceiro quarto ele deixa 75% para baixo
+e 25% para cima tá ele é inverso do do
+primeiro corte quinta o agente vai ter
+que 75% e pra cá a gente vai ter 25%
+tá então primeiro artigo a gente deixa
+25% que dois a gente deixa 50 por cento
+no mês e o q3 a gente vai deixar 75% em
+agosto e 25 por cento para cima tá legal
+então vamos ver que a gente tem que no
+grupo etário de 11 a 14 anos que a gente
+chama de infância ele teve 7,9 por cento
+de freqüência relativa tá beleza
+então aqui 7,9 por cento ainda não
+ultrapassou vamo vamo primeira chapa a
+um primeiro quartil né
+ainda não ultrapassou os 25 por cento a
+gente tem que isso nada essas
+frequências simples até o valor de 25%
+ea gente vai achar em qual está se
+encaixando
+o grupo etário beleza aí beleza 7,9 por
+cento somando aqui com um debaixo da
+quanta
+27 28%
+beleza 28%
+então a gente já sabe que o primeiro
+quartil ele se encontra nessa costa aqui
+na classe da juventude beleza
+então a gente já poderia eliminar ó a
+letra a letra b ea letra se a gente fica
+com 16
+agora a gente vai fazer o segundo com a
+corte nem que a nossa mediano
+a mediana deixa 50% pra baixo né aqui eu
+já tenho 28 por cento somando com 39,8
+a gente vai passar um valor 1 se fosse
+41 68% então a gente vê que a mediana
+ela se encontra aqui na minha idade
+ó q2 tá na minha idade
+agora a gente já teria a letra de
+direcionamento mas pra gente confirmar
+vamos fazer aqui
+vamos ver se ele se encontra na matéria
+que se o seu terceiro partiu se e se
+encontra na maturidade para a gente
+fechar a maturidade o 18,5 por cento a
+idéia é que ia acumulando e achando os
+percentuais está aí aqui beleza então eu
+tenho aqui 28% que já como lei aqui
+nesses dois primeiros dois primeiros
+clássicos está agora vou acumular com
+39,8 vai ser o que 67,8 por cento e
+sessenta e sete mil a oito por cento é
+menor que 75 por cento
+então a gente vai continuar fazendo
+vamos somar com com a próxima classe que
+a classe da maturidade 67,8 com 18,5 mil
+que 13 8816 678 86,3 86,3 é maior que
+75% então a gente sabe que o nosso que
+três deles se encontra na classe da
+maturidade
+tá com isso a gente confirma a gente
+pode eliminar a letra é também agente
+confirmou que de fato é letra de de
+direcionamento beleza
+então espero que vocês tenham entendido
+então é isso galera espero que vocês
+tenham gostado e entendido a resolução
+da nossa questão tá se você não entendeu
+você pode deixar nos comentários mesmo
+que a gente vai estar respondendo na
+medida do possível
+beleza tirando isso as dúvidas se você
+puder compartilhar também com seus
+amigos tá pra galera que estiver
+precisando de uma forcinha e estatística
+tá e se você fez essa prova da
+transpetro agora de domingo
+eu desejo uma boa sorte pra você está aí
+com uma boa pontuação tá no ranking e
+que você venha a alcançar e o sucesso ou
+agora um homem próximo enem porque
+concurso é isso a gente sabe que até
+passar em breve voltar divulgando a
+história de aprovação pra vocês vão ver
+que não é nada fácil mas toda a
+abstenção vale a pena notar que você
+tiver que fazer
+você vai ver que depois você vai estar
+com muito mais qualidade de vida
+então valeu um forte abraço pra você

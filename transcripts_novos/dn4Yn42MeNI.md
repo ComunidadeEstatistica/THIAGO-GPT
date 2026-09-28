@@ -1,0 +1,270 @@
+# VÍDEO BÔNUS 12 - LIVE ISS SÃO LUÍS - ESTATÍSTICA - Prof. Thiago Marques
+
+- **URL:** https://www.youtube.com/watch?v=dn4Yn42MeNI
+- **ID:** dn4Yn42MeNI
+
+## Transcrição
+
+Bom vamos lá então Galera nossa
+cristãozinhos 2016 FCC Prefeitura de
+Teresina auditor fiscal tá muito bonito
+que estão e uma repartição pública os
+processos que chegam para análise de
+diferentes e deferimento são
+distribuídos com igual probabilidade
+para quatro auditores auditor ar de
+ceder tá sabe-se que as probabilidades
+auditores A B C e D não diferirem não
+diferirem um processo são dadas
+respectivamente
+e por trinta por cento
+35
+2233 nessas condições a probabilidade
+é de um processo escolhido ao acaso
+aleatóriamente tá se
+deferido é igual a
+bom então galera a gente tem o seguinte
+situação aqui vamos começar acho que
+matiza lá a gente tem o auditor ar
+the world turnê
+e o auditor Cia
+Oi e o auditor dentro
+e ele falou que chegam com igual
+probabilidade os processos tá você é
+igual a probabilidade tem quatro aqui
+então aqui o que chega com um quarto
+e chega com quarto para o ar para o Bené
+chega com um quarto por ser e um quarto
+para o dedo também beleza aí fala que
+sabes que as probabilidades auditores
+não preferirem não deferir um processo
+são dadas por respectivamente Então a
+gente tem duas possibilidades para cada
+uma
+e ele pode deferir ou não deferir e
+diferir ou
+não deferir
+a deferir
+e não difere
+se preferir
+Ah e não deferir
+correto legal aí ele fala que
+respectivamente o ar ou seja é 33% de
+não diferir nós
+30 30 trinta por cento é aqui é 35% o b
+a uship é 22 por cento
+Oi e o de é 33%
+e
+consequentemente a gente sabe que ele o
+a deferirá o que setenta por cento
+o Uber deferir
+e é 65 né
+Beleza é assim por cento aqui é
+888 10 não sete oito né com certa aqui
+há
+sete oito por cento
+ó e aqui é o que 67
+e por cento legal e o que é que ele
+perguntou para gente ó
+nessas condições a probabilidade que o
+processo escolhido ao acaso
+ele seja deferido
+é igual a então ele quer probabilidade
+no processo eles e deferido tá só que
+ele pode ser diferido dado que ele vem
+do ar de ferir dado que ele vem do bebê
+seja dado que ele vendo ser tá então a
+gente vai ter que calcular todas as
+possibilidades deve ser deferida aqui ó
+a gente parece simplificar a gente pode
+circular aqui ó
+é da onde ele aonde ele foi deferido
+somente ó
+para não ter que escrever Aquele monte
+de coisa lá
+probabilidade de ar de deusa do ar vezes
+probabilidade de ar e assim por diante
+tá vai fazer isso Uber para você a gente
+vai escrever aqui de uma forma mais
+simples tá que acontece é só a gente
+multiplicar que vai ficar um quarto
+vezes
+setenta por cento
+em março um quarto vezes
+65 por cento
+é Mas um quarto vezes
+78 por cento
+é mais
+um quarto vezes
+67 por cento
+sendo que a gente repara que ocorre tava
+ficando todo mundo então depois que eu
+tenho evidência
+Ah tá e o Senhor ele vai se repetir
+também
+então pode botar sim aqui aí aqui então
+a gente tem que somar os numeradores
+vamos sua mãe então
+7165 e 78 e 67 vamos fazer 2 a 2 aqui
+para facilitar conta vai ficar 5 6 e 6
+12 e 13 aqui vai ficar 135 e aqui
+embaixo 7 4:15 Vai um
+de 6 em 6 12 13 14 então
+145 mais
+135 da o que aqui da 10
+a
+7 8
+280 né então é um dos transportes 280
+para cá
+é isso aqui falou que ó
+280 28
+X10 o quatro pode morrer aqui com 28 e
+aqui vai ficar sete né sete 2428 beleza
+então ficou 70
+sob sem que a mesma coisa que setenta
+por cento que a nossa letra b d
+Que belezinha
+tá tranquilo então não não se
+Cristãozinho 2006f seu Banco Central do
+Brasil era 4 nem tá ali comigo que estão
+uma pessoa poderão investir seu dinheiro
+em três setores a b e c da economia tá
+sabe-se que a probabilidade da empresa
+apresentar lucro é de 100 sendo a
+empresa do setor ar
+0800 sendo a empresa do setor b e
+090 sendo a empresa do setor cê tem se
+ainda aqui nesta economia existem 750
+empresas do setor ar
+300 no Setor B
+150 no setor se
+escolhesse aleatoriamente uma empresa
+pertencente a esses três setores
+o
+e detectando se que a não apresenta
+lucro
+e a probabilidade dela
+pertencer à setora Então galera a gente
+percebe vamos começar vamos esquematizar
+aqui primeiro né as empresas aqui quais
+são as empresas em São empresa a
+e a empresa b
+e a empresa se
+cada uma delas pode apresentar lucro ou
+não
+e correu então a pode apresentar o grupo
+Tonon bem também
+e ir ser também
+é legal aí ele falou aqui ó que setenta
+por cento
+apresenta lucro no setor a TAM
+e setenta por cento esse que significa o
+quê que trinta por cento não né beleza
+no Setor B
+ele falou que oitenta por cento né
+oitenta por cento apresentam lucros
+consequentemente Vinte por cento Não
+beleza e não ser torcer noventa porcento
+consequentemente 10% não
+é legal aí ele pergunta para gente ó
+escolhendo-se aleatoriamente
+uma empresa pertencente a esses três
+setores e detectando se que ela não
+apresenta o opa ele falou que ela não
+apresenta lucro né então lá a gente já
+bota aqui isso aqui ó é o que para gente
+e é uma informação adicional tá vai
+restringir o meu espaço amostral só as
+empresas que têm lucro
+Ah tá a pia probabilidade ela pertenceu
+se tornar ou seja de volta aqui ó
+detectados que ela não apresentou um
+lucro ou seja dado que ela não
+apresentou lucro ela cedo se tornar É
+isso que eu tô querendo só que lembra
+que a probabilidade de água do é
+probabilidade a intenção de dividido
+pedir ver é isso que a gente vai fazer
+aqui ó
+e a interseção que não lucro
+divididos por probabilidade de lucros
+E aí
+é legal agora aqui ó a gente viu o que é
+detector que ela não apresenta lucro né
+Então a nossa exposição mostrando vai
+ficar reduzido
+as empresas que não apresentaram lucros
+Ah tá
+isso é a mesma coisa que se eu fizesse
+isso aqui ó tem aqui a empresa lá e não
+lucro né a empresa ver e não lucro tanto
+por ser resumida no lucro tá
+é porque a gente condicionou nosso
+espaço amostral é um lucro então
+legal só que ele falou que tem
+750 da empresa área Vou botar aqui
+750
+300 da b e
+150 vai ser aí a gente bota aqui embaixo
+elas 750
+os 300
+o e 150 e aqui eu não lucro lucro da é
+trinta por cento
+e o David é vinte por cento
+e outras e é dez porcento
+legal então aqui a gente sabe que o que
+o numerador é uma parte denominador
+embaixo é aprova lei da probabilidade
+total né e em cima é a intercessão como
+não lucro ou seja só multiplicar ele na
+750x trinta por cento embaixo vai ser o
+que repete
+750 vezes trinta por cento
+é mas agora do Billy
+300x Vinte por cento
+é mas
+agora você ali ó 150 vezes dez porcento
+beleza
+aqui se pode cortar ó
+o marcou o que aqui 53/15
+a 7 X3 21 E como que foi 22 225 aqui
+embaixo isso aqui é igual tô 225 mais
+aqui pode cortar aqui vai ficar 60
+e aqui ó
+cortando vai ficar 15
+a beleza aqui embaixo ficou com aqui
+então
+225 com 15/240 com 60
+há 300 então no fundo a gente quer que
+eu coloquei 225 sobre
+300 agora uma malandragem eu olhar para
+a gente costas aqui ó por exemplo ela
+não tem que fazer essa conta aqui por
+exemplo
+350 por cento de 300 é 150 isso aqui é
+maior que 50 por cento então eu não
+tinha pode eliminar lá a ver esse ficou
+entre a dei Olha aí aqui a gente pode
+fazer o quê oitenta por cento de 300 8x
+três é 24 da 240 aqui e já passou então
+só pode ser o 75 tá o nosso gabarito ali
+ele entra de direcionamento mas aqui só
+para confirmar ó
+e para não ter que fazer a conta de
+dividir por causa de multiplicar pega o
+denominador faz oitenta por cento
+já deu o que aliás mentira né tem que
+fazer com 75 para confirmar o sua
+resposta ele vou fazer com 65 aqui calma
+aí
+75 por cento
+de 300 eu Total aqui ó cortou aqui vai
+dar o que
+53/15
+7321-20
+225 confirmou aqui ó o nosso numerador
+Beleza então o nosso gabarito letra D D
+o
+dicionamento a gente não tá fazendo aqui
+um estudo direcionado das questões
+Oi beleza

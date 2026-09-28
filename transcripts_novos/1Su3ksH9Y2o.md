@@ -1,0 +1,161 @@
+# How to create animations in Flourish - Brasileirão (Série A) Goals - Leonardo de Matos
+
+- **URL:** https://www.youtube.com/watch?v=1Su3ksH9Y2o
+- **ID:** 1Su3ksH9Y2o
+
+## Transcrição
+
+fala pessoal boa noite
+leonardo martins estudante tática e foi
+convidado pelo professor thiago macho
+pra fazer sinal sinal indica não só tem
+bacana para visualização de uma ação de
+dados rapidamente mostrar pra vocês um
+projeto que eu fiz e software
+vou deixar o pessoal do andar de baixo
+mostrando a quantidade de 2016 ea
+quantidade de gols dele e vou deixar
+vocês o que é o flor exploding star é
+uma aplicação web você tá fazendo
+visualizações e nós temos diversas
+utilizações bacana é que você precisa
+saber o passado onde está não saber nada
+sobre javascript sobre uma linguagem da
+animação e tal só se simplesmente não
+passar os dados pra ele que ele vai
+mostrar a visão para você
+convém forma rápida mostrar aqui alguns
+exemplos o buraco escolha de baixo a
+gente vive hoje com conexão global e
+olha que bacana você pode interagir no
+meio de gráficos
+aqui as animações interativas apoio e eu
+[Música]
+vamos voltar aqui pro nos fazer login
+pelo google eo facebook vai quem seguir
+ou bota um meio normal na rodovia vai
+abrir aqui a parte do estúdio você vai
+ver seus projetos o que tem dois
+projetos como a geron isso aqui pra
+floripa animação de população e nós
+também
+nós temos aqui estoy e de 2006 porque a
+diferença de 211 aqui é com susan boyle
+continua a história se consegue fazer
+isso mais enquanto o bota é um texto
+bota sua animação do sul
+gráfico você pode ter aí
+as ações a gente vai ter vários pois
+minhas relações com diversos tipos de
+dados é que os atuais presidentes dos
+parlamentos chantelle na cama bem
+específico temos mais normais mesmo
+gente explode tal vamos dar uma olhada
+hoje em graffitis mãos
+só vou ficar aqui você vai abrir naquela
+parte lá como já tenho meu rendimento e
+aqui é a fazer dois países previu e você
+vê o que está acontecendo aqui tem que
+passar pro fosse pra ele
+[Música]
+rapidamente o debate tem que passar
+dessa forma uma tabela que a primeira
+linha aqui é o nome das colunas e as
+linhas seguintes são as variáveis no meu
+caso com o brasileirão e diante você
+coloca a quantidade variável no tempo
+por exemplo o tempo igual
+você vai votar cada coluna adiante com
+uma uma máquina do tempo em 2003 na
+rodada a rodada do brasileirão rodadas
+até a última como dizia enfim e aqui
+cada valor ea quantidade de gols então
+os valores têm que passar de forma
+acumulada por sinal vai ficar subindo
+diminuíram por exemplo aí 2003 primeira
+rodada quatro gols em 2003 na rodada fez
+um gol só que é um mais 495 que na
+terceira rodada a mesma coisa pegou os
+cinco mais dois gols que ele fez e assim
+em diante todos os valores para você
+configurar o gráfico você vai ver aqui o
+que eu tenho que quatro partes
+algumas coisas mas não precisa só de si
+agora só para você fazer gráficos desde
+que eu cheguei lá é bem se você vai ver
+um leigo vai colocar a a
+mas vai ainda o nome de validade isso
+vocês bar você vai ver aqui em categoria
+que a região pode ser opcional
+não precisa ter mais eu aconselho
+técnica legal poder entregar e imagem
+que é uma imagem do timba longo do ano
+vocês vocês pegaram uma imagem de
+copiarem minc colocou lá foi isso aqui
+isso é mostrar e também pessoal
+selecionar o que mais nos valores da
+colônia z tua coluna na dita como
+exemplo vai acionar todas elas e tem que
+ter aqui tá o nome da coluna o tempo
+calmo porque se não ele não vai mostrar
+pra vocês aqui o perfil da pessoa bem
+rápido em algumas configurações para
+vocês segurarem o cartão de embarque e
+pode aumentar ou diminuir a quantidade
+de baixo consumo de crack por exemplo 30
+time pode sortear direitinho a aaa a
+fonte
+aqui pode gostar ou de não mostrar o
+tempo tem muita muita coisa pra mexer
+aqui é personalizado
+agora eu acho que o mais importante é
+você mexer aqui o caso da animação mais
+importante a doação civita onde nosso
+carro se volta mais rápida em 2010
+[Música]
+alguma coisa errada ou sedativo tão
+fácil foi um toque pessoal gosto de
+resolver ou então você pode colocar um
+chip porque o objetivo pode modificar de
+posição lhe vai faltar
+enfim
+pode colocar a fonte detalhou não ganhou
+o set em outras coisas as coisas que
+cobre uma palheta tem uma palavra gerada
+pelo professor que ela faz
+de acordo com o que ela achava muito
+anteriormente com certeza todo não
+comove está você pode escolher essas
+coisas aqui para servir vai clicar aqui
+e escolher o melhor pra cada categoria
+rio
+então é isso pessoal bem bacana bem
+simples não precisa saber nada de
+programação para poder fazer a
+atualização bem legal é além disso
+pessoal queria mostrar pra vocês sei se
+todo mundo conhece o professor tiago de
+uma comunidade bem bacana de atingir
+aqui ele ministra
+todo mês labs mensagem a gente tem um
+grupo exclusivo que é dos alunos pessoal
+da unidade o limite de baixa não estão
+na roça estatística principalmente mais
+gosta muito de dados
+dr o céu é ele tem aulas também diversas
+aulas online
+o pessoal vai poder fazer o que quiser e
+é bem interessante que você está
+querendo mudar de carreira a faculdade
+quer aprender mais sobre a queda de
+março de céu que é entrarmos de dados é
+bem bacana entrar em contato com o grupo
+e aprendendo bastante coisa vou deixar a
+instituição tomada onde eu sei que não
+dá para tudo mas é só para ter uma idéia
+só precisa saber como é que é
+beleza pessoal vou deixar meu link
+também deixou lhe hoje vocês podem abrir
+a visualização de vocês e é isso aí tá
+muito obrigado a assistir
+e um abraço e até a próxima

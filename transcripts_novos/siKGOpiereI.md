@@ -1,0 +1,227 @@
+# Parte 1/3 - Web Scraping e Nuvem de palavras com Power Bi - Prof. João Oliveira
+
+- **URL:** https://www.youtube.com/watch?v=siKGOpiereI
+- **ID:** siKGOpiereI
+
+## Transcrição
+
+olá eu me chamo joão oliveira só na
+lista de dados e instrutores de excel e
+powerpoint e instrutor do canal como
+analítico um vídeo de hoje nós vamos
+aprender a fazer o scrap utilizando paul
+biya e depois nós vamos em aprender a
+inserir uma nuvem de palavras para
+filtrar os temas mais relevantes da
+nossa pesquisa
+vamos começar aqui para o nosso
+experimento eu vou utilizar o site info
+jovens que é um site de busca de
+empregos
+vou vir aqui em todo o brasil ou digitar
+aqui o meu estado rio grande do sul já
+apareceu
+vou dar aqui a procurar vagas a primeira
+coisa que vou fazer é analisar o cenário
+isso a gente faz em qualquer a atividade
+de negócios a gente olhar o site
+eu vejo que eu tenho aqui alguns
+anúncios eu tenho aqui uma publicação
+patrocinada pelo que eu estou imaginando
+porque ela tem amarelo em outras
+publicações de vagas de emprego o
+anúncio patrocinado outros vagas de
+emprego
+outro anúncio patrocinado outras vagas
+de emprego e outros anúncios
+patrocinados
+vou contar quantas vagas de emprego têm
+essa página
+a partir dessa primeira que eu acho que
+é um link patrocinado uma duas três
+quatro cinco seis sete oito nove dez ou
+11 12 13 14 15 16 dezesseis vagas de
+empregos entre links patrocinados
+foi na página 2 vou ver se o cenário
+permanece pelo que estou vendo é o mesmo
+layout à disposição das informações
+vamos ver quantas vagas de emprego tem
+uma duas três quatro cinco seis sete
+oito nove dez 11 12 13 14 15 16 66 vagas
+de emprego igual à primeira página
+vou voltar ainda à primeira página
+o pai me chamou a atenção uma coisa que
+não era essa vaga que estava aqui antes
+deixa eu voltar pra segunda página agora
+vou voltar novamente para o primeiro
+estágio técnico em administração
+deixa eu ver se os meus olhos não estão
+enganando volta para a primeira estágio
+técnico em administração olha se eu não
+estou enganado ela mudou desde a
+primeira vez que naveguei nela mas tudo
+bem vamos seguir em frente
+a gente percebe isso vou selecionar o
+link com trouxe paul biya no power guia
+e evair página inicial obter dados da
+web
+eu vou colocar aqui o link que eu acabei
+de copiar ou dar um ok
+por enquanto paulo guerra não está me
+trazendo nada a não ser que eu
+selecionei essa tabela aqui ó
+ali me traz aqui alguns dados que
+provavelmente é tudo que contém dentro
+do site da gente mas não é que eu vou
+trabalhar eu vou vir aqui ó adicionar na
+tabela usando exemplos
+essa ferramenta vai me ajudar a auto
+completar a tabela conforme for dando
+exemplos para ela um recurso
+interessante de inteligência artificial
+do paul biya e vamos ver como funciona
+esse carregando aqui pode demorar um
+pouquinho está dependendo do
+processamento da sua máquina e
+velocidade da sua internet
+op pra mim já carregou o realmente está
+em contabilidade como estava lá no site
+estágio técnico em administração é um
+link patrocinado que a randon à medida
+que eu vou navegando no site ele vai
+mudando então agora vou começar a
+preencher na tabela
+a coluna não vai se chamar oportunidades
+ou por unidade
+a coluna dois eu vou chamar de empresa
+ea coluna 31 chamar de área
+a última chamada de atividades que
+aquela que vai me dizer as atividades da
+vaga como já detectei que a primeira
+vaga em que ele vai mudando conforme vai
+navegando no site eu vou partir para o
+segundo
+eu vou deixar o power biker trabalhar a
+primeira linha está o projetista na
+segunda linha ou digitar o projetista
+eletrônico à medida que vou digitando
+ele já vai me trazendo os exemplos o
+projetista eletrônico
+enfim embarcados é isso que eu quero
+alvo da inter para selecionar o inter
+novamente para processar informação que
+ainda não detectou nada está me dizendo
+então agora vou pra segundo informação
+do nome da empresa smp&amp;b seleciono com
+enter do enter ainda por não buscar na
+área informática e telecomunicações
+tenham informática trt telecomunicações
+tem em ter nada em atividades como é que
+eu vou fazer pra ver as atividades
+eu fui lá no site
+vou abrir essa essa oportunidade de
+emprego em uma nova guia e é que eu vou
+fazer a leitura dela local de trabalho
+trará o projetista eletrônico rio grande
+do sul
+nosso ambiente é uma empresa específica
+cliente é uma empresa especializada em
+equipamentos sistemas de mobilidade para
+a mobilidade voltando paul biya
+atividades projetista ó o nosso projeto
+eletrônico e rio grande do sul
+nosso cliente é uma empresa para e aí
+continua a frase ainda não detectou nada
+contra segunda oportunidade médico
+pediatra
+selecionei que entra a legal a que ele
+fez olha já buscou pra mim é uma série
+de informações a todas essas questões é
+claro elas ainda não foram gravadas pela
+ferramenta então que eu vou fazer de
+chocolate para baixo até o final da
+minha tabela
+olha até o dia 18 já vamos ver o que é
+isso
+então na primeira oportunidade cinza
+claro eu vou pressionar o shift e com a
+seta para baixo ou até a última linha
+preenchida que era linha 18 control c
+control v greve informação eu vou lá em
+atividade faça a mesma coisa
+a linha 18 control c control v legal
+agora vou contar quantas oportunidades
+eu tenho aqui uma duas três quatro cinco
+seis sete oito nove dez 11 12 13 14 15 e
+16
+então só posso presumir que essas duas
+linhas que eu tenho branco são daqueles
+anúncios patrocinados
+há realmente o médico ginecologista
+médico ginecologista em seguida tem uma
+propaganda do no bank
+não quero a propaganda poderá vetar essa
+linha eu vou fazer a mesma coisa com a
+linha 11 porque eu tenho 16 vagas de
+emprego por página
+conseguir que o preenchimento agora dá
+quando a empresa voltar no médico
+pediatra player consultoria
+roupa player consultoria em ter não
+detectou nada não tem problema vamos em
+frente
+a próxima vaga projetistas software sm
+db
+aqui na empresa em ter ainda não
+detectou nada novamente dá pra ir a
+outra vaga player danada engenheiro
+projetista de software sm analista de
+sistemas na tema ainda não a barra
+maneira arrumadeira na outra
+o auxiliar administrativo na olha o clã
+seta para baixo entre para selecionar
+entre processa a informação educador
+assistente da escola lago do sismo em
+ter um auxiliar administrativo numa
+empresa confidencial e enter escola lago
+do cisne novamente em ter o supervisor
+de manutenção na azeredo rh entre
+assistente administrativo na média
+premium
+o farmacêutico em outra empresa é
+confidencial e auxiliar de limpeza da
+empresa segmento de saúde entre a
+pressionar enter excelência é inserir
+uma nova linha que não vou usar então
+vou ficar lá no número dela que é o 17o
+modelete agora vou preencher as áreas
+novamente médico pediatra saúde
+pediatria entre
+legal ele já preencheu aqui pra mim uma
+série de oportunidades avoila na
+primeira está em cinza claro pressiona o
+shift e vou rolando aqui há quase tinha
+para baixo até a última oportunidade
+preenchida pelo visto essa daqui a
+control c control v pronto vou rolar
+aqui para baixo e você guia do educador
+assistente educação em cima e idiomas
+educação infantil
+ótimo já trouxe todas as que faltavam
+para mim então vou na primeira está em
+cinza claro e com a cia tinha pra baixo
+até a última na linha 16 control c
+control v
+gravei a informação é ótimo e ficou
+faltando a empresa dessa vaga que a
+produtora o promotor de atendimento
+uruguaiana voltar lá no site
+na busca dele eu vou ditar aqui o
+promotor atendimento uruguaiana
+eu vou dar entre encontrou nada de
+errado
+o motor de atendimento e enfim
+uruguaiana tentar novamente promotor de
+atendimento enfim o uruguai gana voltou
+a na cidade procurar o ataque a empresa
+manpower sjc volta na paul biya então

@@ -1,0 +1,132 @@
+# Agenda Engenharia de dados -  Professor David Braga
+
+- **URL:** https://www.youtube.com/watch?v=tu6OWREG8L8
+- **ID:** tu6OWREG8L8
+
+## Transcrição
+
+olá pessoal tudo bem é com bastante
+alegria que eu volto a falar com vocês
+aqui via o canal do estado físico é eu
+estou retomando o nosso projeto que eu
+tenho junto com o tiago pra trás yoná
+algumas aulas alguns conteúdos voltados
+à engenharia de dados né
+então com isso com essa retomando esse
+esse road map que a gente tem planejado
+de um tempo pra cá estou conseguindo um
+pouco mais de tempo que realmente é
+focar algumas das minhas é vontade das
+minhas prospecções aí dentro do do da
+comunidade eu quero fortalecer um pouco
+mais contra um pouco mais e também
+aprender junto com essas experiências né
+consumir mais informações do lado de cá
+outros com outros conteúdos
+outro tópico sair que me interessam
+bastante tal e tenho tido bastante em
+torno desse lado também né é é pra fazer
+um overview do que quer que a gente tem
+planejado é o seguinte qualquer o plano
+dentro dessa desse do mercado atualmente
+temos diversas demandas temos muitas
+coisas acontecendo diversas tecnologias
+tomando a frente no mercado né
+tanto é com com viés de engenharia com
+um viés de arquitetura soluções então a
+gente tem muita coisa diz ruth vai
+acontecendo é dentro dessa história toda
+o plano aqui é o seguinte é além de é eu
+trazer conteúdo voltado a entendimento
+de engenharia e entendimento de
+arquitetura
+vou tentar demonstrar para alguns dos
+casos soluções cases é trazer dinâmicas
+resolução de alguns problemas é que a
+gente pode ter isso como base é
+implementado algum tipo de detalhe algum
+tipo de processo o fluxo então eu vou
+ter uma agenda bem dinâmica tá não tem
+não vou seguir o formato padrão por
+tecnologia ou para as tecnologias
+vou seguir dependendo da abordagem de
+cada tecnologia
+dependendo de como essas tecnologias se
+implementam dentro de algumas soluções
+como elas podem ser adquiridas dentro de
+soluções cloud comprimisse ou mesmo
+alguma arquitetura mais pontual ou
+pensar se é eu vou seguir avaliando a
+melhor abordagem trago para vocês aqui
+um conteúdo que seja a rápida pragmático
+é porque o plano agora também é diminui
+o tempo de das gravações para não ficar
+custoso é um vídeo de uma máxima de 10
+minutos não é tão legal
+então nosso plano é exatamente esse
+trazer um conteúdo mas pragmático mas
+que faz bastante sentido né e que
+consiga com relacionar com o dia a dia
+do mercado que o mercado realmente está
+consumindo tá então aqui pra vocês só
+para ter uma nova visão inicial
+o plano é o seguinte é trabalhar bem
+próximo dessas tecnologias voltadas em
+engenharia de dados que o mercado
+consome é comum é eu acho bem
+interessante a gente começar com o tema
+de big data é até até navegando entre
+claude e alguns outros conceitos
+inicialmente é dentro dessa agenda hoje
+um carro chefe muito forte é um lado pi
+então inicialmente essa série de
+conteúdos eu vou iniciar como hadopi por
+conta de estar muito envolvido realmente
+no dia a dia das grandes empresas e até
+das bem pequenas e médias empresas
+então tem muita coisa acontecendo nós
+muitas estratégias ainda são é iniciadas
+e já estão bem maduras é algo em algumas
+empresas alguns cases são muito maduros
+ea complexidade desses cases suporta
+bastante hoje a os tópicos voltar à
+governança a data saem se a toda essa
+metodologia esses procedimentos
+processos que existem é pra evolução do
+dado nem para o consumo dado em si e as
+tomadas de decisões dentro disso é vou
+discorrer então nesse projeto nesse
+processo aqui dessa primeira fase vamos
+abordar os conceitos que eu acho mais
+relevância dentro do adulto
+vamos falar um pouco das distribuições
+qualquer história do doping se como que
+ele traz funcionou bastante o termo o
+conceito big data dentro do mercado
+os benefícios e arquitetura então aqui
+vou trazer uma solução vamos correr
+quais são as necessidades o que quer o
+que são boas práticas para poder criar
+topologia solução de um de um ambiente
+adube serviços de funcionamento esse
+tópico aqui é voltado a trazer o que
+esses serviços o próprio rabo funcionar
+quais são os serviços mandatórios que
+precisam estar implementadas integrados
+para manter o funcionamento e depois
+desses três primeiras folga entre 3.000
+e tópicos aqui que entrou muito no
+detalhe mais conceitual é a gente vai
+discorrer sobre as ferramentas que tem
+maior relevância na engenharia e dados
+obviamente existem outras das
+ferramentas outros serviços
+vai depender muito dos gays mas com
+certeza esculpe raiva cacoete bases são
+bastante utilizados hoje no mercado
+toque pessoal então é isso é espero
+muito que eu consiga agregar o máximo
+tá fico muito feliz com um com perguntas
+solicitações é os materiais eu vou
+colocar no link tá
+e é isso muito obrigado tchetcha

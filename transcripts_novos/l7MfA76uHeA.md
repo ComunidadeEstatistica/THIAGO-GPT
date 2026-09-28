@@ -1,0 +1,127 @@
+# VÍDEO 28 - 2018/BANCO DO BRASIL/ESCRITURÁRIO - Lei da Probabilidade Total
+
+- **URL:** https://www.youtube.com/watch?v=l7MfA76uHeA
+- **ID:** l7MfA76uHeA
+
+## Transcrição
+
+[Música]
+qual a galera do canal está difícil tudo
+bem com vocês esse é o nosso vídeo
+número 28 ea gente vai estar resolvendo
+uma questãozinha e da prova do banco do
+brasil que aconteceu recentemente para
+escriturário beleza é uma questão
+bastante interessante que cobra a lei da
+probabilidade total
+só que uma questão que cobra de uma
+forma típica além de prioridade total
+tá um jeito bem interessante tá bem
+inteligente tá bom então vamos resolver
+essa questão zinho aí valeu então é a
+questão zinho de 2018 seja um grande
+banco do brasil escriturário que estão
+aí da prova que aconteceu recentemente
+está no banco do brasil em casa comigo
+em questão uma empresa criou uma
+campanha que consiste em sorteio dos
+cupons premiados
+tá o sorteio será realizado em duas
+etapas em duas etapas primeiramente o
+cliente lança um adorno esta ou seja
+honesta 50% carlos 40% corona beleza
+se o resultado for car o cliente
+seleciona aleatoriamente ocupam da urna
+1
+se o resultado for coroa o cliente
+seleciona aleatoriamente um cupão da
+urna 23 seguinte configuração aqui ó
+joga a moeda se focar
+vai pra urna 1
+se for ou vai pra urna
+2 ele falou que aleatoriamente certa se
+aleatoriamente no ar de honesta
+a gente tem 50% de chance de ir para o
+num e 50% de chance de prova 2 beleza
+sabe se que 30 por cento dos cupons da
+urna um são premiados e 40% de todos os
+cupons são premiados
+então aqui ó a gente tem o seguinte pode
+ser da união premiado e não premiado e
+da onu dois premiados e não premiado
+ele falou que aqui 30% dos cupons da
+união são premiados
+então aqui a probabilidade 30 e 60
+e ele disse mas o que é que 40% de todos
+os cupons são premiados ou seja a
+probabilidade de ser premiado é igual a
+40 por cento
+beleza antes de começar o sorteio
+a proporção de cupons premiados na urna
+2 é de então quem está querendo a unha 2
+tá aqui ó ele quer os prêmios a
+proporção dos premiados antes de começar
+o sorteio certa beleza com as
+informações que a gente tem a gente tem
+aqui ó que estão vindo da onu um ser
+premiado e 30% da urna 2 a gente não
+sabe o que é o nosso x que a gente vai
+encontrar
+e a gente tem a propriedade deve ser
+premiado como o que que a probabilidade
+de ele ser premiado galera
+nada mais é do que a lei de probidade
+total beleza ou seja quais são as casas
+em que ele pode ser premiado aqui ó
+ele vai tirar a cara da onu 1 e vai ser
+premiada
+qual é o segundo caso ele vai tirar a
+coroa vai dar alguma 2 e vai ser
+premiado certo então essas são as únicas
+possibilidade beleza
+então isso aqui é a lei da probidade
+total ou seja é a probabilidade de vida
+humana um interseção com eles e premiado
+mas a probabilidade dele da urna dois e
+ele sempre me ajudou também a beleza
+aqui vamos continuar fazendo aqui a
+probabilidade de uma interseção com 11
+com ser premiado o que é só multiplicar
+que a 50%
+vezes 30%
+mas
+una 2 intercessão premiado vai ser o que
+50% vezes x só que a gente sabe esse
+aqui não sabe que a 40%
+então não botar aqui ó 40%
+aí a gente pode tirar aqui ó 53 15 00
+vai cortar aqui então vai ficar 15 sobre
+100 aqui igual a 50 sobre 100 vezes xis
+aqui vou botar que ficou quanta 40 menos
+15 do que 40 30 25 sobre se a isso a 25
+sobre 100 vezes sem dividir por quanto
+por 50
+esse aqui vai ser o nosso x então vai lá
+o quê x igual a 50%
+corto 2550 vai ficar um sabe nos que é
+50%
+então a gente achou aqui os 50%
+o nosso gabarito então letras e de que a
+sede conquista beleza
+então é isso galera espero que vocês
+tenham gostado e entende a nossa questão
+já etá se ficou alguma dúvida deixe nos
+comentários ou manda pra mim aí por e
+mail
+vocês escolhem meio que vocês querem
+mandar segue a gente nas redes sociais
+está no instagram casa assim sempre está
+custando conteúdo relevante aí pra você
+está para poderem arrebentar e nas
+provas de estatística o brasil for falou
+então se você gostou do vídeo da unmik
+pra acreditar
+compartilhando com outras pessoas e se o
+conhecimento que você adquiriu aqui
+nesse vídeo beleza e forte abraço
+ele continua na uti estão junto valeu

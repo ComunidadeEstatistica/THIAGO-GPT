@@ -1,0 +1,1183 @@
+# Webinar - Web Scraping - Aprenda a Capturar dados da internet de forma automatizada com o  Python
+
+- **URL:** https://www.youtube.com/watch?v=46kQwaC70-A
+- **ID:** 46kQwaC70-A
+
+## Transcrição
+
+bom dia pessoal boa noite
+sol desculpa aí nosso imprevisto aí mas
+quem sabe faz ao vivo e acontece esses
+imprevistos né
+vamos agora começar nosso webinar de
+scrap na internet utilizando a
+ferramenta python e pra isso é infinito
+vai fazer aqui o rafael que é um
+profissional já do ranking rafael nadal
+apresentação no final a gente é conversa
+mais um pouquinho pessoal beleza
+concurso aí lá um conjunto de pessoal
+rafael setrak de inserir de button e do
+ep também a gente vai dar uma noção hoje
+no assunto é um assunto que tem várias
+técnicas mas um campo e assim vamos
+direto para a prática falar já o assunto
+e deixar sempre com sinal mais
+apresentações mais curtas oc na terra
+com vocês aqui
+- o curso só pra você vê que é legal
+todo mundo vindo bem não há dificuldade
+em conseguir ouvir bem pessoal
+começa assim alto lá todo mundo vindo
+bem então vamos lá vamos ter o conteúdo
+o o hospital utilizar o pai thomé
+programa scrap é uma linguagem de
+programação que tem um sistema muito
+rico
+isso pra esse tipo é de que antes de
+entrar direto com o código é importante
+entender um pouquinho que é o rap da
+teoria do que está o traje isso porque
+eu conhecer o que está acontecendo ajuda
+muita gente entendeu tem que fazer no
+corte é em português e raspagem de dados
+ele é um processo que consiste que se
+utiliza de técnicas de programação de
+automação coleta automatizada de dados
+provenientes não é basicamente é isso
+que vai criar automatizados pra buscar
+esses dados poderão ser feito na mão
+gente também será que dessa forma mas
+nosso objetivo é sempre a automatisa com
+o objetivo com o objetivo de informar os
+dados ficam disponíveis a insight vende
+aplicativos web
+são dados que estão assegurados e que
+vai transformar eles pra dados
+estruturados vai buscar aí terça de
+artigos de detenção de qualquer tipo de
+página chega científico é corrigir
+twitter facebook rede social formatos
+não censurados e vamos trazer isso pra
+formar se estruturar para que nós
+possamos sair a salvar esse banco de
+dados local um formato mais estruturado
+como geison geral gb com o cfz
+então o objetivo é organizar essa
+informação e principalmente de plasma ou
+de aplicações que não oferecem uma ati é
+que a gente não tem uma interface
+um para buscar essa informação e porque
+é isso porque o ano escrevem eles é
+considerado em casos que a gente não
+está utilizando uma bee é ou não essa é
+recomendável para casos em que isso não
+continue porque a gente vai ver mais
+abaixo que pra fazer um scrap necessita
+de um código para extraiu ou sai o
+conteúdo trata de conteúdo estruturada
+que nós possamos analisar e normalmente
+você tem uma página que tem uma teip
+leva à página do banco central por
+exemplo fornece o apetite ela já tivesse
+dado estruturado seja vai só vai saber
+de antemão qual o formato da então é
+muito mais barato muito mais prático
+muito mais rápido consumir diretamente
+do ipi
+então já o primeiro no primeiro dia
+antes de começar a construir
+então um jovem para fazer é um
+ex-campeão montagem de um site é
+verificar primeiro se ele não possui uma
+uti
+a gente sempre atualizar também é mais
+barato pra fazer bicicleta e precisa né
+e cria uma ferramenta chamada e ele vai
+simular a interação de um cliente de tt
+team que comprove realiza com um
+determinado servidor um determinado site
+a gente tem como construir creche é que
+vai saber as funções básicas grande
+poeta primeiro a web site
+o segundo é fazer bach ea extração de
+conteúdo e o terceiro e estrutural da
+nossa escola e não é completo se a gente
+deixar de fazer alguma dessas duas
+fazendas falou o escrete ele via celular
+e interação entre entre um cliente e um
+servidor a gente possa ter ajudado isso
+não vejo qual hebe é feita com o
+protocolo http aparece nesta imagem
+então como é o nosso cliente você o
+próprio brown do chrome firefox e no
+carro agora o python no caso do scrap
+ele manda retive som de mpb com o
+servidor e essa é uma resposta que pode
+conter o conteúdo ou não é dentro dessa
+edição
+ela vai ter o conteúdo também vai ter
+vai aparecendo um cabeçalho quem tem
+quantos informações detalhadas sobre o
+método utilizado
+amigo íntimo com servidor e e
+informações como tamanho do arquivo que
+está vindo com o conteúdo da informação
+do mesmo tipo dos dados presentes em
+mais detalhes na frente praticamente
+sempre isso não tem mágica nenhuma está
+fazendo inscrições http para um servidor
+honesto indiano dados recebendo dados
+através do painel e o que com as pastas
+que a gente precisa fazer para
+desenvolver o mpf houve um scrap com seu
+espaço em que vai detalhar
+é importante sempre pensar nisso antes
+de sair perdendo o código que você tem
+um processo mais lado até porque
+dependendo da complexidade do projeto é
+do processo do salto com a página pode
+ser viável não pode fazer um sim bombas
+no scrap em meia hora pode demorar dias
+até mais correta e então é importante
+fazer uma pré análise vamos poder curar
+essas idéias do projeto e aí sim começar
+a escrever o código impacto conselho de
+etapas básicas identificar navegar
+replicar bacci a validar liberar o que
+em que consiste em cada uma dessas
+etapas a primeira delas identificar onde
+vai é identificar qual é a estrutura das
+páginas que a gente quer tá certo ea
+gente vai traçar um plano para que nós
+possamos extrair tudo aquilo que nós
+precisamos
+a gente vê se a página da corte que
+extraía informação se ela tem algum
+padrão para por exemplo a página da
+wikipedia abrir um vídeo
+o português a abrir aqui um artigo
+aleatório e da página de vídeos é dar
+força aérea australiana onde pode notar
+que foi negado pelos vários artigos da
+wikipedia que o primeiro da força aérea
+vão ficar rodando sobre guerras mundiais
+a gente pode modificar o padrão lado
+esquerda da bela instante o menu né e
+pode evitar essa saber mais baixo da
+página
+na parte central onde tem um conteúdo
+que ao lado direito da foto da bomba
+atômica
+a gente tem algum card informativo e
+esse padrão se fundamenta na hora de
+pedir vai ver que se repete
+vejam a gente vai se que aproveitar essa
+estrutura que é padronizados dos
+padronizada do doce das páginas em geral
+é pra poder construir um algoritmo um
+código que vai ler essa estrutura de
+forma automatizada e vai extrair os
+dados
+então se nós quiséssemos por exemplo
+pegar sempre o conteúdo principal da
+página da das quadras artigo que pediam
+poderia aqui nessa área central e de
+texto possui um mapa então isso já
+deveria direto do ipi não ia fazer greve
+mas é um exemplo de uma página que é bem
+estruturada
+seria um processo relativamente fácil
+construir uma escola então dar o
+primeiro passo é identificar dá uma
+olhada base quem está no site que você
+quer que você tinha alvo do seu
+escolhido
+o segundo passo seria navegar quebra a
+gente entender como determinado dado é
+como que ele está dentro do código fonte
+o dentro da tmn desta página
+assim pra isso a gente tem uma
+ferramenta
+wilsão que ela deve ter uns deve tudo é
+um conjunto de ferramentas que
+integradas é os principais browsers que
+ele foi construído para facilitar
+realmente o construção de websites mas
+pra nós né
+o cônsul escreve vamos a isso para
+entender todas as páginas e entender a
+estrutura das páginas e identificar os
+elementos onde eles estão e como a gente
+vai usar esse dado seu julgado por esse
+identificadores dentro do código pai com
+pra poder e conteúdo sobre o exemplo que
+eu voltar à página para baixo é da
+primeira guerra mundial que da mídia
+teclar s12 fazer também no blog você
+nota que aqui no cartoon é direito da
+tabela
+ele apareceu que o débito é o javi e
+aberto com a série de painéis superior
+aqui a gente tem que aumentar um
+pouquinho que é melhor pra vocês verem
+uma série de abusos na parte superior e
+elementos consoles anses network
+reformas memória a gente foi lá
+principalmente a área do zero do de
+elementos que é a área que mostra o
+código fonte da página ea área de
+network que serve para nós entendermos
+quais são as requisições de pequenos
+conceitos como a gente acessa a página
+a gente poderia aplicar e que não se
+pode o pai e então como é que a gente
+identifica é um elemento para que busque
+ele através do python a gente pode fazer
+algumas formas uma delas seria fomos
+possa primeira imagem aqui e barro
+guerra mundial é ficar diante do lado
+direito da página só clicar sobre essa
+imagem com o botão direito ele vai me dá
+a opção que de estacionar um elemento a
+inspecionar no firefox as cabeças no ar
+alimento você selecionar a opção
+estacionar norte fica no canto direito
+no débitos
+ele selecionou que uma área em azul
+selecionada uma área que corresponde
+exatamente à essa imagem está aqui no
+caso do wikipedia
+então a gente o coxa passou mal e até
+mostra aqui dentro débitos a própria
+imagem
+e aí já pode começar a entender né
+essa imagem não pudesse buscar ela é um
+atributo som é uma tarde imad html maggi
+ela tem atributos altera o autor é o
+conteúdo temático dela ela tem ufrc com
+o endereço dessa imagem em tamanho é
+altura vários atributos dentro do dtm é
+que nós vamos poder usar para
+identificar essa imagem dentro do aluno
+nosso código para fazer parte do fmi é e
+então por todo o processo do scrap ele
+envolve é esse processo abre a página
+entrada deve ter uns identificar o
+conteúdo de voz quer identificar qual o
+tributo que a gente pode usar para
+identificar com essa imagem aqui a gente
+podia tudo é atributo alt tec a wwf é o
+wn montagem de pontes jpg identificador
+essa imagem pode usar isso dentro do
+código pacto para trazê lo então entra
+na página
+adaptou se localiza o conteúdo que você
+quer e tem até buscava identificador de
+veículos clássicos e exemplos práticos
+diz mais à frente mas o processo básico
+sempre isso não tem como começar a
+escrever um scrap sem anti intendência
+do turno que está por trás daquela
+página voltar a nossa apresentação como
+eu entendi a estrutura então vou tentar
+replicar a várias requisições da mpb que
+a página está realizando para trazer o
+conteúdo é em vários módulos da p p
+dentro deles mais que nós vamos mais
+usar o método jet que é pra gente buscar
+dados que ele tem no servidor
+o método pouco diferente enviar dados
+por exemplo a gente é preencher um
+arquivo anos sempre esses dois - de
+replicar que usar um aplique novamente a
+página da wikipedia é como deve jogar
+aberto e vocês aqui dentro e vi todos
+a aba network agora em branco já carrega
+página eu vou então recarregar minha
+página da um f 5 que um ou outro r
+navegador ele vai recarregar a página e
+aqui há aqui dentro da área tirou que
+ela ficou repleta de todas as
+requisições http que o no caso aqui no
+google como fez um servidor multimídia
+para poder mostrar a página na nossa
+tela não é todas as imagens todos os
+arquivos de javascript e css foi
+utilizar forma desta página
+tudo isso está aparecendo aqui dentro é
+dessa área de network por exemplo aquela
+é essa eu quisesse
+essa primeira imagem que ó 450w montante
+foi uma das imagens que vieram aqui é
+dada dentro das requisições da página do
+the bid
+após clicar na imagem e aí pra obter
+mais informações
+lá onde a janela após clicar na imagem
+eu vou selecionar que essa aba que é de
+cabeçalhos dos réus é e aí eles da
+informação bem trabalhadas e de qualquer
+o rl que foi feita é a obter essa imagem
+paul foi o método é fomentado guedes
+qual foi o o código http o servidor da
+equipe respondeu para nós foi 200l que
+aproveitei bem do dos cabeçalhos a
+resposta está na série de outros dados
+muito úteis
+é dentro entre 1 e selecionar o que
+detona que é o tamanho do conteúdo mas
+tem a data disso a gente tem também aqui
+o contemplem o tamanho né
+vocês têm o tipo do conteúdo também já
+fala que é uma imagem do tipo jotapeg
+são inclusive atributos que isso através
+do ano novo o nosso escrete a gente pode
+usar pra exercitar-se se o conteúdo nós
+estamos obtendo através do scrap está
+correto e até para decidir nós vamos
+baixar um determinado arquivo ou não eu
+posso usar o método gp head que ele é o
+nome de head simplesmente aproveitar a
+informação de que é necessário que antes
+de baixar um arquivo o que é um arquivo
+um trabalho muito grande baixa é base de
+dados por aí
+um tamanho do conteúdo está aí qual é o
+tamanho do conteúdo para o tipo do
+conteúdo faz uma avaliação prévia antes
+de gastar tempo baixar um arquivo que é
+muito grande não cabe só a memória enfim
+é uma das técnicas que a gente pode
+utilizar
+depois que a gente então é entender o
+futuro da página que aplicou essas
+inscrições http obter o conteúdo a gente
+vai então passear
+há cerca de um ano quente vai pegar e
+vai analisar esse conteúdo vai
+estruturar ele através do pai tentou
+fazer isso no modo chave o russo pipe
+pra isso pra ele traiu os dados no caso
+de uma banheira de um outro arquivo
+qualquer anos de html o que a gente faz
+isso ele é um arquivo de de texto é de
+forma geral a partir de um texto
+esse texto pra nós passamos a analisar
+em transformar ele numa um ar um
+conjunto de objectos né que um objeto
+que demonstra a relação de tudo está
+dentro daquela página
+então a gente vai pegar esse texto vai
+usar o morumbi virou suco transformar em
+uma árvore e aí sim vamos conseguir
+extrair os conteúdos sem dificuldade
+depois que estranhamos conteúdos nem aí
+ou a prática sempre validar vai fazer
+validação batido que os resultados estão
+vindo do nosso scrap até porque é uma
+das grandes dificuldades você construiu
+um scrap e é que vai rodar numa escala
+maior uma ótima freqüente é que os pais
+elas estão mudando constantemente é
+tanto o conteúdo muda conta própria
+estrutura da página muda seja porque
+mudou o desenvolvedor seja porque a
+empresa é resolver ou é utilizar um
+senhor que diferente javascript ao que
+que muda do dia então é sempre
+importante está validando os dados é pra
+ter certeza que a informação que você
+quer o tavinho ele é relevante para o
+seu caso de negócio e por fim não é
+tanto com qualidade a gente vai imperar
+que colocar nosso scrap em produção
+claro que por um caso o maior trabalho
+de faculdade e se esbaldar no notebook
+vai ser chato militar depois envolvido
+mas se for uma é um ex-namorado uma
+rotina mensal
+semanal ideal já que a gente ajudar isso
+no conceito de nuvem uma da pf no google
+cloud é para você colocar essa produção
+de uma forma mais robusta e 1 defina de
+uma máquina que bom pedir legais tudo
+mais então isso seria o passo final de
+colocar um swell funcional é para rodar
+é importante sempre passar por todos
+esses passos então entrando agora já na
+na parte de programação mesmo bairro ou
+mesmo a gente tem o power trio do scrap
+que são os três pacotes principais
+técnico é counter em outros é é agora de
+apoio mas são recortes vírus ou e selene
+reconhece ser um pacote que a gente usa
+para se comunicar com os servidores é um
+cliente ftp certa de sair a interação
+mais básica viu subir nós vamos usá lo
+pra estruturar o conteúdo extrair dados
+de dentro ela sabe do parceiro conteúdo
+do selênio é uma aplicação específica é
+pra gente trabalhar com páginas sejam
+mais interativas páginas que o conteúdo
+depende ou sei lá e clicar no menu ué e
+renderizar javascript por exemplo para
+que você possa é isso aí o conteúdo da
+página selenium ele vai abrir uma página
+do browser google chrome ou firefox e aí
+através do país você vai controlar este
+browser é isso aí o conteúdo porque
+muitas páginas dependendo da forma que
+foi desenvolvida
+você não vai conseguir extrair esse
+conteúdo porque através do do módulo
+quest se você não tem né o browser é bom
+ela não tem bom para render levar esse
+conteúdo está contente foi usar o
+gerenciador de pacotes do bairro que eu
+simplesmente na capital requests lançou
+o selênio aqui na minha máquina já estou
+com eles instalados está e se desse jogo
+notebook
+o oceano se toque também que tem um
+scrap pai é que ele é um módulo já
+bastante robusto é igual não mostra um
+foi morto pra web crepe e ele é bastante
+interessante também pessoal
+é e só que ele é de altíssimo nível haia
+a idéia aqui do webinar hoje é ensinar
+como uma forma um pouco mais nas grutas
+com os modos mais básicos mas do pai
+também permite criar uma ação bastante
+robustas e bastante interessante e vamos
+lá então utilizando o módulo quest até
+porque também dependendo da sua
+aplicação se foi um caso mais simples de
+uso é é o skype é bastante comum seria
+sem usar canhão para matar o mosquito
+muitas vezes não é necessário você pode
+usar uma deserção requests abaixo o psv
+um caso de uso mais simples como nós
+vamos ver agora
+então aqui eu estou me importando de
+creches
+aqui no meu notebook e por ter um voo
+dos módulos aqui de acessórios é aqui
+pra peixe saiba fazer o mesmo a
+atividade mais básica netinha fazer o
+download de um arquivo
+a gente vai pegar aqui na página do mec
+existem as obras vago machado de assis
+o que eu vou fazer o entre aquino obra
+nas obras completas ou selecionar um
+romance qualquer aqui a aturar a
+instabilidade emocional do nosso carro é
+bom que o filho é que ele tenha fins
+link sakineh pro os pdfs simplesmente
+vou clicar com o botão direito e
+eliminar a opção de copiar o endereço do
+link ou copiar o endereço e voltar agora
+lá pra lá pro pai eu criei uma variável
+a senhora do carmo que a dengue endereço
+do pds do racismo então vou utilizar o
+oeste
+ele já é importado essa célula
+totalizando haq qureshi
+usando um método vete a buscar a url
+então lá do livro do oscar no caso do
+morro então assim tudo isso é bem claro
+eu executando essa célula
+ele me deu que o objeto de uma esponja
+geração até 210 requisitado foi ok é
+assim a gente não viu nada do conteúdo
+do enem só obteve a resposta de seu
+objeto responsável o conteúdo do pdf e
+outros dados a gente ter certeza de que
+vê a coisa certa vamos analisar esse
+objeto de resposta do que ele tem vários
+métodos dentre eles vão é que analisando
+a resposta da bp
+a gente pode ver com isso o código o
+código foi expandido é o número o texto
+que é o riso on a gente pode ver o
+cabeçalho ele mesmo conversar o que a
+gente viu lá no débito diz a gente vai
+ver que agora por dentro do pai com que
+a gente faz traz informações
+interessantes do tipo de arquivo tamanho
+de arquivo ou daqueles dados que a gente
+viu lá no la no débito do stf 12 naquele
+cada equipe já que eu tenho certeza que
+eu consegui um livro não é certo tipo de
+aplicação application o tipo de arquivo
+o aplicativo oferece o tamanho de
+arquivo ele tem 500 quinhentos e
+sessenta e sete carros salvar o arquivo
+na minha máquina rock com python
+não vou entrar muito em detalhes de
+papel que o nosso tempo é curto é
+importante que vocês entendam de forma
+geral está fazendo e é isso que acho bem
+legal sempre olhava da documentação no
+site do pai do corgo é bem fácil está
+começou em várias funções você entender
+e legal para entender o que está
+acontecendo por trás de uma base até
+porque o repórter o escrete usando rna
+outras linguagens
+desde que comecei por tráfico é fácil e
+aqui eu abrir um arquivo na minha
+máquina que no diretório data criar um
+arquivo chamado um carro novo com a pf
+os alvos não ele
+quando começa a venda ou escrevendo o
+conteúdo nem o content do meu objeto
+responsável pegando esse conteúdo que é
+o conteúdo do pdf doc pdf pode salvar o
+arquivo imprimir a marca se ele está
+aqui os dados
+não direi de novo diretório por ter
+apontado 11 livros antes de guarda no
+windows
+acho piada ou no da minha pasta data o
+nativo do caso ubs a entregar o tamanho
+dele exatamente o mesmo tamanho que
+estava lá no cabeçalho da nossa edição
+retp
+eike mil 17 mais dentro do próprio
+notebook eu posso visualizar o arquivo
+para ter certeza se a coisa deu certo
+consegui visualizar e que não porque eu
+acho que o câmbio vai aparecer e ele não
+vai visualizar tipo dentro do chrome não
+tem problema
+como abrir um arquivo lá fora
+a lei que agora dentro do lei colégio o
+arquivo um treino no chrome em outra aba
+né
+é o pds abrir um boletim onde consegue
+agora baixar qualquer livro operativo
+então a lógica para fazer um download o
+arquivo é é bastante simples perguntando
+se tiver capte né tchê é hoje é o
+captcha simples pra isso você vai ter
+que nessa haver um acérrimo da imagem do
+carro saiu da gaveta dos dígitos ou no
+caso do recorte do google
+no caso do recape do google é o cpi que
+a fala é eficiente é extrair o áudio e
+aí do áudio você tirar resposta daquele
+ano o google mostra não tem algumas
+técnicas ea itautec um pouco mais
+avançada vai abordar aqui porque é igual
+a um tipo de modelo para extrair os
+dados mas assim é e relativamente
+simples né
+o caixa hoje não é impeditivo para você
+é fazer o esgoto
+contudo não é importante sim matar é
+esse tipo da doença com a curva oito
+pessoas e que é o site da questão de
+direito autoral de uso legal você pode
+ter aquela informação você vai ter no
+mínimo 50 camisa tem que tentar país
+onde tem um site cuba acho que o governo
+tem um capuz e beleza e da felicidade
+aberta sair mas quando o são dados
+usados em tomar cuidado eu dou te um
+pouco e pode retirar de redes sociais
+pode ser a rede social que delma pé e
+legal como você vê isso vai tirar do
+twitter é bem legal facebook também
+agora por exemplo é se você fizer um
+scrap primeiro as páginas do facebook
+paz com uma profunda jogada
+depois de algum tempo o facebook vai
+desbloquear porque essa não é a forma de
+acesso ele permite o linkedin é um
+grande ímã
+dados de de decorridos mais uma baixa
+base de dados
+é não tem uma pista para os extraídos
+das lojas com esse é um diálogo de paz
+dinheiro no linkedin você pode fazer
+escolhas deles muito bloquear e e
+brincavam estados unidos que o próprio
+linkedin professor de capoeira scrap de
+os dados são do uso do linkedin's
+instalar no estalar no naquele e achei
+que você marca la de formas de uso de no
+site quando você faça seu cadastro
+[Música]
+isso é aí que está a aplicar o teste
+será que ele vai depender da
+complexidade do capital às capitais mas
+simplesmente não têm corrido sensual e
+provocativa consegue sair do inter será
+que com uma com uma cor a taxa
+relativamente boa em cada vez mais suja
+por exemplo que capte a receita federal
+deixa lá pra você é é consultar cpf ou
+cnpj né
+aí você tem que dar uma limpadora aquele
+cat antes e é também do país 25 para
+depois jogar no inter será titular está
+aí a complexidade está somente poderá
+utilizar vai depender do cat usou usou o
+o o baixar um arquivo foi relativamente
+simples com um comando aqui com linhas
+né de baixar o arquivo de albert e
+depois salvar nossa máquina bastante
+simples no site
+robyn depois login vai ter a informação
+que você tinha um site muito bacana
+porque quer estudar scrap que esse teste
+ground scrap publicar aqui o link da
+notícia ou depois vou passar o
+repositório subterrâneo onde então onde
+está os dados aqui do nosso webinar você
+prestar esse é um teste de formular da
+china robinho ele está falando aqui que
+você vai entrar o admiro você tá com
+cinco
+pressionado o login se você vê o welcome
+é coisa que o certo é esse não é porque
+eu vou ficar enterrado então já nem
+naquela já com mentalidade quente junte
+fazer escreve vamos ter classe 12 vão
+abrir o nosso deve tubos e vamos deixar
+lábios networks acionada e vamos ver o
+que acontece quando a gente envia um
+formulário que aqui embaixo de mim vou
+colocar a senha 123456 ou clique no
+álbum dançante aqui ele dê o primeiro a
+primeira edição que ele fez com ela que
+cuida de hold on o login de inscrição
+aqui na parte direita da página a imagem
+de azul é post
+vocês vão lembrar que quando a gente
+olhar na uti já era o método ghetti ou
+seja pra eu preencher o formulário o
+usuário desse site porque isso não é
+regra 14 eu vou ter que usar esse método
+do post é uma forma de enviar os dados
+para faltar a um servidor para fazer
+login e quais são os dados enviados por
+que eu preenchi aqui
+admin e usuário vem mas isso é dentro do
+browser como funciona em cima da minha
+perna que bem no finalzinho também em um
+campo fora data seja é quais são os
+dados do formulário 10 q eu mandei um
+campo chamado o sr
+é um pessoal e provavelmente se foi a de
+mim e ocampo pw de que pelo valor de 224
+assim atinge agora a gente tem tudo o
+que precisa para a gente fazer o login
+parte aqui do decreto até que engloba
+ele tem a url que foi o teste grau do
+imol de igual no rio
+eu sei o método foi post eu sei qual os
+dados que eu tenho que enviar para que
+eu me aceito com sucesso aqui olharam o
+conteúdo da página que fala se você ver
+o el comum
+então quer dizer que sou inicial foi
+enviada e que o seu login com o
+processado com sucesso
+então vamos lá no país agora a nossos
+pit e vamos fazer como enviar um homem
+respondeu certo
+roth ficou um pouco diferente eu não
+estou usando já em creches né como feliz
+grau chamar em creches post ou criando
+uma sessão e conhece set on e por que eu
+criei fashion
+por que não mas quando você sabe uma
+página é como é que o o servidor como é
+cobrar ver a maravilha que aquele logo
+deu o centro gmail flash brothers quando
+você volta continuou da época de um
+cookie né
+o cookie é um arquivo que fica
+armazenado o estado da associação
+então pra que o nosso krepschi faça
+login e depois você conseguir consiga
+ver é o resultado que veio depois que
+meu dia você tem que ter armazenado
+aquele clube
+quando você cria essa sessão no rio x
+ele é é uma armazena é amar esse valor
+do bo1 crianças são peguei aquela url
+ladetec round robin é que eu criei um
+visionário do python exatamente aqueles
+dados que estava lá não for mudada um
+break funcionário da primeira chave até
+bpw girl valor você estava 5 ea segunda
+chave eo sr o sr o valor é de mim aqui
+tem um campo de cabeçalho que eu posso
+passar também informações de cabeçalho é
+a simular por exemplo você é um browser
+julgava que eu deixe em branco rosa
+poderia colocar com essa movimentação
+como usar uma técnica até pra e montagem
+forma melhor para seu browser evitar ser
+bloqueado
+e aí por fim eu agora sim eu enviei um
+deck na página inicial é o meu primeiro
+passo a passo inicial geralmente mandei
+realmente eu mandei é o bolso estiver
+com a url da joguei os dados socorro
+dado só marketing mas também saiu nesse
+parâmetro data eo cabeçalho deu certo
+aqui eu usei aqui o jec uma forma um
+pouco mais rústica de fazer o scrap nos
+dados que vai ver o bicho sou mais pra
+frente vamos ver se é o comportamento
+desse texto é uma maneira que o reflexo
+ainda todas as ocorrências de welkom lá
+dentro eu vou executar aquilo me
+machucar responder o que tem um eu como
+dentro do conteúdo dentro do texto pode
+ver que na última linha está dando ré
+saem da uau eu estou procurando pedro
+emanuel como dentro do que dentro do
+responsável é o sport
+o tributo é o texto ml aquisição o bb
+responde é devolver pra nós
+então essa é a forma básica de você
+saber login no site com login no site de
+fazer uma coisa pra o boletim para fazer
+o tipo de coisa que eu nesse jogo então
+essa forma que você envia um formulário
+que houve um site que tem um campo de
+pesquisa
+aí você vai abrir um site de móveis e
+imóveis site de de e-commerce sequeira é
+fazer crepe problema é o resultado de
+pesquisa vai pesquisa de preço por
+exemplo entra na página da s 12 abr efe
+duas para três que vinha e vê lá qual é
+a requisição da interpretação 60 né
+olha o post que ser feito e quais são os
+parâmetros e você vai alterar o código
+já está com vocês aqui pra fazer a mesma
+coisa dentro do país é relativamente
+simples também é bom ea gente não gosta
+do jeito que o eject para fazer o que o
+verificado o texto está dentro do da
+resposta lado o site do défice igual
+mais um e jet que ele não é a melhor
+forma de se fazer o parto nem os dados
+até mesmo porque nem todos os sites com
+html5 é bem formatado e ailson e jacques
+e ele vai acabar quebrando ele vai ele é
+preparado pra buscar uma estrutura fixa
+membro
+então se você tiver bosque mostrou uma
+perda de miele e ela não estiver fechada
+nem a tiver algum erro lá dentro ele não
+vai caber à tarde quando vai quebrar
+para que nós façamos um website mais
+busto a gente vai usar esse módulo é o
+biógrafo subir é o bicho subir e nome
+que é bastante novo engraçado é o nome
+dele é inspirado no trecho do livro e do
+alice no país das maravilhas né esse
+livro é bem real bem as coisas meio
+loucas e aí o autor do livro surgiu
+aquele ele por esse nome porque o html
+que na página feliz é uma coisa maluca e
+vai ficar uma forma para ele pode ter
+milhões e formatos
+ele criou esse pacote tentava extrair
+esses problemas para nossa que fica mais
+fácil a gente faça o pas uem do dono do
+iml que o pacote foi criado em 2004 é
+bastante estável e é aí que dele é essa
+nele e ele sabe detecção conversão
+automática das condições existentes no
+campo do ml e trata muito bem com o
+código mal foi formatado então vamos
+poupar em uma série de dois cabeças para
+importar um pacote bastante simples né
+que soubesse quatro portas do sul
+o passo mais difícil é bicicleta em
+aprender serviço do sul são código de
+rabo na primeira rodada
+pode ter certeza que seu errado porque
+tem uma luta não é grande pessoal sempre
+ensina e inferir acaba tendo dificuldade
+na hora de escrever uma bobagem disse
+que o código errado esse equilíbrio tudo
+certo aqui com a página que sabe dos
+campeões brasileiros da wikipedia
+vamos fazer usados na época já uma
+tabela de data eu abri a página aqui
+trabalhar assim essa página do mercado
+brasileiro
+é verdade que pib inglês nathan essa
+página tem toda a informação é sobre o
+campeonato brasileiro e ela tem uma
+série de tabelas não é buscar extraídas
+html
+é uma atividade que era um dever é
+recorrente e esse dado uma informação
+última tabela
+o pessoal está reclamando está sem áudio
+e e eu fiquei um tempo sem falar que o
+troco na taxa retornou ao dia vocês lá
+do cartão vai baixar a cabeça aqui é
+como tentar achar isso e transformar o
+formato do pai que conseguia trabalhar
+pra isso vamos ao vivo sul selecionada
+notebook primeira coisa eu tenho que
+baixar o conteúdo desta página
+então pra isso eu vou usar a gente já
+viu lá em cima e creches
+eu peguei aqui o fc porto garante e aí
+nessa variável a url o grupo na url da
+página da wikipedia e obtive resposta
+depois disso eu vou pegar resposta a um
+texto é transformar em objeto possui
+essa estrutura essa árvore pode ir além
+do pai chama aqui ó a subir como
+argumento o primeiro argumento é o html
+que eu usei lá o método texto da
+resposta e passei um passeio é o vtl
+partido político a forma que ele vai
+usar para criar uma estrutura para nós
+existem outros detalhes agora a gastar
+nosso tempo o assim mais é como mais
+rápido né seria o iml
+você pode pesquisar no google como o que
+estabelece o sml para ter um euro estava
+em uma picape bastante mais rápido do
+que o padrão de jogo que vai ser
+determinante barça já o padrão pode
+rodar sem problema e isso facilita
+bastante a nossa vida
+existem vários métodos para não querer
+usar elementos é dentro desse objeto
+criado no caso vamos analisar todas as
+tabelas
+[Música]
+ele está em todas
+eu quero todos o que é igual ao que é a
+pele html que representa uma tabela lá
+no código
+se eu voltar eu te pedi lá dentro dessa
+tabelinha aqui do os campeões
+brasileiros clicar com o botão direito
+que entra a inspecionar e ver que no
+canto direito do débito
+tornar todas as tabelas também roda no
+código e retornou 22 tabelas é antigo
+bom eu ouvi um desses objetos aquilo é a
+primeira é bom
+o primeiro elemento me todo o html
+referentes a essa tabela e agora tem uma
+lista tem as 22 cadeiras da nossa parte
+da equipe ya e dentro de cada elemento
+da minha lista eu tenho o código da tmn
+a área tem um objeto do sul que
+representa 70 ml que agora eu posso ter
+essas tabelas e trabalhar com elas de
+forma a estruturar essa informação está
+fazendo o próximo passo é e assim a
+forma mais prática planeta bpn é
+limitado porque fazer um script pra
+linha por linha para fazer o balanço de
+sair usando o próprio grupo sup
+vai ver ele tem uma mente suíço neps a
+data science in a box ferramenta de
+centro de dados em uma das principais do
+bairro com seu papel importante em cima
+ele tem uma funcionalidade muito bacana
+que é de ler html e no caso ele vai
+buscar uma tabela km l
+certo é e vai dentro do sbt também vai
+buscar todas as carreiras que tomar não
+simplesmente vou pegar aqui o bebê é
+colocado ambas o chamar esse método hit
+de pml e vou passar pra ele o objeto
+subir função que eu criei e que o marido
+se chame um stf brasil inb e passei um
+parâmetro também de cabeça igual a zero
+porque a vossa cabeça o o os cabeçalhos
+da tabela é o que pede o som a primeira
+linha mandando esse código
+[Música]
+eu vim aqui passou é de chuva ele não
+tem problema é achar 22 tabela fazendo é
+e aqui no caso da tabela de campeão
+brasileiro é a primeira tabela
+certo é que eu tô entrando então no da
+lista de tabela proposta gerou eu vou
+pegar a primeira delas é uma b que é ele
+ele retorna já que o objeto segurado que
+é um datas e eu pego então eu pedi pra
+ele exibe um cabeçalho aqui das
+primeiras seis linhas né
+então ele exibiu horas a tabela está a
+equipe aparece na nova de forma tentada
+bonitinho
+já com todas as colunas para que a gente
+possa trabalhar fazer se o coordenará
+reordenar tudo isso utilizando aí o
+panda pó salvatti pt-sc e possa agora
+nacionais no banco de dados
+e esses looks como tendo o governo de
+fato rico ash transformador com subir
+depois transformar com uma tabela bandas
+podem sair qualquer cabelo e daniele que
+eu vejo o desenho ou pegar aqui então
+dados do governo normalmente têm dado
+interessante sair
+um deles seria por exemplo a agenda
+ministerial agenda de ministros a b com
+apenas mil se encontram quando é um dado
+importante fazer a agenda do ministro do
+planejamento vai reinventar e na agenda
+do ministro eduardo refinetti que tem a
+agência dos demais diretores e também
+por sua vez mais crítica seria um caso
+interessante então pegar fazendo aqui
+vou abrir é é acessar fazendo todos os
+dias ou pegar o histórico dela sai do
+scrap eu posso analisar quais são os
+grupos aí tô mais se reunir no começo
+dessa venda à exceção do grupo sair
+movimento popular isso não é movimentos
+políticos né quem está tentando iniciar
+conquistas relacionando a informação
+interessante de poder estar aí
+a agenda é entrada de clegg 57 desse
+atributo da agenda e depois a gente pode
+né pegar esse corte que o vapor luiz
+interno da dessa venda para todos os
+ministérios que têm um um layout
+semelhante assim isso é ótimo no site do
+ministério da fazenda
+infelizmente nem toda a faixa de
+mistério em si mesmo layout está em
+frança teria captado na discreta mas
+grande parte deles consegue se for assim
+então vamos lá
+antes de fazer o código vamos ficar aqui
+com o botão direito em cima nessa parte
+que nos interessa na página e clicar em
+pressionar para ver o débito sem
+qualquer carol que são informações de
+que eles disse
+nesse item o passado como o mouse em
+cima até na capital quando passa o mouse
+em cima dos elementos aqui no débito do
+código 10 ml ele vai selecionando use
+tem aqui na página na parte esquerda
+não vou deixar aqui o meu partido o
+mouse agora ele acelerou exatamente em
+azul na parte esquerda
+o david kelly que a agenda do ministro e
+aí olhando aquilo deve tudo então
+começará a gente pode extrair informação
+olha só é um elenco do tipo de vih ea
+classe dele em agenda tá então tá então
+compensa
+tem também a informação pedida da agenda
+é a idéia da agenda da oi 2009
+uma das rodovias informações vai nos
+servir para isso é informação
+eu vou usar classe que agora porque eu
+não sei se esse de agenda vai mudando e
+pode ser que o ibge era por dia não sei
+se eu vou usar clássico para ser mais
+simples
+então vamos tentar extrair essa
+informação técnica página para um
+formato mas lá dentro do país
+roma o código então é o passo a passo da
+rádio cruzeiro request expressa ver um
+jet na agenda do ministério então peguei
+o conteúdo daquela página e na seqüência
+já o mercosul e transformar isso numa
+arma num objecto subir e agora da cana
+então agora no sul já usando o meu
+projeto sugar você usar o medo do site
+localizar o que exatamente viu lá na
+nuvem 200 voos aigle noir com o elemento
+do tipo de vih e aqui no segundo
+parâmetro o grupo casseta gente forneça
+pra ele
+assim o ideal é que a gente quer buscar
+aqui o povo é exatamente aquele de que
+estava lá não deve tudo à agenda time
+com o pai do combate e salvei isso tem
+uma variável que chama de agenda
+quando amanda e pedir para ele vir na
+tabela o que apareceu pra ver se a gente
+consegue um lugar do correto é só usar
+vermelho já pré formatada que bonitinho
+e é exatamente a agenda do ministro é
+lógico que as tags html que vai até
+mesmo a venda do df net 21 de novembro
+a agenda foi usada antes viu que a coisa
+deu certa observa ensinar um pouco que
+ainda há um perfil diretamente no carro
+ele retornou tudo ainda que o o objeto
+o problema é que está sempre a espécie e
+aceita cse selector também de um pode
+nem deve tudo simplesmente copiar a
+dispensa copiar o esterçamento sido
+bastante é é um objeto que você pode
+imprimir o ml já tem inclusive já como
+está no texto diretamente aos que me
+chamem a agenda o teste
+eu já me deu o tributo é todo o terço da
+ajuda nisso
+bonitinho para a gente trabalhar e aí
+podia também podia pegar esse texto já
+transformaram até pra ante elaborar um
+pouco mais e mostrar nem quanto teria
+111 min complexo aí eu circulo pique pra
+liberar por cada um dos eventos da
+agenda muito frio aqui eventos para
+buscar os eventos a agenda site uol
+então o único sopro localizar todos os
+elementos que acusa pegue o nome l por
+que ele voltará no página da ans na
+página do do ministério
+como vê que os elementos que se você
+você tenha uma url que é uma lista de
+html e lá vem a troca no bairro meu
+mouse ou cada elemento cada linha vinha
+de evento aqui de horário 9 6 11 horas
+as linhas é uma pele ou seja a
+informação que interessa pra gente é
+efetivamente está aqui dentro desses
+livro aqui então eu vou agora ele terá
+né por cada um desses lances livres
+desses itens lista para extrair o
+horário e está aí que a descrição desse
+exemplo poderia sair também outros
+atributos poderia por si só clicar no
+exemplo ele vai abrir uma segunda página
+aqui pra que vai ter mais detalhes sobre
+o evento não poderia extrair elite
+pudesse sair mais dados poderia fazer um
+clube mais completa
+as estações de exemplo não vim aqui pra
+cá o evento é o luiz fora do pai
+a cada evento tem dentro dessa lista de
+eventos eu creio que os alunos saem jaú
+e ele mandava buscar primeiro o primeiro
+elemento spam porque o spam é só clicar
+aqui em cima de 1961 em manaus
+pressionar o 96 ali ele é um elemento a
+irmã dele buscar esse spam e o que é
+extrair o texto e chamei que o atributo
+contest é estabelecer um horário
+a descrição do evento a gente pode dizer
+que o eu selecionei que na parte direita
+a tag aqui um link né por exemplo o link
+e ele marcou direitinho carapacho que
+era a descrição da venda é uma das
+bandas como localizar o essa primeira
+pele a e também saiu o texto dela e aí
+dentro da mesma cria uma listinha para
+uma lista do pai foi em votar mais nada
+dentro dela o horário de inscrição
+simplesmente vou rodar esse script e
+anote aí em baixo o resultado ia sendo
+então os horários ea descrição do é na
+descrição do evento da agenda do mesmo
+poderia depois agora está lá e esse
+scrap para todas as páginas do
+ministério da prova os órgãos de fazerem
+um dado mais completa e ele vai mais
+grupos de interesse como interagindo
+mais com cada um dos ministérios ou com
+o governo federal como do pessoal e se é
+foi uma van o binário a isso
+introdutório básico né gente teria
+induzido tremendo para fazer estudos
+mais completos agente popular bastante o
+tempo da nossa aula
+o código do nosso óleo quente utilizou
+aqui pra apresentar
+[Música]
+acho que a gente usou preocupação está
+no time e rabbi jovem na tela para vocês
+aqui perguntando o que se pode pegar
+qualquer atributo sim você pode colocar
+o texto você pode pegar os atributos
+levar quero pegar a classe quer pegar o
+o que quer
+o tributo hrs o sr feito todos eles você
+pode extrair de tributos é e no caso é
+só eu é selecionar tribuna tirano
+utilizando o um nervoso a eu vou colocar
+um momento um pouco maior k a página do
+record
+vai baixar todo esse corte está
+parecendo que você já é então
+basicamente é isso que espero que tenham
+gostado assim é uma solução dá pra
+começar a fazer bastante coisa da pacha
+arquivo japão já está encontrando uma
+forma mais básica é recomendada nem a
+documentação a documentação rico é muito
+rica
+a documentação do sul e riquíssimas
+aprender bastante coisa e como eu já
+falei coisas mais avançadas é o
+interesse ea gente tem um curso agora
+inserido em brasília ferro ti vai ser no
+dia 8 12 são um curso de direção dois
+dias está há oito anos de curso com 2
+sábado 20 em mais detalhes como
+escalattes e outros players como o de
+teste como você - como fazer
+multiprocessamento para fazer crepe de
+milhões e milhões de páginas ou mesmo ao
+mesmo tempo em que entra em detalhes um
+pouquinho mais como tatá capte anos como
+tatá com o site que bloqueiam e p e como
+é é simular melhor o seu browser
+como é mais amigável também com
+servidores enfim gente entra num toque
+bem mais detalhados nesta terça a
+produção aqui então a gente vai ter esse
+tarde no site da série faça sua
+inscrição pessoal de outra cidade que
+tiver empresa opte que quer fazer o
+curso também como é agente da dea cursos
+in company é é espero que vocês tenham
+gostado é podem entrar em contato comigo
+então é duro 20 habib é também o
+primeiro também seria ficar aberto não
+tirar dúvida quem tiver conversarem
+algum consultoria no caso específico
+também é o medo que é o sócio que
+preferir
+vai dar flamengo de fechamento com vocês
+um papel
+com gente ligada a ele pela passam pela
+compreensão do nosso é e porque a casa
+no início mais aqui do que no início é
+quem sabe faz ao vivo e ao vivo só
+representava pouco a gente vai ter o
+nosso curso presencial e com certeza o
+rafael vai detalhar mais essas dúvidas
+sair do de vocês pontuais que não estão
+conseguindo fazer um scrap fazer essas
+coisas
+o nosso curso face aos sábados vai ser
+no dia 8 de dezembro e o próximo sábado
+seguinte ao dia 15 é e aí qualquer mais
+informações da nossa página itália cai
+na nossa televisão é www.ig.com.br e o
+favor curta o nosso canal no youtube
+nossa página no facebook que vamos fazer
+muito mais tarde on line
+obrigado pessoal galeões boa noite

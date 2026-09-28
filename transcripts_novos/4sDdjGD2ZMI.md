@@ -1,0 +1,34 @@
+# Depoimento Flávia- Comunidade de Estatística do Prof. Thiago Marques
+
+- **URL:** https://www.youtube.com/watch?v=4sDdjGD2ZMI
+- **ID:** 4sDdjGD2ZMI
+
+## Transcrição
+
+o olá meu nome é flávia eu tô gravando
+esse vídeo aqui para deixar meu
+depoimento sobre a participação na
+comunidade estatística o tiago marques e
+sem dúvida nenhuma foi o melhor
+investimento que eu fiz para mim a
+capacitação e o meu aprendizado é eu sou
+entusiasta de dados procurei muita
+informação sobre estatística e eu acho
+uma área bem difícil de encontrar bons
+professores material de qualidade e
+acessível e foi uma uma grata surpresa
+quando me deparei com a comunidade tive
+um pouco de dificuldade para começar o
+culto por problemas pessoais foi
+comentando isso com tiago que é um cara
+super parceiro e me incentivou e as
+coisas deram certo e eu enfrento a
+comunidade em fevereiro conseguir
+concluir o agrade oferecida por ele
+e de maneira muito rápida porque o cara
+é fera no que ele faz e estimula a gente
+a participar sempre e o mais legal é que
+a comunidade vitalícia isso não vai
+deixar de fazer parte da minha vida
+nunca mais então bora lá que vocês vão
+gostar desse treinamento

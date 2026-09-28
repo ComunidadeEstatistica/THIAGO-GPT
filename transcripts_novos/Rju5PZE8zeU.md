@@ -1,0 +1,518 @@
+# Aula 10 - Distribuições de Probabilidade Contínuas - Introdução - Estatística (Versão Mobile)
+
+- **URL:** https://www.youtube.com/watch?v=Rju5PZE8zeU
+- **ID:** Rju5PZE8zeU
+
+## Transcrição
+
+fala galera tudo bom com vocês
+estamos de volta aqui tá com agora nosso
+tema vai ser distribuições contínua está
+a gente falou das discretas na semana
+passada no caso na na aula três né
+essa nossa quartal ok do curso e a gente
+vai estar falando aí das distribuições
+contínua está não é normal uniformes
+potencial está em seqüência a gente vai
+vai estar conversando com vocês sobre
+esses assuntos está e falando de
+aspectos mais importantes aí cobrados em
+concursos está então vamos lá
+distribuição de probabilidades contínua
+está a primeira delas que a gente vai tá
+falando aqui é a distribuição uniforme
+contínua ou chamada de retangular tá
+como o próprio nome já diz é
+caracterizada como manter a
+probabilidade constante ou seja uniforme
+em todo o seu domínio na quarta volta e
+rotem fala galera tudo bem com vocês
+então essa é a nossa 4ª aula tá essa
+obra vai estar pensando sobre
+distribuições contínuas de probabilidade
+está na hora passada
+a gente viu distribuições discretas e os
+conceitos de probabilidade está que a
+gente vai levar pro ao longo do curso
+está e agora a gente vai estar entrando
+aí dentro das probabilidades de contínuo
+está tão primeiro que a gente vai
+primeira delas é que a gente está
+falando aqui é a distribuição uniforme
+continuou também chamada de retangular
+tá são sinônimos com o próprio nome diz
+é caracterizado como manter a
+probabilidade constante e uniforme em
+todo o seu intervalo entre o mínimo de
+ganhar e máximo em b ou seja entre a e b
+a probabilidade fica constante está essa
+é a característica da distribuição
+uniforme ela fica constante ali dentro
+do intervalo que ela está definida está
+o a é o mínimo de distribuição eo bebê
+ou seja um valor mínimo cantasse o que
+pode assumir a distribuição eo valor
+máximo é menor do que há 10 maior do que
+o bb também já tá tão forma do uniforme
+1 sobre b - a em que o xixi entre a e b
+ou seja ela tá definida entre a emel um
+mínimo e um máximo da funsau ok x vai
+seguir um uniforme a b onde irá
+é o mínimo de distribuição e b o máximo
+tá valor esperado bem mais a subir 2 tem
+isso aqui tem que saber tava esperando e
+várias tem que saber de todas as
+distribuições tá pode cair na prova
+qualquer uma delas a gente vai chamar
+kid x vou esperar o bebê mais a sobre
+dois está e a variância varinhas e b - a
+ao quadrado e sub-12 tá única forma que
+você vai achar que tem 12 em baixo tá
+então é mais fácil de gravar então é bem
+menos a ao quadrado sobre 12 variância
+da uniforme o que a gente pode falar
+aqui é que por ser uma distribuição
+contínua para achar a probabilidade de
+ela geralmente a gente tem que integrar
+certa porque na verdade é integral é a
+área abaixo da curva então se eu
+integrar em todo em todo meu conjunto
+definido que o uniforme está definida tá
+se integrar isso aqui eu acharia abaixo
+desse retângulos em que achar desse
+tanque e será integrado dentro do
+domínio dela tem que dar um tá isso é
+qualquer qualquer probabilidade qualquer
+distribuição de probabilidade você tem
+essa propriedade se você integrar em
+todo o domínio da 11 ou se você somar se
+ela foi discreta se você somar em todo o
+domingo tem que dar um som mais
+propriedade certo legal aqui eu vou
+ensinar macetes para vocês pra vocês não
+terem que calcular usando integral
+tá vai ser bem tranquilo
+vamos lá fazer pose em uniforme seja
+variável leitura contínua x a corrente
+medida em um fio do gado de cobre em
+minha perna tá essa é a corrente está
+definido em lei a festa considera que a
+faixa the x seja entre 0 e 10 mil peças
+então ó o nosso a 0 eo nosso bebê é 10
+tá bom e suponha que a função de
+densidade de probabilidades e x seja fdx
+igual a zero um tapa no bumbum para a
+mesma faixa acima
+tá aí nos pergunta qual é a
+probabilidade de a medida da corrente
+está entre 5 e 10
+aqui porque é 0,1 lembra que a 1 sobre
+demoniza praxe entre a e b
+uai quem aqui pessoal 0 então praxe
+entre 0 e 10 substituindo aqui ó
+vai ficar um sobre o b10 a 101 sobre 10
+o que é 0 1
+a função ziada uniforme está definido e
+quiseram tá qual a probabilidade de a
+medida da corrente está entre cinco e
+dez mil pés que a gente pode fazer
+vamos fazer o desenho do uniforme como é
+que é o design
+a gente tem aqui que ela é constante no
+intervalo ela está definido o acerto
+então a não gostar que irá ao aeroporto
+a gente viu a então vamos fazer aqui o
+zero aqui
+então entre 0 e 10
+ela tá definido entre 0 e 10 está ele
+está perguntando qual a probabilidade de
+a medida da corrente estar entre cinco e
+dez minutos esta entre 5 e 10 15
+aqui no meio né se aqui de zero a dez em
+dez certa a distância que 10 então aqui
+a 5
+então ele quer na verdade quando ele
+fala que a probabilidade de a medida
+decorrente está entre 5 e 10 ele está
+querendo calcular essa aqui o ta ele
+está querendo a calcular a área desse
+retângulo aqui área do retângulo como é
+que a gente calcula a área vai ser o que
+a base vezes altura está a área vai ser
+o que aqui de 5 e 10 de 52 - 55 legal e
+aqui a nossa função é um sobrenome mas
+há um sobe e desce está 01
+então vai ser o que é quase vezes altura
+altura quem sabe 10 vai ficar sob dez
+meses 54 aqui 5 com 10 sobre o que é
+meio tal 50% tá 05 legal determina média
+valência da distribuição como é que a
+gente faz a média da unifor me é de x é
+a média não é isso
+tal p - mas a subir 2 está vai ser o que
+é
+o b10 10 vai ser 10 sob 25 sem maiores
+problemas está a variância lembra aquela
+fórmula com 12 em baixo bem - á ao
+quadrado sobre 12 b10 10
+tá deve ao quadrado vai ficar
+sem subir 12
+isso aqui vai ficar 52 né
+vamos simplificar por 2 50 sobe 6
+aí fazer aqui 50 / 68 66 48 da dois de
+0,6 meses 3 18 20 e 33 333 8,333 beleza
+distribuição de probabilidades contínuas
+aqui a gente vai estar trabalhando com a
+função acumulada da uniforme
+a gente vai ter que a china menor do que
+a 0
+tá entre a e b ela vai ser uma reta com
+coeficiente agora positivo tá ela está
+assim então acrescente água positivo se
+tivesse assim é negativo tá isso vai ser
+dado por x - a sobre bem - á se tiver
+entre a ylê
+e aqui como toda boa função acumulada
+se você acumula todas as probabilidades
+têm que dar um certo em toró
+dando um aqui em cima tá então praxes
+mark b é um tabu
+essa é a função como área da
+distribuição uniforme
+agora a gente vai falar da distribuição
+exponencialmente
+vamos lá então agora já faz a
+distribuição exponencial
+é uma distribuição que é caracterizada
+por estar definida para valores
+positivos está tão somente positivos e
+usualmente utilizado para representar o
+tempo tá então a gente vai estar
+pensando no uniforme a tempo de vida
+útil de uma lâmpada tempo de espera numa
+fila tá tempo se você pensa lá fazer um
+paralelo entre a possam e uniforme após
+um uniforme é uma distribuição discreta
+e que a gente viu na outra aula ela uma
+distribuição discreta que representa por
+exemplo o número de chegadas de pessoas
+numa fila
+agora se você já pensar no tempo entre
+as chegadas já vai ser mais potencial
+ok então o número de pessoas chegando
+numa fila possam 11 tempo entre as
+chegadas exponencial no número de carros
+passa uma ponte possam tempo entre essas
+passagens exponencial beleza ea fórmula
+vai ser dado que vai ser lá a vida é
+levado a menos na vila x definida para
+todo time maior do que zero e lambda
+maior do que zero tá aqui
+o valor esperado da raiz policial é um
+sobre o amido e avança
+sob lambda ao quadrado tá então a gente
+pode olhar esse gráfico cozinha que
+entender o seguinte o tempo de vida útil
+da lâmpada ele vai decaindo ao longo do
+tempo ou seja ela vai é tendendo a
+falhar ao longo do tempo tal começa lá
+em cima e vai decrescendo
+exponencialmente
+ok até a lâmpada parar de funcionar
+ok por isso que esse grave está
+representando isso funciona de
+distribuição acumulada da
+exponencialmente importantíssimo tá
+porque a gente vai estar utilizando ela
+muitas vezes essa fórmula que tem que
+saber impreterivelmente está tem que
+saber porquê porque a distribuição
+exponencial como toda boa distribuição
+contínua
+ela tem que ser integrada tá pra achar a
+probabilidade de acontecer o sucesso que
+você quer você tem que integrar praxar
+ok então a gente vai estar a usar esse
+artifício da acumulada para não precisar
+integrar tá então a gente vai pensar da
+seguinte forma que aqui é um
+se a gente pegar aqui um valor um valor
+x a probabilidade de she's in vão botar
+que x1 ser menor ou igual a x 1 vai ser
+acumulada em x 1
+um tá ea como a de x1 é dada por um - é
+levado a menos de lâmina x 1
+tá então a gente vai estar trabalhando
+aqui com um menos é levado a menos de 92
+x ok legal
+o exemplo de espanha nem se ao o tempo
+de espera em uma fila o tempo de espera
+na fila
+então nem preciso dizer que é
+exponencial a gente já sabe segue uma
+distribuição exponencialmente
+tá se o tempo médio esperado pelo
+cliente a 10 minutos para ser atendido
+com a probabilidade de que um cliente
+demore menos do que 12 minutos para ser
+atendida
+então a gente tem o seguinte aqui olha
+ele falou que o tempo esperado pelo
+cliente a dez minutos está então a gente
+sabe o que a gente sabe que x segue uma
+experiência alta com um âmbito da la
+plata a qualquer e aqui vai esperar o
+diferencial um sobe lá a vida tá e ele
+falou que o valor esperado de 10 minutos
+está vendo o tempo médio esperado na
+mata que nada mais é do que o valor
+esperado
+então a gente tira daqui que lamera 011
+tá passou pra cá vai ficar uns
+sobriedade 01 ok então nosso lado de 01
+de que o cliente demore menos do que
+dois minutos para ele ser atendido na
+hora eu quero que é meter aqui a
+probabilidade de x ser menor que 12
+minutos
+teríamos que fazer a internauta aí a
+gente ia pegar fazer integral e
+encontrar essa probabilidade mas a gente
+não vai lá integral no curta a gente vai
+utilizar o artifício da distribuição
+acumulada
+se a gente pensar aqui ó como é que o
+desenho da acumulada
+a gente tem aqui acumulada
+aqui a gente vai ter 12 que ele está
+querendo que chegue menor que 12 é a
+área baixo da curva a isso aqui tá então
+a gente tem aqui que acumulada em doze
+vai ser o que é acumulada de x em 12 vai
+ser o que um - é elevada - lambda x
+só que quem quem ela me dediquei x 1 - é
+elevado
+- é 11 vezes é 12
+então isso aqui vai dar 1 - é elevado a
+menos um sobe 10 11 -1 equador está aí a
+gente pode deixar em função do é se não
+tiver anunciado em 2010 em função das
+policial mesmo tá tem questões que ele
+faz isso e aqui um negócio interessante
+aqui que eu acho interessante pra falar
+aqui ó
+essa área que é dado por um é menos é
+elevada - não me deixes a só que a gente
+sabe que se a gente acumular todas as
+probabilidades têm que dar um tá
+como toda boa função de propriedade está
+não só a distribuição de propriedade
+aqui então se a gente fizer a gente tem
+que achar um valor 100 elevada - não me
+deixes mais um certo valor tal chamado
+de y tem que dar um tá então essa
+a partir de mim aqui ela vai ser nada
+porque é elevado - lambda x porque
+recorda esse aqui com esse aqui e sobra
+um então essa parte aqui se eu pedir por
+exemplo a probabilidade de x maior do
+que 12
+era só eu fazer é elevada - me deixe só
+que aí o nome do que 12 x a mentira o x
+érea 12 eo amigo que 01 para substituir
+que tá então vamos ver que a letra b de
+que o cliente demore entre 7 e 12
+minutos para ser atendido
+então ó ele quer demorar entre 7 e 12
+minutos thoni que há a probabilidade de
+chita entre 7 e 12 cordas entre 7 e 12
+minutos para ser atendido
+isso aqui vai ser o que vamos lá o quê
+que é acumulado aqui em site ta e aqui
+embaixo 12 está acumulando insight isso
+aqui é um homem doze isso aqui se eu
+quero entre 7 e 12 o 12 tac
+então o que eu tô querendo eu tô
+querendo na verdade o site está aqui o 2
+está aqui eu tô querendo essa área aqui
+tá então como é que eu acho essa é só
+pegar acumulada em doze e tirar com 97
+eu vou ter essa partida aqui com quadro
+então é isso que a gente vai fazer o que
+eu fizer aqui acumulada em doze membros
+acumulada insight
+eu vou tá achando
+essa área aqui tá então o que é
+acumulada em 12 11 - é elevado
+- é 01 vezes 12/1 reguladores
+- acho que é menos acumulado em sete vai
+ficar 1 - é elevado a menos
+07 01 17 certo legal
+então a gente tem aqui um vai cortar com
+um tá
+e aqui vai ficar - é levada menos 1,2
+mas é elevado a -0 7
+tá então é essa seria nossa resposta
+beleza agora pessoal a gente vai fazer
+um intervalo aí tá vai beber uma água e
+vai no banheiro ea gente está voltando
+em seguida aí pra matar aí as
+distribuições contínua está vamos
+continuar então galera relação entre
+este potencial que é uma distribuição
+contínua e após um com uma distribuição
+discreta
+se temos que a taxa de ocorrência de um
+evento com uma certa unidade de tempo
+segue uma distribuição de possam
+comparar metrô lambida logo no intervalo
+entre o tempo em três ocorrências
+sucessivas
+lembro que eu falei pra vocês o número
+de chegada no fim de que possam agora o
+tempo e três chegadas é exponencial
+é isso que o contratante aqui exemplo da
+relação do exponencial possam fazer um
+exemplo aqui pra ficar mais claro o
+número de carros que chegam
+estacionamento que comporta quatro
+carros segue uma distribuição onde
+possam lambida a cada 24 horas chegam em
+média 12 carros para estacionar calcula
+a probabilidade de que no intervalo de
+uma hora
+então ele está dando uma lambida em 24 e
+ele tem uma hora vamos ter que fazer a
+regra de três está nenhum carro venha
+estacionar então ele quer a
+probabilidade x 1 a 0
+vamos ver aqui o que acho que ela dizia
+aqui pra vocês lá queremos para uma hora
+portanto a gente vai achar holanda como
+eu já tinha falado a gente vai fazer é
+grande e três para achar o agente tem
+que chegam 12 carros para estacionar tá
+em média 12 para cada 24 horas e uma
+hora vai chegar quanto a que dividiu com
+24 arquivo / 24 também 05 em uma hora tá
+então nosso lá né 05 substituindo na
+forma a ele que a probabilidade que não
+chegou nenhum carro em uma hora
+então a 05 e vazio que eu como é que a
+forma como é que a forma da posição
+lembra a elevada x é levado a menos na
+vida sobre x fatorial tá 05 nosso nome
+da zero nosso x e só aqui 0 fatorial é
+um todo mundo levadas a um vai sobrar
+levando a 605 tá pode deixar indicado
+será que está um pedal dell o elevado
+amenizar 5 você vai lá com ele substitui
+para achar a resposta está agora vamos
+lá pra letra b
+a probabilidade de que o tempo decorrido
+entre os dois carros seja superior a uma
+hora então ele quer o tempo entre entre
+a chegada dos dois carros aqui a
+probabilidade que o tempo decorrido
+entre os dois carros seja superior a 1
+hora ou seja passa de uma hora
+então ele quer a probabilidade de x
+maior do que um tá agora não é perguntar
+no intervalo de tempo entre dois carros
+chegarem isso em tempo superior a 1 hora
+tá a gente pode pensar aqui a gente pode
+usar como também tá porquê porque que
+achei mais do que um é um menos
+a probabilidade não comem schirmann que
+um é 23 a esse mesmo então voltar aqui
+corta e voltar o que quer probabilidade
+de chuva é maior do que 1 é um - a
+probabilidade de x menor ou igual a um
+certo e probabilidade menor ou igual a
+música vamos fazer aqui ó
+aqui tem um arzinho vai ser o que é isso
+aqui então - é elevado - 2 x 1 - o nome
+da senhora 5 x 1 a 1 - 1 - é levado a 0
+que dá assim como a gente já sabia
+lembra que eu falei que se você quer
+calcular a probabilidade de x maior do
+que o 1 x 1 aqui que a gente está
+chamando de um aqui é o que é tão
+somente é elevada - não me deixes que
+vai dar a elevado - 05 vezes 105 beleza
+show de bola
+com isso a gente consegue matar e as
+questões de disponível se ao de
+uniformes em usá integral tá agora a
+gente vai estar falando de uma das
+distribuições mais importante está na
+estatística beleza a distribuição normal
+ou chamada também de gal se ana porque
+foi o gaúcho que descobriu essa
+distribuição é uma das mais conhecidas
+distribuições em estatística como falei
+possui formato de ensino
+ó senhor não concorda comigo que ela tem
+o formato de ensino até o formato de um
+sino tem
+e ela é uma distribuição simétrica
+lembra da nossa primeira aula que é uma
+distribuição assimétrica a gente torna o
+eixo central como se fosse um espelho tá
+tudo que a gente olha para o lado
+esquerdo
+se a gente enxergar igual para o lado
+direito
+beleza então a gente sabe o que é que a
+moda é igual à mediana é igual à média
+fiba beleza legal forma da normal esse
+bichinho foi aqui um sobre sigma raiz de
+2 pié levando - um sobre 2 x 6 m ao
+quadrado sob sigma definido entre -
+infinito mas não precisa se preocupar
+com quem está a gente não vai usar essa
+forma mostra aqui tá
+a gente vai usar uma tabela que foi
+justamente feita por causa dessa forma
+monstro que não é uma distribuição
+integrável comprar a gente achar as
+distribuições contínua a gente precisa
+integrar praxar probabilidade certo
+então ela precisa ser integrada mas essa
+forma aqui ela não é integrável elas a
+integravam numericamente está então por
+métodos interativos e tudo mais que não
+cabe aqui pra gente mas foi feita uma
+tabela tá pra facilitar nossa vida ea
+gente vai estudando essa tabela ea gente
+vai dizer que x saiba normal
+o médio samir e variância sigma ao
+quadrado tá valor esperado me variância
+sigma quadrada negócio importante aqui
+também é saber que ó entre um
+desvio-padrão op - e um desvio padrão e
+mais um desvio-padrão agente agrupa 68%
+das observações tá então a probabilidade
+está entre um desvio padrão para baixo
+onde viraram para cima é 0 68
+quando a gente tem dois desvio padrões
+a gente já contempla 95% da distribuição
+tá e para 3 bilhões já tem 99 pontos 7%
+tá esse também chamada de regra empírica
+tá então vamos lá então como eu falei
+pra vocês
+o cálculo das probabilidades da imagem
+para efetuar o cálculo da probabilidade
+de variados que seguem normais não é tão
+simples
+tá quando quanto nas outras
+distribuições uma vez que é normal a uma
+distribuição contínua não integrava não
+integrava analiticamente somente através
+de métodos genéticos e não médicos
+interativos não possuindo solução
+analítica então existe uma tabela normal
+que fornece as probabilidades associados
+a uma variável aleatória padronizada
+então a gente vai ter que está
+padronizando tá

@@ -1,10 +1,2432 @@
 {
-  "data_execucao": "2026-09-27T22:22:47.405832",
+  "data_execucao": "2026-09-27T21:39:48.161073",
   "resumo": {
     "total_canal": 702,
-    "total_pulados": 0,
-    "total_novos_adicionados": 0
+    "total_pulados": 105,
+    "total_novos_adicionados": 595
   },
-  "novos_adicionados": [],
-  "ultimos_pulados": []
+  "novos_adicionados": [
+    {
+      "id": "Of-cWzaKBX0",
+      "title": "Cybersecurity, AI, and Compliance: Translating Cyber Risk into Business Decisions - Claudia Bonard"
+    },
+    {
+      "id": "KIGmdEYGt90",
+      "title": "Rio Innovation Week Startup Pitch - 8Pro Digital"
+    },
+    {
+      "id": "s5JpRQtCTAc",
+      "title": "RIW - SCJS INFO Omnichannel - Roberto and Claude - Part 2"
+    },
+    {
+      "id": "83Z-pE_fP5I",
+      "title": "Statistics and the new AI code: Stop being just a data pitcher - Doris Fontes (CONRE-3)"
+    },
+    {
+      "id": "HnVI-3MTBqE",
+      "title": "Public Data and Transparency: Data Science at the Heart of the State - Fernando Barbalho"
+    },
+    {
+      "id": "F63y0ETiIPw",
+      "title": "Innovation Farms with Data - Daniel Moraes and André Vizzoni"
+    },
+    {
+      "id": "hb7fBtbLjbo",
+      "title": "Parte 1 - Aula prática 07 - Gráficos Estatísticos - Variáveis Qualitativas Ordinais - R"
+    },
+    {
+      "id": "eOE45FAkQWA",
+      "title": "Parte 2 - Aula prática 07 - Gráficos Estatísticos - Variáveis Qualitativas Ordinais - R"
+    },
+    {
+      "id": "8PQHFnkDQyQ",
+      "title": "Parte 1 - Aula prática 08 - Gráficos Estatísticos - Variáveis Quantitativas - R"
+    },
+    {
+      "id": "n7ppl0IczG8",
+      "title": "Parte 2 - Aula prática 08 - Gráficos Estatísticos - Variáveis Quantitativas R"
+    },
+    {
+      "id": "3FAcfjf6G3U",
+      "title": "Parte 2 - Aula prática 09 - Gráficos Estatísticos Drag and drop (Point and click) - R"
+    },
+    {
+      "id": "oq1g0BQYrgc",
+      "title": "Sorteio Semana de IA na Saúde"
+    },
+    {
+      "id": "Tv48GT5DwNg",
+      "title": "Resultado sorteio CECD experience 2.0"
+    },
+    {
+      "id": "OiovCK_Y5eM",
+      "title": "Sorteio de prêmios da semana de Business Analytics"
+    },
+    {
+      "id": "xDHM7wKNnvs",
+      "title": "Marketing, dados e IA - ID360 BH"
+    },
+    {
+      "id": "cVsuKYpuicA",
+      "title": "O famoso : R vs Python 😂"
+    },
+    {
+      "id": "udre-rugwYU",
+      "title": "Importância da Inferência estatística dentro da ciência de dados"
+    },
+    {
+      "id": "czT9259kAxo",
+      "title": "Importância da visualização de dados na área de dados #3"
+    },
+    {
+      "id": "OB1NpG7flZA",
+      "title": "A comunidade de Estatística e Ciências de dados do professor Thiago Marques."
+    },
+    {
+      "id": "w2lpn9x6_sE",
+      "title": "O Processo de criação de modelos de machine learning #4"
+    },
+    {
+      "id": "Y83j41Y7lvE",
+      "title": "Importância dos conceitos de Business intelligence, consultas e SQL dentro da área de dados #2"
+    },
+    {
+      "id": "gkhBK8u_fMc",
+      "title": "Importância da Estatística descritiva na área de dados #1"
+    },
+    {
+      "id": "l6QF1gwMl5w",
+      "title": "🔥[Semana de Business Analytics]11 a 15 de setembro"
+    },
+    {
+      "id": "d0g6Lte0fBM",
+      "title": "Vídeo de recepção dos alunos da Comunidade de Estatística (Onboarding Comunidade 2.0)"
+    },
+    {
+      "id": "yP37gieXD_8",
+      "title": "Experimente a Comunidade de Estatística Gratuitamente - Prof. Thiago Marques"
+    },
+    {
+      "id": "GiGaHMEHizE",
+      "title": "Segundo dia de workshop SWAP - Prof. Thiago Marques"
+    },
+    {
+      "id": "evPnHrrfOg4",
+      "title": "Happy Hour Comunidade Experience (Recepção alunos turma 20 + RPG COM ESTATÍSTICA)"
+    },
+    {
+      "id": "Pb9rxgl5xDQ",
+      "title": "Ocupações tradicionais e modernas de aplicação da Estatística"
+    },
+    {
+      "id": "YTiaP_O4Exw",
+      "title": "Live Norberto Berti (CEO Eurekando) - RPG com Estatística"
+    },
+    {
+      "id": "Ma-BUDIyc6M",
+      "title": "Comunidade Experience: Comemoração 3 anos (Abertura Completa)"
+    },
+    {
+      "id": "UNqBYLUtWP0",
+      "title": "Comunidade Experience: Comemoração 3 anos"
+    },
+    {
+      "id": "aRKFeQAB5V0",
+      "title": "Recepção e Networking - MBA BSBR DS e STAT com Python"
+    },
+    {
+      "id": "JqNhus8EyPM",
+      "title": "Apresentação do MBA EM MARKETING DIGITAL E ANALYTICS dos Professores e Alunos - BSBR"
+    },
+    {
+      "id": "g-Ugm5jmqVU",
+      "title": "Geoestatística - Parte 2 - Prof. Angelica Caseri"
+    },
+    {
+      "id": "U0gHKP-IIiA",
+      "title": "Turma 17 Comunidade de Estatística -  BLACK NOVEMBER 50%OFF"
+    },
+    {
+      "id": "o6XSM_ob5fo",
+      "title": "Ícaro Zelioli - Apresentação no Power BI"
+    },
+    {
+      "id": "Natu3xkRBH8",
+      "title": "Icaro Zelioli - Anomaly Detection in Processes using Principal Component Analysis"
+    },
+    {
+      "id": "ePN6R6axOqk",
+      "title": "Estatística Descritiva e Construção de Dashboards - Aula 01 MBA DATA SCIENCE E STATISTICS BSBR"
+    },
+    {
+      "id": "Lge_obpcJAo",
+      "title": "Geoestatistica - Parte 1 - Prof. Angelica Caseri"
+    },
+    {
+      "id": "AgUonbDW7Ic",
+      "title": "Episódio 5: Ideologia e Comportamento com o Prof. Dr.  Rafael Porto UNB"
+    },
+    {
+      "id": "tcL-3nGHPSY",
+      "title": "Sorteio dos prêmios: Semanas da Estatística e P.O. com R"
+    },
+    {
+      "id": "tXFazA4gpMM",
+      "title": "Episódio 3: Como os algoritmos podem favorecer o debate na rede social"
+    },
+    {
+      "id": "Fqu13v557Tc",
+      "title": "Episódio 4: Como combater o churn com dados"
+    },
+    {
+      "id": "FJpbrNn6T90",
+      "title": "Episódio 2:  Como lidar com o cancelamento na Internet"
+    },
+    {
+      "id": "zcPveq02Gw0",
+      "title": "Episódio 1: Inimigos do Churn"
+    },
+    {
+      "id": "y3b3xPSdD_I",
+      "title": "Data Science: Estatística na Veia - Semana de Tecnologia Anhembi Morumbi - Prof. Thiago Marques"
+    },
+    {
+      "id": "wagJJMhD7rw",
+      "title": "MBA PUC RS - MBA em BI, Mkt Digital e Estratégia Data Driven - Data Mining e Predictive Analysis"
+    },
+    {
+      "id": "kfMVRv2Jrm8",
+      "title": "Transição de carreira: Da Geofísica a Data Specialist na Wartsila (Finlandesa) - Fabio Carvalho"
+    },
+    {
+      "id": "wMQjVdZgM4Y",
+      "title": "Semanas da Estatística e Pesquisa Operacional com R - 20 à 30 de Setembro"
+    },
+    {
+      "id": "VZ4fdk40EBE",
+      "title": "Da área de Biomédica a Analista de Analytics na Multinacional Accenture - José Fernando"
+    },
+    {
+      "id": "ngl9z9gx-9Y",
+      "title": "Apresentação do  MBA EM DATA SCIENCE E STATISTICS dos Professores e Alunos"
+    },
+    {
+      "id": "Qh-m9op6j6Y",
+      "title": "Sorteio da Semana de estatística aplicada à IA e educação"
+    },
+    {
+      "id": "W1tZKsN2C90",
+      "title": "A importância da Estatística na Ciência de dados - Let's Data Instagram"
+    },
+    {
+      "id": "m--GiUuwyHk",
+      "title": "Depoimento Aluno Ivanilson - Casa da Pesquisa Operacional"
+    },
+    {
+      "id": "CyMUVW2TvGI",
+      "title": "Flávia Davide:De analista de negócios a gerente de divisão - Maior empresa pública do mundo (SERPRO)"
+    },
+    {
+      "id": "zBvdyY7V-qw",
+      "title": "Eliana Rigoni  Rigoni (Analista de dados Ambev) : Do B.I a Analista de dados da Ambev tech"
+    },
+    {
+      "id": "xAEWm-lwBIE",
+      "title": "Semana da Estatística e IA na Educação - 12 a 16 de julho (Gratuito)"
+    },
+    {
+      "id": "rdr1wu7ltIs",
+      "title": "Big Data Analytics - Aula 8 - Demonstrações de ferramentas e Hands On"
+    },
+    {
+      "id": "f1XIFY4Yc2g",
+      "title": "Henrique Comaru (BI Developer Ambev Tech) - De analista de Marketing a BI Developer AmBev tech"
+    },
+    {
+      "id": "86Ex2ZKAzb4",
+      "title": "Estatística no mercado vs Estatística na academia, será que dá Match? Descomplica AI YouTube"
+    },
+    {
+      "id": "z06IOytDpm0",
+      "title": "Big Data Analytics - Aula 7 - Mensageria, Replicação e Integracões de Dados"
+    },
+    {
+      "id": "byl0TecEbuI",
+      "title": "Power BI Desktop Installation Tutorial - Professor Thiago Marques"
+    },
+    {
+      "id": "SpFU46tDfzc",
+      "title": "Big Data Analytics - Aula 6 - Hadoop e suas Integrações"
+    },
+    {
+      "id": "29663_qI-xU",
+      "title": "Alteryx - Conclusão do Curso"
+    },
+    {
+      "id": "JL6E-ekbZh4",
+      "title": "Uma Estatística toma chá - Professor Thiago Marques"
+    },
+    {
+      "id": "letnFTIjykg",
+      "title": "Big Data Analytics - Aula 5 - Processos e Desenvolvimentos"
+    },
+    {
+      "id": "wBf_fH_Sdyc",
+      "title": "Alteryx - Output - Aula 17"
+    },
+    {
+      "id": "V0cb_ZSLLl4",
+      "title": "Big Data Analytics - Aula 4 - Arquiteturas de Dados e Recomendações de Caso"
+    },
+    {
+      "id": "VYR6GJSZCGw",
+      "title": "Big Data Analytics - Aula 3 - Cases e Aplicabilidades"
+    },
+    {
+      "id": "GtxhcLMUCNM",
+      "title": "Alteryx - Select - Aula 16"
+    },
+    {
+      "id": "s3fgUKDH6nU",
+      "title": "Depoimento Wagner - Comunidade de Estatística do Prof. Thiago Marques"
+    },
+    {
+      "id": "Q2C4d511cqQ",
+      "title": "Big Data Analytics - Aula 2 - A Era das Estratégias de Dados"
+    },
+    {
+      "id": "FI820_KJlq0",
+      "title": "Alteryx - Union - Aula 15"
+    },
+    {
+      "id": "NGmQZdrr618",
+      "title": "Big Data Analytics - Aula 1 - Dados e o Mercado Financeiro"
+    },
+    {
+      "id": "xQCjNNnBjCs",
+      "title": "Alteryx - Join - Aula 14"
+    },
+    {
+      "id": "v7dpmIalnEk",
+      "title": "Integração do Google Analytics e R - Extraindo dados (parte 6) - Ana Carolina Braga"
+    },
+    {
+      "id": "BLYsQZ6mxkY",
+      "title": "Integração do Google Analytics e R - Código de autenticação (parte 5) - Ana Carolina Braga"
+    },
+    {
+      "id": "ptUm8COm-X0",
+      "title": "Integração do Google Analytics e R - Baixando pacotes no R (parte 4) - Ana Carolina Braga"
+    },
+    {
+      "id": "DxrtCwwokAQ",
+      "title": "Integração do Google Analytics e R - Ativar API (parte 3) - Ana Carolina Braga"
+    },
+    {
+      "id": "CNUIixzqAUk",
+      "title": "Integração do Google Analytics e R - Usuário de teste (parte 2) - Ana Carolina Braga"
+    },
+    {
+      "id": "RQMLqYnqwZc",
+      "title": "Integração do Google Analytics e R - Chave de acesso (parte 1) - Ana Carolina Braga"
+    },
+    {
+      "id": "m9X5a--rqPY",
+      "title": "Alteryx - Formula - Aula 13"
+    },
+    {
+      "id": "0UtS0c0iLxg",
+      "title": "Power BI:  Dashboard Básico - Marco Milanez"
+    },
+    {
+      "id": "-epkWWakCB8",
+      "title": "Nuvem de palavras com R no Power BI - Marco Milanez"
+    },
+    {
+      "id": "o2UsfLuRrGA",
+      "title": "Pílulas de conhecimento do EstaTiDados - Dicas para evoluir chatbots (Celisa Saito (Consultant))"
+    },
+    {
+      "id": "hbnNHZY2LHk",
+      "title": "Alteryx - Summarize - Aula 12"
+    },
+    {
+      "id": "e6eXP-pKW-4",
+      "title": "Pílulas de conhecimento do EstaTiDados - Quando aplicar ISOMAP (Prof. Alexandre Levada (UFSCAR) )"
+    },
+    {
+      "id": "BsreCyOPWe0",
+      "title": "Pílulas de conhecimento do EstaTiDados - Competências para Data Scientist (Allan Sene - DataSprints)"
+    },
+    {
+      "id": "sRDWpsFBEWA",
+      "title": "Alteryx - Tile - Aula 11"
+    },
+    {
+      "id": "fDyg2Z_dmFM",
+      "title": "Pílulas de conhecimento do EstaTiDados - Netnografia (Débora Zaninini Coordenadora Natura)"
+    },
+    {
+      "id": "XL4JT2n8GP8",
+      "title": "Primeira Maratona de Estatística,Pesquisa Operacional e Ciência de dados - Comunidade de Estatística"
+    },
+    {
+      "id": "pOzzqdFbTQg",
+      "title": "Pílulas de conhecimento do EstaTiDados - Data Science para negócios (Andrei Graça Partner EY)"
+    },
+    {
+      "id": "xb-xgCh4ayk",
+      "title": "Alteryx - Transpose - Aula 10"
+    },
+    {
+      "id": "pVdVBEwHZLY",
+      "title": "Alteryx - Sample - Aula 9"
+    },
+    {
+      "id": "jwBP8Di2Jyc",
+      "title": "Alteryx - RecordID - Aula 8"
+    },
+    {
+      "id": "lLnu5HLg8hI",
+      "title": "Alteryx - Sort - Aula 7"
+    },
+    {
+      "id": "P-W2aEPaNHg",
+      "title": "Alteryx - Auto Field - Aula 6"
+    },
+    {
+      "id": "8uPw7xPnUXo",
+      "title": "Alteryx - Filter - Aula 5"
+    },
+    {
+      "id": "EbIyfWjn_jE",
+      "title": "Baixar Dados da B3 de forma fácil com R e pacote GetDFPData2 - Leonardo Chalhoub (Mestre ADM UFPGS)"
+    },
+    {
+      "id": "Zzxvm1bIN40",
+      "title": "Alteryx - Unique - Aula 4"
+    },
+    {
+      "id": "qThmujUlSv0",
+      "title": "Alteryx - Data Cleansing - Aula 3"
+    },
+    {
+      "id": "dQKYET5fZ1s",
+      "title": "Alteryx - Input Data - Aula 2"
+    },
+    {
+      "id": "0a6fHusC6x0",
+      "title": "App portfolio R Shiny - Prof. Thiago Marques (USP/IBGE)"
+    },
+    {
+      "id": "a2j7QP75pGQ",
+      "title": "Alteryx - Introdução ao Alteryx - Aula 1"
+    },
+    {
+      "id": "cuh5HmevlAc",
+      "title": "Installing R and RStudio - Statistics Community - Prof. Thiago Marques"
+    },
+    {
+      "id": "ZO2Egj99QM4",
+      "title": "Workshop Projeto Màiron Chaves - Self Service Estatística com R (Prof. Thiago Marques)"
+    },
+    {
+      "id": "Wlv5I19KC5U",
+      "title": "Aula 09 – Dados fundamentalistas com a GetDFPData - Trading com Dados"
+    },
+    {
+      "id": "YshV4FefDJw",
+      "title": "Aula 08 – Utilizando médias móveis - Trading com Dados"
+    },
+    {
+      "id": "NwL_MrTzg7w",
+      "title": "Avaliação de Imóveis - Rafael de Jesus (Engenheiro IME/RJ)"
+    },
+    {
+      "id": "iDfuRYGdsOE",
+      "title": "Aula 07 – Obtendo e visualizando dados de ações com a quantmod - Trading com Dados"
+    },
+    {
+      "id": "lewBOw8o9Qk",
+      "title": "Aula 06 – Calculando correlação e construindo portfólios - Trading com Dados"
+    },
+    {
+      "id": "0GwdkfXAqIU",
+      "title": "Aula 05 – Plotando os gráficos de todas as ações normalizadas - Trading com Dados"
+    },
+    {
+      "id": "oiGD7UBLpmc",
+      "title": "Aula 04 – Normalizando o preço das ações - Trading com Dados"
+    },
+    {
+      "id": "chC3bwEL55M",
+      "title": "Aula 03 – Plotando os gráficos das ações - Trading com Dados"
+    },
+    {
+      "id": "w1yHB2HtW5s",
+      "title": "Aula 02 – Trabalhando com as ações do IBOV através da BatchGetSymbols - Trading com Dados"
+    },
+    {
+      "id": "7sOMtzdxTxs",
+      "title": "Aula 01 - Conceitos de Investimentos e Introdução às Bibliotecas - Trading com Dados"
+    },
+    {
+      "id": "AeDAuTet1k8",
+      "title": "Atalhos e dicas no RStudio - Magos do RStudio - Prof. William GIani"
+    },
+    {
+      "id": "fQkeDjgSSgs",
+      "title": "Aula 06: Marketing Analytics - Prof. Thiago Marques(USP/IBGE) e Marcos Severo (UFG)"
+    },
+    {
+      "id": "hGSZlnLoRIg",
+      "title": "A arte da engenharia de dados - David Braga (Head IBM e Maestria dados)"
+    },
+    {
+      "id": "AIF3OTjInfs",
+      "title": "Tomada de dec. por vieses cognits e heurístics-Bianca Almeida (Neurocientist UFABC-Analist CRM VIVO)"
+    },
+    {
+      "id": "g-mGKCULUWQ",
+      "title": "Desafios para gerir uma equipe de Analytics - Eliziane Ramos (Coordenadora de Analytics na UNILEVER)"
+    },
+    {
+      "id": "K8DdBAnSxDY",
+      "title": "Pesquisa de Mercado  - Jéssica Mathias (Pós-Graduação Marketing FAE e Estatística na CLAMED)"
+    },
+    {
+      "id": "YlkiTwspfwg",
+      "title": "PSI+TI = Uma equação que dá certo!  - Laylla Toledo (CEO E-Sinapse)"
+    },
+    {
+      "id": "Dea9cFbuZws",
+      "title": "Multivariate Analysis in Insurance Pricing - Laura Ricordi (Coordinator - Tokio Marine)"
+    },
+    {
+      "id": "AgdTiR_3Yzc",
+      "title": "Clusterização no IFOOD - Rebeca Menegoli ( Data Business Hacker - The Bridge Social )"
+    },
+    {
+      "id": "dqERZwel7oc",
+      "title": "Aula 3  Exemplos de uma Abordagem Science Driven -  Prof. Leonardo Bars"
+    },
+    {
+      "id": "mYXeAZ_SfDw",
+      "title": "Curso gratuito - Marketing Analytics - Prof. Marcos severo (UFG) e Thiago Marques (USP)"
+    },
+    {
+      "id": "oG9ujS9AmBw",
+      "title": "Aula 11 - Automl Classificação - Prof. Flávio Clésio"
+    },
+    {
+      "id": "vCogzXdoBHc",
+      "title": "Deploy no Shinnyapp.io - Prof. Jonatas SES"
+    },
+    {
+      "id": "4cj7QFVbnUw",
+      "title": "7º Meet Up Data Science 2020 - Ciênica de dados e Estatística em Python -  Diogo Picco(Inferir e BB)"
+    },
+    {
+      "id": "H6o5QbYqgak",
+      "title": "7º Meet Up Data Science 2020 SERPRO - Data Science: Estatística na Veia"
+    },
+    {
+      "id": "hhU7gFX-oQU",
+      "title": "Construindo carreira em inteligência de mercado - Cindi Leal (Especialista inteligência Brasscom)"
+    },
+    {
+      "id": "QrEl39p4B20",
+      "title": "Construindo uma carreira de gestão em Data Science - Walison Abreu (Head DS da SGA)"
+    },
+    {
+      "id": "yv4hYP3jJ6I",
+      "title": "Statistics Applied to Sports and a Career in Sports Analytics (Esportístico Channel)"
+    },
+    {
+      "id": "dIqhPMMMmB8",
+      "title": "Antonio júnior (Cientista de dados da Boticário) - Construindo uma carreira em Analytics"
+    },
+    {
+      "id": "hnkeR40zC7E",
+      "title": "Aula 10 - Grid Random Search - Prof. Flávio Clésio"
+    },
+    {
+      "id": "8HZ06xHGDQs",
+      "title": "Aula 1 - Trabalhando com os microdados da PNAD COVID19 no R - Prof. Cleiton Rocha"
+    },
+    {
+      "id": "I5SZBAffX-g",
+      "title": "Live Giovane Tortelote - Pós Doutorado Tulane University - Avaliação básica de transcriptoma em R"
+    },
+    {
+      "id": "A4TOqkio6l4",
+      "title": "Aula 2   Fundamentos de uma Abordagem Science Driven - Prof. Leonardo Bars"
+    },
+    {
+      "id": "tP8Z18GRXYQ",
+      "title": "Modelo AdaBoost - Teoria - Prof. Danilo Morales"
+    },
+    {
+      "id": "gdhM3QZm6JY",
+      "title": "Aula 09 - Stacking classificação - Prof. Flávio Clésio"
+    },
+    {
+      "id": "bmW_O6yTFVo",
+      "title": "Aula 1   Introdução à uma Abordagem Science Driven - Prof. Leonardo Bars"
+    },
+    {
+      "id": "u7F1rXZYOZ0",
+      "title": "Ensemble Learning - Theory - Prof. Danilo Morales"
+    },
+    {
+      "id": "cvDQF5jZuQM",
+      "title": "Aula 08 - Xgboost Classificação - Prof. Flávio Clésio"
+    },
+    {
+      "id": "CbejnYx8JlQ",
+      "title": "Support Vector Machines (SVM) - Theory - Professor Danilo Morales"
+    },
+    {
+      "id": "0oia19nuUWs",
+      "title": "Aula 07 - Random Classificação - Prof. Flávio Clésio"
+    },
+    {
+      "id": "vcxM5T28MF0",
+      "title": "Aula 06 - Gbm Classificação - Prof. Flávio Clésio"
+    },
+    {
+      "id": "-_6MyYAiZtQ",
+      "title": "Casa da Pesquisa Operacional (CPO)"
+    },
+    {
+      "id": "bzA6u1L2lp0",
+      "title": "K Vizinhos mais próximos (KNN) - Teoria - Prof. Danilo Morales"
+    },
+    {
+      "id": "TCma9HvRCQg",
+      "title": "O que é Pesquisa Operacional? - Sociedade Britânica da Pesquisa Operacional"
+    },
+    {
+      "id": "eIB3qe1olog",
+      "title": "Tipos de Aprendizado de Máquina - Prof. Danilo Morales"
+    },
+    {
+      "id": "RlOFqTSkgEQ",
+      "title": "MC05 - Tables - Prof. Marcello Nascimento (Learn Tableau)"
+    },
+    {
+      "id": "kc6KBUZYYn4",
+      "title": "DataStorytelling comunicando - StéfanoCarnevalli - Vídeos novos - Parte3"
+    },
+    {
+      "id": "Gd4aneExJQ0",
+      "title": "MC04 - Gráfico de linhas e agregação - Prof. Marcello Nascimento (Aprenda Tableau)"
+    },
+    {
+      "id": "hXGSv498Jpk",
+      "title": "Teste Qui-quadrado Independência - Beta Analitica (Consultoria em Análises Estatísticas)"
+    },
+    {
+      "id": "T8QJonYrl94",
+      "title": "Data Storytelling: Communicating - StéfanoCarnevalli - New Videos - Part 2"
+    },
+    {
+      "id": "BZl_c8LKqNI",
+      "title": "Aula 05 - Glm classificacao treino - Prof. Flávio Clésio"
+    },
+    {
+      "id": "y98-oxv5B4o",
+      "title": "Lesson 01 - Experimental Psychology and Artificial Intelligence: Philosophical Foundation - Prof...."
+    },
+    {
+      "id": "kXnBTf0pRfA",
+      "title": "Aula 05 - Glm classificacao producao - Prof. Flávio Clésio"
+    },
+    {
+      "id": "4nyg5hLOOLQ",
+      "title": "Data Storytelling Communication - Stefano Carnevalli - New Videos - Part 1"
+    },
+    {
+      "id": "5-Vc7j17vxY",
+      "title": "Semana da Estatística (Gratuita) - Comunidade de Estatística Prof. Thiago Marques"
+    },
+    {
+      "id": "Sd854Bryy0c",
+      "title": "Aula 04 -  H2o Data load regressão - Prof. Flávio Clésio"
+    },
+    {
+      "id": "K207niOwspk",
+      "title": "Aula 04 - h2o data load classificacao - Prof. Flávio Clésio"
+    },
+    {
+      "id": "q9fnSfvEsVA",
+      "title": "Depoimento Aluno Pablo - Casa da Pesquisa Operacional"
+    },
+    {
+      "id": "6W4hOGqcR4g",
+      "title": "Depoimento Aluno Antônio - Casa da Pesquisa Operacional"
+    },
+    {
+      "id": "3IZGZx58FBI",
+      "title": "Depoimento Aluna Neyde - Casa da Pesquisa Operacional"
+    },
+    {
+      "id": "DcIwUk8_E_4",
+      "title": "Machine Learning com o pacote tidymodels - Otávio Augusto (Estatístico UFMG)"
+    },
+    {
+      "id": "LLmEMoRZkgs",
+      "title": "live Weslley Moura - Mestre em engenharia de computação pelo IPT Portugal - Apache Spark"
+    },
+    {
+      "id": "EumeZnyvTzA",
+      "title": "Fernando Bastos - Doutor em Estatística pela UFMG - linguagem LaTeX e apresentações em LaTeX"
+    },
+    {
+      "id": "p0gLbetKjbQ",
+      "title": "Live Rômulo Freitas - Cientista de dados pela IBM - A plataforma IBM Watson"
+    },
+    {
+      "id": "9cUo3BpBVjg",
+      "title": "Live Filipe Luz - Cientista de dados (BB) - Diferentes técnicas de pre-processamento para NLP com ML"
+    },
+    {
+      "id": "NJAJCKVKOEY",
+      "title": "Live Henrique Dalazuanna - coordenador de I.M da Psychemedics) - Área de Inteligência de Mercado"
+    },
+    {
+      "id": "J6DjhhZN9-A",
+      "title": "Lesson 3 - H2O Introduction to Data Manipulation (First Model) - Prof. Flávio Clésio"
+    },
+    {
+      "id": "gzgjfBWWinM",
+      "title": "Aula 02 - intro repositorio git - ementa curso - Prof. Flávio Clésio"
+    },
+    {
+      "id": "4sDdjGD2ZMI",
+      "title": "Depoimento Flávia- Comunidade de Estatística do Prof. Thiago Marques"
+    },
+    {
+      "id": "cMlZqpXskWA",
+      "title": "Aula 01 - h2o arquitetura casos uso - Prof. Flávio Clésio"
+    },
+    {
+      "id": "rgMC7PQOKS0",
+      "title": "Live with Mario Filho - Machine Learning Expert - Kaggle Competitions and how to reach the top"
+    },
+    {
+      "id": "Xsngp-5mQVo",
+      "title": "@techme - Big data e ciência de dados"
+    },
+    {
+      "id": "xbhv-3rxaJQ",
+      "title": "Depoimentos dos alunos da Comunidade de Estatística do Prof. Thiago Marques"
+    },
+    {
+      "id": "RZnEJmxPCRc",
+      "title": "Introdução à Teoria das Probabilidades - Prof. Francisco Rodrigues (USP)"
+    },
+    {
+      "id": "5CyT0Zq0XuE",
+      "title": "Defesa de dissertação - Pedro Henrique Andrade de Oliveira - Mestrado Profissional - CBPF"
+    },
+    {
+      "id": "hzTiGamrIgU",
+      "title": "Live Leandro Corrêa - DS da Dito - Carreira e importância da Estatística em sua caminhada."
+    },
+    {
+      "id": "8DrrvVFtZeI",
+      "title": "Live Daniel Takata - Doutor pela USP e dono do canal Esportístico - Estatística no Esporte"
+    },
+    {
+      "id": "YUUwdHRcsHA",
+      "title": "Live Leandro Guerra - Head Experian de Analytics - Finanças Quantitativas"
+    },
+    {
+      "id": "mnBbIF4NoIc",
+      "title": "Live Adriana Silva - JEDI in Analytics (ASN.rocks) - The Importance of Statistics"
+    },
+    {
+      "id": "I3DuSiUrIJw",
+      "title": "Análise dos dados da Covid19 - Parte 3/3 - Prof. Dr. João Igor"
+    },
+    {
+      "id": "gaXhHgqSrcU",
+      "title": "Detecção de infratores no presídio de MG, por meio de imagens Deeplearning   Felipe Santana"
+    },
+    {
+      "id": "73Hs8EFENdA",
+      "title": "Análise dos dados da Covid19 - Parte 2/3 - Prof. Dr. João Igor"
+    },
+    {
+      "id": "RAB_ExtfMoI",
+      "title": "Live Walison Abreu - Projeto final Udacity - Head of Data Science Tecnologia Inteligente Ltda"
+    },
+    {
+      "id": "s6U_-efLeTE",
+      "title": "Homenagem dia das mulheres e a Estatística no esporte -  Prof. Gabriela Machado"
+    },
+    {
+      "id": "N1jlKv7jnGU",
+      "title": "Live Recepção T5 + Paloma Vaissman - DS do IFOOD - Carreira de Ciêntista de dados e Séries temporais"
+    },
+    {
+      "id": "-gzKDkckBBA",
+      "title": "Live Recepção T3 + Live Máiron Chaves (C.D Vlogística) - Estudo de caso de Modelagem Estatística"
+    },
+    {
+      "id": "aZTJd0y0KDw",
+      "title": "Análise dos dados da Covid19 - Parte 1/3 - Prof. Dr. João Igor"
+    },
+    {
+      "id": "_RhBajuL7Ag",
+      "title": "Seleção de requisitos de um projeto, usando solver do Excel - Prof. Felipe Moreira"
+    },
+    {
+      "id": "gpwskGs4ToI",
+      "title": "Live with Tiago Dantas - Head of Blu - Increasing the predictive power of time series"
+    },
+    {
+      "id": "jHGPxYinyZ8",
+      "title": "Live Luiz Paulo Fávero e Rafael de Freitas - Montvero - Instrodução ao Data vis no R"
+    },
+    {
+      "id": "-3hwrz_nmv4",
+      "title": "Applying the TOPSIS method in Excel - Prof. Felipe Moreira"
+    },
+    {
+      "id": "DY0rgbzU4Gk",
+      "title": "How to perform polynomial regression using the least squares method - Prof. Danilo Morales"
+    },
+    {
+      "id": "Ul9dfv9mSQg",
+      "title": "Depoimento Thays - Comunidade de Estatística do Prof. Thiago Marques"
+    },
+    {
+      "id": "1bkSoI2q1SU",
+      "title": "Depoimento Glauber - Comunidade de Estatística do Prof. Thiago Marques"
+    },
+    {
+      "id": "f-_XqHwMpPI",
+      "title": "Conceitos Atuariais e Pilares de Gestão de Risco - Professora Maris Caroline"
+    },
+    {
+      "id": "L33TCv2ajr8",
+      "title": "Definição teórica da regressão multilinear - Prof. Danilo Morales"
+    },
+    {
+      "id": "3EHY_76pods",
+      "title": "ANOVA em DIC e DBC no R"
+    },
+    {
+      "id": "nKSzUS6oQm0",
+      "title": "MC03 - Bar Charts, Sorting, and Colors - Prof. Marcello Nascimento (Learn Tableau)"
+    },
+    {
+      "id": "Z9YHhLQaU-M",
+      "title": "Teste t para duas médias independentes Variâncias diferentes Exemplo Profª Camila Maida"
+    },
+    {
+      "id": "G2Ip0Oc3FdA",
+      "title": "t-test for two independent means with similar variances - Example by Professor Camila Maida2"
+    },
+    {
+      "id": "TnoNCifdD2w",
+      "title": "DEC - Professor Camila Maida"
+    },
+    {
+      "id": "JVX4sBIYPwg",
+      "title": "Actuarial Mathematics: Annuities - Prof. Raiane Vieira"
+    },
+    {
+      "id": "iKdpiCnm33g",
+      "title": "Student's t-test for a population mean Ex1 - Prof. Camila Maida"
+    },
+    {
+      "id": "MOyH9x0wMfY",
+      "title": "MC02-Conectando a dados - Introdução ao Tableau Public - Prof. Marcello Nascimento (Aprenda Tableau)"
+    },
+    {
+      "id": "bAU3J58-Dqo",
+      "title": "Hypothesis Testing - F-Test Example 00 - Prof. Camila Maida"
+    },
+    {
+      "id": "JGwyLmjEMJQ",
+      "title": "Introdução a Django para criação de Websites - Aula 2"
+    },
+    {
+      "id": "RNrxBPLF3q4",
+      "title": "Teste t para uma média populacional Ex2  - Profª Camila Maida"
+    },
+    {
+      "id": "WdTp5z7n5gU",
+      "title": "Permanova Prática - Análise Multivariada - Prof. João Igor"
+    },
+    {
+      "id": "rQxD-QzppGo",
+      "title": "Marketing Analytics - Parte 04 - Prof. Marcos Severo (Pós-Doutorando em Mkt Analytics (USP) )"
+    },
+    {
+      "id": "b_DIQ8k2tEo",
+      "title": "Introduction to Hypothesis Testing - Prof. Camila Maida"
+    },
+    {
+      "id": "bQuSrjUiMKE",
+      "title": "Depoimento Pedro - Comunidade de Estatística do Prof. Thiago Marques"
+    },
+    {
+      "id": "OexyAMGy0gc",
+      "title": "Comunidade de Estatística do Prof. Thiago Marques (update turma 7)"
+    },
+    {
+      "id": "FEX8S_akj5Y",
+      "title": "Marketing Analytics - Parte 03 - Prof. Marcos Severo (Pós-Doutorando em Mkt Analytics (USP) )"
+    },
+    {
+      "id": "_iQCfh799-U",
+      "title": "Medidas de erro em problemas de Regressão - Prof. Danilo Morales"
+    },
+    {
+      "id": "QbDSBtmrlbI",
+      "title": "Marketing Analytics - Parte 02 - Prof. Marcos Severo (Pós-Doutorando em Mkt Analytics (USP) )"
+    },
+    {
+      "id": "nDo8udNx4Ig",
+      "title": "Bate papo Estatística Thiago Marques/Norberto Beti - Eurekando"
+    },
+    {
+      "id": "lmU7Wfg-hS0",
+      "title": "Marketing Analytics - Part 01 - Prof. Marcos Severo (Postdoctoral Researcher in Mkt Analytics (USP))"
+    },
+    {
+      "id": "h5aL0M1HB38",
+      "title": "Live Método Analytic Hierarchy Process (AHP): Eng. Prod. Lucas Ramon e Prof. Dr. Marcos Santos"
+    },
+    {
+      "id": "HnbYKphfmVY",
+      "title": "PERMANOVA Theory - Multivariate Analysis - Prof. João Igor"
+    },
+    {
+      "id": "qFJ0Bw7sNAc",
+      "title": "Testes de Correlacão  - Beta Analitica (Consultoria em gestão de dados e Análises Estatísticas)"
+    },
+    {
+      "id": "lrluatkiy0A",
+      "title": "MC01 - Introdução ao Tableau Public - Prof. Marcello Nascimento (Aprenda Tableau)"
+    },
+    {
+      "id": "36kTP_xCHJg",
+      "title": "Introdução a Distribuição Normal de probabilidade -  Profª Camila Maida"
+    },
+    {
+      "id": "rmqpOV__5GE",
+      "title": "Estatística básica - Medidas de tendência central e Dispersão usando Python - Prof. Danilo Morales"
+    },
+    {
+      "id": "5S2Us5rpqbE",
+      "title": "Live Passo a passo para Escrever um Artigo Científico - Prof. Dr. Marcos Santos - Professor do IME)"
+    },
+    {
+      "id": "V_TimiS0kTs",
+      "title": "Introdução a Django para criação de Websites - Aula 1"
+    },
+    {
+      "id": "7SOV3GRl5kg",
+      "title": "Luiz Paulo Fávero (Professor titular de DS e Business analytics na FEA/USP) - Modelos Multinível"
+    },
+    {
+      "id": "eDi88i_YYxc",
+      "title": "Live Marcelo Ventura -Prof. USP-Probabilidade como Caracterização Quantitativa de Escolha Racional"
+    },
+    {
+      "id": "-hh1HQMCuZQ",
+      "title": "Live Eng. Prod. Fabrício Maione(IME) e Prof. Dr. Marcos Santos (IME): Método THOR"
+    },
+    {
+      "id": "7vig_Nm_Z6U",
+      "title": "Cases - conceitos de Curtose e Assimetria-  Fôlego Empresas e Coronavírus - Prof. Thiago Marques"
+    },
+    {
+      "id": "2lzjEfbDhKA",
+      "title": "Live Eng. Prod. Miguel Lellis (IME) e Prof. Dr. Marcos Santos (IME): Método PROMETHEE-SAPEVO-M1"
+    },
+    {
+      "id": "xqdc83GQnhI",
+      "title": "Live Eng. Prod. Miguel Lellis (IME) e Prof. Dr. Marcos Santos (IME): Métodos PROMETHEE I, II e III"
+    },
+    {
+      "id": "HD1vgCfCMsM",
+      "title": "Ponto de corte em tarefas de classificação: uma escolha inteligente - Prof. Felipe Polo - Parte 2"
+    },
+    {
+      "id": "BPEvVko6oIg",
+      "title": "Ponto de corte em tarefas de classificação: uma escolha inteligente - Prof. Felipe Polo - Parte 1"
+    },
+    {
+      "id": "MguFFgUfcbc",
+      "title": "Marcel Ribeiro Dantas - Doutorando em Causal Data Science (Sorbonne University) - Inferência Causal"
+    },
+    {
+      "id": "YoZWlktVc34",
+      "title": "Instrodução ao NumPy - Aplicação - Prof. Danilo Morales"
+    },
+    {
+      "id": "2cQS2wGX1VU",
+      "title": "Analise Discriminante - Teoria - Prof. João Igor"
+    },
+    {
+      "id": "mykHzF2jGPk",
+      "title": "Live Grimaldo Oliveira (Coordenador do Núcleo de Inteligência de Dados da BAHIA) - Árvore de decisão"
+    },
+    {
+      "id": "SQ_g0d5GpDc",
+      "title": "Live Marcelo Ventura - Professor USP - Introdução às Bases da Estatística Bayesiana\" - Parte 1/6"
+    },
+    {
+      "id": "G2GxPFB8E3I",
+      "title": "Doenças Genéticas e a COVID-19 - O que tem a ver com o Data Science"
+    },
+    {
+      "id": "g60zQ1ky-CY",
+      "title": "Live Cauê Guimarâes (Coordenador de Estatística da EBANX) - Ranqueamento de atletas de Futebol"
+    },
+    {
+      "id": "ZD4G1bLqGvQ",
+      "title": "Live Prof. Dr. Marcos Santos (IME/ITA) - AHP-TOPSIS-2N Method - Multicriteria Decision Support"
+    },
+    {
+      "id": "PluedVaKSFo",
+      "title": "Live Alcely Barroso (IBM) - brilhante carreira e as Skills desejáveis dos Data Scientist´s e CEOO´s."
+    },
+    {
+      "id": "-_0OT4g32W4",
+      "title": "Instrodução ao NumPy - Prof. Danilo Morales"
+    },
+    {
+      "id": "loAnI0r2YEo",
+      "title": "R Avançado 04 - Agrupamentos  K Means - Professor Rodrigo Rosa"
+    },
+    {
+      "id": "V0Bwas6UZ2k",
+      "title": "Sapevo - M (Simple Agregation of Preferences Decision Making) no R - Prof. Thiago Marques"
+    },
+    {
+      "id": "kKykrTV17oU",
+      "title": "Tratamento de dados no R para elaboração de Dashboard em PBI do Censo Escolar - Marco Milanez"
+    },
+    {
+      "id": "SDPmO8ikwTs",
+      "title": "Ciência de dados - Qual a importância frente ao Coronavírus - Prof. Júlio Cesar"
+    },
+    {
+      "id": "Mt2xpkhnEwo",
+      "title": "Live Denys Fehr - Fundador e CEO da Just a Little Data e do PetsdoBem"
+    },
+    {
+      "id": "QBzQ-giGiQ4",
+      "title": "Sorteio Big Data Brasil Day - Ganhadores Ingressos e kit Completo"
+    },
+    {
+      "id": "Gr-tSvIwqW0",
+      "title": "Sorteio BIG DATA BRASIL DAY INGRESSOS E KIT COMPLETO"
+    },
+    {
+      "id": "ut91uz_4ISg",
+      "title": "Tratamento de Missing values para Machine Learning - J!Quant"
+    },
+    {
+      "id": "jdeFUgV1IHA",
+      "title": "Pré-Processamento dos dados para Machine Learning - J!Quant"
+    },
+    {
+      "id": "qPT9BVZW2KQ",
+      "title": "Analise Discriminante - Teoria - Prof. João Igor"
+    },
+    {
+      "id": "pBRiQu6h39k",
+      "title": "R Avançado 03 - Regras de Associação ECLAT - Prof. Rodrigo Rosa"
+    },
+    {
+      "id": "XYSvGv9bFtI",
+      "title": "Live Método SAPEVO-M e Plataforma SAPEVOWeb - Prof. MSc. Luiz Frederico e Prof. Dr. Marcos Santos"
+    },
+    {
+      "id": "FeTTE7WaGAE",
+      "title": "From Darwin to Big Databases - Prof. Júlio Cesar"
+    },
+    {
+      "id": "tu6OWREG8L8",
+      "title": "Agenda Engenharia de dados -  Professor David Braga"
+    },
+    {
+      "id": "slJh3dyeRkw",
+      "title": "Live Recepção Turma 6+Fernando Amaral (Professor e Autor de livros de DS) - Algoritmos genéticos"
+    },
+    {
+      "id": "noJKfdyz4Nk",
+      "title": "R Avançado 02  - Regras de Associação - Apriori - Prof. Rodrigo Rosa"
+    },
+    {
+      "id": "w_8kDGeeWHQ",
+      "title": "Live Carla C.P.Cruz - Mestre em Ciências Computacionais UERJ- Carreira e Text Mining"
+    },
+    {
+      "id": "weVB9eS-4LE",
+      "title": "R Avançado 01  - Introdução - Prof. Rodrigo Rosa"
+    },
+    {
+      "id": "lElIoRhpnnA",
+      "title": "Comunidade de Estatística do Prof. Thiago Marques"
+    },
+    {
+      "id": "EbvVx0rb8g4",
+      "title": "Introdução a Linguagem Julia - Prof. Romerito Moraes"
+    },
+    {
+      "id": "UGjuZhht8T4",
+      "title": "Depoimento Walison - Comunidade de Estatística do Prof. Thiago Marques"
+    },
+    {
+      "id": "EyDrb3igKAA",
+      "title": "Depoimento Pablo - Comunidade de Estatística do Prof. Thiago Marques"
+    },
+    {
+      "id": "dRhjsrV7siM",
+      "title": "Depoimento  Moisés - Comunidade de Estatística do Prof. Thiago Marques"
+    },
+    {
+      "id": "EPwlJ4yS4Sk",
+      "title": "Depoimento Jonathas - Comunidade de Estatística do Prof. Thiago Marques"
+    },
+    {
+      "id": "Mcvdrsld6Ks",
+      "title": "Depoimento Geilson - Comunidade de Estatística do Prof. Thiago Marques"
+    },
+    {
+      "id": "pE4ngeEdpfw",
+      "title": "Depoimento Bianca - Comunidade de Estatística do Prof. Thiago Marques"
+    },
+    {
+      "id": "CHQXsSR3CkA",
+      "title": "Trabalhando com Datas no Pandas - Prof  Fernanda Santos"
+    },
+    {
+      "id": "wGPlUz9lvMo",
+      "title": "Gerson Vasconcelos (Cientista de dados da Hotmart) - A Ciência de dados dentro da Hotmart"
+    },
+    {
+      "id": "VKZe49nNtxw",
+      "title": "LuIz A. Esteves (Economista Chefe do Banco do Nordeste) - Carreira e aplicações de econometria."
+    },
+    {
+      "id": "C4meGbEvlwU",
+      "title": "Pressupostos Teóricos da Tomada de Decisão Multicritério”, com Prof. Dr. Marcos Santos"
+    },
+    {
+      "id": "KXoy005kYls",
+      "title": "Point and click graphs (Drag and drop) - esquisse R - Prof. Antônio C. da Silva"
+    },
+    {
+      "id": "FeiolZe0AKU",
+      "title": "Prevendo doações de sangue - Prof. Vinícius Galvão"
+    },
+    {
+      "id": "-kn4-4Ajqv0",
+      "title": "R Package - Downloading Case Law from the TJSP - Prof. José de Jesus"
+    },
+    {
+      "id": "4ifO4RPtHuw",
+      "title": "Orange Data Science - Regression Model Development - Prof. Grimaldo Oliveira"
+    },
+    {
+      "id": "xoO-xVrss9o",
+      "title": "Aprenda Orange para Data Science com o  Prof. Grimaldo Oliveira"
+    },
+    {
+      "id": "X8olIhUUiT4",
+      "title": "Como se livrar das caixas pretas e ter mais confiança nos modelos - Prof. Vinícius Galvão"
+    },
+    {
+      "id": "mdsx8WNEOgc",
+      "title": "Flexdashboard - Learn how to build dashboards in R - Caio Moreira"
+    },
+    {
+      "id": "xpVGtk7Kgow",
+      "title": "Live Rafael Nasser - Cordenador do núcleo de inovação da PUC - Blockchain e Mercado de seguros"
+    },
+    {
+      "id": "-wdgLnRUpok",
+      "title": "General Systems Theory and Decision Making (Prof. Dr. Marcos Santos - Professor at IME)"
+    },
+    {
+      "id": "l8etPeTEB3Q",
+      "title": "Seleção de fornecedores através da aplicação do Método (SAPEVO M)"
+    },
+    {
+      "id": "H0aEOpMNmJ0",
+      "title": "Aprenda a distribuição Binomial com Adriana Silva (JEDI asn.rocks)!"
+    },
+    {
+      "id": "wGavJF664rI",
+      "title": "Application of the AHP-TOPSIS 2N Hybrid Method - Ana Lívia Caitano"
+    },
+    {
+      "id": "n9w4vw9sUl8",
+      "title": "Tutorial Sapevo M - Thiago Marques (IME)"
+    },
+    {
+      "id": "KTKqTY9B2UY",
+      "title": "Como escolher variáveis e como alinhar as escolhas ao seu negócio"
+    },
+    {
+      "id": "ZoB3iny6BUQ",
+      "title": "Projeto Enade INEP (Rmarkdown) - Comunidade de Estatística do Prof. Thiago Marques"
+    },
+    {
+      "id": "6Q3SXs5agaU",
+      "title": "Live Rafael Martins de Souza (Professor FGV EPGE e UERJ) - Economia e Ciência de Dados"
+    },
+    {
+      "id": "1Su3ksH9Y2o",
+      "title": "How to create animations in Flourish - Brasileirão (Série A) Goals - Leonardo de Matos"
+    },
+    {
+      "id": "HvWReTi8RTI",
+      "title": "Live Lilian Carvalho - Prof. e Coordenadora de Marketing da FGV - Marketing Digital e Data Science"
+    },
+    {
+      "id": "dp1pnCYp9qA",
+      "title": "Pílula 00 - Comunidade de Estatística - O que é Estatística e em que áreas de subdivide"
+    },
+    {
+      "id": "pROpx-a_9Es",
+      "title": "Live Fabiana Melo (Estatística UFSCAR  e MBA em Adm FGV) - Carreira e Área de Analytics"
+    },
+    {
+      "id": "OdLtIRi7JQo",
+      "title": "Complete Guide: Web Scraping and Word Clouds with Power BI"
+    },
+    {
+      "id": "miBNYkSv2B0",
+      "title": "Parte 3/3 - Web Scraping e Nuvem de palavras com Power Bi - Prof. João Oliveira"
+    },
+    {
+      "id": "F_BLVk8Cd5o",
+      "title": "SPOLM 2019 ( Simpósio de pesquisa operacional e logística da Marinha"
+    },
+    {
+      "id": "oMDcoJCitLQ",
+      "title": "Live Sabrina Amélia (Atuária UFMG e Doutora em ADM/Finanças pela UFMG) -  Mercado Financeiro"
+    },
+    {
+      "id": "sPWP7HImXtI",
+      "title": "Analise de crédito no R - Daniel Souza"
+    },
+    {
+      "id": "EVEYgzmydsk",
+      "title": "Live Marco e Maurílio - Estatística + Inteligência Geográfica"
+    },
+    {
+      "id": "-5lchl0mmkQ",
+      "title": "Parte 2/3 - Web Scraping e Nuvem de palavras com Power Bi - Prof. João Oliveira"
+    },
+    {
+      "id": "siKGOpiereI",
+      "title": "Parte 1/3 - Web Scraping e Nuvem de palavras com Power Bi - Prof. João Oliveira"
+    },
+    {
+      "id": "Hy4zUSrVgVQ",
+      "title": "Live introdução a Probabilidade - Prof. Thiago Marques"
+    },
+    {
+      "id": "QbcWI9iUlrg",
+      "title": "Métricas de avaliação do modelo - JEDI Adriana Silva"
+    },
+    {
+      "id": "HQKxEmEApQY",
+      "title": "Potencialidades do R - Montvero consultoria e treinamentos"
+    },
+    {
+      "id": "bQUWcc587UY",
+      "title": "Live Fernando Barbalho - Auditor do Tesouro Nacional - Introdução e Projetos feitos em Shiny"
+    },
+    {
+      "id": "OxVpeyHyMMM",
+      "title": "Vídeo00-Hand´s On-Conhecendo a base de dados do ENADE(Exame Nacional de Desempenho de Estudantes)"
+    },
+    {
+      "id": "reVyDpK4d0I",
+      "title": "Truque de performance usando Pandas - Fillipe Dornelas"
+    },
+    {
+      "id": "jwj0qWO8xB8",
+      "title": "Understand why you should create a model - Prof. Adriana Silva (JEDI)"
+    },
+    {
+      "id": "xwezFJ-HwvA",
+      "title": "(24/09 à 28/09) - Aula prática 01 - Tipos de Frequência - R"
+    },
+    {
+      "id": "FCRStdk9hRg",
+      "title": "Artificial Neural Networks - Basic theoretical and practical concepts - Matheus Pussaignolli"
+    },
+    {
+      "id": "zFdXS4QjW-8",
+      "title": "Linear Regression: Interpreting Coefficients in Simple and Multiple Linear Regression Models"
+    },
+    {
+      "id": "mnAp0hV-xp0",
+      "title": "Instalação da linguagem JULIA -  Romerito Morais"
+    },
+    {
+      "id": "xPXUE7scEBQ",
+      "title": "Webinar FC Nuvem e EstaTiDados - Introdução a Estatística para DS"
+    },
+    {
+      "id": "n-xb3UKzlZQ",
+      "title": "Live Comunidade de Estatística - Importância da Estatística na Ciência de dados - Luiz Paulo Fávero"
+    },
+    {
+      "id": "-cj9Co2iZAI",
+      "title": "Análise Multivariada - Análise Fatorial"
+    },
+    {
+      "id": "0RbUk3pjSKY",
+      "title": "Demistificando Séries temporais - Fernando Amaral"
+    },
+    {
+      "id": "zgsZUw5wEoM",
+      "title": "What is R, its importance, history, RStudio, and packages"
+    },
+    {
+      "id": "nJVK6RP0Eo0",
+      "title": "Data Mining e text mining (SQL e conexões R SQL) - Roger Sampaio"
+    },
+    {
+      "id": "FETowvxGwLw",
+      "title": "Data Storytelling - Stefano Carnevalli - Part 4"
+    },
+    {
+      "id": "yJuG-9UgxhQ",
+      "title": "Live Mariana Nolde - Área de modelagem de crédito e desafios  - Comunidade de Estatística"
+    },
+    {
+      "id": "eD3-KW3WdS0",
+      "title": "Gráficos Estatísticos no R (ggplot2, plotly e GGally)   (live realizada em 20/08/2019)"
+    },
+    {
+      "id": "FBL-mdFO2vc",
+      "title": "Data Storytelling - Stefano Carnevalli - Part 03"
+    },
+    {
+      "id": "aS2xLREG24A",
+      "title": "Planejamento de Experimentos - Prof. Tatiana Assis"
+    },
+    {
+      "id": "vyh-xDKSHNU",
+      "title": "Data Storytelling - stefano carnevalli - Part 2"
+    },
+    {
+      "id": "l3Er3XVx1io",
+      "title": "Data Storytelling - Stefano carnevalli - Parte01"
+    },
+    {
+      "id": "zH_EO5-uhIo",
+      "title": "Parte 2 - Análise descritiva na Base de dados do ENADE Usando R  - Camila Koehler"
+    },
+    {
+      "id": "W8OIg23O_Qk",
+      "title": "Parte 1 - Análise descritiva na Base de dados do ENADE Usando R  - Camila Koehler"
+    },
+    {
+      "id": "eH9s7l3R9bQ",
+      "title": "Live Rafael Arruda - Pentaho e BI - Comunidade de Estatística do Prof. Thiago Marques"
+    },
+    {
+      "id": "2BAc2HUNqeM",
+      "title": "Power BI - Basic Public Safety Dashboard"
+    },
+    {
+      "id": "lW6miLgkYN4",
+      "title": "Estatística: O motor do Data Science - BIG DATA Experience 2019 - Thiago Marques"
+    },
+    {
+      "id": "wJIzADwI1vg",
+      "title": "Balanço do setor público (bspn) interativo"
+    },
+    {
+      "id": "jU7jaYcInvQ",
+      "title": "Sistemas de Recomendação - Market Basket Analysis com o algoritmo APRIORI no R"
+    },
+    {
+      "id": "pc60AIrTvKI",
+      "title": "Parte 1 - Conexão de bancos de dados SQL com Python"
+    },
+    {
+      "id": "Yur6xweUAGQ",
+      "title": "O que é Gradient Descent e como aplicar no R"
+    },
+    {
+      "id": "7a7IJM225D0",
+      "title": "Aula 15 - Função CrossTable - Tabelas Cruzadas Parte 2 -  Curso de R para Finanças Quantitativas"
+    },
+    {
+      "id": "fyIqhtKD57E",
+      "title": "Metaclassificação com H2O do R - Prof. Máiron Chaves"
+    },
+    {
+      "id": "v2L37vM-3IE",
+      "title": "Análise de dados no Python - Gráficos no Matplotlib - Professora Fernanda Santos"
+    },
+    {
+      "id": "txC3Bgk0od8",
+      "title": "Parte 3/3 - Selenium com Beautil Soup no Python - Simulando consultas no Google!"
+    },
+    {
+      "id": "H3TOaWIgvJs",
+      "title": "Statistics in Sports - Prof. Daniel Takata (The Sportsman)"
+    },
+    {
+      "id": "1jplBJ17s8Y",
+      "title": "Parte 2/3 - Selenium com Beautil Soup no Python - Simulando consultas no Google!"
+    },
+    {
+      "id": "8X_3gZC_Sds",
+      "title": "Exploratory Analysis and Cluster Analysis - Prof. Luiz Paulo Fávero"
+    },
+    {
+      "id": "YAeG5qBYwJE",
+      "title": "Aula 14 - Frequências e Tabelas Cruzadas Parte 1 -  Curso de R para Finanças Quantitativas"
+    },
+    {
+      "id": "j3j4v73aq3o",
+      "title": "Big Data Brazil Day - Fé Estatística, aceite Jesus ou Gauss - Prof. Thiago Marques"
+    },
+    {
+      "id": "e2rH9fpWkew",
+      "title": "Introdução ao Power BI - Parte 3 - Importação, manipulação e visualização dos dados"
+    },
+    {
+      "id": "9BJPf9DV1oQ",
+      "title": "Chamada para aula gratuita - introdução a Estatística para Ciência de dados"
+    },
+    {
+      "id": "8-xBwpJU0qk",
+      "title": "Parte 1/3 - Selenium com Beautil Soup no Python - Simulando consultas no Google!"
+    },
+    {
+      "id": "AvYuZ9A0b8Y",
+      "title": "Aula 13 - Explorando os dados e missings - Curso de R para Finanças Quantitativas"
+    },
+    {
+      "id": "d9a4-p3nz3Y",
+      "title": "Sorteio xv encontro estatístico"
+    },
+    {
+      "id": "oRDYPiEVJcI",
+      "title": "Dummy variables: what they are and how to use them to estimate models with greater accuracy in St..."
+    },
+    {
+      "id": "RiMXHcINcmY",
+      "title": "Aula 12 - Trading System com Quantomod Library - Curso de R para Finanças Quantitativas"
+    },
+    {
+      "id": "3pw4_AIqmug",
+      "title": "GridSearch + GradientBoostingMachine H2O no R"
+    },
+    {
+      "id": "tCU1oygep54",
+      "title": "Entenda tudo sobre Regressão Logística no Stata"
+    },
+    {
+      "id": "7BnAQ-0evxU",
+      "title": "Aula 11 - Introdução à Quantmod - Curso de R para Finanças Quantitativas"
+    },
+    {
+      "id": "CGhNaKyzW7I",
+      "title": "Implementing KNN (K-Nearest Neighbors) in Excel - Supervised Learning"
+    },
+    {
+      "id": "UjbBwYKGDCc",
+      "title": "Do you know what a GLM is?"
+    },
+    {
+      "id": "HYUxeDpf9KY",
+      "title": "Aula 10 - Seu primeiro algo trading - Curso de R para Finanças Quantitativas"
+    },
+    {
+      "id": "H71_M7jZsOU",
+      "title": "Precisamos de mais chocolates!"
+    },
+    {
+      "id": "r7YIj_n95Po",
+      "title": "Backpropagation: What Is It? How to Apply It in R for Neural Networks"
+    },
+    {
+      "id": "pH8s_dwzBz0",
+      "title": "O que é BackPropagation, qual a sua origem e como implementar no R para otimização de Redes Neurais"
+    },
+    {
+      "id": "YLY9T1MlzUE",
+      "title": "Introdução a linguagem SAS no SAS Studio"
+    },
+    {
+      "id": "ycjAWTUB6Rc",
+      "title": "Aula 9  - Construindo Gráficos no R - Curso de R para Finanças Quantitativas"
+    },
+    {
+      "id": "qoLeB0PJfAw",
+      "title": "Introduction to Neural Networks"
+    },
+    {
+      "id": "LQtRwOSGc0Q",
+      "title": "Aula 8 - Função Summary  e Histogramas - Curso de R para Finanças Quantitativas"
+    },
+    {
+      "id": "v4ej9A4_Suw",
+      "title": "Live alunos Minerando Dados - Data Science do zero (Estatística)"
+    },
+    {
+      "id": "5Sa51nO-1PQ",
+      "title": "Do you know what OVERFITTING is? Ways to react and try to fix it?"
+    },
+    {
+      "id": "KxrZYgIp360",
+      "title": "Aula 7 - Criando e Manipulando Listas - Curso de R para Finanças Quantitativas"
+    },
+    {
+      "id": "-iAfFweSmMM",
+      "title": "Em defesa do Censo 2020 - Doutor Drauzio Varella"
+    },
+    {
+      "id": "gw0S0aPey24",
+      "title": "Parking Space Monitoring - A Deep Learning Application"
+    },
+    {
+      "id": "Rw8VcVriTEs",
+      "title": "Em defesa do Censo 2020"
+    },
+    {
+      "id": "OIJe7mVnp3w",
+      "title": "Aula 6 - A função tapply   Curso de R para Finanças Quantitativas"
+    },
+    {
+      "id": "BSBw25vOtZk",
+      "title": "Aula 5 - Tipos de dados e conversões - Curso de R para Finanças Quantitativas"
+    },
+    {
+      "id": "m1PL16wrc_U",
+      "title": "Parte 4 - Utilizando o tableau para fazer dashboards com as notas do Enem de 2005 à 2015"
+    },
+    {
+      "id": "8ZbhwXmZsYI",
+      "title": "Regressão Logística no Poderoso H20 do R"
+    },
+    {
+      "id": "QZJiYr9jyX4",
+      "title": "Mercado Atuarial no Brasil - José Nazareno (NAZA!)"
+    },
+    {
+      "id": "nzbCJ3iJ8ek",
+      "title": "Cluster Analysis"
+    },
+    {
+      "id": "b01YdVvOM6o",
+      "title": "Introdução ao Power BI - Parte 2 -  Importação, manipulação e visualização dos dados"
+    },
+    {
+      "id": "XJwyvxBUR3k",
+      "title": "Parte 3 - Utilizando o tableau para fazer dashboards com as notas do Enem de 2005 à 2015"
+    },
+    {
+      "id": "4Hk0a_kOGUM",
+      "title": "Introdução a Estatística - Spoiler Curso SP Presencial"
+    },
+    {
+      "id": "zqlW0eu6mWs",
+      "title": "Software Defined Storage - Estruturas de armazenamento de Big Data"
+    },
+    {
+      "id": "amS0rhtWA4c",
+      "title": "Parte 2 - Análise Multivariada - CCA (Análise de Correspondência Canônica)"
+    },
+    {
+      "id": "etiqgOR68yc",
+      "title": "Introdução ao Power BI - Parte 1 -  Importação, manipulação e visualização dos dados"
+    },
+    {
+      "id": "9Y-7F7woYsI",
+      "title": "Parte 2 - Utilizando o tableau para fazer dashboards com as notas do Enem de 2005 à 2015"
+    },
+    {
+      "id": "o-8IlADipdc",
+      "title": "Parte 1 - Análise Multivariada - CCA (Análise de Correspondência Canônica)"
+    },
+    {
+      "id": "gv4-vY0e-EU",
+      "title": "Parte 1 - Utilizando o tableau para fazer dashboards com as notas do Enem de 2005 à 2015"
+    },
+    {
+      "id": "j77AzedPCy0",
+      "title": "A importância do Censo Demográfico do IBGE"
+    },
+    {
+      "id": "bqBqGkOBAX4",
+      "title": "Part 2 - Multivariate Analysis - RDA (Redundancy Analysis)"
+    },
+    {
+      "id": "JVETdukMiFU",
+      "title": "Part 2 - Multivariate Analysis - Principal Component Analysis"
+    },
+    {
+      "id": "gwRUuOA81wo",
+      "title": "Análise de dados no Python - Lendo arquivos Excel e Manipulação de dados."
+    },
+    {
+      "id": "rs2WSN53dKI",
+      "title": "Parte 2 - Web Scraping usando Python e Selenium  - Extração de Dados Meteorológicos"
+    },
+    {
+      "id": "rukkLROeYPY",
+      "title": "Parte 1 - Análise Multivariada - RDA (Análise de Redundância)"
+    },
+    {
+      "id": "G2yGT3af9FA",
+      "title": "Part 1 - Multivariate Analysis - Principal Component Analysis"
+    },
+    {
+      "id": "EDsDsh85ClY",
+      "title": "Vinheta 6000 Inscritos Estathifisco!"
+    },
+    {
+      "id": "dNwFZbvLqnE",
+      "title": "Parte 1 - Web Scraping usando Python e Selenium - Extraçao de Dados Meteorológicos"
+    },
+    {
+      "id": "egs6_4NYuVs",
+      "title": "Curso Estatística+R SP 27 04 - Prof. Thiago Maques - Apoio Cappei Treinamentos"
+    },
+    {
+      "id": "oanqZm2CBP4",
+      "title": "Primeiro sorteio - Parceria Estathifisco e Big Data Brasil Day ( 3 INGRESSOS  e 3 BLUSAS )"
+    },
+    {
+      "id": "QrVeUKI46FE",
+      "title": "Part 2 - Data Analysis in Python - Reading and manipulating databases"
+    },
+    {
+      "id": "XJiFW_D8tME",
+      "title": "Parte1 - Análise de dados no Python - Instalando o Anaconda e Jupyter Notebook"
+    },
+    {
+      "id": "2jk7TfFiKAk",
+      "title": "Parte 2 - Inteligência de Negócios - Plano de Negócios"
+    },
+    {
+      "id": "jCYsplaLf1A",
+      "title": "Classificação de Imagens em 12 minutos - Redes Neurais vs Árvore de decisão - Framework Orange"
+    },
+    {
+      "id": "hdwk8g_Vi-Y",
+      "title": "Aula 4 - Ler Arquivos e Data Frames - Curso de R para Finanças Quantitativas"
+    },
+    {
+      "id": "CRlrPc4OCKw",
+      "title": "Part 1 - Business Intelligence - Business Plan"
+    },
+    {
+      "id": "SQXAqFDZqIo",
+      "title": "Data Lake - Prof David Braga - Parte 3"
+    },
+    {
+      "id": "BwKG26oQ0Lk",
+      "title": "Data Lake - Prof David Braga - Parte 2"
+    },
+    {
+      "id": "shnrcCakV7M",
+      "title": "Data Lake - Prof  David Braga - Parte 1"
+    },
+    {
+      "id": "pzwOW43EEug",
+      "title": "Aula 3 -   Missing Values e Strings  - Curso de R para Finanças Quantitativas"
+    },
+    {
+      "id": "o7qCfcTL7r0",
+      "title": "Algoritmos Genéticos - Aplicação no R"
+    },
+    {
+      "id": "hZQJ7ewCoU0",
+      "title": "Aula 2 - Sequencias e Vetores Lógicos - Curso de R para Finanças Quantitativas"
+    },
+    {
+      "id": "tmA1dhW3XN0",
+      "title": "Parte 2 - Webscraping - Personagens Resident Evil - Python"
+    },
+    {
+      "id": "4_W9692iIi4",
+      "title": "Parte 2 - Classificação de Imagens de aviões no Tensorflow usando R"
+    },
+    {
+      "id": "102YY83-dAU",
+      "title": "Pesquisa Compilada - Estatística e Ciência de dados"
+    },
+    {
+      "id": "JU9aUhRX_3Y",
+      "title": "Aula 1 - Números e vetores - Curso de R para Finanças Quantitativas"
+    },
+    {
+      "id": "zAWN5dNDYSo",
+      "title": "Parte 1 - Webscraping - Personagens Resident Evil - Python"
+    },
+    {
+      "id": "uLHx_f4sm-k",
+      "title": "Parte 2 - Random Forest - Competição Codenation - Previsão da nota de matemática do Enem 2016"
+    },
+    {
+      "id": "o5Xw6KIjSm0",
+      "title": "Part 1 - Image Classification of Airplanes in Tensorflow using R"
+    },
+    {
+      "id": "fqCQO2ffTso",
+      "title": "Introdução aos KPI - Indicadores de Desempenho"
+    },
+    {
+      "id": "6CLwbMEXeFw",
+      "title": "Análise de Sentimentos em menos de 10 minutos - Parte 2 - Utilizando o Framework Orange"
+    },
+    {
+      "id": "YpJEf33IR3w",
+      "title": "Aprenda a identificar Dados Faltantes no R"
+    },
+    {
+      "id": "xDJzx6gSMTE",
+      "title": "Parte 1 - Random Forest - Competição Codenation - Previsão da nota de matemática do Enem 2016"
+    },
+    {
+      "id": "O7vB8WQvvU4",
+      "title": "Introduction to Big Data"
+    },
+    {
+      "id": "XKClA0rYApo",
+      "title": "Parte 2 - O que é?  Qual a sua História ? Machine Learning vs Deep Learning?"
+    },
+    {
+      "id": "1stp41wz3LA",
+      "title": "Análise de Sentimentos em menos de 10 minutos - Parte 1 - Utilizando o Framework Orange"
+    },
+    {
+      "id": "noy13V1nTz4",
+      "title": "Part 4 - Decision Tree, Random Forest and Gradient Boosting - Now or Never! - Prof. Dri"
+    },
+    {
+      "id": "u2mAa3gzxKE",
+      "title": "Part 1 - What is it? What is its history? Machine Learning vs. Deep Learning?"
+    },
+    {
+      "id": "IPvT2fSJFXM",
+      "title": "Webinar - Séries Temporais- Estimando inflação usando séries temporais no R"
+    },
+    {
+      "id": "dcsZsA_wipE",
+      "title": "Part 3 - Logistic Regression - This is your chance! Now or never! - Prof. Adriana Silva"
+    },
+    {
+      "id": "NrfEckyfbpg",
+      "title": "Genetic Algorithms - Discover the origin"
+    },
+    {
+      "id": "zPYhjBUkdrM",
+      "title": "Performance of Brazilian election polls in 2018 - Part 2 - Neale al Dash - Polling Data"
+    },
+    {
+      "id": "KSEEc1gzL1I",
+      "title": "Parte 2 - Regressão Linear - É a sua chance! Agora ou nunca!  - Prof.  Adriana Silva"
+    },
+    {
+      "id": "CHVcuDDKVr0",
+      "title": "Part 1 - Linear Regression - It's your chance! Now or never! - Prof. Adriana Silva"
+    },
+    {
+      "id": "vMnHQjl9aO8",
+      "title": "Performance of Brazilian election polls in 2018 - Part 1 - Neale al Dash - Polling Data"
+    },
+    {
+      "id": "FgvYk86trIs",
+      "title": "Controle Estatístico de Qualidade CEQ  - Parte 3 -  Prof  David Venancio"
+    },
+    {
+      "id": "CM8b8Y3vriQ",
+      "title": "Controle Estatístico de Qualidade (CEQ) - Parte 4 - Prof.  David Venâncio"
+    },
+    {
+      "id": "rudGRDdUQS4",
+      "title": "VIDEO 39 - 2018/FCC/ICMS SC/Auditor Fiscal da Receita Estadual-Comentários prova-Igualdade de Erros"
+    },
+    {
+      "id": "JEU_8lyEjyA",
+      "title": "VIDEO 38 - 2018 / FCC / ICMS SC / Auditor Fiscal da Receita Estadual - Regressão Linear Simples"
+    },
+    {
+      "id": "n-qPlHnB_sQ",
+      "title": "VÍDEO 37 - 2018/FCC/ ICMS SC/Auditor Fiscal da Receita Estadual - Intervalo de Confiança para Média"
+    },
+    {
+      "id": "yTkJyEHYeto",
+      "title": "VÍDEO 36 - 2018 / FCC / ICMS SC / Auditor Fiscal da Receita Estadual - NORMAL+BINOMIAL"
+    },
+    {
+      "id": "46kQwaC70-A",
+      "title": "Webinar - Web Scraping - Aprenda a Capturar dados da internet de forma automatizada com o  Python"
+    },
+    {
+      "id": "5tc8Ty8kxSg",
+      "title": "VÍDEO 35 - 2018 / FCC / ICMS SC / Auditor Fiscal - Média e Mediana para Dados agrupados em classe"
+    },
+    {
+      "id": "6ZfrucE1Jtg",
+      "title": "Webinar gratuito Webscraping - Prof Diogo Picco IESB"
+    },
+    {
+      "id": "A8XT0ZHXl3I",
+      "title": "2016 / CESPE / TCE PA / Estatística Descritiva - Tipos de Variáveis e Box-Plot"
+    },
+    {
+      "id": "NzvL__kBsic",
+      "title": "As 3 Etapas Para um Bi Perfeito - Parte 3 - Prof. Grimaldo"
+    },
+    {
+      "id": "YsNak_K3pSU",
+      "title": "2017  / PM SP / Soldado - Matemática  - Aritmética e Fracões"
+    },
+    {
+      "id": "ajgSkaFON4s",
+      "title": "Controle Estatístico de Qualidade CEQ - Parte 2 -  Prof  David Venancio"
+    },
+    {
+      "id": "34QY3yB_QVA",
+      "title": "Inteligência Artificial - Principais ferramentas com o uso do TensorFlow"
+    },
+    {
+      "id": "FCuodt7jkls",
+      "title": "2017 / VUNESP / PM SP /  Soldado -  Aritmética e RLM"
+    },
+    {
+      "id": "Ehx_xSUhuNk",
+      "title": "As 3 Etapas Para um Bi Perfeito - Parte 2 - Prof. Grimaldo"
+    },
+    {
+      "id": "SWpLYrJIi1s",
+      "title": "Statistical Quality Control (SQC) - Part 1 - Prof. David Venâncio"
+    },
+    {
+      "id": "HbGTfJd-5pw",
+      "title": "As 3 Etapas Para um Bi Perfeito - Parte 1 -  Prof. Grimaldo"
+    },
+    {
+      "id": "cUkI7ZWvetA",
+      "title": "Nubank ML Meetup #16 -  Estimando as notas do ENEM com Machine Learning, Camila Almeida"
+    },
+    {
+      "id": "22zKJzeu920",
+      "title": "Análise de Sentimento Twitter   Candidados a Presidência   Parte 3"
+    },
+    {
+      "id": "uPqMWXTFT3M",
+      "title": "Introdução a linguagem R - Prof. Graziela Alves"
+    },
+    {
+      "id": "nrJ3T2hThZg",
+      "title": "Vídeo 1 - Você sabe o motivo de fazer um gráfico? - Prof. Vinícius H0 consultoria"
+    },
+    {
+      "id": "H5Efih9wEfo",
+      "title": "Aula 2 - Machine learning - Introdução a Regressão Linear em Python"
+    },
+    {
+      "id": "j_mKAtajUhs",
+      "title": "Análise de Sentimento Twitter - Candidatos a Presidência - Parte 2"
+    },
+    {
+      "id": "0cV8vZzEvT4",
+      "title": "Vídeo motivacional - Professora Gabi"
+    },
+    {
+      "id": "9ll6m7LLHFM",
+      "title": "Twitter Sentiment Analysis - Presidential Candidates - Part 1"
+    },
+    {
+      "id": "YRUfYxoRssY",
+      "title": "Análise de Sentimento Twitter  -  Resumo da Série de 3 VÍDEOS"
+    },
+    {
+      "id": "wgi3dimsdu4",
+      "title": "Aula 01 - Machine learning - Introdução a Regressão Linear em Python"
+    },
+    {
+      "id": "xlgX-Y0D23Y",
+      "title": "Criando Gráficos com GGPLOT2 no R - Prof. Diogo Picco"
+    },
+    {
+      "id": "Yk22pE4a15M",
+      "title": "2011 / VUNESP / CODESP / MATEMÁTICA -  MMC"
+    },
+    {
+      "id": "A8wYYtdYZmo",
+      "title": "Explicando os cursos da Aprenda Virtual 1"
+    },
+    {
+      "id": "XjlA6y1Xldk",
+      "title": "webinar - Inteligência Artificial - Regressão Logística com Diogo Picco"
+    },
+    {
+      "id": "gsVhVAb-HWI",
+      "title": "2018 / VUNESP / Prefeitura de Mogi das Cruzes / Auxiliar de Apoio Administrativo - RAZÃO"
+    },
+    {
+      "id": "mb5rjECDSMo",
+      "title": "Eneste Depoimentos de Ex- Participantes - Matheus"
+    },
+    {
+      "id": "Hb_lc_2J_Bk",
+      "title": "Vídeo 01 - Dominando Python  - Lendo e Escrevendo Arquivos"
+    },
+    {
+      "id": "CDIElzgeZPA",
+      "title": "PROVA DO CONCURSO DA SEMED -  AM 2015  - CARGO  PROFESSOR DE MATEMÁTICA - PARTE 3"
+    },
+    {
+      "id": "Stp4v8YMOh0",
+      "title": "2011 / VUNESP / CREMESP  / MATEMÁTICA  -  MMC"
+    },
+    {
+      "id": "jlKKWZ3ST5w",
+      "title": "CURSO R - ALGORITMOS WEKA e GOGGLE VIS - Prof. Grimaldo - Parte 2"
+    },
+    {
+      "id": "oDXQrQP_9oU",
+      "title": "Eneste Depoimentos de Ex- Participantes - Thaís"
+    },
+    {
+      "id": "ez1FfavZFTo",
+      "title": "Eneste Depoimentos de Ex- Participantes - Wallef"
+    },
+    {
+      "id": "XFW2wAUQ9xg",
+      "title": "Eneste Depoimentos de Ex- Participantes - Rafaela"
+    },
+    {
+      "id": "tkuse5S_pLI",
+      "title": "Vídeo 05 - 2018 / FGV / SEFIN RO / Contador - Word 2016"
+    },
+    {
+      "id": "jeuFohzDpxs",
+      "title": "CURSO R - ALGORITMOS WEKA e GOGGLE VIS - Prof. Grimaldo - Parte 1"
+    },
+    {
+      "id": "Asx56pJQoYI",
+      "title": "Vídeo 04 - 2016 / AOCP / Pref Valença / Ag tran - Conceitos Gerais e Introdução"
+    },
+    {
+      "id": "tkr9hQhSDfA",
+      "title": "Vídeo 4  - Aprenda a Ensinar a Máquina - Detector de Movimentos"
+    },
+    {
+      "id": "pm2xtJEb42U",
+      "title": "VÍDEO 33 -  2009 / FUNDATEC / SEFAZ RS / Agente fiscal do tesouro"
+    },
+    {
+      "id": "Z1gMeyjsnOc",
+      "title": "Convite da Professora Gabi Machado - ENESTE 2018"
+    },
+    {
+      "id": "RCczEjKcj98",
+      "title": "Video 03 - 2016 / CESPE / ANA / INSS  - Antivírus e Antispyware"
+    },
+    {
+      "id": "EfhLH_7sc9w",
+      "title": "Video 02 - 2016 / FCC /Prefeitura de Teresina / Auditor Fiscal - Excel - Funções Condicionantes"
+    },
+    {
+      "id": "CeFG82yxkl0",
+      "title": "Vídeo 01 -  2016 / Prefeitura dom Martins/ Tributos Municipais/ Excel 2007"
+    },
+    {
+      "id": "-XC_Zj41_BI",
+      "title": "Vídeo 3 - Aprendendo a Ensinar a Máquina -  Reconhecimento facial ,feições e Piscar de olhos"
+    },
+    {
+      "id": "-KorD-kcujA",
+      "title": "PROVA DO CONCURSO DA SEMED -  AM 2015  - CARGO  PROFESSOR DE MATEMÁTICA - PARTE 2"
+    },
+    {
+      "id": "L_HX9fNBloc",
+      "title": "2010 / VUNESP / FUNDAÇÃO CASA / MATEMÁTICA / MDC"
+    },
+    {
+      "id": "gxgGtcbm_XI",
+      "title": "Direito Administrativo  - 2018/FCC/ ISS São Luiz MA - Convalidação de Atos Administrativos"
+    },
+    {
+      "id": "iTP5h0mccks",
+      "title": "Vídeo 2 - Aprenda a Ensinar a Máquina -  Classificação por Regressão Vetorial de Suporte"
+    },
+    {
+      "id": "okWcPDvYRmg",
+      "title": "Video 1 - Machine Learning Tips Series - Image-Based Team Classification"
+    },
+    {
+      "id": "rf-P6iTadK0",
+      "title": "PROVA DO CONCURSO DA SEMED -  AM 2015  - CARGO  PROFESSOR DE MATEMÁTICA - PARTE 1"
+    },
+    {
+      "id": "gpAZ324A7bM",
+      "title": "2016 / VUNESP /  PREFEITURA DE GUARULHOS / MATEMÁTICA / MDC"
+    },
+    {
+      "id": "i_SEd3RRNCQ",
+      "title": "2016 / VUNESP / Prefeitura de Guarulhos -  MDC"
+    },
+    {
+      "id": "dn4Yn42MeNI",
+      "title": "VÍDEO BÔNUS 12 - LIVE ISS SÃO LUÍS - ESTATÍSTICA - Prof. Thiago Marques"
+    },
+    {
+      "id": "QP4M71TtPKo",
+      "title": "VÍDEO BÔNUS 11 - LIVE ISS SÃO LUÍS - ESTATÍSTICA - Prof. Thiago Marques"
+    },
+    {
+      "id": "wpg7QX1bu1M",
+      "title": "VÍDEO BÔNUS 10 - LIVE ISS SÃO LUÍS - ESTATÍSTICA - Prof. Thiago Marques"
+    },
+    {
+      "id": "kuqJLlCBabw",
+      "title": "VÍDEO BÔNUS 9 - LIVE ISS SÃO LUÍS - ESTATÍSTICA - Prof. Thiago Marques"
+    },
+    {
+      "id": "ILd5BXKz_9M",
+      "title": "VÍDEO BÔNUS 8 - LIVE ISS SÃO LUÍS - ESTATÍSTICA - Prof. Thiago Marques"
+    },
+    {
+      "id": "M6ACjZUVJyo",
+      "title": "VÍDEO BÔNUS 7 - LIVE ISS SÃO LUÍS - ESTATÍSTICA - Prof. Thiago Marques"
+    },
+    {
+      "id": "KOc--EKixZk",
+      "title": "VÍDEO BÔNUS 6 - LIVE ISS SÃO LUÍS - ESTATÍSTICA - Prof. Thiago Marques"
+    },
+    {
+      "id": "WDtqNrrrIFU",
+      "title": "VÍDEO BÔNUS 5 - LIVE ISS SÃO LUÍS - ESTATÍSTICA - Prof. Thiago Marques"
+    },
+    {
+      "id": "mND1ssLnmHU",
+      "title": "VÍDEO BÔNUS 4 - LIVE ISS SÃO LUÍS - ESTATÍSTICA - Prof. Thiago Marques"
+    },
+    {
+      "id": "uJRHrcCP1_s",
+      "title": "VÍDEO BÔNUS 3 - LIVE ISS SÃO LUÍS - ESTATÍSTICA - Prof. Thiago Marques"
+    },
+    {
+      "id": "uFHIyOuzhAI",
+      "title": "VÍDEO BÔNUS 2 - LIVE ISS SÃO LUÍS - ESTATÍSTICA - Prof. Thiago Marques"
+    },
+    {
+      "id": "vIzgdnzjOsw",
+      "title": "VÍDEO BÔNUS 1 - LIVE ISS SÃO LUÍS - ESTATÍSTICA - Prof. Thiago Marques"
+    },
+    {
+      "id": "auTN7lPrn9s",
+      "title": "VÍDEO 32 -  2018/FGV/TJ AL/ESTATÍSTICO - ASSIMETRIA E MEDIDAS DE DISPERSÃO"
+    },
+    {
+      "id": "YIkfX7DK4MI",
+      "title": "Séries Temporais - Modelos Arima - Deyvid Toledo"
+    },
+    {
+      "id": "_1dJngMHHOQ",
+      "title": "Matemática Financeira - Juros Simples, cálculo da taxa e do capital - Prof. Marcos José"
+    },
+    {
+      "id": "_I-7l5gzKGw",
+      "title": "A era do Analytics e as novas profissões - Fabiana Ravaneda"
+    },
+    {
+      "id": "F2QRzXKf4Tk",
+      "title": "Introdução ao R Studio e a linguagem R - Prof. Igor de Almeida"
+    },
+    {
+      "id": "1ksKl6iThuU",
+      "title": "VÍDEO 31 - 2017/IBA/Atuário - Propriedades De Medidas de Tendência Central"
+    },
+    {
+      "id": "ZoiA1NHMxZQ",
+      "title": "VÍDEO 30 - 2017/IBA/Atuário - Propriedades Do Coeficiente de Variação"
+    },
+    {
+      "id": "Eb0RLmpEdVs",
+      "title": "VÍDEO 29 - 2017/IBA/Atuário - Teorema de Bayes"
+    },
+    {
+      "id": "l7MfA76uHeA",
+      "title": "VÍDEO 28 - 2018/BANCO DO BRASIL/ESCRITURÁRIO - Lei da Probabilidade Total"
+    },
+    {
+      "id": "IFLhbn7yuKQ",
+      "title": "VÍDEO 27 - 2018/BANCO DO BRASIL/ESCRITURÁRIO - Medidas de Tendência Central"
+    },
+    {
+      "id": "rfvLPtJnlBI",
+      "title": "VIDEO 26 - 2018 / CESGRANRIO / PETROBRAS / JUNIOR TELECOM ENGINEER - POISSON DISTRIBUTION"
+    },
+    {
+      "id": "A44dM0PId04",
+      "title": "VÍDEO 25 - 2018 / CESGRANRIO / PETROBRÁS / ENGENHEIRO JÚNIOR - TEOREMA DE BAYES"
+    },
+    {
+      "id": "Oljr5PijBVI",
+      "title": "VIDEO 24(versão2) - PETROBRÁS - CESGRANRIO - PRESSUPOSTO DE HOMOCEDASTICIDADE"
+    },
+    {
+      "id": "_MjzkTI1zJY",
+      "title": "VIDEO 24 - PETROBRÁS - CESGRANRIO - PRESSUPOSTO DE HOMOCEDASTICIDADE"
+    },
+    {
+      "id": "JV6K8kW57Xg",
+      "title": "Estatística Descritiva R  - Tipos de Variáveis Qualitativas"
+    },
+    {
+      "id": "RqAKEX8gKmY",
+      "title": "História de Aprovação - Prof. Thiago Marques"
+    },
+    {
+      "id": "Jgwt3cTyuZQ",
+      "title": "VIDEO 23 - 2018/CESGRANRIO/TRANSPETRO/Junior Administrator - Separator Measures"
+    },
+    {
+      "id": "TYJbQhjNsE8",
+      "title": "VIDEO 22 - 2018/CESGRANRIO/TRANSPETRO/ECONOMISTA JÚNIOR - PROPRIEDADES DE VALOR ESPERADO E VARIÂNCIA"
+    },
+    {
+      "id": "aswFhaET1XA",
+      "title": "VIDEO 21 - 2005 - CESGRANRIO - PETROBRÁS - ESTATÍSTICO JÚNIOR - REGRESSÃO LINEAR - TESTE T"
+    },
+    {
+      "id": "99ag4jdSeok",
+      "title": "Aula 18 - Testes de Hipóteses - Professor Thiago Cardoso"
+    },
+    {
+      "id": "yOFG2ORn2hw",
+      "title": "VIDEO 20 - 2005 - CESGRANRIO - PETROBRÁS - ESTATÍSTICO JÚNIOR - REGRESSÃO LINEAR"
+    },
+    {
+      "id": "PmNEUmfmT40",
+      "title": "VIDEO 19 - 2014 - FCC - TRT 2 REGIÃO - ESTATÍSTICO - PROBABILIDADE CONDICIONAL"
+    },
+    {
+      "id": "6mqGB7UsmrM",
+      "title": "Video Extraordinário - Planilha de Cálculos Notas Padronizadas VUNESP"
+    },
+    {
+      "id": "QxL9vinJtSE",
+      "title": "VIDEO 18 - ESTATÍSTICA - 2011 - CESGRANRIO - PETROBRÁS - TESTE DE HIPÓTESES"
+    },
+    {
+      "id": "tX4nDG4CWYE",
+      "title": "ESTATÍSTICA - VIDEO 17 - 2015 - FCC - SEFAZ PI - FUNÇÕES LINEARES DE DISTRIBUIÇÕES NORMAIS"
+    },
+    {
+      "id": "9_pqBeV9xHk",
+      "title": "ESTATÍSTICA - VÍDEO 16 - 2014 - FUNCAB - SOPH - ESTATÍSTICO - PROBABILIDADE CONDICIONAL"
+    },
+    {
+      "id": "C2bsXBWuUhs",
+      "title": "Live ICMS RO - Resolução da Prova de Auditor na Íntegra"
+    },
+    {
+      "id": "OFyP9pfPnJU",
+      "title": "Aula 11 - Distribuição de Probabilidades Contínuas - continuação - Estatística (Versão Mobile)"
+    },
+    {
+      "id": "IjO_VQJlgz4",
+      "title": "Vinheta 2018 - Videos Canal Estathifisco"
+    },
+    {
+      "id": "VKs12rwJ2Yc",
+      "title": "Lesson 4 - Measures of Variability - Statistics (Mobile Version)"
+    },
+    {
+      "id": "Riqw4IP9Pwg",
+      "title": "Aula 16 - Intervalo de Confiança e Tamanho da Amostra - Questões 2 (Versão Mobile)"
+    },
+    {
+      "id": "uiDIZ4CsLD8",
+      "title": "Aula 5 - Medidas de Dispersão 2 - Estatística (Versão Mobile)"
+    },
+    {
+      "id": "b45_Szv1Zug",
+      "title": "Aula 17 - Teste de Hipóteses - Introdução (Versão Mobile)"
+    },
+    {
+      "id": "7Hq3zcpJP_c",
+      "title": "Aula 14 - Intervalo de Confiança e Tamanho da Amostra - Estatística (Versão Mobile)"
+    },
+    {
+      "id": "B27H84fV2ow",
+      "title": "Aula 15 - Intervalo de Confiança e Tamanho da Amostra - Questões 1 (Versão Mobile)"
+    },
+    {
+      "id": "0UGNMvmBQpY",
+      "title": "Lesson 13 - Sampling and Estimation Concepts - Practice Questions - Statistics (Mobile Version)"
+    },
+    {
+      "id": "0cPtH1NfAu0",
+      "title": "Aula 12 - Noções de Amostragem e Estimação - Estatística (Versão Mobile)"
+    },
+    {
+      "id": "Rju5PZE8zeU",
+      "title": "Aula 10 - Distribuições de Probabilidade Contínuas - Introdução - Estatística (Versão Mobile)"
+    },
+    {
+      "id": "jDb_bt-rdIY",
+      "title": "Aula 8 - Distribuições de Probabilidade Discretas - Estatística (Versão Mobile)"
+    },
+    {
+      "id": "8IZaBPwkp-Y",
+      "title": "Aula 9 - Distribuições de Probabilidade Discretas - Exercícios - Estatística - Versão Mobile"
+    },
+    {
+      "id": "z_wMaoY_UUM",
+      "title": "Aula 7 - Cálculo das Probabilidades - Introdução - Estatística (Versão Mobile)"
+    },
+    {
+      "id": "oq7ALPPAZtI",
+      "title": "Aula 2 - Medidas de Tendência Central - Estatística (Versão Mobile)"
+    },
+    {
+      "id": "oTKdIpNZI7Y",
+      "title": "Aula 3 - Medidas de Tendência Central - Estatística -  Questões   (Versão Mobile)"
+    },
+    {
+      "id": "kPPTipJ3g_M",
+      "title": "Aula 6 - Questões de Dispersão - Estatística (Versão Mobile)"
+    },
+    {
+      "id": "uTpaICj8bow",
+      "title": "Lesson 1 - Measures of Central Tendency - Statistics (Mobile Version)"
+    },
+    {
+      "id": "-mSAvkS_Nsg",
+      "title": "Revisão ISS Criciúma - Exponencial Concursos"
+    },
+    {
+      "id": "GSYJzutA7Nk",
+      "title": "Questões -  Medidas de Dispersão/Variabilidade"
+    },
+    {
+      "id": "PVYorrp6ypQ",
+      "title": "Questões - Medidas de Tendência Central / Posição"
+    },
+    {
+      "id": "Ez_-xNe44so",
+      "title": "Aula 12 - Intervalo de confiança e Tamanho da Amostra"
+    },
+    {
+      "id": "Oq3bkMjv7Ac",
+      "title": "Aula 13 - Intervalo de confiança e Tamanho da amostra - Continuação 1"
+    },
+    {
+      "id": "58Ry13fsoiI",
+      "title": "Aula 14 - Intervalo de confiança e Tamanho da amostra - Continuação 2"
+    },
+    {
+      "id": "_KiH1Mer0SQ",
+      "title": "Aula 15 - Teste de Hipóteses introdução"
+    },
+    {
+      "id": "gr0GPTIqLiA",
+      "title": "Aula 11 - Noções de Amostragem e Estimação - Continuação"
+    },
+    {
+      "id": "AR_Vm2J8fVQ",
+      "title": "Lesson 10 - Concepts of Sampling and Estimation"
+    },
+    {
+      "id": "R2NXKt8JElo",
+      "title": "Aula 8 - Distribuições de  Probabilidade contínuas - Introdução"
+    },
+    {
+      "id": "Bef4pAmyRB4",
+      "title": "Aula 9 - Distribuições de  Probabilidade contínuas - Continuação"
+    },
+    {
+      "id": "PWnFYUmFCTI",
+      "title": "Aula 6 - Distribuições de  Probabilidade Discretas"
+    },
+    {
+      "id": "b2SUTKqYvbs",
+      "title": "Aula 7 - Distribuições de  Probabilidade Discretas - Continuação"
+    },
+    {
+      "id": "yY5lntpZPvw",
+      "title": "Aula 5 - Cálculo das probabilidades - Introdução"
+    },
+    {
+      "id": "8ff_4UB5Abk",
+      "title": "Lesson 4 - Statistics Made Simple - Measures of Dispersion - Continued"
+    },
+    {
+      "id": "PuskwZE_qd0",
+      "title": "Aula 3 - Estatística Descomplicada - Medidas de Dispersão"
+    },
+    {
+      "id": "LjXkwGtHFms",
+      "title": "Aula 2 - Estatística Descomplicada - Medidas de Tendência Central - Continuação"
+    },
+    {
+      "id": "-RHfh2oQ_Jg",
+      "title": "Revisão ICMS RO - Exponencial Concursos"
+    },
+    {
+      "id": "jrDCWL_DKXE",
+      "title": "Lesson 1 - Statistics Made Easy - Measures of Central Tendency"
+    },
+    {
+      "id": "cIUPWjWDPHU",
+      "title": "Video Extraordinário -  Segundo Simulado Área fiscal Meta Concursos - Estatística - Questão 70 à 71"
+    },
+    {
+      "id": "ORYyvI38lpo",
+      "title": "FCC - SEFAZ SP - 2009 - DISTRIBUIÇÃO DE POISSON"
+    },
+    {
+      "id": "MAZaXfRgvbI",
+      "title": "Video Extraordinário - Segundo Simulado Área fiscal Estatística - Questão 22 a 25"
+    },
+    {
+      "id": "8d9WPvzNzjI",
+      "title": "ESTATÍSTICA - VÍDEO 15 - 2009 - FCC - TJ PA - INTERVALO DE CONFIANÇA PARA MÉDIA DESVIO PADRÃO CONHEC"
+    },
+    {
+      "id": "qEq6MskyjoQ",
+      "title": "ESTATÍSTICA - VÍDEO 14 - 2015 - CESGRANRIO - PETROBRÁS - EVENTOS INDEPENDENTES"
+    },
+    {
+      "id": "vfnhlZZJUhQ",
+      "title": "ESTATÍSTICA - VÍDEO 13 - 2010 - FCC - SEFAZ SP - DISTRIBUIÇÃO NORMAL"
+    },
+    {
+      "id": "ZjNU1pRXWJQ",
+      "title": "Video Extraordinário -  Primeiro Simulado Área fiscal Meta Concursos - Estatística - Questão 58 à 61"
+    },
+    {
+      "id": "Jog8G2MQitQ",
+      "title": "Video Corrigido -  Primeiro Simulado Área fiscal Meta Concursos - Estatística - Questão 54 à 57"
+    },
+    {
+      "id": "bRT7PtyZ_Ls",
+      "title": "Video Extraordinário -  Primeiro Simulado Área fiscal Meta Concursos - Estatística - Questão 54 à 57"
+    },
+    {
+      "id": "H-bsBm9Tins",
+      "title": "ESTATÍSTICA - VÍDEO 12 - 2009 - FCC - TRT - ESTATÍSTICO - EXPONENCIAL - DISTRIBUIÇÃO ACUMULADA"
+    },
+    {
+      "id": "fGJyXy9-vag",
+      "title": "Estatística - Video Extraordinário - Mediana - Q 25 - Simulado1 2017 Coaching Concurseiros"
+    },
+    {
+      "id": "Jm-x0uXLpi8",
+      "title": "Estatística - Video Extraordinário - Média, Moda,Mediana... - Simulado1 2017 Coaching Concurseiros"
+    },
+    {
+      "id": "VtI9IBc9mCE",
+      "title": "ESTATÍSTICA - VÍDEO 11 - 2015 - UFMT - DETRAN - ESTATÍSTICO - MÉDIA POPULACIONAL"
+    },
+    {
+      "id": "2JTPk_2Dmcw",
+      "title": "ESTATÍSTICA - VÍDEO 10 - 2017 - CONSULPLAN - TRF -  ESTATÍSTICO - ANÁLISE COMBINATÓRIA"
+    },
+    {
+      "id": "P2Z2tRSMb6c",
+      "title": "ESTATÍSTICA - VÍDEO 9 - FCC - 2015 - SEFAZ PI - PROBABILIDADE - NORMAL+BINOMIAL - QUEBRANDO A BANCA"
+    },
+    {
+      "id": "JYYhxvtrAcs",
+      "title": "ESTATÍSTICA - VÍDEO 8 - FCC - 2015 - SEFAZ PI - UNIFORME e POISSON - QUEBRANDO A BANCA"
+    },
+    {
+      "id": "J4H4IhPfexk",
+      "title": "ESTATÍSTICA - VÍDEO 7 - FGV - 2008 - SENADO -  PROPRIEDADES DO CV - RESOLVENDO EM SEGUNDOS"
+    },
+    {
+      "id": "gm3owH-6JlU",
+      "title": "ESTATÍSTICA - VÍDEO 6 - FCC - 2015 - PROBABILIDADE - ANÁLISE COMBINATÓRIA"
+    },
+    {
+      "id": "14y3ykEZDMQ",
+      "title": "ESTATÍSTICA - VÍDEO 5 - FGV - 2009 - ICMS RJ - DICAS VALIOSAS DE BOXPLOT - ESTATÍSTICA DESCRITIVA"
+    },
+    {
+      "id": "q_W2GWqzJwk",
+      "title": "ESTATÍSTICA - VÍDEO 4 - DESVENDANDO O SEGREDO DA BINOMIAL  - PROBABILIDADE - VARIÁVEIS DISCRETAS"
+    },
+    {
+      "id": "5EWVdf0MK4A",
+      "title": "ESTATÍSTICA -VÍDEO 3 - FCC - 2012 - TRF 2ª REGIÃO - VARIÂNCIA POPULACIONAL"
+    },
+    {
+      "id": "dHbJm5tJxkU",
+      "title": "ESTATÍSTICA - VÍDEO 2 - CONSUPLAN - 2013 - TRE MINAS GERAIS - ESTATÍSTICA DESCRITIVA - ASSIMETRIA"
+    },
+    {
+      "id": "20Yw9szprDE",
+      "title": "ESTATÍSTICA - VÍDEO 0 - ABERTURA DO CANAL ESTATHIFISCO - CONCURSOS FISCAIS PARA TODAS AS ESFERAS"
+    },
+    {
+      "id": "slxB1eiTkLY",
+      "title": "ESTATÍSTICA - VÍDEO1 - FCC-2010-SEFAZ SP - ESTATÍSTICA DESCRITIVA - MODA, MEDIANA e MÉDIA"
+    }
+  ],
+  "ultimos_pulados": [
+    {
+      "id": "i4QmDuIggxw",
+      "title": "Machine Learning That Drives Revenue: How to Reduce Churn with Magno Silva"
+    },
+    {
+      "id": "5ZNUmOnBEqo",
+      "title": "RIW August 5th - Luccas Maia (CTO Software House Grid)"
+    },
+    {
+      "id": "AyQCA7Whetc",
+      "title": "From Statistical Rigor to AI Leadership: How to move from technical to strategic roles with Mairo..."
+    },
+    {
+      "id": "jLFwWmsu2F8",
+      "title": "Lesson 1 - Relational Database - SQL for Data Strategy"
+    },
+    {
+      "id": "va6Tdbpd-W8",
+      "title": "Lesson 00 - Introduction - SQL for Data Strategy (DD)"
+    },
+    {
+      "id": "sPOoEJWkmSA",
+      "title": "Lesson 1 - What is Data Science and where is it applied? - ML in Practice - Scalable Models"
+    },
+    {
+      "id": "epnbFxjJ9PI",
+      "title": "Lesson 00 - Introduction - ML in Practice - Scalable Models"
+    },
+    {
+      "id": "rADbY6l9psc",
+      "title": "Lesson 00 - Welcome and initial instructions - Introduction to R Programming for Data Science"
+    },
+    {
+      "id": "kcjq-uFFmQ8",
+      "title": "Presentation - Introduction to R Programming for Data Science"
+    },
+    {
+      "id": "MntSYrRP0yE",
+      "title": "Lesson 1 - Fundamentals of Process Management - Process Management, Controls, and Indicators"
+    }
+  ]
 }

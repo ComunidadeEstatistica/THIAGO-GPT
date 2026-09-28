@@ -1,0 +1,90 @@
+# Vídeo 01 -  2016 / Prefeitura dom Martins/ Tributos Municipais/ Excel 2007
+
+- **URL:** https://www.youtube.com/watch?v=CeFG82yxkl0
+- **ID:** CeFG82yxkl0
+
+## Transcrição
+
+a galera aí tudo bom
+então meu nome é gabriela e tô só
+estatística né
+estou aqui no canal está difícil pra
+trazer para vocês algumas resoluções de
+questões de informática para concursos
+voltados principalmente para a área
+fiscal
+eis não vão perder muito tempo não vamos
+logo começará a a resolução mas antes
+uma coisa muito importante
+vocês estão inscritos no canal você já
+aqui vai o sine para receber
+notificações de novos vídeos que não
+fizeram isso
+outros vão fazer mas agora vamos voltar
+à questão
+a primeira questão super fácil de excel
+2003 e 2007
+a prova foi um concurso 2016
+a fiscalização na microsoft excel 2007
+versão em português do brasil para se
+obter a média dos valores das células
+compreendidos pelo intervalo de um a 10
+deve irritar na célula que conterá a 6 a
+seguinte forma o que resolver essa
+questão a gente precisa saber duas
+coisas quando a gente quer fazer
+referência a um conjunto de dados que
+tinha gente não quiser selecionar os
+conjuntos de dados
+a gente coloca o primeiro a primeira
+casa em editar dois pontos a última
+casinha onde contesta os dados vovô isso
+vou mostrar pra vocês que a nossa igual
+primeira casinha onde meus dados estão a
+12 pontos
+a última ocasião nos dados estão a 10
+isso é quando eu quiser fazer uma merda
+um assuma enfim o que for bom eu quiser
+fazer referência a esses dados
+e outra coisa sempre que eu quiser que o
+excel me deu uma resposta tenho que
+colocar o recall
+o que se por exemplo quiser néia
+a 1 a 10 o excel vai pensar que eu to
+die tanoh isso que eu tô eu não tô dando
+um comando pra ele entendeu então sempre
+igual média ops spoiler né
+também falando que não devia enfim a
+gente elimina essas duas opções né
+isso obrigou média igual a vg bom esse
+avg
+confesso que é a primeira vez que eu
+escuto falar pra mim é é um fã daquele
+negócio em pipe menino fica assim
+antivírus
+eita quase não sai pra mim aqui vírus
+então vamos ver né igual a ver vocês
+viram que o excel não reconheceu toda a
+forma que eu coloco que eu digito por
+exemplo 10 de idade pai de padrão
+o hotel vai reconhecer é igual o sol
+viram toda a fórmula que só reconhece
+aqueles que o excel fainé igual avg ele
+não reconheceu logo pro céu ele não
+existe então não resta igual à média a 1
+e este é ficar aqui
+boninho é nossa resposta igual média
+amor a 10 entender ou sempre que a gente
+vai fazer referência a uma forma que
+quiser que o excel de uma resposta igual
+quando a gente quiser selecionar um
+conjunto de dados que não quiser usar o
+mouse sempre coloca o que está o
+primeiro por exemplo a primeira casa
+linha a 1 ea última casa linha a 10
+ele vai saber que você está fazendo
+referência àquele conjunto cuidados
+beleza é isso
+o próximo vídeo em traz mais uma
+resolução
+valeu

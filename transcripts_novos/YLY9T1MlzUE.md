@@ -1,0 +1,385 @@
+# Introdução a linguagem SAS no SAS Studio
+
+- **URL:** https://www.youtube.com/watch?v=YLY9T1MlzUE
+- **ID:** YLY9T1MlzUE
+
+## Transcrição
+
+fala pessoal tudo bem meu nome é lucas
+de paula eu trabalho no sas eo thiago
+pediu para eu conversar com vocês e
+mostrar como que a gente pode começar a
+trabalhar com os azuis utilizando a
+linguagem de programação tá fácil pra
+quem não sabe é uma plataforma de
+direita science ea gente oferece
+diversas maneiras de interação e uma
+delas é através da programação sá e com
+isso vocês podem tratar dados vocês
+podem gerar gráficos vocês podem gerar
+modelos estatísticos e the machine
+running você pode fazer muita coisa aqui
+dentro hoje eu vou focar no caso de
+imaginar uma pessoa um analista que tem
+que gerar relatórios é semanais e esse
+cliente esse usuário ele tem uma base de
+clientes na mão dele
+então vamos lá a gente está na interface
+aqui do site studio e ainda faz uso da
+interface do site studio é uma interface
+online em que rodam na nuvem e que a
+gente consegue criar os nossos programas
+taça caso a gente não conheça é a
+linguagem sabem se a gente pode utilizar
+as técnicas que a gente chama e que a
+gente consegue de forma contínua clique
+gerar códigos assim e aí você vai
+copiando e colando aquele código gerando
+o script
+ao final que pode ser agendado e assim
+por diante beleza a gente não vai usar
+os testes de hoje não é o objetivo
+eu vou deixar habilitado aqui a aba de
+bibliotecas que basicamente o que
+significa é que é um espaço no disco
+onde vai ficar armazenadas as nossas
+tabelas e a gente aponta para essa
+tabela é no momento que a gente foi
+iniciar o nosso script então vamos lá eu
+vou clicar aqui o problema ea gente vai
+começar criando aqui uma sessão e
+habilitando as bibliotecas que a gente
+vai utilizar aqui na nossa no nosso
+projeto
+uma sessão basicamente é uma conexão com
+o meu servidor onde vai ser rodado
+executado todos os códigos que a gente
+escrever aqui é uma é um servidor que
+vai rodar tudo e memória
+é otimizado utilizando os códigos dos a
+beleza
+a primeira coisa que os programadores
+observam aqui de cara que os azuis ele
+utiliza o ponto e vírgula ao final de
+cada espetáculo é isso é imprescindível
+para que a gente diga que aquele é o
+final da linha beleza agora que a gente
+tem tudo para iniciar vamos começar
+trazendo as nossas a nossa base de dados
+para uns aço como é que a gente vai
+fazer isso aí entra o primeiro conceito
+do saci que é o conceito de proceder se
+um procedimento básico a mente algo que
+os azuis escreveu e deixou disponível
+para que você utilize e aí pra isso a
+gente vai utilizar o procedimento caso o
+tio que é um processo que vai habilitar
+para a gente fazer o carregamento dessa
+base na memória então entre proque ram a
+gente escreve os nossos comandos e o
+primeiro comando que a gente vai
+utilizar ou load e reload ele vai pegar
+tabela e essa tabela pode ser uma tabela
+sasu csv
+enfim é ea gente vai apontar para essa
+tabela tabela que a gente tem hoje é
+tabela cliente os pontos e sv que está
+lá no nosso servidor
+a gente vai especificar a que se quer
+salt que é o nome que essa tabela vai
+ter em memória eo out kelly bickell em
+qual biblioteca a gente quer salvar essa
+tabela e replays casas tabela já existem
+memória pra que ele não dê nenhum erro
+então queria fazer pegar essa pastinha
+pegar esse arquivo ler e subir para a
+memória
+eu vou selecionar esse código e vou
+aplicar em submit beleza
+a primeira coisa que a gente percebe
+então que toda vez que a gente roda a
+gente tem acesso ao blog como em
+qualquer outra linguagem
+e se a gente olhar aqui na queda de
+urgência a gente tem aqui a nossa tabela
+clientes que já está em memória
+então a gente tem que acionar de o país
+desse cliente o gênero desse cliente
+nome data de nascimento a qual grupo de
+idade ele pertence qualquer idade dele a
+qual grupo ele pertence e essa coluna
+leste seis mãos que é o tanto que esse
+cliente gastou com a gente nos últimos
+seis
+mês beleza agora que a gente tem a nossa
+tabela pronta a gente pode começar a
+trabalhar e aí uma das coisas que eu
+como programador geralmente procuro
+saber como é que a gente declara
+variáveis né
+e é isso no sábado a gente utiliza esse
+porcentagem let e agente digita que o
+nome data da variável que a gente quer
+criar uma variável que a gente vai criar
+a variável tirar colunas que vai
+representar um nome da coluna que a
+gente vai querer retirar porque elas não
+são é importante para a nossa análise
+então vou tirar essa canção the group ea
+gente vai utilizar essa variável já
+nesse próximo passo aqui que é o passo
+data é 7 anos um famoso data estepe do
+satã
+ele é um dos métodos mais famoso sair
+porque foi onde começou tudo beleza como
+que funciona para é isso aqui
+basicamente a gente tem então beira 77 é
+onde a gente vai dizer qual é o nosso
+data 7 de entrada então nosso data certa
+de entrar ele está na biblioteca que é
+de uso e ele chama clientes e odeia vai
+ser o nosso data 7 de saída então a
+gente vai dizer que ele vai salvar essa
+tabela na queda de uso de novo e essa
+tabela vai representar as prioridades ou
+os nossos clientes com maior prioridade
+para a nossa campanha de marketing por
+exemplo beleza
+a gente tem então aqui um espaço entre
+os 6 e os 7 um espaço entre os 71 anos o
+que isso significa
+quando os ali utilizado esse comando 7
+ele vai fazer como se fosse um loop
+ele vai pegar a linha linha na minha
+tabela e vai ler aquilo e trazer para
+essa outra tabela aqui que há
+prioridades beleza
+então isso quer dizer que a gente pode
+aqui antes de declarar é uma das
+variáveis e aqui depois dos 7 gente pode
+criar novas variáveis
+vamos lá então a gente vai declarar aqui
+uma uma variável chamada prioridade a
+prioridade que ela vai ser do tipo
+caracter e ela vai ter um cumprimento de
+cinco ou seja está criando aqui um chá
+isso é representado pelo cifrão
+de tamanho 5 e depois dos 7 a gente vai
+pegar e vai começar a trabalhar para
+criar as nossas variáveis que a gente
+precisa aqui pra nossa campanha por
+exemplo
+então a gente vamos porque agente
+comunista quer separar-se usuário sair
+entre dois grupos os grupos de alta
+prioridade de baixa prioridade para a
+empresa
+como é que a gente pode fazer isso a
+gente pode utilizar um condicional inf é
+que existe em várias linguagens de
+programação ea gente vai dizer se a
+nossa variável nos últimos seis meses
+foi maior ou igual a 50 mil
+então a prioridade desse cliente é alta
+senão a nossa prioridade ela vai ser
+baixa
+então basicamente ele vai dizer pra
+gente isso aqui e aí a gente pode trazer
+aqui a nossa variável drop que vai ser
+aquela variável que a gente declarou ele
+em cima que é atirar colunas
+então a gente tem aqui tudo prontinho
+pra gente conseguir separar os nossos
+usuários em dois grupos os grupos de
+alta prioridade de baixa prioridade
+então recapitulando a gente tem aqui a
+nossa tabela de saída
+a variável que a gente criou que é um
+caracter de cinco posições
+a nossa tabela de entrada a gente faz um
+condicional se informar do que 50 mil
+com a prioridade desse cliente a alta e
+se a prioridade dele foi baixa porque
+ele está abaixo de 50 mil ea gente tá
+tirando a coluna castro meio de grupo
+porque ela não é prioridade para a nossa
+análise
+eu vou selecionar esse pedaço de código
+eu vou clicar em sabiamente log tal que
+ele disse que conseguiu rodar e ele já
+criou essa bem aqui de áudio porteira
+que vai ter a nossa coluna aqui de
+prioridade que vai ser alto ou baixo
+dependendo do nosso valor aqui de compra
+nos últimos seis meses e se a gente
+olhar agora aqui na nossa biblioteca a
+gente tem a nossa tabela prioridades
+aqui salva
+é legal a gente tem então essas a essas
+colunas criadas que a gente vai precisar
+na nossa análise
+a gente pode dar procedimento
+prosseguimento aqui na nossa análise
+vamos lá eu vou criar mais umas linhas
+aqui e agora a gente vai utilizar uma
+coisa muito legal que é o seguinte vamos
+porque você não saiba nada de sá se você
+quer ter as suas análises prontas a
+gente pode utilizar um procedimento que
+os céus criou que chama fé de 5
+esse procedimento ele permite com que
+você escreva aqui entre o próprio ram
+ações do próprio sql
+ele vai seguir os padrões do sql a gente
+só precisa dizer que ele está utilizando
+a nossa sessão com esse comando sérgio
+efe
+e aí aqui dentro a gente pode escrever e
+select cliente e grupo ba etc
+e é isso que a gente vai fazer vamos lá
+isso aqui é skelly normal eu vou
+utilizar o select é eu vou selecionar o
+gênero do nosso cliente e eu vou querer
+somar dos últimos seis meses e eu vou
+chamar essa variável aqui de soma
+compras selecionando da nossa tabela que
+a gente acabou de criar em cima que a
+queda de 11 pontos prioridades
+eu vou agrupar isso aqui pelo câncer de
+então o que a gente vai ter um final em
+que vai ter o número de souza de vendas
+por gênero dos nossos clientes
+eu vou de novo selecionar que esse
+código e clicar em semente
+ele executou e agora a gente tem aqui a
+nossa saída e se esse somatório aqui de
+entre feminino e masculino o total de
+compras que ele foi gerado beleza então
+agora a gente já conhece um pouco mais
+nos dado a gente sabe que o grupo
+masculino já compra mais do que o grupo
+feminino
+a gente pode prosseguir agora por um
+outro conceito dentro do saci que o
+conceito de macros o que é uma uma macro
+dentro do saci
+imagina que você queira criar agora
+vários gráficos é então a gente vai
+criar uma função macro o que isso vai
+fazer pra gente
+a gente vai evitar que a gente tem aqui
+reescrever os códigos
+primeiro vou fazer o seguinte eu vou
+criar o código do gráfico e depois eu
+vou mostrar pra vocês como a gente
+transforma aquilo é numa maca
+então pra isso a gente usar um outro
+procedimento que é o sgp lote que ele
+vai fazer quando vai permitir a gente
+criar gráficos aqui dentro eu vou
+primeiro então dizer qual que é o dado
+que a gente vai usar
+e aí o cuidado que a gente vai usar essa
+prioridades que a gente criou aqui em
+cima eu vou criar que o ram e aqui
+dentro a gente vai passar os parâmetros
+que a gente quer é utilizar a gente vai
+utilizar esse bebê que a nossa barra
+vertical ea gente vai dizer pra ele
+assim eu vou te passar uma variável x
+uma variável e como a gente faz isso eu
+vou direcionar que primeiro o respons
+que vai ser a nossa variável é do eixo y
+a nossa variável numérica
+essa variável numérica ela vai ser por
+exemplo last.fm certo e eu quero fazer o
+seguinte eu não quero que você mostra
+minha somatório eu quero que os atos que
+eu olho para minha média é de compras
+nos últimos seis meses
+e aí aqui dentro do bar a gente passa
+para ele a nossa variável categórico
+nossa variável é que representa o nosso
+eixo x e aí a gente pode passar aqui por
+exemplo custo é cantor e aqui em baixo a
+gente não pode colocar outras opções
+para deixar mais estético utilizando o
+som é que seja utilizando aqui a opção
+grande
+vamos selecionar isso aqui e rodar o
+nosso código ele gerou pra gente um
+gráfico por país a média de compras nos
+últimos seis meses
+a gente pode ver que os estados unidos
+deu uma caída enquanto é é é é a
+austrália tem aqui um valor é um pouco
+mais alto
+ok vamos então a gente quer agora criar
+é a média de idades por país
+copiar o código mudar as variáveis e
+assim por diante
+então é um bom caso aqui para a gente
+criar uma macro como que funciona a
+estrutura básica de uma lacuna a gente
+vai declarar aqui macro ponto e vírgula
+e aí and ou seja macro and aqui no meio
+é onde a gente vai declarar o que a
+gente quer criar dentro e aí a gente vai
+querer declarar essa própria que a gente
+acabou de criar em cima vai tentar aqui
+e aqui na macro a gente vai dizer qual é
+o nome dessa marca
+então gera gráfico por exemplo ea gente
+vai passar dois parâmetros pressa macro
+uma que é a nossa variável x ea outra
+que a nossa variável muito e aí a gente
+pode aqui dentro como a gente fez com a
+variável tirar colunas referenciais essa
+variável utilizando o e comercial
+então aqui vai ser a nossa variável x e
+aqui a nossa variável o ritmo e aí a
+gente tem então a nossa macro pronto
+para ser utilizado
+se a gente pegar essa mácula aqui e
+rodar a gente vai ter criado um espaço
+na memória lá ela pode ser executada por
+ter registrado a nossa macro e aí aqui
+embaixo a gente pode chamar a gera
+gráficos gráfico passando-as nome das
+colunas que a gente quer então o custo é
+alto e leste 6 mas isso a gente
+selecionar isso aqui rodar a gente vai
+ter o mesmo gráfico que a gente tinha
+rodado lá embaixo e aí a gente pode
+copiar essa linha que em geral por
+exemplo gráfico pra média de idade ea
+média é de compras nos últimos seis
+meses pro gasto e grupo
+então vamos ver aqui a gente vai
+selecionar essas três linhas de rodar
+ele gerou então pra gente 3 gráficos 1
+sendo o gráfico castor canto e outro
+sendo caçado em campo em média de idade
+e agora nossa média de compras por grupo
+dos clientes
+bom pessoal é pra a questão de
+linguagens as existe muita coisa que a
+gente poderia abordar
+eu acho que isso aqui é um já dá uma boa
+base de como funciona a linguagem no
+próximo vídeo que eu vou fazer eu vou
+explicar como é que a gente consegue
+utilizar esses procedimentos fazem
+coisas que já foram construídas pelos
+aço
+só que através da linguagem python os
+azuis hoje ele oferece biblioteca para o
+python para que você consiga programar
+utilizando a linguagem python de
+preferência é ou r e utilizando esses
+mesmos procedimentos que a gente
+utilizou aqui no na linguagens acita é
+isso muito obrigado por ter assistido e
+tô qualquer dúvida que vocês tiverem
+pode deixar aqui nos comentários
+abraço tchau tchau

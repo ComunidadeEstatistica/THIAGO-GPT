@@ -1,0 +1,158 @@
+# Alteryx - Formula - Aula 13
+
+- **URL:** https://www.youtube.com/watch?v=m9X5a--rqPY
+- **ID:** m9X5a--rqPY
+
+## Transcrição
+
+e agora ele vai falar de uma ferramenta
+aqui vocês vão usar de baixo essa
+ferramenta muito importante que a
+ferramenta é fórmula na forma a gente
+consegue ter a capacidade e de fazer uma
+infinidade de coisas a este consegue
+fazer uma infinidade de tratamentos de
+lógicas vocês vão brincar bastante com
+essa tá então vou lá que que tu vai
+fazer antes de mais nada para vocês
+entenderem aqui em relação ao ano
+anterior Eu Só adicionei essa ferramenta
+de transpose aqui igual aula de
+transpose tá só para gente conseguir
+pegar todos aqueles dados que estavam em
+linha que saíram lado Nossa Morais para
+botar em uma coluna para que que eu fiz
+isso apenas para mostrar pra vocês que
+eu consigo através do Fórmula renomear
+diversos Campos de uma vez é fazendo
+esse essa simples jogada de de mexer aí
+com os dados de fazer de sua esposa tá
+o que a gente vai fazer aí vou pegar
+aqui no grupo de preparation a
+ferramenta a fórmula e vou ligar na
+ferramenta anterior que a ferramenta de
+transe quando a gente tá com ferramenta
+aplicada você aqui na parte esquerda vai
+ter configurações da ferramenta aqui vai
+aparecer é qual a fórmula que você que
+tá escrevendo se você clica nesse mais
+você vai conseguir escrever mais fórmula
+está para fazer mais coisas você
+clicando aqui nesse lixo sozinho você
+vai deletar essas formas que você está
+adicionando então vamos lá a primeira
+coisa que você vai falar aqui para ele
+nesses e leque colo Qual é a coluna que
+você vai alterar você pode alterar uma
+coluna e já existentes você escolhe qual
+aqui ou você vai botar para adicionar
+uma nova coluna E aí você adicionar uma
+nova coluna você vai dizer qual o nome
+dessa coluna e aqui embaixo você vai
+dizer qual o tipo de cidade e o tamanho
+que vai ser esse dado no caso eu quero
+renomear uma coluna essa minha coluna
+a coluna name é na coluna name que estão
+os nomes dos Campos que depois que eu
+fiz o transpose que tá lá como AVG
+underline e o nome da coluna original eu
+quero tirar esse AVG underline de todas
+de uma vez existem outras formas de
+fazer povo já falei antes sempre várias
+formas de fazer uma outra forma por
+exemplo é o daí Nick name que você
+poderia também fazer sem utilizar o teu
+esposo tá mas é que eu vou te dar o teu
+esposo só para você ver um pouco e aí
+como é que é a ferramenta de fórmula
+quando você quer saber uma fórmula nova
+se não lembra ele pude se Qual é a
+fórmula que eu consigo utilizar aqui
+nesse FX Você tem a lista de todas as
+formas que você tem no Atrix e ele já vi
+ele pelos dados que você tem algumas
+sugestões que ele pode dar para você tá
+aqui tem essas sugestões Mas você pode
+ir para o grupo e olhando cada uma delas
+para saber qual é a que te atende ou não
+e você deixando o mouse em cima
+e você vai ver que ele também te dá a
+ele o que que a fórmula faz casa se não
+tem entendido pela for lá em cima tá E
+aí é forma que eu vou pegar aqui vai ser
+the replace e vou pegar a replace que
+está aqui dentro do grupo The Spring tem
+uma chamada replace e ele já te dá aqui
+com a estrutura da fórmula e aqui dentro
+das estruturas da fossa e só vai
+substituindo o que está escrito stranger
+eu vou dizer para ele com o campo que eu
+vou pegar como referência como que eu
+vou pegar com referência ao próprio name
+target eu vou falar para ele o que que é
+para eu achar dentro da voltar do meu do
+meu cão e que eu vou depois substituir
+então o que que eu quero assistir ali
+dentro Eu tenho colocar como é mais Tang
+Então tem que botar dentro de "então vou
+abrir e fechar depois aqui dentro taizai
+depois eu vou escrever Qual o nome que
+eu quero tirar lá
+uma das colunas que é o AVG underline
+a replacement eu vou colocar o que eu
+quero que entre no lugar desse a vejam
+de ali no caso na verdade eu quero que
+não entra nada eu quero só sumir com
+isso de lata então eu vou colocar abre
+e" que eu também colocou Spring mas aí
+eu vou dizer para ele que não tem nada
+você vê que aquilo tenta proibir que tá
+aqui em cima ele já te diz é o que que
+vai sair ali pelo menos na primeira
+linha tá
+E como eu já te disse que vai sair da
+primeira linha você quiser consegue ter
+uma ideia se tá de acordo com o que você
+quer ou não é nesse caso eu tô
+conseguindo também já vir nesse deita
+proibiu porque eu já rodei aqui meu
+fluxo então eu já tenho dados carregados
+tá pode acontecer de você não ver nada
+dentro da vida por viu Mas por que você
+não deu Hum ainda do seu fluxo E aí ele
+não conseguiu carregar o Estados ainda
+para conseguir ver com o impacto do que
+você escolheu dentro dessa fórmula para
+ver aqui como é que vai afetar os seus
+dados
+e vamos dar um Hum então com essa
+fórmula e já feita
+e depois desse lá fosse olhar aqui na
+saída você vai reparar aqui agora a
+gente não tem mais o avg no começo dos
+Campos se a gente olhar como entrar o
+Estados a gente Skill a vejam underline
+e agora a gente não tem mais porque eu
+dei um replace desse a vejam underline
+por nada para ficar vazio ficar apenas
+com que tem de texto posterior a esse a
+Virgem Uberlândia lembrando a ferramenta
+de fórmula consegue te dar uma
+infinidade de opções de uma infinidade
+de coisas que você pode fazer se esse
+for olhando aqui dentro dos grupos e
+você vai ver tudo ela pode fazer como
+condições que são causa do se fiz você
+consegue fazer cálculos financeiros você
+consegue fazer conversões de dados aqui
+dentro você consegue fazer trabalhos
+específicos ali destruindo e como
+left-right contar o tamanho de uma
+string ring é você consegue fazer
+conversões de data então Campos que
+estão animal
+o fogo da vê se consegue formatar
+certinho Você tem uma infinidade de
+opções vale muito a pena você dá uma
+olhada e brincar um pouquinho com as
+fórmulas que você tem aqui

@@ -1,0 +1,216 @@
+# VÍDEO BÔNUS 11 - LIVE ISS SÃO LUÍS - ESTATÍSTICA - Prof. Thiago Marques
+
+- **URL:** https://www.youtube.com/watch?v=QP4M71TtPKo
+- **ID:** QP4M71TtPKo
+
+## Transcrição
+
+então vamos lá galera nossa questão de
+2006 esse banco central do brasil agora
+três tá brincando comigo estão o
+empresário investindo em um determinado
+empreendimento espera ter os seguintes
+lucros em função do cenário bom média
+ruim beleza ainda também link com os
+cenários né
+bom né de ruir aqui são os lucros que eu
+vou chamar de l
+e aqui são as probabilidades associados
+a cada cenário
+tá então a expectativa ea variância do
+respectivo lucro ou seja média esperança
+ou como você quer chamar tá e a
+variância do respectivo lucro som em
+reais e irreais o quadro lembrando da
+variância sempre na unidade o quadrado
+está respectivamente então ele tem
+primeiro há a esperança é que a média e
+depois
+adoro criança está então como é que a
+gente vai calcular essa esperança temos
+tempo aqui esse tipo de tabela né
+quem tem que fazer a gente tem que
+multiplicar o lucro certo
+multiplicando lucro pela probabilidade e
+somando tudo a gente vai ter o que o lx
+que a nossa esperança expectativa tá
+beleza
+vamos construir aqui então lembrando que
+0 25 que um quarto 06 é o q3 quente 0 15
+o q3 sub-20 né beleza então a 8 mil
+vezes um quarto do que em 2000
+s 5 mil vezes 3 505 vai cortar lhe vai
+ficar mil vezes 3 que é 3 mil beleza e
+aqui embaixo 2
+mil vezes 3 / 2020 vai cortar e vai
+sobrar senha ficar 1 303 com 255 mil e
+trezentos beleza então como todo bom
+conservamos alternativos letra não pode
+ser a letra d não pode ser letra não
+pode ser beleza então ficamos de
+convencer ok então agora detém calcular
+variance estar lembrando que a fórmula
+pra gente calcula a variância nessa
+tabela aqui é mais fácil a gente usar o
+que é de x 2 - é de x ao quadrado ou
+seja a esperança dos quadrados - um
+quadrado da esperança tá lembrando que a
+gente já tem aqui o ad china
+então agora ficou que 53 ao quadrado já
+vão fazer conta que é uma coisa conta
+que para já a ficar com o valor aqui ó
+vamos lá vamos fazer aqui a 53
+desde 53 32 39 53 15 53 15 91 55 25 26
+com que foi tópico que 9/10 aqui 8 e 2
+8 109 beleza
+aqui a gente já tem que é 2 809 vezes 10
+elevada 4 beleza
+agora vamos calcular é de che do estado
+é de 2 é o segundo ator dinário como é
+que a gente faz para calcular essa
+tabelinha de forma que fique mais fácil
+para a gente a gente vai colocar em
+primeiro lugar o cuidado tá no quadrado
+vai ser o que vamos transformar na
+estação científica pelo pra ficar mais
+fácil tanto 64 vezes 10 levando 6 10 8
+mil o quadro beleza 5 mil ao quadrado 25
+meses 10 elevado a 62 mil ao quadrado
+quatro vezes 10 elevado a 6 beleza
+então eu já tenho o variável do quadrado
+agora tem que multiplicar essa variável
+pela nossa probabilidade tá pra gente
+somar tudo é achar o fx 2
+está então vamos fazer isso sessenta e
+quatro anos devem aguardar seis vezes um
+quarto das 16 vezes 10 elevada 6 25 vez
+da elevada seis vezes três quintos 25
+vai embora com 5 vai sobrar 15 meses 10
+tá então aqui vai ficar o que quatro
+vezes três das 12 / 226 então vai ficar
+6
+no caso nós para 10 em baixo então fica
+0,6 meses 10 elevado a cei legal
+ficou tudo com a mesma potência ok vamos
+botar evidência 10 derrotas e então pra
+gente tomar 16 + 15 + 0 veio a cereja
+beleza 16 mais 15 da 31 com mais 0,6 do
+que 31 francês vezes 10 elevada 6
+tá daqui a gente chegou aqui em baixo tá
+então ficou em 81,6 vezes 10 elevado a 6
+o que a gente tem que fazer o que
+acontece esse cara aqui ele está em 10
+levando a 4 e reparem que as nossas
+alternativas aqui ó são grossas duas
+então o é 351 vezes 10 levada 4 mas o
+306 vezes designada quatro então tá e
+levantar na potência 4 ac beleza esse
+cara que tá potência 4 entanto vai
+transformar esse cara aqui pra potência
+a 4 pra gente poder fazer quanto mais
+fácil está transformando esse cara aqui
+na potência 4
+se eu tô multiplicando por 10 -2 aqui
+aqui eu vou ter que motivou tem que
+multiplicar por 10 levando dois não
+estão lá ficou que 3101 vezes 10 nota 4
+beleza então 3.160
+três mil cento e sessenta vezes 10
+elevado a 4
+a gente pode colocar isso aqui há
+evidência vai ficar 10 levando a 4 e
+ficou 3.160 - 2.809 tá então não pode
+nessa conta que o 3162 1809 tirando aqui
+ó
+um aqui corta aqui o das-5 aqui vai
+pedir emprestado 11 nem vai ficar oito
+nove dez anos três aqui corta fica a 260
+351 meses 10 levando a 4 isso se
+encontra onde na nossa letrinha pedir
+belezinha continha chatas nem pra fazer
+mas a gente tem que aprender a trabalhar
+e computação científica para facilitar
+nossa vida tá beleza
+vamos então olhar a nossa questão de
+2015 é fácil pelo auditor fiscal da
+fazenda estadual tá brincando comigo
+questão
+um estudo mostra que 20% de todos os
+candidatos estão prestando determinado
+com os públicos possuem doutorado em
+determinada área do conhecimento
+então a 20% possui doutorado em
+determinada área do conhecimento está
+selecionando se ao acaso ou seja
+aleatoriamente né e com reposição então
+paula vê mágica aqui né galera roupa que
+acontece quando ele passa uma tragédia
+com reposição
+depois que a gente retira o primeiro
+elemento quando a gente vai retirar o
+segundo
+repõe o primeiro elemento para depois
+tirar o segundo tá então com isso a
+gente não vai alterar o nosso exposta
+mostrou nessa probabilidade vai ficar o
+que é constante a nossas distrações não
+sei o que é independente ea gente vai
+estar trabalhando com a distribuição
+distribuição de nome ao que a gente só
+tem que descobrir então quais são os
+parâmetros né
+vamos continuar olhando aqui então
+selecionar sua casa e corre pois são
+quatro desses candidatos
+a probabilidade de que exatamente 2
+consultor área total de 4 que seleciono
+eu tenho quero que exatamente dois
+possam lutar a beleza tão x vai seguir
+uma mini ao que parâmetro que ele era
+igual a quatro o número de tentativas e
+é igual a 0 2
+o nosso evento o nosso o nosso sucesso é
+o que é definido pelo possui doutorado
+né beleza lembrando a forma da mina
+mundial
+se vocês quiserem no meu canal demonstra
+essa fórmula que de uma maneira mais
+fácil tá aí aqui
+a combinação de haxixe ter elevado a
+xvii que é elevada a mmx lembrando que
+que é um despertar o iene é o que número
+de tentativas o x é o nosso sucesso né
+quantidade de sucesso têm a
+probabilidade de sucesso que promete
+fracasso então vamos lá eu quero que
+exatamente dois né possuam doutorado
+então quero ter sucesso nem substituir
+quatro combinação de 4 2 a 2 x é o
+número de sucesso então quero dois
+possam voltar a matar
+02 a mesma coisa que 2010 elevada quanto
+x 2
+- peru como fazer direto aqui que a 8
+sobre desta números de 2010 e ele roda
+enquanto 4 - 2 que é 2 beleza então a
+combinação de 4 2 a 2 a 2 em cima do
+embaixo quatro vezes 32 vezes um vezes 2
+em quadrado da 4/10 ao quadrado assim
+vezes ou então quadrar 64 de rede de 4
+100 quadrado beleza aqui ao que seis
+vezes quatro vezes 64 divididos por 10
+mil
+beleza então vamos fazer aqui a 64 24
+então é ficar 64 vezes e 24 4 meses
+quatro das 16 64 24 a 25 quatro vezes
+2.862 da 12 beleza ficou 68 4 12 13 24
+51 15 3 6 1 536 divididos por 10 mil
+beleza / por 10 mil que é andar quatro
+casas pra querer aqui o pagar aqui que
+eu vou ter certeza aqui
+vai ser o que vamos repetir aqui ó 1536
+e vou mandar cota casas aqui pra
+esquerda 1234 0,15 ou 0 veio aqui 3611
+15,36 por 60 e nossa letra a nossa letra
+sede conquista pra gente conquistar aí
+nós cargo público tão desejada beleza

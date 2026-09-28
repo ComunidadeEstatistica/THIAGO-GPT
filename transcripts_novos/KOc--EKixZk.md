@@ -1,0 +1,297 @@
+# VÍDEO BÔNUS 6 - LIVE ISS SÃO LUÍS - ESTATÍSTICA - Prof. Thiago Marques
+
+- **URL:** https://www.youtube.com/watch?v=KOc--EKixZk
+- **ID:** KOc--EKixZk
+
+## Transcrição
+
+a nossa questão dia de 2006 fcc banco
+central do brasil agora sinta em casa
+comigo questão considera as seguintes
+afirmações tá um dispositivo útil quando
+se quer verificar a associação entre
+duas variáveis quantitativas é o gráfico
+de dispersão entre essas duas variáveis
+ser a galera vamos ver se isso é verdade
+então vem aqui o gráfico coloquei pra
+vocês há aqui vem
+bush tem um número de filhos está no
+eixo y tem um número de mais então a
+gente pode perceber o seguinte que têm
+duas mães que têm três filhos tem seis
+mas que tem dois filhos e tem 10 mais
+que tem um filho com isso a gente
+percebe o que é que tipo de associação
+está percebendo aqui que quanto maior
+quanto maior o número de longe a menor é
+o número de filhos uma relação
+inversamente proporcional tá então a
+nossa reta que eu tenho condenação
+negativo
+tá vendo então o que você consegue
+afirmar por esse gráfico que existe uma
+associação linear entre o número de mais
+de um número de filhos está que se dá da
+seguinte forma quanto maior o número de
+mães menor o número de filhos está então
+a gente pode verificar uma associação
+entre variadas quantitativo está o
+número de mães no edifício vai afectar
+antigo está num gráfico de dispersão tá
+que você consegue ver exatamente aqui a
+trajetória de uma reta por exemplo tá
+poderia não ser uma regra também
+poderia ser outro tipo de associação mas
+a gente tá tá a gente pode ver esse
+gráfico que uma associação linear ok
+então essa é a correta
+vou marcar kiton corretíssima a um
+inventor certa então a gente já pode
+eliminar aqui ó a 1 com tenha uma
+habilidade também não porque pior está
+correto afirmar em apenas né
+então ele quer apenas acho que estão
+corretas tá então já pode eliminá a aiea
+de beleza
+vamos seguir aqui ó
+o coeficiente de variação
+é uma medida de dispersão relativa que
+depende da unidade de me diga na
+variável que está sendo analisada
+então galera será que isso é verdade
+vamos ver como é que quero a fórmula do
+coeficiente de variação
+o coeficiente de variação cv ele não era
+o sigma dividido pelo x barra que a
+nossa média
+então a gente pode inferir aqui por
+exemplo que eu devia poder depositar uma
+unidade de medida que eu vou chamar que
+de 1m da unidade de medida qualquer lá e
+o x barra também vai estar na mesma
+unidade de medida então é como se eu
+tivesse ano andando as unidades de
+medida ele é uma medida adimensional tá
+não possui unidade de medida
+e ele é uma medida de dispersão relativa
+até aqui estava correta a assertiva mas
+ele não depende da unidade de medida tão
+não depende então o 2o rapta então a
+gente pode eliminar 2 beleza
+então vamos pra 3 dentre as medidas de
+posição central a média é considerada
+uma medida robusta pelo fato de não ser
+afetada por valores aberrantes ou seja
+valores extremos out lá está
+vamos ver vamos ver se isso é verdade
+vamos fazer com que o negócio vamos
+colocar aqui um conjunto 11 r botar aqui
+três né
+bogotá 4 tam tamm4 aqui vamos ver quanto
+é que enquanto que vai ser a nossa média
+que nós firmamos vai ser o que nossos
+bairros vai ser 4 mas nós 24 mais um né
+que dá 6 / 3 é igual a 2
+então nossa média é dois é mediano o n 3
+não é isso é importante um eu tenho uma
+posição central
+então a nossa mediana vai ser o que vai
+ser um tá
+já está ordenado beleza ea nossa moda
+vai ser o que eu tenho um conjunto
+bimodal tá eu tenho um modo igual a 1
+olha eu tenho um conjunto mínimo de alta
+com um beleza
+agora vamos fazer um exemplo aqui ó
+com 11 e agora em vez de 4 a gente vai
+votar 70 tá quanto que vai ser x barra
+agora 72 divididos por três
+olá 24 x barra ele passou de 21 para 24
+só alterando uma hora aqui para 70
+isso significa que em média não a gostar
+ela é sensível valores extremos tanna
+levou a titan ela volátil
+agora você pode perceber o que a gente
+colocou aqui mediana vai continuar a ser
+um
+[Música]
+tá a mediana vai continuar a ser um ea
+moda também vai continuar se num ou seja
+a moda ea mediana são medidas robustas
+está que não são sensíveis a valores
+extremos ok beleza então essa
+alternativa também está descartada
+beleza então vão pra pra nossa última
+alternativa que se o coeficiente de
+variação de 5 por cento de co relação
+linear de bi são entre duas variáveis
+for igual a zero
+não haverá associação linear entre elas
+implicando na ausência de qualquer outro
+tipo de a associação ser a galera vamos
+ver
+ele está falando o seguinte presente o o
+coeficiente de correlação de pensão qual
+o coeficiente de correlação de pizza é
+vizinho de x e y negou que a
+conveniência de x e y / seguir a x 2º y
+ele está falando o seguinte se a
+correlação entre dois vereadores for
+igual a zero ou seja se erre xy for
+igual a zero
+eu não votei é um tipo de aço de
+associação entre as variáveis mas a
+gente pode usar como contra exemplo o
+seguinte y igual à x ao quadrado porque
+se a gente fizer o gráfico
+ele é uma parábola está voltada pra cima
+aqui tá ela está feliz tá beleza é uma
+parábola voltada pra cima isso aqui te
+dizer que o y
+ele é extremamente dependente de x só
+que não linearmente ele ele tem uma
+dependência quadrat catar
+então a gente não pode
+fim max se a correlação faziam que não
+vai existir qualquer tipo de associação
+por que pode existir uma associação com
+a drástica
+olha existe um outro tipo de associação
+tá então a barra também então a gente só
+pode afirmar a 1
+então nosso gabarito a gente elimina x
+ec eliminou a bsa ea nossa letra a letra
+ad elegante beleza tão velho em casa com
+a questão a questão zinho de 2006 esse
+banco central do brasil para 3 está em
+casa comigo em um mesmo período
+considerado o índice de preço de ficha
+fp é obtido calculando se a média
+geométrica entre o índice de preço baixo
+olha duas perto e o índice de presos do
+pasch está também o índice de na
+quantidade de ficha é obtido concorda
+média geométrica entre o índice de
+quantidade de espera e o índice de
+quantidade de pachi beleza em uma cesta
+de oito produtos com seus respectivos
+preços e quantidade nas épocas um e dois
+e as seguintes informações a ele deu
+aqui né pra facilitar nossa vida aqui
+aí ele falou que pj aí é o preço do
+produto e na época jmp que j aí é o
+quantidade consumida do produto ir na
+época j tá aí foi tomando com base na
+época um então época um é o período base
+está como antes índice no período 1 e 2
+tem-se que incide ficha preço ao
+quadrado e índice difícil de de
+quantidade ao quadrado são
+respectivamente
+então galera a gente vai ter que achar o
+índice de ficha tanto de preço quanto de
+quantidade nem estou vamos ver aquilo
+como é que eu faço isso há muito difícil
+de preço de fp
+ele é o que a média geométrica entre o
+aspecto preço né o índice perde preço
+vezes pachi preço né
+o índice de pachi de preço então fazer
+ela espera que primeiro eu acho p como é
+que eu incidindo as pérolas pev
+considera os preços
+no peru a gente está com a não ver aqui
+ó
+como a gente está calculando que nos
+fere preço a gente vai manter as
+quantidades nos períodos básica
+essa é uma dica pra você lembrar da
+fórmula 1
+aqui vai ser sempre as quantidades no
+período base e aqui você não terá entre
+o preço atual e o preço-base tá então
+aqui a gente forma forma nossa forma
+linha que é ter no tempo atual fez a
+quantidade no período base / preço-base
+vezes a quantidade base né então a p2
+que um é o que 1.600 né beleza p1 que 1
+800 corta 010 aqui ó
+o 16 vai morrer conta que vai ficar dois
+né tá se acoplou hoje pelo preço agora
+que vai calcular a paz presta
+mais uma vez aquela dica
+o agente está calculando o preço então a
+gente como é pachi paz considera os
+preços quantidades na época atual tá não
+opep com base então é dois e dois
+e aqui a gente é o terra também vai
+ficar p 2 e p1 que nem esperta é uma
+sede para você lembrar da fome
+tá aí p2 q2 mas sim o que 1.400 / quanto
+pergunto que dois pergunta e 2 a 1 640
+corta 100 aqui a gente pode dividir por
+dois em cima e embaixo vai ficar 70 sob
+32
+simplificando por dois novamente dá 35
+sobre 16
+tá então a gente já pode calcular que o
+índice de preço de fischer é o que
+espera o preço que deu dois meses
+acho preço que tem 35 56 16 encosta com
+dois aqui vai ficar oito aqui embaixo
+só que ele está querendo ao quadrado
+havendo então arraes vai assumir né
+então vai ficar só 35 sobre 8
+vamos fazer aqui então 35 / 84 3232
+alternativa só começa com quatro então a
+a não pode haver tem quatro a 74 a dream
+e aí não pode eliminar essas três fica
+entre as duas nem precisa que ocorre e
+nem terminar essa conta que porque os
+dois são 4.385 né então beleza vamos pra
+o fischer quantidade agora fischer
+quantidade ele é uma média
+beckham de lá espero quantidade vezes
+pachi quantidade beleza então vamos
+colocou as pernas quantidade como é que
+eu com aspecto quantidade
+vamos naquele uma setinho aqui a gente
+está vendo a quantidade quando a
+quantidade a gente considera o preço
+como elas pé a gente considera o preço
+no período base então vai ficar aqui p
+um ip um aqui embaixo já a gente vai
+multiplicar aqui porque dois que um réu
+tem a mania que é a mesma lógica do ano
+está então ó vai ficar p um t2 conhece o
+que tem um quê de 2 641 que 1 800 00
+aqui sempre fica aqui por dois vai dar
+32 sobre 40
+sempre fica por dois de novo vai ser o
+que 16 sobre 2010
+e aqui vai ser o que diz vai ser 8 sobre
+daí né
+beleza não deixar por aí
+agora a gente vai fazer o pacha
+quantidade mínima 7 a quantidade então a
+gente vai manter o preço aqui só que
+agora é para a china então a gente vai
+no período atual toma preço 232 e depois
+a gente completa com que dois que um
+doutor pedro base respectivamente
+tá p2 que dois vai ser o que 1.402 que
+um vai ser 1.600
+há 40 anos a gente pode simplificar que
+por dois em cima e embaixo vai ficar
+sete oitavos né
+então vamos lá calcular o índice ficha
+de quantidade
+aí quadrado de loja e pede 8 sub 10
+vezes sete oitavos pode cortar 8 com
+oito
+mas sobrou que a raiz quadrada de sete
+sub 10
+só que como ele quer um quadrado de tiro
+raiz aqui então vai ficar 7 sobre idéias
+que é igual a zero 7 que a nossa letra b
+de belezinha tranqüila

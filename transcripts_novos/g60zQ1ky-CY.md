@@ -1,0 +1,1297 @@
+# Live Cauê Guimarâes (Coordenador de Estatística da EBANX) - Ranqueamento de atletas de Futebol
+
+- **URL:** https://www.youtube.com/watch?v=g60zQ1ky-CY
+- **ID:** g60zQ1ky-CY
+
+## Transcrição
+
+o palio surgiu o teu eu sempre gostei
+futebol eu jogo futebol e em 2012 eu
+assisti um filme melhor foi 2012/2011
+chamado money ball ela teve um filme
+depois e aí eu descobri que esse filme
+foi baseado no livro e eu fui atrás de
+comprei o livro ele o livro então é eu
+tentei fazer replicar o que havia no
+beisebol
+o que foi resolvido onde ler é pelo
+filme torno do brad pitt no caso o
+bilhete na vida real é futebol e em 2012
+é havia um site chamado futestat aqui no
+brasil e eu fui atrás deles para
+conseguir informações referente a
+jogadores passe certo chute certo e
+privadas eles me deram acesso ao sistema
+deles por 30 dias para testar só que
+para eu conseguir os dados eu tive que
+digitar uma um na mão então eu consegui
+só eu foquei eu resolvi trabalhar com
+jogadores de meio-de-campo que atuavam
+na série b porque série b porque eu sou
+torcedor do paraná clube e o paraná
+clube estava na série b naquele ana
+então acompanha o paraná clube e
+acompanha os conventos o paraná clube
+certa forma eu tinha ali um embasamento
+para poder verificar se o que eu iria
+fazer é condiz com a realidade
+e aí aí quando ele tem 30 vai ares mais
+ou menos a gente vai variáveis e o que
+me chamou atenção foi que quando eu fiz
+uma análise de agrupamentos uma nave de
+clã ser o paulo bairro que
+historicamente o melhor jogador daquela
+série b e jogava com o atlético
+paranaense e o ricardo goulart que
+jogava no goiás eles estavam no mesmo
+clã ser um jogador do paraná clube
+chamado wellington e ninguém falava do
+wellington tu no wellington era com
+tosse um jogador mediano do paraná e na
+minha opinião como como jogador como é
+que alguém que ele gosta de futebol para
+mim wellington é o melhor jogador do
+paraná clube e tu não deixava quero
+lúcio flávio então é para mim ou é só
+lembrar que eu tô que o lúcio flávio
+quando eu vi o wellington no mesmo clã
+se ele paulo bayer e ricardo goulart e o
+ricardo goulart não seguinte estourou
+foi para o cruzeiro você me ligaram eu
+percebi que ali tinha alguma
+possibilidade de seu volume no estudo
+é incrível essa foi a ideia aí o insight
+que eu tiro para começar a trabalhar com
+w
+é muito bom cara e é interessante que
+não ficava é um presente assim olho nu
+né mas quando você conseguiu aplicar ali
+a a cristalização esse se destacou ana
+sim e aí em 2014 eu queria fazer
+doutorado métodos numéricos até e eu
+tinha um problema eu não tinha assunto
+eu não tinha algum tema para para
+estudar e um dia conversando com o
+professor professor anselmo e sobre o
+futebol que ele gosta você é bom uma
+conversa de corredor comentei que tinha
+feito esse estudo ele falou porque você
+não faz o tese um projeto de tese nessa
+linha e eu falei mais isso gera uma tese
+da uma tese dele falar se for bem
+embasado se der um produto no final pode
+pode virar e aí eu fui estudar foi
+vários cursos do curso era sobre
+evaluate the atletas mini vários cursos
+aí em são paulo sobre o desempenho de um
+a drenagem desempenho jogador de futebol
+focado principalmente para os counters
+que eles chamam e dos times de futebol
+do corinthians atlético mineiro conheci
+vários deles e o vick não quer levar
+conhecer lá em são paulo e professor que
+tem lá do acho que não lembro você da
+usp ele trabalha muito com ele fez a
+previsão na nariz da copa do mundo né
+porque a alemanha é um copo o nome dele
+mesmo você eu não conheci ele eu eu vejo
+um menino que a renée era o nome ele era
+da e fez doutorado em educação física
+estava estudando algumas situações de
+jogo transições e mas mais com foco em
+educação física não é esse cara ele fez
+uma modelagem muito louca lá com modelos
+de pó som caramba e tal por ficou ficou
+muito louco vai para a apresentação dele
+desse na pia nós simpósio de
+probabilidade e estatística que eu
+participei quando eu tava na graduação
+ainda é o o nome eu vou eu vou lembrar
+depois
+o do aluguel qual é o professor mais
+cedo é muito bom nesse assunto depois
+você inclusive a gente tem também o
+mestre tá catar né daniel takata não sei
+se você conhece ele tem um esportistico
+né no youtube que é um canal de
+estatística para esporte né ele falou
+professor na em si e ele a comentarista
+também da da spm também muito legal foi
+ele que fez o senhor me deu uma
+avaliação da natação brasileira e tem
+chance de medalha atualmente é com ele
+mesmo ele veio aqui conversar com a
+gente uma lá eu tenho ele como conexão
+no linkedin mas eu nunca nunca troquei
+uma ideia com ele adiciona o canal dele
+canal dele é muito bom esportistico eu
+vou botar até o link aqui aí depois
+vocês dá uma olhada
+e não legal legal
+é mas fica à vontade aí você vai
+compartilhar um ppt com a gente boa
+beleza basicamente essa foi a motivação
+aí do do meu estudo beleza
+e e
+o próprio de bbt
+e aí
+oi e aí a partir dessa conversa com o
+professor anselmo e com alguns outros
+professores do programa de metros do
+metro de terraria eu decidir estudar
+futebol um viés de estatística
+bom então como eu comentei gosto pessoal
+com o tema e o voleibol 2011 algumas
+matérias teve um rapaz que são no exame
+alex burgundy ou um tanto que ele até
+foi acho que são miguel o diretor do são
+paulo ficou dois três meses são paulo e
+figueirense ele também usou um metro ele
+sua pesquisa operacional para este mar
+só que ele não abria o que que ele fez
+ele só dizia baseado nos jogadores de
+cada time quais seriam os clubes ficar
+em primeiro segundo terceiro quarto
+antes do campeonato ele novamente
+acertava setenta por cento então aí a
+partir dessas informações eu resolvi
+fazer um projeto de doutorado nisso
+e como eu comentei ensaio utilizando
+vários grupamentos em 2012 que eu a
+série b 2012 para fazer um ensaio o
+resultado foi esse daqui e se lançarem
+uma versão antiga ainda que eu peguei e
+jurei todas as variáveis que eu tinha
+depois o que o treco mais baratos mais
+fácil sentido que o senhor por meio de
+campo e aí e aí que aconteceu do éden o
+paulo by ele ricardo goulart ficar no
+meio de cá mesmo trança aqui tá ainda
+tem um pouco bagunçado mas o olhar o
+wellington para o baile tom eles têm a
+distância entre eles é bem pequenininha
+trabalhando e pelo método word e os
+anjos tá sempre diana quadrada
+bom então é a partir daí já teve a
+motivação para o estudo pensando nisso
+eu fui atrás desses cursos de são paulo
+com os oleiros com os observadores para
+saber se os clubes utilizam é
+estatística para a gestão e contratação
+de jogadores e sempre fazem isso como
+qual tecla que qual técnica que eles
+usam qual o objetivo em quais lugares do
+mundo
+e eu te encontrei encontrei que eles não
+que apesar do futebol ter nascido em 85
+tem evoluído no aspecto físico tático no
+técnico existe muita subjetividade no
+meio principalmente quando o objetivo é
+determinar o desempenho do atleta
+avaliar um atleta
+e por exemplo essa tela dentro da do
+start start um software e mensura as
+informações dos jogadores tô aqui tem um
+jogo entre o santos o coritiba fez 0 a 0
+logo e aqui que eles trazem as
+informações pontuais dos jogadores tati
+é uma análise exploratória de dados das
+ações do jogador naquele jogo dá uma
+legal gozo o carlinhos não fez um gol
+chutes a gol um sonho uma bola faltas
+ele não cometeu nenhum mas sofreu duas é
+ações com sucesso 71 de 56 total 79 por
+cento 5671 total 79 por cento e por aí
+vai basicamente o que eu vi em todos
+esses cursos em todos os lugares que fui
+em todas as fontes de informação é
+estatística descritiva e análise
+exploratória de dados é um consórcio
+esse no status ou não não é acho que
+nenhum deles que eu trouxe aqui é o
+pelos fortes
+e o pensar se o único é o que usei para
+fazer a minha minha tese é o ruim
+esporte.com beleza então aqui o start
+não é o pen sorte mas eu consegui uma
+mostra informações com um representante
+deles
+e aí luan ainda sobre o carlinhos não
+decisão contra o santos lutas corpo a
+corpo com sucesso muitas no ar retirar
+então tem muita variável tem muita
+informação mas informação pontual
+informação discreta
+e aí ainda não está ti ele faz um resumo
+dos times é um terá o cruzeiro esse
+campeonato terá 41 gols marcados nos
+primeiros 15 minutos foram três e 15 a
+30 minutos por 15 e por aí vai também
+informações pontuais não tem nada de
+extrapolação aí
+oi né oi a lição de artes na verdade nós
+de 15 na porcentagem relação as três
+próxima tem de beleza
+o outro sofre vídeo observa é um
+software também é pago e ele faz um
+relatório zinho ao final de cada partida
+sobre o que aconteceu aquele jogo são
+dezenas de telas então por exemplo aqui
+o jogo do flamengo corinthians e são
+paulo da libertadores aí os jogadores
+não escanteio é que havia o corinthians
+sofreu seis escanteios e pelo joão é
+apenas um foi conseguido por parte do
+adversário já tem uma análise mas ainda
+não é uma análise é uma análise de
+alguma na lista que observou o jogo e
+ele concluiu essas situações então ele
+concluiu que o clube de ser com os
+jogadores andar dentro da área
+preferencialmente defendem a zona forma
+linha de quatro jogadores da pequena
+área então são informações muito
+pontuais não tem nada que te dê mais
+informação do que isso que tende a qual
+o jogador que é bom qual que não é
+e aí o vídeo observa no final do jogo
+ele fará o melhor jogador da partida ele
+chama usando a chave foi o elias ele
+conseguiu um bolo ou um belo gol feito
+após realizar uma combinação do meu
+campo demonstrou seus jogadores consegue
+matar os outros sempre íngreme nível
+pontos fortes aí ele disse alguma alguns
+pontos para os pontos fracos algumas
+informações relativas a chutes a gol é a
+parte defensiva como que ele suportou
+porque mostrar o que existir até aquele
+momento sempre análise objetiva pontual
+a única ele fica no campo podem ter
+falta ali sofreu falta e por aí vai
+e o outro softer em são paulo e se usa e
+aí na verdade a maioria dos clubes no
+tanto no brasil quanto no mundo usam
+esse software aqui para tabular dados e
+o que que você sofre faz então você vai
+ter vai ter um analista tabulando
+opiniar e o outro análise acabando tmbr
+e aí tem essas ações cara sãozinha tem
+um botãozinho que você clica para para
+atribuir a ação profunda terminar o
+jogador clica no jogador por exemplo aí
+no campo e na ação e aí ele já vai
+marcar essa ação
+e vai jogar essa informação direto no
+banco idade que vai resultar nisso aqui
+tem uma planilha então ele marca ali por
+exemplo wilson júnior passou três vezes
+a bola para o eduardo o eduardo passou
+uma vez a bola para o nilson júnior
+então tem todas as conexões de jogador a
+jogador do mesmo time e aí tem algumas
+informações a mais se ouve passa errado
+se houver interesse passam falta
+recebida a falta cometida desarme rebote
+essa é forma que os times uma forma
+geral trabalho ele tem uma larissa
+desempenho ou mais um que ficam é
+preenchendo apertando o botãozinho
+quantas vezes eu jogo para gerar essa
+para integralidade e essa qualidade eles
+vão trabalhar pensando em melhorar a
+situação do clube nos próximos olhos
+o final daquela planilha daquele daquela
+tabulação vai gerar esse resultado então
+o melhor finalizador do paulista no
+campeonato paulista para dar de batismo
+77 por cento mike 77 por cento e por aí
+vai então novamente uma informação bem
+básica e bem fácil conseguir e os clubes
+tomam decisão e isso que me me chamou
+pouco atenção baseado nessas informações
+então esse tempo atrás eu não deu para
+2015 o são paulo que é contratar um
+ponta-esquerda veloz e aí ele viu qual
+que é o jogador mas o maior maior taxa
+de dribles corretos jogando a ponta
+esquerda
+é algo bem básico mas é muita informação
+será que esse jogador seria o melhor
+jogador a ser contratado nós valeu parça
+valeu cruzamento tá vendo eu
+simplesmente o percentual de acerto de
+dribles na ponta esquerda
+e pensando nisso primeiro ponto
+motivação eu vi que não tinha o que eu
+queria desenvolver eu queria dar uma
+nota congelador eu queria falar que o
+cristiano ronaldo 10 outro mestre 10 ou
+20 anos falar de enorme então é pensando
+nisso eu tentei descobrir se as partidas
+de futebol são decididos por talento ou
+por sorte
+e eu descobri é que já foram feitos
+testes nessa linha para tentar
+identificar isso se for por talento que
+eles uma loja na competição e portanto o
+evento passivo de uma representação
+matemática por outro lado caso seja
+fruto de sorte os jogadores possuíram
+papel limitada dentro do espetáculo
+basicamente seu se eu conseguir provar
+que a por talento que o jogo é definido
+eu consigo trabalhar matematicamente nem
+seja limitada a um percentual menor mas
+eu consigo fazer alguma coisa
+o caso contrário não em virtude do
+aleatório eu não tenho como trabalhar
+com isso
+oi e aí eu busquei na literatura vários
+várias informações e um estudo do lloyd
+2008 e estudou 1.200 jogos durante três
+anos na alemanha da primeira divisão da
+alemanha e concluiu que sessenta por
+cento dos são marcados como resultado da
+capacidade atlética ou técnica de uma
+equipe enquanto quarenta por cento
+relativa ao acaso ainda ele estudou
+outras ligas da europa encontrou com o
+número de gols a casos viu para 46 por
+cento então sessenta por cento é marcado
+em virtude talento 40 e de tudo do acaso
+e nas outras ligas 54 em relação ao
+talento e 46 em relação ao acaso outro
+outros dois pesquisadores o anderson cl
+eles visitam casas de apostas
+laboratórios e clubes analisaram
+milhares e partidas são miguel mais de
+10 mil partidas de campeonatos europeus
+e copas e chegaram à conclusão que
+cinquenta por cento dos gols são devido
+acaso ea sorte os outros 50 relação
+a ideia é
+é mais um estudioso lemes em 2006
+assistiu a vídeos e mais de 2.500 gols e
+aí que eu achei legal buscando em cada
+um durante a jogada inteira
+circunstância acessórios e colocou aqui
+em 44 por cento das vezes houve durante
+a jogada que resultou no gol um fato do
+acaso que se não tivesse acontecido não
+teria sair do gol esse percentual é esse
+percentual apresentam pequenas variações
+um país para país para o outro resumindo
+eu trouxe aqui três estudiosos tem mais
+as tem cinco seis que trabalham nessa
+linha mas fica em torno de 50 50 60
+porcento o talento e cinquenta quarenta
+por cento o acaso então dá para fazer
+alguma coisa aí dá para tentar dar para
+tentar trabalhar modelagem matemática
+nesse cinquenta a sessenta por cento e
+aqui logo seus clubes poderão melhorar
+seus processos seleção de jogadores isso
+mas existe uma possibilidade do controle
+do jogo ou seja de ter dentro mais
+importante do sport ogol
+é controlado e até sessenta por cento
+das ocasiões
+e o fermento do no dia que usei no
+estudo eu coletei 84 variáveis relativas
+a performance dos jogadores cinco
+variáveis e características bater fio 62
+oriundas de avaliação subjetiva 67
+variáveis criadas a partir das
+anteriores e quando gil variável criada
+por ter variável criada por exemplo de
+uma variável que é o total de chutes em
+gol do determinado jogador e eu tenho
+uma outra variável que ao total de chute
+certo em gol desse mesmo jogador eu
+criei uma terceira variável percentual
+de chutes certos em gol por esse jogador
+oi e aí o creio outras várias por
+exemplo eu tenho quanto tempo que ela
+jogador jogou eu creio a taxa de surtos
+por luto de cada jogador eu fui criando
+algumas variáveis para compor o meu rol
+de informações trabalhei com 238 time
+c8800 atletas liga da inglaterra
+primeira e segunda divisões espanha
+itália alemanha holanda frança e brasil
+temporadas de 2013/2014 14 15 16 e 17 no
+campeonato europeu 14 15 16 17 do
+campeonato brasileiro os campeonatos
+europeus eles começam em agosto e vão
+até mais ou menos maio do ano seguinte
+por isso que sempre são 12 anos e o
+campeonato brasileiro na verdade é um
+ano só começa e termina no próprio ano
+beleza demais população e amostra
+fizeram parte da mostra todos os
+jogadores que
+há 400 minutos jogados no mesmo
+campeonato e no mesmo clube porque
+principalmente no brasil no brasil tem
+jogador que jogou em 3 cores diferentes
+o meu campeonato
+bom então eu considerar ele amor na
+minha mostra ele tem que ter jogado no
+mínimo 400 minutos em cada campeonato e
+no mesmo clube tem dizer 400 minutos
+porque 400 minutos da equivalente a mais
+ou menos cinco partidas completas de um
+pouquinho menos cinco partidas completas
+e se eu é diminuir palhaço seu aumentar
+o rigor colocar 800 minutos ou mil
+minutos jogados mesmo campeonato eu vou
+ter pouca pouco jogador
+e como análise fatorial eu tenho muita
+variável eu preciso ter também uma
+grande quantidade de informações não os
+testes futuros vão dar que eu não
+consigo usar análise fatorial para
+aquele conjunto de tarde
+e eu destruí seu afrontas ao quesito
+para 200 minutos cem minutos eu vou
+penalizar vários jogadores que jogam
+dois três minutos entre um faltando 3
+minutos para acabar uma partida e aí um
+jogo já tá definido e entra ele só para
+compor então esse jogador tem muito
+menos chance de pegar a bola dependendo
+da situação eu posso penalizar ele então
+eu tenho 400 minutos que ficou meio
+termo bom para o para análises beleza
+a coleta e tratamento de dados eu
+trabalhei com 33 bancos de dados
+diferentes e aí o meu maior problema foi
+interligar os bancos criar o
+relacionamento entre os bancos criar um
+mice para cada jogador dentro de cada
+banco eu trabalhei com a minha principal
+base um banco de dados uma empresa
+inglesa
+me responde porque ela disponibiliza no
+site o hall de estatística individual e
+coletiva e 18 de 18 ligas de futebol
+profissional ao redor do planeta o site
+chama-se whoscored.com
+oi e aí o seu fiz eu cortei os dados
+após a finalização de todos os torneios
+aqui eu criei um robozinho para ir lá
+buscar informações para mim é
+e esse aqui é o software na cara dele
+por exemplo gabriel jesus tava no
+palmeiras 19 anos a ele atua de aquela
+sigla a ml e sw que atua tanto pelo
+médio lado esquerdo ofensivo quanto como
+atacante jogou 19 minutos é desculpa sua
+19 jogos e entrou um ele tava na reserva
+jogou no total 1709 minutos marcou 11
+gols e quatro assistências e sete
+cartões amarelos e por aí vai então
+entre o site do score.com i o
+whoscored.com tem uma outra informação
+legal que ele já tem uma nota ali no
+final reiki já ele já tá uma nota para
+os jogadores e eu quis entender se essa
+nota qual que é o processo dessa moto
+essa nota alguns bem subjetivos então
+quem tá assistindo a partida
+e até alguns botõezinhos na recuperação
+do jogador ele vai contando mais o
+contando menos por exemplo é um jogador
+que começa a todos jogadores começam a
+nota 6 na partida acertou um passe muito
+difícil ele ganhar 002 acertou um passe
+faço ele ganha 001 ele é bom parte faço
+ele pede já fizeram
+e fez um gol ele ganha um ponto fez o
+segundo gol ligar mais um ponto e como
+que eles definiram isso até entrar em
+contato com o site de forma arbitrária
+não foi feito nenhum estudo mais ou
+menos eles eles definiram de acordo com
+o que eles achavam que era razoável por
+exemplo um gol vale dez vezes mais que o
+buzz buzz muito difícil então é baseado
+nisso ao final do jogo já era uma nota e
+a média de cada de cada produção quer
+uma nota e a média das quais as partidas
+gera essa nota aqui de rating
+e isso é o leite e depois até uso ela em
+algumas análises que eu faço um negócio
+meu segundo o banco de dados chama-se
+transformar que é um site que ele tenta
+mensurar o valor do mercado dos
+jogadores e quando tem uma transação
+real e ele ele coloca o valor correto no
+site então ele tem um valor e é o real e
+ele tem uma estimativa de valor para
+cada jogador existe martina ele leva em
+conta o salário do jogador o tempo de
+contrato e o valor pago na última
+atualização a cara do site essa daquele
+por exemplo neymar quando jogava no
+santos preso dele era bem baixo e o
+valor atual do mercado além 2016 hora de
+85 milhões de libras valor estimado
+então é esse site para uma segunda
+informação uma segunda fonte de
+informação que eu usei e por fim o
+terceiro site então sai
+o último disso deveria usar ou não ele
+no meu trabalho é um um site do jogo de
+futebol a grande né no site um banco de
+dados um jogo de um jogo de futebol onde
+eu sou um técnico de uma equipe ou de
+algumas equipes o nome do software outro
+simulador é futebol manager e futebol
+menos já existe um simulador que disse a
+mais de 25 anos e eu peguei atenção de
+2017 pra eu poder fazer para poder fazer
+para conectar o novidade dele que
+acontece futebol manager tem 700 mil
+jogadores cadastrados na plataforma um e
+como que funciona não sei se você
+conhece o site o simulador thiago mas
+basicamente você escolhe o time quando
+você entra no jogo a paraná clube e aí
+tem todos os jogadores do paraná clube é
+real são jogadores de verdade e cada
+jogadores ao atributo a o jogador thiago
+alves
+a velocidade dele vai ter uma nota de 1
+a 20 vinte integral muito rápido e um
+significa que é muito lento então este
+male foot né isso só que ele tem 60
+atributos tem velocidade tem arrancada
+tem isso de tem drible tem falta
+escanteio mas são todas as informações
+arbitrárias dadas por um dos oleiros
+distribuídos em 51 países então futebol
+manager ele tem um ele tem 1.300 oleiros
+é que preenche essas informações sobre
+cada um dos jogadores é uma formação
+subjetiva de um olheiro e ele recebe por
+cada relatório que ele apresenta o
+estimulador entendi
+o que são os profissionais que já estão
+em alguns clubes e aí você recebe uma
+renda digamos extra para fazer esse
+trabalho
+e eu e como eu trabalhei eu fiz várias
+análises eu comecei com análise
+exploratória de dados para entender cada
+uma das variáveis depois de uma análise
+câncer é para entender se havia como
+aquele exemplo do paulo baier do perto
+eu comentei no início da apresentação
+sim aqui é a relação entre esses essas
+observações eu também fiz maionese
+crescendo entre as variáveis para me
+servir a relação entre as variáveis e da
+análise análise r e modo que ele diz uma
+análise de regressão também trabalha com
+componentes principais análise fatorial
+análise e correlação e por fim
+programação inteira
+e eu né popular que eu vou pular que
+analisou a atualidade análise clã ser
+que vai comentei porque eu sobrei elas
+entrar na live sem direção
+oi beleza a mais agressão eu resolvi eu
+tenho mais ou menos umas 220 de 30
+variáveis mas nesse momento que
+trabalhar com as variáveis só do site
+whoscored.com e pela nota dada pelo site
+do pelo próprio site do score.com e aí a
+partir dessa dessa dessa 130 variáveis
+eu fiz uma análise de regressão e o seu
+processo de tatuar eu comprei valor
+inferior a 5 porcento para manter as
+variáveis em um modelo fica um
+r-quadrado aqui diesel 81 requadrado
+ajustado 0 78 22 variáveis selecionadas
+oi e para essa moeda a detalhe essas
+variáveis esse estudo foram estudo
+pontual para os jogadores que jogam pelo
+lado esquerdo do campo como médios
+atacantes é uma posição do neymar ficar
+mais claro posição do neymar joga
+o serviço só para essa posição porque eu
+queria entender com neymar é uma
+jogadora hoje mais badalado eu queria
+entender se o neymar tá em primeiro
+lugar na no estudo
+oi e eu queria ver quase sempre a vez
+que que influenciavam esse haveria
+influência na nota dada pelo site aí eu
+encontrei lá que as variações nos ativos
+promessas aqui ó altura espetinho do
+atleta número de 12 por hora marcados
+pelo atleta número de partes cargo por
+hora que eu tô até faz sentido não
+jogando na 66 parte no meio factory
+esquerda então assistência por hora
+vitória do atleta número de vez que
+acerta tudo igual diversario por hora
+taxa de dribles bem sucedidos taxa de
+duelos aéreos em seus planta leta total
+de passe curto por óleo território do
+atleta número de vezes que o atleta não
+dominou a bola e perdeu o número de
+interceptações por hora certa efetuou ou
+seja o número de interceptações
+teoricamente é uma variável defensiva e
+o quê que isso quer dizer que ele tá
+roubando uma bola lá no ataque a chance
+dele ficar mais próximo fazer o gol
+aumenta
+que estão aparecendo algumas variáveis
+de cunho defensivo para jogadores
+ofensivos e por aí vai só essa daqui as
+variáveis e nesse estudo de regressão e
+aí você confrontou com o subjetivismo lá
+do ratinho dos caras é isso isso e deu
+certo 79 regressão
+e o que acontece eu peguei então esse
+roda variáveis e aí eu joguei elas na
+minha análise fatorial só que eu não
+peguei só essas 22 eu peguei essas 22 e
+peguei mais todas as outras do messenger
+e para compor um bom maior dvd de
+variáveis mas então você fez a mais
+fatorial antes não é isso depois de
+cuidar daquilo que eu fiz a regressão
+para ver se essas variáveis são
+significativas para depois jogar isso na
+análise fatorial na verdade eu tava
+estudando eu ah tá entendi o meu
+objetivo aqui era vez fazer sentir você
+não fazia entanto carrega só nem
+coloquei a minha tese eu fiz estudos mas
+eu acabei não colocando ela na terra
+estende aí olha o que geralmente a gente
+faz análise fatorial antes né para disco
+relacionar os fatores nem depois eu
+aplicar uma regressão sim às vezes e eu
+eu fiz mais só para entender se tinha
+relação com aquela variável é que era a
+nota atribuída
+e pelo pelo próprio site aí aqui deu os
+coeficientes padronizados variadas das
+variáveis avaliar mais importante de
+gamos ao índice de gols por hora que a
+primeira então sobra ter um entendimento
+eu utilizei análise de regressão como se
+fosse uma estatística exploratória de
+dados por esse é o meu objetivo entender
+meu conjunto de dados tem de se havia
+relação entre as variáveis eu tô
+trabalhando
+eu tenho certeza as correlações né isso
+e aí depois aí sim eu partir para
+análise fatorial e aí quando eu fiz
+análise de componentes principais e
+fatorial é eu fui eu selecionei algumas
+informações primeira delas eu quis
+trabalhar com a rotação e clímax porque
+não vai marques e porque não há a
+quadrimax porque eu até tentei fazer por
+elas e quando eu fazia por elas o
+primeiro fator na no caso da vale max
+ele de puxava muito as variáveis que
+estavam no primeiro fator e começavam
+muito no meu indicador final então
+antecipando um pouco eu pegava por
+exemplo o messi eo neymar é um
+e antes de eu pegar o messi neymar e
+cristiano ronaldo eu crime perfeito na
+minha base e eu criei um jogador muito
+ruim na minha base também jogando
+perfeito ele teria todos os valores nota
+10 e o meu vereador ruim todos os
+valores nota zero para poder dar um para
+poder mensurar semanários fatorial diria
+que este jogador depois no indicador
+sintético se jogadores ele ótimo ele ser
+o primeiro esse jogador ruim seria o
+último quando eu fiz análise pela vai
+mar e realmente deu que o jogador ótimo
+é o melhor só que aconteceu aí deu uma
+nota mil para o zelador ótimo e o
+segundo jogador para ganhar do meu
+pagamento que era ser o messi o nota 9
+ele ficou muito muito muito abaixo dos
+meus a dor perfeito e ele não era tão os
+valores eu coloquei para ele não é um
+tão
+os maiores do que é o mestre nas
+observações então por exemplo se o
+mestre fez 10 gols os lados aqui mais
+gols fez no campeonato fez ela 30 meu
+jogador perfeito tinha 30 gols eu não
+bloqueei sem gols para ele quando eu
+trabalhei com a padre marques pelo
+contrário a diferença entre o mestre e
+esse jogo do perfil ficou muito próxima
+e aí eu resolvi trabalhar com a e clímax
+chamar uma de campos um método ponderado
+entre as duas e aí eu achei que os
+resultados ficaram melhores para eu
+selecionar as variáveis criticaram que
+foram nesse carro na verdade fatorial eu
+trabalho aqui no comunalidade acima de 0
+70
+o indicador e vai ser a minha nota final
+escola faturar estimado pelo percentual
+de explicação de cada fatura
+e não parece tempo aqui para os
+atacantes eu separei posição tá
+bom então eu tinha lateral direito e
+esquerdo eu fiz uma análise zagueiros
+fiz uma segunda análise goleiros uma
+terceira análise médio defensivo pelo
+centro médio central médio pelos lados
+do campo médio ofensivo e atacante eu
+falei por essas posições
+o resultado para os atacantes resultat
+cartão a km o quanto o teste do bart
+indicaram que o conjunto de dados pode
+ser usado para dar esse tutorial
+a análise fatorial ficaram oito fatores
+que eu trabalhei com os atacantes
+primeiro fator explica 28 por cento da
+mariana e seu segundo onze por cento e
+assim por diante somando o total de 84
+quase 85 porcento aí da variância
+explicada
+e ai tem as variáveis aí a sy joelho do
+primeiro beleza era um fator de um fator
+disciplinar se você vê ali o primeiro
+fator ldh se o jogador não levou o
+cartão vermelho e ele tá com coeficiente
+negativo o segundo tem um outro
+vermelhinho ali no primeiro fator o
+teste sofrido é uma variável coletiva
+que a taxa de gols sofridos aquele time
+aquele campeonato eu trabalho também com
+cinco variados coletivas desse rol total
+porque eu também queria de certa forma
+poderá a qualidade dos times
+bom então por exemplo e temos essas duas
+isso não foi vários negativas a taxa de
+gols que o time sofreu matar é um valor
+negativo e tá no primeiro fator além
+disso o tal número de jogos que o atleta
+jogou aqui o hoje apps tem a taxa de
+participação de gols também uma tarefa
+coletiva ou seja eu pego o total de gols
+que esse jogador fez e devido pelo total
+de gols que era o time fez eu quero
+saber na verdade não é só coisa é gols e
+assistências eu pego a cidade curso e
+arranjar assistências que se jogador
+teve é que você joga deu e pediu pelo
+total de gols que o time fez para saber
+a taxa de participação dele em relação
+ao time então quando seu aqui as
+variáveis que ficar no primeiro fator
+e é vaiado depois a joão se ele jogou
+participação dele nos gols taxa de gols
+sofridos se ele levou vermelho ou não
+cortar esse primeiro que ele levou e o
+tempo jogado e em horas aqui o tempo em
+horas que usaram 92
+e o segundo fator ele já ficou com
+variáveis subjetivas por exemplo ele
+técnica são todos os atributos técnicos
+e vieram do simulador do futebol manager
+futebol manager tinham é uma dessas
+variáveis que trabalhavam a terra em
+cada jogador como era uma variável
+categórica na nota de 1 a 20 que o
+goleiro dava para eu tentar para eu não
+ficar com uma bagagem multivariada de
+variáveis qualitativas que eu tenho que
+usar outro tipo de análise de análise
+multivariada eu tentei transformar essas
+variáveis quantitativas então eu peguei
+tirei a média peguei essas dez as 10
+notas que se jogador tem dentro da
+variável técnica e tinha média delas
+para transformar de um número mais
+razoável
+a quantidade ele mental são os aspectos
+mentais também subjetivo é ele física
+são os aspectos físicos então todas as
+informações que deram do futebol média
+pa é capacidade atual do atleta e o
+ceará ceará é capacidade futura e os e a
+capacidade atual também informações que
+vem do software ficaram todas um segundo
+fator terceiro fator taxa de gozo dentro
+da área é uma outra outro resquício da
+parte de participação de gols gols por
+hora e taxa de bolso então ficaram
+variáveis relacionadas ao número de gols
+e o que o atacante faz quarta quatro
+fatores ficaram é assistência por hora e
+taxa de assistências
+e então seus olhos é muito fácil não
+para o gol e assim por diante aí os
+outros fatores tem um peso menor mas os
+quatro primeiros aí já representa o
+direito cinquenta sessenta por cento da
+vale em geral a
+oi e aí o final de tudo isso e acontece
+eu vou tirar um indicador aí eu coloquei
+a indicador entre zero e dez tchau que a
+gente está mais acostumado a ver
+a temporada 2009 nésia o jogador o maior
+nota pra atacante ficou luiz soares e
+pouco indicador médio de 8:43 o que teve
+uma nota 18 e 19 em 2013/14 7/95 1415
+astronauta bem alta em 15 16 e 17 também
+tem uma volta relativamente alta então
+ele ficou na primeira posição é o mestre
+foi segundo e o cristiano ronaldo também
+ficou em quinto e por que que eu acho
+que faz sentido que está correto isso
+ah e por quê que o messi não tem
+primeiro porque não tô acreditando falar
+no primeiro porque tanto messi quanto
+cristiano ronaldo eles não jogam só numa
+posição
+e o messi ele joga na meia pela direita
+às vezes na 6 pelo centro e muitas vezes
+com o atacante o cristiano ronaldo ele
+joga com o meia pela esquerda e como
+atacante então é talvez eu rodasse na
+última temporada e o cristiano ronaldo
+jogou nas últimas duas ele jogou
+estritamente com o atacante pudesse ter
+valores diferentes mas como ele ele faz
+ações e meio de campo ele acaba sendo
+penalizado de certa forma e perde alguns
+pontos por exemplo muito fácil só falar
+com o atacante ibrahimovic ibrahimovic
+também só que o atacante lewandowski
+também só como atacante
+bom então esses três jogadores mesmo
+assim o mestre vai ficar na frente do
+hidra e do do lewandowski mas para mim
+faz todo sentido aqui os resultados
+encontrei e aí o legal parece por
+exemplo uma dores em 6º lugar e ninguém
+conhece ou não é tão conhecido no meio
+com thomas muller em sétimo é um jogador
+que atua em vários papéis
+oi e aí eu acho que a hotel legal porque
+por exemplo aqui o valor médio de
+mercado do soares ep 70 era de 74
+milhões quando o gerente os dados deus o
+mestre 120 milhões de euros mas o azules
+3 milhões de euros
+oi e aí já começa a ficar chama o de
+bola joga em que posição dele o dybala
+joga ele também trabalha atacante mas
+ele joga e-mail atacante outro atacante
+e aí foi penalizado também mas o de bala
+do seu olhar a gente tá olhando que 13
+14 14 e sem ele tá sim mas como pegou a
+média certa forma me impactou tanto é só
+que o de bala grande parada dele foi 18
+17 18 e 19 e aí eu não tenho que
+possivelmente ele teria valor dos
+melhores entender
+é muito legal terno show de bola
+com o varde quando o seu clube do varejo
+agora é o foi campeão olessia quando
+lessa foi campeão covarde que ele fez
+trocentos mil gols 2015/16 já teve uma
+nota 808 estão desempenhando eu estou
+realmente muito bom
+e ai se eu fiz pra continuar o estudo eu
+verifiquei algumas correlações a minha
+nota com a nota do site que o score.com
+hotel aquela nota média aqui tá aqui na
+tabela é a nota do whoscored.com eu
+também verifiquei com o valor do mercado
+a minha nota com o valor de mercado
+tabuleiro as correlações foram muito
+baixas tanto quando eu pego o valor do
+mercado quando quanto tempo quando eu
+pego a nota média cobrando do goleiro
+que eu tava estudando é os goleiros
+goleiro de time pequeno
+e é sofre muito e esses goleiros dos
+seus pequenos apesar de tomar muito gol
+eles fazem muita defesa então os
+goleiros quando eu vou fazer análise os
+em goleiros famosos do top 10 mas tem
+alguns goleiros desconhecidos e você
+pega por exemplo manuel é que o
+goleiro do bayern de munique ele aparece
+umas 50 na classificação 40 e pouco mas
+ele ele é um excelente goleiro só que
+fez poucas defesas e como eu tenho eu
+tenho pouco atributo para goleiro só tem
+11 variáveis e goleiro eu acho que acaba
+impactando aí na geração da minha nota
+variáveis defensivas também ela drs1
+colaterais e descer vamos zagueiros
+e também as relações elas já são baixa
+04 20 40 e quando compara com valor de
+mercado que hora ainda caiu um pouquinho
+por até 36 horas 34
+e agora quando começa a trabalhar com
+médios eo atacante as correlações com
+essa aumentar principalmente quando eu
+comprar a nota média do site com a minha
+nota atacante adoro 71 com relação
+bom então é o que eu concluo que o site
+ele da nota alta para jogador que faz
+gol gol passe assistência isso sim vai
+dar uma nota alta no site e no estudo os
+fatores ali o terceiro quarto fator
+tendência essa característica gols agora
+outros fatores por exemplo o zagueiro ou
+a parte de um metro e meio de campo que
+tá muito fácil lateral não faz tanto gol
+e aí a não gerou as minhas variáveis
+possivelmente são diferentes ou sejam
+diferentes as variáveis importantes pelo
+site para classificação arbitrária deles
+por isso que a correlação uma pressão
+alta mas também não filme com elas são
+tão baixas esperava algo pior estou
+usando 57 primeiro campo central deve
+super e 36 que atuam nas laterais do
+campo de forma ofensiva e o céu 53
+também pelo meio ofensiva pelo centro
+é porque eu quis eu resolvi pensar em um
+clube de futebol ele resolver se tem um
+orçamento e que deve contratar alguns
+jogadores então eu quero maximizar a
+nota sujeito um conjunto de restrições e
+quais são as minhas restrições o valor
+disponível o número de jogadores que eu
+desejo contratar
+oi e aí o número da atacante do remédios
+e assim por diante cara que você faz um
+bar tá trabalhando recheio de fazer um
+eu passei no trabalho fazer isso aqui
+resolvi fazer uma aplicação peguei os
+que eu iria trabalhar só com a próxima
+divisão inglesa porque é são jogadores
+de troca dos mais baratos 2016/2017 era
+o último ano que eu tinha na da sua josé
+inglesa eu tenho um orçamento de 10
+milhões de euros eu queria contratar um
+goleiro dois laterais um dia inteiro
+aqui são os jogadores
+e aí ele me dá gastando 10 milhões a
+minha nota média oito e quatorze e eu
+tenho deverá contratar seriam esses
+rapazes aqui e pagando esses valores
+para eu conseguir montar esse time
+quer dizer que foi ver é uma nota média
+bem alta 8.14 e jogadores bem baratos
+aqui o jogo é mais caro que só dois
+milhões de euros
+e não tem nenhum jogador aqui conhecido
+ou pelo menos que eu conheça
+é tão certa forma atenderia
+e aí quais são as limitações do estudo
+eu tinha disponível a linha chinesa liga
+de portugal a liga americana liga turca
+ligar russa ea segunda divisão da
+alemanha mas me deu muito trabalho eu
+tive que pegar aqueles 800 8800 8830
+jogadores um dos três bancos de dados e
+tentar relacionar eles por exemplo um
+banco de dados tá escrito thomas miller
+thomas milhas no outro banco está
+escrito sintomas com acento circunflexo
+no o miller no outro banco tava thomas e
+o milho ele tava com trema no eu tive
+que olhar eu diria que 18 mil que foram
+os quatro mil na mão para poder criar
+uma chave única e consegui ligar todos
+os jogadores eu colocasse mais jogadores
+outras ligas iria virar um caos eu não
+iria conseguir terminar a tempo
+o outro ponto é resultado de um trabalho
+de táxi méier né também outro ponto que
+até não comentei no início mas eu como
+eu comento na tese é teve um estudioso
+eu não vou lembrar o nome dele que ele
+propõe uma taxa de gols flutuante o que
+seria isso é o primeiro gol tem um valor
+maior do que o segundo gol e tem o valor
+mais do que o terceiro gol por exemplo
+soco tá zero a zero é mais você fez um
+gol esse gol é ele tem uma certa
+dificuldade ser feita agora o jogo das 5
+a 0 você fez o sexto gol esse jogo esse
+não tem não tem tanta dificuldade quanto
+teria aquele primeiro gol uma partida
+empatada em 0 a 0 entendi então essa
+ordenação esta ordenação de gols isso
+daí poderia trazer uma informação mais
+importante ainda pro meu meu resultado
+então o primeiro gol é mais importante
+que o segundo que é mais importante que
+o terceiro esse porque a gente não só
+assistência impasse
+o jogador e condição de marcar o gol
+contra zera mais difícil de ser dado que
+um passo quando tá 4 a 0 e aí eu
+conseguiria ter mais um rol imenso de
+variáveis traria mais informações e
+possivelmente alimento daria a melhorar
+o estudo não for cidade de forma
+individual todas as posições ou seja
+agrupei os meios meia-atacante pela
+direita e os meio atacante pela esquerda
+e um grupo só eu agrupei os
+laterais-direitos atrás esquerda no
+grupo só porque eu pensei que são
+situações similares dentro do campo de
+jogo mas eu acho que eu poderia ter
+estudado ele de forma individual só
+lateral-direito só atrás esquerdo e mais
+é também não fiz um estudo mais amplo só
+defensores só médio dos atacantes eu
+tentei trabalhar no meio termo das duas
+situações acho que poderia também ter
+feito uma análise mais marca e mais mais
+veículo variáveis categóricas subjetivas
+foram agrupados com
+eu nunca mais em contínuas talvez
+tirados tudo essas variáveis subjetivas
+mas como informação adicional eu achei
+legal colocar elas e testei sua mente a
+rotação pergunta sempre marques poder
+testado outras votações para outras
+posições e fiz um teste weber marx para
+os atacantes e aí a partir de gesso usei
+e clímax para todas as outras posições
+talvez eu pudesse ter testado também nas
+outras posições e dentro de ter
+acontecido
+o que é isso caramba hein show de bola
+que agora vem sair muito bom muito bom
+trabalho show de bola quer então só peço
+para diz compartilhar e a gente abre
+aqui pode abrir uma pergunta então
+e foi loucura mesmo eric o cara puxou lá
+do canivete suíço pegou a programação
+inteira com análise fatorial com
+regressão jesus cristo é
+e foi um baita estudo
+e a gente pode abrir não para pergunta
+né quem alguém quer fazer alguma
+pergunta tinha mandado aqui
+é só para conquistar eu voltei aqui o
+link também lá do canal do esportistico
+daniel takata é
+e aí o eric falou que hoje está cada
+cada vez mais time de futebol está
+investindo de profissional de analista
+de desempenho e
+e aí
+e o marcos está falando aqui excelente
+parabéns mateus parabéns eu acho que o
+erik perguntou se eu apresentei outa
+paraná clube na verdade eu procurei o
+paraná clube eu falei com dois
+presidentes do paraná clube eu falei que
+trabalha de graça para eles fui ignorado
+para analisar adorado tentei adicionar
+vários gestores de futebol tem até
+alguns deles no meu linkedin muito não
+responderam adicionei alguns técnicos do
+futebol aí alguns técnicos bem famosos
+ou qual eu vou te apresentar o diretor
+do flamengo cara ele é meu alguma na
+comunidade estatístico pois vai adorar
+saber que ele gosta muito de análise das
+inclusive ele usa
+e ele tem já trabalho nesse sentido é
+hoje apresentar o pedro com certeza vai
+ser muito legal cara esse trabalho aí
+acho que pô dá para aplicar e
+transformar um baita produto aí cara
+sensacional muito bom é eu tentei aqui
+em curitiba que é que tem 3 lentes luz
+paraná coritiba e atlético tentei nos
+três não tive sucesso o coritiba até
+tentou me ouvir mas aí mudou o diretor e
+assim eu percebi que o estado do paraná
+agora atlético paranaense rivaldo do
+paraná eu torço mas o atlético ele está
+se profissionalizando o curitiba paraná
+são muito amadores e eu percebi que em
+são paulo já tá um pouco mais
+profissional corinthians palmeiras
+santos já tem uma equipe normalmente são
+educadores físicos e eles puxam para o
+lado deles junto muito estatística
+descritiva mas já tem uma coisa
+flamengo-fluminense
+o rio de janeiro atlético mineiro
+cruzeiro tem mais é isso o rafael
+pergunta que poderia fazer uma escalação
+de time com esse trabalho
+eu falo com você fez né com problema
+assim né motivo por que que eu botei só
+a língua inglesa segunda divisão porque
+tava difícil conseguir eu tava com prazo
+apertado e eu precisava programar isso
+no lingo eu sofre de pesquisa
+operacional para poder rodar e eu tive
+de uma lenda que a senha é isso colocar
+na mão aliás os jogadores todos os
+moradores da língua inglesa então eu
+tava sem tempo para pensar como
+automatizar excel e vou dar para todos
+os para todos os clubes mas tá
+e o eric falou que mora em goiás em
+frente à sede de goiás vou dar uma
+sandália lá aí valnei falou excelente
+maldonado falou pensando em uma
+modelagem pensando em futsal e basquete
+quais as implicações eu nunca pensei em
+tudo sal e nem basquete é nunca parei
+para pensar eu sei que basquete
+possivelmente já deve ter alguma coisa
+bem evoluída porque os esportes
+americanos futebol americano basquete e
+beisebol de almoço análise estatística
+avançada há muito tempo não pesquisei
+não foi assunto mas imagina eu que já
+existe alguma coisa para o basquete o
+que eu fiz foi uma análise fatorial para
+eliminar um colega meu que gosta de
+desenhar ele me trouxe vários
+indicadores e usei mais umas essa mesma
+linha para dar uma nota para cada atleta
+de mma aqui legal pois tudo.ao estava
+uma ideia montam sorte e tal e aí eu fiz
+essa parte para ele
+o show o marcos falou que liverpool ser
+muito bem esse trabalho hoje está
+colhendo os frutos é eu mandei mensagem
+para o liverpool para o sítio também
+nunca recebi a resposta como que foi o
+tempo de processamento para rodar que eu
+droga até a roda rápido eu fiz tudo em
+saci eu sempre trabalhei consagrando as
+empresas e eu tenho um certa para cidade
+com os ases eu prefiro trabalhar com os
+as principalmente para manipular os
+dados que o esse monte de banco de dados
+integração entre eles conexões entre
+eles estava tudo em sasuke mas ele foi
+bem levanta rápido o que demora e quando
+o rápido chega dois três minutos é bem
+rápido mesmo o que demora é para
+estrutural das isso daí mesmo certeza
+é um rafael pergunta é possível prever o
+valor de passe de um jogador eu tentei é
+um subjetivos meus baseado na nota é
+prever o valor do jogador o que acontece
+as correlações foram muito baixas entre
+jogador e nota por quê porque tem muita
+out laia e muitas jogador com preço
+astronômico então aí tem que fazer um
+segundo turno terceiro estudo normalizar
+né mas eu tentei ali também não eu eu
+tirava variável trava jogador e o
+negócio não não com ver gia o eric falou
+o jogo cartola no sucesso deles usam
+esse trabalha no caso ele de repente
+você pode falar né com eles lá ver se
+interessa algum tentou não eu adicionei
+alguém trabalha na globo com análise de
+dados no linkedin ano passado o ano
+retrasado mas eu nunca nunca comentei eu
+tinha intenção de comentar com eles mas
+eu nunca nunca comentei não
+e vai rolar mas eu vou botar no youtube
+vai bombar isso aí o que me surpreendeu
+uma das variáveis e levante-se
+encontrada foi a altura dos jogadores o
+que mais me surpreendeu nesse estuda mas
+isso foi uma análise exploratória que eu
+nem usei são miguel nem me lembro de ter
+altura no meu no meu no estudo te dar
+uma olhada e era para os elefantes e os
+goleiros né mas aí aqui daquele era para
+mede o atacante pela esquerda essa vale
+a pena tá falando ah não eu tô apareceu
+se na fatorial mas ela apareceu lá no
+sétimo fator e é um fator que tava
+altura e pela planta cortar essa altura
+peso e condição física dentro do mesmo
+fator e é um fator que explicava e cinco
+porcento da variabilidade total
+a troca é planta coisa altura certa
+forma importante do lewandowski atacante
+alto e ela aí ela parece que também
+ficaram acho que cabeção né ficou mais
+na área e também o goleiro né acredito
+posso até dizer que eu do goleiro deixa
+eu ver que já te digo beleza que que eu
+só trouxe o atacante porque senão ia
+ficar lá não é não é e a noite é dentro
+aí mas o do goleiro deixa eu ver aqui
+que eu tô com ela ficou muito rico ficou
+muito legal
+ah tá goleiro
+o goleiro deve ter ficado ao segunda no
+segundo também ficou na de goleiro são
+nove fatores e ficou oitava faltou não
+doida é porque geralmente o goleiro que
+tem que ser a tem uma estatura mais alta
+né
+e eu acho né ele já escolhe os caras que
+já são mais altos mas altos né
+o hino de goleiro ficou no primeiro
+fator variável quando relacionadas a
+passe ferro puxar de boa bom então é
+isso que só obrigado aí calma aí mais
+uma vez parabéns aí para esse trabalho
+vamos ver se a gente consegue bombar vou
+falar com o pedro né é o diretor lá do
+flamerda e também vou jogar no youtube
+aí para ver se a gente consegue achar
+algum clube ou algum interessado aí no
+teu trabalho para seguir aí para forma
+fazer um produto skala time que seja aí
+beleza beleza antes de mais tarde turma
+boa
+e valeu pessoal obrigado aí também pela
+presença de vocês e forte abraço aí quem
+não conhece a comunidade estatística que
+também procura lá na código procurar lá
+no linkedin que a gente tá sempre
+fazendo live né a próxima live inclusive
+o arquivo falar para vocês o
+a próxima live vai ser mais cedo dia
+cinco do três e vai ser sobre análise
+multivariada também com aline cafruni
+graduada em estatística pela federal do
+rio grande do sul e tem uma estrada
+engenheiro de produção também pela mesma
+instituição vale então pessoal então
+aguardo você sair da caloi também está
+super convidado se quiser participar aí
+a próxima com aline e até o próximo
+valeu galera valeu mestre abração e
+valeu obrigado peço ela falou

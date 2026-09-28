@@ -1,0 +1,173 @@
+# Ícaro Zelioli - Apresentação no Power BI
+
+- **URL:** https://www.youtube.com/watch?v=o6XSM_ob5fo
+- **ID:** o6XSM_ob5fo
+
+## Transcrição
+
+E aí
+e
+fala pessoal Bom dia
+eu vou mostrar para vocês um pouquinho
+do nosso trabalho que fizemos lá na
+Universidade Federal de Minas Gerais a
+gente conseguiu no dashboard aí
+A análise de viabilidade de projetos na
+cama aplicação bem interessante onde a
+gente pode ir
+desenvolver muitas esquilo sair de um um
+processo de biais então eu vou mostrar
+um pouquinho pra vocês o que que a gente
+desenvolveu lá é isso que vocês estão
+vendo aqui é a carinha do nosso Daddy
+Korn os dados foram gentilmente cedidos
+aí pelo uma um grande amigo meu Danilo
+Braz
+foi na dissertação de Mestrado dele bom
+então nós
+utilizamos esse dados para fazer não
+análise é uma análise de dados mas não
+no termo que nós comumente conhecemos na
+análise que a gente fez uma análise mais
+de
+impactos estratégicos que determinados
+que piais podem ter no nosso projeto
+então análise de
+viabilidade são só para vocês entenderem
+Que tal - e aqui nós desenvolvemos a nós
+temos umas análise de cunho financeiro
+um exemplo né Tem muitas outras análise
+Aqui nós temos
+outras análises de cunho mais técnico
+tamanho também é um exemplo então se eu
+clicar aqui e ele me leva para a tela de
+análise porém financeiro onde eu tenho
+influência por exemplo de capix que o
+nosso capital
+no meu preço no meu preço mínimo de
+venda em o nado com a minha a
+competitividade de mercado aqui eu
+consigo fazer uma análise de
+volatilidade Então se o seu selecionou
+um cenário específico eu consigo ver
+qual é a média do meu MSP e qual que é a
+vó utilidade né que seria desvio padrão
+dele também consigo relacionar o meu a
+minha GPL o meu neto frases Belo e com o
+meu tablet e também outros indicadores
+aqui eu tenho um igual a indicando como
+que variam meu meu GPL como que varia o
+meu Playback né para eu ter análises
+mais
+é mas assim aprofundados a respeito de
+como que varia o meu Playback por
+exemplo que é um indicador e nascer
+importante em relação à a qualquer
+cenário que eu escolhi então ser
+escolher um cenário é o pior cenário do
+preço da matéria-prima
+ele consegue dar para mim os filtros
+cruzados aqui aqui eu estou no meu
+melhor cenário de capix
+e eu posso seu pegar o pior cenário de
+tapetes eu perco competitividade porque
+o melhor MSP Sobe aí também fica bem
+enrolado
+aqui eu tenho algumas informações
+mais aqui em média de cada cenário então
+conversão de celulose em glicose a gente
+está falando de uma biorrefinaria aqui
+então eu tenho várias informações legais
+a respeito do meu projeto e eu consigo
+ver o impacto de cada uma eu também
+posso mover a minha nazi do ponto de
+vista técnico
+como técnico eu escolhi a energia
+específica ou seja quanto de energia
+eu eu gasto para produzir uma tonelada
+do meu produto
+então aqui eu tenho
+um Gauge mostrando a energia média
+específica média como que ela varia né
+que eu desvio padrão efeito de variáveis
+técnicas então e por exemplo eu
+selecionei aqui extração de enzima numa
+etapa chamada organossolos e mas eu não
+vou entrar nos aspectos técnicos
+aqui eu tenho efeito de resto de
+conversão de reação química daqui é um
+parâmetro bem técnica na energia
+específica então se eu pegar o pior
+cenário das duas conversões eu tenho a
+maior energia específica na 104
+gigajoules por tonelada de produtos
+produzido
+então É bem interessante a gente pode
+ter um Panorama bem legal aqui do nosso
+da nossa viabilidade de projeto uma
+coisa que eu também achei interessante
+aqui essa carga de enzima numa das
+etapas do nosso processo não influenciam
+a minha energia específica
+agora o parte num tom Então esse é o
+nosso dashboard né Essa é uma Há uma
+possibilidade de aplicação
+da
+Mas eu também queria mostrar um
+pouquinho para vocês mas os aspectos
+técnicos do nosso do nosso projeto então
+eu vou aqui abrir o meu Power Claire
+é só para vocês verem como que foi feito
+todo o processo de em todo o processo de
+eu fiz um processo bem legal de
+GTR né Street transforme load
+Então
+vamos lá a primeira coisa que eu achei
+interessante de mostrar foi que eu fiz a
+minha carga de dados
+baseado nos ipython então eu escrevi
+esse script Python obviamente eu não
+escrevi aqui
+no editor de texto do powerbiarte porque
+eu achei um pouco eu acho um pouco ruim
+eu escrevi no visual Studio Mas isso não
+influencia e a partir disso todas as
+transformações que eu fiz foram no
+powerbiarte utilizando vamos pegar aqui
+por exemplo a minha tabela fato eu fiz
+todas essas transformações utilizando a
+linguagem e me né utilizando nosso
+editor avançado aqui Bom dia
+de transformações de dados então a gente
+fez uma modelagem conhecida como está
+esquina para poder
+transformar todos aqueles dados
+importados lá do Python
+na nossa tabela fato nossas tabelas de
+dimensão
+então aqui vocês podem ver que eu tenho
+uma tabela fato uma tabela bem grandona
+que ela vai me trazer todas as as
+informações que eu preciso Mas eu também
+tenho tabelas de dimensões né onde eu
+tenho as minhas primas aqui e aqui na
+tabela fato eu consegui por meio de
+linguagem M entre as minhas porém quis
+Ok e depois que eu fiz todas as
+transformações pelo por e TL eu vi eu
+queria uma modelagem de dados conhecida
+como está esquina onde todas as
+relacionamentos nesse caso específico
+são relacionamentos é um cara muito em
+relaciono a tabela dimensão com com a
+fora link da tabela fato então vocês
+podem ver que esse projetinho foi bem
+interessante no ponto de vista tanto de
+aplicabilidade de modelagem de dados e
+mecanismos de biais como também de
+aplicações de técnicas de transformação
+de dados Beleza espero que todos tenham
+gostado aí e fiquem ligados aí para mais
+conteúdos misturando engenharia química
+com
+a consciência de dados Valeu que só

@@ -1,0 +1,558 @@
+# Aula 8 - Distribuições de Probabilidade Discretas - Estatística (Versão Mobile)
+
+- **URL:** https://www.youtube.com/watch?v=jDb_bt-rdIY
+- **ID:** jDb_bt-rdIY
+
+## Transcrição
+
+agora a galera a gente vai tá falando
+sobre as distribuições discreta está a
+primeira delas distribuição de beverly a
+distribuição de bernoulli ela é um
+experimento aleatório
+tá uma ação cujo estado não pode ser
+previsto com dois resultados possíveis
+fracasso ou sucesso
+então a gente vai ter a probabilidade de
+fracasso
+1 - p e há probabilidade de sucesso é um
+exemplo aqui pra gente trabalhar por
+exemplo atestando a espécie defeituosa
+está e eu quero encontrar a peça
+defeituosa esse é o meu é o meu sucesso
+tasha peça defeituosa sucesso
+se ocorreu uma peça defeituosa eu vou
+falar que é um sucesso então vou falar
+que a probabilidade de acontecer uma
+peça defeituosa é um ea probabilidade de
+não acontecer é zero então ela tem dois
+resultados possíveis
+um 11a tá ia forma é dado por elevada x
+vezes 1 - p
+1 x 1 p é a probabilidade de sucesso tá
+x é o número de sucesso que eu tiver 1 -
+p
+é o meu fracasso que a gente pode chamar
+de que também está aqui a minha variável
+está definida pra x igual 1001 tá
+ele sabe que pra toda toda gira em 30 em
+um certo dizermos que x segue o governo
+lippi
+isso aqui significa segue tá é uma
+notação que a gente usa x segue uma b
+uma distribuição bernoulli p o p p
+está aqui o valor esperado da bnp
+variância do bernoulli peer que
+multiplicou menos perguntar a gente vai
+ver que a distribuição bernoulli é um
+caso particular
+o nome ao que a gente está vendo no
+próximo slide ea gente vai tirar o valor
+esperado pela binomial que vai ser bem
+mais fácil a gente só vai precisar saber
+de uma ea gente vai tirar da outra
+distribuição binomial a distribuição de
+nome ao representa n realizações
+independentes de experimentos de bernie
+com a mesma probabilidade de sucesso
+então a gente um exemplo de distribuição
+binomial a gente vai estar testando
+peças defeituosas até encontrar o meu
+sucesso então por exemplo eu tenho aqui
+eu quero dois sucesso está em cinco
+tentativas
+eu vou testar 35 vezes aqui até então
+não é igual a 5
+e eu quero o meu x godoy que no caso é o
+número de sucessos tá eu vou testar
+aí eu posso testar aqui pode dar
+defeituoso na primeira é não defeituoso
+na segunda defeituoso na primeira o
+resto vai ser um defeito ou está só
+quero que ocorra 22 sucesso que no caso
+é defeituoso
+aí eu posso testar também aí encontra na
+primeira defeituoso e na segunda já acho
+defeituoso eo resto por conseguinte vai
+ter que ser não defeituoso e assim eu
+vou eu vou testando todas as
+possibilidades está isso aqui na verdade
+é o que está contemplado aqui é uma
+combinação de nx porque a combinação
+porque esse defeituoso e não o efeito
+ano é a mesma coisa que não defeituoso
+defeituoso correta então é que nem
+duplas de tênis google nadal não é
+diferente de nadal e guga então a gente
+usa combinação tá é a combinação de mx
+a iac tem levado x 1 - p
+elevado à mmx a gente tem que a
+probabilidade de sucesso aqui no caso a
+probabilidade de dp certo
+e aqui a probabilidade de fracasso é 1 -
+p
+então a gente contar aqui a gente teve
+dois se acerto então como eles são
+independentes
+eu posso multiplicar lembra que a
+interseção entre os eventos
+independentes eu possa multiplicar as
+propriedade
+então vai ficar p ao quadrado
+e aqui tem três vezes não defeituoso
+então vai ficar 1 - p
+o elevador 3
+se vocês repararem o seguinte o x é o
+número de sucessos que eu tô que tô
+querendo que eu achar aqui o número de
+sucessos e 1 - pb está elevado a n 6 x
+game que o ano em 5 5 - a quantidade de
+sucessos é o que quero dois sucessos
+dois então é 3
+então isso aqui é teu quadrado menos
+preocupa e faltou a combinação aqui
+porque eu possa conta pode acontecer
+defeituoso na primeira defeitos na
+terceira
+pode acontecer de feitor na primeira
+segunda então a gente tem que contemplar
+todas as combinações possíveis
+então vai ficar aqui rx que no caso aqui
+é 5
+aqui vai ficar 5 2 à noite
+entendeu não saiu essa fórmula que a
+fórmula é feio mas você não precisa
+decorar forma dá pra você deduzir dessa
+forma que eu fiz está então a é pra quem
+gosta de fórmula 1 a combinação de mx a
+xp levada chissonde pp o excesso - pelo
+problema de fracasso e - x n a
+quantidade de tentativas e xis ea
+quantidade de sucesso
+o xv vai variar dizer a eni ea é o
+número de tentativas estava até o número
+de tentativas que você quiser e ac x
+segue uma binomial mp n número de
+tentativas e pedro de sucesso e vai
+esperar dominial como é que o mp eo vai
+assim o mp que agora a gente pode pensar
+o seguinte como é que a gente faz
+falei ó o cabe na minha aula não há -
+nenhum caso específico de binomial onde
+o n go está se a gente fizer aqui ó
+vem cá comigo se a gente fizer aqui o
+esse tema que vai sumir vai ficar p
+1 - p
+aqui vai ficar um número x a gente viu
+exatamente a forma da verdade tá
+a gente chegou na forma da berlinale
+através da mídia mundial e aqui mas sei
+o que é o n go 1
+então o valor esperado da meia noite vai
+ser o que te substituir é igual na
+aliança mas qualquer pq tá então a gente
+pode chegar através do da fórmula
+binomial na na forma de haver tanto na
+forma da menina continuava esperando em
+valência
+ok
+água
+só que esse lutando aqui as questões de
+bernoulli como é que eu vou identificar
+que a ver nele a gente vai tratando de
+eventos independente está porque porque
+eu vou ter a minha probabilidade
+constante está ao longo do tempo
+então eu vou ter que ter ventos
+independente está e um outro ponto chave
+para você saber que meu nome ao a gente
+pode fazer uma uma amostra aleatória com
+reposição porque qual a diferença entre
+uma amostra aleatória sem reposição
+nesta amostra aleatória com reposição
+que acontece a mostra que a torcida faz
+o seguinte quando você tivesse bom dizer
+tem tem várias pessoas lá e você quer
+selecionar uma pessoa certa
+então você vai colocar no saco o nome
+dessas pessoas e vai tirar o primeiro
+nome tá
+a mostra está é com reposição
+ela vai ocorrer se você repor o nome
+dessa pessoa você tirou o nome dela e
+colocou de volta para sortear o segundo
+certo então você está fazendo com a
+reposição agora se você retirou o nome
+dessa pessoa e não colocou de volta você
+não repôs então você está trabalhando
+com uma mostra sem reposição que isso
+vai acarretar como eu estou mudando no
+espaço amostral dos meus eventos não vai
+ser mais independentes vão ser
+dependente está então a gente vai
+trabalhando com outra distribuição que a
+gente vai ver lá na frente que a ip
+geométrica mas aqui a gente vai ficar
+nessa aqui a gente vai ver um pouco
+ainda ainda nessa aula um pouco mais à
+frente está e então palavras-chaves
+independentes eventos independentes e
+amostragem aleatória com reposição tá
+amostragem
+já desconfia já que vai ser bem legal
+melhor
+então a gente vai fazendo um exemplo aí
+de binomial no próximo bloco tá vai dar
+umas parecida tá bebeu uma água no
+banheiro e volta aqui com a gente pra
+resolver a questão de blumenau e vamos
+lá galera vamos lá pra nós exemplo de
+binomial considera um exame de múltipla
+escolha com 20 questões
+cinco alternativas para cada pergunta
+caso o aluno não estude chudi todas as
+respostas cobra a mobilidade de acertar
+30% da prova e qual o seu número
+esperado de acerto
+então a gente vai ver o seguinte galera
+essa questão aqui você pode pensar o
+seguinte tem 20 questões numa prova você
+não chegou nada comprova a cada questão
+tem cinco alternativas certo cinco
+alternativas então quatro unidades de
+você acertar uma questão dado que você
+achou do nada tá você não estudou nada
+cobra humildade você acertar a questão é
+um quinto certo
+02 então a gente tem que a probabilidade
+de acertar a 0 hoje só que você vai lá
+pra c ea probabilidade de você não
+acertar
+08 certo
+o que acontece se você vai para a
+segunda questão na segunda questão você
+dá o que você já fez a primeira questão
+a tua probabilidade vai mudar de você
+acertar ou errar a questão não é galera
+ea terceira vai mudar porque você foi a
+segunda a primeira teórica mente não
+certo então a amy gish é eu tô vendo que
+eu tô fazendo eventos bernoulli porque
+que eu possa ser tão não certo então é
+um experimento bernoulli certa fracasso
+ou sucesso eu meu sucesso acertar uma
+fracasso errado certo eu estou errando
+ou acertando na primeira que estão
+tentando acertar na segunda questão e
+assim por diante eu tenho 20 questões
+então eu tenho vários experimentos
+bernoulli está acontecendo e como a
+gente viu as probabilidades não muda o
+tempo então a gente tá vendo que os
+exemplos são independentes está a
+probabilidade de eu acertar a segunda
+questão não depende do acerto a primeira
+tok
+então a gente está vendo que a
+probabilidade está constante há um longo
+tempo que é 02 certo então é ele quer
+acertar 30% da prova 30% de 24 pessoal
+essa é isso então ele precisa toco o
+nosso sucesso vai ser o que acertar as
+questões
+tá então a combinação de como era a
+forma da minha alma
+pedro guasti zin é igual mxx elevada x
+que é levado a mmx
+lembro aqui o emmy é a quantidade de
+questões está ou seja a quantidade de
+tentativas o x é a quantidade de
+sucessos e quantas eu preciso tá
+e aqui aproveitar esse sucesso é acertar
+a questão
+02 02 elevadas eis porque x6 e mmx a
+quarta 14 que é o que há é 2014 tá
+calculei da 10,9 por cento beleza e o
+com qual número esperado de acerto seja
+está perguntando qual o esperado na
+minha opiniao qual espera de um amigo de
+nome ao mp
+o número de questões em vez de
+aproveitar o sucesso
+21 02 da o que 47 legal
+agora a gente vai tá falando da
+distribuição de o som tá ela também uma
+distribuição discreta tá e ela
+representa o número de ocorrências de um
+evento em intervalo correspondente
+quando a gente estiver falando de possam
+melhor a gente vai pra pensar no
+seguinte número de chegadas de uma de
+pessoas em fila tá número de carros
+passando numa ponte está na ponte rio
+niterói por exemplo tá é sempre assim
+número de de chamadas telefônicas que um
+que uma central recebe tá então a gente
+vai trabalhando com um com taxa vai
+chegar tantas pessoas enquanto minutos e
+tantas horas a chegar a tantas chamadas
+em quantos minutos enquanto as horas
+está a gente vai trabalhando com isso é
+uma forma é um pouco aí está ela é o que
+a decisão e guache sim é igual o nome de
+elevada x levando a menos lâmina sobre x
+fatorial aqui o lambda é a média da
+possam estar no nosso valor esperado o x
+é a quantidade de sucesso que eu quero
+que ocorra o é exponencial mesmo tá aqui
+ó
+agora essa na posição ela me dá também
+um caso curioso e interessante é que se
+perguntarem prova pra vocês
+já agora a única distribuição e que vai
+esperar negou a variância você vai falar
+com a atuação
+ela é a única distribuição cujo valor
+esperado é igual a variância tá e o
+nosso x ele vai está entre 0 é infinito
+não pode chegar tanto
+eram pessoas quanto infinitas pessoas
+numa fila tá e holanda é sempre maior do
+que zero tá
+a gente vai fazendo exemplos aí possam
+também em questões de concursos a
+exemplo de poção o número de acidentes
+que acontecem na ponte rio niterói segue
+uma distribuição de posição aqui precisa
+falar que segue a distribuição da
+população não porque é o número de
+acidentes que acontecem na fonte nem
+evitará em determinado tempo certo
+aqui em média três por ora então lambida
+o nosso na vida é 3 durar em média 3 por
+hora tá calcule a probabilidade de dois
+acidentes em uma hora
+aqui a gente tem que holanda é 31 hora
+certa
+ele está querendo uma hora também não é
+então precisa fazer alguma coisa precisa
+fazer a regra de três não é porque está
+na mesma unidade certa
+se tivesse unidade diferentes e fazer
+uma regra de três achar um novo homem
+está aí aqui
+ele quer que dois acidentes e mora então
+ele quer a probabilidade de she's got 2
+tá aí vamos substituir na forma que a
+forma a probabilidade de extinção e
+guaches e é igual à elevada x é levando
+menos landra sobre che fatorial aqui
+bush saque em 2 x 2 no botar dois aquino
+xe2 aqui embaixo do material aqui
+embaixo
+a holanda é 3 que a gente viu que não
+precisa mudar porque está na mesma
+unidade de mídia agora aqui
+o ex policial tá
+e aqui vai ser nosso amigo e também
+atrás aí vai ficar 3 ao quadrado é de
+menos 3 5 2
+fazendo a contínua 4,5 vezes é levantar
+menos três
+se a gente fizer a conta das policial
+vai ficar vinte e dois mil quatrocentos
+e quarenta por cento e geralmente vai
+emprestar na questão acho policial pra
+você poder substituir achar rolou e
+deixa a função da disposição nenhum tá
+então a calcula a probabilidade de pelo
+menos dois acidentes em duas horas
+aqui já está falando em duas horas a a
+gente tem o lambda é 3 para 1 hora em
+duas horas
+quem vai ser o nosso novo álbum chamado
+que de angra 2 por exemplo vai ser o que
+será que eu multiplicaria por dois que
+eu faço aqui também multiplicou por dois
+vai ser o tempo agora tá
+portanto nosso novo nome de cech
+e ele quer opel pelo menos dois
+acidentes em duas horas o que quer pelo
+menos dois galera pelo menos dois é dois
+ou mais é 23 infinito certo só que quais
+são os valores possíveis que avaliava a
+história pode assumir
+pode ser 01 23 infinito certo aqui é
+interessante trabalhar com ela o evento
+complementar certo porque é porque se eu
+fizer aqui
+1 - a probabilidade de x igual a zero
+mas a probabilidade de x igual a 1
+eu vou tá achando essa parte do que
+complementar certo porque esqueceu somar
+todas as probabilidades lembra quando eu
+só no espaço amostral toda dá um
+se eu pegar um - essa partilha aqui não
+vou achar essa aqui é certo que tudo só
+um certo probabilidade então ó vai ficar
+1 - aproveite a 0 mas a prioridade
+um correto então foi aqui que fiz aqui
+pra vocês a unidade x maior ou igual a 2
+vai ficar 1 - perdi x 1 a 0 mas
+precisavam a iacc 1 - aí é só substituir
+né
+vai ficar o nome da agora é 66 elevado a
+0 o chile a quantidade de sucesso de
+zero agora é levada menos seis ou10
+fatorial de autoria um com definição tá
+mas substituindo agora em um aqui vai
+ficar 6 levando 1 é elevado ao menos
+seis sobre um fato real
+aí aqui a gente pode colocar em
+evidência
+vai ficar elevada mil e 61 e 61 m 7
+elevando ao menos seis em que fizer
+contínuo 98 26%
+tá bem tranquilinho para a galera a
+gente vai tá falando da distribuição ip
+geométrica tá a distribuição e pede a
+métrica a gente vai trabalhar quando a
+gente fizer uma mostragem sem reposição
+tá
+ou seja quando a gente está trabalhando
+com amostragens em oposição às nossas
+distrações ficam dependentes está então
+a probabilidade ela vai mudar ao longo
+do tempo lembro que eu falei pra vocês
+na minha opiniao agora fazer um paralelo
+que combine ao binomial para as
+palavras-chaves dominial com reposição
+e independente já ip geométrica voltar à
+equipe
+e perdi a métrica palavra chave sem
+reposição independente está porque
+porque eu a conheço
+eu vou ter que as probabilidades não ser
+constante
+tá opa de repente um independente
+independente ea forma forma esse monstro
+foi aqui tá combinação de r x a x e não
+me quiserem mmx sob e não é limpa a
+combinação de henin x segue uma hiper
+janete que não rn
+aqui a gente vai destrinchar fórmula mas
+eu vou ensinar um jeito de fazer que na
+verdade está muito acostumado com a ip
+já métrica tá aí pedi aumento que nada
+mais é do que uma é do que a combinação
+quem está acostumado a fazer lá deles
+inédita
+ela estava disfarçada nesse mostrei aqui
+mas ainda tem contato com ela muito
+tempo aqui o nosso denominador é o
+número total de amostras de tamanho em
+que podemos obter o ação aqui combinação
+de r xx combinação de analisarem e - x
+número de forma de extrair x sucesso
+entre r possíveis e eles - x fracassos
+dentre eles eram impossíveis não fica
+tranquilo que a gente vai ver exemplo e
+vai ficar tranquilo e se matar
+agora o valor esperado e a variância são
+é o valor esperado é tranqüilo é mr
+soube não tá esperança de x vai cnrs o
+bernô agora a aliança vale esse monstro
+que é difícil de grade de gravar eu sei
+mas coloca na parede do banheiro quando
+foi tomar banho pois fica pra não
+estragar é assim tem que dar um jeito né
+tem que botar um acordar olhando para
+aquilo então a mais um pra vocês aí não
+adianta só decorar com as coisas não é
+constitucional não tem que decorar aqui
+também a variância eninho rcd não vezes
+um menos 10 o be não quer dizer não -
+exame sobrenomes um tá então é isso
+tem que saber essas formas aí tá essa
+aqui cai muito pouco tá
+graças a deus sorte nossa né
+então fazer a questão zinho aqui fcc
+2015 está recente sefaz piauí
+um estudo mostra que 20% de todos os
+candidatos que estão prestando
+determinado concurso público possui
+doutorado em determinada área de
+conhecimento
+selecionando sua casa e com reposição
+roupa
+olha para mim e com reposição
+palavra-chave do que a minha alma é
+galera
+então vamos ver se ele nomeou mesmo
+selecionados com reposição quatro desses
+candidatos
+a probabilidade de que exatamente dois
+possuem doutorado é igual à então a
+gente pode
+vamos climatizar aqui primeiro ele está
+falando que o estudo mostra que 20% de
+todos os candidatos estão testando
+internado concurso e possui 20% de todos
+os candidatos que estão prestando
+determinados concursos públicos possuem
+doutorado em determinada área do
+conhecimento então a gente pode pensar
+que com essa moratória que possui
+doutorado ou não possui doutorado certo
+se está falando que a probabilidade de
+possui doutorado 10 2002 2002 quem a
+probabilidade não possui doutorado 08
+então o possui doutorado não possui
+doutorado que isso lembra o governo lhe
+mais um eu tenho quantos quantos
+candidatos
+eu tenho mais do que um então eu vou
+terminar minha ao certo que a função em
+realizações independente só está falando
+aqui a extração com reposição
+eu estou colocando lá os candidatos
+todos traindo está repondo de volta
+redonda que o candidato que eu tirei
+então a minha probabilidade vai ser
+construído quando tomou de ficar no
+espaço amostral
+então eu estou trabalhando aqui com
+dinamite ao então a gente tem aqui um x
+vai seguir uma binomial
+np certo só que o mn quem o n é a
+quantidade de tentativas aqui eu tenho
+os 34 certo tom é igual a quatro ea
+probabilidade de sucesso
+02 tá então a gente vai ter o seguinte
+aqui como é que a fórmula da mina miau
+probabilidade de x 1 e guache sim é
+igual mxx pela wada x que é elevada a n
+6 x 1 substituindo então isso aqui ó
+vai ser o que ele quer o que é
+selecionar sua casa com reposição a
+propriedade de que exatamente dois
+possuem doutorado
+ele quer que a propriedade igual o juiz
+tal x a2 ao substituir o x é 2000
+enquanto 1 e 6 4
+vai ser combinação de 4 2 a 2 vezes quer
+aproveitar o sucesso 2x é quem dois
+sucessos que a probabilidade de fracasso
+08 não possui doutorado elevado o que é
+e nem no xl em 4x é que em 24 mil e 22
+legal
+isso aqui qualquer combinação de 4 2 a 2
+em cima do embaixo 4 6 3 2 1
+aqui a gente pode porque quer 022
+abrange eliminar 1,10 para facilitar
+quanto ao quadrado vezes 08 o que foi
+dito sobre 10 ao quadrado
+tá aqui que a gente pode cortar aqui 24
+a 23 2 vai dar seis vezes quatro vezes
+8 ao quadrado 6 4
+então vai dar vai ficar aqui embaixo

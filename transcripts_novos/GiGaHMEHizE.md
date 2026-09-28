@@ -1,0 +1,2278 @@
+# Segundo dia de workshop SWAP - Prof. Thiago Marques
+
+- **URL:** https://www.youtube.com/watch?v=GiGaHMEHizE
+- **ID:** GiGaHMEHizE
+
+## Transcrição
+
+E aí
+é
+bom pessoal então nosso segundo dia de
+Shopping aí né então já conhecemos os
+benefícios aí da linguagem R né e é a
+ideia que hoje a gente não mais no
+hands-on lá então nós Clebson já mandou
+aí o material para vocês em alguém que
+tem não tem um material não instalou o
+R1 todo mundo já já tá preparado aí com
+o r a gente tem que instalado com
+material olhei na inscrever-se boa noite
+Opa boa noite Thiago Oliveira não farra
+bom então já se tiver alguém aqui ainda
+não tá com material
+ainda não está boa é ruim de tudo eu
+falo agora aí por gentileza e a gente
+vai começar aqui já com esse pressuposto
+beleza
+Tá beleza então então vou partir do
+pressuposto aí que todo mundo tá com
+material Aí estava morrendo de tudo tá
+então deixa eu compartilhar aqui com
+vocês na tela
+já
+estão vendo aqui a mental e que cês tão
+vendo aí o
+grupo saber claro que dormir show aí
+pessoal vou pedir para precisa abrir
+esse
+aqui vem aqui ó o outro shopping suave.
+R MD tá então abram aqui por gentileza
+como você já tem lá no estúdio só dá
+dois cliques aí que ele vai de ar direto
+o meu já tá aberto aqui
+e quando vocês abrirem vocês não falo
+com gente Thiago você me mandou isso daí
+para compartilhar mandei
+se alguém conseguiu abrir aí pessoal
+vocês estão com acesso eu não recebi
+isso né se não recebeu ainda
+se alguém recebeu Wiki
+a calma isso não Vixe então então mexeu
+configurar aqui Confirma aí se você me
+ligou
+até aqui ó tá junto com
+ó só aqui com creme de não tão deixou
+isto mandar aqui novamente então
+a receber esse ponto a área que não
+eu não achei nenhum raro aqui nenhum
+raro Não eu só passei lá só um minuto
+Thiago tranquilo deixa eu só
+recompartilhar aqui caiu a de você ver
+eu não compartilhei com a galera
+tranquilo manda aqui
+e dá para atualizar o nome do Almeida já
+tirar o delivery
+É verdade é
+E aí
+e
+eu já enviei aí mestre se você puder
+mandar para galera
+E aí
+é porque aqui eu não tô não tá militado
+para mandar
+os documentos
+eu não consigo ligar para você
+é só dá para enviar o sunning
+E aí
+e
+ele só quase Afinal a base Então acho
+Compartilha esse raro aí carretilhas
+calma aí pessoal falta menos de um
+minuto aqui
+tá tranquilo aí
+E aí
+oi
+vem aqui no chat agora
+a
+máquina está rolando
+eu não consegui me avisa
+E aí
+a planta só só
+pessoal da sua conversa consigo acessar
+isso
+e já já tá lá no link o Ra
+62mb é isso
+e isso é esse
+E aí
+se
+alguém não conseguiu baixar a pessoa
+se alguém não tem errado
+eu tenho que ter o Winrar para
+descompactar né
+a calma aí Mariana deixa eu
+o deixou fazer um se pedisse para você
+E aí
+E aí tem que ter WinRAR
+E aí
+a
+Mariana só assim acessar esse link aqui
+ó
+baixar o homem rápido
+conseguir descompactar é melhor Mariana
+baixa o We Heart It
+e se nem Clear Você pode baixar um e ra
+E aí instalar rapidinho não sei que
+servir descompactar
+o show
+E aí
+[Música]
+E aí
+G1
+E aí
+e
+dá uma desligar e ligar de novo porque
+não tá estranhando aqui não sei porque é
+em março
+se você deve ter que baixar também
+talvez
+a baixa também o irmão
+é por esse link aí
+e
+a Mariana deu certo show
+o gel deu certo Lucas deu certo aí Lucas
+E aí
+O Lucas tá baixando não
+Oi
+Franciele deu certo
+O
+Lucas tá falando também né e
+E aí
+G1
+E aí
+e
+se Hélia
+e nós estamos em quartos aqui 13 pessoas
+em
+E aí
+se alguém mais feio dificuldades que só
+o
+filme colocou como o rosto aqui tchau
+Opa focar em não ver se tem alguém
+querendo troca
+o
+boxe volte noutro aqui ó
+o
+Yuri deu certo
+é só tem alguém que ainda tá instalando
+aí WinRAR
+o show
+e eu só não consigo extrair Almeida aqui
+é uma e voltam Vou extrair para você e
+vou colocar já estranho
+a máquina tá gritando aqui na frente
+série A
+a Anna agora é um pouquinho
+não mas ainda baixar não é a questão de
+base em alguma coisa me dá um para
+dormir agora é
+tu tá estranho né
+Oi você tá usando o Mac volta não ficou
+lindo um
+e ele não que você não tem errado é que
+você tem um negócio
+nativo
+acho que não não sei o botão direito tem
+estranho aqui tem é nativo tirar a
+menos mal então
+É mas não faz nada
+Olá amigo
+a
+iva complicado gente ó
+tá tranquilo acontece nas melhores
+famílias
+as piores também também
+E aí só volto tá pedindo um minuto aqui
+para mandar os arquivos descompactados
+tranquilo seu Tiago quiser continuar aí
+eu pego os arquivos e já acompanho
+tranquilo
+tranquilo o Lucas foi também boa elas
+vão Começando aqui aí o qualquer dúvida
+e voltas com vontades tá
+obrigado tá ok o coloquei o link aqui no
+chat Walter
+Valeu Almeida Então pessoal vocês vão
+abrir sempre que vem aqui ó workshop
+suave. R MD por favor Tá pelo Espírito
+sei se vocês já tiveram com a gente
+estude e já vai abrir para você aqui
+nessa telinha aí quando abres me fala
+uma coisa a gente esse
+E aí
+Me
+desculpe do que tem um pacote vai estar
+ou
+o time 35 assim ele vai se você ainda
+não está louco ele vai pedir vários
+pacotes para instalar tranquilo
+essa
+é a graça pode mandar pode mandar
+instalar
+mas antes eu só queria dar uma visita
+para vocês aqui mas vocês podem mandar
+já nesta lá tá sem problema
+pode mandar a escala vai ter uma
+mensagenzinha dizendo que nos pacotes
+não estão instalados demais vocês podem
+tirar mandar instalar vai ficar
+instalando em um tempinho aí
+Oi tem alguém travado ainda do Sol com
+errar
+E aí
+e aqui vocês conseguiram abrir todo
+mundo
+escola essa telinha aqui por aí pessoal
+eu falei no chat deu certo também
+jogo então beleza então aqui pessoal vou
+dar uma vejo para vocês mesmo que vocês
+estão vendo né então aqui basicamente é
+o teu com seu bloco de notas na onde
+você escreve tudo teu código né quando
+você compila o seu código adicionou aqui
+a gente tá com raiva mas tal né dentro
+do estúdio que ainda é e aqui embaixo o
+seu Orkut né então aqui eventualmente
+quando você comandar alguma linha e aí
+você comanda o esse botãozinho verdinho
+aqui ó no chance né e ao apertar esse
+botãozinho ele vem imediatamente Aqui
+para baixo e ele vai gerar o seu Orkut
+né então ele eventualmente vão aparecer
+algumas coisas aqui embaixo quando você
+apertar esse botãozinho aqui ó aqui vai
+ser o seu spoiler né então eventualmente
+quando você é criar banco de dados já
+matrizes gráficos mais ele vai gerar um
+objeto aqui e aqui vai ser o seu spoiler
+no seu canto superior direito tá E aqui
+embaixo você pode olhar a para onde que
+o r tá aprontando né e trabalhando
+convidados né Então aqui estão as pastas
+e tem todos os arquivos que estão lá na
+pasta aqui no meu caso aqui ele tá
+contando com essa parte aqui ó área de
+trabalho jogos no Japão Suave não é mais
+de vocês vai estar em outra né mas se
+aparecer que vocês criaram aí povo só
+e
+aqui quando você gerar os gráficos e
+esse aqui o arquivo vivo né tabelas de
+graça
+aqui são para você instalar os pacotes
+né então a gente vai fazer de forma mais
+automatizada aqui né como vocês viram já
+apareceu a mensagem aí tudo mais tem
+mais também que é um tanque aqui embaixo
+e vai lidar com essa instalação dos
+pacotes né e o carregamento também deles
+né então primeiro você instala como se
+tivesse puxando ele lado do clã né que
+aquela nuvem E aí você tá dizendo para o
+r né que você quer você quer trazer lá
+da nuvem Aquele pacote para sua máquina
+e aí quando você quer utilizar Aquele
+pacote né para resolver aquela
+determinada eu resinada problema que
+você quer resolver ele você vai carregar
+e aí vai dizer para ele que vai ser
+causar né quando você falando coisa aí
+né só lâmpada ela existe mais você tem
+que acender para usar né então acendeu a
+lâmpada eu recolher beleza bom então a
+gente vai começar aqui então aqui é o
+arremate da Olha uma estrutura um pouco
+mais detalhado aqui né tenho aqui o
+título né porque é tudo que vai aparecer
+aqui ó ele vai ficar aqui ó então aqui
+vai ter o título shot né vai ter o nome
+aqui da pessoa que fez o seu R markdown
+né Então tá aqui aí aqui a data né que
+ele já ele pode gerar automático você
+pode botar uma data aqui do out você
+pode escolher são várias tá então eu
+escolhi esse aqui deixa nesse formato
+aqui bonitinho coloca então tópico aí né
+e tudo mais aí você vai passando né
+então esse vídeo da aqui dentro do RN de
+forma que estão no pacote do Erre para
+você personalizar o seu R markdown tá E
+aí
+Oi
+aqui é só para você aparecer uns
+Highlights né para fazer seleção lá
+dentro aqui para ficar mais quando aqui
+aparece esse Highlight né então esse
+formatinho aqui do Cat e esse CSS aqui
+algo mais avançado tá e te eu deixei aí
+para vocês aqui no também aqui na pasta
+tem uma que vinha
+style.css né isso aqui é um negócio mais
+avançado né que é que trabalha com na
+web também não é para personalizar web
+tudo mais a cor Então você vai escolher
+a cor que você quiser e tudo mais né
+então aqui é uma personalização mais
+avançada tá que a gente não vai entrar
+no no detalhe mas basicamente foi para
+ficar com as cores aí das fotos
+então aqui é logo né Então essa função
+zinha imputgraf aqui do CNE three vai
+fazer com que eu coloco aqui a imagem né
+então ele vai renderizar imagem aqui
+para mim e eu só tenho que dizer para
+ele o caminho que passa imagem né que é
+a pasta que a gente está trabalhando
+aqui no caso o de vocês não vai aparecer
+e você vai ter que mudar o caminho aqui
+na então se você mudar o caminho para
+onde está a tua o teu choque né Eu tô a
+tua pasta você vai aparecer aqui para
+você né então se vocês quiserem não é
+obrigatório Mas se vocês quiserem mudar
+é só você mudar aqui você pode vir aqui
+na tua pasta clica aqui da contra você
+nem vem aqui aqui no aqui onde está
+entre parênteses aqui né eu vou fazer
+uma simulação aqui só para você ver como
+é que ficaria
+bom então
+você vai apagar essa aqui né como
+é que é só a título de curiosidade né
+então também aqui coloca entre astros E
+aí aqui ou você coloca mais uma barrinha
+para cada Barrinha
+é assim ou você investe a barriga que
+nem eu fiz aqui tá claro dá para fazer
+isso automático Mas se você quiser tá é
+só você selecionar aqui vir aqui ó
+ampulheta Aí você vem aqui mas se você
+quiser trocar
+essas duas Barrinhas aqui nessa parte
+aqui né por essa essa aqui
+a gente vai lá ir pede para ele trocar
+ele vai trocar tudo então tudo que tá
+aqui dentro né então é importante você
+botar em celular aqui também se não ele
+pode alterar coisa demais né Então deixa
+eu voltar aqui
+tudo bem até aqui beleza aqui é só para
+colocar a imagem tá não é tem nada isso
+aqui é só
+Florence um detalhezinho então aqui
+Tranquilo então aqui se você comandar
+aqui no verdinho ele vai aparecer imagem
+para vocês o caminho tiver direitinho
+beleza se alguém tentou fazer aí ou não
+só de curiosidade funcionou legal
+tranquilo
+Tá beleza então tá bom
+Oi
+ó aqui
+todo o arquivo que você vai ler você tem
+que digitar para o erro dele tá lendo né
+então é uma forma de você padronizar
+isso né porque o documento global é
+botar aqui no Tide tá E aí o grande dia
+você bota aqui qual é o caminho que não
+é da pasta né eu lembro para mim que a
+gente acabou de pegar né então você
+coloca lá e faz a mesma seleção eu vou
+coloca uma barrinha para cada Barrinha
+ou investe a barriga essa e ele vai
+entender agora tudo que você fizer ele
+vai estar apontando para este diretório
+aqui tá Isso aqui é uma boa prática que
+tá então existem outras formas de fazer
+tá E são piores do que as aqui né de
+forma local aqui está fazendo forma
+Global Então não vai ter
+problema lá na frente tá então aqui é só
+você comandar com Jackson o teu o teu
+diretório bonitinho aqui né e ele vai
+entender aqui eu coloquei pessoal porque
+é só para o
+curiosidade né se você quiser instalar
+também no Big Ramy você pode pegar esse
+pau quatro irmãos aqui e aí você pega lá
+do irmão desinstala né mas esse aqui é o
+agindo de forma né Faz esse esse formato
+aqui que eu falei para você e detox
+demais mas é só um detalhe aqui né aí
+você pode estar lá do clã também tá aqui
+o coloquei Quando você bota hashtag
+comentário né então aqui eu botei todos
+os o código da
+lado do dicionário né então só para a
+gente entender né que com kategard o que
+que é aquela variável né então código da
+categoria administrativa um é pública
+federal dois acutado assim por diante
+então aqui eu botei algumas variáveis
+que a gente vai utilizar não toda né
+então eu deixei aqui mas vale acho que a
+gente vai usar e tudo mais tá então só
+aqui essa comentário então aqui um
+pequeno faz nada né então como é que por
+que que eu botei ele aqui né Se eu
+colocar aqui ó eu posso te dizer para
+ele Ó o quê que eu quero que aconteça né
+Eu Posso rodar o código e não mostrar o
+resultado na hora do renderizar para
+fazer esse documento aqui ó
+e ele não vai mostrar esse tinha aqui se
+vê se for aqui para baixo ele não mostra
+esse tanque de comentários tá se você
+desmarcar mas eu não marcar aí quando
+você renderizar ele aparece ele né mas
+no caso aqui eu deixei como para ele
+rodar e não mostra nada tá então só para
+não aparecer lá na hora de renderizar tá
+então até aqui né Por enquanto só só
+explicando o detalhamento né E aí você
+precisa importar as bibliotecas né para
+instalar bibliotecas Z carregar né Então
+como aqui muitas pessoas ainda não
+tiveram contato com R né eu vou pedir
+para vocês tirarem esse hashtag aqui ó
+e pra deixar o stop. Pecks né E aí vocês
+vão vir aqui no verdinho e vamos clicar
+aqui para porque isso Quem ainda não não
+botou para instalar né quem botou para
+instalar Beleza não tem problema tá
+agora quem ainda não colocou você vem
+aqui no verdinho né e ele vai instalar e
+vai carregar automaticamente para você
+todos os pacotes tá então o que que eu
+espero aqui aqui no meu a de vocês é
+para pensar no verde né mas o meu aqui
+como já está instalado é só carregar
+então eu vou apertar que o verdinho e
+qual o resultado que eu espero de vocês
+aí né Eu espero que apareça tudo outro
+tá se aparecer tudo truque significa que
+carregou ele já tá instalado ele
+carregou tudo direitinho Então Volta
+para mim aí por gentileza né Bota aqui
+para clica aqui no verdinho com sair
+hashtag né para instalar o pacote e
+carregar e aí o final de tudo ele tem
+que aparecer isso aqui ó E essas
+mensagens aqui ir no final tudo outro tá
+Se tiver tudo Trio a gente pode seguir
+tá então por gentileza me falem aí
+quando quando tiver já tudo tu
+já apareceu aí para vocês tudo tu tá
+instalando ainda como é que tá aí o
+processo
+e o
+meu atenção algumas coisas semana beleza
+aparecer um espaço aqui eu estou rodando
+de novo
+Ah tá
+e se apareceu falsa que você ainda não
+falou então desmarca aqui ó e se escreve
+tag aqui e rosa porque ele vai instalar
+e depois carregar tá bom
+E aí
+e o mais fácil olhar o que tão falso e
+aí você vem aqui no pé aqui né Install e
+aí você procura aqui com essas pacotes
+que estão aparecendo falso né E aí você
+instala manualmente aqui clica aqui ele
+vai estar lá aí depois você só de falar
+bota hashtag aqui clica no verdinho E aí
+ele vai carregar automaticamente para
+você o que isso é que faz basicamente né
+é criar um vetor com o nome dos pacotes
+né E aqui ou ela pode que eu faça tô
+varrendo esse retorno né tipo aplicando
+a função de qualho que carrega a
+biblioteca para poder utilizar então ele
+vai carregar essa aqui primeiro carregar
+essa aqui depois essa cor dela quando eu
+desmarco aqui esse hashtag ele tá
+instalando primeiro todos os todos os
+pacotes para depois carregar entendeu
+E aí
+G1
+Oi
+como é que tá o andamento aí pessoal ó
+o
+computador tá bem mas aqui está lá no
+monte de coisa agora vai me deixou
+preocupado que tá meio parado né
+a mãe tá carregando beleza
+E aí
+Oi Roberta aqui é essencial é mais perto
+da Guarda tudo
+foi tudo um Show
+a beneficência comendo
+G1
+e quem tiver condicionalidade maior
+pistola gente pode tempo possibilidade
+de transformar em cor roxo e compartilhe
+não tá não tem problema nenhum tá a
+gente dá um jeito aqui o Rangel falou
+que foi beleza
+E aí
+G1
+E aí
+Oi e aí como é que tá o andamento aí que
+só o Bruno Eliseu s l Helen Iorrana
+de George Lucas
+E aí
+e aqui tá instalando ainda a minha
+também tá rodando ainda
+é bastante coisa hein é bastante se a
+gente tem alguns aqui que eu podia tanto
+ser colocado aqui para conseguir fazer
+um hashtag que a gente não vai usar isso
+aqui e a gente não vai se esses aqui
+derem posso conhecer a gente vai usar
+esse aqui não
+esse aqui não é
+é
+isso aqui tá repetível e débito não
+precisa único estão se vocês quiserem é
+só falar esses aqui também já dar uma
+agora já dá uma melhorada Ambev tudo ele
+é grandinho
+E aí
+é porque vou explicar para vocês porque
+quem está instalando isso né então o rei
+Dr é para gente importar o arquivo né
+então a gente vai importar o usando ali
+de Aquele é mais utilizado né hoje eu já
+pode ele faz parte do time de voz também
+é o jackpot 2 melhor pacote deve fazer
+graça mas não de forma que se ele faz
+esse tópicos foi mas tem pra vocês aí
+marque Down o próximo ele cria gráficos
+interativos o e 1071 se você precisar
+fazer assimetria e curtose né ele traz
+para você algumas medidas descritivas
+onde boiar tudo de manipulação de dados
+né fixa agregações Johnny
+união de tabelas né e entre outras
+coisas de manipulação de dados limpeza o
+organismo você vai fazer usar só para
+fazer um desprovimento para fazer
+análise descritiva dos dados aqui você
+vai usar na e aqui você vai usar para
+fazer tabelas mais profissionais e aqui
+você só usaria para juntar os gráficos
+mas aqui nesse aqui acho que nem precisa
+também se você pode fechar aqui também e
+aí tirar que
+essa, aqui
+e para não tem problema se você quiser a
+rodar só essa por causa de que poderia
+também tá eu acabei botando coisa demais
+aqui não precisava disso tudo
+É mas tu como é que tá o andamento aí
+não conseguirei tudo outro já tá rodando
+como é que é
+instalar o
+Ah tá beleza
+E aí
+e até a pergunta é
+e fica à vontade e
+o seu microfone foi montado vou falar
+lá em cima quando você falou naquela
+parte de colocar o repositório para
+mudar o logo sabe você foi faz sentido
+beleza é só que o meu eu não consigo ver
+esse repositório que como está abrindo
+naquele
+e ficou em cima da hora me baixar porque
+eu lembro o nome agora
+isso nos compostos uma aposta como você
+descompacta
+então essa parte você sabe que eu não
+aparece gira é pessoas que eu vou lá
+pelo errar ele só abre eu consigo abrir
+a pasta pelo errar entendeu
+então faz o seguinte
+uma pasta
+aí você vai conseguir fazer isso tá bom
+vou tentar aqui
+presente chama né vem aqui ó extrair
+arquivos
+a bater aqui ele vai botar aqui na mesma
+página né mas eu poderia escolher também
+uma pasta então por exemplo
+como extrair arquivos aí aqui tá vendo
+você pode escolher aqui ó ó
+a nova pasta Rihanna sempre aqui uma
+outra pasta e aí dá ok aqui ele vai
+descompactar tudo para aquela a boa tal
+mas aqui rapidinho tranquilo aí vai
+ficar tipo essa aqui aí você vai poder
+pegar esse caminhãozinho aqui
+E aí
+E lembrando que ele vai vir com a
+Barrinha e tu bota mais uma barrinha
+para casa da Barrinha ou sem graça para
+mim mas não sabe ler
+E aí
+Oi e aí pessoal como é que tá aí tá
+instalando ainda o Franciele deu certo
+show
+Bruno também
+se alguém ainda não conseguiu aí pro sol
+e aqui continua instalando
+continuar instalando Walter mais quem
+mas alguém está morando aí ou Lucas foi
+e aqui só faltou um pacote nós vamos ver
+se tá tudo certo boa Show Beleza não
+precisa débito não precisa nesse momento
+só o débito já era só se você precisar
+instalar esse aqui ó você precisasse
+utilizar por exemplo Esse pacote o irmão
+se aqui para instalar de Elite rap aí
+você precisar dele mais
+como a gente não tá utilizando ali então
+tranquilo a gente não tá usando o link
+ter vou também endereço
+E aí
+Tá bom então vamos lá meu amor vamos
+devagarzinho aqui então qualquer dúvida
+estou à disposição bom aqui pessoal para
+importar o banco de dados do Enade é
+muito simples tá se você for olhar aqui
+o estrutura dele né se você abrir aqui o
+banco de dados eu não vou abrir porque é
+um pouquinho grandinho aqui tem que ser
+né problema triste eu vou levar um
+pouquinho mas é basicamente ele tem Ele
+é separado por. E, né ele tem os
+cabeçalhos né que são os nomes das
+colunas né Então tudo isso ele entende
+de forma automática aqui nessa função e
+dissesse de dois Geralmente essas
+funções com underline não é Elas já
+estão mais otimizados para estar elas
+vem lá do pacote de tá de rosto mais tá
+então vou comandar aqui ó
+Oi e aí ele já tá carregando aqui o meu
+banco de dado
+e se você mostrar se pergunta pode falar
+pode falar
+essas bases estavam mexendo você gastou
+muito grande Geralmente as pessoas usam
+R para mexer com base muito grandes né a
+esposa leva mexer com base menores ou
+não
+não você pode usar a base de grande
+também na Inclusive tem o spark.sql que
+ele trabalha com grande volume de dados
+em por aí né Mas jamais porque essa é a
+gente pode também
+e pode mais pode menos
+beleza
+beleza João aí aqui se fosse no uma
+razão mesmo se a gente fosse esse
+comando ele primeiro Ele é professor
+ansiosa né então ele e apareceu uma
+barrinha de carregamento né de
+da revolução da do carregamento e no
+final ele é mostrar 12 variáveis o tipo
+dela e tudo mais naquele mostrou de
+algumas e tal e o número de linhas de
+números e se você for vir aqui aqui já
+tenho três formas né então aqui nos seus
+porcos você já pode ver algumas coisas
+pensamentos né então tem
+537
+1436 linhas né observações e 150
+variáveis 150 quilos então aqui você tem
+aqui quais são as variáveis ainda tá
+tudo né modificado a gente ainda não
+trocou os nomes tudo mais né Tá tudo
+ainda como no como você importou né aí a
+gente vai ter um trabalho você tem que
+transformar isso mudar os nomes tudo
+mais beleza então primeira coisa que a
+gente pode fazer é olhar esse banco né
+então tem duas formas para você fazer
+isso né na verdade tem mais mais de duas
+né mas eu se a base idade fosse Mega
+gigante né eu não aconselho você fazer
+dessa forma que eu vou fazer agora que
+clicando aqui
+porque Clean o que ele faz aqui embaixo
+viu tá ou seja ele bota todo o banco na
+tua memória então ele está mostrando
+para você todo o banco de dados aqui
+para você aplicando na cama onde Tiago
+aqui ó aqui ó ó
+e aqui em cima enade-2017 de Beleza
+então clicando aqui ele já vai gerar
+esse automático aqui para você então é
+como você tivesse digitando aqui embaixo
+viu É naquele 2017 para o nome do banco
+Beleza então ele já abriu aqui você pode
+ver como é que estão dispostas as
+colunas e as observações de ler isso
+aqui é claro que já tá tudo codificado a
+gente não consegue entender muito bem o
+que que é agora se fosse um banco de
+dados de mega gigante que que eu
+recomendo para vocês usar essa função
+Zinho aqui ó reggae porque o head é de
+cabeça mesmo né então ele vai pegar a
+Stop seis colunas nas seis linhas tá
+então Enade 2017
+ele vai pegar aqui acho que estão logo
+as seis primeiras linhas que aparecerem
+aqui então ele pegou e seis primeiras
+linhas aí ou se eu quiser 10 primeiros
+posso fazer posso fazer E aí
+é head 10 e aí ele coloca aqui para você
+Quais são as colunas tá tudo bem sem
+problemas tranquilo
+e todo mundo foi até aqui tranquilo
+consigo importar o banco e
+bom e fazer isso que a gente fez ou não
+e aqui deu certo Deu certo
+tranquilo aqui também boa
+se alguém não conseguiu está com
+dificuldade aí você não tem medo não
+galera pode falar que a gente me ajuda
+de bota aqui para compartilhar ter ela
+não tem erro não tá a ideia aqui É essa
+mesmo a gente fazer um ok Shopping
+Conjunto né não adianta nada ficar
+falando falando aqui né para vocês e se
+você não fazer não executando aí beleza
+bom então vamos lá
+é só a gente pode fazer filtros né nessa
+nesse banco né a gente pode filtrar
+tanto em colunas contém linhas né então
+eu vou selecionar as variáveis que eu
+quero utilizar tá Como é que eu faço
+para selecionar Quais são as varias
+ficar utilizar muito simples né então
+usamos aqui ó o deployar né que ele faz
+toda manipulação de dados né Então essa
+função Zinha select né esses quatro
+pontinhos é uma boa prática para você
+dizer da onde tá vindo aquele aquela
+função porque porque pode existir por
+exemplo no outro select em outra
+biblioteca né E aí pode dar conflitos né
+E aí você não vai saber qual biblioteca
+tá usando né então isso aqui é só uma
+boa prática é para dizer da onde está
+vindo e até ficando interessante para
+pessoal que pegar o código e
+posteriormente né e olhar né ficar em
+dúvida Adam Strange nessa esse a função
+Zinho aqui a aqui e de fato é uma boa
+prática só
+beleza aí como é que é assim táxi aqui
+né eu tô chamando aqui de mim para dar
+dizendo assistiu pratos né que eu vou te
+mostrar E aí o eu vou botar uns nome
+gigantescos aqui que eu só que ele te
+ajudar tipo mesmo tá na seu dia a dia de
+trabalho não é para fazer isso não então
+é vinagre 2017 aí aqui o pai que né como
+é que você digita o pai porque você pode
+apertar contra o shift e me né que é um
+otário
+as bikes e ele aparece tá então aqui é o
+pai não é o que que o pai que faz
+basicamente ele diz olha eu vou querer
+usar essa função select nesse banco de
+dados aqui tá é isso que o pai está
+fazendo aqui para gente beleza então
+você vai funcionar com as variáveis
+então eu vou selecionar o ogro né que é
+o
+curso naquele do aluno né Essa análise
+de sistemas matemática licenciatura em
+ti
+a corrigir um custo a região né A idade
+o sexo do aluno quanto um graduação ser
+estudou no turno manhã tarde ou à noite
+ou enfim tem outro túnel nota da
+formação geral da prova
+aí Aqui tem outras variantes também que
+a gente pode olhar depois lá em cima que
+estão cada uma né ir nota objetivo da
+formação geral e nosso objetivo da
+formação específica qual selecionei
+esses graves aqui tá então vou comandar
+esse essa mesinha aqui ó
+eu vou comandar esse bloquinho de código
+né E aí já me deu outro fora daqui ó
+ó tá vendo aqui ó micro da dizenatti e
+agora ele já falou para você ó tem um
+trem né então de 150 colunas foi para 16
+né então só só tem aqui as variáveis que
+você precisa ele
+Que belezinha tranquilo tá aqui
+Olá tudo bem Aqui já conhece o SQL né
+select passo lá buscar ele beleza
+G1
+Oi tudo bem Como é que chama Show Beleza
+então vamos lá
+e
+prosseguindo aqui então né como fazer a
+gente filtrou as colunas né então antes
+de 150 foi para 16 né agora a gente vai
+se encontrar em linha né porque eu vou
+selecionar a olhava que eu quero né
+então eu vou filtrar né Essa função
+Filter ela filtro em linha né ela vai se
+encontrar observação né então dentro da
+variável com o grupo que representa o
+curso tem lá a codifi cação 72 O que é o
+72 só o cenário que vai dizer para a
+gente né então volta a dicionário ó o
+grupo
+em 72
+tecnologia na desenvolver um sistema Ou
+seja é que eu vou mostrar aqui para só
+e precisa acho que eu vou ficar aqui
+e quando eu fizesse comandinho aqui
+e fala para mim aí
+é só os alunos de se fosse só as aulas
+da causa pelo GPS né Beleza então vamos
+lá vou comandar aqui e vamos ver o que
+que é corre aqui mais um novo spoiler
+apareceu aqui para mim e agora
+d537 1436 colunas vai perdão linhas
+agora eu fui para 12.538 linha né então
+quanto o solo já essa eu tenho no meu
+banco
+e os 12 mil quinhentos aí
+12.538
+então show de bola então aqui ó filtrei
+agora eu já fico triste o fogo nas que
+eu quero ir a quantidade de linha
+diminuir o brutalmente aqui né Show
+Beleza então tá bom
+bom então
+só que agora eu amei variáveis né se
+você olhar lá ó se você olhar aqui ó
+então todas as coisas ficaram né então o
+que deu gente pode ver aqui ó quanto no
+graduação
+14 na
+1414 Então tem que mudar esse negócio né
+então ao trocar aqui vou fechar aqui e
+aqui ou se a gente for olhar variável de
+coturno para doação o que que é
+representa um é matutino né o dois é
+vespertino três a integral e 14 noturno
+tá então a gente vai ter que fazer a
+recodificação sem variáveis né então vai
+ter que virar matutino o2r pertinho
+assim por diante para a gente conseguir
+analisar
+Oi tudo bem
+a festa Beleza então faremos isso como é
+que a gente faz isso né então ó agora o
+meu banco de dados é isso que eu trago
+aqui é que eu chamei de microdados isso
+aí o que tem menos observação eu vou
+usar a função mutatis né O que que eu
+mudei de faz muita gente ele cria uma
+coluna né no teu banco e aí essa coluna
+ela vai ser criada de que forma é o digo
+aqui o nome que eu quero para as colunas
+que eu chamei de pó e aí eu uso quem me
+zoando e também tem lá no Scan tá então
+por isso que eu falei aqui para sua
+maior proximidade com esse Kelly lembrou
+na palestra Então essa foi a virada de
+casa né então o queijo ano se você
+colocar aqui ó a tua eu subi aqui ó aqui
+a gente tava com o estado civil né então
+estado civil O que é isso mano Quando
+queres 01 que a nossa variável é igual a
+Então vai virar solteiro beleza O que é
+1001 podem ver vai virar casado que
+quando aceso agora separado quando eu
+devo pedir a viúva EA no verão aqui é o
+que está aqui é o próprio dicionário que
+falou Para gente isso né então Ó a é
+solteiro ou é casado separado viúvo
+Tudo bem então aqui a gente vai
+codificar essa variável então um o o ar
+que tinha antes que vai virar solteiro
+bem na que era casado e assim por diante
+tá então assim a gente vai fazer para
+todas as outras variadas que a gente vai
+trabalhar né que é a cor do aluno a
+nacionalidade escolaridade
+região
+sexo a renda na a a bolsinha se ele
+entrou com bolsa né o de afirmar de
+política de afirmação tudo nós aqui
+seu ao tem alguém que superou a família
+né
+e ir horas de estudos
+turno e pronto beleza só que aí depois
+que a gente transformar vocês variar vão
+ficar as outras variando né Então deixa
+eu ver aqui para o sol
+ao mestre Almeida pessoas aí tranquilo
+né Sem problema
+então
+aqui agora a gente vai excluir as
+variáveis que a gente não vai mais
+utilizar né porque que aqui eu tô
+querendo variar não queria variável
+turno eu criei a variável área de
+estudos né E essas variáveis aqui ó
+ficaram obsoletos Já não preciso ter
+mais ela né então eu posso tirar os da
+memória para facilitar meu trabalho né
+então o que eu tô fazendo aqui né então
+o select Quando eu falar Everything eu
+tô pegando o banco todo né todas as
+colunas não é isso tá então está
+selecionando todas as colunas e tirando
+aquelas que eu não quer que é 01
+02 03 o que eu transformei então todas
+as ficam transformei então eu vou tirar
+e vou ficar só um acho que eu fiquei
+transformadas né que eu criei as novas
+né então vamos lá vou vou clicar aqui
+nesse bloco aqui ó se tiver alguma
+dúvida durante o percurso aí pessoal
+porque eu não tá aí testar
+E aí
+eu comandei aqui E aí beleza como é que
+eu sei que deu certo né Vamos lá vamos
+ver aqui ó eu fiz no micro da disso aí
+né
+bom então vamos puxar aqui vamos dar um
+nem né ou com nenhum instante faz tá E
+aí do microdados ter um
+e se você for fazer agora ó
+antes a gente tinha o que vou pegar o
+anterior que o que se traduz né então
+antes a gente tinha isso aqui a gente
+tinha como o grupo no idade
+coturno para doação 30103 tá não é todas
+as paradas aqui né Agora eu tenho essas
+aqui ó anuidade nosso objetivo da
+formação geral estado civil
+nacionalidade região renda na hora de
+estudos nota formação geral até objetiva
+acordo alunos qualidade do pai sexo sem
+graça ou seja direito eu transformei
+hoje variáveis né eu exclui acho que eu
+não precisava mais tudo bem aqui
+em alguma dúvida
+Ah tá tranquilo tranquilo
+boa então vamos lá
+E aí
+e
+agora a gente vai entrar numa etapa né
+de analisar né Ah beleza mas pouco será
+que todas as vagas estão completas né
+Tem várias faltante ou não tenho né
+Beleza então aqui o que que eu tô
+fazendo eu tô pegando o banco micro da
+ATI que Jael esse novo né eu trago
+bonitinho né coisa o horário que a gente
+quieto do já transformado Enfim vou
+selecionar tudo né E aqui embaixo né
+Essa essa expressão aqui eu vou explicar
+para vocês como é que funciona então por
+exemplo se eu pegar aqui ó micro doses
+tem dólar para acessar uma coluna e eu
+pegar aqui por exemplo sei lá estado
+civil
+E se eu fizer 15 near
+e essa variável
+é né ele vai me trazer ó trouxe tá então
+o que que a tua falsa perguntei para ele
+é Enia ou não é né e ele vai me trazer
+tro se for n a e falsos não for tá
+beleza tudo bem Então vão se eu que se
+seu internamente não é o que que a tua
+falso e 01 né então é um Cetro e isso é
+falso então se eu fizer soma isso aqui
+o quê que vocês acham que vai dar de
+resultado
+o galho de valores autênticos
+quê que vocês acham que só Mestres outro
+lado a quantidade de valores faltantes
+na verdade estado civil i
+Oi tesão erro né
+o Rangel acha que vai dar um erro
+eu fui eu acabei cores ao Jorge Renata O
+Jorge falou que acha que dá um erro e aí
+quem vai com George quem vai cure ou tem
+uma terceira opinião
+E
+o Vitor falou que vai com Yuri
+e vai dar são de São Jorge para escrever
+aposto de então aí
+[Risadas]
+o mestre ele botou o dinheiro né então
+já da Visão já aqui a Então já tá
+sabendo vamos ver vamos ver aqui vamos a
+gente vai ajudar ó a deu 2079 né então
+de Fato né Ele contou a quantidade de
+trouxa que tem aqui né então a quando
+vai estar surgiu tem 2079 valores
+faltantes lá então e que significa né a
+dentro da varejo estado civil por
+exemplo pessoas podem ter não Não é não
+sei o questionário acho que tinha que
+ser respondida não cuidava Popular mas a
+pessoa que podia ter faltado né para na
+prova né então podia gerar esse esse
+valor faltante lá né então tem que
+analisar para ver porque que tenha a
+fonte né mas olha só o quanto que tem
+aqui se eu fizer um din-din isso aqui
+não é lance né se olhar a quantidade de
+observações que tem o microdados
+tem estado civil
+e ele é 12.538 né então o
+2079 / 2.538
+e representa 16,50 e oito por cento né
+aí cabelo você avaliasse isso é muito
+pouco tá na tua não Tem ajuda
+observações e outra coisa se você tirar
+essa essa essas 2079 observações cada
+linha que tiver esse valor faltante ele
+vai jogar todas as outras colunas estão
+preenchidas fora né então isso realmente
+é algo que você precisa dar uma
+analisada com mais calma né antes de
+excluir qualquer tipo de observação da
+tua dupla banco tá então a critério
+didático aqui a gente vai simplesmente
+exclui Tá mas quando não tem meu
+trabalho e você olha né um olhar mais
+crítico para ver e muitas vezes o que
+você está procurando estão essas coisas
+né Se tiver trabalhando com fraude por
+exemplo nessa aqui quando você sofre
+trote Então tem que realmente tomar
+cuidado com essas coisas mas a critério
+didático aqui a gente vai foi é mais
+antes eu vou eu avisar o quanto de
+variável faltante tem então o que que tá
+fazendo aqui ó essa parte Zinho aqui
+exatamente que a gente fez nem parece.
+Aqui significa que eu tô olhando todas
+as variáveis né então eu tô eu tô vendo
+se você entrou falso e depois somando em
+todas as variáveis tá E aí o Samuel
+sewall Ele faz isso aqui então tem essa
+sim táxi aqui um pouco mais para rodinha
+né então eu vou selecionar aqui porque
+eu só vou como mandar esse bloco aqui né
+então vou lá controlar a gente só para
+ele rodar essa parte aqui tá para
+mostrar para vocês qual vai ser o
+resultado né então você vem aqui ele já
+gerou um spoiler para vocês do resumo em
+acho nesse você fica quiser clicar aqui
+ele já vai aparecer para você aqui ó
+então a variável idade tem 10
+constelações faltantes mas nota geral
+têm
+2.795 nota objetivo da formação geral
+têm 2.795 né aí o fio 2079 tal né E
+só então todos os outros aqui então a
+gente precisa que eu não tem faltante e
+os outros estão 2079 de faltar tá beleza
+agora e que a gente vai fazer a gente
+curte o precisar didático né para
+eliminar essas variáveis tá então aqui ó
+eu vou mandar só esse bloquinho aqui tá
+então vou lá contra o Inter aqui vou
+selecionar da controle em ti
+é só
+a beleza e agora vamos ver aqui como é
+que ficou essa história microdados a
+em micro doses tem CNA
+[Música]
+vamos vamos ver vamos dar um dia aqui
+que a gente vai ver a quantidade de
+linhas e colunas que ficou tá é claro
+que a gente pode olhar aqui né nós pode
+fazer o dia em também
+então bora já estamos aqui ó 9.676 e 13
+né Então olha olha o nível da parada né
+então antes a gente tinha quanto vai te
+pegar aqui o anterior micro doses a
+gente tinha
+crueldade their né as 20 tinha ó
+12.538 né então eu vou pegar esses 2.538
+então vou pegar essa primeira informação
+né então o jeitinho para pegar aqui a
+primeira informação e vou tirar
+e nessa outra informação aqui né Então
+na verdade do anterior CNA né então para
+a gente ver quanto que ficou de Fato né
+bom
+então a gente excluiu
+2902 observações né mas você viu que é o
+máximo que tinha era
+2719 né então você viu que você excluiu
+coisa mais aí na história né então toma
+cuidado com essas coisas tá parece
+excluir valor faltante tá então beleza
+mas poderia ser muito mais né você
+poderia ter excluído muito mais tá
+beleza então aqui essa segunda parte
+aqui é só para você confirmar né se
+o quanto que se realmente eliminou né as
+variáveis faltantes né então e que eu
+vou fazer aqui
+e aqui eu só essa parte aqui ó resumo
+Geniais queimou esse aquilo queimou
+Extra né esse pacote Zinho aqui ó porque
+a gente importou
+e esse aqui ó olha vídeo mais
+e esse pacote que boia dispara aqui né é
+esse que tá BL aqui que vocês estão
+vendo né então aqui ele vai botar no
+numa tabela que vai trazer no fundo
+preto só isso tá então vou rodar aqui ó
+bom então vou contar aqui o primeiro
+depois eu vou tirar os animais e vou
+mostrar na tabela então tia se eu clicar
+aqui
+ele já vai mostrar para mim eu posso dar
+uma maximizada aqui ó
+aqui ele pegou antigo né ele ainda pegou
+Hospital vão com as observações
+faltantes né Então por quê Porque ele
+botou aqui ó resumo Geniais tá vendo
+agora se eu pegar o
+resumo Geniais
+dois
+grandes
+nao2 aí ele vai me trazer o que eu quero
+Então vou botar um dois aqui agora
+ó e vou rodar de novo só para você ver
+bom então agora eliminou
+[Música]
+em todas as observações faltantes das
+variáveis as variáveis que não estão
+mais com observação faltantes tudo bem
+Oi e ele botou aqui essa tabelinha com
+fundo preto né eu botei o Pego aqui né
+eu posso fazer o que o jeito que você
+quiser nessa parlamentar largura tudo
+mais botar a imagem colocar aqui um
+formato mais bonitinho para publicação
+de artigos Enfim pode fazer o que você
+quiser aqui que não pegou aqui está a
+mulher deve tá bem legal tá você quiser
+aprofundar a beleza todos os dias até
+aqui pessoal tranquilo
+Tá beleza
+tá então tá bom
+bom então vamos lá que que eu tô fazendo
+aqui agora PSOL agora a gente vai
+começar analisar aqui as nossas tesouros
+né então eu vou botar aqui algumas
+variáveis algumas algumas indicadores
+descritivos né
+estatísticos na então Ó a quantidade né
+que é a quantidade de notas a média das
+notas
+essa aqui é a nota objetiva e atípicas
+são parentes né a nota do Enade na
+verdade é uma ponderação entre a parte
+específica e a formação geral tá mais a
+gente vai me trair né aqui para critério
+de idade a gente não vai olhar
+ponderação de fato da nossa demais
+chorar é só Nossa o hora a gente vai
+usar essa objetiva que hora a gente vai
+lá da formação geral em chip mas a
+critério de idade por mesmo né a gente
+vai se preocupar com a filha dignidade
+ali de fato de quantos anos tira em
+termos de ponderação tá só esse
+parênteses Mas se você quiser analisar
+de como é que eles foram lá no curso de
+baixo vocês tem que fazer a congregação
+das notas Só esse detalhe
+então
+média mediana né que a função mídia tá a
+moda Monte Castelo da instituição é de
+cima que a gente importou
+sdd Standard deviation né que é desvio
+padrão é dividido pela média para dar
+tipo conhecer tiver direção a simetria
+EA com those tá então ele vai trazer
+tudo isso aqui numa tacada só tá E
+aquela cinza contigo ainda não expliquei
+aqui por certo né então o Samurais ele
+vai te permitir criar novas variadas né
+e fazer agregações pra tu trazer tudo
+isso de uma tacada só tá então estou
+selecionando a nota fazendo aqui a as
+medidas descritivas e aqui o vô
+ordenar em ordem decrescente ou seja do
+maior pelo menor e termos da mediana tá
+E aqui só tô botando uma naquela
+tabelinha de fome futuro né então vou
+mandar aqui para vocês verem o resultado
+tá E aqui ele vai me trazer estatísticas
+resumo da nossa amor
+o
+Tom aqui na primeira
+o seu o charquinho
+E aí vai me trazer ó então tem
+9636 que restaram e depois de tirar os
+assaltantes a média das notas foi 42.0
+nós antes em
+mediana foi 40 a moda foi 40 coeficiente
+de variação foi 37/42 né acima de 25
+porcento você fala ele pode dizer ali
+que tem uma heterogeneidade nas
+novidades né claro que isso vai variar
+de tipo de Exposição na das variáveis o
+que você tá trabalhando né mas a
+simetria maior do que zero né então aqui
+a simetria Positivo né e a cor dose ou
+seria o grau de achatamento da curva
+dessa nota né ela é Ela é abaixo de zero
+Então ela é prático tica não é achatada
+não para tu a gente vai ver um pouco
+melhor isso de graça tá quando a gente
+for fazer histograma a gente vai
+visualizar isso melhor eu explico para
+você ver melhor
+ó e aqui a gente tem algumas
+estatísticas descritivas então a nota
+mínima foi zero então tiveram tiraram
+zero
+primeiro corte ou seja 25 porcento das
+notas foram até 30 a mediana umas 50 por
+cento dos alunos GDS tirando 40 arrumei
+a média foi 42 O terceiro quartil foi
+55/75 por cento tiraram até 55 e o
+máximo você 90 assim e aí vocês acham
+que o pessoal foi bem lhe dei só olhando
+aqui ou não
+e já para estudar mais um pouquinho em
+bem mais vocês acham aí
+o Jorge foi mal faz for lá só foi mal
+porque
+a marca distribuição tanta
+assimétrica à direita né Assim que é
+positivo
+Oi e o quê que você quer dizer é se
+manter positivo
+que a causa dele descrição tá do lado
+direito
+você sabe que nota baixa
+boa sensacional muito bom olha só que
+ele falou que só
+a assimetria positiva então é claro
+quiser que não é tão grande assim tipo
+empresário 18 né então não é tão
+assimétrico assim né mas eu tô forçando
+aqui a simetria direito para vocês
+entenderem tá então assimetria positiva
+então a calda se ao longo aqui mais à
+direita né que nem o Bernard mente saiu
+mestre Jorge falou né EA concentração
+dos valores foi aqui ó a esquerda é o
+que que você quer dizer quando eu ando
+para cá eu tô aumentando as notas para
+levando para casa diminui né então aqui
+ó concentração das notas são menores né
+de menores notas do que nós maiores Se
+fosse aqui fosse divertido que a
+simetria força negativa já seria o
+contrário né os alunos teriam ido bem né
+as notas não tá concentradas aqui né mas
+não foi o que a gente viu né É claro né
+Aqui é zero de 18 - um negócio então
+assim não é um é um negócio bem discreto
+né não é bom então a simpático assim não
+vai ser a gente vai conseguir ver
+direito nessa simetria dá para ver mas
+assim discreto né tá tudo bem isso aí
+alguém alguém Viajou muito nisso aí
+tranquilo
+Oi beleza
+a beleza e outra parada como é a
+negativo aqui a gente imagina que seja
+um pouco mais achatada né no quarto ela
+não seja algo desse tipo aqui ó se ela
+fosse algo desse tipo aqui só que seria
+maior do que zero
+seria electroacústica E aí tivesse no
+meio seria aproximadamente já era né E
+aí aqui não é ruim né E aí seria mais
+próximo de uma normal né um
+comportamento bem bem delineadas Seria
+algo desse tipo aqui
+então não daria nem muito achatada nem
+tu aguda
+Beleza então vamos fazer os programas
+para a gente tirar a prova real né então
+aqui pessoal a gente tá usando já pote
+dois né eu não vou entrar tanto a fundo
+nos detalhes aqui se a gente não vai dar
+tempo da gente terminar tá então
+basicamente O que que você precisa Minas
+Gerais para fazer a gente pode ter dois
+mas hoje eu pode se deve trabalhar com
+camadas tá então você vai funcionar
+nunca mais e nem pão primeiro passo para
+se fazer gráfico de pote dois tem que
+colocar o banco de dados né segundo
+passo é a geometria dos dados então se
+você quer um histograma se você quer um
+gráfico de barras um gráfico de
+dispersão na gráfico de pizza não é a
+geometria né você vai adicionando tá
+mais Alice mais vim aqui ó eu adicionei
+a camada que aqui eu boto o banco de
+dados aqui a parte técnica Fernando
+graça então eu boto eixo X e eixo Y
+seu aqui é o meu é a minha geometria né
+seu eu quero Instagram tudo mais aqui eu
+vou colocar o que o título do meu braço
+lá então eu quero o histograma da nota
+dos alunos análises vão esses tentar o
+título para aparecer lá na em cima né
+aqui é o ajustes o nome 2x tivesse a
+nota e o eixo Y que a frequência
+relativa né se aposentar bom
+então vamos ver aqui como é que fica
+essa história né claro aqui que eu botei
+a cola igual Black a Barrinha em volta
+vai ser preta e dentro da do Instagram
+das barrinhas do histograma vai ser azul
+claro tá só isso mas basicamente é isso
+em linhas Gerais como é que a gente essa
+parte dois primeiro base de dados
+segundo parte técnica quer colocar eixo
+X e eixo Y se você quer residencial na
+cor no tamanho
+a terceira parte geometria mas se você
+quer um gráfico de pizza gráfico de
+barras gráfico de coluna e depois você
+coloca se você quiser colocar mexer com
+eixo né Colocar logaritmo e tudo mais
+você consegue faz você botar em reagir
+dólar e
+também depois você coloca o título né
+coloca título eixo e tudo mais mas em
+linhas Gerais é isso só não tem muita
+dificuldade
+então beleza vou comandar aqui e aí eu
+vou aqui o Toy ajustando né a aqui
+pessoal eu eu até eu tinha falado aqui
+que a gente vai precisar Mas não esqueci
+dessa parte aqui então aqui esse aqui ó
+esse vídeo Jackson na verdade a gente tá
+usando tá ele tá usando aquela parte ali
+eu não tinha visto não tinha lembrado
+mas o que que ele faz se ele vá agrupar
+janelas e vai pegar a janela cê vai
+botar os gráficos ali que você perdeu
+então
+e aqui ó ele botou lá embaixo do outro
+tá vendo Então três linhas e uma coluna
+é isso aqui que ele fez então eu criei
+esses três gráficos armazenei nascer
+variáveis aqui de hoje é densidade gente
+tem cidade então eu fiz a frequência
+relativa e o suavizado né programa
+suavizado e juntei né Estou pelo que a
+gente não estou lá né possa se for
+traçar aqui ó de fato
+e você vai tentar trazer uma coisa mais
+assimétrica de leite aqui né Então as
+notas vão tá mais para cá do que para lá
+né
+E aí né a gente imaginou e o mestre
+Jorge falou aí né Tudo bem tranquilo
+aqui
+Que belezinha
+bom então um pouquinho mais achatado né
+também que nem era por causa de falou
+Para gente aqui deu erro nesse slide a
+rins também pois é então é porque tia eu
+tinha falado você tirar mas depois você
+vem aqui ó no estalo você vem aqui ó
+vídeo hein Ingrid e Jacques entra
+daquele aí dá uns tal e depois da o rico
+ai nele que ele vai rodar de boa tá
+tranquilo ele está louco ou não
+ele tava ele tava com tudo outro aqui já
+que você também E aí
+e o m aqui na qual é possível
+vamos fazer o seguinte compartilhe
+comigo tá comigo roxo compartilha Terra
+perto de resolver rapidão
+E aí
+A
+Tati vai daqui não Ué você não tá com o
+rosto Ah não você tava na outra e assim
+vai mandei
+Ah então eu vou ter outro PC aqui
+E aí
+se
+alguém mais tem esse problema ou foi o
+sol
+e esse foi eu viver aqui depois o meu
+rodou aquilo
+nossa tranquilo mas não pode botar aí
+nesse time tranquilo estou tentando lá
+de boa tá de boa então manda aí ó botar
+E aí como é que tá trabalhando é
+hoje é só colocar mexer esfrie Eva tá
+pedindo para sair e entrar de novo não
+aqui oi
+tá pedindo para sair entrar num não sei
+que segue segue o jogo depois eu passo
+lá depois te dou uma bola e se chama lá
+no Zap que a gente
+vê se eu gosto dele ainda está bem
+não é complicado mesmo no outro dia no
+que se mexe e era presencial nosso choro
+para chora com os alunos
+é complicado é vamos lá então a gente
+vai fazer agora algumas análises Para
+Comparar as médias por sexy tá desse
+vídeo aqui no masha Então vamos lá então
+o que que eu tô fazendo aqui assistir eu
+tô pegando a base sem os animais já né
+selecionando a variável estado civil
+notas sax alto do aluno e sexy agrupando
+o Séc o ou seja vou fazer lá é
+mulher solteira né mulher viúva mulher
+casada e depois homem solteiro o homem
+fio o homem casado e se puder eu vou
+fazer todas as combinações possíveis
+aqui é o que o grupo vai fazer E aí o
+que que eu quero nessa nesse agrupamento
+né Eu quero trazer a média EA mediana né
+a coisa a gente variação da amplitude e
+eu vou ordenar pela mediana aí vou
+trazer uma tabela do retinho mas na
+tabela o fundo preto aqui tá aí beleza
+acabou não vou fazer mais que vou fazer
+outra tão dela né a tabela que vai ser
+vou selecionar estado civil depois vou
+selecionar o sexo e vou fazer o tempo
+disse que que é esse vou cruzar né então
+eu vou ter a quantidade de
+homens do
+[Música]
+solteiros homens casados e a simples ó
+e aqui eu tô fazendo tudo isso aqui está
+aqui em proporção né ele vai em
+transformar em proporção
+e aqui eu faço
+outra análise que as fotos tá Tá então
+vamos fazer aqui a gente vai fazendo
+aqui por corte
+Oi
+amor vou mandar aqui tudo eu mostro para
+vocês mas depois se quiserem podem fazer
+proposta também
+então vamos lá microdados aí pô eu vou
+aqui embaixo eu vou microdasys t i
+e olha ele já abriu ali né vamos vamos
+lá ali ele abriu rapidinho
+ó Então por que que ele fez aqui ó
+O quê que significa isso aqui ó ele
+cruzou é o sexo estado civil então a
+masculino solteiro feminino solteiro e
+por diante dele Ele ordenou pela mediana
+então a nota mediana maior foi masculino
+solteiro né então
+masculino solteiro que tiveram as
+maiores notas medianas aqui né porque
+que eu olhei mediana que a variabilidade
+foi ao né então a média levou late né
+então quando a média quando a
+volatilidade é alta a média não é uma
+boa edificador beleza a gente usou
+parmegiana aqui por causa disso beleza
+logo depois que foi feminino solteiro
+depois masculino outro mas tem separado
+você me no outro masculino casado de
+cinco diante e aqui você vê também
+amplitude interquartílica que também é
+outro indicador de variabilidade tá
+tá tranquilo vamos passar para cá aqui
+eu tenho bom né que a gente fez então
+selecionei o estado civil o sexo
+feminino e tudo mais só que aqui a gente
+não consegue olhar muito bem porque que
+ela está em absoluta né então por isso
+que eu fiz em relativo né é um relativo
+vai saltar os olhos muito rápido então
+aqui ó
+64,3 mil por cento são solteiros e
+Masculino tem um Qual é o perfil da
+galera de UTI dia desce galera do boba
+né tudo solteira 64 por cento solteiro
+aí depois cadeira depois disso tem
+[Música]
+007 aqui né que
+são os homens casados né homens casados
+aí depois tem problema 11 pouco
+aí são mulheres solteiras né e você vai
+vendo aqui a o perfil da galera de 10
+beleza e o outro que a gente fez foi
+pegar só estado civil né então separado
+aí você veio aqui que viúvo tem
+pouquíssima né Tem muita coisa muito
+pouca coisa aqui para gente analisar né
+mas ó as portugueses a maior parte foi
+a parte busca né achatada né Mas se
+tiver 12 aqui que foram leptocurtico não
+separado e o outro e a assimetria todas
+elas foram coisas divas excepcionalmente
+o viúvo não né mas viúvo ou tem 11
+observações né então tem como a gente
+fazer muito análise do perfil
+mas foram todas as métricas positivas
+que indica que galera uma foi muito bem
+né e Beleza então daqui a gente pode
+tirar esse Insight
+o ok então a gente com parou aqui
+sexo estado civil né e aqui a gente pode
+olhar os gráficos agora né então tudo
+que a gente viu ele na descritiva a
+gente pode fazer graça né estoque tô
+fazendo boxe esporte então box-plot como
+é que a gente vai
+selecione o banco de dados né aí ó
+e eu tô depois selecionar o banco eu vou
+para parte estética né o eixo X vai ser
+o estado civil achei tão a nota e aí eu
+quero preencher o status viu porque na
+cor né então para cada solteiro casado
+viúvo eu vou ter uma coisa diferente no
+teu box Klein tá
+e a geometria é o próprio blogspot né
+então já unbox pote o título é gráfico
+de box Platina nota está de serviço ex
+oi oi x estado civil eixo Y lápis e aqui
+eu quero fazer para cada a cada sexo
+masculino e feminino
+unbox uma análise diferente né então eu
+vou ter análise por sex então para cada
+para cada faceta né sexo a gente vai
+fazer mais
+e aqui eu só posso colocar o eixo né que
+eu botei para outro acionar o eixo da o
+nome da do eixo X para ficar melhor no
+gráfico aparecer melhor só isso
+o
+Tom vó
+E aí
+bom
+então a gente fez isso no GG port e
+depois o cox ele né para ficar dinâmico
+tá então a gente olhou aqui ó ele fez
+para cada sexo ele fez uma análise né
+então se você olhar aqui as mulheres
+separadas né
+Elas tiveram um terceiro Partiu aqui de
+53 né então se 75 por cento das mulheres
+separadas retiraram até 53 né era um
+pouquinho melhor do que essas outras
+aqui né apesar da mediana ou seja
+cinquenta por cento das notas tecido
+inferior das outras mas o terceiro
+quartil aqui foi melhor né tiveram aqui
+alguns out Larissa possível vários né
+então observações atípica sakineh que
+saltaram né foram acima do normal né o
+notas aqui muito alta você 37 pontos
+cilindro e tal 73 um pouco nas casado
+aqui e notas 10 e 3.2 aqui embaixo né
+aquele inferior também não é possível
+falar em frio aqui
+beleza outra coisa que a gente pode
+notar seguinte a simetria né então o
+separado ó o o segundo quartil ou seja
+tá muito próximo aqui do primeiro
+partido tá muito mais próximo do
+primeiro artigo que do terceiro na aqui
+o terceiro quartil né então o que que se
+indica se você tombar aqui o teu box
+forte né
+O que significa é como é
+que ir nesse caso aqui
+em Ubá
+e se você que tomar o teu box pote para
+e aqui eu
+é de um aquele que 3 né então aquilo que
+está mais próximo do que é um quilo de
+três então está aqui né Então significa
+que algo tipo assim né é uma simetria
+direito é um positivo o que quer dizer
+que apesar dele ter Deles ter me tirado
+as maiores notas aqui nem tem o terceiro
+quartil
+e eu também não foram não foram muito
+top né Tá então por conta dessa
+assimetria aqui né aquele apresentou já
+esse cara aqui ele já foi mais você pode
+ver que tá meio amigo né a distância
+entre o primeiro Com artigo 3º quartil
+são quase as mesmas né então é algo mais
+confortável né então é uma distribuição
+mais próxima da normal né mais simétrica
+na implamed igual a moda que igual a
+mediana essa distribuição aqui então tá
+mais comportado apesar de ter esse às
+vezes observações aqui que fugiram né aí
+aqui no masculino né a gente também teve
+alguns certo padrão e também os
+solteiros foram os que tiveram as
+maiores não acontece aqui como a gente
+ter visto lá né descritiva né não
+masculino
+o enterro de terceiro quartil mediana
+também né os maiores medianas e terceira
+partes também e as assimetrias tirando
+essa aqui foi uma surpresa né mas tem
+muito pouco dado né tenho 11 observações
+ó esse aqui né mas apresentou aquele
+padrão invertido né que a gente viu que
+é
+e ele ficou o primeiro quartil
+Oi tá muito mais distante do segundo do
+segundo do que o terceiro né Então tá
+piscina então parece que viúvas apesar
+de terem poucas notas eles não foram tão
+mal assim né aqui então É mas a gente
+tem que colocar poucas notas também para
+dizer assim que eu disse né então beleza
+então box-plot e a caixinha mágica dos
+estatísticos aí né você vê que a
+quantidade de criança de informação que
+você tem né e pouco utilizado aí nas
+empresas infelizmente né Então olha
+quanta coisa que estão perdendo aí e não
+utilizar unbox pote né que é
+fenomenal é muito legal então vamos lá
+vamos continuar o sexo e região né então
+comparando sexo tá civil agora sexy
+região eu só vou selecionar está se viu
+nossa região horas de estudos ex vou
+agrupar por sexo e região ou seja vou
+ter masculino região norte masculino
+região sul é menino região norte
+feminino região susto porque
+média mediana com esse integração
+amplitude assimetria e curtose e vou
+ordenar pelo a mediana pela média perdão
+aqui os remédios
+responder E aí
+depois a gente faz um tempo para ver a
+quantidade por região sexo tá então
+beleza A
+E aí
+Ah
+beleza então como a gente viu ele cruzou
+sexo com a região né então feminino
+Nordeste você olhar que é média o curso
+de variação não foi tão alto assim né a
+gente põe maior que 25 mais não foi tão
+maior eu apertei aqui para usar mede não
+lembro agora da justificativa Total eu
+usei remédio mas
+o remédio aqui da situação então
+aqui as mulheres do Nordeste
+representaram Apesar dela ser Em menor
+número né
+Elas tiveram uma média bastante boa né
+até melhor que os homens né isso daí né
+então depois realmente Sudeste a minha
+no Sul as mulheres representaram bem aí
+né legal então é
+centro a aqui a distribuição é da onde
+vem os alunos DVDs ou região né então ó
+50,40 e 7 tô vendo isso deixe depois
+19 eu esqueci mais
+19,36 vem do Sul e assim por diante
+então majoritariamente Sudeste Sul na
+garagem saber é se você já consegue
+informar nos padrões né
+Oi beleza
+e vamos também fazer o nosso Box corte
+aqui para assar
+a religião e Sexo Então vamos lá
+E aí ó
+e como a gente viu as mulheres do
+Nordeste estão representando aqui ó
+terceiro quartil foi bem alto né perdeu
+o preço aqui mas foi um dos mais altos
+né a mediana faz mais alto deve ter
+dentre os melhores aqui né E também foi
+ó 40. 10 a mediana
+foi até maior que a maioria dos homens
+não é só isso aqui que só foi né na
+região sudeste na terra e outra coisa
+que a gente pode destacar que a simetria
+positivo aqui né do Norte é também mas
+faz tempo tombar para lá não olha
+positiva não aqui o primeiro quartil o
+segundo quarto tá mais próximo do
+primeiro né então é isso é somente
+depois disso né então assimetria
+positiva se vocês estão back o box pote
+você vai ver
+aí aqui a gente teve alguns valores
+ativos tão e aqui do Norte foi 76 não é
+bem atípica né E aqui embaixo teve 3.20
+também
+no sudeste então dá para tirar bastante
+informação é relevante aqui desse nesse
+Box pode ser fina para tomar para
+subsidiar políticas públicas gente não
+se vê né Tem várias variáveis aqui no
+banco e bolsas de afirmação e tudo mais
+você pode ver se eles bolsa tá fazendo
+sentido né inclusive foi objetivo
+análise lado do rapaz que eu
+acionei para fazer lá o mestrado em
+economia né Ele queria fazer atrás dele
+lá usando a base da Garante e não surgiu
+esse projeto aqui então é
+comparando as médias correndo e secas
+aqui eu fiz tem o renda boxe Pode render
+E aí
+Oi ó
+e aqui a gente pode ver que esse cara
+aqui se destaca coisa né com terceiro
+quartil foi de dez a trinta salários
+mínimos né então você pegar aqui ó de 10
+a 30 você pode selecionar aqui
+e olha essa 31
+até um e-mail né que é disparidade você
+vê a disparidade lá terceiro quarto tipo
+45 anos 30 e 54. 9 mediana 36 40 40 40
+4470 É parece aqui as pessoas mais
+abastadas né que tem uma maior renda né
+tirar uma as notas aqui em a 10 né
+parece mas aqui pro meu celular
+meramente descritivo tá para você dizer
+me fala você tem que fazer um teste
+estatístico né usar inferência
+estatística para fazer ali a tua análise
+de trazer realmente existe nenhuma
+diferença significativa olhei para dizer
+assim realmente as pessoas mais
+abastadas tem uma renda maior naquele
+meramente descritivo né cê tá olhando né
+mas parece que sim
+você pegar aqui de seis a dez salários
+mínimos também né que também tem um
+palavrão maior
+e assim por diante né então você
+consegue tirar algum site que você que
+interessante também renda
+e apesar de que você olhar aqui o
+a chave aqui de quatro cinco seis André
+r
+a fazer um motivo essa galera é aqui ó
+tá me mandou muito bem né E ela ah não
+essa aqui é acima de 30 e tem uma maior
+de tudo né acima de 30 como a gente vai
+pegar um menor do que 1.5
+e esses caras aqui fazer um contraponto
+aqui
+e
+três. Coisa fala com 5
+e esse cara aqui ele não tiveram estão
+na metade ali na da ideia né não tá nem
+muito abaixo nem acima né ele tá ali 14
+pontos 5 a 6 é é área três três a
+quatro. Alguma coisa eles não foram tão
+mal assim né tirar umas notas até
+interessante né então você pode analisar
+muita coisa aqui né muita coisa legal
+aqui ó é possível tilar estudou mais
+para ver fraude no exame e
+aqui pessoal a gente vai fazer o
+congresso de pizza também mostrando a
+porcentagem né então o preço de pizza
+mostra parte de toda né então aqui ó eu
+tô fazendo um tempo que é mas
+basicamente a contagem né da hora de
+estudo né então será que as pessoas que
+estudaram mais tiraram altas maiores
+também né E qual foi essa na verdade a
+gente não compareci Não Né não chegou lá
+aí você vai legal comprar né fazer um o
+banco Esporte também conhece mas a gente
+não chegou a fazer
+como aqui no caso eu tô vendo a qual foi
+a porcentagem de indivíduos que
+estudaram é de tanto Então é isso que a
+gente vai fazer então aqui tô fazendo
+próprio para transformar em porcentagem
+né aqui se plantou criar um Data Frame
+para jogar aqui no cofre ele já vai
+fazendo de novo pra gente então que bota
+as informações Label Frequency o tipo
+que eu quero e layout tu né
+e você ficou mandar aqui
+Oi ó
+e
+já interativo você pode ver aqui ó Qual
+foi a a a a classe mais frequente né de
+1 a 3 horas foi Amapá né
+42,6 por cento né de 47 foram 2822 por
+cenas aí depois de 8 a 12 10.8 mais de
+12 10.2 500 nenhuma pedras assista sal
+foi 8608 certo aqui se você quiser
+comparar só por exemplo é de 1 a 31 de
+47 o exemplo
+se você tira aqui ele recálculo tá vendo
+bate sempre por cento aqui ele recálculo
+aqui ó de uma 13 e 47 com 60 40 tá
+beleza
+E aí
+gente pode fazer também a prazer
+percentual Será que muitas pessoas
+entraram com bolsa ou não né então mesma
+coisa aqui tá mesmo análise só que eu
+trabalhava é isso que eu falo
+programação é isso que que eu mudei aqui
+muda é essa essa essa valiosa aqui ó eu
+mandei dessa nessa linha para essa horas
+de estudos para
+a procurar ingresso bolsa né então por
+exemplo lá quero fazer esse gráfico aqui
+né então vou mostrar um exemplo que para
+vocês porque que programação legal né só
+eu tenho esse aqui né então tem minhas
+aulas lá separado já tenho
+Temporada montado lá né eu venho aqui só
+quero mudar valiosa né como é que eu
+faço vem aqui clica aqui na
+oi
+vem aqui a
+avaliar que eu quero ingresso bolsa né
+Eu quero substituir esse ficar aqui né
+aí eu vou marcar aqui select né para ele
+mudar só na seleção que eu tô fazendo
+nesse não vai cagar tu tanto código né
+como cuidar então um select devem aqui ó
+ou
+e ele e mudou uma coisa né não foi um
+bom exemplo ele só tem que dar uma
+variável né mas vai ficar antes Eu só
+mudei uma variável ele mudaria e tudo tá
+ele mudar em toda parte do código aqui
+então já tá tudo aqui pronto É só dar
+então tranquilo
+Beleza então vamos ver aqui como é que
+foi porcentagem
+bom então a maior grande uma parte não é
+bolsista né
+e há
+os um bolsa Tem sim vou ter estudado em
+escola pública ou particular com bolsa
+de estudos Pois
+8,87 por cento logo depois sem por
+critério de rap sim por critério de
+renda eram
+4,77 por cento depois simples sistema
+que combina dois ou mais critérios
+anteriores depois sim porque estarão
+étnico-racial e depois tipo
+diferentes dos anteriores que você
+consegue já tem uma ideia também do
+padrão de bolsa
+a e por último aqui a cor né Qual é a
+cor dos alunos como daqui também são da
+maior manda bala
+E aí ó a maior parte de são brancos nas
+RS a parte né então aqui você consegue
+linkando né então a gente viu os alunos
+GDS Eles vem do Sudeste e Sul né eles
+são vai ver literalmente Branco lição é
+majoritariamente masculina então é
+galera agora cada né forte e aí né
+galera do Baú é solteira então você vai
+montando as coisas gente vai fazer uma
+autoanálise né então vai lá Funilândia
+entendendo Qual é o teu público né então
+a preta com 7,85 amarelo atraiu é 52 não
+quero declarado
+2,94 94% e indígena é a menor parte
+0,4 47 um pouco tá então muitas sol aqui
+beleza fechamos aqui análise né E aí
+belê Como faço para tirar aquele
+relatório que bonitão aqui né
+é muito simples né então depois que você
+colocou aqui no chance tudo bonitinho né
+então como é que eu queria assistir com
+isso aqui só pra vocês saberem né então
+contra o outro e você queria que eu
+tenho né ou você vem aqui ó e você pode
+inclusive rodar outras linguagens tá
+você pode rodar Python SQL
+best Stan sim você roda aqui em e o
+resto disso porta dezenas linguagens tá
+então você pode aqui na smackdown
+trabalhar se você quer Python você vai
+ser pode pega aqui uma coisa de Python e
+ele vai
+trazer para você de boa tá o pai aqui
+aparece aí não é é sacanagem né o pai
+também é pai tu postar Tá
+beleza então vamos fechar deixar isso
+aqui e aí rapaz vamos lá e como é que eu
+faço para gerar aquele relatório só
+aplicativo clicou aqui n se você já
+carregou lá e bibliotecas tudo mais ele
+vai renderizar aqui ó Tá rindo dele
+exame vai mostrar para você
+Oi e aí é só aguardar e deu erro aqui
+entendeu Aí a gente vai mudando aqui ó
+linha 154 ele te deu aqui
+ah ah eu deixei aqui
+aí eu botei uma, mais aqui ó que tirar
+essa veio aqui tomar uma
+e eu botei, de menos também é só só
+demais
+acho que agora vai lá
+e
+eu
+não ele tá ele tá carregando banco e
+E aí
+e ele tava carregando no banco agora ele
+tá rodando a renderizar
+E aí
+G1
+Oi ó Juro o relatório aqui
+Oi ó parte aqui neste não apareceu a
+logo aqui porque a gente botou aqui em
+cima
+Tá suave tá vendo motor aqui boletim
+aí aqui ó esse hashtag aqui ó ele botou
+aqui ok Zenaide Neto tá vendo ele mudou
+como principal aqui tá né E aí dentro
+dele tem esse estruturas né subtópico
+carregando um pacote né então o grandão
+você coloca o um tópico maior e o com 2
+ele bota o menorzinho né então dentro né
+dentro desse cartão então
+eu eu que sou ficar aqui vai me trazer
+tudo que tá me dentro desse hashtag
+grandão aqui né E aí ele vai me trazer
+no tudo passo a passo aqui que a gente
+foi fazer não né e tudo documentado aqui
+bonitinho né E aí cara mudou a base
+idade enviarão novas informações bota
+Olá base e manda o bar tá esse relatório
+bonitinho para você né aqui é vida né eu
+quero ajuda demais e eu gerei aqui
+você fez é claro né repouso Eu posso
+ficar aqui ele já tá publicado Ele
+pergunta se eu quero republicar mas eu
+tenho se eu tiver uma conta lá na
+república conhece assim que ter uma
+conta na reprise tal e aí você clica em
+publicar ele vai publicar para você na
+hora né o teu workshop tranquilo tá
+então é
+alguém ficou com alguma dúvida alguma
+coisa que quer xingar o professor
+fica à vontade
+alguma dúvida que especial
+e eu não achei tudo lindo
+o MEC fazer escravos
+como é que falta o MEC faz os gráficos é
+tu acha que é problema não como é que
+mesmo
+deve ser algum algum problema de
+compatibilidade aí no da biblioteca e
+tem que dar uma olhada para ver como é
+que resolve né É
+e depois eu falei com senhor acompanha
+direitinho tranquilo Se não chegar aqui
+no relatório em deles ou bonitinho
+não é só para mim aqui tá corte do
+relatório foram
+voltou aqui entendeu Foi o que ela
+mandou essa parte do relatório não rodou
+não compartilha aí para a gente ver
+ainda tem tempo que eu compartilhei para
+eu botar aqui é o Jorge né isso vamos
+resolver aqui
+vamos lá abrir o coisa para compartilhar
+aqui
+a mulher gostar tela
+se alguém não rodou também pessoal Olha
+só o gost de
+um problema aí
+se você está aparecendo agora tá
+aparecendo a
+site de é você volta lá é o problema é
+que você não botou o diretório correto
+volta lá no console vai lá a comer ali ó
+primeiro que você tem tempo tudinho a o
+diretório do root dia você me deixou
+continua o mesmo do meu você tem que
+botar o mesmo eu botando incluído pref
+É sério ali em cima é isso aí apaga e
+bota terceira de cima por favor
+E aí agora ele vai entender tudo nessa
+pasta aí tudo que ele fizer ele vai
+fazer nessa pasta aí que você tá
+trabalhando Entendeu Beleza agora dá um
+piquenique aí por favor
+E aí
+e vamo lá eu encontro muito só se
+transmissão da Tchau
+então vamos lá é clica ali não está o
+ponto perto e se dá uma hashtag por
+gentileza ali no mestrado quantos pack 1
+e agora roda de novo por favor no início
+da esq
+E aí
+o
+pesquises débitos a uma
+[Música]
+Oi Maria
+é
+difícil né
+o
+Korn
+Down #elenao débitos por gentileza e
+tira viu rua de cima vai lá dar um
+hashtag no débito aqui na linha dentro
+do essa minha 170
+a ir ali na linha 169 você tira, do Fogo
+E aí
+É mas ele batismal o corpo
+smartphone de fundar conversa tô tão
+lá vai lá vai lá no time trocar de novo
+tentei não vertical
+E aí
+Bom
+dia mais ponto ainda aqui ó
+e ele tá carregando no banco beleza
+E aí carregou
+E aí
+o William
+Oi
+Gil comem
+nem
+not found brizotti pão gente conversar
+caminhão 99
+um órgão
+vai vai ele não consegue nem digitar
+aguardem abre e fecha parêntese por
+favor rapidinho
+passar o que é
+e a
+digita aí o ar não estava em festa 40 e
+Holly
+E aí
+Não apareceu nada não
+e olha só ver onde quando você lê o
+arquivo fez a leitura do artigo
+Oi como é que vai lá no quadro lá no lá
+no comecinho onde ler o arquivo na linha
+e av3
+como é que eu minimizei tudo e parei
+a mexer
+E aí
+se
+tem alguma coisinha que você deve ter o
+aí no documento que ele tá
+te amo tá
+e
+fala aqui ó
+a
+volta lá no conselho por favor
+o
+console não é no Reino Unido
+é
+um
+lâmpadas passar aqui capital
+e
+vai subindo só no verso vídeo rapidinho
+para gente de novo
+a
+Equidade Campo
+Olá boa
+e ele não abriu nada do lado aí não deu
+erro mesmo
+eu não via 186 mais ou menos Largo onde
+a gente ele é mesmo arrepio
+o seu ter o diretório talvez tem aí tem
+que alterar lá também nós trabalhamos
+para baixo
+Não é aí não não não precisa mais não
+eu tenho dando Rage
+e não não não
+corrige Não tem não
+a Calma filha
+tchau não deve que não tem os anos vive
+na com muitas a
+é mas aí ele leva mesmo assim Milena
+É sim
+eu não sei italiano o Jorge Oi faz um
+favor cara tenta fazer uma parada aí é
+lá em cima tem lá o kinit onde você
+clica para para renderizar tem uma
+setinha para baixo do lado dele clica
+nela aí para abrir o menu sem ir ver se
+não tem outra forma de
+renderizar isso como sei lá com outro
+outro formato de documentos o que me
+parece não pode ser que esteja enganado
+que seja o formato que ele tá saindo que
+eu vou pandoc não tava conseguindo
+converter um formato eu consegui ter
+naquele ano embaixo e
+[Música]
+e não é faz sentir mas ou então lá no lá
+no cabeçalho do arquivo mudar para sair
+da para HTML De repente pode ser isso
+vocês chão com quadro aí não sei se tem
+já tem como a gente fazer a junção aí
+bebê quando a gente como a gente tá
+usando o
+e se render fome não tem essa opção
+quem não tem essa essa questão Tira aí
+na TV normal né na smackdown normal
+mas eu acredito que seja alguma coisa de
+dessa dessa biblioteca e de conversão
+mesmo do próprio kenitiro que tá dando
+alguma coisa aí tem que dar uma olhada
+com mais calma para fazer mais pode ter
+sido eu não entendi ali
+junto e tal
+operação nem percebi também
+smartphone Resort Pets é o problema está
+no próprio diretório faz o seguinte vai
+me mostra no diretório aí da do shopping
+rapidão aposta é mostra aqui
+e clica e clique aí na aí ó
+a cuidar control serviço aí
+e vai lá no coisa de novo vai lá em cima
+ver se vê se você
+colocou direitinho lá
+então eu não me programa de
+Rua Ivo Muniz esse não é esse espaço não
+Esse é o que eu ia falar cara bem
+provável que você tem que colocar o
+Underline no lugar desse espaço aí a
+gente possa
+fazer chata ele é chato conheço ele é
+chato com nomes nunca o que vai ficar
+são pequenos Passos
+vai espaço vai na também troquei faz o
+seguinte altere o nome do arquivo e
+tenta colocar eu acho que ele vai mudar
+é pouco mudando a pasta Agora Jorge
+Vamos mudar mudá-la mudá-la na paz Fica
+na paz aí é muda o nome da pasta
+É isso aí rapidão eu acho que vai
+funcionar eu acho que é isso
+e o que realmente está um problema sério
+né hum
+é só que ele não vai deixar você fazer
+isso em garganta mas tem que ser chato
+para ter que salvar eu ponho uma barra
+simples ó e o espaço ao invés de do
+eu não vejo ela está a fazer mudar o
+arquivo sem fechar aqui ó
+e a sala de creche em que botão no
+higeki se você botar uma barra espaço e
+vai começar aqui é só o espaço
+artéria e
+os Batistas espaço Aí sim
+é a embaixo também de novo
+E é sério será Oremos onde vão
+Essa é de que a gente vai vamos lá
+o s
+É isso aí se funcionar nenhum
+não acho ele botou aqui eu passo apetite
+e não comem falta de botou dois espaço
+um espaço Depois bota a luz ali né tem
+que ser dois ou não
+e não era um só era um tom Hall como
+logo não teria que fazer outra uma
+grande área tecnológica de concatenar né
+mas aí é melhor voltar e montar o
+arquivo nele
+é melhor melhor salvar Salva esse
+amarelo aí calma aí só
+Será que
+e
+o encontro enquanto você tá fazendo aí
+vamos tirar uma fotinha aqui galera para
+encher eternizar aqui o workshop beleza
+o deixou
+vou parar aqui de compartilhar mas daqui
+a pouco a gente compartilha Beleza então
+vamos tirar uma foto aí a presente para
+o Gabriel caminhoneiro por favor não tem
+problema se tiver com a pantufa do Bob
+Esponja não
+e a gente releva a
+O
+opa ele bola
+o Mário Walter está quase aparecendo
+agora
+a cebola grande assim
+a dá um sorriso aí galera e e
+[Música]
+E aí
+a
+gente pode parar de se eu ver você de
+rir boa deixa eu deixa eu ver aqui se
+salvou meu
+lado aqui tu tô com uma caneta com mouse
+aqui onde é que o meu mouse
+é a boa consegui aqui salvar vidas
+depois eu vou compartilhar com vocês mas
+cadê o Cadê o rapaz o Jorge né cadê o
+Jorge só que tava abrindo aqui na rua
+você pode compartilhar de novo aí para o
+ele agora ele falou até de responder
+tudo aqui agora você virou Questão de
+Honra já gente só saiu daqui Se tiver
+chance né É
+e
+agora não está nem abrindo prepare
+se você tem que salvar fechar aí muda o
+nome da Paz que volta lá
+então é isso que tá o r tá aqui dizendo
+que tava salvando salvando mas não ué ué
+está aqui falou para mim que tá salvando
+mas só tinha um problema salva aí
+E aí E aí
+E aí
+se
+você já desgraçado já dá um com trote
+dela aí não de boa
+você pode parar gravação né
+e pode ser pode ser que eu parar aqui
+o
+professor só acompanhei aqui a aula
+porque no começo de os pacotes não
+instalaram todos aí eu depois eu vou
+para gravação e volto daqui mas eu
+acompanhei certinho

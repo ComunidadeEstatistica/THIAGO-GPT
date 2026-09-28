@@ -1,0 +1,4728 @@
+# Apresentação do  MBA EM DATA SCIENCE E STATISTICS dos Professores e Alunos
+
+- **URL:** https://www.youtube.com/watch?v=ngl9z9gx-9Y
+- **ID:** ngl9z9gx-9Y
+
+## Transcrição
+
+há uns com mais oportunidades outros
+pelo menos uma hora ele está em cima tá
+gente está lá embaixo então tem altos e
+baixos Eu acho que o professor Bezerra
+né quando eu conhecido o trabalho para o
+seu Bezerra também foi professor da
+Unifor também fui na e
+vendo aí a rede que ele construiu e tudo
+mais né vendo a
+é o jeito que ele trabalhava na eu gosto
+de fazer coisas que façam sentido
+projetos educacionais né então todos os
+projetos que eu construo também só
+confia Educacional né Então para mim não
+faz sentido se não tivesse Educacional
+né então acho que teve e se mete
+bastante grande né e para quem ainda não
+me conhece né meu nome é Thiago Marques
+né Eu sou estatístico pela Federal do
+IBGE né eu trabalhei aí em grandes
+centros universitários e multinacionais
+é eu também
+lecionei em diversas NBA já na
+algumas presenciais outras online né
+entre aí elas a inibir da USP Esalq
+datasciense Analytics o professor
+convidado na puc-rs também né e entre
+outras NBA snapback chapéus
+a gente montou essa grade né gente
+desenhou essa grade aí para vocês né
+pensando aí né Realmente não é MB
+inovador né que a gente sente uma
+carência muito grande né nos MB ele sair
+fora de realmente trazer a o lado
+estatístico da coisa também de forma
+aplicada né nesse nessa pegada de
+desenvolver projeto mas com fundamentos
+entendeu então é muito serviço aí que se
+dizem sinceridade e mas não tem uma
+disciplina de estatística Então se
+perguntando o que ciência de dados é
+essa né que não tem uma orientação ali
+acerca da ciência que subsidia a tomada
+de decisões que está te esperando não
+faz sentido né um enviei sem ter
+minimamente ali os fundamentos da
+estatística por trás né ela que vai
+fazer com que você consiga extrair esses
+insights que são valiosos para as
+empresas porque que salário de ciência
+de dados são aí você resolve problemas
+da empresa né que são muito valiosos né
+você extrair padrões que ela nem imagina
+que existiam né então isso é muito
+valoroso né para as empresas e por isso
+que vocês são pagos né para é bem pagos
+né para para poder resolver problemas de
+negócio né então acho que é esse muito o
+foco aqui né Eh também falando um pouco
+aí da minha história também né também
+vim de um lugar humilde aqui no Rio de
+Janeiro na zona norte né também fui
+bolsista né na faculdade então eu tinha
+que ficar lá direto também na faculdade
+então ficava desde de manhã de noite às
+vezes né que eu tinha que assistir às
+palestras e isso me deu uma visão muito
+grande também né porque assistindo essas
+palestras a minha faculdade Apesar dela
+ela seu uma faculdade atípica porque ela
+me mostrava também esse mundo de do bom
+né é muito bem
+mais com as palestras foi assistir eu
+conseguia vislumbrar outras áreas de
+aplicação da estatística né então eu
+consegui não é criar ali tangibilizar
+tudo isso né e
+ir lá na em si cara assim é eu falo lá
+que lá é escola nacional de ciências
+estatísticas né mas eu falo aqui para os
+íntimos a escola nacional de ciências e
+vou aquecedora porque não é fácil né a
+gente sabe que ciência de dados
+estatística não adianta se falar que vai
+aprender em seis meses né já corre
+porque não existe isso entendeu eu
+demorei ali no mínimo quatro anos para
+aprender estatística ele dentro da em si
+né então Aprendeu o mínimo né Porque
+quanto mais você aprende lá você ver que
+não sabe nada né que o universo é tão
+gigantesco né aqui o que você conhece é
+vai se tornando menor às vezes do que do
+que vai aumentar eles Então o negócio O
+que é um pouco paradoxo né E
+lá dentro da da em né eu peguei eu fui
+eu comecei a estagiária na Fundação
+Getúlio Vargas trabalhei muito com essa
+parte de modelagem estatística né
+trabalhei não só a parte de precificação
+de móveis né que foi a minha minha
+monografia né depois eu fui trabalhar
+com o churn né que a evasão de alunos
+para na Unicarioca aí só que lá dentro
+Eu percebi que assim tudo que eu tinha
+estudado lá na Instituto do Mar estava
+sendo um pouco valorizado tendo ele tava
+pedindo demissão aí eu fui
+conhecer mais esse mundo de data Science
+que tava na época surgindo né Aline
+2014/2015 onde se falava mais
+sinceridade e tal eu comecei a ver os
+cursos lá na ilha de Mai na curso lá de
+fora também dá coceira ediex né curso
+bastante e vamos ler renomados watford
+Harvard Ei e aí o cara começava lá o
+data Science aí pouco o primeiro a aula
+lá sei lá o cara botar violão modelo de
+machine learning né Aí ele chamava de
+super vários Edilane aí começa às vezes
+eu aprendi nesse tal de super vários
+Edilaine aí começava lá regressão linear
+eu falei lá
+que que é isso aí beleza vamos vamos dar
+um crédito aí regressão logística falei
+ué mas calma É isso aí eu vi na
+faculdade né então a base ele né muita
+gente acha que que redes neurais por
+exemplo na estatística né mas a mais
+básica que existe ao percebe Tron que
+uma regressão logística né EA regressão
+logística é um modelo linear
+generalizado né que vem também da
+regressão linear aqui tá tudo na árvore
+genealógica da estatística não modelo
+mais clássico das táticas inclusive o
+pessoal da estatística por que que eu
+acho que é
+a vida é um bom muito grande muito maior
+na parte de ter ido que deu estatísticas
+e os caras chamam regressão linear de
+regressão aqui que você acha que vai
+fazer Vai estimular o que vidas passadas
+né agora o cara de
+Inteligência Artificial de ti ele bota
+lá olha eu vou fazer aqui uma
+inteligência artificial uma assim ó ren
+Olha só que coisa mais linda então é
+muito é muito melhor uma celular
+Inteligência Artificial do que uma
+regressão que você vai tirar vidas
+passadas né então a gente é muito ruim
+né Nós estatísticas somos muito ruim
+para dar nome para as coisas né É uns
+nomes assim que assusta né
+homocedasticidade umas paradas assim
+parece né de outro mundo então o pessoal
+ele tem consegue trazer isso muito forte
+né de uma forma muito mais
+mercadológica né e pega mesmo não tem
+jeito cabo e permite um aparte para
+ficar um problema do estatística é que
+ele dá esses nomes que não criam imagem
+no cérebro da pessoa
+e quando aquilo cria imagem no celu da
+gente não faz sentido
+aí para vocês como quando você vem com
+ele conta conhecer aquele com você meu
+amigo é o esforço tão grande para você
+entender aquele conceito né porque é
+isso que tem essa sensibilidade né de
+trem palavras que cria imagem do século
+da pessoa não bote nome difícil e que
+não vai criar a imagem no cérebro da
+pessoa pois é aí o tinha um super mais e
+dormir também que era tudo que eu vi
+estatística multivariada PCA caminhos
+métodos de clusterização de redução de
+mencionar idade de tudo isso então cara
+as você vê que as coisas o que que mudou
+de Fátima mudou a tecnologia então a
+gente antes não conseguia processar a
+imagem áudio vídeo só é
+texto né então hoje em dia grande parte
+dos dados são só não estruturados nesse
+ver e olha aí tô LinkedIn YouTube é
+enfim tem um grupo de família né então
+você vê que hoje você consegue processar
+os diferentes tipos de dados em antes já
+tinha aqui se tinha planilhas mas
+tabulário né hoje em dia dados não
+estruturados então o que mudou de foto
+foi poder computacional eu lembro na
+época que eu fiz concurso da lncc da
+professora Marisa ferro né E ela falou
+que o tinha trabalha supercomputação na
+época do pós-doutorado dela e ela falou
+que o celular na hora que ela tava dando
+o curso já mais poder de processamento
+do que eu super computador lá que ela
+trabalhava então é um negócio que a
+exponencial né tecnologia você não
+consegue mensurar né e e o que mudou de
+foto isso né a teve uma evolução
+tecnológica muito forte né as empresas
+mudaram também o mais sete delas antes
+de você tinha ali mais uma área de
+atuação né hoje em dia você tem Startup
+sair eu conheço até Cyber leves né ela
+fez o Big Brother aqui da cidade né ela
+do Brasil todo ele monitora as câmeras
+lá então o isolamento social foi é um
+grande né então visão computacional
+Então hoje tem startups que só não é
+sempre faz a inteligência artificial
+entendeu então mudou totalmente mais de
+sete grandes empresas aí como Google
+Amazon e BM elas hoje tem Vertentes
+muito forte para
+atuação nessas áreas entender tão mudou
+foi esse mais de 7 mas os fundamentos né
+que é o importante eles permanecem o
+tempo né tudo muito muito muito antigo
+tá então toda essa parte da estatística
+numa sheilane tudo mas isso já existe há
+muito muito tempo só não tinha poder
+computacional que a gente tem hoje para
+trabalhar com essa inundação de idade né
+então eu que a gente quer trazer aqui
+para vocês é É de fato trazer esses
+fundamentos e mostrar tangibilizar isso
+como vocês aplicam ali né E para isso a
+gente selecionou aí um time G dar né e
+bom então eu não sei se o professor
+dizia que é é comentário primeiro
+eu queria que você falasse assim né na
+apresentação das disciplinas dias assim
+os professores que a gente que você
+pensou em tudo e qual o principal
+objetivo dentro a gente quer que a gente
+tem a seguinte pegar a pessoa do ponto
+vai levar para o quanto o Bené o qual é
+a mudança de comportamento que é que a
+gente quer que no final que a turma é
+realmente é saia do ar para o bebê
+quando ele chegar no final que é o que é
+que o que é que a gente espera que ele
+esteja porque a gente tem que saber em
+projeto a gente tem que saber exatamente
+Quais são os desejos e as expectativas
+das pessoas mas eu quero ver o que você
+pensou depois a gente vai perguntar a
+cada um Quais são as expectativas deles
+e quais são os desejos deles porque para
+a gente fazer o mais de 7 a mentalidade
+de juntar tudo junto e já em sair todo
+mundo do ponto lá para um ponto b por
+meio da do nosso em a data Science
+estatística Então vamos ver que você
+também fizesse um resumo antes da gente
+pedir para que a turma começa a se
+apresentar perfeito Tá bom então então
+deixou vamos falar de cabeça aqui só
+lembra alguma coisa depois eu dou uma
+olhada aqui bom então galera Qual foi a
+ideia que da nossa grade né primeiro
+começará com fundamento eles em si de
+dados aí com a nossa geday né a
+professora Adriana Silva para quem não
+conhece uma das referências né assim
+inclusive para mim também como professor
+de estatística e profissional ela é
+realmente muito boa né É melhor
+professora de estatística que eu conheço
+né e ou é uma grande honra nem nos
+sonhos mais otimistas né eu
+imaginar que eu ia acordar ao ambiente
+em que ela estivesse presente e o time
+que a gente selecionou também né então
+são todos muito bons né Vocês podem
+inclusive é ter uma ideia de cidade
+dentro do Estado cidade então todos já
+contribuíram pelo menos uma vez lá
+dentro do status a professora Adriana
+Silva tem uma playlist só de modelagem
+estatística completona é que ensina para
+criança de não sei quantos anos entendeu
+então tipo é bizarro né assim mais bomba
+lá né e Cara ela tem 11
+uma
+experiência absurda né ela foi
+presidente da kantar ibope media né Ela
+é diretora perdão ela ela atrapalhou na
+na FGV como professora já deu aula aí
+nos melhores lugares da do mercado de
+NBA de tudo tudo que envolve estatística
+datasciense né Ela é uma grande
+referência e qual é a ideia de trazer
+ela aqui para gente a fundamentos a
+sinceridade dela ela era ela falar né de
+uma forma visando no negócio né que ela
+é especialista nisso né de trazer ali de
+forma muito didática né a parte de
+mostrar como que a ciência de dados e
+estatística Elas se ligam é e como é que
+elas ajudam a resolver problemas de
+negócio né então cê ela vocês vão
+aprender tudo isso que eu falei
+anteriormente acerca da evolução
+tecnológica né de que antes a gente
+tinha lhe dado mas tabulares a gente
+consegue trabalhar quantos tipos de
+dados não estruturados demais então
+primeiro a parte de fundamento de
+sensibilidade para dar aquela base né aí
+depois né e entrar disciplina de
+estatística descritiva e desce aí nessa
+aí acabou que por contratar esse time
+Estelar aí né eu ia ter que dar essa
+disciplina porque acabou o Band né
+então eu vou dar com vocês a disciplina
+aí de estatística descritiva 10º ano né
+que a ideia é o que de aprender ali
+medidas de tendência Central dispersão
+ver como é que se aplica tudo isso né
+Qual é como é que eu uso isso nem os
+teve um vídeo que eu fiz no YouTube bem
+legal que eu peguei o por o tempo de das
+empresas nela a JP Morgan né uma
+seguradora vocês o estudo no momento que
+as empresas elas parassem de lutar né
+que ela quanto tempo que ela se manter
+né porque elas tem uma reserva ali né
+quanto tempo que aquela reserva EA se
+manter durante esse período ipaneminha
+aí eles fizeram estudo água taram um
+histograma suavizado botaram caminhos
+partes né então você via é 25 por cento
+das empresas EA sobrevive até quantos
+dias e aí dividiram em crostas de
+alimentação é
+manufatura né vários tipos de empresas
+né E aí o por exemplo tinha lá o
+primeiro ensinar os quartis né dentro
+desse contexto aí primeiro quartil a
+segunda quarta de cinquenta por cento
+das empresas eu sobreviver até quantos
+dias é
+75 por cento das empresas sobreviver até
+quantos dias né E aí você conseguir
+conseguia ver aonde que tava mais
+concentrado tudo isso né e o tempo de
+cada uma ah e também do covid-19 né
+porque a curva do covid-19 né assimetria
+e curtose por exemplo né a curtose é o
+grau de achatamento da curva então
+presente da no início da pandemia a
+gente tem uma leptocúrtica né porque ela
+é aguda né começa lá em cima depois ela
+vai descendo aí fica leve mesmo acústica
+que está ali no meio parecido com uma
+normal e depois ela vai achar tão até
+ela acabar de faca né então é por
+exemplo é um conceito de estatística né
+que é do Toy então trazer esses nomes da
+estatística para dentro do cotidiano e
+entender também como é que se aplica
+isso né e a ideia é pegar um era para
+pegar um projeto lá por exemplo eu tenho
+alguns né da tenho de precificação de
+imóvel Tem de
+tem de acidente da PRF né que eu fiz
+também tenho e tem um que eu trabalho
+muito com os alunos que é a base de
+dados do ENADE né que mensura a
+qualidade do ensino superior no Brasil
+nela é uma a semana a gente tem é o a
+escolaridade dos pais dos alunos a gente
+tem
+quantos quanto tempo Ele estudou para
+prova a gente tem o sexo do aluno então
+a gente pode começar a inclusive bolsas
+também seria bolsista não né Você pode
+comentar políticas públicas para ver se
+estão realmente funcionava nessas
+políticas públicas então a gente ia
+pegar essa base de dados lá em cortar
+dentro do do eh né que eu o r uma das
+linguagem de programação mais utilizadas
+né no mundo todo não era Google anazu R
+né porque a gente não vai usar né então
+a gente tem 45 anos aí de linguagem R né
+e é uma das
+maiores potências aí para trabalhar com
+consciência de dados aí junto com o pai
+né E também é o Excel também serve muito
+ainda muitas pessoas usam Excel também e
+às vezes as pessoas não tem tanto
+conhecimento assim para para expandir
+para o Big da Itália Mas tem como fazer
+também né depois quem quiser tiver
+dúvida disso eu mando um vídeo para
+vocês subindo milhões de linhas não eu
+né mas o Rodrigo é o rosa lá dentro da
+casa da pesquisa operacional né a gente
+fez uma semana Apocalíptica lá chamou
+todos os mvps da Microsoft né o trovato
+o professor benítez afastando que trouxe
+o Excel para o Brasil basicamente você
+né então assim se trouxe a galera da
+pesada lá para falar também sobre isso
+mas resumir André Então a gente precisa
+das Ferramentas né para chegar no apoio
+à tomada de decisão mas a ferramenta é
+um meio né os fundamentos são
+importantes a ferramenta muda por
+exemplo hoje em dia R Python no outro no
+ano que vem olha daqui algum tempo pode
+ser Júlia por exemplo como é que tá aí
+vindo forte pode ter outro tipo de
+linguagem surgir Enfim então o que vai o
+que que vai mudar os e tu mudou né se
+você criar uma base forte né a
+tecnologia mudou possa Você anda com ela
+né agora a
+o que importa de fato os fundamentos
+entendeu é a base ali por trás então
+nesta disciplina você vai pegar o
+extrair esses insights e colocar esse no
+dashboard né porque eu deixo e você vai
+ver ali
+para prestar esse site mais visuais né a
+gente não é bom com números de forma em
+média a gente não é bom com números né a
+gente tem que olhar ele gráfico esse
+para extrair tendências né ver
+associações entre variáveis Será que o
+momento outro aumenta o momento outra
+diminui
+entre outros tipos de análise pode fazer
+com um gráfico gráficos e gráficos
+também né Tem a parte de graça também
+que é uma que a gente trouxe aqui também
+a disciplina um período né é o professor
+Marco de Santos que cor de na casa da
+pesquisa para acionar comigo mas vamos
+falar aqui na ordem então então primeiro
+era só era essa parte de e descritiva e
+criação de dashboard né aí depois a
+gente entra em cálculo das
+probabilidades aí você vai ver eventos
+independente você vai ver um eventos
+mutuamente exclusivos você vai ver a
+probabilidade O que é probabilidade né
+você jogar um dado você não sabe
+exatamente qual o número que vai cair
+mas você consegue ter uma menstruação de
+quando tem certeza tá ali dentro né
+então a probabilidade ela trabalha com
+isso né Isso vai ser importante porque
+porque você precisa muitas vezes na numa
+shirlaine saber qual a distribuição dos
+seus dados também sejam variáveis
+discretas ou contínuas né Cada uma tem
+um tem um modelo de probabilidade
+associada ali para você trabalhar né e
+muitas técnicas pressupõe também a
+normalidade né que é uma distribuição em
+cima né que é muito
+comum aí é uma das mais famosas e
+estatística né que ela vem com bom
+então é essa base de probabilidade é
+muito importante para que você consiga
+seguir os próximos passos né aí a outra
+disciplina seria
+estatística inferencial e noções de
+amostragem para você vai ver lá tipos de
+amostragem que existe né probabilística
+E se não probabilísticas Qual a vantagem
+da probabilística em relação ao
+probabilística aí você vai ver tipo de
+estimadores por que que eu uso média né
+Será que ela é o quais são as
+propriedades desejáveis de um bom
+estimador Por quê que é média um bom
+estimador né aí tem uma a
+propriedade de não viciada tendenciosa
+consistência enfim tem várias coisas que
+a gente estuda lá tipos de estimação
+tem lá método de máxima verossimilhança
+né entre outros métodos de estimação
+também aí depois depois disso é
+a ideia também era você aprender um
+pouco de açúcar eu quero chegar toda
+base para você trabalhar com os dados né
+então toda a lógica de filtro agregação
+é
+[Música]
+você ter por exemplo tal calcular ali
+uma média nos seus dados calcular uma
+soma né que são todas as agregações nem
+os jovens une tabela são muito
+importantes né fazer left Johnny Johnny
+como é que eu faço para unir Fontes
+distintas né se eu quiser por exemplo
+enriquecer a base lá na minha mologação
+enriquecer abaixo com dados do censo né
+coleta de lixo Urbano em desenvolvimento
+humano da região e tal então eu eu
+trouxe ali fiz um joinha na minha base
+na e trouxe essas informações como é que
+eu faço para linkar essas informações aí
+o professor Alex né que é professor da
+Farias Brito Fortaleza né que é onde eu
+onde eu dei aula também né lá na Farias
+Brito ele também deu aula e vai trazer
+aqui para vocês tentar a gente junto com
+a gente também na comunidade a fazer
+toda essa ideia de SQL né ele que é fera
+para caramba e aí deixa eu tentar
+lembrar então também falar um pouco de
+machinho lá no espaço então no momento
+que você já tem a base né já já sabe
+explorar os dados já sabe é entender o
+comportamento da cidade já viu o padrão
+de distribuições já viu o que que são os
+estimadores qual a importância deles
+amostragem você começa a entrar no mundo
+de machine learning que é tudo eu
+costumo dizer que a estatística é todo
+interligado não então é como se fosse um
+quebra-cabeça né com a regra e você não
+pular etapas né Não e você preencher
+desde o início né até você for my little
+quebra-cabeça e se você pular por
+exemplo você chega de
+estatística descritiva e vai direto para
+regressão você não vai saber qual o tipo
+de problema de distribuição de
+probabilidade que tá necessidades você
+não vai saber o que que é um bom
+estimador né então você tem que ter
+formar sua a chegar lá e conseguir
+realmente trabalhar e fazer uma delas
+modelo não é só você chegar lá e rodar
+né boa tarde Maria Alves ali vou dar um
+modelo né Clarinha é o famoso é
+garbage in garbage out né entrou lixo e
+lixo né então se você não conseguir
+trabalhar esses dados ele e minimamente
+se eles tem qualidade ou não né se não
+adianta nada você fazer um modelo ele
+vai reproduzir o que você colocou para
+ele ali né então cidade são ruins você
+vai ter uma deu ruim não tem mágica né
+então é que chega lá na parte de Mach
+Lane Eu dividi em duas partes né que são
+os mais próximos né mas costco.ca alguns
+menos utilizados né porque eu acho
+interessante trazer essa visão para
+vocês também tem regressão linear
+regressão logística Esse é uma chinelada
+de Páscoa é regressão linear regressão
+logística aí vem regressão de possam
+para dados de Contagem né e faça nada de
+fizeram não né e por exemplo é tem
+variáveis que o zero ele é muito
+inflacionado né Tem Às vezes a na não
+resposta por exemplo é muito grande e
+ele sequer avaliar isso como é que ela
+vale qual qual distribuição que eu vou
+utilizar aí tem uma por exemplo uma
+porção com dados em funcionários fizeram
+né E aí vai ser com a professora Érica
+ela é doutorando Ela é doutorado em
+estatística ela trabalha na três data
+Então ela tem visão de mercado também né
+então ela é muito boa Inclusive a
+professora Adriana Silva também falou
+falou bem dela então já tem
+meio caminho andado aí ela também tem
+Live lá no estatidados né a gente já viu
+de das cadelas como é que é também né E
+ela vai fazer o recentemente também ela
+ela vai fazer o pós-doc dela lá fora
+também antes Inclusive acho que antes de
+vocês terem algo com ela já vai estar
+com pós-doc mental
+ela realmente é a fera demais vai estar
+falando com vocês aqui sobre sobre o
+tipo de modelagem vai trazer um pouco de
+modelo multinível bem a parte mais cinco
+minutos que eu mandei um multinível algo
+bem complexo e a ideia galera é é
+mostrar essas coisas todas aplicadas
+também tá então você não vai ter só
+teoria né é pó é importante fundamento
+se você vai tangibilizar tudo isso né E
+aí a gente vai trabalhar aqui como Korn
+E aí eu o conhecimento que eu tinha dos
+professores era mais forte na parte do R
+então eu trouxe o r mas poderia ter
+trazido o pai também nada impede tá só
+que o meu conhecimento dos professores
+eram mais na parte de R então eu trouxe
+mais é Rita e também é uma potência e
+vão ver que realmente vai mudar Aí eu me
+destaquei pelas empresas que eu passei
+utilizando a linguagem R tá então é
+beleza aí depois dessas partes mais
+clássicas né de você saber também
+selecionar né O que que é um método
+estatuais e para você fazer uma seleção
+automática e por exemplo de uma
+regressão linear né baseado ali no
+precário seja Bic ou aí cê né esses
+nomes Não se preocupe com esses novos
+estados vai ver durante o curso mas tem
+milhares ainda de métricas quando você
+trabalha com logística Recall precisa F1
+e sim tem vários nomes né então você
+entra na parte dos menos Passos né que é
+árvore de decisão né Aí você vem a parte
+do svm né que eu e tenta dividir ter
+planos né que o suporte Vector Machine
+você tem Berg in boosting
+e redes neurais né que é o que está mais
+em voga aí né a gente optou por colocar
+ele mais na parte dos modernos que eu
+mais utilizado aí no no momento é uma
+que tá mais na mídia né não que eu mais
+utilizada mas o que tá mais na mídia e a
+ideia galera é sempre assim você parte
+do mais simples ao mais complexo né tô
+começar ali cima está se uma
+exploratória resolve para quê que você
+vai
+Oi
+e para e para parte mais complexa
+entendeu então primeiro você começa do
+mais simples e chega no mais complexo né
+É assim que a gente vai trabalhar aqui
+beleza e aí nesse momento você também
+tem no meio do caminho como é que eu
+trabalho com texto né então o mestre
+Norberto Berti esquece ou Dori canga né
+ele vai trazer para vocês como é que faz
+sentimento análise vocês que que as
+pessoas estão pensando por exemplo
+acerca da minha marca né nas redes
+sociais Twitter Como é que eu faço para
+ver essa análise de sentimento trabalhar
+com texto né é trabalhar com texto exige
+você também tem um traquejo acerca do
+texto não vai fazer ali a
+seleção tem que tirar radical né tirar
+assento né tudo isso para você fazer uma
+comparação boa né então essa parte de
+trabalhar com texto é muito importante E
+aí nisso também como é que a como é que
+eu coloco esses modelos em produção né
+do momento que eu criei os modelos como
+é que eu vou para colocar em produção e
+aí tem um super especialista Daniel
+Freitas né que lê é líder técnico da doc
+né e ele vai trazer isso é com R também
+usando o Power e e mostrando o que que é
+uma peikko como é que agente faz para
+para subir uma Peri colocar isso no
+ambiente produtivo né para vocês
+conseguirem ele mesmo já deu exemplos aí
+que ele já colocou em diversos lugares
+mais então é o cara habilitado aí também
+para falar do assunto né a gente vai ter
+pesquisa operacional e pesquisa
+operacional a qual o objetivo da
+pesquisa operacional também subsidiar a
+tomada de decisões né mas lajes em
+modelos mais deterministicas né a gente
+tem modelos que trabalham com
+certeza também tá mas a gente tem uns
+modelos determinísticos lá né então a
+gente tem lá e o HP que é um dos métodos
+mais utilizados no mundo todo né do
+processo do site e quem vai falar e o
+diretor da sobrar né professor Marcos
+antes que é professor do Instituto
+Militar de Engenharia
+pós-doutorando no ITA né e ele coordena
+comigo a casa da pesquisa operacional né
+é um cara assim Fantástico ele pega na
+mão de fato leva o aluno entendeu então
+vocês não vão sair quando ele pesquisa
+operacional aqui nem ferrando né porque
+realmente ele tem uma paciência assim
+fora do normal assim é um cara super
+e quem gosta da parte academia também
+quiser sair para o mestrado né ele
+indica para o IME para o ITA para
+diversas instituições de renome mas já
+colocou muitos alunos já provou artigos
+internacionalmente mais de 500 artigos
+que ele tem aprovado né com um grupo de
+pesquisa dele então é um cara e
+fenomenal ele vai falar também a parte
+de graças né Então você vai ter uma
+disciplina de graça para que que serve
+graça por exemplo a Netflix Oi como é
+que vocês imaginam o que eles fazem
+recomendação né então por exemplo você
+tem lá
+usuários né que são parecidos entre si
+por exemplo Eles assistem mesmos filmes
+e séries né como é que eu faço essa essa
+recomendação não é de usuário da dos
+filmes e séries para os usuários né eu
+vejo entre existe algo chamado matriz de
+distâncias na similaridade que você pode
+ver ali também dentro de gráficos também
+criar clusters ali dentro né Tem
+técnicas também de clientes dentro de
+graff para você achar comunidades ele
+dentro do braço e você fazer essas
+recomendações entendeu então Netflix
+usar isso você usa isso em psicologia né
+Por exemplo aqui o poderia fazer um
+gráfico entre vocês aqui ao longo de
+todo o período e ver quem não tá falando
+com ninguém aqui por exemplo E aí esse
+cara isolado eu posso tentar colocar ele
+com uma pessoa que tem um nó bastante
+grande é que o grau do vértice grande
+que que é isso e por exemplo ele está
+associado a mais pessoas aqui por
+exemplo pode ser o Marcos ele fala
+Professor Bezerra o Fernando ele fala
+com mais algumas aqui da turma então
+posso botar o Marcos para falar com essa
+pessoa que está mais isolada incentivar
+ele é falar né então você tem aplicação
+na psicologia na saúde também você tem
+aplicação fake News né Você pode
+detectar fake News deu o cara que
+tá espalhando nós fake News e podar ele
+né Você pode achar um influência na rede
+por exemplo com gráficos né então tem
+diversas aplicações em grafos né E quem
+vai falar também para vocês é o
+professor Marcos anto talvez eu faço uma
+participação especial lá fazendo R com
+vocês lá mas ele quer o professor
+titular da disciplina tá E é você tem a
+disciplina de marketing Analytics né
+quer como que eu faço um como que eu
+trabalho digital né hoje em dia você tem
+uma mudança muito grande dos canais né
+então antes para você falar com o que
+fazer o que você tinha que entrar no SAC
+da vida né e tudo mais hoje em dia você
+consegue falar com a rede da empresa lá
+então as coisas acontecem muito rápido
+né volta e ver você coloca a campanha
+hoje de marketing rodando e tem que
+tirar por que que aconteceu algo
+inesperado né hoje em dia que você tem
+uma
+influência na rede que você nem imagina
+né do que os seguidores que ele tem as
+vezes eles têm um poder muito forte né
+então é para as pessoas escolhem esses
+caras para fazer comerciais para fazer
+Às vezes você nem conhece a pessoa
+Talissa nem conhece mas tem um grupo
+gigantesco que conhece aquela pessoa e
+está direcionado com a marca tudo mais
+eles fazem estudo para esse né então o
+marketing Analytics ele traz os técnica
+a gente estatística para aplicar no
+marketing né então você tem churn por
+exemplo de cliente né como é que quando
+que o cliente vai me deixar por exemplo
+né então você pode ver ele as
+características né Assim como lá na
+evasão de alunos eu posso ver na parte
+acadêmica financeira socioeconômica Qual
+a propensão a
+instituição ou não mas se eu olhar aqui
+quando com as notas vocês estão tirando
+se vocês estão pagando em dia se vocês
+aqui no caso não tem mora longe né mas é
+se fosse presencial Se você morasse em
+loja podia botar uma bolsa para você sou
+uma monitoria ou é podia a parte
+financeira fazer uma bolsa para ajudar
+vocês enfim né então O Charlie é isso né
+você estudar o comportamento do da
+invasão daquele cliente por exemplo né
+de clientes te deixar E aí quem vai te
+falar isso vai te falar isso professor
+Marco Severo que é professor de titular
+da FG né e Universidade Federal de Goiás
+e ele também da da áudio marketing
+analyst na Índia né no Instituto
+Tecnológico da Índia né então é um cara
+super capacitado aí para falar de
+marketing Analytics com vocês Tá e pipo
+Analytics eu professor galo né quero é
+toda pin-up entre outras instituições
+também né Tem Live dele lá no no canal
+também falando sobre pipa Analytics em
+que a pipa na lista estudar é o hotel
+Hannover da minha empresa Será que eu tô
+demitindo mais contratando
+será que será que eu consigo selecionar
+profissionais melhores para trabalhar
+comigo né Por exemplo eu usei o método
+de pesquisa operacional para escolher o
+meu antigo estagiário né O Mestre Lucas
+hoje ele me deixou para na verdade
+recentemente ele me deixou para ir para
+Globo né Ele tá trabalhando lá na Globo
+né aí o meu antigo estagiário ele foi
+para o burro né tá lá como analista de
+bi água na boca né então é muito legal a
+gente vê né nossos alguns aí é
+galgando aí nosso patamares né a gente
+tem aqui Alguns alguns também como da
+estatística né que eu vou deixar aqui
+para não da esposa mas quando pessoal se
+apresentar a gente vai conhecer um pouco
+mais né e já tem rosto de bastante
+conhecidos aqui né então básica e tem
+também Cloud né como é que eu trabalho
+aí com errar Machine por exemplo né que
+é muito demandado hoje em dia
+trabalhando na nuvem também né muitas
+vezes a nossa máquina ela fica com uma
+a sistema memória RAM limitada né então
+muitas vezes a gente precisa alugar
+máquinas na nuvem para trabalhar com
+mais informações do mais então a gente
+pode alugar máquina na armas uma no EJA
+né na Microsoft né então é quem vai
+falar isso é o professor Marcondes
+Fortaleza que dá palestras
+internacionais aí e o professor Bezerra
+pode falar muito mexe bem qualificado aí
+do professor Marcondes e também das
+disciplinas dele a gente vai ter um dos
+maiores especialistas aí ele acabou
+recentemente de fazer um curso lá fora
+né de PM Box é esse atualizou para
+trazer aí para vocês o estado da arte de
+gerenciamento de projetos né então vocês
+vão ter aí um dos a página para fazer
+essa orquestração de projetos né então e
+MBA um projeto também né então vai
+funcionar já ficam já Fiquem tranquilos
+que vai vai funcionar aqui porque a
+gente tem aqui uma das maiores
+referências aqui do Brasil do mundo que
+é o professor Bezerra então fica à
+vontade de ir para sua Bezerra acho que
+eu já já falei muito aqui bom deixa eu
+falar um pouco sobre a questão da minha
+disciplina que é gerenciamento ágil de
+projeto achei interessante que teve um
+aluna a Regina inclusive nossas até uma
+live que ela disse para sua Bezerra eu
+queria entender porque a disciplina
+gerenciamento de projeto ágil está no
+curso de
+de sensibilidade estatística de Só
+deixe já que você perguntou deixou
+responder ela seguir tudo que a gente
+vai fazer na vida é um projeto e o
+conceito de projeto no Brasil ele não é
+bem entendido porque a palavra Projac
+quando a gente traduz e o português
+muita gente confunde é aquele grande
+problema da estatística as pessoas
+confunde com projeto arquitetônico
+para o com confunde com o projeto
+elétrico provas e que a gerenciar
+projeto é um conceito bem amplo e vem
+sendo estudado assim tá bolado né
+projeto já existe há milhares de anos
+desde os egípcios existe o conceito de
+gerenciamento de projetos mas dos
+Estados Unidos há 50 anos atrás foi
+criado o PM que é Projac - tico-tico que
+é fica na Pensilvânia lá nos Estados
+Unidos e eles criaram um sem fins
+lucrativos com o objetivo de tabular e
+conceitual que tem de melhor na área de
+gerenciamento de projetos então
+resumindo O que é gerenciar projeto é
+você se preocupa tudo o que você vai
+fazer você tem que se preocupar com
+início meio e fim não existe outras
+disciplinas envolvidas no projeto por
+exemplo o custo do projeto o risco do
+projeto todo o projeto está associado a
+riscos
+e outra coisa a parte mais importante do
+projeto é comunicação quando eu
+conversei com a Regina que é do
+estatidados que ela tava até aliás quem
+é da
+bio.do de um estatística né É nós nós
+mostramos que ela dispensou os mais os
+vários problemas que eu tive com a minha
+mente a minha meu trabalho de
+estatística de ciência de dados foi
+problema de comunicação então se você
+não conhecer os métodos e as técnicas de
+comunicação dificulta muito você ter
+sucesso no seu projeto porque para você
+ser um profissional de sucesso mais
+importante é a comunicação é a sua
+habilidade interpessoal é a sua
+habilidade de trabalhar em equipe
+bom e isso faz a diferença então na
+nossa disciplina de gerenciamento de
+projeto a gente vai tratar desses
+assuntos
+recentemente o dia pelo Ibope que é é um
+livro que reúne as melhores práticas de
+gerenciar o projeto era sexta edição
+saiu a sétima Edição mas o que é um guia
+por exemplo existe o dia rodoviário
+federal que tem todas as estradas do
+Brasil mas o dia não é uma metodologia e
+tem muita gente que confunde acha que o
+guia Prime Box é uma metodologia não é
+uma metodologia são orientações são
+sugestões nada é fechado Cada pessoa tem
+que adaptar o projeto de acordo com a
+sua realidade e como teve uma grande
+mudança do guia premiumbox cesta de São
+para 7ª edição Foi aí que você tem que
+ter humildade é melhor você aprender com
+os mestres se você for aprender sozinho
+você vai levar muito tempo e às vezes
+você não vai chegar a lugar nenhum tem
+esse matrícula nesse curso aqui há muito
+tempo porque vai aprender com os mestres
+com as pessoas que têm experiência tem
+vivência tem vivência tão isso faz a
+diferença eu eu passo feito um paguei um
+curso de
+1.799 Dólares nos Estados Unidos para
+fazer uma atualização porque foi uma
+mudança de conceito Foi uma mudança de
+mais de 7 O PM e agora a ênfase maior é
+o seguinte pessoas o sucesso de qualquer
+projeto Depende de pessoas para que você
+me dê Ei aqui que é o Ricardo como um
+projeto tenha sucesso Depende de quem
+dos alunos Qual é o ente mais importante
+nesse ambiente são os alunos depois os
+professores porque os professores são
+eles que vão passar os conhecimentos e
+ensinamentos Então se a gente não se
+preocupar com pessoas ou a tendência é o
+Projeto não ter sucesso
+e inclusive aí em seguida o que é que
+você tem que se preocupar com os
+processos
+o quê aí onde é que estão esses
+processos no dia Prime Box sexta edição
+e o por último Business o negócio onde
+eu quero chegar o que é que eu quero
+fazer com estatística eu quero fazer
+consciência de dados aí se você tem que
+ter o Core Business é o foco para onde é
+que eu quero ir você tem que saber para
+onde você quer ir essa minha disciplina
+é isso aí faz inclusive vou mostrar a
+diferença entre o gerenciamento
+preditivo que é quando você tem um
+escopo bem definido Professor Bezerra me
+explica o que é o conselho de escopo
+quem introduziu esse conceito de escopo
+foi o PM es corpo é aquilo que vai fazer
+parte do projeto ou não Por exemplo Qual
+é o escopo do NBA que a gente tá
+começando nós temos 18 disciplinas ele
+tem 360 horas de sala de aula e a gente
+tem mais 60 horas para você fazer uma um
+artigo e o a carga horária do ambiente e
+vão ser 420 horas mas de sala de aula a
+gente tem 360 horas-aula sala hora sala
+aí quais são as restrições do projeto aí
+hoje é uma disciplina
+O que é o que restringe bom esse curso
+Ele tem 360 horas de sala de aula ele
+vai ser ofertados aos sábados
+quinzenais Quais são os custos
+envolvidos é outra disciplina do projeto
+e existem que Rodrigo é só as pessoas
+envolvidas Então essa área de
+gerenciamento de projeto é muito rica
+infelizmente ainda esse conselho já está
+bastante divulgado nos Estados Unidos
+aqui no Brasil Ele ainda está
+engatinhando
+certo é por isso que eu também eu tenho
+um treinamento de nós temos por exemplo
+o MBA em gerenciamento de projetos nós
+já estamos na 20ª turma
+e eu tenho um curso de preparação para
+certificação em gerência de projeto que
+nós nós ofertamos a quadragésima oitava
+turma
+Inclusive a última já foi na modalidade
+online ao vivo sério eu também tenho um
+curso de preparação para certificação em
+gerenciamento de projeto ágil porque uma
+certificação lhe dá autoridade lhe
+valoriza muito lhe valoriza muito então
+a vantagem de você entender de
+gerenciamento de projeto é isso é tudo
+que você for fazer na vida você em casa
+como um projeto a sua vida particular é
+um projeto se eu vou fazer uma viagem de
+férias eu encaro aquilo Como projeto eu
+boto no papel eu analiso e tudo a outra
+coisa que diz o seguinte em projeto
+nunca faça nada sem perguntar antes aos
+especialistas não faça nada na sua vida
+sem perguntar antes aos especialistas
+Quem são os especialistas são as pessoas
+que já fizeram
+e tem que ter humildade tudo que você
+for fazer você tem que ter humildade tem
+que pedir apoio ao orientador ao seu
+colega tem que pedir ao professor Então
+os especialistas são Quem são os
+professores são seus colegas quando for
+fazer um projeto veja alguém que já fez
+não queira fazer não quer inventar a
+roda O que você pode fazer o seguinte
+isso é que tá feito o que é que eu posso
+melhorar aí é o grande diferencial É
+você sempre questionar isso que está
+sendo proposto o que é que eu posso
+contribuir o que é que eu posso melhorar
+Então o que é que cada um aqui pode
+contribuir para que esse direito seja o
+melhor NBA do Brasil todo mundo aqui
+pode contribuir todo mundo aqui pode
+pode dar a sua colaboração Então isso é
+gerenciamento de projeto ágil porque
+ágil o que o ágio é você vai fazendo e
+vai entregando
+e vai fazendo entregando o gerenciamento
+de projeto preditivo que é o tradicional
+por exemplo você vai fazer um prédio e
+apartamentos você só pode entregar o
+projeto quando tiver todo pronto
+aprovado e ter o habits que você só pode
+morar naquele apartamento quando tiver
+pronto projeto já no projeto ágil não
+você já vai entregando por partes e esse
+conceito eu vou aqui os recentemente a
+loja Americanas vou dar um exemplo para
+ficar porque é com um exemplo que fica
+entra na imagem da pessoa na no cérebro
+da pessoa a
+Lojas Americanas abriu aqui uma nova
+loja aqui em Fortaleza aqui no bairro
+aqui quer Aldeota Meireles que é um dos
+melhores bairros Agora eu tenho
+interessa interessante que tinha um
+prédio ali enorme só que ele separou
+logo
+Vinte por cento do prédio
+isolou e um mês já estava funcionando a
+lojinha das Lojas Americanas enquanto E
+a equipe estava trabalhando no restante
+Rapaz isso é um conceito de
+gerenciamento ágil entrega logo alguma
+coisa para o cliente
+Oi e aí ele já faz Uma degustação ele já
+deu um feedback para você disse não não
+é isso que eu tava pensando não não não
+é isso que eu queria por isso que é
+importante você que entender de
+gerenciamento de projetos por isso que
+essa disciplina foi inclusa nesse NBA
+que é para dar mais valor ainda ele tô
+aqui o aluno ele seja tenha muito mais
+resultados Eu também eu sempre como quem
+já foi meu ex a meus alunos sabe da
+minha como eu me preocupo com sucesso de
+cada aluno
+Oi e eu sempre fazia trabalho de
+orientação de mentoria grátis para os
+meus alunos Inclusive eu vou dar
+mentoria coletiva grátis eu também tenho
+a mentoria individual
+e o que é um mito é pegar você pela mão
+para resolver um problema eu ajudo
+recolocação eu ajudo reformula currículo
+tudo Inclusive eu tenho dez livros
+publicados dos quais os últimos três foi
+justamente nessa área da minha
+experiência e ajudando as pessoas a
+crescerem profissionalmente Aí eu
+escrevi um livro Como você tem um
+currículo magnético porque é muito
+importante do seu currículo ou oitenta
+por cento RH já rejeitam o currículo
+devido a um currículo mal elaborado
+e o segundo como você se sai bem em uma
+entrevista de emprego é fundamental você
+saber fazer uma entrevista de emprego
+tem um segredo tem a pergunta que você
+tem que fazer a maneira que você tem que
+se comportar tudo isso vai fazer porque
+o RH geralmente ele chama de 5 a 10
+pessoas para entrevista e o último como
+você tem um link de magnésio você tem
+que ter essas três coisas então por isso
+Tiago que eu tenho certeza que esse
+curso vai ser diferenciado e como
+objetivo da gente é querer que o aluno e
+saia diferente do que ele entrou só tem
+aprendizado se tiver Mudança de
+Comportamento se não tem mudança de
+comportamento não tem aprendizado então
+por isso que esse curso tem tudo para
+dentro de você ter sucesso com a
+participação e colaboração todo mundo
+Tiago eu acho que agora a gente já podia
+passar para você a bola e você vê aí se
+a gente já pede que a planta se
+apresente Aí eu troquei inclusive Thiago
+você fala aí dá
+nós temos um todo procurando a gente vai
+fazer em projeto sempre tem algum
+imprevisto alguma coisa aí e o que foi
+que aconteceu que fugiu ao nosso
+controle a professora Adriana
+está a do entrada ela está ela lá
+inclusive entrou em contato comigo e com
+Thiago dizer Olha eu tô mal eu posso dar
+aula mesmo doente ela ela se propôs a
+ministrar aula hoje mesmo ainda estando
+em um estado de aí a gente se não
+professora a gente prefere que você se
+recupere para você vir dar aula com todo
+com toda a energia então hoje a gente
+vai fazer essa aula de hoje vai ser esse
+netooku essa apresentação essa
+apresentação eu quero voltar para o
+Thiago ir para todo mundo se
+apresentasse alinhar e assim que a
+professora se recuperar outra vez no
+próximo sábado se ela já estiver com
+saúde ela volta nada a disciplina que
+estava programada Mas na vida sempre a
+gente tem que ter a proveito de tudo e
+consequentemente a gente só tá tendo
+essa conversa mais prolongada porque a
+gente tem esse tempo hoje para conversar
+vai dar oportunidade de cada um se
+apresentar dizendo qual é a cidade que
+tá agora onde trabalha Quais são os seus
+desejos para são as suas expectativas em
+relação ao ambiente e tudo isso vai ser
+importante agora não é isso se abra
+perfeito com certeza né infelizmente aí
+tivemos esse probleminha como professor
+Bezerra falou né Todo projeto né tem a
+subjetividade humana né então
+infelizmente a professora Adriana Silva
+aí tava com a coluna travada né Calma
+ela tem problema de coluna e ela vai vai
+se recuperar aí para próxima
+próximo sábado né então EA expectativa é
+que a gente já começa no próximo sábado
+né mas a gente vai então começar aqui
+com as apresentações então conduzia aqui
+se conhecer melhor né então a gente vai
+vai ser bem legal também tá e
+primeiramente e pelo prestígio ao nosso
+trabalho né que vocês depositaram a
+confiança em nosso trabalho né a gente
+espera é tá altura aí das suas
+expectativas Tá e por gentileza então né
+Fala aí aonde você mora é qual Onde você
+trabalha qual a expectativa aqui durante
+o e onde você quer aplicar aí assim se
+de dados e estatística dentro do seu
+universo de
+atuação aí por gentileza dá vontade
+vamos começar pelas mulheres né Vamos
+ser pra valer então pode Alessandra
+E você tá sem áudio então no mudança
+está no mudo Alessandra
+desculpa o pai tranquilo
+meu nome é alessandra eu
+sou
+eu comecei a
+metade
+né
+E
+então
+depois eu
+fui trabalhar na área de pesquisa de
+mercado
+e né
+e também lá com pesquisa né atendimento
+a cliente e
+boa muito legal Foi
+duas horas que são né que é pesquisa de
+mercado e telecomunicações
+de pesquisa de mercado Sim foi bem legal
+assim com várias empresas eu tava
+fazendo um projeto de vida de pneu era
+uma das coisas que eu achava bem legal
+que diversifica os assuntos né mas é
+nessa trajetória depois de
+telecomunicações
+eu fui parar como terceirizada na
+Fiocruz
+e é dentro do hospital vai Comecei fazer
+parte de você conhecer o professor
+código PIN ele para orientador no
+mestrado
+ele é muito Ninja que me deu toda a base
+no experimento de regressão né
+aí na Fiocruz né Eu tinha uma chefe que
+ela faleceu
+e ela foi uma grande e
+ela
+dava no mestrado foi uma grande
+incentivadora infelizmente ela
+para a saúde então o
+o número de sendo bem complicado que eu
+tinha um filho pequeno eu trabalhava
+tenho meu filho tinha três aninhos a
+dona de casa trabalhava fazer mestrado
+foi uma loucura eu trocava minhas noites
+de sono para estudar durante o mestrado
+mas assim valeu a pena pois tem muitos
+mestrado em quatro mesmo fazer mestrado
+lá na Fiocruz eu pude já colocar em
+prática né eu acabei fazendo minha
+dissertação em sobrevida eu fiz
+sobrevida de internação em paciente HIV
+positivo eu estudar o trabalhava no
+hospital de doenças infecciosas
+e foi bem legal e lá mesmo na figura
+hoje eu acabei assim ajudando muitos
+alunos de Mestrado
+médico e em outros projetos né cheguei
+até
+publicar alguns artigos conjunto com um
+pessoal da área de genética na área de o
+e HIV caramba e tal e foi muito boa
+nossa senhora podia ser ter professora
+Eu nunca dei aula de dizer ela não tem
+esse não sei se eu volto invisibilidade
+da aula apesar de ter mostrado
+para fazer uma Live para gente
+compartilhar com
+todos aqueles que
+ele
+acabou esse animal quando eu comecei a
+me interessar
+administrador trabalha trabalhou comigo
+mais ou menos né eu vou chegar nessa
+parte ainda
+saiu porque hoje eu sou militar e também
+né e ele tá saindo de serviço Ele entrou
+na aula e saiu provavelmente ele não
+pode tá na aula mas ele que eu vou
+tentar assistir alguns pedaços mas ele
+não
+aguentou né não e ele entrou e saiu Ele
+deve estar ocupado lá mas nas próximas
+Com certeza ele vai estar participando
+aí ele até falou assim poxa eu vi as
+apresentações do pessoal estou até
+assustado Porque como ele não é da área
+nunca trabalhou na área ele fosse posso
+estado adiantar eu falei não mas o curso
+discurso é para todos então eles vão dar
+é né imagina que vai ter um nivelamento
+e
+falei calma que vai dar certo
+mas vem sim
+depois ele se apresenta eu vou Google
+não vou falar por ele né mas enfim ele
+seja bem-vinda muito legal bom
+então o que acontece lá na Fiocruz eu
+adorava só o número um da fio cru Só que
+lá era terceirizada e é o que que
+acontece não tem progressão de carreira
+para terceirizado parou de abrir
+concurso né E e aí na época com
+financeiramente não não estava né Eu
+quero fazer uma sugestão me atendendo
+eu saí e fui militar temporário
+aeronáutica
+especialidade estatística só que
+chegando na aeronáutica
+seis anos
+eu tenho que sair né porque a gente tem
+data de validade e
+E ai
+foi um pouco administradora também lá e
+trabalhei outros setores que não tem
+nada a ver com estatística e hoje eu tô
+na área de bi ai né como eu tenho que
+sair daqui a dois anos e eu vi que eu
+falei gente eu tô
+desatualizada com mercado eu comecei a
+ver que né a ciência de dados que tem
+uma das Ferramentas novas e que eu não
+tô
+atualizada com todas as ferramentas como
+é que eu vou voltar para o mercado foi
+quando eu me interessei em fazer o NBA
+né maravilhoso ferramentas todas que
+vocês falaram aí o r ou tem um pouco
+conheço um pouco porque no mestrado eu
+usei R Mas já tem mais de 5 anos na tem
+seis anos que eu não trabalho porque eu
+não mexo com heliton então um pouquinho
+desatualizada
+show de bola Maravilha seja muito bem
+vindo por aí podia ser até professora aí
+ó
+a sobrevivência muito bom
+Nacional seja muito bem-vindo vamos para
+o próximo aqui então aqui fez a Live
+aqui precisa Bezerra né bioestatística
+do zero que Instagram dela é maravilhoso
+muito legal chega aí professora olha Oi
+gente está meu vinda estamos sim só nós
+estamos vivendo agora sim tá vendo a
+legal
+então a gente prazer conhecer todos
+vocês entregue com vista artística do
+zero né o nome do meu do meu Instagram é
+mais meu nome é Regina é a minha
+formação na verdade é em odontologia e
+ainda no na metade aí da faculdade eu
+comecei a entrar em contato com a parte
+da vista artística voltada para a área
+da saúde né pesquisa e comecei a estudar
+bastante que diversos cursos e acabei o
+pessoal começava a me indicar para faz e
+para mim fazer estatística para mim aí
+acabou que agora eu já dou consultoria
+sua consultoria em estatística
+e já tô fazendo isso já tem alguns anos
+já né e o NBA e tal eu queria muito um
+curso
+profissionalizante né que eu tivesse um
+pouco mais de ideia também da área da
+ciência de idade que o trabalho
+basicamente com
+pesquisa é pesquisas
+retrospectivas né enfim extração de
+dados data suas coisas assim
+e eu acho que o NBA vai me dar esse
+diferencial aí só nosso já muito bem
+vindo já sigo aí o Instagram da
+professora bioestatística do zero muito
+legal muito material de qualidade lá no
+outro dia tava olhando lá muito
+interessante traz muita coisa nesse
+processo também para quem gosta do das
+ipss também né Muito legal o Instagram
+da professora seja muito bem vindo aí já
+é só tem Professor aqui pressão vou
+embora
+Deus Miguelzinho de quem entra primeiro
+bebe água limpa então esses alunos daqui
+serão os próximos professores da
+próximas turmas boas entendeu Essa é a
+vantagem é isso aí boa vamos aqui então
+Daniela Bragança acho que ela tá lá com
+agente na comunidade estatística Não é
+nada não tá assim Bom dia pessoal Muito
+obrigado para gente vamos lá eu moro em
+Pirassununga interior de São Paulo
+eu tenho algumas graduações eu fiz
+sistema de inflamação no Oscar depois
+que ciência de dados e tô precisando
+Engenharia de Produção analisando o
+quarto ano
+tem fizer bem da PUC do Rio Grande do
+Sul né Tiago falou que trabalha legal
+então
+tecnologia para negócios e eu trabalho
+como desenvolvedora já tem quase 20 anos
+trabalhei 12 anos a única cura depois
+que trabalhar numa empresa que
+desenvolve sistemas para Indústria
+Farmacêutica
+e faz três anos que eu trabalhando uma
+pizza mas atacou de futebol é gosto
+muito de esportes em geral já já viu os
+vídeos do Thiago relacionados a esportes
+legais
+e aí dentro da Pitú Eu trabalho com os
+documentos da Candy hoje eu falei de
+desenvolvimento lá mas eles me deram
+oportunidade de mexer um pouco com atrás
+áreas e tal e eu me identifico muito com
+essa parte de dados acho que eu posso
+contribuir mais para o negócio do que é
+somente escrever no meu código do Black
+and Então eu tenho que começar a fazer
+algumas coisas lá e
+sua aluna da comunidade estatística só a
+Luana também da da pesquisa operacional
+na casa pesquisa ela já virou estoque
+também é obrigatório
+O que faz uma das disciplinas me chamou
+muita atenção nesse ambiente
+contato que eu tenho um pouco de aversão
+ao R mas eu prometo que eu vou dar uma
+oportunidade um coração aberto por favor
+por favor se você vai se surpreender eu
+tenho certeza disso não me identifico
+mais com o pai então nós vamos lá de
+repente
+se quiser você pode usar o pai com o pai
+né que é assim você faz a conversão
+conversando
+seja muito bem vindo aí ó
+oi oi
+seu ligadinha
+se você já é um time Linda obrigada
+então sua Camila sou de Curitiba é eu
+sou formado em estatística também o
+formei aqui na Universidade Federal do
+Paraná faz 10 anos é desde que eu tava
+na faculdade eu comecei a estagiar no
+HSBC já na área de pesquisa de mercado e
+eu sigo nessa área até hoje na verdade
+mudei de empresa já foi para Instituto
+de Pesquisa também e atualmente Eu
+trabalho no grupo Boticário na área daí
+de em sites do Consumidor
+e
+esse ano a nossa área ela se uniu com a
+diretoria de negócios de CRM então a
+gente está buscando formas de ver como
+aproveitar melhor a nossa base de dados
+que a gente tem né do nosso clube de
+fidelidade e também como pesquisa de
+mercado a gente faz né muita pesquisa
+com o consumidor que a gente acaba tendo
+muitos dados também anti qualitativos
+que a gente vem buscando aí uma forma a
+fazer essa interação entre a nossa base
+de dados que a gente tem pelo pão de
+compra do cliente que sai dali e o que a
+gente tem nas pesquisas e daí quando eu
+vi o NBA eu achei legal até para
+relembrar vários conceitos né até de
+estatística aí e também ver um pouco
+mais das oportunidades aí o que a gente
+consegue fazer com a ciência de dados
+boa é só se você conhece o mestre
+Antônio Júnior e não ele é sente te
+ajudado dentro da Boticário também a
+gente vai para diretoria em março e eu e
+Márcio sair de licença-maternidade eu tô
+de licença maternidade ainda é um
+bebezinho e daí eu vim acompanhando com
+meu coordenador aí as mudanças que estão
+sendo para nossa área e daí eu até
+decidi fazer o inibe aí para já em
+quando voltar já vou mesmo entrada ou
+não tem também uma onda convidado que as
+entidades da Boticário também que ela
+ela participa de ela é líder na verdade
+da comunidade a rileide você quarta
+série não eu já vi mas é agora que eu
+comecei a dar uma linda né tudo isso daí
+eu já vi até acho que foi você que fez
+uma live com uma menina aqui entrou lá
+no bote também não foi já foi foi a
+jornalista né que ela é formada em
+Jornalismo e
+é mas eu pergunto legal a Live com ela e
+daí ela Carola né isso isso aí sai mesmo
+a minha atualizar nesse mundo assim para
+quando voltar já ter pelo menos uma base
+assim para conseguir contribuir mais
+Nick não funcionam seja muito bem vindo
+aí caramba isso né Somos privilegiados
+aí só alunos sensacionais muito bom
+deixa eu ver aqui é
+Oi Emanuelle por gentileza
+e o Patatá com microfone aí desligar o
+diabo tem como tirar um print de com
+todo mundo aí logo é bom ter ela ficar
+mais vai saindo então vamos tirar todo
+mundo aí bota no mosaico quem quiser
+abrir aí a tem poder abrir aí a programa
+para tirar um print para a gente
+publicar nas redes sociais
+boa tira que você consegue bater aí o
+print que está todo mundo Boxing Boxing
+vamos lá pode pode galera é um dois três
+e aí
+eu acho que foi aqui vão pode pode
+prosseguir por gentileza a
+Manuele por gentileza eu vou ver aqui se
+você rolou
+e
+assim o microfone Emanuel
+Quem pegou pegou Vou salvar aqui já
+mando para vocês
+Ah tá pedindo para Pomar volta né Ah tá
+tá bom Beleza então vamos lá então para
+próxima que eu vi aqui a
+Jaqueline Por gentileza aquele Moreira
+G1
+Oi Jaqueline
+Oi tá por aí
+E aí
+se
+acalma aí eu tô não tô com o teu canal
+no monitor aqui ó tá muito está montada
+Jaqueline
+Oi tá por aí
+Opa foi maravilha
+Opa Tudo bem e você eu não tenho muito
+para falar a verdade eu tô me sentindo
+meio triste eu tenho eu tenho 25 anos eu
+trabalhei por 5 horas do Brasil
+como escriturária concursada
+e eu saí de lá pouco antes da família
+para começar a estudar estatística
+Justamente a minha primeira graduação em
+um construção civil
+lá na graduação eu tive contato com
+estatística me apaixonei Hoje eu tô
+fazendo a graduação específica de
+estatística Tô fazendo os cursos também
+do IV ex você falou me identifiquei boa
+muito bom e a
+é muito bom sensacional então é seja
+muito bem-vindo eu espero que você
+consegue consiga vislumbrar o dentro né
+do seu chato você ficar de onde você
+está para gente saber como é que
+eu também fico Banco do Nordeste do
+Brasil viu passei três décadas
+Então você falou me identifiquei eu
+passei a cinco anos lá foi meu primeiro
+emprego
+o box e banco é um dos lugares mais
+frutíferos para trabalhar consciência de
+dados e estatística tá entregue ao
+desembarcar no futuro muito bom muito
+bom sensacional
+deixa eu ver aqui então então acho que
+fechamos aqui
+e as mulheres Então vamos pode pode pode
+se apresentar aí quem quiser falar né
+fica à vontade de ir rapidinho então
+vamos vamos começar aqui Adriano Daniel
+Então vamos na ordem aqui para ter uma
+horta Adriano Daniel
+lá pessoal Bom dia a todos Bom dia Alex
+tem mais alguém com uma jaqueta que nem
+eu aqui ou não tá tudo bom no calor e só
+eu no frio
+olha aqui em São Paulo teve uma virada
+de ter que tá chovendo viu é isso que
+você tá
+[Risadas]
+bom Bom dia pessoal se o Adriano né eu
+falo aqui de Capão Bonito interior de
+São Paulo vem no interior de São Paulo
+há mais ou menos
+250 Km da cidade de São Paulo tá é um
+pouco frio
+perto do Vale do Ribeira aqui é bom
+falar um pouquinho só um pouquinho
+preocupado tá que me ouvir essa que é
+mais their eu tô vendo muito estatístico
+aí e
+já né é isso é uma mais minha formação é
+Ciência da Computação né me especializei
+depois que julguei tô finalizando um
+mestrado também na área é mas sempre um
+viés mais
+tecnológico mas ferramental né então
+acho que
+mediante as falas dos colegas aí né e já
+comecei aprender muito também em relação
+à questão que tem estatística embarcada
+por trás de toda essa ciência de dados é
+Então
+apesar de ser um professor aí seleciona
+também disciplinas de banco de dados É
+mas ele tem um olhar mais técnico
+Eu não estou tão matemático da coisa tá
+gente então
+muito feliz um equipe muito acompanha
+Tiago não sou da larga idade tem já já
+manja de ter já tá meio caminho andado
+Cara eu tô mais é mais ferramental eu
+acho que é o mesmo e eu acho que Bonfim
+gente é tão a expectativa muito alta aí
+tá então acompanha Você Thiago ele já
+com tempo não não tô na comunidade mas
+fiquei bem empolgado para tua presença
+no enviei tá importante aí é que você
+saiba não bastante feliz porque
+acompanha aí o seu trabalho aí na
+comunidade parabéns viu É isso aí gente
+tá é atualmente atua como professor de
+tecnologia aí tá mais um professor não é
+só Professor nesse MDF rapaz não não
+vamos lá
+então ó
+Antônio serve por gentileza
+o Opa tá muito tarde aí ó
+e por gentileza desculpa não tinha visto
+não tranquilo Bom dia pessoal é eu só tô
+falando sério eu sou médico
+especializado em terapia intensiva
+é
+atuo na área da saúde há bastante tempo
+mais
+desde 2007 que eu resolvi estudar os
+fenômenos que permeiam a geração de
+serviços né eu fiz um ambiente em gestão
+de qualidade mpt na USP e de lá para cá
+eu venho trabalhado nessa área fez isso
+é sem margem deixa era deles mestrado né
+na área de administração com foco em
+estratégia e decorrente desse mestrado
+publiquei vários trabalhos inclusive
+trabalhos na área de gráficos né é tanto
+nacionais como internacionais Participei
+de vários congressos nacionais e
+internacionais na área de que envolvia
+pesquisas muito parecida e operacionais
+é
+assumiu departamento de gestão de
+qualidade de uma operadora de saúde
+daqui da região de São Paulo né que a
+prevent Senior é depois eu entrei a no
+doutorado na USP na área de métodos
+quantitativos
+mais que problemas de saúde eu precisei
+me afastar do doutorado às vésperas
+literalmente da Defesa né e eu estava
+trabalhando
+com uma sobrecarga muito grande no
+trabalho eu me afastei e fiz um ano essa
+vaca não me arrependi por causa disso
+porque a saúde aqui tinha que ter
+prioridade senão não estaria aqui hoje
+né e depois lá na frente eu penso em
+retomar esse trabalho é na área do de
+uma estrada eu trabalhei com modelagem
+com equações estruturais e hoje retenção
+do departamento de gestão da qualidade
+na eu entendo que a empresa precisa
+evoluir para uma transformação digital
+no mundo que hoje está em a digital
+então eu me considero uma pessoa que
+entende bem da área de negócio na área
+da jornada né da entrega do serviço da
+área da saúde Eu me considero uma pessoa
+razoável não conhecimento de estatística
+vai indo assim resolvi fazer uma
+faculdade de estatística isso mesmo
+Claro de estatística ele não está pessoa
+que tava ele entrou na turma passada né
+já já tá ligou agora e é mas eu
+senti falta do terceiro ramo da ciência
+de dados que é ter mais conhecimento na
+área de programação né E então eu eu
+adorei aprofundando um pouco mais nessa
+área e achei o professor Thiago começou
+a colocar os links de eu enviei eu
+entrei no link aí eu o professor Bezerra
+começou a comandar os negocinho sair
+conversei assim e aí eu escrevi ontem na
+turma e eu acredito que tem aqui Um me
+parece um grupo de pessoas bastante
+heterogêneo e
+eu acho que as palavras do professor
+Thiago do professor Bz que é essa
+heterogeneidade
+que da grandeza a enriquece Qualquer
+Custo qualquer quanto mais diverso
+quanto mais divergente melhor a turma tá
+bom roupa não é uma grande honra e teu
+conosco aqui também não entrou com a
+gente na turma passada né da comunidade
+de estatística muito legal já é muito
+bem vindo aí também Rua Então vamos lá
+Diegão Oliveira
+E aí
+O negão tá por aí
+quem tá no multi também eu não tô
+conseguindo ver aqui bom então Daqui a
+pouco o Diegão volta então ou vamos lá
+então para
+mestre Érica Araújo
+E aí
+a
+Ana falou que tava com obra em casa
+vai ficar um pouco difícil aqui com vai
+ficar batendo agora
+Tenta aí tenta aí vamos ver se vai
+é bom pessoal Desculpa aí pela pela
+falta da câmera né é o seguinte eu sou
+sou economista já sou graduado há
+bastante tempo também tem uma
+licenciatura em ciências com habilitação
+em química
+sempre foi apaixonada aí por estatística
+e por ciência no geral tanto que eu
+tenho duas graduações né uma exata em
+ontem social Ah e por um pouquinho ou
+não ia para biologia de novo voltava
+focavam para biologia mas sempre tomando
+aí pelo pela parte de cálculo
+estatística
+trabalhei 7 anos estão HSBC
+eu fazia de tudo lá
+bom então
+é pelo menos a experiência com na parte
+de Business é grande É
+principalmente bancário negócios e
+atualmente aí eu tô ajudando aí o México
+de água na na comunidade
+no estatidados
+Então eu acho que é muito bom para
+simplificar antes que comece o barulho
+de volta aqui
+eu acho que eu posso finalizar aqui e
+com o passar do tempo a gente vai
+conversando aí se conhecendo melhor Eu
+acho que o Pedro compartilhem sem querer
+tranquilo
+beleza não seja muito bem vindo aí
+mestre que um grande prazer tê-lo aqui
+com nós também ele quer estagiário da
+comunidade estatística ele também é
+voluntário lá no status dados né cara
+que ajuda muito aqui um cara que gosta
+de compartilhar muito conhecimento e
+qualquer coisa pode ter certeza que eles
+vão Ele vai tentar te ajudar aí que ele
+é ele é fera demais bom então é vamos
+aqui para o próximo que eu vi aqui
+E o
+Pedro tá tá com um probleminha aí deixa
+eu ver aqui o
+Eugênio por gentileza Claro daí o bom
+dia todo cima do meu gêmeo Eu tenho 21
+anos sou formado em economia me formei
+no ano passado
+esse ano eu comecei a estudar banco de
+dados na impacta
+porque eu comecei a entender eu comecei
+entrar um pouco mais nessa área de
+ciência de dados nessa área de
+estatística lá em 2018 quando o meu
+chefe me apresentou powerbia eu comecei
+trabalhando nessa área com Corby ai
+conheço Thiago no Big Data Brasil dei
+caramba cara o cara O
+evento foi muito bom foi muito
+quero meu aqui Vale abriu minha mente
+mas se alguém que ainda não participou
+Eu recomendo muito que ali vocês
+aprendem muito a língua nas meu ali
+incrível e o Tiago lá conhecer a Adriana
+lá também conhecerá uma porrada de
+professor uma porrada de conteúdo
+pessoal lá da minerando né sim o pessoal
+do minerando é entrei na comunidade
+estatística ou foi na primeira turma foi
+na segunda tô lá até então revendo aula
+uma vergonha na cara para continuar
+porque às vezes não dá tempo
+e essa e essa comunidade estatística me
+ajudou muito na faculdade porque quando
+eu comecei a economia Eu gostei da área
+de pesquisa área de Pesquisa Econômica
+me atraiu muito então quando eu comecei
+a ter na faculdade estatística para
+economia econometria meu seu negócio
+real É surreal a utilização da linguagem
+R economia tem muita prática dá para
+utilizar muito e por conta disso eu
+tinha duas opções Quando eu sair da
+graduação no ano passado vamos fazer
+mestrado que era minha ideia principal
+Porém para eu fazer ele não teria que
+parar um pouco porque eu tava fazendo
+estudar para tirar a prova para
+conseguir entrar no mestrado ou embarcar
+logo de cara na área de ciência de dados
+pensa impulso vou fazer uma pós só que
+eu não entendia nada a única coisa que
+eu tinha conhecimento a ler a r e um
+pouco de um pouco de dados por conta
+policiais Oi e aí um trem banco de dados
+no começo do ano nem banco de dados aí
+agora a gente já tá vendo o pai então já
+tá bem mais que ele já tá tendo HTML por
+conta de olho da tapplication Então
+assim tá sendo bem corrido eu gostei
+muito da área muito mesmo ele é bem
+Atrativa vamos por assim dizer dá para
+aprender bastante coisa e eu espero está
+aprendendo bastante com vocês
+uma grande honra e cara muito legal foi
+um dos primeiros a entrar na comunidade
+né acreditar no meu trabalho que a
+primeira tão tinham dez aulas lá dentro
+então cara que entrou na ele conhece ele
+e confio muito mas mesmo trabalho ficou
+o dinheiro não ter acontecido a
+comunidade aí cara Cristo no meu
+trabalho né E muito legal mesmo cara
+obrigado aí pela se depois que confiança
+de uma grande honra tê-lo aqui conosco
+seja muito bem vindo Obrigado boa Olha
+aí Fernando Rodrigues a
+roupa eu volto pa Esse é o cara aqui
+e Thiago
+Bezerra o dia o Fernando
+eu sou do Rio de Janeiro tenho 27 anos
+a
+sua praticamente do lado da mesma região
+com bastante água né Pra ficar mais você
+vizinhos faz isso
+mal eu subi o médico de formação
+e eu fiz recente recentemente o mestrado
+em engenharia biomédica em que o onde eu
+trabalhei mais com a parte de
+trás de modelos estatísticos um bolo
+ó e aqui pertinho aqui é pelo sol também
+a prestar consultoria para pessoas do
+pai da Saúde estão de bioestatística e
+isso gente tem uma trajetória parecida
+na sua nessa linha
+da comunidade estatísticas
+do site água
+que eu confesso que naquele momento
+macho é depois que eu tinha visto umas
+Lajes do do espaço dados eu
+eu resolvi entrar porque é eu queria eu
+vi que tinha muita gente conversando
+falando do próprio da própria comunidade
+E aí
+normalmente ele ia ter muita gente que
+fosse dessa área que eu queria começar a
+trabalhar né Por causa do mestrado que
+você desse mundo grande
+diferença de dados tudo mais e é
+resolver
+aí realmente conheci muita gente legal
+lá na avaliar com que é para conversar
+sobre
+fala sobre sobre a área Olá é muito
+prático muito
+interessante
+eu tô entrando aqui desse nesse enviei
+porque eu tô querendo
+tem mais louco esse pé dessa base de 11
+assim
+o
+teórico de muita prática isso mesmo eu
+namoro com esse entender mais a base
+teórica do da ciência de dados como um
+todo e
+e também isso vai me ajudar no trabalho
+que eu
+fui aprovada recentemente na Accenture
+na Lapa ou uma na lista de Analytics
+Oi e aí é a pouco mais aqui tá ligado né
+a
+próxima só não só das Big four' né é a
+sentir KPMG Uai né Muito legal cara
+parabéns aí muito bom
+demais Fernanda né ele ele participou
+pacificamente de todas as recepções dos
+alunos da comunidade Estava sempre lá e
+e ele tava fazendo entrevista entrevista
+à revista e aí eventualmente ele recebia
+não então eu falava cara tanto tá na
+porta né pô daqui a pouco você vai
+conseguir tal aí ele aplicou lá para
+sentia né não deu outra né conseguiu
+entrou lá na frente tá lá agora começar
+lá algum internacional Inclusive a
+gestora dele ele me falou eu já tinha
+falado com ela não entende tal já já
+falei para ela cuidar bem dele lá na
+frente né então é muito legal de
+entregar o mesmo é o vídeo sua legenda o
+a
+aplicação que que o menos fiz esforço
+porque é
+ai a gerente lá que vem falar comigo aí
+eu conversei com ela ela não me passou
+por lote lá a mais umas pessoas lá
+dentro aí e aí eu peço ao lado as outras
+que eu mais
+buscando
+as candidaturas e tudo mais então
+tá acho que é
+gratificante Parabéns aí uma grande
+honra tê-lo conosco também muito bom
+vale
+Gabriel piercing também acho que dava
+comunidade também né mestre Olha aí a
+gente exatamente vamos lá Gabriel Peres
+Peres né Foi mal estamos P E aí
+então eu sou formado em Sistemas de
+Informação na forma em 2017 iniciei aí
+dentro e esse de dados aí antes de me
+formar em 2016
+Eu sempre procurei por um estágio ou
+algo assim na área mas eu acabei
+entrando direto como um analista de
+inteligência de mercado Na época na rede
+laureate então tive uma passagem pela
+área da Educação
+Mas eu senti naquela área detergente de
+mercado é um pouco limitado eu queria
+fazer mais coisa eu queria programar eu
+queria trazer o processo mais
+automatizados do que eles tinham dentro
+da área né eu comecei aprender Python
+aprender R eu tivesse meu primeiro
+contato com ciência de dados fazendo um
+sistema de análise de artigos em Java no
+text mining Java extremamente trabalhoso
+utilizam é de compiladores E aí depois
+reconhecer o r me apaixonei pela
+obtenção de dados e pelo erre também
+então eu vendo tinha a herança que tinha
+pai
+em seguida eu acabei entrando na briga e
+como cientista de dados já o meu
+professor que me orientou durante um
+artigo de trabalho de conclusão do curso
+me convidou para trabalhar com ele Achei
+é legal
+trabalhei com essa área de publicidade e
+propaganda e algumas coisas relacionadas
+a crédito também porque a Bíblia é
+chamada de ciências de dados meio
+específico assim que prestava serviço
+para outras áreas também não só com o
+bastante propaganda mas outras temáticas
+E aí eu comecei a expandir bastante
+assim a cabeça tipo cara eu posso
+aplicar sentir sozinho tudo quanto é
+coisa
+E aí eu entrei também na área de
+segurança com as réguas aí já como um
+líder de aqui e implementando repetidos
+Né desde a área do Bea e 1 e TL que ele
+simplesmente não existia só existe um
+mar de dados é tanto um círculo quanto
+os ícones grandes e não estruturados
+como
+implementar alguma coisa de mexendo
+também e depois entrei também na área da
+saúde agora ultimamente com a Unimed eu
+acho uma área muito interessante é né Eu
+sempre por isso fazer alguma diferença
+vamos dizer assim dentro dessa ciência
+de dados e achou legal aí também essa
+esse ponto de ensinar aos outros aí eu
+falei com algum gerenciador de projetos
+dentro da Unimed Porto Alegre
+hoje moro em São José Santa Catarina
+formação legal aí
+encontrei o enviei para ela comentários
+desativados ou sorteado aí a liga para
+eu diferencial assim eu já vi é o tempo
+procurando algum mb para me dar uma
+atualizada nas coisas que estão
+acontecendo no mercado a gente acaba se
+fechando muito no projeto e quando
+acabar virando comida de projetos na
+internet diária
+acaba assim que fechando muito naquilo
+que tu conhece e aí tu acaba dando
+procurar alguns cultos procurar outras
+modos assim de encontrar o que estão
+utilizando na como as pessoas estão
+fazendo as coisas e a E também porque eu
+vejo um GAP muito forte no aprendizado
+na área de estatística específico já que
+eu sou da área de computação né e eu fui
+meio que um caminho o self drive né eu
+aprendendo que eu precisava em cada
+momento já passei por exemplo equações
+estruturais aí eu venho colega comentar
+também utilizei bastante dentro da área
+de educação né
+e é isso aí cara muito bom aprender
+mostrar muito bom mesmo grande honra e
+também que você conosco muito legal cara
+show de bola tamo junto
+e olha aí Itálo França
+e o gentileza
+eu não tô conseguindo ver ele aqui tá
+montado né até aqui agora apareceu
+no dia a todos bom dia
+a minha irmã vamos lá né então me
+ouvindo bem aí estamos sim show de bola
+é mais uma vez meu nome é Ítalo Franca
+eu sou daqui de Fortaleza Fortaleza
+Ceará
+é atualmente atuando na empresa rede
+nova tecnologia
+analista líder da equipe né hoje aí de
+Nova ela atua na área de fábrica de
+software
+especialista em gestão de dados né a
+parte de viagem também é atendendo Aí a
+a grandes clientes aí como a Claro por
+exemplo
+né a gente presta o serviço aí de
+análise de dados é só toda essa parte de
+recarga
+e bem interessante aqui é essa vasta
+diversidade aqui de profissionais né É
+tô achando muito bacana eu acho que a
+ideia desse Network aqui é bem
+interessante e vai construir para
+conseguir bastante Aqui tá o andamento
+nesse projeto no professor falou né é eu
+venho desde eu já tenho nenhuma
+experiência nessa parte de
+minha formação na verdade ela foi meio
+direcionada para essa parte de t.i. na
+sempre focando nessa aplicação prática
+né com o falou e eu acho que o Adriano
+Daniel isso se vieres técnico né
+então assim
+sou técnico de processo de processamento
+de dados né também sou técnico em
+contabilidade mas não exercendo essa
+função propriamente dito né É já bati
+perder alguns eventos
+faculdades é O Professor Substituto né
+mas sobre o viés técnico para
+dar esse suporte aí aos professores das
+faculdades aqui locais né então
+dentro dessa experiência aí é hoje em
+dia atuando nessa área de gestão de
+dados também dentro da empresa a gente
+tem que evoluir né então como tem muita
+coisa nova Oi tá sempre os cantos essa
+atualização nosso mercado de trabalho e
+como empresa ela está
+direcionando algumas ações estratégicas
+e importantes visando ainda aumentar
+esse nicho de mercado né Na parte de
+biya e é isso é o primeiro passo né Para
+dar minha contribuição dentro da empresa
+e ela para alavancar esses negócios é
+todo mundo empolgado aí com essa
+sensacional com essa legal é
+a
+necessidade da empresa e essa
+oportunidade que eu vou ter né de
+conhecer aí essas experts de cada um
+nessa troca de ideias Eu acho que isso
+aí também é extremamente importante tá E
+vai estar contribuído a iaee bastante
+com o presidente não só mesmo eu
+acredito que aí de de todos boa seja
+muito bem vindo então pão assim como eu
+falei para o Adriano nessa parte técnica
+galera que vende tere cara nada de
+braçada cara experiência que eu tive
+outros ambientes né cada hora que já vem
+da hora de their nada de braçada deem
+esse de dados tá muito legal bom então
+vamos aqui para o próximo ivanei
+Oliveira por gentileza
+E aí
+o ivanei eu eu alô opa tudo bom dia Opa
+bom dia tudo bem bom dia tudo bem
+Pois é eu sou namorado da Alessandra já
+fui me apresentado né
+eu tava aqui só ouvindo tava preso no
+quartel tava preso no quartel e eu tô
+até parei Estacionei o carro aqui para
+poder falar né Tá ouvindo a todos aí
+apresentação de todos eu vou me
+apresentar rápido Eu Sou administrador
+né É pode gravar de em Finanças essa
+área de estatística não quer entrei
+sempre área administrativa Mas eu sempre
+senti falta dessa tecnologia
+eu tenho 40 anos e tem visto a sua
+evolução e Crescente né eu fui formado
+segundo lugar que você mais de idade
+começei no MMX de dois aquele computador
+tela verde e a vida foi levado para
+outros lugares né Eu
+estou um pouco Assustado mas qual a
+administradora especialista acha que
+administrador se encaixa qualquer lugar
+né abalar que ele dá um jeitinho de
+consegue Olha o seu militar é continuo
+com a minha cara iniciativa me ajuda um
+pouco pelo menos que um administrador né
+e trabalhei com ati tá com Alessandra lá
+um pouco e via a evolução ele tava
+conversando com ela sobre essa entrada
+né sensação na área tecnológica e vi que
+ela também tava procurando eu fui lá
+então vou entrar contigo aí se anima e
+você mesmo tenho me anima a maioria das
+pessoas aí tá atualizando né e eu tô
+inicializando
+então espero aí tá podendo ajudar o que
+eu puder eu vou me estender muito não
+porque as pessoas margem para falar vai
+ter vários muito parecida mesmo pois é
+vai conhecendo o aluno do da aula
+desculpa aí a o meu escritório aqui
+tranquilo
+o quanto mais aulas eo eu vou estar lá
+pronto para ouvir ajudar que precisar ou
+então bom seja bom gosto muito obrigado
+aí pelo menos pela ajuda aí e já me
+desculpando de
+lutar com as conhecimentos vaso de
+muitos aí mais nada que ia sair na
+humildade aprender um pouco vamos juntos
+vamos juntos qualquer coisa Obrigado só
+falar com a gente beleza obrigado show
+de bola o Pedro acho que ele vai ter que
+sair então vamos para o Pedro Pedro
+Henrique Brandão rapidinho pode ser
+eu não sei se ele já saiu o tio Rick
+Oi
+Pedro Pedro Pedro que já sai ano até
+aqui Manda aí Pedro mandei mandei
+rapidinho apresentei que você vai
+precisar sair né
+e fala pessoa tá me vendo o pastor vindo
+vindo pela minha vida desculpa aí a
+correria né que aqui
+é é como você falou né eu pessoa quiser
+ela falou né gente tem imprevisto é
+questão de saúde
+e demais coisa né que foge um pouco da
+nossa alçada né sim então você é um
+pouco breve aqui né então eu sou militar
+né atualmente eu sirvo no aqui né sou da
+da Aldeia aí no Rio de Janeiro né legal
+e
+a minha meu interesse né Eu sou eu estou
+graduando né também logística né há
+muito tempo antes será concurso né Aí
+vem meu interesse de ir para fora para o
+exterior né aí eu pensei assim cara eu
+tenho que aprender alguma coisa tem que
+me interessar alguma coisa né
+Aí quem são de pesquisa é pesquisando
+aprofundando aí ver a área de ciência de
+dados né
+E aí ciência de dados
+aí primo que é feita de dados aí você
+vai pesquisando procura fazer os cursos
+na do demais né aí só que
+eu vejo com os cursos alguns cursos né
+daldemar eles focam mais em ferramentas
+né e fala que você tem que saber pai não
+é ri mas aquilo que o senhor falou falta
+a questão de
+fundamentos de sinal que quer ser esse
+de dados. Você vai aplicar né e não
+somente aquela de jogar um código né na
+tela e você copiar e colar tudo tem o
+porquê por trás né
+e até que um dia né o pesquisando né uma
+aposta sempre ano pesquisando
+pós-graduação né para me manter
+atualizado né para
+agregar né o nosso currículo né aí até
+que um dia o senhor me falou ó eu tô
+dando uma pós graduação né vou vamos
+ficar uma pós-graduação isso foi lá no
+grupo do telegram né
+é a opa vou pesquisar aqui né Aí eu
+falei só não dá para mim não porque eu
+não me formei aí não converso sua
+cozinha não sei o que aí eu preciso
+Bezerra deu essa oportunidade né Muito
+muito feliz tchau diferença da do foco
+na pessoa sabe você tem que
+desburocratizar
+verdade e isso é fundamental né porque
+aí você quer negócio aí tem que esperar
+né e eu eu tô naquela ansiedade doido
+para fazer doido para aprender né e eu
+vendo aqui o quietinho só os amigos aqui
+tudo já tem gente que o mestrado tem
+gente que trabalha não sei quantos anos
+na empresa a fazer é isso não é
+mas assim que é bom cara assim que a
+gente aprende com essa galera É isso aí
+eu ficava do lado desses caras né para
+ficar sugando ali né claro que eu
+tentava compartilhar minimamente ali em
+alguma coisa mas eu ficava sugando ali
+uma esponja né tem que ser responde
+E é isso que é isso que eu tô pensando
+aqui KL eu vou Sugar cada um aqui um
+pouquinho do conhecimento Eu sou um cara
+muito curioso e pode ter certeza vai
+para a gente aí muita coisa também
+Nós seres humanos nós temos neurônio
+neurônio espelho que a gente aprende
+vendo que as pessoas estão fazendo sabe
+inconscientemente isso é muito
+importante então eu me digo quando eu me
+inspirei assim para ser professor de
+pós-graduação inspirei em um professor
+de pós-graduação da maneira como ele deu
+uma aula da maneira como ele tratou
+aquele tudo Civil de de orientação para
+mim então aqui é uma oportunidade para
+todo mundo aprender e compartilhar
+Olá boa
+Oi Júlia bola estão seja muito bem vindo
+aí Pedrão Valeu
+vamos lá então João Pedro
+o
+Opa bom dia pessoal tudo bom com vocês
+então eu tô eu sou daqui do interior da
+Bahia eu tô no mesmo estilo que o Pedro
+que falou agora eu tô na graduação de
+ciência da computação Eu também falei
+com o professor José Bezerra para gente
+conseguir encaixar em uma forma que eu
+pudesse fazer esse curso mesmo sem ter
+informado ainda
+e eu tô aqui eu espero poder
+futuramente entrar no mercado de
+trabalho nessa eu sou apaixonado por
+data Science por Inteligência Artificial
+e tudo mais eu já fiz diversas pesquisas
+sobre isso só que eu ainda não tinha
+encontrado uma oportunidade de uma
+formação que fosse atingir as minhas
+metas sabe legal e fala de ônibus
+Ribeira do Amparo Bahia bem no interior
+mesmo
+amor você já vem vindo aí Pedro e a
+forma João B bom então pessoal a Doutor
+José Beleza Manda aí manda aí José
+Ricardo então por favor um
+as fotos opa opa vacina
+o
+pistão
+está louca agora eu vou lá vou São José
+Ricardo eu sou engenheiro Engenheiro
+telecomunicações e engenheiro eletrônico
+que é uma profissão que existe mais
+eu sou o pessoal da Marinha da reserva
+fiquei impressionado com a quantidade de
+militares estão fazendo esse curso mas é
+assim mesmo ele tá gosto de estudar
+eu passei 30 anos minhas três décadas da
+Marinha foi uma experiência fantástica
+eu trabalhava lá com Deus come seis com
+canhões bombas por pelos caramba
+laser e guerra Cohab bom eletrônica
+o contato que eu tive com redes neurais
+e lógico que a Nebulosa do zoológico que
+o pessoal Lógico que a Nebulosa isso não
+deve ser coisa boa não essa coisa de já
+hahaha se fosse bom não ser e nebuloso
+acabou nossa cabuloso né
+Depois da Marinha eu
+trabalho como consultor como analista de
+processos e trabalhei do eu não falei
+que trabalhar eu não deu nem para tirar
+ano sabático né foi para não foi
+programações Unidos desenvolvimento
+depois fui trabalhar no operador
+Nacional do sistema elétrico e algumas
+empresas eu gosto consultoria a empresas
+particulares também aí agora eu tô lá na
+ue para o trabalho na ue porque a minha
+empresa em dela e eu comecei nas vias lá
+aí viu foi comprado pela ir porque as
+agora estou aí
+eu moro aqui em Fortaleza eu sou carioca
+moro em Fortaleza e se Fortaleza
+madrugar cê nós estamos agora saindo do
+inverno a temperatura que era 35 graus
+mas no inverno passou para 33 agora
+voltou para 35
+com frio em São Paulo
+eu morro de saudade frios eu não 16 anos
+eu não sei o que que é isso que eu é
+quente é muito quente
+eu trabalho com tronco né É só 30 muito
+quente
+totalmente da Oi para o trabalho lá
+presta serviço à Secretaria de Fazenda
+Estadual de fazendo nascer faz como
+analista de processo aí eu comecei a
+trazer com eu sempre na
+carreira da Marinha sempre pensei muito
+fora da caixa sempre conseguiu integrar
+muitas coisas Muitas muitas soluções de
+áreas diferentes que os tem dela tem um
+doutorado em política estratégia na
+escola de guerra naval ou MBA em gestão
+internacional ou após análise de
+sistemas e e outra em locais que já
+pediu encontrar ama look até para quando
+é ruim vai agregar muito aqui pô muito
+legal e Graças a Deus eu consegui sempre
+usar os conhecimentos todas as áreas
+onde eu tô trabalhando sempre onde eu
+trabalho qualquer lugar que esteja
+independente do trabalho que eu consigo
+juntar esses conceitos
+eu fiz uma e certificações em análise de
+processo o cbpp deve lucilda bpmp tem
+algumas certificações também na área de
+gestão de mudanças pelo hcm boxe
+ah e também é Comecei agora está a parte
+de transformação digital não vai a parte
+de piso nos argila e ficas agilidade nos
+negócios exatamente comprou sua Bezerra
+falou no comecinho você também tem que
+olhar o último olhar também sempre um
+dos negócio aí nossa massa faz para só
+pensando no tradicional que ela quer
+natural é o órgão do Governo é que vai
+ser não não vocês têm que Minera
+processo tem que entrar com uma Shirlane
+tem que tá com rpa você imagina a
+confusão que foi lá depois de perto
+disso é
+e como não queria um bpms não precisa
+disso não você precisa demora um pouco
+né dois muito burocrático né
+infelizmente sem rumo agora não mas lá
+teve duas reações extremamente opostos
+foi muito legal e é Real o pessoal que
+hoje o bastante que vai ter que sair da
+área de conforto zonas e o pessoal que é
+amor que eu apaixonadamente europa.eu
+[Risadas]
+Olá queridos foi quase com a guerra de
+guerrilhas Eu também sou militar estamos
+aí estamos aí para isso ela ela muito
+tempo para galera ele se faz SMS né
+Receita Federal concursos na área de
+estatística de Delma centro para agradar
+e o pessoal muito bom está investindo em
+Big Data estão fazer uma parte toda a
+parte dele gesto dos negócios pisos
+pisos internos já está cansando disso
+mas querem conhecer como é que a
+contribuinte coisa e tal aí eu conversei
+com 10 do eles querem mudar a
+experiência do contribuinte com a qual a
+receita na com receita estadual e é
+melhor a jornada do cliente aí comecei a
+e deixando os processos nesse sentido do
+tipo Olha se você não quer está fazendo
+um programa de conformidade tributária
+você quer melhorar a experiência do
+contribuinte que ele tem que sentir
+parceiro da secretaria tudo bem a gente
+faz uma consulta você você leva um ano
+para responder quando responde dizendo
+Olha você não podia o imposto desse
+jeito que eu te montar Vou te mandar um
+áudio torno a sua empresa se você
+respondeu processo coisa que você não
+experiência essa mostrar um cliente com
+seu amigo dele né assim
+quer dizer criar um
+projeto muito bom interessantíssimo de
+conformidade tributária outra forma de
+oração essa experiência que é o é o
+programa pai dela filhotes não mudar o
+nome para filha de uma égua porque vocês
+tomar tando trabalho
+e eu disse isso para secretário de
+fazenda então eu não fui demitido tô
+vivo até hoje para
+me matar eles entenderam que você não
+pode levar
+60 90 dias analisando o processo para
+responder uma consultas tem que fazer
+cinco dias três dias Vale lá mas como é
+que tá a fazer isso ela Vou contratar
+mais gente não você vai ter que botar
+inteligência nesse Bastando Lane diplany
+você vai ter que a automatização eu sou
+robotizar seus processos você tem que
+ser esses a tem que ter agilidade no
+negócio que usa um setor de análise não
+pode dizer planinho pega aqui esse
+processo analisar você tem cinco dias
+não não é assim você tem que tem que
+aplicar mento dos Anjos formar os
+esquetes fazer
+você tem que separar os problemas por
+complexidade para o nível de
+complexidade função do domínio copiem
+Silva que é que você não pode mostrar
+coisas operacionais com com coisas de
+governança por exemplo nem nem inovação
+tudo no mesmo saco não quer cada coisa é
+uma coisa
+boa aí eles levaram um susto enorme acho
+que sobreviveram isso eu também e
+E para variar não se procurando uma
+coisa nova para estudar para me
+interessar não ter Estão comprando
+também comprar uma solução de Big Data
+que eu um livro que eu celular quer ir
+para frente mesmo e falei quer ir para
+frente então vamos juntos isso é boa
+isso também é isso aí isso é bem vindo
+sem fumar e
+voltar aos tempos Da Lógica Nebulosa
+esta mais sem ser de dados mais Martins
+Lane mais Deep Lane e estudar por conta
+própria pegando um livro com aquele
+jeito meio tradicional não dá certo não
+é coisa É verdade está dizendo eu
+facilitadores ficar muito mais fácil
+para certo aí maravilha eu tenho que me
+conectar com as pessoas eu tenho que
+fazer um ambiente coisa assim apareceu
+receber curso Bezerra como sempre é a
+soluções assim bem fora da curva para
+fora da curva é comigo mesmo
+é isso aí parabéns aí pela pela
+trajetória né brilhante muito legal vai
+vai agregar muito aqui o conhecimento
+aqui pra galera show de bola maravilha
+então agora e ir para ele que roubou
+minha bolha nós a fada nesse Marcelo
+Vieira hambúrguer
+pessoal o José Ricardo você complica é
+seu dinheiro eletrônico também
+caixa eletrônico o meu de telepol e
+ainda ainda trabalho nessa hora também
+né até temos o leite comuns também
+atendo a Claro aí a empresa aqui é eu
+quero sair dessa área de Telecom mas o
+pessoal me deixa aí 2016 é um gay mas
+Startup me chamaram agridog aí eu tenho
+a paixão pela natureza né então aí eu
+comecei a pensar como que eu posso usar
+o meu conhecimento a minha vontade é de
+proteger a natureza como que eu posso
+realmente colocar esse prático Então eu
+fui estudar o que que o Agro tava tava
+dizendo lá de dores e eu vi que o a
+partir de o principal era um assunto
+crítico e isso me encantou então desde
+2016 eu venho trabalhando em soluções de
+predição de incêndio Florestal né então
+a gente aplica a internet das coisas lá
+então problema em ser mais mais e aí a
+gente está esses dados de trás isso para
+falar plataforma Então a partir daí a
+gente precisa entender aqui já o
+estatística né para usar não só os
+ensinamentos remoto remoto de imagens de
+satélite mas esses dados a gente
+consegue extrair das florestas também aí
+foi provado aí pra ganhou até premiação
+né Fala galera não seja melhor é
+obrigado a gente está beliscando E aí eu
+senti falta nessa parte de
+aprimorar já estatística faltou
+fundamentos faltou base e aí eu comecei
+a pesquisar o que que eu tenho que
+aprender né a cada nova barreira que eu
+enfrento né eu chego essa barreira
+eu procuro a estudar Como que eu posso
+instalar isso então de baiano em
+Barreira a gente vem crescendo E aí a
+primeira a primeira interação com esse
+conhecimento de estatística foi na casa
+da pesquisa operacional faço parte da
+comunidade lá depois aí está te dados
+também Marcelo eu estou quer também é
+bem fácil
+o parte lá que a minha entrei na EA
+partilhar é ai ai ai ai
+e vem ó estudando
+RNA então a gente utiliza muito R aqui
+também para fazer essas esses filamentos
+de Camargos de dados e daí extrair
+essas localidades mais prováveis para
+ter e incêndio e sempre estudando né
+Então aí a gente analisar não só os
+dados climatológicos
+topográficos porque a gente sabe que o
+maior parte dos incêndios são causados
+por nós mesmos né então a gente aplica
+inteligência artificial
+a inteligência social para predizer a
+presença humana não é para modelagem tem
+gente lá para ligar o que o cara que não
+é bombeiro e apaga fogo
+então a pessoa brinca aí para colocar
+fogo no parquinho fala não pode não
+então esse esse é o nosso principal
+produto é a gente atende o setor de
+Floresta plantada e agora a gente está
+para lançar também outro produto que vai
+ser também o usando os conceitos de
+inteligência artificial para a gente
+ouvir a floresta né então a gente vai
+usar os sons de pássaros e deixar
+motosserra tiro só usa assim que envolve
+é só os que fogem da daquela normalidade
+da floresta para gerar Alerta aqui para
+gente para pontuar coisas que estão
+saindo ele dizia e é isso o nosso foco
+aqui eu quero ajudar o planeta né E aí
+eu conto com a ajuda de vocês aí também
+espero contribuir Ah e eu tô lá não é
+fiquei muito feliz em ver o pessoal é
+recém-formado se formando interessado é
+por esse esse conceito todo né É bom
+saber que o nosso país está crescendo
+nesse sentido Obrigada pela Unidade seja
+muito bem vindo do cara uma grande de um
+retângulo com a gente por causa que
+contribui muito aí né não só para o
+planeta não também para comunidade como
+todo o cara incrível muito legal e a
+próxima vez eu vou com a minha Borgonha
+marrom tá Hahaha
+roubou minha voz nessa
+de ouvir aqui ó vamos lá Marcos Alves
+e o Opa tá tá tá mu tá daí a Xuxa
+e agora o favor lá pessoal Bom dia disso
+Marcos Marcos Alves eu sou de Recife
+moro em Recife pessoal que está de
+casaco aí aqui pessoal já tá se
+preparando para praia Viu sabia bem
+bonito aqui e o pessoal já tá embaixo
+indo para praia eu tô vendo eu sou
+formado em administração tem um em
+gestão empresarial e também tem uma
+especialização Gestão Pública e controle
+eu sou servidor do estado de Pernambuco
+Eu trabalho na Secretaria de
+planejamento de Pernambuco mas
+principalmente dentro do Instituto de
+gestão Instituto de gestão Ele trabalha
+um pouco um planejamento um pouco
+monitoramento avaliação e difusão de
+conhecimento de políticas públicas então
+a gente trabalha com Interface com a
+universidade trabalha capacitando os
+servidores internos trabalho dando
+consultoria para o governo do estado mas
+também a gente trabalha com difusão de a
+capacitação de para prefeituras onde o
+pessoal tem muita carência até para
+construir um projeto para captar recurso
+pessoal não sabe então a gente tenta
+buscar novos conhecimentos novas
+tecnologias para repassar para o serviço
+público não é o Instituto de gestão ele
+tem uma parceria é com o novo ramo de
+Gamas de tecnologia criado no estado que
+a usina Pernambucana de inovação que é
+um banco tecnologia que tá Que Tem
+trabalhado com por exemplo composto
+digital e e a universidade Recife uma da
+cidade de referência na parte de tiê
+inovação né Hum acho que
+está entre os cinco gols 3 podem de
+inovação do Brasil é esses dias saiu
+numa matéria né como uma das cidades
+mais negativas do mundo né
+Recife e aí a gente tem esse viés e a
+secretaria de planejamento é têm buscado
+até para poder é
+a trabalhar parte de planejamento e a
+parte do mundo de avaliação de políticas
+públicas têm buscado é
+esse interesse pela o cuidados né lá na
+secretaria foi instituído do Lanús tipo
+de gestão o núcleo ciência de dados e o
+núcleo de gestão do conhecimento eu faço
+parte gestão do núcleo gestão do
+conhecimento mais a gente sempre a
+compartilhando
+esse conhecimento com com dados e tal
+então é uma área que tem me interessado
+bastante para mim eu estou bem no início
+assim tempo não temos conhecimento aqui
+já tem muita gente é que já tá bombando
+na área e tal eu tô começando agora mas
+é uma hora que eu eu gosto muito e eu
+tenho certeza que vou poder contribuir
+para as políticas públicas né porque as
+políticas públicas a para todo mundo né
+para as pessoas para a sociedade então é
+isso e análise das para fomentar
+políticas públicas era ocorre né com
+certeza é muito bem-vinda obrigada
+obrigada Bom dia pela pela recepção
+obrigado boa Marcus Viana Rio Max antes
+das o rapaz Fala aí meu trabalho de
+mentoria eu digo o seguinte você quiser
+crescer você tem que ir para aí no meio
+de alguém que esteja acima de você se
+você tá no lugar onde todo mundo é igual
+a você ou abaixo de você Você tá no
+lugar errado
+tá no lugar onde as pessoas estão acima
+de você é aí onde você cresce é aí onde
+você aprende com certeza que o lugar
+meu Deus cobra dizer Graças a Deus eu tô
+no meu dos Cobras eu comecei a
+impressão desde o início para fazer
+também trabalhei em bancos
+na verdade Trabalhei na caixa trabalhei
+no Banco Real o Santander e trabalhei no
+Banco do Brasil também
+é sensacional
+muito bom
+maravilha então vamos lá Marcos nela
+é
+uma coisa ele tá por aí se apresenta aí
+para gente por gentileza eu tava montado
+eu tive que não tô conseguindo ver
+bom vamos passar aqui então eles ele
+volta aí Marcos Dias
+e se apresente aí por gentileza
+Bom dia pessoal bom dia
+meus amigos o que dizer aos ideia aqui
+né eu tô me sentindo O Primeiro Aluno
+que vai falar agora né
+Ei 40 professores aqui
+bom pessoal nasce em Fortaleza e conheço
+os 35° Fortaleza e hoje eu tô aqui há
+mais ou menos três quatro anos a moro em
+São Paulo quando eu cheguei aqui eu
+parecia um diapasão né no essa variação
+de temperatura daqui é uma coisa pode
+colocar aqui conhece mesmo mas já me
+acostumei
+Ah e assim eu vou
+iniciei na minha vida né de UTI a por
+análise de sistemas Participei de
+empresas fazia nada de qualidade para
+exportação aí ainda não Ceará né cheguei
+a fazer
+projetos para hoje a empresa HP para
+servidores e hoje
+moro em São Paulo trabalho no Bradesco
+né mas a minha trajetória passa o
+gerenciamento de projeto hoje que eu
+ainda faço o gerenciamento de projetos
+na área de TI aí de infraestrutura e a
+empresa não é para desse é tão grande
+tão grande para você ter ideia a gente
+trabalha com uma emprego não vários
+ministérios ou deles é o z15 eu não sei
+se vocês já ouviram falar mas o usei 15
+faz de 100 mil transações bancárias por
+segundo é uma coisa de louco dado do
+país e do mundo inteiro
+Oi gente tem contato ou previsões né e
+de mercado para o futuro de dois anos só
+para você ter ideia todos os projetos de
+pedido de infraestrutura o projeto que
+tem a ver com tecnologia
+a passa por mim então eu análise todos
+os projetos o nariz muitos projetos
+todos os dias aqui a gente fez verificar
+a viabilidade
+é o que que o banco vai ganhar com
+relação a rir seu trabalho e chamativa
+graças a Deus moro aqui do lado da
+Matriz porque aqui em São Paulo
+Transporte já sabe como é que funciona
+né esse momento de pandemia ele foi
+muito interessante porque vou dar uma
+informação estatística que acho que já é
+importante
+e a antes do banco não tinha intenção de
+trabalhar com Home Office não tinha
+achava que isso era um negócio ruim as
+pessoas vão para casa e eu não ia não
+trabalhar né resumo academia veio e
+obrigou tudo bom trabalhar em Home
+Office que foi que aconteceu
+produtividade do banco aumentou
+estupendamente uma coisa assim absurda
+qualquer agora a gente abre computador
+tá no trabalho né então os balanços
+bater o recorde isso a gente sabe que a
+tecnologia ela mudou a vida de todo
+mundo permitir a gente está assistindo
+aula agora né e excelente esse curso
+para mim excelente eh eu vou adorar se
+aluno de todos vocês tá por favor
+então sim
+eu tenho muita expectativa com esse
+culto viu eu acho que a responsabilidade
+de vocês é diferente pode ser melhor ou
+vai dormir como os outros colegas
+absorver informação seria o e
+contribuindo o que eu puder tá pessoas
+que estão fazendo pergunta você já usou
+o método do caminho crítico aí no
+projeto
+muitas vezes a gente a gente aprovou
+recentemente a biblioteca não é para
+trabalhar com o caminho crítico eu
+Professor Rubens José e o professor
+Marco De santinho a gente implementou lá
+no clã biblioteca para caminho crítico
+para trabalhar com ele depois eu te
+mando lado de até a legal bacana bacana
+sobre esse assunto o banco trabalha com
+todas as clouds que existem Porque
+existe mercado todo todo tipo de
+ferramenta para biya e bom trabalho com
+isso né hoje eu faço análise de dados
+para fazer esgotamento disso Que recurso
+para então assim o negócio bem
+específico que eu faço hoje e o banco
+hoje investe milhões todos os dias para
+fazer inteligência de dados tem um
+departamento específico para isso aí
+então pessoal olha eu tava na dúvida se
+foi acertado participar de zumbi aqui ó
+tira essa dor agora porque isso aí para
+um futuro é só que a vamo colocar essa
+forma aqui tá então assim pessoal Muito
+obrigado aí pela companhia de você tá eu
+quero agradecer realmente decola
+sensacional privilégio que já muito
+bem-vindo e parabéns pela trajetória
+muito legal
+opa Fala aí para o Marcos saiu
+um grande amigo meu mas a lei o que o
+Marcos falou é o seguinte a paz coisa
+mais importante é Network você agora se
+você quiser falar com o presidente do
+Bradesco fala com o Marcos Marcos a
+gente uma reunião com o presidente do
+Bradesco eu quero falar com ele a ser
+Imagina aí como é importante né porque
+agora como é que você ia chegar falar
+com o presidente do Bradesco se você não
+conhecer se o Marcos a se você empurre a
+importa outra coisa minha gente Ele Ei
+você tem que ter a mentalidade de
+empresariamento Startup aqui nesse
+enviei a gente tem que sair com startups
+com novas ideias com produtos e com
+serviço não tem que pensar porque é o
+seguinte como é que nascem as ideias as
+ideias nas IES da conversa é muito
+difícil você sozinho você para você que
+o nosso cérebro precisa de que você
+tenha conversa para que eles nascem na
+são as ideias então quanto você tá
+conversando com outra pessoa alguma
+coisa que tem na sua mente que vai
+completar com a outra chamado mais de 7
+é o chamado é o chamado mastermind
+o Ou seja que é você juntar as ideias as
+mentalidades então aqui vai ser uma
+oportunidade fantástica para todos nós
+Ok e lembre-se de divulgar ainda para os
+seus amigos que ainda resta aí umas três
+vagas que a gente precisa aí completar
+não é para bater a nossa meta
+e pessoal é também né pegando esse
+gancho aí para sua Bezerra né cara
+networking é fundamental assim e o que
+eu sou hoje é totalmente Network né
+porque senão se eu não tivesse Network
+não existiria o estatidados né Porque
+que o está te dar de basicamente hoje e
+ele nasceu na verdade como está difícil
+né que era a minha vontade de ajudar os
+meus alunos na área de concursos
+públicos né que eu dava para este caos
+MS esses Federal né isso aí que o
+professor Ricardo falou né você faz né E
+aí ou eu queria ajudar os meus alunos
+para a partir de estatística comecei a
+fazer questões lá dentro resolver
+questões de concursos né E aí um belo
+momento eu fui para essa virada de
+datações eu queria também trazer a parte
+mais aplicada né então eu tinha que
+conversar com outros profissionais né
+então eu bati imagina um louco lá no
+Linkedin né entrando no teu LinkedIn
+falando pô eu tô com tô com projeto aqui
+de discriminar conhecimento e tal você
+não queria fazer um videozinho lá né
+algum de loucos aceitaram a ideia né
+Precisa Fabiano rabaneda Professor dele
+de Braga né galera ou para o
+Vale vários profissionais adminissional
+alguns deles é e essa ideia né de poder
+fazer um videozinho e tal né aí ele foi
+crescendo né aí foi crescendo os
+profissionais que antes eles fizeram
+vídeo para o instante da virar o
+palestrante Neve quiser no seu discurso
+criar essas comunidades né então e sente
+vô né muita gente a
+realmente é
+compartilhar conhecimento né então o
+está te dando mais cedo Network né se
+não tivesse Network não existiria estar
+te dar não existiria como da estante não
+existiria bsbr aqui a o data o curso de
+hidratação esse também os outros custos
+é porque eu tenho certeza que o
+professor Bezerra só conseguiu fazer
+também porque ele conhecia outras
+pessoas que tinham compartilhava dos
+mesmos ideais com ele para fazer o
+projeto né então é Network é o que move
+né O que o que tem no mundo mais
+importante são as pessoas né e muitas
+vezes eu fico pais com muitas
+organizações que ela não percebe isso
+E aí uma pessoa como centro né então é
+quando a empresa ela começa a valorizar
+os profissionais é quando a empresa
+começa a crescer porque o que são os
+profissionais que fazem empresa mas só
+que as pessoas somos nós aqui
+compartilhando conhecimento e criamos as
+coisas né então é é o foco que a gente
+traz aqui para ps vr tá então fica aí
+claro que vocês façam brinquedinho faça
+um bit Rubi faça um canais no YouTube
+faça um blog né divulga em seu
+conhecimento né então compartilha não
+adianta nada né Se eu tivesse ficado ali
+aprendendo estatística de forma isolada
+né no meu canto e tal não compartilhasse
+né
+várias dicas tal de estatística eu não
+tava aqui hoje né fazendo aqui com vocês
+coordenando esse curso aqui com
+professor Bezerra né então eu acho que
+vocês tem que mostrar o conhecimento
+nada adianta você reter o conhecimento
+né E aí você vai o conhecimento para
+caramba não vai ter que a compartilhar
+né não faz sentido você vai dormir vai
+esquecer grande parte do que você
+aprendeu no dia né tão grande parte do
+que você aprende no dia você esquece se
+você não tiver um
+mecanismo né de revisitar aquilo e
+estudando ali de forma sistemática não
+cê vai esquecendo as coisas né gente é
+ser humano né a gente tem que ter
+atividades né então não tem como tá uma
+hashtag ideia é e água deixa eu dar um
+lado aqui é o seguinte o Nós seres
+humanos eu sou eu vou dessa parte eu sou
+eu vi uma 27 anos estudando esses
+assuntos
+o Nós seres humanos nós temos uma série
+de crenças limitantes
+é de onde vêm essas crianças limitantes
+eu vou dizer rapidamente como hoje eu tô
+falando um pouco mais porque como não é
+aula do assunto então é mais para
+nivelamento é o seguinte por quê que as
+pessoas têm medo de compartilhar os seus
+conhecimentos é porque ele é o medo da
+crítica existem seis meses básicos que
+todo ser humano tem é o medo da crítica
+olha mas você quando for fazer alguma
+coisa imagina o seguinte que você deve
+ter conhecimento e vai ajudar nem que
+seja uma pessoa você tem que pensar o
+seguinte Por mais que você seja humilde
+com mais que você não tem experiência
+ainda vai ter alguém no mundo que ainda
+vai precisar dos seus conhecimentos só
+que nós seres humanos Nós Somos lindos
+todos
+controlados pelos negros e o um dos medo
+é o medo da crítica Então isso é que faz
+com que limite os seres humanos e de
+onde é que vem essas críticas o
+princípio de Paris de onde é que tem os
+medos os medos ele vende os nossos pais
+oitenta por cento dos nossos medos são
+os nossos passos que coloca de maneira
+inconsciente uma criança com 10 anos ele
+já ouviu 50.000 não não fui eu que
+pesquisei são e cientista Não faça isso
+não faça aquilo não faça isso não faça
+aquilo então inconscientemente o ser
+humano ele já é travado por natureza 98
+por cento do ser humano já estão
+travados de tanto não que ele aceitou
+então a objeção é muito grande quando
+você quer fazer qualquer coisa vem logo
+as objeções tá eu não consigo a isso não
+é para mim Ah não sei que lá aí eu não
+tenho um tempo aí eu não tenho dinheiro
+tudo é ou não porque porque tentar
+acertar as limitações que foi colocada
+pelos nossos pais segundo de onde é que
+vem as outras limitações
+e vem da escola incrível que pareça a
+escola hoje brasileira e mundial ela é
+parada você para você ser um robô para
+você ser Trabalhar na fábrica é para
+você ser um artesão é para você
+trabalhar em série as escolas preparar
+você para isso viu e para terminar os
+outros dez porcento vem do ensino
+religioso
+ensino religioso é um de bota os medos
+finais até um livro de Napoleão Rio né
+que aí eu li esse livro há 27 anos atrás
+que é a Lei do Triunfo e recentemente
+saiu um novo livro dele que é mais
+esperto que o diabo o livro napoleon
+Hill que é matar aqui ó esse livrinho
+aqui
+ficou 83 anos sem ser publicado e e e
+ele fala que ele vai nesse ele vai
+interessante faz uma entrevista com
+diabo né ele e o Diabo diz 98 por cento
+das pessoas do mundo tem limitações Ok
+mas foi só para dar isso olha aí que o
+já tem aí o Fernando Mas pode voltar
+vamos voltar para Rua foi só para dar um
+negócio que a gente precisa mudar esse
+mais de 7 não é só para acrescentar
+Então o que o seu Zé falou também né
+Essa com essa coisa de não que a gente
+recebe a gente vai sendo podado ao longo
+do tempo né e a criança Ela é criativa
+né como bem Professor disse né a criança
+ela não tem não tem muita
+entendimento de empreendimento nelas Pai
+ela pensa fora da caixa né e a gente
+está acostumado a pensar ali é de uma
+forma linear e tal e o pensamento não é
+linear né as coisas não surgem de forma
+linear Mas você vai combinando as coisas
+até combina atividade eu gosto de seguir
+muito bom né que ele é um motorista e
+também ele ele participou da escola da
+Nasa de a singularity university né de
+inovação criatividade é um cara
+Fantástico para você seguir lá dicas
+sobre criatividade né e ele ele fala que
+exatamente se né que a gente é quando
+criança a gente tem uma criatividade
+aguçada né mas a gente vai perdendo a
+criatividade ao longo do tempo e aí um
+por exemplo uma ideia ruim né pode ser
+ruim para você aí você passa se der para
+outra pessoa ela já melhora um pouquinho
+aí outra pessoa pega essa ideia Já
+melhor não porque daqui a pouco já ficou
+uma coisa genial porque a combinação
+dessas ideias né ela singularmente ela
+pode não ser muito boa mas quando você
+combina ela com diversas ideias né E
+isso tem que ter várias pessoas com mais
+sete diferentes de ideias diferentes
+para agregar por isso que uma equipe e
+ela tem que ser unicórnio né não uma
+pessoa só uma pessoa só não vai saber
+tudo de engenharia de dados a engenharia
+de Mach Lane estatística t.i. na uma
+pessoa eu não espero que vocês aprendam
+tudo isso tá É tem que ser Makita
+unicórnio não tem que cada um com seu
+corte né E aí você vai unir essa equipe
+e assim energia vai trazer isso né então
+acho que é bem por aí tais ideias a
+criatividade ela surge da combina
+atividade de ideias né Então vamos
+continuar rap Danilo é a marido a
+professora a mania de cima pessoa né
+você falou daí da que toda criança ela
+criativa realmente foi todos nós da
+sendo nós lá quando nós nascemos nós
+sabemos h
+e pode pegar um bebê joga no na água ou
+no lá que ele sai ele ele sabe nadar foi
+jogado um bebê aqui na água aqui em a
+mãe jogou um bebê aqui em Fortaleza numa
+lagoa um bebê e ele ficou boiando várias
+horas é para um beber e alguém viu a
+criança e recuperou agora como é que o
+bebê sabe nadar e o adulto não sabe
+nadar porque ele muda o mais de 7 o medo
+ele desaprendi o ser humano nasce
+sabendo e desaprende muita gente que não
+sabe nadar que se você jogar uma piscina
+ele afunda se você jogar no mar ela é
+funda e porque aqui um bebê foi jogado
+numa lagoa e ele com ficou boiando lá
+até ser resgatado o Nós seres humanos a
+gente não dá só nossas limitações são
+colocadas pelos nossos pais
+e pela escola e pela pelo ensino
+religioso é por isso é por isso que a
+gente tem que é por isso que aumentou
+ele tem que destravar as pessoas se você
+quer ser uma referência esquecer
+autoridade eu me ajudo Ok mas continua
+aí Thiago
+o
+famoso tia não é
+O opa perdão vamos lá então Marcos Dias
+se apresenta aí por gentileza eu achei
+que ele que tava montado é um
+O Marcos já se apresentou Marcos já foi
+tão Mário Monteiro por gentileza
+E aí bom dia todos nega todas né é bom
+meu nome é Mário sou economista né é
+quando informação
+mas ao longo da minha vida profissional
+eu derivei né para gradativamente para
+de Finanças né depois de umas dos
+primeiros times a minha da minha
+carreira profissional voltado mistério
+economia e Banco Central depois eu
+passei para trabalhar com parte de
+regulação econômica e tarifária de
+infraestrutura otilux na água gás
+canalizado quiser aceitar e também
+trabalho com a consultoria tem uma
+consultoria nessa área é
+fundamentalmente eu sou usuário
+informação vai fazer o que é que você
+fez o quê que me traz aqui eu sou
+usuário de informação tem um usuário
+curioso informação tá certo assim eu
+preciso da informação para tomar a
+decisão ou para orientar decisão ele tá
+nesse sentido vem acompanhando né já
+conheço o professor de viajar algum
+tempo como colegas né na na universidade
+e eu vinha sempre tendo essa Clara noção
+de que informação para mim tudo né eu
+preciso informação para trabalhar a
+mandioca a matéria prima do meu trabalho
+é a informação e o que acontece bom
+dado
+das Ferramentas Né tava ser utilizadas
+hoje para gerar informação aí e
+comparativamente aí eu faço Vou
+denunciar minha minha idade de nos a
+Wicca né se você pega eu eu tenho
+condição de 20 anos atrás para cá fazer
+uma análise sou pé se quiser voltar 30
+anos atrás cara Cacoal
+a
+ferramenta disponibilidade de
+ferramentas para tratar informar quero
+conhecer fazendo regressão quase que na
+mão com calculadora quando eu comecei a
+trabalhar em uma época de
+Universidade
+computador ainda eu tô migrando em 84 Tá
+certo então ela na mão mesmo a gente
+fazer regressão era um forma mesmo na
+mão e calculando Tá certo Calculava
+perto da cidade na mão da hoje não hoje
+você tem fazer regressão zona fazia lá
+tabuada e atrás de fazer as contas mesmo
+e hoje comparativamente a ferramenta
+tudo né o fermento é boa parte seja as
+linguagens sejam o raro é seja né por
+você e a rir que entra o fato de que
+pensando mesmo na na minha pele e no meu
+trabalho consultou a certo Ou seja eu
+tenho que dar um para igreja em termos
+de uma cadeia não posso depender da a
+tensão usuário curioso eu preciso
+conhecer um pouco mais o tratamento da
+informação para poder fazer a crítica da
+informação que me é dada pelo certo
+porque senão eu fico eu fico vendido se
+você me dá uma informação ruim a minha
+decisão
+o meu aconselhamento vai segundo então e
+como se eu tivesse dando um passo
+adiante na cadeia né na cadeia de
+produção é eu desço me passa uma parede
+como é que eu vou analisar como é que eu
+vou avaliar que tá no sendo dado de
+forma essa é a ideia tá é
+e é nesse sentido que eu tô aqui e
+a minha a minha trajetória seja na seja
+como docente né que foi basicamente na
+área de Finanças e estes sejam os
+últimos 20 anos que na área de Finanças
+corporativas de empresas de
+infraestrutura da empresa das pesadas né
+Precisa trocar adicionar você tão físico
+o mesmo aqueles ator né mas
+mas capital intensivo né capital fixo
+intensivo o que que eu preciso
+e eu preciso passar dados por exemplo
+vim seja para análise de performance de
+utilities né para saber se a empresa de
+água e esgoto eficiente ou não seja se a
+empresa de gás distribuição de gás
+canalizado deficiente ou não é a gente
+desinformação e aí entra em
+aplicadamente essa te encontrado pessoa
+Bezerra alguns dois ou três anos atrás
+no hotel lá em Sobral aí depois
+retomamos a conversa no passado e quando
+eu vi esse curso na cara eu acho que é o
+momento de eu ingressar nessa área né é
+interessante porque eu tava me lembrando
+ontem conversando com pessoal amigo meu
+me lembrando que quando eu fui decidir o
+que fazer naquela doação lá em 80
+é a minha segunda eu fiquei em dúvida de
+dois cursos de Economia ou na época o
+nome do costela processamento de dados
+né E aí foi fazer economia então de
+certa forma é quase Como se eu tivesse
+fechando né voltando mesmo tempo né e
+reencontro e indo um pouco para aquela
+retomada aquele caminho que quase que
+tomei a 40 anos atrás tá E é isso que
+estamos aqui na verdade eu sou usuário
+curioso Tá certo de informação e preciso
+descer essa essa capacidade crítica da
+informação seja muito bem vindo aí muito
+legal parabéns aí vamos lá então é
+Patrick ranik é isso se apresenta em Bom
+dia
+primeiramente antecipar aqui pedir
+desculpa se passar dois meninos e três
+cachorros correndo porque hoje é sábado
+e até alguns Ah tá não tranquilo
+tranquilo
+eu tô falando de Natal né meu nome é
+Patrick esse sobrenome a minha mãe alemã
+na verdade na pronúncia meio atravessado
+Eu tenho 44 anos né já
+trabalho na área de t.i. desde os 19
+então eu vou fazer aí 25 anos de
+profissão mas nem sempre atuando na área
+mais técnica né eu comecei
+como programador diga empresa de que foi
+incubada desenvolvimento de soft depois
+eu passei a trabalhar com representação
+comercial ligado até assim eu acho que
+alguém aqui falou sobre o trabalho junto
+à área de Telecom
+e e e aí minha formação ela vem da
+engenharia de computação né eu fiz
+mestrado em engenharia de produção e
+doutorado em administração já lecionei
+durante 15 anos em curso de graduação em
+Sistemas de Informação também é
+trabalhei um tempo no ministério público
+e no tribunal de justiça aqui no estado
+duas vezes no Rio Grande do Norte
+atualmente eu estou chateando um projeto
+lá que foi iniciado no começo a última
+gestão agora no início do ano que é a
+implantação de uma de um setor de
+inteligência artificial para ser
+aplicada à área jurídica não tá sendo
+feito da série de estudos alguns muito
+legal eu te batizo aqui de novo né já
+sou do da comunidade Lá do Estado de
+dados eu tô sempre participando aí de
+cursos e
+treinamento e ele trabalha com R já há
+seis anos quando estava concluindo o
+doutorado me dá parei com R lá nas
+disciplinas de métodos quantitativos né
+econometria E aí via todo o potencial do
+Erre tudo que você pode fazer eu já
+trabalhava com para enviar e clyde eu
+falei praticamente o espaço tudo não é
+ruim usando Shine e que legal garota me
+aprofundar em utilizar uso próprio
+editor do rstudio dentro de um servidor
+Linux então eu não consigo nem olhar já
+já temos mais uma live aí
+muito bom
+e aí
+folgado aí concurso vendo a diversidade
+aí pessoal que tem formação em diversas
+áreas que compõem a ciência de dados
+nessa tem que ter as ferramentas e os
+diversos conhecimentos
+específicos EA espera aprender um bocado
+aí que todo mundo seja muito bem vindo
+muito legal aqui um grande prazer tê-lo
+conosco aqui Valeu Patrick
+vamos aumentam aqui Pedro Leite
+o Olá bom dia Opa bom dia
+eu falo eu estou aqui em Brasília é eu
+sou analista de sistemas fiz uma tem uns
+dois anos que eu fiz uma pós graduação e
+banco de dados é
+aqui em Brasília e em hora com né E
+fiquei sabendo do NBA pelo meu amigo
+Ricardo Ricardo Ferreira da Petrobras
+isso da Petrobras a massa que também tá
+lá na comunidade também se e o Ricardo
+me tava me falando sobre a NBA é me
+falou até ontem acabou de mandar uma
+mensagem ontem eu tentei entrar em
+contato com o pessoal E graças ao
+Professor José Bezerra estão aqui
+participando com vocês Essa é sobre um
+grupo aqui as pessoas são
+espetaculares espera o aprender com
+vocês o e poder ajudar no que estiver ao
+meu alcance
+sensacional seja muito bem vindo aí
+parabéns muito legal Muito obrigado você
+fala de onde o perdão Brasília Brasília
+né show a terra boa Legal Olha aí Pedro
+um patim
+Olá tudo bem
+sim sim
+show Bom dia pessoal sou Pedro eu tenho
+24 anos eu sou acho que o único atuário
+daqui sua toalha tipo Marcelão a
+Universidade Federal de São Paulo
+eu trabalho hoje numa fintech de crédito
+eu sou especialista em precificação de
+crédito a a capitales inclusive o
+professor acho que tem um colega teu que
+dou de faculdade lá áudio aí viu o João
+Vitor o JV Caraca ele é bom para caramba
+Valeu olha diariamente comigo lá
+colocava agora
+como é que é aquele moleque lá e
+trabalho consciência de dados e a toalha
+trabalhei já em seguradora trabalhei em
+duas Big força e agora vem para a praça
+fintech gosto muito da licença de dados
+trabalho com estatísticas também com r o
+r e vem trabalhando com ele desde
+2016/2015 assim então Gosto bastante e
+me interessei aí pelo curso via LinkedIn
+também conheço o trabalho do professor
+Thiago
+e Espero espero aprender bastante e vi o
+grupo é bem bacana também então o leque
+da cola cara muito bom cara não vem eu
+acho que a gente vai ter que botar a
+galera para dar aula professora
+só tem só tem ligo Ninja aqui rapaz
+sinistro valesse já muita gente não
+obrigada Rafael Rafael Souza
+Oi bom dia bom dia bem já em cima bem só
+tem fera aqui né caraca isso
+parece até que teve uma pré-seleção né
+antes então pois é
+bom gente legal tá participando aqui
+pessoal multidisciplinar aqui muito acho
+que vai ter bastante troca de informação
+e isso é super importante né um
+professor vocês tem falado e o
+networking é bem é muito válido certo
+para gente se desenvolver
+profissionalmente e pessoalmente então
+eu tô eu tenho 41 anos falo de Porto
+Alegre na verdade Canoas é uma cidade de
+Laje de Porto Alegre eu já estou nessa
+área de dados pelo menos uns 20 anos
+trabalho com Bial bastante tempo desde a
+época do SQL server 2000 lá não
+chegamos ainda essa maravilha do Polo de
+ar Fazemos Tudo pouquinho Excel um
+pouquinho em outras coisas agora
+bom então eu tenho
+fornece uma informação e MBA em gestão
+de projetos e de enviar e Analytics e
+atrás agora dessa formação mais para o
+lado da estatística ciência de dados
+eu já fiz por has to be a empresas uma
+Volkswagen calçados Piccadilly Oeste
+post na Globo então uma série de
+empresas cama legal e a partir 2015 eu
+comecei a trabalhar com Saci
+então eu trabalho com Saas desde lá
+nessa parte dela vez que fiz um projeto
+de Analytics para área de custos de
+transporte na Fedex TNT
+E desde 2019 eu tô dentro de uma célula
+de marketing Analytics dentro da Lojas
+Renner Então
+essa é a ideia de aplicar isso na área
+de varejo segmentação de clientes
+modelos de propensão de vendas é uma
+turnê então A ideia é agregar
+conhecimento para aplicar nesse dia a
+dia do varejo aí na Caraca incrível
+muito legal você já é muito nem vindo aí
+tá falando eu não vou
+e é vamos lá a O Vale
+Oi bom dia pessoal
+sou ex-aluno aí do pessoa Bezerra né me
+chama Raul do Valle tenho 28 anos sou
+formado em análise e desenvolvimento de
+sistemas né é o até seis anos no mercado
+aí na área de dados comecei no segmento
+de cobrança é específica indicadores de
+cobrança Foi aí que eu conheci um pouco
+da
+os modelos de regressão é porque a gente
+utilizava muito para uma pensão de
+pagamento né selecionar os melhores
+cursos de clientes bom pagadores dentre
+os maus pagadores né então foi aí que eu
+comecei a me apaixonar um pouco por
+estatismo o os modelos não que eu crie
+modelos hoje né eu até consigo criar
+mais a maior dificuldade que eu tenho
+hoje é saber se aquele modelo tá
+aderente ou não né que vale diversas
+nessa participei o
+gerente não é o
+diretores perguntava a cara você mandou
+não tá bom preço E ai tudo e dentre
+essas perguntas é onde eu quero
+aprofundar nesse NBA né é saber se de
+fato os modelos que o que que a gente
+utiliza nas modelos que já estão rodando
+de fato ele é um modelo aderente né O
+que a gente tá precisando para acaba de
+situação e hoje eu tô trabalhando na
+Smart Fit com o analista de bi ai tá aí
+eu vejo se esse curso de data Science
+estatística o próximo passo né Eu já
+faço um pouco de engenharia de dados
+também
+a gente está no processo de
+reestruturação do data lei que hoje
+estão equipe de engenharia Mas eu também
+dou uma força lá pessoal e futuramente
+né o desejo da Smart Fit é que a gente
+conseguiu criar um modelo de Mach Lane
+que ele consiga fornecer treinos já é
+cadastrados né ou forma cada perfil de
+cliente então acho que é um cara eu
+respondendo você dar uma olhada lá na no
+estádio cidade de uma playlist de
+esporte Analytics cara tem um aluno meu
+que ele ele ele tá o trabalho trabalha
+no Flamengo né ele foi coordenadora do
+Flamengo né e ele ele ele fala sobre
+esporte alto nível né o Pedro e também
+tem o tenho Professor meu que ele é ele
+foi meu orientador também mas tá cata
+naquele é o ele é comentarista do SporTV
+né de da parte lá de natação né ele quer
+um cara séria demais desse ele tinha o
+maior canal lá de estatística aplicada
+no esporte esportistico né Eu não sei
+que aconteceu lá ele tirou o canal mas
+acho que o blog ainda tá lá né cara é
+fantástico lá o material deles né e tem
+outras também tem um Nescau e também
+para lá na comunidade com a gente que
+ele já foi gerente da é bem que se agora
+ele tá rede de outra em outra empresa
+agora não me fugiu o nome mas ele também
+tem um trabalho dele de recomendação de
+time né então ele escala o time baseado
+em pesquisa operacional entre especial
+também né as legal Clara vou dar o
+melhor a mostrar a
+dentro dos Sites dados em palestras lá
+com ele beleza vou dar uma olhadinha até
+porque acho que vai ser gay caiu como
+uma luva né porque como é que está
+estruturando o data Lake Eu acho que o
+tempo que a gente vai fazer essa
+estruturação é o tempo que nós vamos
+finalizo curso né o NBA e posso dizer
+que eu consigo eu já saí com algumas
+ideias consigo agregar nessa nessa área
+que primeiro você precisa ter os dados
+concretos nos dados confiáveis para
+depois a gente pensar na data Science né
+então a gente para os machos conseguindo
+finalizar esse ponto a gente vai migrar
+para datas assim eu espero que com esse
+profissional de agregar lá também com
+certeza vai agregar sim com certeza
+maravilha olha aí vamos lá então Ricardo
+Nascimento seja muito bem vindo aí
+obrigado professor Thiago Neves ó
+comunidade está te dados é só seu aluno
+esse maravilhoso assim é bom que eu tô
+conseguindo ver cala o mesmo porque lá
+dentro as aulas são gravadas genital a
+gente fica lá no grupo muito a gente
+fica muito intenso lá no grupo do
+telegram né mas a gente não consegue ver
+o rosto do outra né hoje a gente tá aqui
+presencial né então vai ter aula junto
+pode ser bem vai ser bem legal se você
+não me atende vai ser ótimo não pode
+usar Bezerra também bom dia a todos os
+colegas aqui né bastante com
+experiências assim bastante
+engrandecedoras é o mês vai ser um
+prazer né conviver com vocês eu tenho 44
+anos eu tenho informação em Ciência da
+Computação baixar a especialização em
+redes de computadores
+é trabalhei aí por mais de 15 anos aí
+com sistemas operacionais e Unix
+consultoria né foi consultor de
+segurança da informação da IBM também
+depois passei no concurso da Petrobras e
+nunca mais mexer com segurança da
+informação e uns dois anos aí migrei de
+carreira oportunidade dos meus gestores
+é trabalhando aí Com muito gosto muito
+forte e aí trabalho pobre Oi Kelly
+partir de até L as pessoas que gostam de
+fazer até eu gosto muito posso minerar
+os dados o assunto trabalhar com dessa
+forma
+então assim já foi palestrante aí de
+fora internacional de software livre aí
+para falar de dar uma operacional PSD
+faço muita questão de comunidade me
+divirto muito com isso e assim eu estou
+na gerência da Petrobras aí que a gente
+está trabalhando com os dados assim
+porque a gente trabalha com o
+tecnologias assim de controle de
+plataformas questão de rádio comunicação
+monitoramento de imagem Então eu estou
+tratando esses dados aí para criar para
+mim a criarem sites aí para minha
+gerente né a Renata que sempre me
+incentiva muito alta sempre
+proporcionando Treinamentos e outras
+questões e também a utilização de
+arrepiar né de representação de processo
+principalmente automation anywhere eu tô
+envolvido com tudo isso sozinho e a
+introdução Grande Desafio e buscando
+também é mais conhecimento né e testa
+integração também até o brasão mundo mas
+você tem integração também com outras
+pessoas que têm visões diferentes
+e pelo fato também de tarde estamos
+passando aí pela transformação digital
+muito intensa na empresa aí nesses
+últimos 3 anos né a gente também tá
+começando aplicar agilidade também foram
+todo esse processo também tentando
+melhorar os nossos serviços né dentro da
+companhia temos a simples de
+desenvolvimento também de carreiras de
+Analytics dentro da companhia bem
+estruturados
+então você tem muita coisa acontecendo
+lá e a gente tem acesso a muita
+tecnologia né é o tamanho da empresa né
+a gente tem assim muitas soluções aí que
+a gente consegue utilizar o mercado
+tanto a parte de software mesmo outra
+parte de infraestrutura até mesmo disse
+de supercomputação né então é oi oi que
+eu sei que eu falei com você as suas
+redes sociais é você disse que tinha
+fugido as redes sociais e você foi outra
+na foi uma outra pessoa Ah tá certo você
+é uma pessoa natural para gente fazer lá
+entendeu
+Instagram está te dado viu a Deus quem
+sabe né A gente vai conversando aí e
+professor Thiago Marques for disponível
+aí para ser voluntário também na nossa
+comunidade está te dar muito mais gosto
+muito disso dessa questão na comunidade
+Então a gente vai conversar depois culpa
+na hora tá joia peça durante presente
+máscara porque eu estou em isolamento tá
+já estou no meu dia treze porque o Eu
+testei Positivo pelo convite Caramba
+então eu estou isolado aqui em casa mas
+não sabe mas eu também eu só tive só os
+três primeiros dias que eu tive alguns
+sintomas aí hoje eu fui fazer
+alguns exames Mas provavelmente aí o
+próximo exames ela já vai dar ok e vocês
+vão viver sem máscaras nem gente vamos
+fazer para aqui aconteça isso um joia aí
+obrigado aí a atenção de todos muito
+bacana e as experiências eu tava falando
+para o meu filho meu que ele gosta muito
+da parte de
+animais né então da parte de natureza Eu
+comentar para ele dormir em blog do
+projeto Marcelo
+um grande abraço aí para todos e com
+certeza que a gente vai criar um melhor
+NBA as melhores ideias assim a gente vai
+alcançar os nossos objetivos vamos
+juntos Maravilhas na praça gente tudo de
+bola valeu Um abração cara show de bola
+um grande prazer tê-lo aqui conosco
+falei Tiago então meu xará vamos lá
+Tiago salgado
+o Opa
+boa tarde
+é bom você tem rápido é eu sou um cara
+meio preguiçoso
+no curso muito programador programador
+produção
+automatizada tudo né porque ele tá mais
+Pois é e Souza inteligente o que estão
+aberta que eu posso fazer para trabalhar
+menos a gente só
+ser humano está Graças aos idosos é isso
+não eu sou
+baixada hoje é isso aí é realmente eu
+tenho essa questão de querer automatizar
+tudo
+eu eu trabalho com o pai toma mais ou
+menos cinco a seis anos
+eu tenho alguns contatos com algumas
+empresas
+hoje tem contrato com o Carrefour com
+uma instituição que faz que tem projeto
+com a Petrobras e eu trabalhei como
+cientistas de dados também na Via Varejo
+a onda experiência boa
+basicamente o teu socorro
+eu conheço Hotel trabalhou comigo
+mas assim me ajuda para ver o varejo foi
+muito
+assim do nada eu
+tentei alguns mestrados Durante a minha
+vida aí eu tentei te lembra telemedicina
+na UERJ é passei fiquei um tempo e
+acabei desistindo foi mais por causa da
+minha mãe que é médica é depois eu
+tentei biotecnologia biotecnologia e
+Informática não Ranch eu também passei
+mas fiz só um período e por último eu
+tentei S
+engenharia de sistemas e gestão
+engenharia de sistemas no wi-fi e também
+passei e acabei aí também é
+sair onde a gente só vai até que você
+tentou bastante não me liga aí eu vou
+terminar esse curso Diga aí Diga aí não
+eu e
+bota lá com certeza
+eu vou terminar essa cor
+ela
+me faz também dá para trazer as meninas
+faça ele tentou bastante coisa né
+É hoje eu que aconteceu eu tive alguns
+projetos com
+inteligência artificial voltada para
+Open CV e que horas utilizando visão
+computacional para análise de quadrante
+para conseguir fazer análise visual de
+texto e consegui converter isso e
+praticamente faço tudo em paz então a
+gente vai que tá no sangue é fez até
+aquela brincadeira lá né do R pastor
+Porque para mim realmente o r é muito
+difícil assim Para incorporar mas já vi
+que eu vou ter que suprir essa mas não
+parecidos e são parecido tem bastante
+curva de aprendizado e até é mais fácil
+na minha opinião né Eu acho que você vai
+vai gostar
+bastante R1 telemedicina lá na UERJ era
+bem utilizado e basicamente é isso eu tô
+disponível aí para agregar e que
+aprender bastante já tem a agora é via
+não é mais levar e já né agora aí eu sei
+aonde eu tô trabalhando assim com
+contato no Carrefour né eu acabei saindo
+livrei backend saindo Rosa Carrefour é
+mas ainda tô trabalhando com algumas
+coisas já não ajudado terminou pela
+minha prima tudo de bom
+por onde mora aonde
+em Campos dos Goytacazes no interior do
+Estado
+Olá boa
+o show de bola então o Thiago Opa
+Vanderson deixa o celular agora porque
+hoje a gentileza Manda aí manda aí manda
+aí ele tá o sal é bom dia e a virada se
+não tô entendendo porque agora tá ok ok
+meu
+nome é Vanderson eu sou de Belo
+Horizonte
+tem um formação em administração e
+depois outra formação em contabilidade
+também foi bancário trabalhei 11 anos no
+Banco do Brasil em 2020 eu saí ela tava
+muito insatisfeito mas você trabalha na
+rede agência e tudo e resolvi mudar é a
+que eu tava seguindo na minha vida e
+entrei no mestrado em Controladoria é
+aqui na UFMG E aí lá no mestrado quando
+a quando começou a cobrir as aulas
+pararam né E e aí eu fui indicado um
+curso do professor Favero ele a
+obra diferença Claro era o regressando
+com R mas aí na época eu tava muito
+ainda por fora muitos preço ainda não
+consegui aproveitar muito mas aí eu
+conheci você e comecei a seguir E aí
+essa coisa da ciência de dados já tava
+batendo na minha cabeça já há algum
+tempo porque mesmo lá no banco quando eu
+queria mudar assim a posição que eu
+estava eu percebi que as áreas de
+analista nas diretorias ela sempre pedia
+isso como um diferencial alguma prática
+disso às vezes pedir se tivesse
+conhecimento de alguma linguagem era
+algum diferencial e senti as pessoas que
+tinham isso é que estavam sendo levadas
+porque eu queria fazer mas não eu não
+tinha conhecimento do que era ciência de
+dados né e a partir de acompanhar você
+eu comecei a ter essa essa visão mais
+mais voltada para cima de dados mas aí
+as aulas voltaram e aí eu fui tomado por
+um turbilhão de coisas disciplinas é
+e com essa ideia em stand-by sim certa
+forma até agora quando eu terminei de
+comecei a escrever a dissertação e eu tô
+no processo de o que que eu vou fazer
+depois de Mestrado eu quero dar aula eu
+quero ir aí no Linkedin você colocou lá
+essa questão da após eu falei assim era
+a luz que eu tava precisando eu quero
+fazer essa aposta trabalhar com isso
+alguma colocação profissional em ciência
+de dados ainda não não tem o definido
+mas acho que o caminho é começa pela
+após sensacional que era muito legal
+havia feito história com essa ligado
+embora seja bem-vindo aí obrigado viu
+maravilha vamos aqui Thomas então
+Oi bom dia
+bom dia aqui é a umas Thomas Jefferson
+mas todos os meus amigos me chamam de
+tomate então fiquem à vontade é para
+excluir falo com vocês aqui de Salvador
+Eu trabalho no Startup e chamada acionar
+E aí o trabalho na área de Março mas
+principalmente gerenciando o CRM da
+empresa então cuidado depois que a gente
+já era os limites como é que a gente faz
+com que essas pessoas comprem mais e aí
+assinar tá passando por um momento de
+conseguir entender como é que a gente
+toma melhores decisões
+o meu maneira geral baseados em dados
+então a gente está numa faz a seguir
+acabou de construir um data like e todas
+as demandas e as necessidades da empresa
+estão direcionados para essa área de
+dados e análises eu eu tenho uma
+formação é de ciências exatas e
+tecnológicas E logo depois que eu formei
+Recebi um convite para trabalhar na
+Acionar e tô lá às 18 meses e aí eu
+conheci o curso uma por acaso eu tava
+pesquisando no YouTube Assim coloquei
+literalmente
+marketing Analytics E aí surgiu uma uma
+live mais uma certa Elite do início
+falar comigo para você ver isso na E aí
+eu fiquei encantado com o conteúdo para
+profundidade para a qualidade e
+principalmente por ser um conteúdo em
+português eu achei bem bem bem
+surpreendente para mim E aí lá qualquer
+coisa eu fiquei sabendo do enviei E aí
+eu escrevi assim será que vender é a
+melhor decisão para mim agora será que
+eu tenho bagagem para participar do
+enviei E aí joguei é participei e trem e
+agora é só super convicto que eu tomei a
+melhor decisão eu estou adorando a culpa
+minha carreira de todo mundo acho que
+vou ter muito para tomar mas com certeza
+eu gostei muito aprender aqui ó e aí tem
+uma outra super feliz ah celular só
+dando um pouquinho de contexto uma
+empresa que é uma Startup E aí a gente
+ir no médico né eu vi lá na coisa sim é
+isso a questão da empresa é seu Windows
+na carreira do médico então é uma
+empresa que tem produtos dentro do
+primeiro semestre de medicina a depois
+até depois do médico formado então a
+gente meio que todo médico estudantil em
+cima Em algum momento ele vai ser
+cliente da sanada E aí a gente tem muito
+dados números e informações e a minha
+ideia é conseguir aplicar isso o horário
+de Março para a área de vendas saber
+como é que a gente pode vender mais e
+aumentar os custos que eu ia ser o nosso
+principal desafio a gente chegou até
+aqui sendo
+é tão positivo a gente olhar é o segundo
+o preço do mercado tem um grupo que é
+bem mais antigo que a gente ia é é um
+produto mais caro e tal e hoje eles são
+primeiro a gente bota a segunda posição
+de uma maneira prática ajuda muito a
+identificar esse comportamento aí vai
+ser excelente para você entende
+nada que a vontade
+vou trabalhar muito para que o projeto
+seja um sucesso
+isso aí show de bola Maravilha seja
+muito bem-vinda aí a gente fica muito
+contente Maravilha que bom que você
+gostou lá da
+vai estar aqui com vocês
+Vinícius Cardoso por gentileza
+Bom dia professor e quantas bezerras
+tudo bom hoje a colegas É então eu sou o
+Vinícius eu sou atuário de Formação aqui
+pela Federal do Rio Grande do Sul mas
+atualmente estou cursando uma
+especialização em gestão atuarial também
+aqui na Federal do Rio Grande do Sul
+cursei durante dois anos engenharia da
+computação
+a minha trajetória profissional Foi
+bastante na área da previdência
+complementar e na área de Seguros e
+bom eu conheço R há uns anos já fiz
+curso da habilitação em sacada e da
+pessoal da curso r e atualmente eu tô
+buscando uma colocação me recolocar no
+mercado tem como objetivo com esse bebê
+está me colocando e quero aprender com
+vocês acho que a gente tem muito que
+trocar várias só férias aí Bença tio bom
+curso é referência em aí no Brasil né
+Tava pessoal muito bom E aí trazer né
+algum professor de lá mas não rolou não
+conseguiu tem que ter o mestre ato justo
+de Julho mas o resto Júlio tem ele é
+presidente da BJ né aí e também
+tem muitas atribuições Aí complicou para
+ele e o mestre a tu também não vai
+conseguir Infelizmente mas a gente vai
+ter um evento agora vai ser em setembro
+né de 20 a 30 vai ter galera lado vai
+ter o mestre Júlio trecenti lá com a
+gente vai falar sobre Deep Lane não é
+então vai ser um evento top vai ser de
+equações estruturais vai teoria de
+resposta ao item vai ser uma semana de
+estatística e pesquisa operacional Mr né
+da criança legal aí para vocês
+participarem vai vão ter vai ter modelo
+multinível vai ter e vão ter professores
+aqui também vai ter um processo Severo
+severo não professora Érica vai estar
+com vocês professor Marcos que vai estar
+com vocês também né nesse nessa semana
+essa Depois eu mando o link para vocês
+aqui Tá bom então Falta só uma seja
+muito bem-vinda aí obrigado viu faltou
+Marcos Heleno né Tá ouvindo aqui se
+minha memória não falha Marcos Heleno
+não se apresentou ainda né
+E se ele tiver por aí
+eu acho que
+ao digam faltou a verdade o Diego faltou
+também manda aí Diego
+e por gentileza o
+E aí
+e tem a Jaqueline também né e a
+Jaqueline Jaqueline se apresentou
+não foi não foi Jaqueline Ribeiro é uma
+guria que não se apresentou ainda é
+Manuele Manuele Manuele não se
+apresentou É verdade vamos lá então
+Manuele e para fechar aí vai lá diga um
+E aí
+Oi tá montada eu Diego vai Oi gente bom
+dia pode falar Manuela Então primeiro
+tudo bem beleza tudo bem e você desculpa
+aí ó né Na hora da apresentação eu estou
+Essa é uma das benesses da tecnologia eu
+tô participando de um outro congresso
+aqui online então a senhora não me
+dividindo mas é realmente é uma uma
+questão para mim é bom não sei nem por
+onde começar eu acho que eu sou uma
+verdadeira ontem lá era que o pessoal
+vamos ver se eu vou conseguir acompanhar
+mas eu sou nutricionista por formação
+fiz deixa eu pegar um curado não
+Universidade Federal do Rio de Janeiro
+eu sou literalmente um profissional da
+Linha de Frente Né desde que me formei
+17 anos e o ato em hospital com
+pacientes críticos e há 11 anos em
+crescer no Instituto Nacional de câncer
+né aqui no Inca no Rio de Janeiro Olá eu
+sou tecnologista Sênior do INCA de mame
+Eu trabalho com pesquisa clínica tão bem
+distante aqui da maioria da galera né a
+estatística do meu dia a dia muito
+próxima da Regina que a nossa colega
+aqui que foi por onde Inclusive eu
+conheci né soube do Mb pela Live do com
+professor José Bezerra e
+eu acho que é só uma competência que eu
+preciso desenvolver muito né porque
+assim se atividades na área da saúde
+Assim é vencer do literalmente
+transformada né a medicina até de
+medicina ciências biológicas por meio da
+ciência de dados então assim a minha
+ideia sempre foi
+espero chegar como procuro o José
+Ricardo aí depois de 30 anos aposentar
+na carreira continuar aprendendo
+continuar conhecendo
+mas de fato assim
+a expectativa Sul o aplicativo mas eu
+acho que foi muito bacana conhecer todo
+mundo e tô indo junto com as meninas
+nessa tentativa de eu faço bastante
+análise de sobrevivência assim como é
+minha colega Alessandra sério Caramba
+então também
+trabalho é muito com esses modelos
+transitivos pra prender de ser isso
+mesmo né no câncer no caso
+principalmente mortalidade é um dos nos
+desfechos que a gente está numa loja não
+sobrevivência que não é
+então assim a linguagem aí para mim
+realmente é um Desafio e mas a ideia é
+isso né é trabalhar nessa diversidade
+conhecer aprender enfim espero aí poder
+trocar né não gosto também de assim eu
+trabalho com câncer eu faço assistência
+e direta paciência e especificamente com
+pacientes com câncer terminal então
+assim eu trabalho Literalmente com o
+oposto né do que as pessoas aqui em
+geralmente estão familiarizados né mas é
+isso que vai ter na disciplina de não
+coça que vai ter parte de rede neural e
+é muito legal para trabalhar com imagem
+né com a imagem é bem interessante pode
+ter até um exemplo aí nesse sentido
+vamos ver como é que vai levar assumir
+essa ainda tá isso ainda tá um pouco
+fechado né Eu tô com alguns nomes aqui
+cara né assim só nome da Pesada Então tá
+muito difícil escolher cara tem uma
+menina que ela foi da comunidade
+trabalha na França lá da aula no
+mestrado lá na França de essa parte de
+Berg embuste ela manja né mancha tanto é
+quanto o pai também ela sabe os dois
+então tem um outro maluco Que é
+doutorado em estatística também que tá o
+mestre aula né também se candidatou aqui
+para fazer com a gente cara tá muito
+difícil escolher e teve um outro maluco
+também que adotou estatística que também
+se candidatou agora o Ronilson Lucas
+também é e cara vai ser difícil escolher
+Aí falava se manter o professor Sinistra
+na disciplina também vai tentar colega
+Jaqueline eu não tenho nem roupa que sim
+vai
+show de bola
+Então seja muito bem-vinda então eu vou
+ver se eu marco Heleno voltou aqui ou se
+a gente vai ter que fazer sessão
+espiritual aqui entrou mais uma pessoa
+aí na
+entrou essa pessoa se apresentar Também
+quem é essa pessoa ligada pode fazer o
+seguinte a nossa ideia Inicial era
+escrever um livro mas agora devido à
+diversidade escrever vários livros né
+dá
+não deixa eu dar uma dica só
+especialista em pegar as ideias dos
+alunos
+e
+eu tenho vários livros né publicado
+geralmente em parceria porque aquele
+negócio se você quer fazer sozinho só os
+últimos livros que eu escrevi sozinha
+mas reaparece livro aqui meu
+tecnologia da informação e comunicação
+para gestores aí eu me lembrei do Mario
+que ele falou informação é poder tá aqui
+ó esse aqui que chegou na terceira
+Edição e foi um ex-aluno meu que a gente
+juntou para fazer esse livro e eu já vi
+aqui eu vou levar a minha experiência de
+escrever livros e vou pegar Essas
+pessoas aí escrever um livro com cada um
+eu vou sair nós três cada um aqui vamos
+escrever um livro eu você e a peça ou
+então mais livre ou então vamos juntar
+assim 400 alunos participam de um
+projeto que se chama escrita
+colaborativa jornada comemorativa né E
+aí todo mundo escrever um livro junto né
+É É bem legal esse projeto também que
+maravilha vamos fazer sim com certeza
+mestre Marcelo quer falar alguma coisa
+aqui daqui myblog fala aí falei assim
+eu proponho aí eu tô vendo assim alguns
+colegas aí um pouco de receio em relação
+ao R aí eu proponho assim pessoal se
+vocês após a aula tiver alguma aplicação
+E aí se vocês tiverem perdido os outros
+levam dificuldade para gente marcar no
+intervalo das próximas aulas fazer uma
+revisão na linguagem da programação o
+quê que foi aplicado não é que a gente
+tem vários colegas que mamam Dr a gente
+pode ser ajudar para não deixar ninguém
+para ninguém ficar para trás Legal vocês
+podem montar um grupo de estudo dela
+muito bom abrir aqui no nosso nosso
+próprio Google Music é só você marcar o
+dia por exemplo no meio da semana não
+era bom que fosse no meio da semana você
+noite e a gente podia até abrir para a
+comunidade do estatidados ou é assim que
+fazer esse nivelamento é porque ele é
+uma pena né a gente começar a se
+distanciar por uma coisa que a gente
+pode resolver juntos aqui mas vamos
+marcar aí com o Tiago para você fazer
+essa dessa canja para a gente vamos
+vamos ver sim vamos fazer sim tem que
+dar uma olhada na agenda aí aquele
+negócio que eu tava fervendo mas ela a
+gente tem várias aqui ó é de Thiago
+posso fazer como dizer aliviar para o
+seu lado Melo na sala Gabriel que o
+Pedro tem o Marcelo também tem a galera
+pesada aí Dr né dá para fazer um rodízio
+com a galera para ensinar R vai ficar
+malhando projeto bem bacana né assim a
+gente vai se ajudando também aí e quem
+tá destreinado vai lembrando a gente vai
+acabar junto e eu botei uma playlist
+aqui para vocês também essa trilha aqui
+ela tem um pouco da parte de estatística
+parte Olá pessoal e também tenha uma
+ideia também Dr também né aqui a gente
+tem vários vídeos aqui Dr né vem comigo
+tem que a professora Graziela possuir
+agora tem tem um monte de vídeo aqui tem
+Professor Leandro também que é ele a
+regra do Xperia também é também falou lá
+sobre R para financiar quantitativa a
+gente não tem da tem 10 lá também para
+vocês nesse se tiver alguma dúvida né É
+o que eu pensei eu pensei nisso pessoal
+porque assim se a gente pode entrar no
+curso Dr vai começar com a mostra aliás
+talvez perca o compasso com as aulas que
+a gente vai tá tendo aqui então eu
+talvez você seja a melhor estratégia da
+gente rever o que foi falado na aula né
+aqui no NBA e rever o que foi aplicado
+no R mas pelo menos não fica assim tão
+distante né porque aqui vai começar do
+zero por exemplo R talvez vai demorar
+muito tempo para conseguir ver a
+primeira aula que a gente vai ter aqui
+é legal não show de bola vocês podem
+fazer inclusive se você quiser montar o
+Gabriel sugeriu aqui também se quiser um
+paralelo com pai e não podemos combinar
+também não posso fazer pode fazer parte
+que você pode fazer tranquilo beleza
+o show de bola parabéns aí pela ideia
+muito legal aí vamos ver se a gente
+coloca aí para frente a um
+operacionalizar isso aí mais um projeto
+né
+agora eu vejo tudo projeto depois que eu
+conheci o professor Bezerra é tudo
+projeto na minha vida também
+muito bom bom então acho que eu ver aqui
+faltou mais alguém ou não Todo mundo se
+apresentou aqui tá tudo certinho
+é só um cara eu tô assim supervisão
+errada né não imaginava né é o livro era
+uma única obra transformam ali eu aqui
+falou diegao não se apresentou né ah o
+Diegão levamos ali eu eu não tô
+conseguindo ouvir ele ele tá com um
+áudio ligada aquele colocou a mão eu
+mandei Diego
+e a
+o Diego a
+eu acho que tá com um probleminha no
+áudio né manda aqui no texto se você
+tiver com problema de áudio Diego ó
+E aí
+eu estou com problema de áudio não pode
+pode se apresentar no texto que eu ligo
+para você sem problema sem problema
+e
+eu o mestre e falou que ia me ver virar
+uma cópia da comunidade da tia vendo lá
+galera muito top também fica super
+lisonjeada né você tem que vários alunos
+né da comunidade de estatística né e
+cara você tá aqui que vocês frente a
+frente aqui é muito legal muito legal
+mesmo cara que horas que a gente tem é
+pior Ele totalmente Mas nem todo mundo
+vai né e tal e aqui já tem a galera que
+eu não eu não via né presencial e tal aí
+tá tá aqui com a gente é muito muito
+mais um
+Oi
+manda Oi Diogo
+E aí
+o
+Olá bom dia a todos sou formado na área
+de metalurgia sou
+meteorologista com MBA na área de gestão
+de produção estatística e que legal
+querer
+é muito bom e
+essa área de
+metrologista ela tem a ver com aquela
+com Inmetro de fazer é medição e tal que
+tem uma tem uma área que trabalha com
+isso né é isso sou de Guaratinguetá É
+isso mesmo que ele falou
+um cara legal cara show de bola agora
+tingueta é São Paulo
+sim São Paulo né fica entre São Paulo e
+Rio é boa São Paulo beleza seja muito
+bem vindo aí Diegão show de bola
+maravilha então então nas próximas aí
+tenta dar uma ajeitada no áudio para
+gente ir te ouvir Maravilha bom então
+não cara tô super feliz e lisonjeado né
+com
+apresentação aqui de todos né pô mas a
+galera toda pode dar aula aqui né Acho
+que pode tirar todos os professores a
+professora acho que a gente vai te
+contratar e os professores né Vamos
+botar aqui os alunos para dar aula
+então fico muito feliz né Muito legal o
+nível da galera né acho que vai ter
+muito Network né então depois
+eventualmente a gente vai passar um
+fazer uma
+formulário zinho com vocês para entender
+um pouco melhor de vocês não era para
+você dizer a gente vai entendeu com um
+pouco mais e tudo mais para gente formar
+o grupo né galera se diz junto né Fazer
+o engajamento aí da galera acho que é
+importante né muita coisa Aqui você vê
+que é tem coisa em comum cv2 atuários né
+você vê a pessoa a menina de nutrição
+Emanuelle também né falou na área de
+saúde também pode botar pela de saúde e
+pode ir Teve teve gente querendo
+aprender três vir aqui né a gente tem
+uma playlist of the trade lá no status
+idade também pessoal lá da atrás de com
+dados não é muito bom ele tem conteúdo
+em R pai também né então um cara assim o
+que não vai faltar é lugar para você
+estudar com os melhores professores
+entendeu então acho que a proposta que a
+gente fazer algo inovador né E vocês vão
+ter voz também então é Fique à vontade
+para para dar sugestões também para
+gente né gente atualmente a gente pode
+trazer aqui algumas melhorias lá eles
+enfim Professor Bezerra toca muito é mas
+também de trazer conteúdo sair relevante
+para vocês né é o próprio Professor
+Fábio se disponibilizou também a fazer
+uma uma palestra aqui com a gente né
+quando quando a gente marcar e tal né
+por isso eu falo é a grande referência
+aí por autor do manual de análise da diz
+né
+ele tem uma larga experiência formado lá
+fora também na Colômbia nervoso pode
+falar com vocês aí de qualquer assunto
+baseado em estatística e econometria né
+que vocês queiram a um cara referência
+aí montivero recomendo fortemente também
+expulso Adamo tiver né para você evoluir
+E queria passar a palavra aí professor
+Bezerra né também agradecer mais uma vez
+aqui de oportunidade de estar nesse
+projeto aqui fora da curva né É graças a
+ele aí que esse projeto existe né então
+muito legal Tá bom eu quero dizer
+primeiro agradecer gratidão né a todos
+vocês gratidão ao Tiago e o que a gente
+pode ver hoje aqui que existe uma
+riqueza uma riqueza de conhecimentos e
+quando a gente vai agregar todos esses
+conhecimentos vai ser bom para todos nós
+então eu já fiquei impressionado com o
+nível e com o livro de participação é
+Talvez algumas pessoas não conseguirem
+entrar hoje na conseguir se apresentar
+mas depois a gente consegue falar com
+essas pessoas Ela poderia oportunidade
+de se apresentar mas dizer o seguinte
+pelo Estou bastante satisfeito empolgado
+com um esse curso Então eu já imagino
+que esse curso Vai ter muito sucesso
+principalmente pelo corpo dos alunos e
+dos professores estão com certeza todo
+mundo aqui tem o espírito de colaboração
+a gente quer é apoio é Ajuda ninguém faz
+nada sozinho mas eu te ajudar um aqui
+seja responsável eu peço Pela Minha
+experiência que cada um aqui ajude o
+nosso curso tá desde que ele critica
+alguma fala alguma coisa procure ajudar
+venha com Espírito de Ajuda Abra seu
+coração para ajudar porque todos vamos
+ganhar eu tenho muita experiência com
+curso de pós-graduação
+e tenho certeza que esse aqui superou
+todas as minhas expectativas do Tiago
+pelo livro então também uma mão lava a
+outra e eu queria até que o Thiago falar
+se tem água quanto é que a gente Quanto
+é o agente se filiar o status de dados
+lá a comunidade quanto é que paga
+anuidade como é ser importante que você
+dá só uma palinha porque tem pessoas que
+ainda não entrou na sua comunidade que
+gostaria de entrar também beleza tudo
+bem que vocês divulga aí para seus
+amigos que ainda restam três vagas a
+gente queria bater a meta quem sabe
+então vamos contar com uma coisa de
+vocês para vocês divulgarem aí para os
+colegas de vocês que com certeza assim
+que a professora Adriana Silva se
+recuperar a gente vai marcar se Deus
+quiser no próximo sábado se não vamos
+aguardar ela se recuperar e esse se ela
+não for possível a gente pode substituir
+com outra deixar ela para dar esse para
+depois mas vamos com calma ver como
+resolver esse essa questão da professora
+Vamos torcer para que ela ela seja a
+primeira professora né que esse é o
+nosso desejo que ela se recupere e
+castanhas ou então eu só tenho a
+agradecer a todos especialmente ao Tiago
+e
+vamos inclusive se água a minha sugestão
+até depois liberar essa essa
+apresentação da para estar te dados você
+subir que está te dados essa essa
+apresentação porque a Network shows
+também se o pessoal concordar aí a gente
+sabe sim com certeza ó a beleza show de
+bola bom então pessoal é bom para quem
+não conhece né como da estatística como
+a gente falou Já tem alguns alunos aqui
+né mas tem gente que não conhece né mas
+basicamente foi um ecossistema completo
+disparate que eu criei lá então o aluno
+entra lá dentro né a gente tem aulas
+gravadas dentro da plataforma né a gente
+tem o grupo do telegram como forma de
+networking dos alunos instante Tem gente
+do Brasil e do mundo lá dentro né ainda
+Nova Zelândia Portugal né e mais
+diversos lugares que você possa imaginar
+lá dentro né então são profissionais
+gente tem cientista de dados do IBM da
+Sulamérica
+da Stone de grandes empresas né a gente
+tem que parceria com empresas também não
+é quase tônica objetivo a gente indica
+os nossos alunos né então é a gente está
+preocupado sempre né com um pai Pilar em
+completo né então o aluno ele entra lá
+dentro de assistir às aulas tira as
+dúvidas né tô sempre disposto
+a máquina com 10 sabe que eu respondo
+super rápido tô no WhatsApp telegram é
+onde você mandar eu tento Claro se eu
+souber né não sei tudo mas se eu souber
+eu tento tento responder às dúvidas de
+vocês né mando também links que são
+importantes tudo mais incentivar né
+criação de LinkedIn YouTube Network né
+então portfolio negou hoje em dia o
+currículo caiu por terra né o gente cada
+vez mais empresa e como a Google né as
+grandes tecnológicas não não tão pele
+mais currículo elas vão de fato de
+projetos né então quê que vale mais a
+pena você olhar o que que tá escrito ou
+que realmente o cara fez né então o que
+o que o cara fez ou foi o portfólio né
+são os projetos que você fez né E pode
+ser algo que mais simples também né
+claro que legal você botar algo criativo
+tudo mais né fazer uma análise para
+LinkedIn por exemplo lá eu não enviei
+que eu dei aula recente eu e vamos para
+para fazer análise dos próprios
+brinquedinhos né então de baixaram os
+dados do LinkedIn virou extrair vários
+insights lá dentro né então é muito
+legal isso né É você tentar Inovar né
+então lá na comunidade de incentivar
+isso né esse Network na a gente faz um
+formulário lá com a galera para poder
+entender o perfil né para Danette nas
+vagas Então já estou de Por exemplo
+agora o mestre Fernando ele participou
+do processo que ele conheceu por meio de
+uma publicação que eu compartilhei lá na
+comunidade aí a mestra Maio me viu lá né
+me chamou ele para fazer o processo tal
+né a gente teve da Stone a mestra
+Gabriela o Renault Acho que o nome dele
+lá da área de Inteligência Artificial lá
+detecção de fraude ele me procurou no
+Linkedin né eu me pediu para indicação
+eu indiquei a Gabriela que ela tava
+trabalhando lá fora inclusive e ela foi
+trabalhar lá na história na parte de
+identificação e teve também
+recentemente o
+o caso da
+foi foi quem agora
+Fernando foi não Fernanda eu já falei da
+sente Ele foi preso não adianta teve o
+Ian é o Ian humilde ele foi para Beauty
+investimento trabalhar com modelagem de
+crédito né então também o gestor o
+Felipe me procurou mandei uma Side de
+nomes para ele lá da comunidade está
+aqui a gente tem as estatísticas dos
+alunos de lá né então eu entrei eu
+indiquei para ele Ele olhou lá viu que
+tinha mais médico a vaga e hoje ele tá
+lá na um a trabalhando como como a parte
+de modelagem de crédito né lá na Bíblia
+investimentos então a gente tenta fazer
+isso né mas é toda uma contrapartida não
+se tem que fazer a parte de vocês a
+gente tem que fazer a nossa né então eu
+tô sempre postando vagas lá né e é a
+gente também faz mentoria gineco a
+impressão marcante para falar sobre a
+parte acadêmica tem que ir botar tiro e
+tudo mais e para mestrado doutorado né
+ele já colocou a gente aí no IME
+Instituto Militar de Engenharia no ITA
+né entre outras os maiores mestrado sair
+do país na Rússia então eu sempre trouxe
+também o Tiago lá da Blue para falar
+sobre o mercado de trabalho né então ele
+falou como fazer uma entrevista né então
+ele foi lá e simulou entrevista com a
+galera falou deu dicas né ele que já
+selecione já tem é anos de pratica aí
+com congestão de
+carregar e tudo mais não é fazer
+entrevista ele deu dicas valiosas já
+então A ideia é criar um ecossistema
+completo né E a gente tem conseguido
+muitos alunos aí tem tem se colocado no
+mercado né e eu queria que fazer se o
+professor Bezerra me permitir né fazer
+com que os alunos aqui da bsb vão ter
+cinquenta por cento de desconto a
+ligação na comunidade né então eu vou
+fazer esse cupom para vocês né
+geralmente a gente faz assim esses
+descontos só para
+mulheres né porque a gente sabe que
+historicamente é estatisticamente
+falando né as mulheres ingressam menos
+na área de tecnologia a gente tem
+incentivo para mulheres e tem incentivo
+para estudante também então alguns
+estudantes lá então tem um rola tem
+desconto cinquenta por cento mas a gente
+vai abrir essa exceção ele vai fazer
+cinquenta por cento para todo mundo que
+tá aqui dentro da bsb todos os alunos tá
+então vou botar o link aqui para vocês
+quem quiser se inscrever na lista de
+espera da próxima turma que vai ser em
+setembro né vai começar dia 20 tá junto
+com o evento da semana de estatística e
+pesquisa operacional com R né então é só
+você preencher aí por gentileza e assim
+torcer agora pela recuperação da
+professora Adriana Silva na nossa geday
+né que eu tenho certeza que
+a gostar muito da aula dela né Eu não
+conheço ninguém aqui de assistir aula
+com ela que não gostou Então ela
+realmente tem uma didática incrível ela
+se preocupa com os alunos né ela tem um
+negócio diferenciado e que é o que a
+gente tenta trazer aqui né o foco nos
+alunos né então é o que a gente vai
+trazer aqui aí então faltou alguma coisa
+complementa aí professor Bezerra fica
+hoje posição primeiro
+agradecer gratidão pela deferência e
+você oferecer um desconto de cinquenta
+por cento para quem quiser entrar na
+comunidade eu recomendo fortemente
+porque é Network quando você entra com a
+comunidade dessa você cresce muito
+meu pai ele sempre será meu filho só tem
+uma coisa cara no mundo o meu pai não
+caminhoneiro mas ele era muito
+inteligente
+eu era muito inteligente Ele dizia Só
+tem uma coisa cara no mundo
+ignorância eu era único alunos do
+colégio estadual Humberto Mendes que
+comprava todos os livros naquela época
+muitos anos atrás eu dizia papai não é
+caro não tem que comprar todos os livros
+ele é meu filho carro é você não comprar
+o livro caro ignorância caro é você não
+pula pra dentro desse ambiente Ei cara é
+você não pulou para dentro da comunidade
+do professor Thiago tão é investimento é
+troco por que aquilo que você vai
+investir O Retorno é tão grande é tão
+grande que você é aquilo ali é troco
+então se você ainda não entrou para a
+comunidade do professor pula pra dentro
+que você só tem a ganhar
+um ok o de bola e vou mandar aqui o
+manual também para vocês conhecerem e
+muita gente acha que você fica pagando
+não mente né mas se você perguntaria
+para usar você só paga uma vez né Então
+teve gente que na primeira turma o valor
+era 299 tinham 10 horas lá dentro mas
+não era nos olhos não tô não não é
+anuidade porque é vitalício Responde
+ficar lá para sempre tem várias
+comunidades que o cara tem que renovar
+anualmente você não tá com renova
+notícia renovar não não não precisa é só
+uma vez e tá lá com a gente porque a
+ideia é criar mesmo uma comunidade que
+se ajuda né collaborative então não faz
+sentido você uma vez que você por
+exemplo saiu do emprego não pode mais
+pagar e aí você sair da comunidade não
+faz sentido desse né então eu quero que
+você fique lá mesmo né porque eu vou
+indicar você para empresa então eu quero
+ver se evolução EA gente recentemente eu
+fechei uma consultoria para a gente
+aplicar a teoria de resposta ao item lá
+então a gente vai elaborar a prova não é
+para você ter uma ideia de quanto você
+sabe de estatística na Então a gente vai
+saber quanto que você sabe de
+estatística a teoria de resposta ao item
+para quem não sabe ela é muito aplicada
+por exemplo neném né o Enem ele ele faz
+o seguinte quando a pessoa Responde ao
+acaso ela dá um peso menor agora se é
+poucas pessoas responderam aquela
+questão e você acertou aquela questão
+você vai ter uma ponderação maior em
+cima daquilo né então ela faz uma
+ponderação inteligente ali em cima da
+proficiência né E aí no momento que eu
+tenho essa escala por exemplo né que eu
+consigo modelar você instala eu consigo
+dizer o quanto você sabe daquele assunto
+entendeu então a gente vai fazer esse
+projeto né claro que vai depender dos
+alunos da comunidade tá eles vão ter que
+responder uma prova aí baseado nessa
+resposta se eu vou criar e uma
+calibração em cima de cada item né E a
+gente vai conseguir mensurar o quanto
+você sabe de cada
+assunto né até pra a funcionar o estudo
+de vocês também né e fazer indicações
+para empresa mas a curadas também né
+então a gente Thiago tem como fazer essa
+transformação qualidade
+a imagem de mil alunos lá dentro da
+comunidade hoje está na 16ª turma da
+comecei a 16ª turma agora em setembro né
+E ela é assim eu tenho uma dedicação ali
+exclusiva né para comunidade para casa
+da pesquisa operacional também a gente
+tem lá mais de 600 alunos também na casa
+da pesquisa operacional é um projeto que
+eu acordei mas eu quero que você não
+gosta dela também é coordenado junto com
+o professor Marco de Santos né que o
+professor de vocês de pesquisa
+operacional e gráfico falei para o
+substituto desenharia e qual o foco é
+pesquisa por essa não é igual
+basicamente a comunidade start mas lá as
+aulas são ao vivo e ficam gravados na
+plataforma lá na minha comunidade e as
+aulas são gravadas na e tem toda uma
+edição ali em cima então é é um pouco
+diferente em relação a casa mas a ideia
+do projeto é igual né você entra lá a
+gente prepara você Te indica para o
+mercado e lá tem uma pesquisa
+operacional também tem uma parte mais
+acadêmica também nesse a evoluir para
+mestrado e doutorado a gente também faz
+essa parte lá com você então basicamente
+só estudou em grandes projetos aí que
+hoje eu ato né e eu vou conversar com a
+sua marcação se ele permite também a
+gente fazer estendesse desconto também
+para casa né ainda tem que perguntar
+para ele tava correndo assim eu queria
+pedir que quem gente tiver ainda
+presente de uma nota de 1 a 10
+qual foi a impressão que você tem que
+ter vida aula e do NBA deu uma nota aí
+por favor digita e aí nos comentários a
+nota de 1 a 10 para gente ver olha aí
+dez 2010
+a mil
+olha aí 10 10 10
+e olha aí ó essa pergunta que precisava
+fazer na produção máxima nota máxima
+que isso é uma pesquisa né para gente
+saber aí né ou seja não é esse
+9999/99 isso é bom demais viu
+Boa infinita
+show de bola
+que maravilha Que bom que vocês estão
+gostando aqui eu acho que ela vai vir
+que a gente quer trazer essa mesmo tá o
+Tiago pessoal gado perguntou aqui ó
+alguma coisa que fala está Tiago
+rapidinho basicamente nessa aula da
+Adriana foi passado algumas informações
+dos livros que seria interessante eu
+acabei comprando todos mas tem um
+específico que a análise de dados
+estatística e modelagem multivariada o
+Excel spss stata é
+isso
+mesmo ai é mais uma pergunta referente a
+utilização desse livro assim nesse caso
+que os outros é mais uma parte mais acho
+que é conceitual história um pouco assim
+mas esse específico me deixou um pouco
+indagado sobre a utilização dele
+e ele ele é todo construído de forma é
+segmentada ali em forma lógica né então
+você vai o curso aqui ele vai na ideia
+de você ir avançando é desde estatística
+descritiva probabilidade na seja mostrar
+estimação diferença estatística aí você
+vai aprender SQL Então tudo tudo que
+você você vai brincando né então por
+exemplo eu recomendo que você desde o
+início por exemplo manual de análise da
+diz que você tá aí ele cobre grande
+parte do que a gente vai dar aqui tá até
+a parte de modelo multinível E tem
+também né tem a nossa sobrevivência tem
+diferença parte estão Tô todo o curso
+aqui você Você pode abrir pelo mais não
+é espírito da forte de cloud tirando o
+SQL tirando o próprio R que não tem
+nesse aí né essa versão não tem não mas
+mas não é isso não necessariamente é
+chato para ela tem que usar o FPS é só
+você consegue áudio mas não não não
+chatear ele comissão para seu olho
+importante são os fundamentos mesmo tá a
+tecnologia muda né com o tempo mas a por
+exemplo antigamente pessoal além não
+usava hérnia e Python né era que é
+especial esse site era era
+[Música]
+spss sais tinha até o da galera mais de
+indústria que jamais o qual o nome
+daquele de indústria e foi Engenheiro aí
+por favor me ajuda que que faz esses
+cálculos lado a partir de engenharia me
+Estrada do mais baixo a visibilidade
+minitab minitab que eu queria lembrar
+Mas tem uma de lado também né tem o
+primo pobre do matlab que o Taj né que é
+enfim ai vai mudando ao longo do tempo
+daqui a pouco daqui a pouco a Júlia Rua
+enfim né tem há milhões de linguagem as
+coisas vão mudando mas os fundamentos
+são os mesmos com certeza da galera que
+pegou esse PSS pegou site vai aprender
+os mesmos fundamentos da de hoje em dia
+entendeu então a gente só vai é claro
+que a parte tecnológica né tipo Inicial
+Então vai mudando não tem jeito tá
+beleza tranquilo boneco
+que maravilha e a Claro que a professora
+Adriana Silva também vai fazer
+recomendações dela ela botou lá na
+ementa as recomendações sim sem foram
+esses dias os mesmos que é legal você dá
+uma olhada no Charles Lima que ela
+sempre recomenda também né que ele te
+traz uma visão mais didática da de como
+você aplicar estatísticos intensidade
+também
+tá tudo tranquilo é uma andar no Dias
+rapidinho já tem um livro que eu comprei
+eu sei que parece ser meio assim meio
+bobo mas é esse livro aqui ó é guia de
+Mangá estatística
+aplicada a história Francisco né que ele
+tem em cima estatística com mangá né com
+uma historinha né Valeu a dica legal
+recomendo também
+e o senhor perguntinha que sobre o
+material de trabalho né
+quando a gente fala de estatística
+gráfico é certo é muito comum a gente
+vincular em por exemplo posso relacionar
+Excel né sim eu pergunto pelo seguinte
+No momento eu não uso as ferramentas da
+Microsoft tá eu costumo usar outras não
+é o Google Docs por exemplo né É eu sei
+que isso é muito problema com relação é
+mas eu quero entender justamente o grau
+de dependência que a gente vai ter do
+Excel outra eu de outras ferramentas aí
+da Microsoft
+e aqui no curso a gente não vai ter não
+vai ter dependência da marca no máximo A
+gente ajuda Microsoft Way já né que é o
+ex machina online tá mas aqui o gente
+vai focar mais em realmente na linguagem
+R tá ela atende tudo aí que a gente
+precisa tá mas nada impede né de você
+também querer fazer comparações com
+Excel spss né porque o fundamento é o
+mesmo né Você só tem que saber a as
+outras tecnologias né mas aqui a ideia é
+que a gente passa tudo não erre tá é bom
+beleza
+ó e vai te lascar ele também tá parece
+que na disciplina de introdução à SQL
+que eu acho que importante também só
+mais uma coisa lá o final disso porque
+eu pergunto por causa dos tempor acional
+né então eu e o mostrando o MEC não
+também serve a gente vai usar clientes
+específicos aí ficou me olhando é
+multiplataforma você tem Mac linu o que
+você quiser você consegue instalar ele
+tá pegando uma menina
+beleza
+pessoa pode falar sobre sobre a parte do
+do Siena ele vai ter alguma dieta
+específica dele mas quer ir embora o
+póximo ainda não conversei com o
+professor Alex né a gente ainda vai
+decidir isso tá aí eu não posso falar
+nesse negócio tá bom
+que colou é
+e o mais Kelly Slater
+bate aí fazer aquela foto assim certo
+não tranquilo ainda não ainda não
+conversei com os o Alex acerca da
+ferramenta que levar utilizar para te
+amo eu tenho mais Kelly tem vários não
+permite como entre um pouquinho na minha
+senhora tá é
+Fernando mesmo que você esteja
+aprendendo aí mais que ele muda pouco tá
+até um padrão mais 15 anos então vamo
+dar muito pouquinho tá Não se preocupa
+com esse não tranquilo para o Adriano
+pode dar um nivelamento aí também nessa
+nesse grupo além do professor Marcelo
+vive pode dar um refrigerante de bola
+Que maravilha então então acho que é
+isso né Professor quer falar mais alguma
+coisa
+agradecer e também né Por exemplo dá um
+feedback aqui porque algumas pessoas
+estão com roxo escuro né lá na Hoje em
+dia a gente tem que se preparar por
+exemplo meu amigo Marcos Dias tá com
+rosto escuro tem que ter uma
+eu tô aqui com
+o soft Box aqui mas é todo mundo
+providenciar aí para não ficar com rosto
+escuro porque teve gente que falou hoje
+que a gente não conseguia ver o rosto
+que estava totalmente escuro né Para
+nossa próxima aula providenciar a
+iluminação correta do rosto né porque
+professora muito tecnológica para o
+detalhe ali dentro do projeto para ter
+sucesso é um detalhe é a forma você tem
+o seu LinkedIn é a foto que você tem no
+seu Instagram tudo isso aí é é
+importante o detalhe tanto para todo
+mundo que eu sou pelas com prazer o
+trazer o sol do Ceará para cá viu aí
+resolve e
+olha aí ó como é que tá aqui situação
+não sei se vocês vão ver aí ó vocês
+estão vendo aí Ó estamos boa tão vendo
+aí como é que tá o Tiago aquele padrão
+aqui
+acredito que sim alguém quer falar mais
+alguma coisa Quer perguntar alguma coisa
+a gravação a partir de agora viu Tiago
+aí Se alguém quiser continuar a gente
+conversa se eu parar a gravação aqui viu
+beleza perguntei gravação interromper
+gravação então agradecer a todos vocês e
+até a próxima aula
+bom então filho

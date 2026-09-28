@@ -1,0 +1,194 @@
+# Vídeo 3 - Aprendendo a Ensinar a Máquina -  Reconhecimento facial ,feições e Piscar de olhos
+
+- **URL:** https://www.youtube.com/watch?v=-XC_Zj41_BI
+- **ID:** -XC_Zj41_BI
+
+## Transcrição
+
+fala galera aqui é saulo catarina para o
+canal está difícil do nosso amigo
+professor tiago
+hoje trabalhei pra vocês é um detector
+de piscadas biscaia de olhos
+é nesse detectou estaremos treinando
+vários recursos que acredito que sejam
+úteis para que vocês façam dinheiro
+através do pai porque visão
+computacional é o que há de mais quente
+no mercado então vamos começar aqui
+importando a biblioteca e uma de tv
+dizer frank williams em uma droga é esse
+nome no facebook recognition que nós
+utilizaremos ele é parte ele utiliza
+dele na sua base lá no link do be é
+estará disponível pra vocês
+o link pra instalar essa biblioteca
+porque vamos salvar aqui como fácil
+quanto pelo importar o cvv 2000 aiyê e
+esse daqui que é pra podermos ter o
+cálculo da distância eu pedi ana lembra
+o quadrado do cateté guarda poder usa
+então nós estaremos habilitando a nossa
+o ep em 10 o número de recursos da linha
+4
+[Música]
+agora nós vamos capturar o frame quer
+quanto read
+aqui nós capturaremos o frame que foi
+invocado aqui um quepe vamos dar
+invertida num um frame que vai está
+espelhado
+run back peraí tais gramas mal frame a
+frame com uma freira uma matriz lei mas
+a gente vai pegar aqui vai tirar a
+última coluna e aqui nós vamos captar as
+marcações do rosto físico no início
+achamos o módulo a face recognition que
+[Música]
+nós fizemos aqui esse frango aqui vai
+passar pelo módulo face polícia e nós
+receberemos aqui uma lista com as
+marcações do rosto
+vamos fazer um teste vão pegar
+primeiramente para cada um para cada
+marcação para cada objeto aqui dentro
+nós faríamos um útero sem igual na minha
+cabeça igual no formato de v
+tá vendo e passando para o formato do
+rio
+quer dizer o quê através dessa matriz de
+imagem vai converter um objeto de imagem
+também até capítulo que de igual porque
+nós vamos agora traçar alguma além de
+marca testar a imagem de pio rba porque
+agora a gente vai traçar uma linha do
+queixo fazer além do que este aqui como
+rgb a 55 branco uma transparência certo
+vou ter aqui não é
+eu não contei peraí de 64 anos é igual
+ao mp
+agora vou converter o formato do pv
+ou seja o convertendo blog novamente
+está vendendo uma imagem está no formato
+de imagem nada biblioteca pio
+aqui eu converti para esse formato é que
+eu vou recorrer tempo o formato do que
+eu pensei ver tu tá bom
+[Música]
+de igual modo a ajustar as cores porque
+o formato de cor é diferente
+4
+e vou habilitar aqui o vídeo
+isso a gente apertar o que saiu do
+nordeste isso button 31 fez até a imagem
+igual a esse mas já todos o que escreveu
+vamos ver a velocidade que maravilha
+peraí tem que chamar que tudo tinha
+que o loop lá e agora sim está vendo nos
+fez a marcação do trecho
+ok ok aqui pô
+nós pusemos tim então nossa idéia é
+criar um detector de piscar de olhos
+então a gente vai fazer por saber tirar
+e colocar aqui left eye copiar coop água
+potável do direito certo
+o efeito já temos aqui a portagem dos
+nossos olhos
+então aqui pra sair e é então agora a
+gente precisa pegar parte debaixo dos
+olhos para poder calcular a extensão eo
+fechado tem uma distância aberto tem uma
+distância tão boro light ou seja parte
+de baixo do olho direito é igual fez
+light
+ae o direito e vamos pegar 10
+também vamos pegar a parte sim de baixo
+outra metade é virar uma lista isso
+mesmo vamos cobrar isso aqui o top
+embora o top top top 10 e 5 como você
+isso eu fiquei horas testando
+eu não consegui achar no dia que eu
+conheço essa biblioteca
+o manual depois que o explorer ela
+todinha que eu fui encontrar uma nova
+biblioteca aqui a gente vai fazer a
+mesma coisa para o olho esquerdo então
+essa aqui substituindo estiver direita
+para a esquerda
+o piano
+a gente é é esse agora a gente já tem os
+valores certo vamos botar pra dar um
+brinde que a gente vê esses valores
+o int vai mostrar a posição num plano
+cartesiano x e y de cada elemento desse
+ok aqui tá vendo a posição dos olhos o
+que é x e y de cada elemento da comitiva
+saiu da imagem
+os olhos estavam fora da imagem pois bem
+eu queria
+conseguimos então aqui nós temos os
+valores certo
+agora o que a gente precisa fazer é
+descobrir a distância da parte de baixo
+com a parte de cima e para isso nós
+vamos usar o módulo euclidiano que vai
+dizia alguém está tentando me chamar nos
+cargos e não posso perder agora igual
+fez leve max é nossa
+espera aí link direito é igual o link
+bora lá de baixo
+certo eu vou fazendo o mesmo com a
+esquerda onde é de direita nem de
+esquerda é certa os brinquinhos uma
+distância que a gente fez aqui nós
+pegamos e calculamos a distância dessa
+matriz está um dos elementos da matriz
+brinque print à distância de direito e
+esquerdo e assim a gente vai saber qual
+é a distância do olho aberto
+a distância do ano fechado e vai botar
+olha se tiver com esse valor está aberto
+se tiver com esse valor está fechado
+vamos lá
+[Música]
+é isto até porque está colhida perdão é
+com ela
+assim vamos ver
+op falar à distância de cada olho no
+olho aberto está mais ou menos do que 11
+11 14 29 fechado menos de 10 então a
+gente pode botar o limite 11 - de 11
+está fechado mas jonze está aberto
+certo vamos criar agora e link maior que
+10 menor
+left menor certo que a gente fez aqui
+se olho direito estiver mais do que 10
+está aberto clint print não aprende nada
+sobre o macaco 10 fará nada colocar que
+só se for menor
+peraí nos panos com um rapaz tenta dar
+seu discurso
+olá isso e aqui print
+vamos lutar primeiro aqui é importante
+até lá em cima
+o s se está limpo a tela dia 20
+piscou o olho direito
+hum
+tem alguma coisa errada quando eu
+consegui entender som a cara aqui ó
+nosso que esquece isso
+brinque left to one left aqui ó
+achei um erro poxa fonteira to sin agora
+foi agora foi monitor escuro direito à
+direita direito direito direito direito
+hum ante
+o ter controle do que está acontecendo
+aqui na 15a
+a escolha foi o esquerdo filme ó é
+porque você fechar o olho direito
+sem fechar o esquerda à direita da meta
+de jantar só eu não sei fechar o olho
+direito intenção esquerda
+é isso aí programa é isso a nossa aula
+enrolada mas saiu calado derrame o link
+espero que vocês curtam

@@ -1,0 +1,1184 @@
+# Statistics Applied to Sports and a Career in Sports Analytics (Esportístico Channel)
+
+- **URL:** https://www.youtube.com/watch?v=yv4hYP3jJ6I
+- **ID:** yv4hYP3jJ6I
+
+## Transcrição
+
+E aí
+o Opa boa noite pessoal sejam todos
+muito bem-vindos
+E hoje nós vamos receber dois convidados
+especiais aqui no que foi meu professor
+né na escola nacional de ciências
+estatísticas do IBGE faz um trabalho
+incrível sensacional né em aplicando
+estatística e no esporte né e disse mina
+né muito conteúdo de estatística né por
+meio aí do canal do YouTube dele do site
+né esportistico a gente ainda vai
+conversar aqui né gente vai falar sobre
+as iniciativas aí do professor takata né
+E também segundo a gente vai receber em
+seguida de logo após o professor tocata
+um aluno da comunidade estatística não
+quer nosso orgulho lá ou mestre o
+Alisson Abril né que atualmente ele tá
+como rede de hidratação ensinar esse já
+e ele vai é falar construindo uma
+carreira de hidratação enfim gestão
+o som é sejam todos muito bem vindos né
+E daqui a pouquinho o professor takata
+deve estar entrando tá
+bom então é queria agradecer né
+primeiramente aí a presença de vocês né
+Sei que aqui tem tem muitos alunos lá da
+comunidade estatística não quem for
+algum aí manda um salve aí para presente
+né E se entrou se você não estou agora
+também na comunidade Manda aí um
+dá um salve para gente né aí daí aqui é
+a gente trazer né a gente já trouxe aqui
+o mestre Antônio né que também nosso
+aluno não é Freeza ele atualmente também
+tá como cientista de dados na Boticário
+né e a gente fez uma conversa com ele
+aqui sensacional inclusive tá lá no
+YouTube e tá aqui no igtv também se
+vocês quiserem assistir depois né
+maravilha olha aí o Deivison Batista
+falou só um novo aluno Olha aí grande
+Pedro Menezes também Pedro Menezes e
+também alguns no nosso da comunidade e
+coordenador técnico aí do Flamengo né e
+o cara fez uma live sensacional aí no
+esporte também aplicando estatística no
+esporte né foi mostrou lá o 10 tipos de
+bonitão lá no power bi ai né esporte de
+análise de esporte de alto desempenho né
+então pô foi muito legal também vale a
+pena Assis
+o vídeo dele lá no estado de dados a
+Live dele foi Foi incrível também muito
+legal e segue aí também o Pedro nas
+redes porque ele traz é a estatística
+aplicada à saúde né de forma geral não
+forte forte na na saúde de forma geral
+então tem legal o trabalho dele também
+tá maravilha de som tão muito feliz aí
+seja muito bem-vindo né na segunda-feira
+a gente vai ter a Live de recepção aos
+novos alunos da comunidade tá então a
+gente vai poder conversar melhor aí se
+conhecer melhor né Mas você vem legal é
+dia o professor João Marcos aí também
+aluna da comunidade para você
+estatísticas massa demais ou nesta
+quarta já entrou por aí
+o tio vir aqui visualizou vamos lá então
+vamos chamar ele aqui ó
+aí não dá né Pedro o mais destacado é
+bom demais cara ele tem um trabalho
+sensacional é
+e olha aí Tiago grande Professor como é
+que você tá tudo certo e você por que
+legal cara deixa só feliz da vida né pô
+você aqui com a gente de novo né ó fiz
+uma live com você na unidade quando ela
+fechadas lives né aí agora que a gente
+abriu e tal e também trouxe aqui no
+Instagram né então acho que ele daí que
+bater um bate-papo bem legal não vou
+chegar lá eu quero te agradecer é mais
+uma vez parabenizar pelo trabalho que
+você vem fazenda né Não tanto no site
+esportistico quanto no canal eu sempre
+acompanho também os os materiais que
+você posta na bem legal para ligar mais
+não Eu que agradeço com alguma é sempre
+uma honra falar com você aí a gente
+conhece sequência tanto tempo já E
+também podia acompanhe acompanhe sempre
+aí os seus canais no Instagram no no
+YouTube a cada vez cada vez mais gente
+né Tiago se interessando pela
+a Estelar e descer legal e dá para ver o
+preço do seu crescimento é isso fala
+sempre mesmo que quando começou esse bom
+lembrar assim se de dar explica mesmo
+que um distanciamento né da estatística
+e a gente tenta trazer esse divisor
+tenta fazer a curva da descida da da
+estatística encostar de novo na curva da
+Sinceridade Pois é né mas assim mas é
+uma coisa que é para mim assim é
+indissociável tem como você passar
+certeza como não tem como assim não tem
+como mesmo é ele quem fala que ciência
+de dados para para entender desse ajudar
+não precisa entender estatística mesmo
+tá tá falando muito muita coisa errada
+Exatamente é na verdade essa muito mal é
+que basicamente a gente a gente que tá
+aí nessa na luta já faz um tempo é para
+gente quando apareceu esse nome
+curvatura de sinceridade Uai mas é o que
+a gente
+Esse é o que a gente sempre tem não tem
+é só é só Flávio adaptações com as com
+as especificidades aplicações com o
+volume de dados que a gente tem hoje o
+alcance das técnicas ficasse lá nas
+coisas vão se adaptando mas basicamente
+é aquilo que a gente sempre fez então
+então realmente é uma coisa que não dá
+para gente ficou gerenciar nomes
+acabaram ficando um pouco mais marketing
+Asus né pois modelagem estatística foi
+para Marte no ano né modelagem análise
+multivariada foi para modelos não
+supervisionado Então é isso mas temos
+uma evolução aí dos conceitos né a gente
+já aplicava muito tempo né então ano
+passado foi no passado que teve aquele
+negócio de no Instagram que pessoal
+compartilhar você como é que era o
+desafio dos 10 anos tem a challenge
+assim 10 anos e a pessoa centavo
+e em 2009 outra fazendo 19 eu vi um bem
+legal que às vezes até põe nas minhas
+palestras tava assim 2009 era y = y = a
+seu aberto a x mais Y né em 2009 é
+estatística aí 2019 o mesmo modelo
+machine learning né tipo em 2019 girou
+machine learning negócio né que é que
+exatamente o mesmo modelo que a gente
+sempre chamou de agressão então isso eu
+confesso que eu fiquei um pouco confuso
+Sabia quando nós sair da em si e eu eu
+fui lá naquele posto lá do coceira hdx E
+aí eu via lá com Vamos ver que que esse
+tal de hidratação e se não é calor Ó
+ficou com acho isso não era o que eu vi
+na faculdade pois é o Calma aí vou
+modelo super super vai slime olhava lá.
+Era conglomerado era familiar
+o tutorial eh era é quase atualização né
+que a escrever mas com aí não tenho não
+camisa é complicado né galera Jesus é
+claro que sempre tá aparecendo coisas
+novas né com eles lembrarem mudas e
+outras coisas assim mais mas é a
+evolução natural daquilo que a gente já
+tinha né então é isso com certeza assim
+como também Esporte né esse link do
+esporte também é válido antes já se
+fazia tudo estatística nas costas também
+só na hora divulgado né tá no tio teu
+carro ao lado escondido para divulgar né
+não tinha sua Ampla divulgação em blogs
+sites né e mais ações É também um
+determinado as proporções Neve da pessoa
+Aprende fazer o quê não determinadas
+análises vem que hoje em dia a gente
+pode fazer e Olha nós também né
+é legal demais então só pronto pessoal
+te conhecer o pouquinho aí fala um
+pouquinho de você né Por favor se
+apresenta e humildemente pra galera né
+fala isso eu trabalho sensacional né
+pessoal conhecia não por favor tá bom é
+bom então para quem não me conhece eu já
+vi gente aí passando aqui gente quê que
+já foi até melhor volume e tal então tem
+gente que me conhece aí já tá no público
+aí mas para quem não me conhece eu sou o
+Daniel takata eu sou estatístico de
+Formação então eu falei pela Unicamp E
+aí eu fiz também mestrado na Unicamp eu
+tenho doutorado pela USP e hoje eu
+trabalho lá em si Sou professor e
+pesquisador na esse instituição de
+ensino superior e o Tiago formado a
+gente se conheceu lá e ele já tô lá já
+faz algum tempo e assim né assim antes
+de a Live aqui
+a bocada passa palavra isso escola
+nacional de ciências emagrecedoras né
+[Risadas]
+[Aplausos]
+mas eu quero mas acho que tá com deley
+aqui bom mas não vamos vamos conseguir
+não tem problema não tranquilo mas enfim
+a trajetória realmente é muito legal e e
+tem um negócio que eu acho muito
+interessante também não quero ter o link
+aí com a profissão né que esse teu gosto
+de resposta do Mar nesse texto foi um
+atleta né você viu profissionalmente
+preço de navegação é pois é eu assim
+antes de tudo assim alarme vai ser
+voltar dessas aplicações Principalmente
+uma coisa que eu faço bastante né mas
+assim mas antes de tudo eu sou
+estatístico né então então eu trabalho e
+outras outras frentes também né o levou
+orienta alunos em outros assuntos não
+o piso a estatística no esporte né gente
+tá na área a gente a gente a gente
+trabalha com várias se fizer aplicações
+mas essa essa essa essa do esporte
+realmente é uma coisa que que veio que
+eu vim desenvolvendo ao longo do tempo
+justamente por esse meu background assim
+que isso aí eu fui nadador né Federado e
+tal competir a sério campeonato grandes
+e aí mais assim eu sempre fui muito
+curioso em relação à as histórias do
+esporte' a ficar vendo resultados
+rankings números assim sabe se consegui
+fazer essas associações aí desde quando
+até mesmo de entrar na faculdade se
+colocar no colégio E aí acabei no curso
+de estatística até até até interessante
+que é uma coisa que até falo às vezes em
+algumas palestras que eu dou assim
+porque eu até peguei aqui para mostrar
+tem esse esse jornalzinho aqui né que eu
+achei aqui é que é um jornalzinho de
+natação
+e se finalzinho ele ele é bem antigo se
+ele de novo esse aqui é da olimpíada de
+96/1996 aí era uma prévia Olímpica e aí
+era assim que na época A internet ainda
+não ele engatinhava aqui no Brasil é
+assim que a gente se informava então não
+é necessário que hora eu na dava sério
+tal e aí aqui dentro desse desse
+jornalzinho tinha uma uma um guia
+paraolimpíadas natação porque os fazer
+natação mas aí a gente se a tabela aqui
+ó não sei se dá para ver essa tabela
+deve deve estar invertido né mas mas
+sabe mas essa essa tabela aqui é sobre
+era sobre previsões dos tempos dos
+ganhadores da olimpíada em cada prova e
+aí aqui falava que era o estatístico que
+isso da República Tcheca é melhor
+fazendo a previsão dos tempos da
+olimpíada e quando eu vi aquilo e fala
+mais ou menos então nós 96 foi bem assim
+aquela faculdade
+eu estava e então eu me lembro de quando
+ter visto isso eu já fiquei bem pirado
+sim sabe por quê Porque eu falei assim
+poxa mas eu mas eu tinha noção de que no
+mesmo não tinha sido um cara felizão que
+chegou lá e chutou os lugares sabe eu
+tinha uma noção de que o cara devia ter
+usado algum tipo de dado algum tipo de
+ranking alguma metodologia para fazer
+isso não tinha a menor ideia do que como
+fazer mas mas eu eu acabei ficando bem
+bem fascinado por isso aí depois acabei
+entrando estatistica da Unicamp e o
+Curioso é que eu acabei querendo né
+Queria fazer um negócio desse aí eu aí
+eu acaba pegando dados de rankings de
+natação ao longo dos anos e aí eu ia eu
+ia à medida que eu ia avançando no curso
+né fazer uma celular cálculo numérico aí
+fazer celular muito tempo lá são lá
+E aí já aí já aí já fazemos vai fazer
+probabilidade aí já queria Campo Largo
+uma probalilidade ele é fazer regressão
+aí eu ia colocar o modelo de regressão
+aí fazia séries temporais Apple agora dá
+para colocar modelos de séries temporais
+aí esse bojo das me acompanhar faculdade
+inteira sem Sábio e apesar de não ter um
+pouquinho de dados como esse não ter
+assim eu não tenho usado para nada
+formal assim nenhuma iniciação nada
+assim contribuiu bastante para
+desenvolver-se meu gosto pela modelagem
+sábio modelos de regressão modelos
+lineares generalizados modelos até redes
+neurais e coisas assim e Então teve uma
+ligação é uma ligação bastante forte que
+aquela coisa né se a gente se a gente eu
+acho que essa grande vantagem da nossa
+área assim que a gente tem a
+possibilidade de encontrar aplicações em
+Ramos que vamos confeccionar nisso é ele
+mesmo que a gente tem muita afinidade né
+o estojo agora para outra né então tem
+gente que ter habilidade para você é uma
+área bem notícia e costure professora
+tem essa se viagem da
+multidisciplinaridade né Exatamente é
+então então é eu acho que esse são um
+grande atrativo da nossa área E aí eu
+acabei me aproveitando disso E aí depois
+eu fui que isso foi nessa isso essa
+história que eu tô contando arco de
+graduação e até um mestrado um pouco mas
+mas aí depois né ao longo dos anos eu
+fui buscar Outras aplicações na área do
+esporte que realmente nunca trabalhei
+formalmente com dados esportivos
+mestrado e doutorado eu trabalhei com o
+goleiro séries temporais modelos de
+séries financeiras não fiz nada com
+Esporte nesses meus trabalhos mas mas
+mas mas eu faço mas eu desenvolvi ter né
+já publiquei é Resumindo só pegar um
+lanche aí né que eu acho que é o que as
+pessoas ficam muito
+e com essa ideia de criar redes neurais
+no na estatística Então fala para gente
+coloca rede neural mais simples que
+existe aí né da onde eu usei né É só pra
+se escreve normal na uma estatística é
+bom para quem para quem tá aqui na live
+que sabe um pouquinho aí de modelos
+lineares generalizados né o modelo de
+regressão logística EA gente pode
+considerar como se fosse a uma rede
+neural um simples né uma rede neural
+talvez a mais simples rede neural a
+gente foi bem então eu posso serviço mas
+enfim dado MLG vem a modelo linear nem
+pior origem de água limpa pantera
+estatística lasanha não tem jeito
+Exatamente é não é um modelo modelo de
+de regionais não dá mais é que eu
+costumo sair quando o direito neurais no
+modelo Logístico turbinado assim sabe
+e diz assim e Claro porque todas toda
+uma complexidade de adicionar lá ele
+consegue lidar com alguns aspectos
+diferentes mas mas se você entendeu
+modelo de regressão logística para você
+entender a rede neural é é um passo
+seguinte assim sem sem sem tanta
+dificuldade Claro depois tem regionais
+mais complexos com aplicações mais
+específicas mas tem que ter total
+relação com modelos modelo estatístico
+clássico assim que a mudar de regressão
+logística Então é bom aí para
+desmistificar né se deve a galera de ar
+não rede melhorar o nosso Beleza então
+assim como eu penso em estatística no
+esporte você falou Neves Sales teu link
+tudo mais ângulo esse viés da natação
+tudo mais se viu os tempos né E aí
+começou a ter essa desenvolver nessa
+vontade de aplicar tudo mais né e
+E quando eu penso está crescendo
+esportes não consigo dissociar daquele
+filme do voleibol né em que os cara o
+cara contrata lá no Recife formado o
+dinheiro não é isso e para para fazer um
+time que é não não é tão caro né não é
+por meio da estatística descobrir ali
+jogadores que são semelhantes entre si
+né e que você consiga um alto e você tem
+um artigo muito maneira né que inclusive
+é isso aqui né aqui no teu teu site né
+triste jogador mais em conta para o seu
+time né você fez com os dados da FIFA né
+É verdade do do jogo do Fifa né nesse
+nesse nesse texto aí eu eu usei uma
+atualização Pois é aprendizagem
+não-supervisionada se você quiser isso
+mas eu usei análise e
+Fala galera análise de agrupamentos para
+tentar identificar jogadores mais que
+interesses semelhantes e tudo e isso que
+bom que você falou de mandei Ball qual é
+um clássico já é uma uma é uma assim é
+um caso que a gente tá na área a gente
+fala muito e ouve muito falado o time de
+beisebol lá de o plano Estados Unidos
+que que tinha um orçamento muito
+reduzido E aí tinha que se virar com
+aquilo e ele era candidato a ficar entre
+os últimos colocados mas a verificando
+analisando os dados dos jogadores
+conseguindo identificar que jogadores
+que usaram tão caros e que poderiam
+oferecer contribuições curtindo um
+baseado nas estatísticas eles Lutaram
+time competitivo enganar agregar uma
+série de Vitória histórica E acabamos
+sendo campeão mas revolucionou o modo
+como como os não são bem sou mais mais
+comuns esportes e galo com as
+estatísticas lá nos Estados Unidos não
+só vez
+o basquete futebol americano e todos os
+todos os outros esportes assim então
+então revolucionou mesmo é hoje o
+esporte de alto nível está associado ao
+esporte com consciência porque é não tem
+jeito a gente inclusive tenho não tem
+aquele vídeo falando né do cientista de
+dados que da NBA né que utilizam a
+estatística ciência de dados para
+conseguir aumentar a performance dos
+jogadores né descobrir novos insights
+jogar viu e isso é por exemplo aqui vai
+quem também pode falar aqui grande Tiago
+é o Luciano foi aniversário dele esses
+dias aí parabéns aí Tiago sério é você
+saber três quatro dias eu acho que ele
+viu aquele dilema das redes lá e saiu do
+Facebook por isso que eu não vi
+e pronto o fala que o Pedro tá aqui
+também o Pedro Menezes que não pode
+falar muito bem disso também da Com
+certeza que aplicasse uma lógica
+estacionar lá no status dela tava
+comentando aqui de esporte de alto
+desempenho né Muito maneiros nos 10 por
+maneiraço lá no TBI mas eu você tava
+falando da NBA é uma coisa que eu tava
+acho que eu te acho bom não lembro
+exatamente seu pois algum texto sobre
+esse no site mas até ele me acabou ontem
+né o leite ele foi campeão mas ele tá
+tava pensando nos nos aspectos do jogo
+da NBA como como como o jogo mudou ao
+longo dos últimos anos Isso se deve
+muito a análise de desempenho dos
+jogadores e pra sempre ficar como isso é
+eficiente claro eu vou só assim eu vou
+dar uma eu vou dar uma simplificado aqui
+só para passar a ideia mas
+um simples que a gente aprende lá em
+probabilidade de um que é o conceito de
+valor esperado Esperança né de uma
+variável aleatória é isso fez um jogo da
+NBA mudar totalmente sabe porque ao
+longo dos anos porque hoje os jogadores
+arremessa muito mais bolas de longe
+bolas de três pontos do que se fazia
+antigamente antigamente eles preferiam
+chegar mais perto da cesta para
+arremessar E aí a gente fica discutindo
+com você vai valer a pena aí mensagem de
+tão longe porque a chance de erro é
+maior nessa remessa de longe achei esse
+dinheiro a maior mas é só fazer um
+simples cálculo de valores esperados sem
+saber então se você considerar que em
+média em jogador acerta 35% das bolas de
+longe de três e ele acerta cinquenta por
+cento das bolas de dois das bolas de pé
+Ficou claro que eu tô tô dando números
+mas eu tô dando uma verificada
+simplificada Por que esses números
+variam já jogador já coisa contigo claro
+né se
+Olá pessoal esqueci mas mas só um
+contexto geral se cara 35% é de
+percentual de acerto embora de 13 e
+cinquenta por cento de bola de 2 se você
+calcular o valor esperado do número de
+pontos é quando ele arremessa de longe é
+maior do que eu não me esperado depois
+que eu dei o remédio e perto só só por
+essa nova eu já vê que já vale a pena
+você fique claro é no jogo dele vc acha
+dessa várias vezes né muitas vezes então
+então a lá no lá no final Hoje eu
+trabalho que não ação também né
+exatamente não tenha dúvida que eles
+devem ter feito muitas simulações para
+chegar e continuo fazendo né o jogo está
+em constante evolução Quem sabe daqui
+alguns anos e tiver alguma mudança de
+novo dependendo composição gráfica
+prazer a porta Quem é o jogador que mais
+determina Lilo Eu não entendo muito de
+basquete né mas sim quem
+as imagens Gonçalves pela parte mais
+mais perto das 6 horas mais longe das
+seis enfim né identificar padrões né é
+pois é inclusive esse negócio é tem
+muita muita visão computacional também
+se usa né nesse nesse tipo de aplicação
+inclusive um deles até pus no Instagram
+acho que você escreveu acho que eu vi
+você até compartilhou seus amigos que eu
+fiz uma que eu que eu que eu fiz uma ver
+todo quer dizer você componentes
+principais né análise multivariada para
+tentar deter os melhores jogadores da
+NBA fazer um ranking assim né e o
+Curioso é que coincidiu quase
+perfeitamente com o que os jornalistas
+voltaram né lá o ranking dos melhores
+jogadores inclusive o primeiro e até bem
+verão eu falei até brinde então só é
+para que para que fazer votação sem
+jornalista pega o meu método aí a planta
+que vai dar o mesmo resultado eu vejo
+banana e eu falei não precisa pagar
+salário por meta né e
+é mas que já tá querendo já tá querendo
+acabar com a profissão de jornalista aí
+vem o dilema da aí pessoal que
+jornalista já vai sair da Live aqui vai
+ficar com medo já não mas mais e você a
+gente pode pensar pô Será que precisa de
+estatísticas muito avançadas para
+conseguir algumas análises você falou e
+valor esperado né a gente vem para o
+habilidade num né não é nada a gente vê
+o que segundo período é isso segunda
+medida é né não é não é coisa mais
+difícil do mundo né então com coisas
+simples vai fazer umas é mais bem legais
+né eu lembro que eu conheci eu ensinei
+os conceitos de muito básicos assim tipo
+de
+e depois acumulado e tal eu quero me
+pegou uma uma
+o Evoque Sport toca a parte de
+estatística descritiva e e variabilidade
+só medidas de tendência central e
+variabilidade o cara não chegou a
+corrida de Fórmula 1 né conseguiu
+aplicar a língua falei caraca esse
+maneiro né pegar conceitos Mega simples
+né e aplicar Olha isso é muito muito
+legal então fala aí para gente né
+algumas coisas simples aí que você já
+fez que pessoal também poderia replicar
+Enfim uma coisa dessa natureza Pois é
+mas sim teve umas coisas assim que eu
+por exemplo tem uma na verdade isso que
+eu vou falar que não foi nem não foi nem
+eu que fiz assim mas é só uma aplicação
+clássica que aconteça vôlei né no vôlei
+o vôlei do Brasil ele é um assim Os
+Pioneiros assim de fazer essa análise de
+dados em jogos e treinos e isso
+a subir na década de 80 assim que eles
+começaram a fazer aquela época as coisas
+eram mais sentimentalidades fazer tudo
+anotação na mão da jogada e tal né mas
+eram mais mas ele se viravam Dalla e
+assim não é coincidência que o Brasil
+Desde a década de 80 passou a ver a
+potência do vôlei Mundial é claro que
+não é só por causa disso mas isso tem um
+teve um peso não tem teve um um fator
+determinante E você tem estatísticos na
+confederação brasileira de vôlei nos
+clubes e tudo e a e tem uma inclusive
+quando foi faz dois anos que a gente
+trouxe a essa estatística que trabalha
+para a Seleção Brasileira para fazer a
+sua internacional uma das pioneiras no
+nos dessas ficando vôlei do Brasil que a
+Sandra Caldeira ela foi uma palestra lá
+na esse E aí ela mostrando como que tipo
+de análise que se faz né É
+e para você tentar fazer com que o time
+tem um desempenho melhor explorar os
+pontos fracos do adversário E se a gente
+for viajar análises que eles fazem não é
+nada de outro mundo absolutamente sabe é
+uma análise de porcentagem porcentagem
+para você tentar maximizar a
+probabilidade de uma jogada dá certo né
+Mas eu apresentasse com quantas vezes
+qual o percentual de vezes que o jogador
+tal tá sacando ali no fundo e qual o
+percentual de vez que essa jogada tem
+dado resultado aí qual o percentual diz
+que o levantador tava Sei lá tá
+levantando para o cara do meio que o
+cara da p*** né E aí eles junto essas
+informações Claro eu trabalho bico ele
+tem uma esposa quando você consegue
+fazer uma série histórica né às vezes te
+dar muita informação na isso mesmo
+exatamente o desafio é quer dizer eu
+costumo dizer que o
+e há muitos anos celular duas três
+décadas era você tirar informação de
+poucos dados né porque você não tinha
+uma capacidade muito grande a massa dá
+mesmo você não tinha hoje é diferente
+hoje eu desafio você tirar informação do
+número muito grande de dados você tentar
+encontrar padrões aquele volume imenso
+de dados estão fazendo um jogo de vôlei
+você tem milhares e pastas com o jogo se
+tem imagina uma temporada completa nessa
+vai ter milhões de interações ali entre
+eu já né e jogadores entre equipes mas
+mas as análises que eles fazem é para
+tentar campeonato todos deita fácil Pois
+é não tranquilamente mas mas através de
+análises gráficas e e tabelas e você
+tentando encontrar padrões e analisando
+cuidadosamente você consegue encontrar
+encontrar espaço para melhoria e como eu
+falei não é nada né eles
+o modelo de rede neural eu tô fazendo em
+um modelo de celular de saber de Nick
+complexo não sabe é uma coisa que é uma
+coisa que que a totalmente palpável e
+até e na verdade é seu desafio que você
+tem que passar essa informação treinador
+né você tem que transmitir de alguma
+maneira se essa informação para
+treinador dos jogadores Se você passar
+um negócio muito complicado de entender
+se você chegar com um negocinho aqui do
+Cabuloso talvez não sirva para o Né para
+o objetivo lá da do contexto do contexto
+de análise de desempenho tá Então essa é
+uma aplicação que eu gosto bastante
+porque o que aqui no Brasil vou a
+estatística aplicada o rolo e passou a
+ser um negócio assim essencial
+Bernardinho José Roberto Guimarães
+sempre falo que é que é fundamental né
+os times que eles são todas as que ele
+joga aqui nos comentários a galera e
+aquilo neste vários Só que vai ser o
+próximo palestrante aí
+como fazer uma cadeira em em data
+Science ingestão né que ele é head
+hidratação esse da SG a100 o lá ele
+falou o seguinte aqui e áreas da
+estatística para saber quanto tempo vai
+demorar até meu São Paulo Futebol Clube
+ganhar dá para fazer alguma coisa assim
+né tá demorando né mas quem sabe eu ano
+passado eu fiz uma eu fiz uma aplicação
+tá nesse contexto assim né tá nesse mais
+um presente não é exatamente assim mas
+eu fiz uma aplicação que na verdade foi
+a pedido da Veja né A Veja aqui entrou
+em contato comigo e legal e eles pediram
+para eu vou fazer uma análise aqui do
+campeonato brasileiro e tal seja uma
+ideia e aí eu fiz uma análise baseado
+numa uma teoria chamada de teoria de
+valores extremos se calcula porque o
+Flamengo não passado foi campeão com
+várias rodadas de antecedência devo uma
+campanha histórica E aí eu calculei
+assim
+em qualquer probabilidade no dado que a
+gente observou nos últimos anos aí de
+Campeonato Brasileiro qual a
+probabilidade de você observar uma
+campanha tão boa ou até melhor como do
+Flamengo e do ano passado e era bem
+baixo basicamente era você esperaria uma
+campanha igual o melhor que a do
+Flamengo uma vez a cada sessenta e nove
+campeonatos né porque a campanha do
+Flamengo foi a melhor da história dos
+pontos corridos se e assim foi melhor da
+história não quer dizer que não pode ser
+superada mas mais dificilmente ela vai
+ser superado assim né ela tem uma
+procurada lá embaixo e o restante bem
+interessante assim também certeza órgão
+na linha de de de tempo de metros rasos
+não lembro agora a dificuldade de você
+passar né um determinado recorrente né
+Isso é na verdade é o comparei recordes
+assim como ocorre com dinheiro mais
+difícil na
+o e descrição tem alguns que tem wi-fi
+celular 20 30 anos ele ninguém consegue
+bater tem uma dificuldade muito elevada
+então eu fiz essa essa comparação também
+também usando teoria de valores extremos
+não é uma coisa que é uma teoria muito
+interessante assim muito legal que em
+geral a gente não vê na graduação no
+curso de graduação mas mas não é um
+negócio tão complicado não daria para
+ter uma mente tem um curso de graduação
+como uma matéria eletiva assim sabe dá
+para eu uso bastante de Los extremos
+essa nessas aplicações Sport sabe é bem
+legal
+é legal essa nem eu não conhecia como é
+que funciona mais ou menos essa teoria
+assim só para pessoal tem um negócio é
+basicamente basicamente é usada para
+eventos extremos por exemplo terremoto
+na frente extremos é que acontece
+raramente uma chuva muito forte que
+alaga tudo sabe então quer dizer o fato
+de você nunca por exemplo você nunca tem
+observado Ou você tem um celular o
+celular um terremoto A cada 30 anos e lá
+vamos por você tem eventos raros ali e
+você quer prever né você quer prever de
+algum modo o povo que pode acontecer um
+outro terremoto para você Tomás as
+medidas precaução as bebidas precauções
+quando que vai acontecer uma chuva forte
+para eu talvez isso isso até a gente
+pudesse indicar esse os governos aqui do
+Rio né mas você tá dizendo aqui tem um
+pico já era Pois é mas essa essa teoria
+serve para isso para você curte ficar
+eventos extremos que a
+e com alguma Raridade sim e no esporte e
+vamos tipo usando o t de Student que tem
+uma calda mais pesada novas habilidades
+para ver não não não é só o navio foi
+bem assimétricas que a gente usa na
+feira de valores extremos e a gente
+calcula a distribuição dos eventos
+extremos você já são das estatísticas de
+óleo ali no máximo ou no mínimo
+dependendo E essas essas distribuições
+são bem assimétricas as pessoas policial
+uma delas que que é uma dessas
+distribuições mas tem a wybo tem a ter
+uma descrição de uma flasher a Gamble
+também então elas são bem assimétricas e
+é bem interessante até um teorema limite
+central com variáveis com uma versão do
+só cuida para média para máximo que eu
+acho bem interessante que legal esse
+resultado assim e é a base pressa toda
+essa teoria né Assim como que ele
+município é a base para você calcular
+intervalo de confiança até de impostos e
+tudo a esse o teorema
+o teorema de Fisher ficha de repente ele
+ele é a base dessa termine valores
+extremos é uma negócio bem legal se não
+tiver alguém aí que interessado indique
+bastante assim essa maravilha depois
+indica aí para gente Para o material aí
+nessa nessa linha dizem a gente teve uma
+pergunta aqui análise da desconto BR Boa
+noite pessoal Jéssica aqui tem uma
+pergunta você acha que existe ainda
+alguma resistência da comunidade do
+esporte entender quantas análises
+estatísticas podem cooperar com
+resultados e Como driblar essa
+residência com duas perguntas é eu eu
+acho que ainda aqui no Brasil que sim um
+pouco eu assim eu tenho conversado com
+algumas pessoas que estão na área e tudo
+eu costumo usar mais o exemplo do
+futebol que o esporte
+e tem mais visibilidade aqui quando faz
+umas três semanas acho que eu participei
+de um de um programa assim de uma live a
+convite do um patrocinador que que da
+Taça Libertadores da América e eles me
+convidaram para fazer para ser ali fazer
+as análises quantitativas e sabe
+comentários estatísticos e tudo mas lá
+também tinha alguns comentaristas tinha
+uma luz César Pereira que é um
+comentarista famoso né daí SPN e e onde
+estava a presenciar o Danilo o Danilo
+ex-jogado tem tanto menino que joga né
+mas é o Danilo que é o Danilo ex-jogador
+que já aposentado jogando no São Paulo
+jogou no Corinthians campeão da
+Libertadores campeão mundial grande
+ídolo ele se aposentou sua melhor de
+2018 e uma coisa até perguntei pro
+Danilo né você ganhou como você enxerga
+essa esse uso da dos dados essas
+análises no futebol como é que
+e você aí ele falou assim que na época
+dele como jogador isso não faz tanto
+tempo que se aposentou faz dois anos não
+me engano ele tava na ativa há pouco
+tempo ele falou que isso é uma coisa que
+nos fazia muito não nos cursos que ele
+passou isso é uma coisa que não ele não
+observava e que ele observa que hoje
+está mudando Mas então assim a gente
+está falando de um de uma coisa que sabe
+uma coisa assim para carne isso é sei lá
+três quatro cinco anos para trás e aí
+ele já não via essa esse tipo de
+trabalho hoje eu sei que tem alguns
+clubes que se dedicam o Flamengo aí o
+Pedro pode falar melhor né o Flamengo o
+Grêmio e o Palmeiras Atlético Paranaense
+eu sei que são clubes que que já tem já
+tem já tem departamentos que se dedicam
+a isso mas assim ainda tá engatinhando
+aqui no Brasil se a gente for comparar
+com o Estados Unidos e Europa Sem dúvida
+ciência de comparar com grandes clubes
+da Europa entre a menor dúvida que lá já
+aconteceu essa essa
+a mentalidade aqui no Brasil eu alguma
+vez Até conversei com um cara que ele é
+o Victor Vic Liverpool né naquele
+naquele mesmo post né que eu mostrei
+aqui de marshmallow que você colocou
+fala de Liverpool né não Peppa é o
+Liverpool é como se fosse uma uma
+espécie de manei Ball do futebol assim
+sabe porque eles eles também fizeram uma
+abordagem parecida Não exatamente igual
+afinal de contas Liverpool time ricos
+não é um time orçamento limitado do
+outro lado do Beisebol Mas eles eles
+eles fizeram uma análise semelhante para
+ir atrás de jogadores não tão caros não
+tão badalados para formar o elenco que a
+gente vê o último livro é por que foi
+campeão europeu campeão inglês e tudo em
+jogadores que na época que eles
+contrataram não eram os tópicos não eram
+os toque não salah Mané e tudo esses
+jogadores não Eles não é que nem um Real
+Madrid que vai lá e contrata o Cristiano
+Ronaldo não vai ser
+o contrato Neymar é o nível colunado
+tava essa pouco na Doutor não adota essa
+política justamente o técnico do
+Liverpool e alguém coloque ele tem uma
+Larissa desempenho de confiança dele é
+um cara que a do Tony físico inclusive
+ele levou lá da Alemanha para fazer esse
+trabalho e além da sala de contratação
+ele também usa muito na análise de
+desempenho do próprio para melhorar o
+desempenho do time então lá na o livro
+Por exemplo vamos lá melhor pra gente
+tem vários exemplos e aqui no Brasil
+Ainda tá um pouco assim não diria tão
+incipiente assim que já já tem bastante
+gente trabalhando mas a gente ainda
+falta um pouco para chegar no nível lá e
+eu não tenho dúvida que logo isso vai
+vai se desenvolver mais isso aqui é uma
+coisa que tá Às vezes um pouco a gente
+sabe daqui aqui no Brasil às vezes é
+novas ideias às vezes é um pouco só um
+pouco difícil de implementar né demora
+um pouco trabalho quando quando a sua de
+pessoas com
+a passar diferente acaba indo lá para
+fora para ele o Pedrão tá nessa aí
+também ele já tava já tá nessa nessa
+ideia mas alto nível já tá indo lá para
+fora também já tá fazendo o teste lá
+fora a novidade aí Pois é então tem um
+banco de dados do ano de 2019 vamos
+parar ele aí pô o meu que tem aí só
+fazendo Obrigado Jéssica só fazer o
+celestia ele entrou aqui na larga não
+sei se ele ainda tá aí aqui amanhã vou
+fazer uma live com ele então amanhã quem
+quiser assistir aí só para fazer o Jabá
+e que jamais saudade de natação né
+parede natação eu sempre vem com esse
+arranjo Então vai ser amanhã 7 às 9:00
+eu e César Cielo a Live aqui mesmo no
+Instagram né nos nossos peixes
+O que é bom para quem para quem na
+novela tá são só deixou lá e o grande
+campeão olímpico da natação né e a gente
+passou na terça essas lives falando de
+grandes troll grandes lendas e tudo de
+natação não não tem opção estatístico
+aqui né como essa Live mas mas ele
+sempre vem com números e eu né Eu sou
+fanático por isso você peguei com
+franqueza e tentando tirar ver o que a
+gente consegue tirar desses números e
+recordes aí só para fazer o Jabá aqui é
+o Pedro lá na Espanha mesmo já estava na
+Espanha é um
+Que maravilha então cara muito legal né
+e eu já quando você me convidou né para
+fazer aquelas condições né dos vídeos
+dos alunos da em que ela fique
+surpreendido positivamente secador é
+muito fraca legal o dysport né aquele
+também de da música cara fiquei doido
+fiquei doido queria trazer eu não
+consegui adicionar eles lá depois me
+manda o link deles aí pô Ah tá eu acho
+que eu tentei adicionar ele sair para
+chamada também para fazer vídeo lá no
+status lá de ficar essa muito bom né e e
+você e eu já conversei com alguns Alguns
+seus também ele falou você incentiva
+muito né a galera com dados de esporte e
+tal isso é muito maneiro né É legal
+porque assim eu trago os dados assim
+Jesus os mais diversos assim sabe mais
+mas aqui aqui como eu tô muito envolvido
+na área esportiva então
+o cabo às vezes trazendo alguma
+aplicação que teve resultados bem
+interessantes e que eu tô envolvido
+assim aí a um negócio acaba chamando
+mais atenção e aí é os amigos gosta
+porque é um assunto que tem muito apelo
+é um assunto que muita gente acompanha
+do dia a dia né imagina quando quando eu
+falei esse negócio do Flamengo a
+campanha do Flamengo é bom então vamos
+falar com seu amigo uma vez a cada 69
+anos uma campanha começa e sua Melissa
+inspiraram eu só me diz meus alunos
+patrícios Nossa adoraram né então antes
+lava-se com histórico né agora Josi com
+Coincidências estatísticas pois é pois é
+exatamente sempre vai ter um vai ter uma
+para tirar sarro seja seja seja
+é mas é mas é bem legal mesmo
+é muito legal então é queria te
+agradecer aí mais uma vez a gente o
+Instagram que me dá uma limitada no
+tempo né Nós já tava agradecer mais uma
+vez sempre um prazer Nem recebeu aqui né
+parabenizar mais uma trilha pelo
+trabalho que vem desenvolvendo aí se
+também comentário estranho lá no SporTV
+então é muito massa né Muito legal de
+ver um cara que que foi professora meu
+dance né e agora aí comentarista na
+SportTV e disseminado tanto para
+estatística e tal então você é muito é
+um motivo de orgulho aí para mim e com
+certeza para muitos esse anos também né
+então obrigado Mais uma vez né Queria
+que você falasse aí para o pessoal né
+como é que eles começam a iniciar nessa
+nessa área de esportes Analytics né onde
+achar material né então trabalho também
+fala o seu site esportistico fala o teu
+canal certo pessoal já vai seguindo lá o
+canal dele desportista precisa
+o e entre outros trabalhos seus aí por
+favor fica à vontade mestre tá legal
+quero bom é muito legal assim ver ver o
+interesse do pessoal pela área e eu vejo
+que tem um interesse crescente Eu Assim
+se for para porque Vira e Mexe ainda tem
+gente que vem falar comigo pedindo
+sugestões sobre que caminho seguir nessa
+nessa área e tudo né é aquela coisa eu
+costumo dizer que eu costumo dizer
+aquela eu tenho uma frase assim que eu
+adaptei de outras que eu vi assim que eu
+digo que a o sucesso o sucesso não traz
+felicidade e sucesso não traz felicidade
+é a felicidade que traz o sucesso EA
+felicidade que traz um pudesse né porque
+se você fizer ter você aqui aquilo que
+você aquilo que você gosta e você tiver
+a paixão e você tiver a motivação para
+se entregar aquilo e se sentir feliz
+fazendo aquilo sucesso é consequência né
+É
+em seguida consequência e no meu caso eu
+comecei como eu fui nadador e amo
+natação foi esse o caminho que encontrei
+assim de aplicar estatística e tentar
+encontrar os padrões sabe fazer a fazer
+modelagens tentei um livro muito legal
+que eu dei uma vez o livro é sobre
+futebol mas é como é que se chama uso
+não acho que chama aqui é o livro em
+inglês ele não em português eu não tô
+lembrando o título dele em inglês o
+autor não sei que outra frase que você
+pensa aí o Pedro alguém pode mandar ela
+no WhatsApp da gente que tá aí ou tá
+cata você e a galera lá aí a gente tá
+falando pegar tem o nosso grupo lá eles
+e o nome do número não é o autor chama
+David Center que é um proferidor quero
+matemática né o professor de matemática
+daí de Santa Fé
+Oi e ele por acaso não não não não não
+não é aquele tipo de inglês o livro eu
+vou até procurar aqui mas o quanto eu
+vou procurar aqui eu vou falando que
+esse livro ele tem um ele tem um
+é uma parte que ele fala assim que se
+você é basicamente é essencialmente que
+ele fala assim se você tem essa idade
+Por Esporte por só quem Mix soccermatics
+que chama o livro legal soccermatics
+mistura de soccer com mathematics
+mathematics software e ele diz assim
+você tem afinidade com o esporte ou com
+celular com área Financeira ou com área
+da biologia ou com celular com qualquer
+coisa que seja com economia com dados
+meteorológicos qualquer coisa alguma
+alguma coisa você tem afinidade e esse
+você buscar se se você usar esse tipo de
+afinidade que você sente e aplicar
+estatística aplicar modelagem nessa
+nesse tipo de contexto sim é para você
+vai ser muito mais fácil enxergar
+padrões ou tirar
+tu vê aí o que está acontecendo tem uma
+coisa que você sabe a regra do negócio
+né para isso você chega padrão suas pra
+se você quiser também se é exatamente
+Então isso que a gente tá falando
+daquela das grandes vantagens da
+estatística essa possibilidade de
+aplicar nas áreas que a gente tem
+afinidade e e foi o que aconteceu comigo
+né eu comecei a lidar natação fazendo
+aplicações de natação isso e isso acaba
+me ajudando bastante até a a me tornar
+comentarista porque isso se baseia muito
+nas análises que eu faço quantitativas
+mesmo então pessoal gosta dessas
+recepcionados que eu faço e E aí vão
+amanhã uma boa parte das pessoas que vem
+falar comigo se eles têm é natural por
+ser o esporte mais popular do Brasil
+eles têm mais afinidade com futebol vai
+frente né Vai em frente no futebol
+futebol tentando para se explorar nessa
+área seja você entrando ali na celular
+é o seguinte Olha só quem mexe com isso
+é muito interessante tem o que se chama
+os números do jogo também que eu não
+lembro o nome da autora chama os números
+do jogo esse tradução em português
+alguns livros que que são bem bem
+interessante para começar nessa área
+para você ter uma ideia de como as
+coisas estão se aplica com bastante que
+está sendo aplicada E aí você buscar
+artigos científicos A roxa no futebol
+como é que como será que tem como será
+que se analisa a posição dos jogadores
+em campo que técnicas que se usam né
+estatística espacial como é que se usa
+né Tem diversos artigos científicos a
+Inclusive tem um congresso que é o
+congresso internacional do Esporte
+Esporte conferência Analytics a chama
+que ele é realizado em Boston todo ano
+todo ano em Boston desde 2007 e ele é
+gigantesco ele gigantesco quase quatro
+mil pessoas
+e vem crescendo a cada ano tem site só
+buscar ele na no Google e lá vocês veem
+as últimas em geral vocês vem ali o que
+tá sendo desenvolvido no momento assim
+últimos estudos e tal ele tem vários
+trabalhos que são apresentados lá várias
+conferências vários analistas
+treinadores mesmo os jogadores que falam
+dessa análise quantitativa tem muito tem
+muito Deep Lane lá redes neurais e essas
+coisas mas mas também tem outras coisas
+também seria um bom uma boa referência
+assim sabe entrar no site desse
+congresso e ver o que está sendo
+desenvolvido para ir até para saber os
+nomes que os nomes das pessoas que estão
+aí na na área que estão se destacando ó
+é bem legal a gente já falou aqui
+durante né Mas fala aí mestre falas teus
+contatos aí como é que ter sorte acho
+que deve estar acabando aqui do
+Instagram fala tipo de
+o YouTube Instagram né é o esportistico
+no YouTube tem Instagram Instagram ele
+tem um ele tem uma um direcionamento
+para uma experiência é mais
+levantamentos eu não posso no canal está
+te esperando até o Instagram do esporte
+que ele tá meio parado lá mas o mas tem
+um site também o www.tititi.com.br lá eu
+já estou indo só coloco essas análises
+estatísticas tudo que tem bastante
+algumas coisas bem interessantes e acho
+que é isso são esses os meus contatos aí
+tá tudo bom então no Facebook também tem
+o dispositivo no Facebook e no Linkedin
+também tá no Linkedin eu tô eu tô com
+meu nome mesmo não no meu nome meu nome
+pessoa física e no twitter também então
+todas as vezes eu acho que o Daniel
+takata takata lá Daniel tá casa da minha
+isso e muito bem então dá certo se você
+quiser mesmo no Facebook também se
+quiser andar de uma pacata você no canal
+se crítico
+o show maravilha então para Denise e
+mais uma vez não queria Então deixar
+dois recado aqui para o pessoal então no
+primeiro agradeço a presença de todos e
+máquinas assistiram a presença aqui do
+está cada não que sente prazer em
+recebê-lo retirando né E a gente vai é
+quem tiver aqui e o resto da casa
+perguntar convidado a gente vai em
+seguida receber também um aluno aqui da
+comunidade está aqui que é head datação
+esse da cga né E a gente vai falar que
+construindo uma carreira in data Science
+ingestão né então vai ser bem mas também
+né vai ser igual agora em seguida quando
+acabar aqui a gente vai entrar com a
+Live do mestre Wilson abriu tá as
+pessoas da comunidade prática elas estão
+abertas né vão de hoje até sexta-feira
+então já corre lá se escreve né que o
+projeto tá muito legal ele dá uma olhada
+aí que tu link está na descrição então
+fica à vontade tá obrigadão aí
+e volte sempre não e vai levando a
+estatística estatística no esporte em
+estatística para todos e cada vez mais é
+esse universo né de tomar dos melhores
+decisões né baseados em evidências
+científicas em barato né então ela é um
+caminho para evolução né Vamos são do
+país como toda né Pois é Poxa eu queria
+desse Tiago foi aí sensacional
+participar sensacional falar com você
+como sempre agradeço muito convite
+Parabéns também pela pela sua comunidade
+cada vez crescendo mais e eu estou
+acompanhando sempre e Tamo junto sempre
+qualquer coisa aí tá boa disposição
+vamos a gente vai se falando aí a gente
+viu as gracinha né caramba para a gente
+para caramba 19.800 alguma coisa Acho
+que essa semana chega Legal cara legal
+que legal beleza valeu cara manda também
+eu vou
+a tradição os teus contactos também tá
+beleza eu vou começar tudo direitinho lá
+se quiser me mandar alguma coisa também
+eu coloco lá beleza Beleza então de bom
+então valeu valeu galera programa sete
+horas só
+E aí

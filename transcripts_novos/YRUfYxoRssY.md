@@ -1,0 +1,105 @@
+# Análise de Sentimento Twitter  -  Resumo da Série de 3 VÍDEOS
+
+- **URL:** https://www.youtube.com/watch?v=YRUfYxoRssY
+- **ID:** YRUfYxoRssY
+
+## Transcrição
+
+olá meu nome é cleverson trabalho como
+cientista de dados ea convite do tiago
+max do canal estate fisco
+aceitei o desafio de demonstrar o uso da
+linguagem r
+na análise de sentimentos utilizando a
+rede social do twitter aproveitando a
+época das eleições
+vou utilizar como exemplo as menções aos
+candidatos a presidente da república em
+relação a este processo
+portanto as informações de tweets
+obtidas são apenas uma foto do momento
+atual e como já verifiquei estão em
+constantes mudanças
+portanto caso você curte o pacote pode
+ocorrer um resultado diferente do que
+estarei obtendo agora me sinto isso
+vamos ao script utilizar dois pacotes de
+análise de sentimento disponíveis para o
+é o sentimento que utiliza um algoritmo
+em 2010 eo alex com o pt que não tem
+nada a ver com partida mas sim é
+composto de dicionários contendo as
+polaridades de um conjunto de palavras
+da linguagem portuguesa gerados parte
+por listas e partes de forma automática
+por algoritmos the machine lane
+temos aqui três funções
+utilizaremos na classe finn e motion
+plus foi popular e ea biblioteca alex
+com pt e os em alex
+vamos então obter os tuítes referente
+aos nossos 13 candidatos a presidente da
+república estaria obtendo mil twitts de
+cada um deles na linguagem portuguesa
+sem incluir os hits
+vamos então criar aqui um vetor como o
+tamanho de cada um dos twitters dos
+respectivos presidentes
+haja visto que eu solicitei 6 mil twitts
+de cada um mas nem todos tiveram mil
+menções né então tem alguns que não
+estão com a popularidade tão alto assim
+vemos aqui que alguns candidatos tiveram
+poucos
+tudo isso mencionando seu nome e vou
+fazer um barco lote dos percentuais de
+cada candidato
+temos aqui então os candidatos com mais
+menções e os candidatos com menos
+menções
+ok podemos então agora utilizar um
+pacote sentiment onde temos as funções
+classe pai mooshon e classificou o light
+vamos fazer um estourando nós polari na
+pça obtidas para substituir utilizando o
+pacote tuille temos então 1.298 twitts
+negativos 288 neutros e 7825 twitts
+positivos
+vamos então ver nas emoções relacionadas
+às tweets
+vamos criar então gráfico de pizza
+utilizando gg cot e vemos aqui que a
+maioria dos tweets classificados têm uma
+emoção de raiva
+alguns de medo alguns de alegria
+tristeza e bem pouco de surpresa
+feito isso podemos que a nossa o
+workabout com as palavras que mais
+aparecem executando do pacote por claude
+temos aqui então nosso o cloud com essas
+palavras em vermelho planejado são as
+doenças classificadas como neutras
+assembléia verde dos twitts negativos e
+as ruas dos tweets positivos vamos para
+o pacote lexicon pt e vamos obter então
+qual o tweet mais positivo eo mais
+negativo
+tweed positivo
+no tweet negativo
+feito isso vamos então descobrir quem é
+o candidato com menções mais positivas e
+qual o candidato convenções mais
+negativas no twitter fazendo suspense na
+temos aqui que todos os candidatos em
+sua média estão com sentimentos
+negativos sendo que é atualmente a
+marina tenha menos menções negativas né
+temos aqui a escadinha que vai descendo
+e candidato a candidato até chegar a ver
+com isso
+fizemos um estudo de sentimento de
+análise dos tweets
+espero que tenha gostado estará
+disponível então esse script para que
+você possa analisar melhor
+obrigado e até o próximo vídeo

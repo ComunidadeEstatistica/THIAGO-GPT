@@ -1,0 +1,206 @@
+# As 3 Etapas Para um Bi Perfeito - Parte 1 -  Prof. Grimaldo
+
+- **URL:** https://www.youtube.com/watch?v=HbGTfJd-5pw
+- **ID:** HbGTfJd-5pw
+
+## Transcrição
+
+olá eu sou grimalda oliveira e através
+desse vídeo eu quero mostrar tudo o que
+é necessário para que você possa
+construir projetos e visitantes do zero
+aqui nós vamos ver quais as principais
+etapas e os conhecimentos necessários
+para que você possa ser um profissional
+dessa área
+ok eu vou inicialmente me apresentar
+para que você conheça essas minhas
+atividades o que eu faço
+bem eu sou gay mauro oliveira e aqui
+está o meu e-mail grimaldo underline
+lopes hotmail.com onde você pode entrar
+em contato comigo e tirar qualquer tipo
+de dúvidas sobre essa área
+eu sou mestre em tecnologias aplicadas à
+educação pela universidade santa maria
+onde o desvio de desenvolver um projecto
+de visitantes na área de aprendizagem
+dos alunos
+isso no ambiente a lei dentro da
+universidade
+eu sou especialista em análise de
+sistemas pela faculdade 2011 cairo onde
+meu projeto foi na área de mineração de
+dados leno também uma estrutura ligada a
+visitar o estatístico pela universidade
+federal da bahia onde eu aprender até
+amor aos dados
+ou seja foi nesta primeira fase da minha
+vida que eu compreendi o quanto é
+importante trabalhar com os dados
+eu tenho mais de dez anos atuando como
+consultor de beleza sentance nas
+principais empresas no brasil o projeto
+nos governos do maranhão e do mato
+grosso e na bahia hoje especificamente
+trabalho dentro do governo do estado
+desenvolver os projetos nessa área
+o idealizador do blog como papá que
+desde 2010 vem trazendo muita informação
+para as pessoas que querem até entrar
+nesse mundo tão interessante que o mundo
+dos dados
+inscrevi juntamente com um colega de
+trabalho o diego aliás o livro biai como
+deve ser
+onde você encontra tudo que a gente por
+tudo que é necessário para que você
+possa é trabalhar nessa área e
+compreender todos os tops que eu vou
+falar aqui ok
+inicialmente eu vou apresentar uma
+agenda que é para que a gente possa
+perceber o quanto é importante ter
+investimento nessa área e que é
+necessário para que você possa ter um
+objetivo de trabalhar com mesas internas
+eu vou apresentar os principais assuntos
+ligados à construção de um projeto de
+visitante
+eu vou falar o que significa visitantes
+muita gente acha que é uma ferramenta é
+algo que se compra no mercado mas vou
+explicar direitinho
+a gente vai falar de um termo muito
+utilizado está imerso dentro do terreno
+visitantes que é o data house ele
+segmenta eles se quebram em etapas que
+você tem que saber construir uma forma
+eficiente para que você possa tirar
+possa fazer um projeto e representante
+na sua plenitude
+a gente vai falar o que esteja em área o
+que a dimensão o que é fato que é modelo
+de dados multidimensionais e aí a gente
+entra nas etapas de construção do que é
+um da tam e lan house
+eu tenho três coisas para apresentar a
+vocês um levantar dados para construir
+debilitantes com gestores porque na
+verdade a ferramenta
+a ferramenta que você vai trabalhar
+dentro desse conjunto que o visitante
+vai ser orientada para os gestores não a
+gente pretende construir um documento
+chamado matriz necessidades onde você
+levanta todas as informações
+a gente vai fazer e vai trabalhar com
+documento com os dados operacionais da
+empresa do cliente
+o chamado fonte de dados vai criar esse
+documento que é chamada futilidades a
+gente vai ver daqui a pouquinho vou
+explicar isso
+o que é necessário para construir um
+modelo de dados que o modelo nesta área
+conhecida como multidimensional
+importante interessante um modelo que
+traga informações que sejam objetivas e
+que sejam realmente úteis para os
+gestores
+você quando entra nessa área você tem
+que fazer a modelagem diferenciada
+especial e vai fazer isso na prática bem
+ou simplesmente biai não é uma
+ferramenta
+ele na verdade é um processo se você
+notar a esta figura que eu tô exibido
+aqui você tem várias etapas de continuar
+som de um projeto de bezerra em tese
+então na verdade são técnicas e
+ferramentas que possibilitam com que se
+construam uma decisão esta decisão é
+baseada em métricas e valores que são
+extraídas dos sistemas operacionais da
+empresa no processo de visitantes e
+envolve a parte operacional ou seja
+transacionado a empresa está registrada
+em banco de dados e planilhas
+eletrônicas blogs dos arquivos até e
+mails têm informações interessantes que
+podem ser utilizados pelas empresas que
+são automaticamente extraídas através de
+uma ferramenta essa ferramenta
+ferramenta que automatiza o processo
+chamado rtl
+a ferramenta chamada de extração
+transformação em carga que guarda tudo
+no banco de dados
+esse banco de dados é a data em house
+que a gente vai falar daqui a pouco esse
+data em house por sua vez passa por um
+processo de modelagem multidimensional
+onde se prepara os seus dados para ser
+exibido aos gestores
+os gestores estão aqui na última fase
+desse processo
+na verdade visa sentance envolve uma
+estrutura grande se eu estava vendo que
+não é uma ferramenta que segundo mercado
+ou seja você tem e estruturar a sua
+passagem dos dados operacional até
+chegar o gestou envolvem conceitos desde
+monitoração administração disso pós
+implantação até conceitos mais amplos
+como de big data
+na parte de predição de dados e não
+trabalha com grandes volumes
+então uma coisa muito interessante uma
+coisa que está presente na maioria das
+empresas de mercado e que é tão bom que
+você saiba que isso é usualmente
+utilizado por todos
+então o visitante é um processo e não
+uma ferramenta separada de 2007 eu vou
+circular aqui pra que você perceba
+é o data warehouse nota house é um
+armazém de dados ou seja um banco de
+dados
+e esse banco de dados ele é integrado
+ele é consolidada ou seja aqui no
+operacional da empresa você tem diversos
+processos estão separadas em sistemas em
+arquivos e você pode unir
+sem uma base chamada data e house essa
+base
+ela vai ser se ele vai servir de fut
+única de acesso pelos gestores
+então passa se uma modelagem
+hemodinâmica uma modelagem especial para
+que os gestores possam localizar os
+dados que uma vez estavam separados
+dentro da operação nem player
+então a gente tem que saber como é que a
+gente constrói se projecta também round
+eu tenho alguns etapas para montar a
+primeira etapa para construir um projeto
+de bi a ai e fazer a construção do data
+warehouse e montar o que chama de
+estagiária ou área auxiliar essa área na
+verdade é uma carga que a gente faz do
+operacional da empresa através da
+ferramenta de extração de dados e grava
+numa área que a gente chama de área fria
+o auxiliar porque isso porque na leitura
+dos dados
+as empresas geralmente não cedem espaço
+para que você possa ficar puxando dado
+operacional porque você tem cargas que
+são executadas nacionalmente como por
+exemplo conta corrente de um banco toda
+hora conta corrente ele está sendo
+alterada sendo modificado não
+necessariamente as empresas permitem
+isso então para não para não impedir a
+construção de um projeto de bi ae
+o que acontece é que cria uma área

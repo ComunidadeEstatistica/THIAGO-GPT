@@ -1,0 +1,56 @@
+# Depoimento  Moisés - Comunidade de Estatística do Prof. Thiago Marques
+
+- **URL:** https://www.youtube.com/watch?v=dRhjsrV7siM
+- **ID:** dRhjsrV7siM
+
+## Transcrição
+
+e é bom dia meu nome é moisés e sou
+formado em administração microsoft
+office alice em excel tá é
+e eu tô comecei a estudar estatística
+com o tiago no está te dava e assim é
+uma experiência diferente que eu te no
+dessa troca de conhecimento quem tá
+transmitindo ele é um ótimo mestre tem
+uma didática é excelente ele tem
+contribuído para o meu projeto de vida
+né eu quero ver o cientista de dados mas
+é necessário interditar física é
+necessário compreender melhor esse esse
+mundo dos dados porque não é só e criar
+um gráfico e mandar o cliente ou certo
+interpretar então assim eu trabalho com
+a estela mais sete anos e sei que
+quantos dados são importantes para uma
+informação ser verdadeira e relevante
+eu e o thiago com conhecimento que ele
+tem estatística com tudo aquilo que ele
+tem transmitido para mim durante o curso
+está sendo fundamental para o
+crescimento para minha melhora ele é
+muito ele está sempre disposto a atender
+você responde suas dúvidas coloca
+realmente a gente para pensar e analisar
+o nosso trabalho e como ele está de
+forma prática sabe as aulas é baseado na
+prática realmente a cidade não
+estatística qualquer é uma estatística
+baseada na prática então assim o thiago
+só tem a contribuir para mim para minha
+vida profissional eu agradeço muito a
+tiago para estar te dado e aí né é
+e eu quero convidar você também a fazer
+parte desse desse grupo com a gente de
+aprender mais o conhecimento que o
+thiago tem de estatística o que ele tem
+a dar é oferecer para sua vida
+profissional e também para nossa porque
+o todo o conhecimento também você pode
+compartilhar lá no grupo são pessoas e
+pessoas diferentes estados do brasil
+compartilhando experiência compartilhada
+no novidades e esse é uma experiência
+única e contato então assim convida você
+a fazer parte também dessa família está
+acordado

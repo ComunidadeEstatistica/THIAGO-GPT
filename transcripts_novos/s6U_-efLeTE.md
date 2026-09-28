@@ -1,0 +1,89 @@
+# Homenagem dia das mulheres e a Estatística no esporte -  Prof. Gabriela Machado
+
+- **URL:** https://www.youtube.com/watch?v=s6U_-efLeTE
+- **ID:** s6U_-efLeTE
+
+## Transcrição
+
+e aí
+oi e o vídeo de hoje vai para mulheres
+todas do esporte e algumas atualmente da
+estatística
+e aí ela usa um brinde
+é patrocinado pelo nosso vinho africano
+que nem sabe quem é mas enfim
+e eu vou precisar de uma cola porque são
+livros por ordem histórica
+eu estou mar resíduos
+a maratona foi a primeira modalidade que
+uma mulher lutou para participar e ela
+participou muito bem é nós tomar a rave
+oi alice myriam
+e fundou a federação esportiva feminina
+internacional que passou organizar
+supervisionar e estabeleceu regras para
+o esporte feminino em é nós alice emilia
+o maria lenk e aos 17 anos de idade foi
+a primeira sul-americana a participar da
+olimpíada e
+oi marilene on
+e ainda dos santos que muita gente não
+conhece mas foi a primeira mulher
+brasileira a disputar final olímpica e
+ela era a única mulher na delegação
+brasileira dessa olimpíada
+e ela é [&nbsp;__&nbsp;] e ainda por ter final
+e aí
+e ainda dos santos eu já falei dessa ao
+vivo opa desculpa
+e em 1996 jacqueline e sandra foram ouro
+em atlanta mais mais do que o ouro em
+afronta elas fizeram a final com outra
+duplas brasileira e detalhe era estreia
+do vôlei de praia naquela olimpíada
+as mulheres [&nbsp;__&nbsp;] e poderosas
+a receber alguma mais recente daiane dos
+santos
+o primeiro ouro em campeonato mundial
+[Música]
+marta cinco vezes melhores melhor do
+mundo e mais uma coisa melhor do que
+neymar podem me julgar
+a e por último nessa parte de esportes
+tem a rafaela silva que foi a primeira
+medalha de ouro olímpica nas olimpíadas
+de 2016 aqui no rio de janeiro eu sei eu
+tô com uma altura e lê né mas tudo bem é
+o que conta e agora um brinde para
+mulheres estatísticas [&nbsp;__&nbsp;] em que eu me
+inspiro para ser uma boa estatística a
+primeira mulher assim está diz que eu
+conheci foi a dóris
+e ela participou de uma semana da
+estatística lá não frn e foi a primeira
+vez que eu vi a estatística de uma forma
+didática de mim forma lúdica então dores
+é um brinde é você
+e ainda não é ferry ele eu conheci duas
+professoras incríveis jolly jolly line e
+carla
+o mano quem pagou matérias com elas
+sabem
+é um brinde a vocês entre tantas e não
+menos importante tá aí medida
+estatística quem eu quero ser pelo menos
+dez porcento do que ela é
+eu não sei se vocês sabem que ela não é
+e eu realmente fico sem palavras para
+falar dela adriana eu vou até tomar o
+vinho todo
+e aí
+se você é [&nbsp;__&nbsp;] demais
+o que é isso
+olá mulheres esportistas de
+engrandeceram demais as estatísticas
+e a dos esportes brasileiro mulheres de
+estatísticas que
+e engrandece demais o mundo está disco
+mulheres é isso parabéns para nós
+e aí

@@ -1,0 +1,130 @@
+# Truque de performance usando Pandas - Fillipe Dornelas
+
+- **URL:** https://www.youtube.com/watch?v=reVyDpK4d0I
+- **ID:** reVyDpK4d0I
+
+## Transcrição
+
+foi o filipino nelas eu vou te dar uma
+dica aí de como obter uma performance
+melhor uma funcionalidade do pandeiro é
+foi um pouquinho de mim eu sou consultor
+e organizou também né é brasil
+anders é uma biblioteca para a
+manipulação e análise de dados está
+pessoal
+quando a gente quer interar sobre os
+itens né
+imagina que panda ele vai te fazer com
+mais ou menos o que o excel faz a gente
+dá linhas e colunas de dados já seis
+linhas e colunas e você tem formas de
+terá sobre a higiene percorrer é essas
+listas de valores aí que estão dentro
+deles
+uma delas é usando enterrou os outro é o
+index eo loc eu ter pelo pai existem
+outras formas também mas essas aí são as
+mais comuns está o bom quais dessas tem
+maior performance será que todas elas é
+são iguais
+não sei vamos ver aí agora tá bom
+tenho aqui é um pan das já está saciado
+carregando o da série de reveses do imdb
+a em português também é só para mostrar
+para vocês aqui ela tem 49 mil linhas na
+49 mil registros
+com quatro colunas
+nós vamos aqui fazer o primeiro teste
+com a função e terrores nada mais fácil
+do que é interar sobre cada linha ali
+dentro de um forte e estou fazendo isso
+e incrementando o computador pessoal
+cada valor que passar por aqui eu vou
+incrementar mais um mais um mais um é
+resultado no final você vai passar por
+todas as linhas o resultado tem que
+bater com esse aqui tá bom então vamos
+lá
+eu acho que é isso que indica que está
+executando tá executou e demorou 3.83
+segunda só pra fazer isso tudo aqui o
+preço e quantidade total da
+incrementação do contador de 40 9.459
+bateu na bola bateu e fez questão também
+de separar cada computador com o nome
+diferente pra ter certeza que
+onde está enfim interferir no amor tá
+então no segundo aqui agora está usando
+df index
+ele vai em todos os os indexam é o cada
+posição absolutamente é cada posição
+dessa o uso do f1 rocks para pegar o
+conteúdo dessa coluna aqui eu não faço
+nada com isso aqui é só pra ter certeza
+que estou acessando lá o conteúdo da
+coluna e depois incrementando tá então
+vamos lá
+olhe já executou ele foi muito rápido e
+fez isso em 312 milissegundos e
+novamente os valores estão batendo então
+realmente ele inteiro e todos esses aqui
+e incremento do computador e por último
+é que a gente tenha df applied apply ela
+tem uma forma diferente está eu não
+preciso sair escreveu essa função para
+interar sobre todos eles mas eu escrevi
+pra vocês verem como é que faz também a
+sintax né você é você pode fazer sem a
+coluna vai fazer com toda esta frei mas
+aqui escolheu a coluna né
+e fiz o pai ele vai fazer a interação
+sobre cada item da coluna no e para cada
+item desse eu chamei de xis aqui não fiz
+a função zona lambida e passei isso para
+dentro da função que a gente definiu e
+dentro da função é que eu uso a variável
+contínua para ser implementada foi até
+diferente aqui pra ter certeza que
+estava funcionando
+e aí o resultado tem que ser para cada
+um desses ele vai chamar tem uma
+variável global que é incrementar dentro
+dessa função
+vamos executá lo já que ele é muito
+rápido e ele fez isso e 29 pontos cinco
+segundos
+tá ele é muito rápido mesmo olha só de
+29 que nem foi segundo desculpa 29
+pontos 5 milissegundos de 29.5
+milicianos para três pontos 83 segundos
+é isso aí é um por cento do tempo que
+demoraria né
+é bem pouco mesmo é e vale a pena assim
+a gente entender aonde que isso é melhor
+aplicar às vezes a gente está com pressa
+vai lá em terroso e às vezes até 7 é tão
+grande que se imagina seguinte tivesse
+copa
+isso aqui é mil vezes só abre esse
+arquivo e vai demorar a cada 12 mil
+vezes 383 segundos sendo que nem se
+usasse essa daqui é nas mil vezes eu ia
+demorar quase a mesma coisa que é pra
+cada um deles se sabe
+então assim é uma grande diferença é
+vale a pena aprender sintáxi do apply lá
+que o mais recomendado em que se você
+quer velocidade tem algumas restrições
+em algumas coisas e ele é ótimo e é
+muito bom viu é bom foi isso eu agradeço
+é todo mundo que participou aí e espero
+que tenha sido muito útil para você essa
+dica é também faz sentido se você achar
+comenta e dizendo o que você achou se
+você tem uma forma melhor de fazer e
+também se você quer ver novas dicas faz
+fala isso esses vai ajudar você gosta em
+muitas outras dicas para nós aprendermos
+tá bom
+muito obrigado e até a próxima

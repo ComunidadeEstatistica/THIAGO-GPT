@@ -1,0 +1,197 @@
+# Medidas de erro em problemas de Regressão - Prof. Danilo Morales
+
+- **URL:** https://www.youtube.com/watch?v=_iQCfh799-U
+- **ID:** _iQCfh799-U
+
+## Transcrição
+
+e amigos a mais um vídeo do meu canal
+hoje eu vou falar sobre medidas de erros
+um problema de regressão regressão tem
+vai ver aqui na direção e gostam são um
+deus diferente avalia acurácia
+consciência do nosso modelo de forma
+diferente então hoje eu vou colocar aqui
+na descrição que apresentou a gente está
+uma reta eu tinha um poder bom enorme
+são de agressão né então vamos lá até
+hoje mais nada começar com vários vídeos
+eu tenho camisa leque o pai então
+coloque danilo onde você pode entrar em
+contato um outras pessoas que cortei no
+canal comigo com tinha algum problema
+schiller em alguns dos vídeos alguma
+dúvida tem medo de rami com qual isso
+que eu tô utilizando aqui no meu canal o
+e-mail entre em contato comigo por
+exemplo para conferir temas que se passa
+à vontade para mandar um e-mail você
+puder eu respondo sempre
+a página no facebook né que fazem parte
+aqui tá sempre postando atualizações são
+tão próximos vídeos então eu vou falar
+aqui hoje aqui é um erro absoluto médio
+médio a gente quadrático médio e que a
+raíssa erro quadrático médio em rua
+logaritmo quadrático médio e só pra
+gente conhece mas é interessante e a
+raíssa vai jogar estão quadrático médio
+e também roupa sua também já vou
+conversar com ele então mais simples
+quanto outro médico que eu gostei
+bastante aqui de maio que ao mínimo
+possível no inglês é a medida da
+diferença entre duas variáveis contínuas
+ou seja aí que uma valores reais e y os
+valores previstas um determinado de
+vidro mas é distância vertical média
+entre os pontos o mais a mesma escala de
+medida dos lados por exemplo a gente
+história em metros com mais amizade
+renasce metros se for celular litros até
+litros assim vale a mesma medida dos
+seus valores então por exemplo a seguir
+e eu quero dizer porque você tem um
+ponto e mais uma reta bem simples não
+estou de uma reta no pontos então é a
+distância da reta que passa aqui ó modo
+de proteger loteria isso para cada um
+dos pontos então o mar vai se a soma
+dessas alturas aqui né
+em colatina somatória do valor real
+menos o valor previsto em módulo está
+dividido pelo número de elementos deve
+até a média o valor médio
+bom então mas é porque tem um valor de
+valor aleatório copiem com o valor
+previsto tá minha diferença entre eles
+bom então somar eles na 0.14 essa tomar
+esse valor 0.14 eu tenho cinco anos não
+menos aqui então ele por cinco então uma
+marquinha ponto zero 28 sim a gente
+comparar a marca os valores até que é
+muito pequeno
+bom então o erro absoluta mede
+percentual calma aí que tem que falar né
+então em inglês ele fica acurácia dos
+horários previstos para determinado
+modelo da semana quanto mais só quero
+dividir para o valor tem isso
+e aí eu fico por 100 porcento tá para
+ter o caso o valor se eu fizer isso aqui
+ó é bem simples só como ele é o outro
+ele colorido ó pode ver pequeno então
+calcular aqui o anteriormente sem por
+cento cinco vezes é somatória 0.06 021.3
+por cento eu tenho ou seja tem um erro
+outro de um controle por cento bem
+pequeno né vamos ver aqui
+e não é meu modelo tem uma boa por isso
+não pode para coloque cada um é definir
+qual a margem que considera intolerável
+o motor dele previsão de agressão tem
+por cento 10% fica a critério de quem
+está desenvolvendo um modelo tá ficando
+ele com o erro quadrático médio estamos
+mais utilizados em ciência de dados que
+tu vier alguém parece que o médico ou
+conhecia como utilizando aqui que
+alumínio error permaneça quadrante entre
+o valor real e valor previsto era sempre
+positivo tá porque a contar o quadrado
+então se você quiser opa negativa
+positiva a diferença você sempre quando
+eu tive o quadrado quanto mais próximo
+de zero melhor sempre não quer dizer
+aqui no modelo tá curtindo melhor ele
+incorpora variância ou seja com as
+palavras acima ativas estão dos dados
+verdadeiros precatório bagas ou seja o
+quanto antes valores médios estimados
+estão dos valores verdadeiros as bem o
+termo utilizado
+é importante ele canaleta mais os
+valores mais afastados os valores reais
+com ele leva em consideração mais porque
+se alimenta afastados né na minha reta
+parecendo ajudei ele tem interessante
+aqui é bem bacana parecido com mãe só
+que o caso vai ter o quadrado né então
+qual você é semelhante como colocar
+forro da somatória do valor real menos o
+previsto ao quadrado ele por ele até a
+média com a bem simples também um
+continuar aqui ó então o meu valor real
+valor previsto a diferença entre o
+quadrado quando se eu colocar na equação
+da minha filha na somatória o pronto
+então somar esse cara aqui ó quadrados
+da ponto-017 25.003 44 então é bem
+pequeno
+e o que que a raíssa quando ela de
+comédia é a raiz do eu não sei o passar
+com rms ou times square pavor inglês é
+uma bacia dentro de uma raiz quadrada
+acho que vai dar um valor tão com
+realmente melhor eficiência no modelo
+igualzinho perguntados por causa do
+senhor tem uma raiz quadrada
+ah tá então não é ruim assim aqui vai
+ser ponto zero cinquenta e nove só falta
+lá no bairro não tem gente avistou que
+ele era ponto zero 28
+bom então a gente vai ver que eu rms
+esta
+o marco dobro não seria melhor por lá
+realmente comecei a procurar o modelo
+quanto muito importante introduzir mas
+não é conhecido mas eu preferia aqui tá
+falando hein o logaritmo quadrático
+médio msn qualquer pessoa ligação
+e na medida da razão entre os valores
+reais previstos comece ali e se importa
+apenas com a diferença percentual ele
+transferência pequenas e grandes da
+mesma forma se manter a gente importante
+e penaliza mais os valores estimados do
+que o superestimados 32 uma assimetria
+na curva de erro corre definida dessa
+forma tá um cálculo de nome do de valor
+real mais um menos o blog eu coloquei
+visto mais um esse é o quadrado tá esse
+valor aqui passa soma e divide pelo
+número de elementos até o valor médio
+então essa mulher tão complicado aqui um
+casal x ou y é o valor previsto então
+calculando umas horas caso aqui ó e
+lembrando claro ensino médio eu posso
+permanecer um lágrima divisão logo ele
+com mais um vídeo equipam previsto mais
+um ataque
+e vamos valores iva da quadrado eu tenho
+esses aqui são todos esses caras vai
+deixá-los bem pequeno ele importante
+quanto que eu tenho de contas não dá
+quantos anos tem 10 32 pequena bem que
+quer e eu tenho a raiz para o erro
+logaritmo quadrático médio então o rms
+ele é raiz quadrada da equação anterior
+nem sempre ficar do mesmo caso anterior
+eu tenho aqui da minha tr msl é é falta
+uns 017 oi tudo bem eu quero só
+e não deixa os vídeos aplicações onde o
+controle está estudando até casar e kit
+lá no quarto e como é que você pode usar
+o cara um deles vocês verem como assim
+aqueles que lidar com esses caras
+entender como fazer seu marido ok bom é
+isso se você gostou desse vídeo deixa
+seu like curta do canal para você
+continuar servindo baixar fazer logo
+vídeo tá bom colocar na mesa assim que
+possível toda semana vou colocar mais um
+vídeo esse é dúvida pode mandar um
+e-mail aqui vou deixar um comentário no
+vídeo e se fosse eu respondo só
+sugestões comentários e dúvidas tá bom é
+isso obrigado gente até o próximo

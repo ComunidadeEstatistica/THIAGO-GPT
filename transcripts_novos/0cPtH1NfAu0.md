@@ -1,0 +1,672 @@
+# Aula 12 - Noções de Amostragem e Estimação - Estatística (Versão Mobile)
+
+- **URL:** https://www.youtube.com/watch?v=0cPtH1NfAu0
+- **ID:** 0cPtH1NfAu0
+
+## Transcrição
+
+fala galera tudo bom com vocês
+essa é a nossa aula cinco tá do nosso
+curso vai ser sobre noções de
+amostragens formação
+a gente falou na nossa última aula das
+probabilidades dez variáveis de
+contínuas né
+e a gente acordou aí a exponencial
+uniforme continua normal tá é todas as
+distribuições aí contínuo
+algumas delas não foram abordados mas a
+gente vai abordar em teste de hipóteses
+e e intervalo de confiança então podem
+ficar tranqüilos aí quanto a isso
+beleza todas que eu achar pertinente aí
+a gente vê dentro do do edital do da
+área fiscal
+a gente vai estar aguardando um ok então
+vamos começar aí a nossa linha de noções
+de mostrar de estimação
+então galera primeiro vamos entender
+alguns conceitos básicos e definições
+que são pressupostos para que a gente
+comece a entender esse processo de de
+amostragem estimação conceitos básicos e
+definições população é o conjunto de
+todas as observações que estamos
+interessados em estudar pesquisar tá
+como a gente viu é não é o tamanho
+populacional tamanho populacional tá
+quando a gente fala em amostra a gente
+fala henin está notação é importante
+a mostra é um subconjunto da população
+então você pode entender esse é o nosso
+conjunto de interesse é o que a gente
+está interessada em estudar pode ser por
+exemplo uma turma de alunos está e só
+selecionar somente alguns alunos dessa
+turma
+eu tô pegando um sub-conjunto do meu da
+minha população
+isso a gente chama de a mostra o censo
+exame de todos os elementos da população
+então quando eles a mim todos os
+elementos contidos na minha população eu
+faço um senso
+tá erro amostral é a diferença
+resultado amostral eo resultado
+verdadeiro populacional porque sempre
+vai ter um astral porque a gente tá é
+partindo de uma idéia macro uma ideia
+micro a gente está tentando entender a
+população através de uma mostra então a
+gente está tentando buscar uma amostra
+representativa da população de forma que
+eu tenho o menor eu vou mostrar possível
+ou seja que ela seja representativa e
+com isso eu eu reduzi a minha realidade
+mas eu estou reduzindo de forma que seja
+satisfatório tá eu estou representando
+uma população tá então a gente sempre
+vai ter um réu mostrar o que a gente
+está reduzindo nossa realidade está tão
+parâmetro alvo quantidade populacional
+desconhecida na qual temos interesse
+então a gente quiser estudar a média da
+população tá aí por exemplo a média de
+uma turma a média de altura dos alunos
+de uma turma vai ser o nosso parâmetro
+está é uma quantidade desconhecida da
+população de interesse amostragem
+conjunto de técnicas para selecionar uma
+mostra da população com o objetivo de
+obter informações de uma ou mais
+características de interesse scott
+permita chegar a conclusões a respeito
+dos parâmetros
+então eu não vou fazer não vou pegar
+minha população toda da tuna pode ser
+uma turma gigantesca no caso da turma
+até tranquilo
+agora se a gente pensa na população
+mundial
+a gente não vai pegar a população
+mundial todo que para calcular a média a
+gente vai pegar uma mostra dessa
+população representativa de forma que a
+gente chegue a uma estimativa bem
+próximo do meu parâmetro populacional do
+meu verdadeiro parâmetro populacional
+correta legal então ó suponhamos que
+desejamos estudar a altura média dos
+alunos em uma sala de aula com 300
+alunos
+a iacc quem vai ser a nossa população
+todos os alunos na minha sala de aula
+certo estão todos os alunos a minha
+população
+a mostra alunos selecionados da
+população por uma técnica de amostragem
+aí pega um sub-conjunto daquela
+população ali que são alguns alunos
+daquela turma daquela sala de alta
+parâmetro alvo pode ser o chico x barral
+ou a altura média dos alunos na
+população logo a gente vai chamar de mim
+tá me é o mais correcto tá as técnicas
+de amostragem podem ser divididas em
+dois tipos de amostragem probabilística
+ou casuais e não probabilísticas ou não
+caso ache ou pode chamar de casuística
+também não casuística tá também tem essa
+nomenclatura
+vamos falar primeiro deste problema e
+probabilísticas todos os elementos
+possui uma probabilidade de inclusão
+conhecida e não nua e as probabilidades
+seleção das amostras são possíveis de
+serem calculadas então uma
+característica das probabilísticas é que
+a gente vai ter a probabilidade de
+inclusão conhecido e não nunca tá pra
+todos os elementos da população você tem
+que conhecer a probabilidade da inclusão
+dessa nesse elemento tá
+e seu eu vou ter que saber também a
+seleção selecionar todas as amostras
+possíveis
+a probabilidade de seleção dessas
+amostras está aqui exemplo amostra
+aleatória simples amostra sistemática
+mais praticada amostragem o conglomerado
+a gente vai ver cada uma delas está hoje
+não probabilística saltar ou não caso
+ache em geral elas possuem o objetivo
+está um juízo de valor na escolha de
+elementos amostragem dependem de
+critérios de julgamento e do pesquisador
+tá exemplos amostragem por conveniência
+amostragem por cotas amostragem
+intencional ea mostrarem voluntária
+vantagem das amostragem probabilística
+gente consegue ter uma estimativa de
+precisão porque as não proíbe lixões
+como mas tem um julgamento de um juízo
+de valor
+você acaba tem tendenciando tem não você
+tem você cria uma tendência tá aqui
+a estimativa de precisão imagens de
+erros
+consegue calcular probabilística já mas
+não probabilísticos a gente não tem
+idéia da margem de am e na estimativa de
+precisão porque a gente não tem ali uma
+área tori da aleatoriedade entendeu a
+gente não consegue garantir essas
+propriedades está então vamos lá
+a amostra aleatória simples primeira
+técnica de amostragem que a gente vai
+ver
+consiste em uma técnica de amostragem de
+todos os elementos possui e que
+probabilidade e que isso é a mesma
+probabilidade de pertencerem a um astra
+todo mundo vai ter maior probabilidade
+que pertence a mostra está é uma das
+técnicas mais simples de amostragem por
+quê porque ela consiste em você você
+quer fazer um sorteio tá tem sete
+pessoas
+aí você quer sortear duas delas está
+você vai colocar o nome dela num saco e
+vai tirar o nome do primeiro nome da
+segunda bem está tirar o sapato então é
+muito simples você consegue pegar e
+fazer isso com qualquer coisa aqui é tem
+dois tipos da amostra aleatória simples
+com reposição e sem reposição
+a gente comenta um pouco na primeira
+aula mas aqui a gente vai destrinchar
+mais o quê que essa é uma estratégia com
+reposição é aquela na qual você tirou o
+nome do saco e colocou de volta
+tá então com isso você vai fazer com as
+probabilidades fiquem constante de
+extração é incerta
+as distrações não ser com é com
+probabilidade constante beleza
+a gente estudou lá em binomial lembra é
+palavra chave é isso aí
+o elemento que foi retirado e colocado
+novamente para o sorteio não se
+alterando espaço amostral então não
+estou esperando mais possa mostrar
+porque o pé me coloca de volta então meu
+espaço mostrar nunca vai mudar
+exemplo colocar o nome de várias pessoas
+em uma sacola e realizou o sorteio com o
+nome das pessoas uma vez que é retirado
+o nome
+esta volta para o saco para o evento não
+só tem então tirei botei de novo depois
+são os elementos que o elemento que foi
+retirado não é colocado por um novo
+sorteio
+então eu tirei o primeiro e não vou
+repor ele e vou tirar o segundo
+então eu tirar o segundo minha mãe
+espaço amostral já mudou porque eu já
+tirei o primeiro então meus pais a mesma
+probabilidade não estão se mantendo
+constante elas estão mudando tá então ó
+exemplo colocar o nome de várias pessoas
+na nossa cola realizar um sorteio com o
+nome das pessoas uma vez que a retirada
+do nome
+este não volta não volta para o saco
+para um eventual novo sorteio tá
+vantagens e desvantagens vantagem é que
+é muito simples você concorda comigo que
+fazer esse sorteio é bem simples pode
+fazer de qualquer forma pode olhar excel
+jogava aleatória e fazer
+tá possibilidade de estimação
+estimativas não viciados de explorar
+esse interesse
+só que a gente vai trazendo que são
+propriedade de de de um bostinha d'orta
+desvantagens requer cadastro prévio da
+população então eu tenho que saber
+amanhã eu tenho que ter um cadastro na
+minha população tem todo mundo
+cadastrado ali pra fazer esse sorteio
+tá custo elevado porque eu tô pegando
+todo mundo eu pego lá o nome das pessoas
+e coloca dentro de um saco e eu vou
+sortear então eu tô pegando toda a minha
+população
+por isso eu vou em correr em custo
+então isso vai ficar claro está apesar
+delas e é a mais simples
+ela também é mais gostosa aqui tá
+amostragem sistemática agora é um caso
+particular da amostra aleatória simples
+tá onde os elementos estão ordenados de
+que forma a gente vai escolher um número
+r entre 1 e catar
+vai ser uma agente vai chamar de partido
+aleatória e o carro assim nada mais do
+que eu
+o e não que a quantidade da população
+dividido pela quantidade da amostra
+tá é não sobre nem cá igual cá é igual e
+não sobre o rio r será denominado com a
+um partido aliado
+para ele o primeiro
+a mostra está então vamos supor que eu
+escolher entre um e quatro e só eu só
+tirei saiu 2
+tá mas o do segundo elemento da mostra
+ordenada
+vai ser um elemento que vai vai ser o
+primeiro elemento do da mostra
+então vai ser assim ser aquele aderaldo
+que possui a mesma posição o segundo
+pertencente à mostra o sr mas cá eo
+terceiro r mais 2 km o terceiro quarto e
+assim por diante vai ser uma pea de
+razão k ta tauá último vai ser r machine
+- um vai ficar ok
+vai ser uma perda de razão tá mais e rr
+mais cai mas dos caiuás 3 capita
+um exemplo aqui ó parece complicado mas
+a gente vai ver que é bem simples não
+queremos uma amostra de mil fichas
+dentre uma população de 5 mil tô eu não
+ele falou que a 5.000 população 5 mil
+'tá' ele quer uma mostra então eninho é
+igual a mil
+o nosso carro é quem e não sobre nem 5
+mil divididos por meio da cimpor cardeal
+cinco então eu vou sortear um número
+entre 1 e 5 tá que a gente vai chamar de
+partido aleatória feche
+vamos supor que foi feito o sorteio e
+saiu número dois então será o segundo
+elemento que vai pertencer a mostra vai
+ser o primeiro o primeiro elemento vai
+ser aquele cuja posição é a segunda tá
+aqui portanto a primeira ficha apeteceu
+mostra a segunda a segunda ficha
+pretensão mostra será r mas cá então a 2
+o caio 45 então a próxima quer 7 ea
+próxima mas 5/12 mais 5 17 e assim por
+diante até quando até r mais ou menos um
+carro enquanto que é isso
+werre quanto o que a gente viu dois mas
+n é miu miu - 1999
+vezes ka ka é quanta 5
+se a gente fizer aí vai dar 4 997 tá
+então é sempre isso vai ser o periódico
+tá em de karen kahn vai ser r machucar
+r mas deve ficar em r mach3 car e assim
+por diante
+tá essa característica da nossa amostra
+sistemática tá vantagem da mostra
+sistemática maior agilidade na execução
+está se a população for o mogiano em
+geral possuem maior eficiência ks ou
+seja esses elementos na da minha
+população ela eles forem muito parecidos
+entre si
+a mostra sistemática ela é bastante é
+mais eficiente do que a amostra
+aleatória simples está em desvantagem
+também requer um cadastro prévio e nem
+na amostra aleatória simples também
+reclama que você tem um cadastro da
+população pra você tá poder ordenar e
+escolher se a população não é homogênea
+tem menos eficiência que assentam os
+seus elementos eles são muito distintos
+entre si
+a variabilidade é muito grande então vai
+ter essa desvantagem que vai ser pior do
+que a amostra aleatória simples tá vamos
+agora mostra estática amostragem
+estratificada tá uma técnica de
+amostragem utilizada quando estamos
+determinando como estamos trabalhando
+com populações heterogêneos e consiste
+em dividir a mesma em extratos
+subconjuntos mais homogêneo dentro e
+heterogêneos entre eles
+então o que acontece eu tenho 11 uma
+população tá aqui é muito heterogênea
+seus elementos são muito distintos entre
+si e então é intuitivo você pensar que
+se eu pegar uma coisa macro que é muito
+heterogêneo e dividir ela e extratos que
+são muito parecidos entre si ou seja só
+um subconjunto sair da minha população
+muito parecidos entre si
+é natural que eu consiga
+uma melhor estimativa do que eu
+trabalhar com esses elementos totalmente
+heterogéneos está então essa é nossa é a
+nossa motivação para a gente fazer
+a estratificação tá é você traduzir a
+sua população heterogênea em extratos
+que são mais homogêneos dentro e entre
+eles são os mais heterogêneas possível
+para ter bastante representatividade
+para espalhar bem só nós tá então
+extrair de cada estátua mostra
+independente com tamanhos prefixados com
+o objetivo de melhorar a eficiência
+gerando um aumento de representatividade
+não acho que eu falei vai espalhar mais
+à mostra motivação e vantagens menor
+custo e maior operação na biblioteca
+essa finalidade que a esta porque porque
+é menos custoso porque quem está fazendo
+a gente está pegando as estradas e
+fazendo a mostra independentes com
+tamanhos pré fixados
+então a gente não vai trabalhar com
+conto com todo o extrato
+a gente vai pegar ali um é uma mostra
+daqueles daqueles extrato está legal
+então com isso a gente consegue diminuir
+o custo a gente vai trabalhando com
+menos com menos informação ao aumento da
+representatividade da amostra a gente
+vai ter maior representatividade porque
+a gente está transformando coisas
+heterogêneo em coisas menores que são
+homogêneos dentro e heterogêneos entre
+maior eficiência que é a amostra
+aleatória simples em geral então em
+geral é mais eficiente do que a amostra
+aleatória simples amostragem por
+conglomerados o método bastante
+utilizado por praticidade e
+economicidade em que são selecionados
+grupos de unidades conglomerados e na
+unidade de análise
+então aqui a gente não está interessado
+mais nos elementos está aí está
+interessado na unidade
+mas no coletivo está por exemplo lá na
+na mostra na mostra notificada a gente
+pegava é os elementos da turma aqui a
+gente vai estar interessado em trabalhar
+com as escolas em vez dos elementos da
+turma tá aqui
+em geral os conglomerados são escolhidos
+de forma aleatória de forma seriam
+homogêneos entre si
+então a gente vê aqui que é o inverso da
+praticada
+eles são homogêneos entre silva era
+heterogêneos entre si mais praticado e
+heterogêneos dentro
+lá a gente queria que os extratos fossem
+homogêneos dentro tá então tem esse
+paralelo com a amostragem estratificada
+homogêneos entre os conglomerados como é
+heterogêneo entre estratificada
+heterogêneos dentro conglomerados
+homogêneos dentro estratificada em
+seguida são analisados todos os
+elementos que os compõem
+então eu vou estar analisando todos os
+elementos que fazem parte de
+conglomerados está lá nas tradicionais
+estratificada eu pegava uma mostra dos
+extratos tá eu não pegava todo o
+treinamento então para diferenciar
+também é um bom indicador
+um exemplo estamos interessados em
+estudar o peso dos alunos de algumas
+escolas no rio de janeiro
+então temos que nós conglomerados eles
+serão sorteados e vão ser o que as
+escolas
+eu não estou interessado nos alunos ou
+seja isso não estou interessado mais
+unidades demais
+eu estou interessado no no grupo que são
+as escolas
+aí eu vou selecionar os conglomerados de
+escolas e dentro das escolas eu vou
+entrevistar todos os alunos de todas as
+turmas daquelas escolas
+então não vou estar fazendo uma mostra
+eu vou estar pegando todo mundo dentro
+aqueles conglomerado está com isso a
+gente vai ganhar praticidade e vai
+ganhar a economicidade porque a gente tá
+selecionando conglomerados a gente vai
+pegar uma mostra de conglomerado está
+dentro dos conglomerados a gente vai
+trabalhar com todo mundo lá dentro mas a
+gente vai pegar a gente vai pegar todas
+as escolas do rio de janeiro
+a gente vai pegar algumas escolas do rio
+de janeiro e vai examinar todos os
+alimentos dentro das escolas está em
+maior praticidade economicidade a
+mostrar agora a gente vai falar das
+amostragens não produtores que está a
+gente fala de amostragem probabilística
+as que são aquelas que você consegue ter
+a margem dia você consegue estimar
+precisão tá aqui a gente não consegue
+lutar porque tem juízo de valor em
+julgamento a gente vai ver aqui o
+amostragem por conveniência seleção dos
+elementos aos quais se tem acesso no
+momento um para um exemplo interessante
+aqui por exemplo conveniente a você abre
+a geladeira lá e tem será um tomate está
+naquele momento ali você vai
+convenientemente o meu tomate porque só
+tem ali o tomate está é por conveniência
+ele pega o que tem oque ele não tem um
+critério ele pega o que está em
+reconverter gente pra ele aqui utah por
+isso que tem um juízo de valor
+agora amostragem intencional seleção de
+elementos de acordo com informações
+disponíveis de forma a satisfazer a
+necessidade do pesquisador
+vamos acertar em dietas e só pode ser só
+pode é tomar a coisa líquida e tudo mais
+por causa desta dieta
+aí você abre a geladeira e você vai
+pegar justamente essas coisas que você
+necessita para sua dieta
+tá então não mais é conveniente porque o
+conveniente você abre a geladeira está
+lá agora o na intencional
+você tem um critério já tá você tá em
+dieta então você vai pegar o elemento
+você vai pegar
+ali o que satisfaz a sua dieta ok essa é
+a mostrarem intencional
+mostrei voluntária seleção do indivíduo
+por própria voluntariedade do meio a
+participar da pesquisa
+então é o indivíduo ele tem uma doença
+está e ele vai se encher ver ele no
+programa de vacina pra testar ali se vai
+funcionar com ele tá então ele está se
+propondo a testar seu cobaia ali naquela
+pesquisa e ele vai se voluntariar a
+prestar a participar da pesquisa então
+uma mostra com voluntariedade ele tá se
+voluntariando tá a participar da
+pesquisa
+já a amostragem por cotas a seleção é
+feita de acordo com determinadas
+características da população à priori é
+sabido que 50% das mulheres jogam vôlei
+e tem um campeonato será feita de forma
+que se for considerada na pesquisa mil
+atletas neste campeonato 500 deles serão
+mulheres jogadora de vôlei
+então ele já tem uma idéia da proporção
+a naquela naquela população a lide de
+mulheres que jogam vôlei em 50%
+jogam vôlei tá então você tem no
+campeonato lá tem 51 por cento das
+mulheres que jogam vôlei
+você já sabe isso de cara então você vai
+pegar e 50%
+tá então você tá tendo ali um julgamento
+de valor também porque você sabe ele que
+tem 50% a priori você vai fazer uma
+proporção anne tá ok
+aí por exemplo até você sabe que a dilma
+ela tem maior proporção no nordeste que
+você vai fazer uma amostragem por cotas
+vai pegar não falei 'se não estou
+brincando
+nuno não me compromete não falei não
+variava aleatória é uma variável
+quantitativa cujo resultado depende diva
+de valores de fatores aleatórios
+então a gente vai estar uma variável
+relatório é aquela que tem de fatores
+aleatórios ali
+por exemplo jogar um dado se jogar um
+dado que não sabe que o resultado vai
+cair
+ele vai estar entre entre um e seis por
+que o dado vai de 1 a 6
+mas você não sabe quanto vai cair e se
+joga dois dados
+você vai ter ali do g2 nos variados
+aleatórios
+tá então é isso estatística funções de
+função de variáveis aleatórias da mostra
+está então a estatística é quando você
+tem uma função de variáveis e letônia
+na mostra parâmetro uma quantidade
+desconhecida na qual estamos
+interessados em estimar pode ser por
+exemplo o médio mostrou que era estimar
+a média da população e eu vou eu vou
+usar um estimador tá para estimar o
+parâmetro populacional então um
+estimador ele é uma estatística
+utilizada para obter estimativas para um
+parâmetro desejado
+tá vulgarmente falando a estimativa
+ainda mas é quando valores observados
+são substituídos um estimador tá
+quando a gente substitui valores
+observados número estimado por a gente
+está achando uma estimativa
+tá boxe amador é aquele que tem a
+probabilidade de gerar uma estimativa
+bem próximo o parâmetro de interesse
+então bom estimador é aquele que vai
+gerar ali com uma probabilidade de alta
+é um valor muito próximo a ele do que
+você está interessado tá no parâmetro de
+interesse um verdadeiro rolo
+populacional
+agora a gente vai falar do tipo de
+estimativa existem dois tipos de
+estimativa tá estimativa pontual e
+estimativa intervalar a estimativa
+pontual aquela na qual tendo em vista
+uma mostra queiram saber um único valor
+está somente de um parâmetro qualquer da
+população
+então a gente está chamando pontualmente
+ali um único valor já intervalo a gente
+está estimando um intervalo que vai ter
+uma boa chance de conter aquele
+parâmetro lytha o qual aquela na qual
+tendo em vista uma mostra estamos
+interessados no intervalo que possuir a
+grande chance de conter um verdadeiro
+parâmetro populacional
+ok
+a gente vai falar propriedade de um
+estimador está com ações propriedade
+desejávamos que o estimador tem
+antes a gente vai definir que que
+tratamente vai chamar de parâmetro
+populacional tá notação importante tenta
+o chapéu é o estimador de teta tá e o
+que quer um estimador não viciado ou não
+visado quando sua média vão esperando é
+igual ao valor do parâmetro ou seja a
+esperança de terra chapéu é igual ao
+atleta
+a esperança do estimado de teta tem que
+ser trata então quando a gente tem o
+valor esperado do estimado dando o
+parâmetro que a gente está interessada
+vai ser um estimador não viciado tá e
+última do vias é aquele que possui um
+viés o vício está na esperança de tentar
+o chapéu vai ser diferente de delta está
+o viés ser o que a gente chama de bd
+teta porque vem do inglês está debaixo
+das aves em inglês então btt chapéu é
+igual é de 30 chapéu - tenta então a
+gente pode pensar o seguinte se o
+estimador ele é não iniciado lembra que
+o a esperança de terra chapéu é igual ao
+atleta
+a gente vai ficar contente aqui o celta
+- tetra brasileiro
+então o vice vai ser zero por isso que
+ele é um viciado tá então um estimador
+ele é não viciado quando a esperança do
+parâmetro é igual o próprio parâmetro
+está a assistir a esperança do estimador
+desculpa a esperança de um estimador tá
+tem que dar o valor do parâmetro é não
+viciado
+tá
+então a gente veio aqui três estimador
+está aqui um estigma do viciado para
+baixo ou seja ele subestima o valor de
+teta
+essa aqui é a estimativa de tetas aqui é
+o nosso parâmetro
+ele está errando para baixo aqui tá
+vendo isso tudo aqui em média pessoal
+aqui em média esse estimador aqui ele
+acerta o valor do teto
+tá então a gente diz que ele é não
+viciado tá ele acerta até tem-se e o
+estimador três aqui chama do viciado pra
+cima superestimam atleta o valor do
+parâmetro está aqui e ele está
+alcançando valores maiores do que tenta
+então ele está superestimando teta este
+resultado são em média ou seja dizer que
+o estimador era um viciado e dizer que
+ele pode errar tanto para baixo quanto
+para cima mas em média 0 80
+então a gente pode estar subestimando
+superestimado mas em média a gente tá
+ali acertando o valor de teta isso o
+chamador não viciado tá ele em média há
+certa atleta é o parâmetro dos
+estivadores importantes x barra
+ele é um estimulador da média
+populacional estimado ou não viciado tá
+para média e s2 é um estimulador da
+aliança populacional está estimado por
+não viciado para a aliança
+ok outras medidas a serem analisadas
+para encontrarmos um bom sistema
+vamos fazer aqui o intervalo galera pra
+gente começar aí o nosso próximo bloco
+valeu

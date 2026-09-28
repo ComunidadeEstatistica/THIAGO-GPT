@@ -1,0 +1,1813 @@
+# Gerson Vasconcelos (Cientista de dados da Hotmart) - A Ciência de dados dentro da Hotmart
+
+- **URL:** https://www.youtube.com/watch?v=wGPlUz9lvMo
+- **ID:** wGPlUz9lvMo
+
+## Transcrição
+
+o espelhamento boa noite galera valeu aí
+pelo pelo convite esperado
+nós estamos juntos de
+eu vou para começar assim acho que não
+vai ter que ser um papo de informar o
+mesmo só para falar um pouco do dia a
+dia do que do que é como é que ser um
+chegar lá nos márcio que a gente faz um
+diárias a gente lisa beleza lá no pouco
+de mim é é como se ela falou sou formado
+em economia no final da minha da minha
+graduação de economia comecei a escutar
+um pouco sobre elas big tarde espera
+gente é especial fui dar uma olhada não
+vamos ver o que é isso aí a gente quando
+eu comecei a largar ele é um pouco sobre
+as aplicações eu não sei maravilhosos
+então caramba eu quero isso e não custa
+economia não sente tipo sempre gostei
+tanto é que eu fiz os mas eu não senti
+aquele aquela diferença sabe aquele
+preso aonde você olhar para ver se ele
+não se isso aqui é que eu quero mas eu
+sempre entendeu mais econometria isso
+até que o departamento lá da ufpe é um
+o apartamento tem quantitativo de
+voltado para mim quanto para ti aí com
+nome é triste é aproximadamente
+estatística né que basicamente
+estatística eu falava isso para o
+economista da db gl estava porto chaves
+da estatística aí quando eu comecei a
+conhecer esse mundo e sempre quero quero
+conhecer marcar tirar mais sobre isso
+foi louco aí eu comecei a cabelo minha
+minha graduação de economia e quando
+acabei a graduação por agora vamos ver
+para qual caminho que eu consegui eu
+tenho que eu tentei umas par até curiosa
+tem tem um boneco ou não recebi o
+diploma e para você ligar para mim a
+estrada horas ele tá
+se você tem que ir já com diploma e
+quando recebi o diploma maioria dos
+mestrado lá já tinha fechado na estrada
+afora eu como eu estudei por três anos
+chinês aí eu queria alguma coisa na asa
+chinês que parar de falar para o
+mestrado lá na malásia e passei sendo
+que a malásia é o outro lado do ano aí
+eu fui depois tu passei nesse eu vi o
+coordenador do curso que eu faço hoje da
+minha segunda graduação que é
+sensibilidade mesmo izabela hendrix
+[Música]
+curso de graduação aqui no isabela por
+vou olhar para ver se vale a pena tem um
+rapaz não é que eu conheço o crer ele
+tem um nome diferente é escrito cri cri
+piu não como é que é eu sou crepaldi
+o que é esse mesmo é isso que a gente
+boa conheci lá no facebook lá estava
+conversando exatamente como eu preciso
+também no facebook ele falou composto
+assim dizer que abriu o curso esperava
+dá uma olhada legal a grave em si é
+muito boa escuro povo deitar eu saio
+arrecifes e para belo horizonte para
+morar aqui para fazer esse plus eu tinha
+até visto alguns outros cursos de
+pós-graduação mas eu não achei a grade
+tão legal eu achei trava pouco
+superficial pode ser não sei pode como
+eu não conhecia também o curso não posso
+falar nada mas a graça que eu achei mais
+legal foi lado isabela aí eu vim para cá
+e eu achei dois meses depois que eu vim
+para cá comecei a ler uma consultoria
+aqui de estatística
+eu passei um tempinho e depois fui lá
+para hotmart
+é legal assim pô eu imagino que nem mais
+nem consigo imaginar na verdade mas
+enche nes esse emprego é até a beleza né
+até sigmetal já tá acostumada mas com
+ela e chinês cara como é que deve ser
+uma equação estilista complicação que
+doideira hein
+oi e aí como é que foi lá fez o teste da
+hotmart entrou direto fiz o teste tava
+que martin entrei entrei como estagiário
+lá tá legal cinco meses depois aí eu já
+fui contratado estou lá até hoje pô
+legal já tá quantos anos lá
+um humano legal
+quem é
+a nikon comendo como é que são suas
+funções lá se está trabalhando diário eu
+vou começar a falando aqui beleza
+mostrar mas fica à vontade de um pouco
+do que a rosto mais que acho que muita
+gente apesar de muita gente a ter já
+provavelmente já ter comprado pela
+roadmace acho que muita gente que nem as
+outras formas empresa da comunidade pela
+hotmart também a ela que começa a o
+pessoal conhece porque fica assim muita
+gente na até comprou já entrou pelo o
+área de mim pro até vai te mas não é uma
+empresa assim muita gente nem sabe e é a
+maior é maior
+o maior startup daqui de belo horizonte
+ainda tem quase 700 funcionários caramba
+legal basicamente hotmart é uma empresa
+é uma plataforma que oferece todas as
+ferramentas que um ecossistema operação
+de ferramentas para você fazer bem de
+seu infoproduto que isso pode ser um
+curso podes pode sua comunidade eu pode
+você tem um sócio se você quiser vender
+ingresso tudo isso a gente oferece uma
+plataforma para facilitar a fazer essa
+venda online tem um sistema também da se
+gasta me legal que você vai sorte genial
+é muito isso é genial genial cara você
+tem noção quer tipo um rapaz ele ele
+veio conversar comigo né falando com
+outro tá tudo dois anos desempregado e
+tal eu queria muito fazer teu cu esse tá
+um cara mas eu não tô não tô não tô com
+grana né tô com dois arranjos de pegar e
+tal eu falei cara tu quer mesmo fazer o
+curso falei não quero ela
+bom então então vou te colocar como vou
+te colocar gratuitamente no curso botei
+ele e aí você vai se afiliar né e aí
+você vai receber comissão né pela pela
+venda né fazendo e aí cara o cara
+comprou o curso ainda sobrou dinheiro
+para ele cara isso é muito genial que eu
+achei seu número aqui muito legal e o
+povo feliz da vida né eu e ele porque
+pode ajudei ele né que ele tava dois
+anos lá desempregada né conseguiu ainda
+uma fonte de renda é você gosta mais a
+gente tem vários cases disso aqui um
+mundo dos integrantes lá do times o pai
+dele cara pai dele é depois de
+aposentado começou a fazer um curso de
+mecânico e tá tá consertando o carro
+agora velho é um garanhão meu tem tem
+vários cases que a gente tem lá quer
+coisa muito massa legal legal às vezes
+você tem um produto
+é mas não sabe vender online quer não se
+não é trivial você vendeu o alarme para
+fazer um sofá se você não tiver claro
+uma audiência já se hoje você tem um
+produto ou você tem audiência mas não
+não tem um produto que tal você pode
+acaba cedendo conciliar com certeza e
+não ela não quer que é simplório assim
+você tem algumas etapas né de presente
+faz a você tem que ter um para fazer
+para vender né e aí você conseguiu um
+esquema para o cara pagar e você receber
+né isso não é tão trivial você tem que
+pagar um serviço né e a hotmart faz isso
+para você já direto né você não precisa
+nem procurar para saber né então acho
+que esse bem legal também um ponto bem
+bem forte
+oi e um pouco mais grossa demais eu
+tenho jantar já tem escritório em 15
+países ele tá aqui em belo horizonte tem
+um em são paulo também abriu há pouco
+tempo em madrid em amsterdã caramba
+cidade do méxico agora que lugares tem
+outros países que não têm escritório mas
+já tem gente atuando lá não dá nem assim
+que pode mas não tem tanto a mídia como
+bicho se mas é a gigante cara é uma
+empresa assim é impressionante como como
+muita gente não conhece e era tão grande
+assim eu gosto legal também são os
+vídeos educativos na que ensina você a
+mexer com a plataforma achei esse
+fundamental né que o cara pega
+plataforma beleza eu não sei mexer aí pô
+mas aí tudo retrasado dela pediu
+funcionalidades é com certeza aí foi eu
+não conheço nem sei qual por
+é muito pequena mas bem até eu que tô lá
+já é um tempão tem tem coisas que vale
+nossa isso tenta mente pois é
+oi e a gente já tem esse mais de 33
+milhões de usuários mas será que vai
+ficar legal compradores são quase todos
+os países do mundo que a gente tá quando
+eu vou até trazer uma análise que a
+gente fez do pai do 2018 que a gente
+pergunta de onde estava vindo sprites de
+auxiliar na legal gráficos e rápido ele
+vai mostrar e esse daqui é é um pouco da
+ingestão de idade que a gente tem orna
+são mais de dois pontos dois milhões
+aqui 12,5 8 milhões de a gente por hora
+e é absurdo cada um tem uma quantidade
+muito grande de várias vezes assim a
+gente nem ainda nem analisa porque você
+tem que tomar cuidado muito lenta
+conseguir analisar tudo isso e como é
+como é que vocês estão usando adulto na
+veia é o que é cloud a gente é na
+cláudia qual é a nossa então vai manda
+tudo para outra é um s3
+oi e aí de lá a gente faz os
+processamentos e e coloque em em pesado
+beleza consumir posso me dar o sinal de
+assim aí se para ter noção de que tava
+falando a gente tem mais de 33 produtos
+lá dentro então como eu falei não tem
+nem em mão ainda para analisar tudo
+todas as possibilidades que a gente tem
+ainda
+e como assim desculpa 33 produtos então
+por exemplo não a gente tem o clube quer
+que é uma plataforma de mim porque a
+gente tem o analytics que ah tá entendi
+visitar as visões lá tem dia entendi tá
+bom
+e aí
+o que é e quais os quais são os tipos de
+perguntas que que a gente pode responder
+lá com na na área né pode ser quantas
+iremos faturar no ano que vem onde a
+gente deve abrir o novo escritório
+quantos usuários a gente vai ter na
+plataforma aí no próximo mês quanto
+depois vai ser o gasto com o nosso
+infraestrutura que até o que
+interessante que a gente fez uma
+previsão para ver quanto a gente ia
+gastar dws no próximo ano para gente
+conseguir fazer um fechar o contrato
+melhor uma arma legal sim e assim uma
+coisa de que é legal lá tá bom para
+dimensionar porque tem custo por hora né
+foi por determinado tempo não e aí se
+você passar
+ah mas tudo bem você vai gastar dinheiro
+aí muito dinheiro né é é
+é mais assim não não é simples porque
+como a gente começou assim ainda é uma
+está melhor mas a gente começou muito
+melhor como começou como uma a gente que
+são três empresas aqui em belo horizonte
+que começaram como que a gente chama
+aqui de são pedro wagner que é
+basicamente a cultura descartável
+começou com elas então o que é o que
+acontece e conectar indicar trata e
+sente e que agente quer crescer mais
+rápido possível e não vai estar se
+preocupando com a qual o melhor banco de
+taxa que deve colocar isso para consumir
+depois que a melhor forma que eu vou
+colocar isso para conseguir analisados
+então nesse início é a porque a gente
+começou dessa forma a gente tem uma um
+uma bagunça em excesso os aspectos que
+que pode aprender microsserviço a gente
+é o monolito ou a nossa arquitetura e
+depois começou a comicon serviços então
+são vários bancos de dados que a gente
+tem
+bom então são vários bancos de dados que
+a gente tem de em vários tipos de banco
+diferente então assim não é uma coisa
+simples de de a gente analisar prata
+bom e o que a gente você que vocês
+analisam dados não estruturados também
+e também não tanto mas também que tipo
+assim
+e aí
+a mensagem de vídeo
+é legal e analisa vídeo também a gente
+tem o aprovação de produto tem tudo isso
+que que passa compra na nessa parte
+ainda tá muito manual mas a gente chega
+fazer algumas análises dos vídeos que a
+gente tem no clube band deve fazer
+também tem mais né no caso de por
+exemplo é da quando você vai comprovar a
+identidade e tal né
+e isso é a gente não tem essa aplicação
+hoje não mais assim é uma coisa que
+tiver a gente vai colocar 15 uma coisa
+que é legal falar data-size uma empresa
+que não é voltado não tem como como o a
+finalidade dela o utiliza utilizar dados
+para alguma coisa por quê por exemplo a
+finalidade da hotmart não é um antes
+ditados pela empresa é uma esquema de
+ferramentas para você fazer só vende
+online uso de idade o que legal é que
+assim a gente usa a gente consegue a
+gente implementa uma cultura digitado
+dentro da empresa apesar de ela não ser
+voltada não tem uma finalidade para dadi
+e isso cara é é uma coisa super difícil
+é um super desafio que a gente tem lá
+porque assim você eu acho até que é uma
+iniciativa que tem que vir top-down tem
+que ir
+e o todo mundo de cima sentar
+é mas assim a impressão que eu tenho é
+que vocês se preocupam muito naquela
+cultura de rodrigo e por que por exemplo
+só pelos relatórios eu já eu já tinha
+essa impressão né de foi o pai
+plataforma que eu me senti mais
+confortável em termos de estatística dos
+meus alunos né depois mostra tipo onde o
+aluno parou sabe o papai os vídeos eles
+ele assistiu o stop tal de frequência
+tipo os que estão acompanhando mesmo
+conteúdo acho isso muito legal eu não vi
+aí sim outras plataformas ela achei bem
+interessante eu não falei do que a gente
+entrega para o cliente mas assim dentro
+da empresa você tem uma futura das
+tomarem decisões você toma a serem
+feitas a partir de dados é uma coisa
+assim extremamente complexa e que os
+cara vou dizer que não é toda empresa
+que consegue fazer isso não e até quando
+eu entrei lá eu que eu senti isso em
+nossa espera
+e o césar mandou o césar tá perguntando
+dia o que seria o clube e qual o case de
+análise para o vídeo
+e o clube a nossa nossa área de membros
+que possibilita você pode pegar um curso
+você vai esperar uma comunidade e você
+consegue gerenciar toda ela tá vendo do
+clube não sei se responde ficou muito
+claro assim
+e o que disse o conteúdo não onde a
+pessoa vai lá e que gerencia o conteúdo
+do curso para criar tipo lá nem o derm
+por exemplo esses tá beleza e então aqui
+como que a gente é a tua lá a gente
+organiza e otimiza inteligência coletiva
+da empresa que é basicamente a gente faz
+uma análise descritiva faz algumas
+análises é alguns estudos a biópsia
+cinco que por exemplo a qual o
+comportamento de usuários nessa nesse
+tipo de produto aqui
+eu ajeitei e como eu falei que é a
+última empresa muito voltada dado a
+nossa área que a sobre a diretoria de
+tatyana ali tem o objetivo de ser
+guardião da cultura datagrid mas o que é
+isso você guardiã da cultura significa a
+gente está tentando democratizar
+tentando fazer com que todo mundo é use
+os dados quando for fazer a sua decisão
+e tem a confiança nesses dados que isso
+é muito importante que a partir do
+momento que que as pessoas não tem
+confiança nos dados que elas estão
+usando elas não vão querer mais usar
+com certeza isso é super importa é que a
+gente é tenta entender o que é que eu
+cliente interno tá tá pedindo ele passa
+um dado para ele que seja confiável
+porque e só com descritivo já dá para
+fazer milagre aí né muita coisa cada
+coisa tanta coisa e é por isso que que a
+gente tem um terceiro pela que a
+democratização do acesso aos dados
+porque assim se você pensar direitinho é
+é um cara que pode aqui de marketing que
+tá lá analisando o comportamento do
+pessoal sabendo como se comunicar com
+com ele ele vai saber muito mais dessa
+área dele de negócio do que a gente
+então a gente consegue entregar o dado
+para ele de uma forma de se seja
+acessível seja fácil de ver dele de dar
+uma dele analisar ali ele vai conseguir
+às vezes até extrair mais mas em site do
+que a gente porque e mesmo e um
+estatística básica o seu alguma média a
+mediana e o cara vai conseguir extrair
+um site melhores eles ele sabe o dia a
+dia deles sabe o que é que ele tem que
+olhar
+é mas a gente quando a gente está
+trabalhando com uma margem se sempre
+fica muito perto dela sempre ficar com
+os piolhos e emissora será que é o
+produto um ler o produto mexer é para a
+gente entender o contexto aquele negócio
+contexto daquela mais que a gente tá
+fazendo isso é uma coisa que eu tentei
+flor né porque senão você acaba criando
+análises que não vão ser eficaz pessoal
+negócio exatamente você pode você pode
+que não conhecia o negócio do jeito que
+o cara do negócio ele vai saber né então
+pode estar fazendo uma análise que não é
+desculpa por aquilo não tá dentro
+daquele corpo tá não vai servir pra
+muita coisa
+ah e assim apesar de ir de ser muito
+bonito a sensibilidade sou mach lane e
+tal eu acho que no final de tudo que a
+gente quer entregar valor e se a gente
+conseguir entregar valor com uma
+estatística descritiva com certeza ela é
+mais fácil entrega mais rápido simples e
+sem muito esforço
+nem todo mundo entende não fica lá
+tranquilo e e é muito mais eficaz também
+né gasta-se menos tempo né isso e tem
+muitas empresas que não vai em valor né
+vai lá não vou não pô bate o martelo é
+um pouco aqui era uma shirlaine não
+precisa de uma china grande meu filho
+mas um boxe esporte aí pela madrugada
+não precisa fazer uma chevrolet isso
+acontece demais pessoal pensa que
+mexendo é mágica e vai resolver todos os
+problemas aí eu não esses nomes não
+porque não análise descritiva em
+português uma semana em inglês para
+melhor vamos antes antes de a gente
+pensar e fazer mais filé mesmo antes
+qualquer coisa a gente tem que ter dado
+confiável tem que tem que ser resiliente
+dá exatamente e aí entra o papel de uma
+estatística descritiva bem feita né tem
+todo um processo
+é da e começar a atuação do cientista de
+dados melhor limpeza negligenciam isso
+já vou pagar não sei quanto vou
+contratar um cara massa mas no final no
+cara chega lá não consegue fazer nada
+porque ele nos dá tão tudo bagunçado no
+final das pontas e vira garbage in
+garbage out 1
+oh e vamos lá o que é a sinceridade no
+nosso conceito é uma ciência que utiliza
+método científico análise e algoritmos
+na estação inside predição e que é só de
+produto mas do como eu falei no final de
+tudo ter medo de ter aquele a valor para
+o negócio tão pesado a romantização aí
+que a gente tem tem que fazer é gerar
+valor para o negócio sim eu acho que até
+ele tava tava ouvindo podcast da tarde
+fica até é são diretor lá do da área e
+os colegas lá que trabalha em seu nome
+dele é noite gabriel lage e o paulo
+estamos esse que eles são lá dar o
+último podcast estamos falando isso acho
+que em 2020 a tendência é que é pare com
+essa romanização e comece a a a cobrar
+resultados sente juizados e
+bom e se não é bonito mas melhor ainda é
+você conseguir resultado né sim sim
+e eu que é eu acho que isso não só
+decidi estudar mas está triste ou
+qualquer pessoa que trabalha com idade e
+qual é o maior inimigo que é o viés
+assistir você já escutaram sobre o viés
+sobrevivência essa história super legal
+eu sempre falo para ilustrar já já
+escutou se a sobrevivente sobrevivente
+viés do sobrevivente daquele do audi
+statistic do áudio lá ele falou para
+botar em determinados lugares a
+blindagem é esses são pode mandar aí
+tranquilo é maneira
+e por favor limpa eu vi a mensagem
+senhor a o link de referência podcast
+beleza bota aquela tá eu vou eu procuro
+aqui para você enquanto isso beleza
+beleza então o viés de sobrevivência é
+isso é baseada até na história real na
+segunda guerra mundial no 6º na segunda
+se na primeira guerra mundial não só
+lembrar mas é
+e a aeronáutica nos estados unidos
+estavam que tava querendo saber onde
+eles deveriam reforçar o avião
+e para que para que eles fizessem com
+que menos aviões caíssem tivesse mais
+sucesso né eles começaram a rezar todos
+os aviões que chegavam e viam que os
+aviões tava tava com balas nas asas e na
+cauda sendo de qual o problema disso quê
+que foi um o matemático que que olhou e
+de e sinalizou esse problema que ele só
+tava olhando os aviões que estavam
+chegando e não tava olhando os aviões
+que estavam caindo para saber onde que
+tá o real problema então eles tentaram
+eles pensarem colocar responsáveis asas
+ea cauda mas na verdade o problema não
+era esse porque o avião não precisava
+ser responsável eram os aviões estão
+caindo eu não fique tão botar ficar
+botando os que estavam sendo tirado
+levando pedido nas asas e na cauda
+estavam conseguindo voltar esse essa
+ilustração é muito legal de como que a
+gente
+é sim apesar de a gente trabalhar com
+dado a gente ainda pode sofrer algum
+tipo de viesse a gente não não prestar
+atenção exatamente e aí eu acho que
+entra o papel do esmalteiras é a
+criatividade que falta que vai resolver
+o problema né você não catarina acho que
+que voltaram só em menor número né mas
+você não tem eles né e tem também um
+queijo também que eu um vídeo no youtube
+é uma vez uma diretora lá da samsung né
+com nós lançaram no celular e tal aí ela
+ela ela fui conviver com os adolescentes
+né e quem ia usar de fato o celular né
+que você olhando de fora você pode ter
+uma ideia de que o dos teus dados eles
+estão tão limitados ali aquela realidade
+que você tenha na empresa por exemplo né
+quando você vai a campo né e você vê
+realmente como é que eles utiliza aquilo
+ali e tal
+a outra é um outro olhar né uns maldita
+que vai fazer diferença entendeu então
+acho que é o mesmo mesmo papo aqui ó é
+um viajo que você não ta observando né
+só falta de idade exata ele acho um
+exemplo legal disse que tava tá valendo
+o unix silva nem cima é um cara genial
+ele é o a referência de predição dos
+estados unidos nas eleições isso de
+tanto eleições como esporte também
+resposta também o site do depois eu
+coloco aqui o link para vocês mais site
+do cara tem mais visualizações muito
+massa e as análises que ele faz também é
+muito são muito legais e o que estava
+falando foi exatamente esse viagem
+sobrevivente aconteceu nas eleições do
+trampo lá nos estados unidos porque ele
+ele fazemos pesquisas eleitorais por
+telefone sempre foi o problema disso a a
+galera que atende a gente teria
+responder era
+eu era muito mais o pessoal que que
+voltava nós democratas ele e ele falou
+que isso foi uma das razões que ela faz
+passa todo mundo errou as previsões lado
+porque quase todo mundo fazia esse tipo
+de até ele falou que ele tipo de ele
+errou também por causa disso sim é
+exatamente o que é simplesmente eles
+eles tavam pega tava falo o davi estava
+faltando ela que ela elemento que
+faltava para ele tem que fazer a
+a análise correta do que tava é o
+mercado de guerra e sobrevivência com
+creme de análise com os pequenininhos do
+que um idealista e como eu sou também de
+economia
+e tu viu aquela série da netflix que
+falou da do escândalo da quebra de boa
+muito maneira a privacidade de um
+clássico nacional esse negócio é
+sinistro olha só a nossa cara mais louco
+de tudo é que assim ninguém tá nem aí
+você organização organizações
+não-governamentais sociedades
+organizadas que buscam a privacidade
+mais fácil perguntar para o cidadão
+médio assim no meio da rua ninguém tá
+nem ar que a gente vai olhar no meus
+dados mas tem muita coisa que dava tirar
+pois é e eu achei legal deixa aqueles
+que eles colocam no quando eles falam a
+governos autoritários em todo mundo não
+sei o que apareceu o presidente do
+brasil aqui eu vim com discursos de ódio
+não sei que quita o
+e entra faz pouco tempo a a mulher lá
+que eu esqueci o nome dela que ela foi
+ela que começou a falar mesmo mostrar os
+emails ela liberou 11 meses daqui do
+brasil abert
+o juliano não é muito lindo na vida
+enfim como e como eu vinha economia tem
+um cara que para mim véi eu sou
+apaixonado por por eles desse cara que
+daniel kahneman engraçado mas você sabia
+que ele não é economista não é que eu
+não mexi ele é psicóloga psicóloga né
+mas que ganhou o prêmio não é para
+realizar o cara é bizarro ele vai fazer
+uma live aqui só falando disso de viagem
+cognitivo e holística com a bianca
+almeida foi dessa xau mais isso não é
+nele demais muito longo esse tema é
+trouxe aí também aqui alguns aí que a
+gente pode ter beleza fazendo análise e
+piada pé do daniel carmo o rei o viés
+regressão à média esse para mim é muito
+legal ele fala que quando ele ele era
+psicólogo da
+e o exército israelense ele foi chamado
+lá para ver como é que alguns deles os
+comandantes deveriam se comportar para
+que o saudades conseguir conseguir isso
+é uma melhor performance e o o que
+chegou os comandantes gerais dizendo ela
+quando eu xingo cara ele ele vai ele é
+forma melhor e quando ele vai bem que eu
+dou um elogio ele é forma pior mas o que
+tava acontecendo na verdade não era não
+tinha a ver com o que lhe xingar o cara
+ou ele diz fazer um elogio estava
+acontecendo pimenta é uma regressão
+américa vezes quando você é forma muito
+melhor do que você sempre forma a
+tendência que na próxima vez que você
+for fazer ou se você vai me o pior que
+você está regredindo a média sempre eu
+quando você vai muito ruim pior do que
+você vai geralmente na próxima vez aqui
+deixa que seja um pouco melhor porque
+você tá voltando para média
+é legal e o outro é a heurística da
+disponibilidade esse é legal para
+caramba também uma um exílio a
+sobrevivência né
+é isso também e um um exemplo legal
+disso seria quando quando acontece
+atentado 11 de setembro
+se você for olhar estatisticamente a
+própria idade de acontecer um atentado é
+muito pequeno mas quando a depois que
+acontece uma tentado todo mundo fica com
+medo de acontecer o outro o estados
+unidos resposta as barreiras de duração
+estar em várias políticas contra contra
+imigração mas na verdade o que aconteceu
+é só é só que como esse evento aconteceu
+aí é um evento muito marcante acaba
+ficando na sua cabeça muito mais marcada
+você tem que a probabilidade de
+acontecer a maior na verdade não muda
+não
+oi e o terceiro muito eu gosto muito que
+o efeito halo é esse aí eu vou até pedir
+um pouco de ajuda para galera alguém
+alguém o que é que vocês acham dessa
+pintura aí
+o que vocês acham que é um é um cara que
+pinta bem ao seriam uma um artista que a
+tia quer que a galera acha aí
+e a pergunta eu vou sabe que você é uma
+artista um robô e se você não não é que
+vocês acham dessa essa pintura é uma
+pintura
+eu acho que é um artista muito bom que
+fez essa essa pintura não precisa já já
+conhece o efeito halo essa esse viés que
+a gente tem se eu conheço eu não tô
+lembrando é mas eu vi aqui eu achei
+legal
+e não é muito nada muito complexo assim
+não usa mas é só é só é facebook
+engraçado que a gente tem enviam eu acho
+interessante que ele ele colocou a
+sombra da árvore né e colocou o as casas
+como se elas tivessem com já pernas não
+tem tem umas coisas de irmãozinhos né
+se eu consigo enxergar isso acho que não
+acho que seria um bom pintor que fez a
+ser esse esse quadro bom se eu
+considerar eu pintando hahaha é um bom
+critério porque eu o que acontece é o
+seguinte olha olha esse como é legal
+muita gente quando você mostra isso vai
+ficar acho que talvez até vocês fiquem
+surpresos se eu te falar quem foi que
+pintou esse quadro
+e quem pintou esse quadro aqui foi
+hitler e o que o que é que esse efeito
+halo não é que você quando você olha
+esse olhar a pintura nós não é uma
+pintura bonita é uma pintura e o carga
+que pintou deve ser legal mas assim você
+não acredita que foi hitler um cara que
+fez uma barbaridade no mundo consiga
+pintar isso e se você pensar em uma
+coisa não tem nada haver com a outra ele
+pode ser um animal assim fazem várias
+coisas erradas e sabe que tá não tem
+nenhuma correlação mas quando você olha
+essa pintura aí você se diz forma que
+foi hitler prova pensa nossa é como rico
+pintou isso cara que é malvado não tem
+nada a ver uma coisa com a outra né
+habilidade de pintar um pode ser mal e
+esse é o efeito ver ela aquela velha
+expressão a primeira impressão que fica
+é sempre que você tem uma impressão seja
+ela mal você
+e se acaba se você não tendencioso a
+pensar a mesma coisa que todas as por
+exemplo se eu enviar o o daniel kahneman
+que é nobre da economia e cara muito
+inteligente porque que realmente é né
+mas ele é muito inteligente e na
+economia porque ele ganhou nova local
+mas se for falar de culinária será podem
+saber de nada então você ainda pensa não
+a palavra diz karen culinária que o
+caminhão foram seria né então que
+realmente não tem muita coisa vê né
+direitinho e
+oi e manda assim para você ser um
+cientista ligada
+se você tem que nos como eu falei não
+você não precisa ser um um ph besta um
+mestrado na verdade você precisa ter um
+método científico esse método científico
+é um método interativo de você
+vai pesquisar geram hipótese experimenta
+análise assoprado compartilha depois
+você olha para para tudo isso que você
+analisou e a e se questiona mais as onde
+será que eu posso melhorar essa mais o
+que é que eu mais posso falar partir
+desse dado isso é o método que os
+cientistas idade tem que usar porque
+isso vai que vai que vai ser o seu
+trabalho vai ser você sempre tá correndo
+atrás de algum site é mais sempre
+olhando o seu seu seu seu pesquisa seu
+projeto passado pensando onde que eu
+posso melhorar e claro que tudo isso
+você olhando para área de negócio também
+dizendo será se vale a pena melhorar
+0,01 na
+e para ter um trabalho de um mês talvez
+não vale a pena né
+ah e falando sobre sobre o cientista de
+gases é legal trazer o que é a diferença
+entre ibiá e datações assim hoje os
+termos cientistas de dados datações não
+não é tão bem definido em todas as
+empresas mas basicamente o que a gente
+considera lá na hotmart é é que eu opiai
+ele vai fazer uma análise prospectiva
+vai escrever o que é que aconteceu esse
+mês a gente teve muitas vezes por quê
+que isso acontecer lá eu acho que é
+porque a gente tá em período de black
+friday o período de natal o período que
+tem mais velhos geralmente
+e sempre que acaba que o cientista de
+dados reais e fazer uma parte desse
+dessa inteligência também mais foco dele
+vai ser prever e seria quanto a gente
+pode faturar na próxima black friday
+vamos investir mais em tal ferramenta
+porque ela dá um retorno melhor para
+gente eu acho que essa diferença ainda é
+e é muito muito tendo em várias empresas
+que até aqui empresa que tá com bota aí
+tô contratando cientista de dados ele no
+final acaba que é um tá fazendo biya eu
+tá fazendo fr então eu acho que esse
+conceito a gente está muito muito
+complicado ainda na no dia a dia da das
+empresas sim concordo totalmente e o eu
+tenho lá na loja ok minha amiga fabiana
+vanilda ela usa né para o guiar ela fala
+que o bial e você olhando no espelho
+retrovisor né tudo para trás né eu acho
+bem bem interessante né você você tá
+olhando ele o que que aconteceu né o
+jogo quando você entra no datação e
+sequer para dizia aquilo ver o quais são
+os possíveis motivos como é que é o
+investir nessa nessa coisa então acho
+que é por aí legal show de bola acho que
+uma outra coisa também que a
+a falar que assim como é que a
+mencionada no começo né no ou na empresa
+não não é um uma empresa que tem o
+produto final dela voltar à tarde
+principalmente você a equipe de datas a
+gente vai trabalhar muito e fazer
+estudos também a trabalhar muito vai ser
+vai ter muita intercessão aí com um
+diário porque já que você não produto
+final da empresa não é esse muitas vezes
+você acaba de me fazer o de análise e
+que também eu acho que faz parte dos
+cientistas de dados acho que até se você
+olhar em empresa grande fora grandes
+foras elas estão tendo até um pouco de
+divisão em relação aos entes federados
+com o mach lane em gerir que vai ser
+basicamente o cara para colocar em
+produção vai dar testando o modelo
+colocar em produção
+é mas acho que isso também depende muito
+da maturidade dos dados da empresa
+separar as funções né pegar o cara ali
+que vai fazer o armazenamento
+processamento dos dados para garantir na
+qualidade de vida dos teus dados e vai
+vir uns vai entregar para um cara que é
+um cientista de dados que vai analisar
+aqueles dados ele vai conseguir
+construir modelos fazer análises né é o
+suposições acerca das distribuições tudo
+mais e vai ter o papel do rende nia que
+vai fazer e que você falou amor de
+reprodução que está ver se ele tá
+performado se não né legal isa
+bom e lá gente uma coisa que tem como eu
+comentei muitas empresas ainda tão pouco
+enrolada nisso mas pelo menos um a gente
+tem uma definição boa relação aos papéis
+é data engineer na área de engenharia de
+dados e área de cientificidade
+jornalista citado que a gente lá tem
+analista e cientista de dados o data
+engineer vai vai utilizar mais o como a
+gente usar ramos homenagem ele gente tá
+sempre usando as ferramentas da água
+sales parte e já para fazer processar
+todo aquele daí tem volume imenso de
+idade e que chega para ele e de carga da
+minha consigar é consumir
+o pregão mensagem e o analista é um
+cientista que vai trabalhar uma com
+visualização vai vai fazer todo para
+gerar os ensaios do dos dados e tentar
+passar única isso para a área de negócio
+show e o que a gente usa lá para
+armazenar os dados gente usa as
+ferramentas armas a gente usa mais
+quieto também longo que por sinal não é
+legal para você fazer nada por favor se
+você for fazer esse favor desculpa o
+mongo db na para fazer análise é bem
+chato é para não relacionar né isso a
+gente vai ter uma live aqui com uma
+especialista em uma bebê aí meu primo
+que era uma ele vai ser massa
+nós ir para para para parte de golfe
+minha escola armazenam estado é
+sensacional para vocês só joga lá o form
+todo vai tá jogando os dados e no final
+você tem ao o cara ditado você pode
+realizar sim para parte de analisar em
+si não é tão legal para transformar o
+dado a gente usa o pai como é que um
+colega que não tem
+a restituição de linguagem larga eu às
+vezes o eles os pais daquele do problema
+e se for um a quantidade mas está ligado
+a gente usa o espaço e para transformar
+não para analisar o espaço e para
+analisar se fazer algum modelo imaginar
+não a experiência que a gente teve lá
+não não foi legal ninguém for maldade
+ele sensacional você chegou aí joão
+mexendo lá em lá ou não não é a gente a
+gente usa darmos entre os seis e meio a
+tanta o surgimento que equivalente do do
+eja
+nós estamos não fosse um uma distância
+da ws somente com um júpiter dedicado tá
+aí a gente pode criar vários vários
+juntos e lá e fazendo mais que a gente
+quiser isso
+e ai amanda vai meditar a gente usos
+tradicionais mesmo que vai ser o site
+flame mãe para uma partidade a modelagem
+spice que não consegue plano também tem
+a ferramenta do erre o embaixo ele aqui
+agora está tomando é do pai esse aqui né
+ah tá e o de cima
+é isso aqui eu sai nada
+ó tá vendo ele não está restrito a esse
+é mas acho que é o que a gente mais usa
+entendi
+e o site plano principalmente fazendo
+assim a árvore bruxa os estados moram os
+estados com o a gente usa para para
+fazer o temos a rima previsão de
+faturamento que a gente vai levar até
+coloquei um pouco mais pra frente lá
+sobre ele é e para a gente entregar esse
+status para que negócio a gente usa
+ocorre o pirralho usando muito para
+tirar aqui na quarta às vezes fica muito
+moroso se a gente for colocar uma
+quantidade boa de dados ele faz a gente
+ser muito legal você é muito fácil ele
+você coloca começa a trabalhar com a
+quantidade grande dados ele acaba
+ficando pesado tem um meta a besta
+também que é totalmente open-source e
+permite você principalmente para
+monitorar algumas coisas lá na área
+oi e a gente tem que também duas
+ferramentas que foram desenvolvidos aqui
+desculpa talvez eu metal base ea gente
+usa para monitorar mas ele é alguma
+ferramenta quando seu pai bieber é e aí
+ele você coloca os dados dentro dele
+consegue fazer alguma algum alguns
+gráficos algumas análises tá fazer umas
+visualizações legais beleza o legal dele
+é que ele é totalmente a pessoa se show
+oi e a gente tem duas ferramentas que
+são ferramentas próprias nada hotmart
+desenvolvidas na casa que o homem vai
+que vai fazer basicamente de que o metal
+se faz pra gente vai conseguir criar
+gráfico lá consegue compartilhar só com
+alguma área com a conta não a gente
+consegue fazer essa camada de
+administração de gerenciamento de
+usuários e permissões de usuários e tem
+o da tua voz que nossa fenomenal eu
+gostaria de mais que a gente conseguisse
+colocar essa ferramenta ou pessoas que é
+basicamente um repositório de cores e aí
+se disso a partir dessas férias eu posso
+compartilhar para uma pessoa com time e
+a gente usa o databox para openbucks ele
+vai fazer os gráficos e mostrava pinguço
+oi e a gente pode a gente como a gente
+usa a algumas ferramentas que
+transformam o o dado a gente faz coelho
+e sl em banco cidade nós querem por
+exemplo muito legal para caramba para
+que ele ele funciona meio com raiva é
+sim ou não por traz por traz sim mas na
+frente assim o que o que a gente que a
+gente usa é basicamente um você uma
+ideia ali de sql você cria sua com ele
+bota o nome bota com quem você quer
+compartilhar salva lá e compartilha com
+a equipe que a gente quiser ah tá isso é
+muito legal até para iniciativa da gente
+democratização lendário que interiorizar
+as ações não por ter mudado de tal coisa
+mas o cara não tem conhecimento disso
+que era gente cria essa essa consulta
+para ele negão entrega consulta ele pode
+cortar esse sv exportar copiar para
+transferência da conta você comprou ver
+legal precisamos sofrer mesmo
+ah e falando um pouco mais da frente que
+a gente atua a gente tem a modelo é que
+eu falei assim mas só que não é hoje a
+área de solitário armas só que a opção
+modelo a gente tem área machine learning
+tem área de business intelligence também
+é basicamente que eu já falei aqui que a
+gente vai ter essa parte de um vai ter a
+parte de criação de um modelo e vai ter
+também a parte de democratização de
+unidades que é super importante para
+fazer rede que essa empresa quer ser uma
+empresa trata dizem que todo mundo tem
+acesso aos dados para conseguir fazer de
+sinal que ser na linha também você mesmo
+que seja top-down o pegar o diretor diz
+é o partir de hoje a gente é data deles
+todo mundo só toma decisão baseada
+trindade mas se você não tem eles lá
+disponíveis para você consultar para
+você entender os seus dados não adianta
+de nada não entende e um pouco também tô
+da gente
+e aí
+o que a nossa área tem dentro da empresa
+ele tem tem interface com ar esse leves
+tem em dia faz quase de venda para
+desmanchar e acquisition é na parte do
+produto a gente tem com marcha de
+produtos com auxiliares com um borne que
+basicamente a jornada do usuário
+entrando dentro da nossa plataforma que
+a gente tem que entender o máximo e como
+como você falou até dos cursos que a
+gente tem lá e são outras iniciativas né
+então se o usuário entenda como fazer
+fica online como uma esse mercado online
+aqui para muita gente é uma coisa
+supernova acho que para a maioria das
+pessoas uma coisa supernova né uma coisa
+que a gente que se acostumar né
+é a gente também tem na área de
+envolvimento com um vulcânica
+logicamente a nossa plataforma toda é um
+clube que é a nossa área de membros o
+rottweiler é nosso orçamento pagamente
+então basicamente com todas as áreas da
+hotmart a gente tem tem muita é fácil
+faz faz algum tipo de trabalho e pega um
+tipo de dado
+o vulcão vulcão é é é a plataforma que
+está por trás do todo hotmart lá que a
+gente chama de vulcano
+oh e vamos falar um pouco aí sobre o
+machine lá que interessa muita gente eu
+tô falando para caramba aí mas se você
+quiser então bem fazer alguma pergunta
+alguma coisa pode pode falar tranquilo
+se ele perguntar fique à vontade beleza
+e hoje basicamente você ver várias
+empresas que utilizam a chinana divisão
+da passagem no netflix a recomendação de
+produto vai permitir uber botify
+facebook de vez em quando tá tendo
+vazamento a idade para você mas todas
+essas duas até o facebook é google ele
+está disponível muitas ferramentas são
+pessoas que é super inteligente e se
+você pensava o produto final dele não é
+isso ele abre para a comunidade a
+comunidade pode usar e melhorar ainda
+ferramenta de ltda-me é então para eles
+é sensacional isso e para a comunidade
+também se você pensar por todas as
+ferramentas do google coloca o pessoas
+que é super útil eles apresente divisa
+para caramba no dia a dia e
+ah e tem muito mais assim o tipo de
+aplicações que a gente tem na as
+possibilidades de aplicações são muito
+grandes em detecção de fraude a gente
+também aplicar algum usar o ultimate
+para os fracos tem sistema recomendação
+é usar que isso aqui é basicamente que
+que todo mundo sai mostrando aí usam é
+baseado em que market baixo te alguma
+coisa assim então a gente não não tá
+rodando ainda nosso sistema a gente tá
+no processo ainda de criar o sistema de
+colonização mas não sei ainda como como
+ah entendi fase esse esse quarto agora
+está criando esse sistema recomendação
+recomendação de produtos para primeira
+legendas aí beleza
+eu mostro aqui também algumas
+ferramentas que a gente que a gente usa
+e que eu acho legal mostrar aqui o
+próximo a gente dentro do ele tem
+disponível para r para baixo assim ele
+tem uma versão free e é muito bom que
+ele interativa ceilândia sim dentro da
+nossa equipe que é
+e é antes disso eu usava muito no
+highcharts te acho muito boa também mas
+ele ele precisa de alguma licença assim
+pessoal lá muito lá na equipe não usa
+não não gosta muito de usar ele é porque
+eu não sei se tem para python para
+gráfico 3d o r tem uma biblioteca agora
+que é muito louca cara que ela tal de
+richard eu vou falar
+a nossa cara é absurda que é
+é aquele absurdo eu vi um posto agora de
+ouro
+pen drive studio coffee 2020 foi agora
+pouco um tive um acho que foi o criador
+do pacote se não me engano ele falou com
+a visualização de da terra e da lua
+assim sensacional caracristi nossa é
+ah e tem também um agora que que faz
+filtro mais fácil não é por exemplo se
+você quiser fazer a esse gráfico aí
+segundo né com colocando esse azul mais
+claro e tal você quiser filtrar fica
+muito mais fácil agora com uma
+biblioteca ela que eles fizeram do em
+que agora não vou não é um nome bem é é
+gg highlight eu acho gigi highlights the
+highlight of muito maneiro pô eu ficava
+estava fazer um fazendo porrolhão para
+poder fazer um negócio agora duas linhas
+que faz cara que não seja muito bom e
+outra ferramenta que que a gente usar lá
+o júpiter náutico que eu acho que é o
+patrão tá todo mundo dos
+a opções desapaixonar r eu não vejo
+muita gente utiliza não acho que até
+porque o menos ruim a melhor e de é que
+tem um cara ajuda super bom do maestro
+olá eu sou uma o dissidente lá do acho
+que só eu que que gosta de usar ele lá o
+o júpiter notebook às vezes quando você
+trabalha com muitos dados aí ele não não
+dar um pause não cara não acho que a
+máquina também que a gente usa lá é bem
+parruda ela aguenta bem prendi nunca
+tive nenhum problema com júpiter não
+beleza
+a outra outra ferramenta muito legal
+esse aqui é o algoritmo algoritmo até a
+google comprou esse site a 3 anos atrás
+três anos atrás tematicamente você cria
+se o algoritmo imaginando e pode
+disponibilizar para para o pessoal como
+utilizar ati pagar para isso ou você
+pode pagar e utilizar a modelo de outra
+pessoa por exemplo expectante caraca de
+colocar a cor imagem sim você só paga
+ele ensina lá como você vai vai chamar e
+você pode usar qualquer tipo eurico está
+disponibilizado apagando e a barata
+assim ele tem é melhor que tem até um
+trailer você pode testar algumas coisas
+não é a alegria essa aqui essa
+plataforma nossa depois bota o link para
+gente ou vou colocar
+oi é teu o facebook também tem uma
+biblioteca em cima profeti que é
+basicamente para você fazer forcast
+fazer previsão que é muito legal fácil
+de usar para caramba também tem para
+herd para python e você super super
+simples você não sabe fazer uma uma
+previsão legal legal também e legal
+nossa uma coisa dia do que era ele
+pessoa muito melhor se você tinha uma
+quantidade quantidade
+a revista processo de alcinha para fazer
+previsões ti
+ah e também eu trouxe aqui você alguns
+queijos legais que a gente usa ela dá a
+gente tem lá da hotmart e foi esse teve
+aqui é o que eu te falei sobre o
+é sobre análise do fag2018 que a gente
+fez a negócio como foi que a gente fez
+análise não tem um lote link que é
+basicamente o link do afiliado coloca é
+disponibiliza para que você clique e
+entre no canal e vamos fazer a compra
+é o que a gente foi no face 2018 a gente
+analisou e onde é que tava vindo esse
+esse escrito e quando você clica em
+alguma coisa você também tem um você
+também tem vários outros tipos de
+informação sobre sobre aquela pessoa que
+dá de fez o que a gente fez um pouco
+mais análises com esses dados em
+negócios informais 52 gb de dados
+ficaram a
+o e primeiro peraê milionário que a
+gente fez foi essa aqui quer que é legal
+de ver ela é que a gente se você olhar
+aqui o brinquedinho você vê que o
+pessoal o utilizo entendi logo de manhã
+na horário de trabalho de 8 às 10 o
+pessoal tá mais utilizado e as outras
+redes sociais que você precisa de um
+pouco mais interatividades o facebook
+google é vezes tem que pagar uma você
+trabalha nas costas tá então isso tudo
+que está vendo um vídeo pessoal usa mais
+à noite
+o negócio redes sociais aí aqui tá
+mostrando um
+oi gente viu também de onde é que ele
+nos acesso a gente veio assim que a
+última tem uma força muito grande na na
+américa do sul central e nós teve
+e a verdade eu quero problema que é
+ninguém manda notificação de notícias
+horário verdade é
+a dica a gente vê que tem basicamente a
+gente tem usuário de quase todo mundo é
+zag e tem um uma concentração maior que
+nas américas a gente tem um usuário de
+quase todo mundo legal legal e outro
+dado que chega para a gente para a
+partir do link que que a pessoa clica
+qual o tipo de aparelho que ele usou
+para ficar isso ela e cada quadradinho
+desse vai ser um aparelho e ferrar
+modelo de aparelho diferente em 1943
+modelos legal pedir o iphone ele
+oi mano que dia que o meu quadradinho
+mas também porque o samsung ele quebra o
+modelo então acho que se juntasse aqui o
+samsung esse rosto ele é qual o meu lado
+do iphone
+o que é samsung sm samsung sm meu moto
+g2 mc
+o legal é
+bom e que a gente a gente também tem
+querido lata vote marcelo podcast para
+gente previsão de previsão de
+faturamento que a gente usa lá que é
+sempre vou para a gente fazer essa
+previsão de faturamento para tela se
+você conseguir ter um planejamento maior
+mesmo que você não se tá pensando em
+fazer isso na sua empresa mesmo você não
+acerte e cem porcento mesmo que modelo
+não teja bom você tem uma ideia do que
+vai você vai que vai vir nesse próximo
+mês se você pode se programar um pouco
+melhor sim
+é exatamente vinco a gente a gente usa
+e eu coloquei um exemplo acho que uma
+comunidade estratificante não não
+precisa tanto explicar o que é uma série
+temporal
+é é é
+e o vocês esa perguntou que qual o grão
+que vocês fazem a previsão fazem a
+partir do global ou a partir do grupo de
+cliente
+bom então a gente tem previsão global e
+tem previsão também por país
+é porque como é que está crescendo fora
+do brasil também é bom que a gente
+sempre tem esse planejamento e assim as
+características de cada país são bem
+singulares é que a gente por exemplo não
+não é um não é o que acontece realmente
+lá mas como meu amor eu sei que uma na
+espanha por exemplo tem
+é um costume que é muito diferente que a
+se esta galera fala se esta então é que
+quis assim é seu uma depois do almoço
+ele dorme uma hora ata é uma coisa que
+não não é um exemplo prático assim mas é
+um costume que é diferente que se formar
+outros acaba mudando o comportamento e
+principalmente se como não é tão
+desenvolvido o controle no brasil que a
+gente no brasil já tem um mercado prima
+duro e em outros países contrários ao
+méxico a gente tem uma grande presença
+jamais não é foi desenvolvido por
+e eu tô nessa se esta também método de
+pagamento para aquilo acontecer ou menos
+uns 15 minutos se não são nada e método
+de pagamento também muda muito né que
+pensar boleto só existe no brasil
+o boleto na coisa originalmente
+brasileira né hum isso aí a gente você
+costume de pagar parcelado também você
+não encontra aí dificilmente você vai
+encontrar em outros países então esse
+tipo de
+o e comportamentos acaba acaba afetando
+tipo de precisão que a gente faz e o
+cesar perguntou de qual grão e que vocês
+fazem a previsão o grão seria o
+granulado de granularidade que a gente
+faz é por mês por ano por dia
+eu achei isso
+e aí responde você respondeu já
+e aí ele falou que vai estar no futebol
+tanto para crianças
+é a é a gente faz mas a grande acho que
+não sei se vocês pegam do ceará por
+mesmo é isso gente faz por mês para
+escrever mensalmente a gente não faz
+essa pressão de ar eu limpo perguntou
+aqui em relação ao tempo quem é qual faz
+mais mal relação ao tempo assim
+me explica melhor assim mezameshi é isso
+aí ele não tem essa previsão diária não
+ele trabalha aquela mensagem que não faz
+tanto sentido para o negócio a gente ter
+uma previsão de ar beleza
+bom e o que a gente usa lá para trazer
+se frases tipo de sair um
+o que é basicamente a gente tem o não
+não pode falar aí acho que a ideia mas
+ele ele falando vocês irem perguntando
+não tem problema não
+e aí ele falou que é se vocês usam
+grupos de clientes para prever a soma do
+global ou se vocês fazem previsão direto
+no grão acumulada
+e não a gente usar o dado todo nada todo
+para fazer a gente não faz por cliente
+não quer como é isso daí vai é uma
+médica esse negócio da gente sabe a
+gente conseguir fazer planejamento então
+não tem nada a ver com o cliente final
+de a gente está entregando agora é
+previsão de faturamento para ele para
+dentro da empresa amigo beleza
+quem é
+é assim que a gente usa o site max lá né
+que a gente que pega o componente
+sazonal será que tem sazonalidade nos
+dados que seriam praticamente a natal se
+janeiro é isso natal dezembro vende mais
+isso é que a funcionalidade o componente
+auto-regressivo que era a gente olhar a
+gente comparação com dezembro passado é
+como é que está se relacionam
+a integridade que é para cada não falo
+previsto ou aplicar uma diferença zinha
+nele para a gente pegar um pouco da
+tendência
+the burning earth que seria basicamente
+comportamento da média móvel dos últimos
+períodos tudo nos pelos e o finn a vaga
+e
+e depois horas eu um corrente de cordas
+que eu saio max ele pega ele é é uma
+previsão une variada
+o nome da série temporal e isso aí é
+para gente colocar varias vezes eles
+hoje não a gente usa essa sai mas aqui
+basicamente a gente pode colocar foi foi
+meio de carnaval foi comer black friday
+em vez de dezembro que é meio de natal
+que isso aí vai melhorar um pouco a
+nossa previsão porque aí entra como dama
+e como é que entrou no meu deles
+e ele entra movimenta como depender eu
+vou te mostrar aqui tá beleza aqui ó tá
+vendo ó
+eu não entro como da minha
+e aí vai te incomodar entendeu
+e deve ser o de que fui eu o link olá é
+de que folha isso é dia que né isso
+um mês para a próxima eleição essa daqui
+não na caso real não mas a gente usa
+mais ou menos assim
+e é isso aqui é basicamente o resultado
+que a gente que a gente conseguiu
+é o nosso modelo atual que é sim até bem
+ajustado nosso nosso poder eu acho que
+me engano o começo não é menos de um por
+cento então a gente consegue ter uma
+previsibilidade bem legal para a gente
+está trabalhando com quantos animais ele
+consegue pegar a pinha as
+particularidades funcionalidade de negão
+vocês concorrentes aí na da série
+temporal show a gente até usou o pro
+feed não não deu muito legal a gente já
+usou uma rede neural também de não não
+ficou muito legal
+se você já fizeram roubo de lendas
+eu já mas o negócio é que é nesse aqui
+eu acho até que funcionaria mais mas a
+gente tem previsão de um tempo um pouco
+maior e apesar de não ser muito apurado
+porque o último antes ele funciona bem
+para quando são três períodos depois né
+e aí como é que precisa de um pouco mais
+a gente olha o ano todo é a gente acaba
+usando o oscar em março mesmo entendi
+e a gente tem também outro aqui pegar
+esse aqui é o máximo que o nosso atender
+visual virtual ele ajuda para atender
+líquidos eu posso parar para assim para
+que não são todos os tickets mas o que
+que a gente consegue treinar para ele
+com as coisas que são mais automatizadas
+para conseguir agilizar o
+e o processo de atendimento aos clientes
+é legal o césar perguntou que para o
+enem um primeiro nível de suporte
+e como assim tu entendeu não sei não sei
+também não primeiro nível de suporte
+como assim
+eu acho que é o primeiro contato e se
+for primeiro contato que ele tá falando
+ó ela fala galera então é ó oi tudo bem
+fala aí eu tô falando de um é justamente
+isso que ele tá falando que é são
+tarefas mais automatizadas faca alguma
+coisa desse tipo você tem níveis de
+suporte né o primeiro nível mas é um
+chatbot e o segundo nível você quando
+você não consegue resolver com o chatbot
+você redireciona para um ser humano né
+só faço isso mas assim a gente a gente
+não faz o primeiro contato sempre como o
+atendente virtual não que tem tem
+competição um pouco mais complexos e não
+acho que até não faz sentido a gente
+colocar o o chatbot porque poder sentir
+sei lá o cara tá com raiva porque não tá
+alguma coisa do produto que ele comprou
+se você falou com o chatbot ele
+responderá você acaba piorando a nossa
+avaliação então assim não são todos os
+contextos up
+e essa é uma coisa trivial sabe a rede a
+gente ficou o nosso mas que o nosso
+querido entendeu acesso à venda só
+principalmente para piorar fakie né para
+melhorar a experiência de fakie né não
+sei se a comum
+é e como funciona é o cliente envia a
+mensagem ao mensagem vai para o nosso
+ideias o márcio o nosso atendente
+analisa entendi qual contexto daquela
+mensagem se tiver dentro do contexto que
+ele ele tiver é permitido responder e
+ele tiver um nível de confiança maior do
+que a gente tem o nível acontece que a
+gente certa como como nível de confiança
+que você vai vai ter para conseguir
+responder aquele que ele diga a ele
+responde
+e as nossas não tiver o contato está
+dentro do contexto ele responde assim
+bem padrão de xbox one
+e aí como é que beleza assim como a
+senhora tá bem até falando isso já né
+que é como é que funciona ele olha lá os
+nikes ver o motivo e já tem alguma
+resposta e quadrante mas assim eu já
+falei assim dificilmente o chatbot ele
+vai conseguir desconto no nível celular
+do google que ligou não é
+a resposta de basicamente fala quase
+como humano mas assim se não tiver nesse
+nível o que você vai fazer bastante
+ajudar o o suporte e não substituir é
+uma ferramenta para agilizar para
+melhorar o nosso atendimento do que
+tentar realmente substituir o mapa que
+tem coisas que é um dos pilares é o
+nosso né que é ser mostrar atenção e
+carinho pelos clientes então assim tem
+coisas que o robô não vai conseguir
+mostrar não vai conseguir dar uma
+atenção maior vai conseguir ajudar o
+cliente quando ele tá assim pessoalmente
+se ele se ele tiver com raiva né do que
+qualquer tipo de coisa que aconteceu
+e mais nem tudo são flores nem coisas
+assim coisa que que eu marco não sabe
+responder como posso bomba no youtube e
+depois até que me ajude familiar de
+fazer oi boa noite não consegui pagar na
+data prevista isso não dá nada né cadê o
+produto essa é muito boa posso bombar
+então se eu soubesse quando arrumar meu
+tu tá fazendo isso é muito bom tem
+pérolas dessa aí na mensagem nessa e
+a isabela recebi cada coisa né o o césar
+pergunta que vocês usam algum algum
+fêmea o chatbot de vocês tipo dela foi
+bem mods são xerox não o o chatbot a
+gente ele veio de uma de uma empresa que
+a hotmart adquiriu que chamava assim a
+tecnologia morphing isso algo assim
+ponto e um
+e aí a gente adquiriu essa empresa e
+acabou aprimorando o pouco da
+arquitetura um pouco do algoritmo deles
+para a gente conseguir responder mas
+hoje é tu desenvolvido lá dentro mesmo
+essa parte do a inteligência dos
+transportes legal a tem até que uma foto
+de como funciona a arquitetura deste é
+bem legal que é toda feita em micro
+serviço
+a ir a gente vai ter aqui o usuário
+envia um e-mail ele cai no nosso
+sendeski
+a 210 km envia para o para o micro
+serviço de responder esse como é que o
+serviço vai enviar para o classificador
+que vai aqui ele vai entender qual o
+contexto e vai vai ver se ele vai
+responder ou não se ele ficar aí aqui no
+contexto que ele responde ele entendeu o
+que é o contexto ele vai e manda a
+resposta de volta para o usuário e tudo
+isso acontece a gente vai enviando log
+para conseguir e monitorando com alguns
+a performance do modelo a gente precisar
+é treinar se a gente deve agora aqui tá
+performando bem um texto para vamos
+adicionar algum outro um beijo
+e e
+bom e é basicamente isso a nossa
+arquitetura que de roda lá o chatbot
+melhor e algum desafios que
+o que a gente encontra na área que eu
+acho que isso vai ser o desafio como em
+qualquer outro tipo de empresa mas ser
+primeiro é a democratização da arte como
+eu já falei bastante aqui é um desafio
+muito grande você conseguir democratizar
+porque assim que você tem que ter em tá
+bonitinho fosse lendário tem que tá
+confiável tem que ele tem que conseguir
+processar isso e o tempo
+e é útil para desejar consumido
+oi e um caminho eduardo nessa essa
+democracia empresa pela política também
+né se não magina cada área cada área
+ficar com os dados abertos ali para
+qualquer pessoa mexer e ver o que estão
+fazendo assim gata também tem toda uma
+política também de conscientização
+porque senão
+a luz até acabar nas classifica tem um
+nível de acesso diferente até aqui nessa
+essa parte 2 aí que a tia governantes
+lidaram não dá para mostrar dados sem
+fio para todo mundo eu não dou não é
+todo mundo que pode deixa acesso a todos
+os dados mas o nosso ferramenta que a
+gente desenvolveu lá dá cá boxe a gente
+consegue muita nessa parte pessoalmente
+é
+o gerenciamento de permissões a gente
+consegue fazer dentro dessas ferramentas
+o gerson é uma outra uma outra no
+desafio a gente encontra muito a gente
+conseguir educar também todas as áreas a
+saber utilizar o dados saber como que
+gráfico de fazer o saber quando usar uma
+média quando usar uma medida gente
+sempre faz alguns outros jogos internos
+da vida ótima uma coisa que é bem legal
+no final do ano a gente tem o o
+fechamento do ano aí um dos nossos manda
+sair ensine para evoluir
+o que acontece dentro da empresa é assim
+é uma semana que fica rolando palestra
+de vários especialistas de cada cada
+parte da empresa até que até mesmo não
+não não precisa ser especialista você
+quer falar de alguma coisa que a gente
+tentar ensinar alguma coisa para ir para
+os outros os outros supers com a região
+opção pessoal que trabalha lá também não
+demais você se submete lá faz uma
+palestra melhor conversa com o pessoal
+então acho isso muito importante as
+empresas elas acabam perdendo muitos
+talentos nele e não só isso até a
+própria história da empresa não cara tem
+eu lembro que quando eu trabalhei aqui
+em consultoria né eu às vezes chegava na
+empresa ele a onde onde estão os dados e
+tal olhar vai lá no joão o joão eu o
+dono do banco tipo banco tem nome
+e o banco do joão foi vão morrer ou sair
+da empresa acabou o banco né porque o
+banco o joão não tava não mas então tipo
+ninguém passou conhecimento ficou tudo
+para o joão né e o joão foi embora
+entendeu então não tem mais nada absurdo
+né cara mas acontece muito infelizmente
+se eu acho muito importante essa
+passagem de conhecimento é não e você
+ensinando a outras pessoas é a melhor
+forma de melhor forma de aprender a
+melhor forma com certeza concorda e é
+legal muitas vezes precisar de comer
+pessoal desenvolvimento sempre tem
+interesse na área de mach lane que a
+gente especial e quando você vai vir
+para eles falar alguma coisa sobre isso
+pessoal agora
+e até a gente entende mesmo por exemplo
+será mesmo para utilização de imaginando
+usar o doc ok é sensacional apesar ia
+não não a gente não já usei mais ele
+hoje eu estou usando pouco mais jantar
+para entender na área voltar deixar tudo
+com tem realizado e usar o doc para tudo
+que é muito legal melhor de tudo apesar
+de não funcionar também no ele croche
+plataformas
+o negócio e outro desafio que a gente
+tem na eu acho que isso não só dentro da
+empresa lá mas acho que em todas as
+datas são esse é você ser um se você é
+um generalista se você é um especialista
+um generalista hoje o que a gente tem
+como a estruturar nossa área a gente tem
+o centro de a área datações central ali
+e atendendo a cada cada equipe área que
+não a todos os arquivos mas também tem
+outra eu já vi tem outros outras
+empresas que os dois quartos que coloca
+consciente cidade de quadro de carneiros
+coelhos e de cada produto para tratar
+atuando junto com time e acho que isso
+hoje é um super desafio tira mais que
+ainda não testou esse o modelo mais
+especialista que é área um pouco mais
+descentralizada tem mais talvez seja o
+futuro dar a nossa área lá
+a beleza acho eu só me engano acho que o
+websphere ele utiliza de paris spotify
+também o google eu sei que eu te vejo
+assim eu tenho sim tô bem graças a deus
+lá eu não sei não sei ainda bem que eu
+chegar
+e eu acho que é legal até o cm
+com certeza assim tá mais imerso dentro
+da área acho que você consegue entregar
+mais valor
+sim com certeza
+e há outro tipo de desafio
+e é mas se a comunicação com os times de
+negócio que muitas vezes a gente vai
+fazer lá o modelão sinistram que vai
+prever tudo vai saber de tudo mas você
+não consegue passar esse valor para esse
+negócio não consegue comunicar isso no
+final das contas você não não é nada né
+se você tem que fazer com que com que
+ali negócio entendeu que você tá
+tentando passar ele se ir para isso a
+gente vai ter não várias vezes não é
+melhor nos que a gente não use um modelo
+caixa-preta um ela aqui neural que
+consegue interpretar muita coisa eu tive
+esse modelo para matizar porque a gente
+consegue ter interpretabilidade dos
+modelos isso até um tema ficar envolve
+ele vai na conferência sair de ensino
+ficares muita gente falando sobre a
+prestabilidade não certeza vieses também
+né ruim tá e a e aí fala falei do toque
+né o outro desafio é a reprodutibilidade
+cara isso acho que é muito importante a
+gente já já pegou o estojo de
+antigamente do lado e pistola automática
+presentes e não conseguiu reproduzir
+porque eu tava mal documentado tinha
+feito de
+o que eles não tinham buscado de uma
+forma que ele não sabia hoje a gente
+tenta pressionar tudo e comentar e fazer
+aqui o máximo possível a gente consiga
+reprodutibilidade que às vezes a gente
+vai precisar de um tipo de estudo que
+que a gente já fez tem que tem que ir
+vai precisar então dele com uma
+velocidade maior e borra se tiver tudo
+lá de forma fácil de a gente conseguir
+reproduzir ela você passa a mente só
+rodar de novo sim
+o importante é outra coisa que até já
+comentei um pouco e a parte da atividade
+que a gente tem que cuidar tem que ser
+confiável a gente tem que conseguir
+passar essa confiança para que todo
+mundo consiga usar o trabalho e até
+mesmo quando eu quando a gente está
+utilizando para fazer algum tipo de
+estudo a gente tá no ambiente negócio
+sempre vai precisar a gente toda vez que
+nunca a gente vai estar ajudando a tomar
+ali vai refletir em algum tipo de
+consequência monetária então se a gente
+usa um dado errado e toma e tira uma
+conclusão errada o cabritinho carpete
+aos acaba tendo um consequência
+monetária por um negócio vou certeza não
+é legal
+oi e a proteção aos dados que é
+especialmente para as leis aí de
+proteção de dados chegando tem que tá
+super atento a isso lá a gente já é o
+césar falou que ela se puder na veia é
+isso mesmo cara hein tá super a tempo
+que as punições são ser fossa e acho que
+mais que a punição o mesmo por isso são
+esses é a punição como sujar o nome da
+empresa né empresa que vá da capa com
+seu nome sujo ninguém vai confiar mais
+naquela empresa então eu acho que é
+importante a gente essa concentração de
+proteger os dados
+o e basicamente tiago era isso que
+queria mostrar pra vocês aí maravilha
+foi bem legal pode falar antes muito bom
+é isso amor estamos buscando aí você
+perguntou com vaga analista idade
+cientista idade que tiver interesse aí
+maravilha manda ele não que ele também a
+o link e já tá aí né esse hotmart eu vou
+anotar aqui para te mate-a
+o hotmart.com
+a barra de ovos nesse isso até quem for
+de fora ele de belo horizonte que a
+nossa sede em belo horizonte quem for de
+fora a gente tem um programa de
+incentivo para quem quiser vir para cá
+o automático churn o lincoln está
+falando aqui bacana quase estilos para
+analista de idade
+o cara falou um pouco né lá na naqueles
+lá volta lá no slide mas eu acho que
+assim se você você olhando lá vai ter um
+pouco das competências mas acho que uma
+conversa e se até tava lá que é super
+importante que não tava lá na verdade
+acho que é super importante é sql a sql
+a gente vê muita gente porque não temos
+que eu desse qr tava lá na casa lá na
+lata cientista tal como é que tá agora
+e aí
+e ai louco aí aí eu acho que ele está
+aqui é verdade tanto para o nariz para o
+cientista acho que é uma esquina
+imprescindível né porque é base nada na
+cidade exatamente toda a lógica de
+agrupamento seleção tudo vendo eles
+querem isso até para você conseguir ter
+mais autonomia mesmo vocês vamos lá no
+banco quando eu fiz um curso básico de
+se querem que eu comecei a entender mais
+essa essa coisa de fazer cruzamento
+condado fazer tem que falar hoje os mais
+diz né dói né fazer os gideões fazer
+os filtros agrupamento mesmo né então
+acho que é super importante mesmo com
+certeza pô show de bola cara a melhor
+então o alguém tem mais alguma pergunta
+pessoal
+e a gente fechar aqui canguru
+e aí
+o atraiu linkedin do gerson eu vou botar
+lá também para vocês ou falou aqui
+parabéns muito bom
+o nome césar show de bola gerson ótimo
+papo posso encher muito bom cara
+parabéns aí é o da vai perceber que tem
+um cara que tem esqueça aí muito boa
+hoje realmente excelente gostei demais
+da tua exposição aqui para a gente está
+conversa beleza cara você vai fazer
+thiagão brigado pelo convite aí obrigado
+aí todo mundo que tava escutando a gente
+a gente que agradece de você vir aqui
+conversar com a gente já tem já 1:40 já
+julgue eu tenho 1:30 de lá já vai ficar
+mais é por aí show de bola maravilha
+cara muito bom cara obrigadão pelo
+facebook passar aí
+o show e aí pessoal quem quiser é manda
+aí vaga para mandar lá se candidatar lá
+no hotmart né que você viu que os caras
+são sério aí e acompanha também o
+datacad né isso que eu mandei ele mandar
+eu botei o link botei acompanha lá que
+galera a senhora lá também eu tô lá na
+comunidade antes de lá mais atuante cara
+mas como eu tenho tem um grupo no
+whatsapp facebook tal e não whatsapp
+telegram desculpa eu acabo priorizando
+os grupos do que sinal ficou doido não
+consigamos mas já tem brinquedinho
+whatsapp brincar aí para ficar aqueles
+usam lá que eu fiz leque qual o nome
+disso é slacks mesmo foi para ficar nos
+leque é mais complicado mas eu gosto
+bastante lá
+fala galera do
+o que que compartilhar sim na verdade eu
+gosto lá do conversas né do pessoal e
+tal pessoal bem bem top sempre tem algum
+assunto interessante lá e também tem um
+podcast legal falar tem um podcast
+durata hackers que tá lá no spotify que
+quiser procurar procura lá foi o foi o
+podcast que eu botei aqui o podcast ou e
+foi sim é legal não beleza então beleza
+olha o cara brasil valeu obrigado pela
+presença aí falou tchau
+e aí

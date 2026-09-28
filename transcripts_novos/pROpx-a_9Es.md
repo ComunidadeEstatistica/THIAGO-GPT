@@ -1,0 +1,1259 @@
+# Live Fabiana Melo (Estatística UFSCAR  e MBA em Adm FGV) - Carreira e Área de Analytics
+
+- **URL:** https://www.youtube.com/watch?v=pROpx-a_9Es
+- **ID:** pROpx-a_9Es
+
+## Transcrição
+
+é pode gostar e mas se não souber também
+é verdade perfeito é isso aí com certeza
+eu só às vezes porque fez é uma ciência
+da computação alguma coisa pessoal já se
+acha que está modelando como preciso
+estatística e outras coisas não pode
+sair candidato ainda que acha que o que
+ela quer dizer no post é fabiana tem na
+verdade pra isso porque eu eu tenho uma
+dificuldade enorme é para contratação de
+saúde cuidados de uma empresa que estava
+em vários sentidos e os dados do perfil
+de junho é o senhor ea expectativa é que
+alguns colocam a empresa na própria
+entrevista é pra quem conhece o mercado
+de mais de wen de vendas do que
+realmente de análise
+vamos lá tiago beleza então é um prazer
+receber afegã
+[Música]
+obrigado por ter aceite o convite
+obrigado também por o ter lido aquilo
+naquele dia em que eu falei que sou um
+cara bacana
+meu dia o melhorou sabe foi perfeito
+assim muito muito acurado a sua análise
+achei muito legal e então manda um
+bronca isso apresenta e manda bala
+valeu obrigado obrigado e bom então sou
+fabiana melo é estável mas que ela
+federal de são carlos inclusive estou
+aqui hoje em são carlos
+depois eu fiz mba em gestão empresarial
+no começo da carreira eu fiz é também
+como estatístico itaú telefónica senil
+sim é então eu gostei principalmente
+metal que tinha banco de dados
+estruturados né uma forma de ganhar
+conhecimento em analytics não se falava
+assim falava se muito na época de
+capital dos grandes bancos
+a cena é de ganhar conhecimento porque
+tento já base de dados eles já estavam
+bem opinado disso em 2003 na época e
+segundo ciência de dados então é todo
+meu aprendizado no background de
+analytics é foi o que eu foquei em
+começo de carreira e até pela minha
+formação que foi estatística depois
+gestão empresarial não quis muito seguir
+a carreira em y elvis mais seguir uma
+carreira de gestão
+então eu tinha uma necessidade não me
+ouvia que realmente não é faltava
+conhecimento do negócio
+por exemplo eu não queria que uma
+análise fosse direcionada para o gestor
+criado um problema que resolver quem não
+soubesse né fazer acesso recolher
+qualquer problema e eu doasse um
+direcionamento da análise
+eu senti essa necessidade de
+conhecimento do negócio pra fazer isso
+então mesmo com toda a bagagem da tsu
+era deficitária
+então nesse começo de carreira foi
+conhecimento em programação a
+programação foi mais fácil então até na
+época o rr entre eles as o preferido
+tanto que se você der é quem tem
+dinheiro quem tinha dinheiro é era nem
+os grandes bancos então eles investiram
+us inferior investir em ferramentas que
+eram de preferência de preferência não
+só na época que hoje por ser frio né por
+falar mais em ciências de dados muito
+estáticos assistam a prender um ele
+também né então eu tive contato com r
+mas tive mais contato com os ossos na
+carreira
+e aí nem provas só está se moldando nem
+pro é também dessa forma de compensar
+fibra sim mas na parte tática nos
+detalhes lado do sócio gostosa
+depois eu fui pra ser assim então para
+conhecer tem uma experiência mais de
+construir um negócio
+então eu era uma parte não pretende se
+mudar de prateleira que a serasa
+a venda foi fazer uma parte de uma
+consultora pré-vendas para modelos
+customizados então é isso também foi
+muito importante na minha carreira para
+conhecer o mercado né
+então eu conversava muito com um
+um é grandes executivos dos bancos enfim
+de bancos diferentes às vezes estava
+muito tel então isso me trouxe um
+background muito bom pra lá e pra cá
+para gerenciar essa aí assume a área de
+gerência na natura eu comecei com
+analytics
+e aí veio esse poder é de esse potencial
+nosso médico quem tem essa bagagem
+estatística ela consegue por exemplo
+construir uma política de crédito muito
+bem então eu comecei a ganhar mas eu sou
+uma hora eu assumi analytics depois
+assumir crédito depois fraude depois
+cobrança
+então é o fato de ter essa bagagem o
+time preocupado com essa bagagem foi
+conhecido internamente trabalhando eles
+viram que realmente que tem essa bagagem
+consegue direcionar estrategicamente
+esse o que se fala em data driven
+realmente a gente consegue a política
+sair mas sentados fazendo um
+planejamento experimento fastest netão
+isso traz não é muito é muito
+reconhecimento para o negócio por
+exemplo na natura eu eu peguei uma fase
+de de inadimplência enorme no mercado
+então os grandes bancos estavam fechando
+a torneira de crítica de crédito
+e aí com estatística colocando
+estatística com ela é variável resposta
+customizada enfim mexer muito na parte
+tática mas também sabia como mexer na
+parte de negócios
+ajustei todas as políticas de um golde
+de crédito política de gestão de crédito
+sempre utilizando se da ti ti utilizando
+na entrada um board neps 10 os modelos
+fazendo gay vazamentos processos nelson
+collection cobrança fraude também é e
+lógico não haja estatísticas têm uma
+visão de um processo legal contra a
+nossa parte de gestão sã e aí eu tava lá
+há a natura é culpada mas se falava
+muito em fintech principalmente no bank
+vende bastante a parte de ciências de
+dados então quis mudar um pouco de si
+estava nessa fase de na estatística
+cientistas de dados aí é é a última
+grande vontade também de colocar a parte
+de ciências de dados num processo de
+fraude
+e aí eu fui chamada para a sede de risco
+até ver diretora e depois de um tempo eu
+assumi também outras áreas né depois de
+dançam enfim a cabeça em outras áreas na
+sub-área de cadastro tem um perfil mais
+operacional dentro da área de risco
+também com proteína é uma máquina criar
+uma célula decência de dados então
+contratei os cientistas fiz um processo
+enorme e aí que eu falei que eu
+realmente tive muita dificuldade de
+encontrar se encher de dados porque
+aparecia muitas pessoas com conhecimento
+em r pai tomaz poucas pessoas um
+experiência né o bagagem realmente
+estatística de analytics é algo que você
+fica com o pé atrás de contratar então e
+assim mas esses recursos humanos ele
+está há três soluções daquelas três
+opções você precisa escolher alguém né e
+depois se você for pro outro prossegue o
+processo de mais três que escolher
+alguém eu me ver um pouco numa situação
+até uma churrascada porque o que
+aparecer pra mim tinha muita gente
+recém-formada e é lógico que tem um
+mercado precisa dar oportunidade para
+essa pessoa mas a gente precisava de
+alguém que fosse especialista então se
+você pega hoje os seguintes dados também
+então atacar mas você tem uma bagagem
+boa que você acha completa ah eu quero
+25 mil reais então por isso que até
+segundo centro de dados então é um
+salário ele é encontrar a pessoa sair
+principalmente meio termo é que tá entre
+júnior em pleno enfim é depois assumir
+depois da neon
+eu tenho uma vontade que nati um sempre
+tive uma vontade de montar a própria
+consultoria eu evoluir um pouco uma
+consultora que meu marido começou e hoje
+eu tô trabalhando né criando
+a cada calcula
+é interessante porque quando eu tive
+toda essa experiência considerada né
+no mercado aí eu resolvi e nené cuidar
+um pouco dessa parte consultoria mas só
+caminha em paralelo também algumas
+posições invista sair pra caminhar em
+paralelo é eu tenho 10 anos também no
+mercado financeiro e eu coloquei a
+melhor arte porque pra mim é uma
+inspiração né e quando se fala de mulher
+nessa posição de rede principal essência
+de dados é algo muito novo né
+e realmente muito difícil não só na
+parte de ciências de dados como também
+uma mulher não pode uma posição é de
+executiva não é algo que é preciso
+quebrar muitas paredes enfim a própria
+cultura já faz com que afinidades sejam
+mais masculinizadas nessas mais sexo
+masculino então algumas dificuldades aí
+sim mas enfim acho que com o
+conhecimento sendo bem consistente e
+consegue ter uma carreira de sucesso com
+certeza isso você atribui também esse
+sucesso todo a parte de gestão nem que
+você entende muito dos negócios também
+né
+o que as pessoas ignoram bastante sim
+tem é é assim sentem cientista de dados
+que ele não gosta de trabalhar com o
+negócio então tem é que se encontra
+muito estatisticamente é muito disso é
+assim é é quando a pessoa quer seguir a
+carreira em y mas ela acaba prejudicando
+um pouco a carreira dela na própria
+empresa porque ela acha que o
+conhecimento do negócio não vai agregar
+valor né na sua carreira e acaba não
+entrando muito nessa parte de
+conhecimento mesmo que tivesse não vou
+entregar o modelo mas eu não quero saber
+o que você vai fazer depois pré uma
+fórmula matemática você vai colocar no
+seu sistema então isso é ruim porque
+algumas empresas se principalmente nesse
+mundo de de startup
+às vezes você é o cara que vai ter que
+fazer tudo então ele vai te contratar
+não vai ter alguém
+o conhecimento para colocar um modelo
+estático de uma política de crédito uma
+política de crm então uma régua do cprm
+então é exige sim esse conhecimento é
+principalmente para quem quer trabalhar
+nesse mercado não estou falando que no
+mercado de saúde aí acho que é uma outra
+linha
+mas realmente o conhecimento é
+necessário
+independente se a pessoa que é uma
+carreira em y enfim se uma data para
+direcionar meus objetivos nesse caso
+entende porque vai ser aquela análise
+pode direcionar vai ser pra crédito
+nessa fraude né
+sim apesar de seu mundo muito grande de
+estatísticas e quando você vai para esse
+mercado é quando se por exemplo a
+maioria 90% se resolve com o modelo
+logístico então isso acaba meio que não
+sufocando mas ele vivia numa marca acaba
+gerando receita de ponta quem conhece
+então é com o tempo eu sentia mais
+vontade de conhecer a parte do negócio
+com a chapa desafiador diferente
+isso ajudou bastante até mostrar depois
+um perfil que hoje se espera que pra mim
+é um unicórnio ainda mais né deve ter
+pessoas com esse perfil e aí a gente
+melhor arquitetura da área de analytics
+é o mercado tem muito problema hoje
+quando se cria se uma célula decência de
+dados
+estou falando mais do meu negócio a
+quitação idéias minhas a lógica que aí
+vocês podem compartilhar suas idéias
+também então é que houve uma
+movimentação do mercado e criar células
+diferenciadas ciências de dados
+e esses cientistas eles dão suporte à
+iporá área de negócio mas é o que eu
+falei
+o problema maior tem acontecido muito
+tanto com consultorias que prestam nas
+ciências de dados como também um céu
+assistências de dados dentro da empresa
+vieja viárias desmancharem então
+gestores serem demitidos porque eles não
+conseguiam enxergar que se você tem uma
+essência de dados mas as áreas de
+negócio não tem
+crescimento também em ciência de dados o
+mínimo que seja para aplicar no negócio
+se não tem ninguém que faça um só área
+de semana de dados ela vai prover uma
+solução ea área de negócio agora é saber
+como aplicar isso então mesmo que a
+pessoa tenha conhecimento de escola a
+escolher algo que até meio popular mas
+quando o cara está ali pra colocar na
+política dele de fraude de crédito e se
+perde então é por isso que eu coloco que
+sim os índices da saúde bucal na frente
+ele precisa realmente desse conhecimento
+do negócio dá o suporte para as áreas do
+começo ao fim
+então o que eles estão fazendo esse
+movimento para quem já leu o livro teve
+esse problema é colocar se entre os
+cientistas de dados mesmo você tem essa
+célula para trocar experiência nas áreas
+é ir pra ele ter conhecimento do negócio
+também então por exemplo a raquel vai
+ficar na área de crédito cobrança né
+aquele que vai ficar na área de fraude o
+pau vai ficar no crm então é pra
+proteger essa especialização na hora de
+negócio e conseguir atender assim os
+desejos das empresas
+isso também gente é eu vou colocar de
+novo é algo que é meu mac é uma ideia é
+minha e é lógico que às vezes não serem
+social compartilha de tudo aqui mais
+sentir se á de dados é o que constitui
+isso é pra você ter uma célula decência
+de down você precisa ter conhecimento em
+computação para a parte de criação de
+bases de dados ea não as bases de dados
+hoje é importante está falando de big
+deitavam pegado aquele lago lado
+informações e pegar essas informações
+que vai desenhar o tamanho dele não vai
+precisar fazer todo o tratamento não
+tira isso gente séria
+é o que eu tenho visto é isto tem visto
+grandes empresas que têm uma estrutura
+grande de cientistas de dados
+é eu sei disso os dados estão tentando
+desconstruir pegar dados não
+estruturados não estruturados e direto
+no né de um lago de dados de pegar
+informações e contra-informações
+substituído pelo que hoje é tradicional
+não consegue então é normalmente os
+dados estruturados hoje dance respondido
+muito mais do que os dados não
+estruturados
+então eu acho que a gente não está
+preparado também a gente não evoluiu
+tanto para a parte de dados não
+estruturados 10 evoluir mais para aí sim
+começar talvez a máquina conseguir né
+não está nesse nível acho que é o que o
+presente é gostoso da empresa mas ela
+fez o teste de modelo de fraudes que foi
+pegou dados não estruturados desenhou o
+modelo tentou disputar com aquelas
+informações que ele tinha no banco de
+dados do ks é muito má
+ele vai entrar assim pra agregar mas não
+é algo que é um dão pra mim gosta sem
+precisar dessa parte disse concordar
+thiago então precisa sim ter ganho na
+estrutura é um cara que cuida do leitão
+e house faz a o processamento e análise
+em tempo que o aluno 15 carros e
+infidelidade vai poder fazer a garantia
+never da análise sim então aqui até
+misturei algumas coisas porque nem o
+mercado tem mostrado isso nas grandes
+empresas e de perfil diferente você tem
+um cara que nem de engenharia e ciência
+da computação
+é talvez um cara bonitão mas na hora de
+ver a equipe pode ter esse conhecimento
+programação mas que ele também dá
+suporte mas é esse conhecimento em
+engenharia de dados é algo estático
+também não tem muito ele vai ganhar com
+o tempo ele vai ganhar no corpo
+programando vai ganhando experiência e
+mais estrutura grandes bancos de dados
+não é algo que ele foi informado que não
+vem da sua formação
+então hoje a gente o mercado quando ele
+quer um cientista de dados o que ele
+quer que elas três coisas um
+profissional só então esse unicorn é
+realmente muito difícil de encontrar
+então a gente que está aqui que a gente
+vai ter mais o pé no 2.1 nosso
+conhecimento e nossa abordagem venceu
+dois de 135 bastante falta de saber na
+minha formação de como estatístico essa
+parte de deter biai mesmo né de fazer
+joy fase ter sim o feito de de modelagem
+de dados e sim na parte assim eu tive
+que correr atrás
+eu não aprendi lá por fora a gente não
+aprendeu então é isso dificilmente
+pessoas que conheçam estruturadas a
+estruturar esses dados e quando para
+estruturar o ajudado em branco precisa
+ter muito conhecimento negócio não
+adianta se estruturar os dados em
+informação lá que tem que ter
+conhecimento então então o conhecimento
+do negócio eo terceiro é que hoje o que
+quando alguém contra 15 dos seus dados
+na espera que têm esses três existe uma
+faculdade que forma elas estão
+caminhando para formar os três em um só
+o que pode acontecer é se você tem uma
+formação de quatro anos de 64 anos pra
+fazer só um módulo 2
+então quando como ensinar isso encaixar
+no mar é para que a pessoa tem os três
+na então província vai ter de déficits
+também se revelou à porta deles em
+trapos e assim é principalmente com stop
+eles querem contratar menos recursos
+possíveis então contra encontrados em
+cima de dados ele está pensando que você
+vai fazer a mala se você gosta né
+ele quer que você faça uma análise que
+mau resultado o negócio dele pra isso é
+preciso conhecer o negócio ou ter um
+gestor que vai ter apoiado uma forma
+legal ele não é
+[Música]
+pelo prestígio instalar foi isso que eu
+acho que deu e segundo aí então é uma
+conexão de internet estavam aqui então
+se fala muito na dide de 107 dado seu
+professor
+em 2011 esse nome sentir seus dados têm
+dado é tá tem um bumbum todo lugar você
+vê então tá todo mundo pra aprender e no
+bem que anuncia no seu salário de 25 mil
+reais na então para uma carreira y então
+é algo que chama a atenção ea
+expectativa de quem acaba de se formar é
+né às vezes fez hardy conseguiu aprender
+programação como fora da caixa para ele
+já é um centro de dados formado então e
+já vem com essa expectativa da escola
+não ganha conhecimento vai para o
+mercado mais estruturado e esse eu vi
+uma reportagem uma reportagem no anúncio
+ele torna se urgente seus dados na época
+intensivo de até 5 meses pelo amor de
+deus gente isso é esse lado total se
+negou a enviar seus dados em cinco meses
+esse foi feito porque eu demorei eu acho
+que cada um tem ou você pode ter um cara
+muito fora da caixa mas precisa muito
+fora mesmo com o anúncio de fazer isso
+não sei
+é o estudar ou néné e é algo que você
+precisa ter tanto esse gosto por exatas
+você tem a parte de programação a partir
+de negócio algo que a pessoa não
+consegue estudar não se ganha com
+experiência
+então você também não tem nessa pessoa
+tá ali e ser informados do mundo henin é
+muito específico do mercado que as
+empresas faziam em 2000
+né é quais empresas faziam serviços de
+dados como coloquei eram raras empresas
+então sua maior instituição financeira
+todo mundo fazia excel geral da tabela
+todos impressionavam tabelas mas
+realmente de ciências da arte um pouco
+mais na veia né
+eu estou falando aqui no setor nets não
+financeira de saúde
+então os setores que eu não conheço há
+mais as empresas então por esse caminho
+o meu foi a financeira realmente a
+última imagem traz muitos bancos não
+conseguiu ter isso eu conhecia acho que
+todos pegar os grandes bancos todos já
+visitei a área sair será a conversão à
+parte analytics
+o que a gente vem dos bancos é que não é
+por exemplo itaú já tinha evoluído muito
+mais nisso
+pela parte de de subtração rebaixado
+santo andré também caminhava bem para
+isso a tecnologia então dois perfis
+também que a seleção na atual tomate que
+sente-se ajudado um pouco mais
+consistente atrás porque se tinha os
+perfis de tecnologia para estruturar a
+base de dados que o estádio pra fazer um
+modelo meio que cada um no seu quadrado
+mas com 11 consistência então e as
+pequenas empresas fazem uma análise
+descritiva exploratórias enfim 2019 com
+as empresas querem fazer ciência de nada
+de todas querem fazer centro de dados
+que é muito bonito se falar que você
+atrai é bonito falar que você tá né
+utilizando a ats pra isso ele precisa é
+um caminho bem legal que é muito bom
+para ela todas as áreas mas com
+consistência de um pode inchar
+normalmente esses bons que você tem é
+que são comuns não só na nossa profissão
+como em outras você tem chassi no
+crescimento a vamos lá o que precisa
+para começar então né e quando me falam
+para estruturar uma área
+o líder precisa conhecimento que
+normalmente não têm também então muitas
+empresas colocam startup por exemplo
+muito é um conhecimento mais comercial
+vendedores que é um cara que sabe mexer
+uma ferramenta de excel faz gráficos
+bonitos então coloca essa pessoa para
+fazer a gestão de uma área de ciência de
+dados vai dar certo não vai dar certo
+um líder precisa de conhecimento e fazer
+arquitetura da área então ele precisa
+ser sensível
+quem é e eu falo também assistir
+recursos humanos para a nossa área peca
+muito porque porque ela não sabe
+contratar esse perfil por exemplo às
+vezes um centro de dados o que vai ficar
+ali na sua máquina não vai fazer
+exposição um ótimo não é o cara que se
+comunicar melhor em uma entrevista ele
+não vai ser o que vai melhor saída nesse
+processo as vezes de uma piada muita
+gente boa no meio do processo
+tem que tomar cuidado é muito perfil
+estático introspectivo
+aliás os menores que eu conheci tem
+aquela tendência mais introspectiva
+então é eu como líder diária ou me
+atento muito falou converso muito com
+recursos humanos quando fazer o processo
+pra não apitar perfis né que tem uma
+comunicação presas comunicativo suns que
+nessas centrados enfim é lógico que vai
+perfil pra perfil tem as exceções né mas
+também conta bastante melhor pra colher
+excelentes resultados também é ter banco
+banco de dallas estrutura comentei né ea
+área de tecnologia disponível para
+implantação nem coloquei nem quantas
+estão prontas pra isso é só perguntar
+charlie realizada gente séria porque eu
+falei eu visitei muita empresa então eu
+conheci muitas áreas não sabia como que
+eles estavam conversar
+o nível da liderança de conhecimento
+então a gente precisa ainda evoluir
+bastante né porque esse efeito e se
+vende muito não é realmente o mercado
+num a pronto pra isso é que talvez ser
+mais pé no chão e evoluir de uma forma
+gradual do que achar que o brasil tempo
+de evolução pequenas empresas já vão
+fazer ciência de dados enfim é muitas
+empresas grandes vende que faz sentido
+de dados mas o cara conseguiu fazer um
+pouco de tudo mas já aplicava o negócio
+então deixo também presidente da denar
+de dados na então a história o que todo
+mundo espera que o espírito tipo nerd
+é certificado de conclusão que existiram
+acho muito ruim sexo masculino também
+muitas vezes nossa você estatísticas
+recentes e de dados
+então isso também tem muito mercado
+ainda sobe para concorrer bem difícil
+programação aí pai então isso eu acho
+praxe que é hoje sentido de dados é
+repito para mim como eu coloquei pra mim
+é uma opinião minha programação é um
+meio não um fim
+então se baseia mais um conhecimento e
+análise de dados na carreira que pelo
+menos eu prefiro se baseia mais em
+conhecimento e estatística
+e aí você vai programar ele mike seu
+programa e sassá
+bem eu acho que algumas são mais
+restritas mas não tem tanta importância
+quanto você tem embasamento da análise e
+planificar galera presente números mas
+sei que muitos cientistas de dados hoje
+eles colocam os cérebros no mesmo
+instante colocado e que eu preciso para
+ser um cientista de dados
+então o que eu já tinha comentado
+ciência da computação estatística e
+conhecimento do negócio não é vantagem
+de você contratar alguém que seja nessa
+e só a ciência da computação que ele se
+denomina a sentir seus dados
+então ele é o que está cortando uma
+parte muito rápido em geração então ele
+gera informação de forma rápida
+é um ótimo ms também o que eu tenho
+visto por exemplo é já viu se ou da
+empresa e sentar do lado ficar aqui é
+muito rápido em programas antigo número
+dois minutos depois de um mês ele vai
+descobrir os dados estão errados
+olha que coisa né porque porque ele
+tirou ele me conhece direito banco de
+dados que ele estava mexendo no super
+rápido e eles esperam isso retira dados
+pesquisados de fazer é muito defensivo
+quando alguém pede dados porque ele ele
+espera que tenham conhecimento da base
+de dados para aí sim passa a inflação
+as empresas precisam se preocupar mais
+um neto em uma área estruturada de
+informação
+e ter um nó que as áreas conversa uma
+forma única uma base única de informação
+porque você vê hoje é a horas diferentes
+áreas diferentes geram números
+diferentes na mesma coisa
+são umas diferentes grotescas empresas
+enormes ea gente já viu quando vai
+fechar com o w
+o processo operacional num embate porque
+não pensou em primeiro fora embora o
+banco unificado de o banco é do joão
+aí joão morre cabo banco não tem mais a
+empresa tem magogo de não conhece muito
+cara é assim é que tem que valorizar
+muito esse perfil principalmente às
+pessoas os profissionais executivos
+c-level também valoriza você é muito
+falado mas acho que tem um bom valorizar
+profissionais aquela troca de
+conhecimento sempre tpk estrutural dados
+quando se fala em alteração de dados não
+é algo curto prazo e não resultado
+amanhã 6 o resultado daqui um ano vai
+ter uma empresa estruturada da cultura
+gastando demora eo investimento agora
+isso eu só que seu retorno mas se lá na
+frente
+então é algo que as empresas num valor
+que você pega estar a gente jovem e
+pensei nas empresas nem e também os há
+sim uma uma coisa que é aaa as áreas
+delas têm medo de conversar trabalho
+direito e tal deva começar a descobrir
+as coisas nos dá a e aí tem
+é essa a coisa se estava mas ok
+[Música]
+o vídeo é eu o vi tão bem mal você mas
+eu estou continuando é meu som estava
+ruim estava vendo muito bem
+acho que ela só então eu peguei um fone
+aqui na minha mãe não deixou de repente
+a gente lado prossegue informando ao
+delegado choque
+vamos lá então perdas com isso né
+você tem os seguintes candidatos não
+está preparado para gerar previsões
+estudos complexos somente dados primeiro
+só então aí se você aprendeu programação
+quando falo não está preparado é lógico
+que para toda regra tem sua exceção se
+você é um cientista de dados um
+engenheiro da computação que estudou
+muito a parte tática que gostava mas não
+sou aquela matéria que é dado a uma
+matéria muito básica ii - eu na parte
+acadêmica você vai ter conhecimento
+eu acho que pra toda regra tem sua
+exceção mas normalmente os dados ele não
+o sim à ciência da computação é um
+gênero de dados ele não está preparado
+para gerar previsões estudos completos
+somente dados positivos é um gerador de
+tabelas é ele ele pode não evoluir para
+questões de negócio que eu coloquei
+aquele cara com aquele perfil que não
+tem conhecimento porque eu estou
+mostrando isso porque assim é se você
+quer que não têm que ser ajudadas não é
+como o de as três coisas mesmo então que
+cada um há perfil e direção de perdas
+então é o cara que engenheiro da
+computação e cidadania na semtas
+recentes dados estatísticos não tem
+conhecimento nessa de negócios em
+computação se denomina sentido de dados
+o cara que conhece o negócio normalmente
+líder não tem conhecimento das outras
+coisas podem sim se denominar também um
+sensor de dados não é gente então os
+três num tom que ele tem potencial e
+preparo para análise criteriosa horas de
+média e alta complexidade
+ele tem ele ganha uma visão muito
+crítica de negócio também finaliza
+número um ele não acredita em feliz né
+ele vai muito um embasamento político
+não é machismo no julgamento ao a perda
+quando é só estatística por exemplo a
+gente não tem uma grande quando você sai
+da faculdade
+às vezes tem um salto suficientes que
+fazem
+é novamente por exemplo no meu começo de
+carreira tive que trabalhar bastante
+para conhecer a parte programação é e
+ter nem aquele conhecimento bom mesmo
+pra você conseguir evoluir nas mais
+complexas mas também é o que o mercado
+de lá prá você conseguir fama bem e o
+conhecimento do negócio que o cara que
+se denomina sentir se rejeitado somente
+um gestor você se pega até aquele cara
+um pouco mais descolado que fala bem
+vende bem é um vendedor e coloca ele pra
+gerenciar uma área de ciência de dado
+então você tv vai vender muito bem vai
+ter energia com outras áreas mas sem
+perdas nessa ele serve para fazer a
+captura na área
+falta conhecimento para desenvolvimento
+de time vai vender o projecto né mas
+projetos às vezes não canso sóbis que
+esse negócio de que a gente fala de
+centros de dados de roubo tiveram alguns
+cases assim mas é é algo pontual mas
+quando você vê um mercado em geral é
+tudo isso que vem eu acho que precisa
+ter muito pé no chão verdade erros
+comuns e perigosos sair para um negócio
+na construção de um modelo as variáveis
+explicativas assistiram na implantação é
+tem tecnologia para implantar eu já vi
+muita gente constrói modelo quando vê
+não conseguir provar porque não tinha
+tecnologia para buscar uma leve pouco
+modelo então isso é o básico aí que
+estático também alguns deles sofrem mas
+realmente tem que passar para terminar a
+coleta de dados é o maior perigo ou
+então amostra aleatória não respeita ao
+do vício na área então você vê esses
+gráficos bonitos pra mim eles ficam
+muito e assim eu trabalhei com
+diferentes perfis nas minhas áreas e
+assim chega muito muita informação
+errada non isso é publicidade mesmo que
+é básico para a gente porque ainda
+precisa da cidade enfim faça mas tratá
+chávez quer conhecer a base para você
+saber qual chave é a duplicidade então
+isso também quem não conhece ele vem com
+tudo ali
+roda proxy está pronto não dividir a
+trabalhar períodos coletados você vai
+fazer uma análise e previsão do período
+que vai coletar você precisa respeitar a
+personalidade se tem quando se pega por
+exemplo a falar é colocar as nossas
+expectativas e tem que se tem é que se
+você não congela os dados no tempo certo
+você pode ter um problema no ar e depois
+às vezes o que eu já vi com isso não
+congelamos nosso tempo certo é ter
+criado um modelo e quando viu a variável
+explicativa resposta e nem conhece
+eis que aparece que é muito doida
+realmente quem já está no mercado sabe
+que acontece e só deixou de análise aqui
+encontra muitos erros
+gente essa parte de congelar congelado
+no tempo certo depende muito também do
+conhecimento do negócio quanto tempo
+descobrir a fraude né qual dados
+cadastrais estava associado a essa
+pessoa no tempo certo os dados
+transacionais tesoureiro é uma coisa que
+a máquina nunca saberá quem está fazendo
+essa análise má shindan e que parece
+muito com a parte de impressão de
+conhecer eles também então a máquina não
+faz sozinha porque de um conhecimento de
+negócio específico para cada empresa é
+então realmente tem que ter esse
+conhecimento e essa bagagem analítica aí
+pra fazer isso com certeza e aí o qual
+time ele cai por terra né
+existe então se alguém vende isso a
+gente já sabe que nem eu preparo das
+áreas é avaliar e dizer olha vou
+respeitar as premissas das técnicas né
+então as técnicas sempre me e magal e
+até então pode ter relação das variáveis
+conheci uma na verdade foi até um chinês
+que poderia ter condenação superior
+específico enfim mas não tenho agora
+mas depende do que está utilizando se
+você não consegue né essas técnicas e
+pode ter uma grande surpresa
+depois o negócio é tão errado aqui
+completude dos dados também às vezes
+precisa trabalhar então enfim não tem
+esse negócio da máquina fazer
+a gente precisa sim de conhecimento na
+elite com uma bagagem que não é em seis
+meses
+às vezes o cara vem já há modelos para
+quem passou no chefe né não
+já o modelo nem existe é uma das
+variáveis não existe lá mas dessa vez a
+gente se a gente for citar que isso não
+acho que inúmeros erros néné naturais
+incêndios e de dados que é quando fala
+no processo seletivo meio que já é pela
+própria não é só pelo seu histórico que
+você consegue ver um centro de dados mas
+como ele coloca as coisas pra mim é
+processo que o corpo de exclusão porque
+eu conheço então você tem um perfil de
+um líder que conhece - ele pode até
+contratar coloca a programação como
+filho meio de uma pessoa aquele cara que
+é muito cedo né se coloca como sendo sem
+experiência prática o conhecimento
+acadêmico a minha arrogância vossa
+ignorância então quando a pessoa fala
+com tanta certeza com sentido de dados
+que trabalhou no mercado feitos e acho
+que também está no nível senhor não sabe
+que o negócio vai afetar muitas análises
+dele então das mais estruturadas
+substituído estruturados também é o que
+eu falei lá um começo acho uma viagem
+doidas em pelo menos hoje acho que a
+gente não tá nesse momento então talvez
+mais pra frente mas ainda os dados não
+estruturados não vão substituir o modelo
+de dados estruturado então por exemplo
+você tem
+vou pegar dados do facebook facebook de
+mídias e vou substituir aquele modelo
+com base em dados de será de boa vista
+vai conseguir pks melhor não tem como
+normalmente também muitos dados internos
+da própria empresa do próprio cliente
+ele vai responder bem melhor que não
+estruturado então enfim é ótimo porque é
+mais pra ganhar adicional não disse
+nenhum é um ganho adicional
+fazendo uma analogia por exemplo mas
+parece que parece que mais eu jogo
+parece um negócio tudo poder básico mas
+tem muitos que começam por dados
+todos juntos e pegando sim em muitos
+casos não conversei também com várias
+pessoas têm falado apareceu a quinta
+cientistas de dados como respeita ao ele
+começou com dados estruturados que
+substitui acho k estava bom mas quando
+pegou dados estruturados ele viu que
+aquilo lá isso era um plano é que às
+vezes pode dar poucos pontos de ksm mas
+enfim o basicão é esse então aí quem lá
+está você pegar por exemplo lá não fiz a
+minha monografia precificação de imóvel
+tinha base da caixa econômica federal
+eu adicionei com variáveis do censo é
+peguei coleta de lixo urbano é e
+desenvolvimento social e tudo mais de
+bode eu peguei um pouco né eu adicionei
+né pra ter mais poder explicação da
+modelo mas eu não ia só usar os dados do
+censo por exemplo a fazer na área sim
+sim adicionar é muito bom e eu acho que
+realmente chama a atenção não só a
+atenção do negócio assim você fala em
+dados não estruturados
+a venda desse modelo é muito mais bonita
+você vai falar pra um executivo
+talvez com não tanto conhecimento
+quando você vende vai pegadas dados não
+estruturados a venda desse modelo é
+muito mais bonito do seu trabalho mais
+bonito mas ele vai dar mais
+discriminação na frente por exemplo isso
+é outro papo que não dá normalmente pode
+ter os testes é pode ter testes mais pra
+frente talvez com base de dados não
+estruturados que a gente tenha evoluído
+mais nisso mas hoje realmente o mercado
+tem não tem encontrado não é tanta
+relevância que esperada então vendida
+então e também quando coloca a máquina
+como autossuficente a pessoa acha que a
+programação será de 10 da programação da
+fazer devemos sentir de dados completo o
+cara conhece todas as ferramentas ali
+mas quando você pergunta de uma análise
+que agregou negócios e ver que não tem
+conhecimento é fim
+era e coloca que a máquina vai fazer
+tudo você vê que não tem tanto
+embasamento à noite fácil é blefe sim
+universidades aqui mais conceituados
+entender e eu lembrei de colocar um em
+si que legal
+isso é como aqui em são paulo a prova
+das três mas há quem é estático não
+ciência de dados então tô falando pra
+quem é talvez colocar um pé maior ali
+estatística e não ficar falando fiscal
+está realmente muito boa é unicamp usp
+néon nestas em são paulo a fj o ensino
+não acho que falam da nossa região aqui
+lógico depois tem mais aí mas eu prefiro
+falar da região não ser impressas foram
+muito comentados por essa parte mais
+estatística que vai ter curso de pós um
+mestrado
+melhor ainda para despertar neles lá eu
+acho que a gente tem sempre que falar o
+nosso mundo de análise é assim só sei
+que nada sei então eu sempre fui muito
+nessa linha e quando desenvolvi modelos
+eu estudava bastante no meu começo de
+carreira tive um certo azar porque não
+tive muito o coaching recorrer a tais
+como é que você tem que ser autodidata é
+e hoje um mercado cada vez mais fazer
+disso não vai ter pessoas a gente
+treinando são empresas menores né e que
+exige que se realmente tenha seu
+conhecimento no segundo andar sozinho eu
+fiz muito isso não conhecia por exemplo
+pode previsão tive no ano acadêmico mas
+em algum momento de carreira fazem muito
+modelo moderno modelo logístico a não
+mais de séries temporais nas séries
+temporais e tive que estudar mas eu já
+tinha uma bagagem analítica para
+conseguir né não caem tanto as furadas
+como alguém que não tem conhecimento
+nenhum eu queria aprender sempre mais do
+lado realmente interessava garagem e
+analisa o universo infinito é para saber
+tudo então realmente ver né não existe
+um cara que sabe tudo tem sempre coisas
+a aprender novas e cuidado estatísticos
+entre candidatos às vezes o problema
+está no processo nos números lá então já
+cayman
+muitas ciladas também o que ela tem de
+experiência
+às vezes a falta por exemplo uma grande
+empresa que é ela tava no próprio
+processo de não sei como não citar
+empresa né mas operacional da ponta que
+aponta uma pessoa passava senha pra
+outra fraude não tá você não ia ser
+explicada por um modelo de fraude então
+às vezes e corre atrás de nem melhorar
+política mas conversar com aponta também
+para você ter todo esse conhecimento mas
+é preciso resolver o problema de sempre
+é muito interessante que vai agregar
+valor em áreas operacionais horas em
+contato com clientes sabem muito pra
+agregar essa parte de conhecimento do
+negócio e você é uma certeza e conseguir
+agregar valor à e para as empresas
+e é isso fizeram resumido em uma
+particularmente acho que eu fui mais pra
+linha do que foi muito bem na publicação
+o linkedin é talvez abrindo um pouco
+mais
+foi ótimo excelente outro tema muito em
+sites online bola é dar uma desculpa
+partilhar dei pro pessoal fazia tem a
+quem pergunta que abre então pergunta
+aqui o fábio falou uma pergunta foi anos
+o físico e já o cientista da área de
+petróleo fazia análises mas desiste
+nunca como como melhorar a minha
+formação nesse caso específico além de
+tática
+então acho que é eu falei essa diz que o
+universo complexo então eu não vou saber
+responder por exemplo a sua hora você
+tem que procurar eu acho que aí é no
+acadêmico procurar ver um de tem né qual
+faculdade que talvez dê ênfase para isso
+o nome da faculdade não dar como ela dá
+ela
+eu tenho visto é mais por exemplo - para
+a graduação já formava bem genérica case
+então só e aprenderam sobre a
+instituição financeira que foi há um
+setor que o que eu segui então
+você pode ter alguns trabalhos também de
+alguns professores mas acho que tem que
+fazer uma busca incessante nas
+universidades é procurar alguém que
+tenha se desenvolvido lec já tenha feito
+também algum artigo enfim a sua hora
+se não tivesse pode ser um pioneiro nem
+pode inovar mas é legal talvez você tem
+um contato ali então é bom que eu vejo
+também é ter contado sempre com os
+professores e os insights que mesmo que
+você não conheça não tenha feito a pedir
+ajuda nessa sempre vai encontrar alguém
+que vai está aberta de ajudar você está
+fazendo alguma análise procurar pessoas
+que tenham conhecimento daquilo então
+isso acho que é muito bom
+somente se você é pioneiro que vai
+quebrar vai quebrar paredes em chun
+respondido família bastante tiago não
+quis ficar à vontade de sandboard tem
+mais de 80 de dan o andré falou que
+obrigado excelente leves tênis em um
+curso de estatística e eu nem peguei
+conhecimento ele está há muito tempo na
+profissão obrigado
+só o tempo e fazer uma pergunta tão à
+vontade paulo seguinte é na fabiana
+falou da questão das premissas modelo
+então uma conversa que eu já tive um
+outro fórum é premissa do tipo para
+modelos preditivos muita gente não dá
+importância por exemplo é uma mostra com
+entrada terá sido este cidade né
+então se isso se você acha que esse tipo
+de premissa deve ser levado em
+consideração pelo modelo preditivo ou
+não é porque é um pouco controversa
+você tá falando eu estava falando de
+outros tipos de premissas novos
+conteúdos não quando eu falo de premissa
+é tem parte da estatística e como em
+todas as áreas que são polêmicas né
+mas acho que o básico você precisa
+seguir até tem algumas aberrações que a
+do básico da estatística não falando de
+algo específico não tá mas o básico para
+construir um modelo para fazer análise
+de dados
+a mostra oficial acontece bastante acho
+que realmente tem que tomar todo cuidado
+aí já que é muito difícil a gente
+encontrar nos dados todas as premissas
+respeitadas né mas eu acho que também
+não é todo custo que a gente sai com
+modelagem que a gente quer
+então mas é eu acho que tem que
+encontrar um meio termo lance não
+encontrar aquela base de dados eu estava
+bonitinha ali na na faculdade pra
+conseguir modelar normalmente não é isso
+o máximo pra você conseguir chegar a até
+normalizar é de calor na conseguir
+chegar num outro - não fazer aberrações
+é outra pergunta fabiana também um pouco
+nesse sentido mas mudando um pouco de
+assunto ou ver sempre você tem alguma
+opinião você achar ruim fazer vencendo
+por exemplo pra cá casos tipo fraude na
+imprensa que a morte é muito viciada né
+você acha que haver sempre uma técnica
+boa então que a gente tem feito bastante
+que já se encontra problema de fraude
+o problema de fraude na mente está mais
+o processo tá então por exemplo pra
+pegar se tem preocupado muito com a
+parte de política por exemplo com a
+política que foi aplicada no período que
+está fazendo a coleta é e por exemplo
+pode ter ou data também é então como
+você evoluir para conseguir estimar quem
+é por exemplo a fraude
+o problema é que se não a gente tem
+fraude nas empresas acontece muito é as
+fraudes elas não são registradas e não
+tem o flagra de fraude
+já cheguei numa empresa que ela falou
+que não tinha problema de fraude cheguei
+lá o nosso tempo a itália digital
+diakité aqui só fraude então onde estava
+fraude etapa final estava em crédito
+então às vezes o problema se eu tô mais
+um processo aí né
+quanto à mostra é a forma que você vai
+tirar eu não quero fazer um terceiro é
+eu acho que cada um tem que seguir a
+técnica não é que você que você
+a costa mais né então acho que técnicas
+diferentes e pode chegar num na mesma
+resposta mas essas são coisas
+particulares que cada um tem que que
+acho que avaliasse para o seu negócio
+que está fazendo valer a pena não é
+legal bacana obrigada pela apresentação
+toda parte foi bastante enriquecedor ele
+fosse interditado jamais eu indiquei com
+vários pontos se levantou a expectativa
+do unicórnio escrever-lhe do data
+warehouse até depois a produção que é é
+muito difícil nessa gente não tem o
+apoio de outros de outro e outras áreas
+da tecnologia
+sim eu acho que a humildade também da
+empresa talvez dê
+em nova entrevista eu tenho falado
+programas executivos não é com
+expectativa que finalmente eles esperam
+por que é e por exemplo você foi redes
+de negócio não quero ser candidato vai
+ter que ser tudo você tem que ser o
+gestor da área vai ter que se preocupar
+com a parte de sinergia com as outras
+áreas
+você vai ser a pessoa que vai criar um
+banco de dados é meio que eu prefiro ter
+perfis diferentes né eu acho eu sigo
+muito a linha de cada um no seu quadrado
+acho que o mercado ainda não está
+preparado para ter simone korn
+é lógico que você pode ser um estádio
+que conhece muito de programação que
+conhece muito diz né na parte de negócio
+mas acho que se você mesclar esses
+conhecimentos na área é a melhor solução
+se você consegue colocar esses perfis
+diferentes é o ponto ótimo
+é o legal é legal obrigado valeu família
+me perguntou se eu entendi o que você
+diz foi mesmo perfil decorre pelo visto
+é muito complicado pelos profissionais
+familiares de estatística mudarem para a
+ciência que dados estão corretos
+eu acho que pode ser o centro da cidade
+mas falar que você por exemplo estava
+mais à partilha de dados
+então eu eu não concordo que uma pessoa
+que não tem base do tratamento
+estatístico consiga até tocar por
+exemplo machine learning consiga tocar
+porque ele não vai saber como pegar os
+dados
+então talvez humildade pra colocar isso
+pra empresa net contratar alguém que
+realmente têm esse conhecimento
+estatístico e meio que dividir a receita
+o mercado é assim é tão fácil mas é o
+senão você usar em fazer é uma análise
+mais restritiva as básicas e tomar a
+decisão com base naquilo depois vai
+evoluindo com o tempo começando mais
+simples até chegando mais complexo vai
+rodar modelo de machine learning você
+tem embasamento estatística do maranhão
+que você não vai conseguir evoluir se
+pode fazer os cursos é contido por
+exemplo já que seja gradual mas que seja
+consistente
+ele faz lá ela da comunidade fazem legal
+deixa eu te fazer uma pergunta também é
+bom
+com essa onda de the big data é muito é
+muita informação muitos dados né
+e aí a nossa estatística tradicional por
+exemplo
+por exemplo quando você tem uma amostra
+muito muito grande num teste de
+estatísticas eles tendem a rejeitar o
+tempo todo lembra que o poder do teste
+vai lá pra cima e acaba rejeitando tudo
+e aí o que quais são as alternativas que
+você me indica para poder fazer o teste
+de hipóteses pra big data por exemplo e
+mostra bem tirada a mostra a mostra
+também grandes e fala que exigem um isso
+há a até o universo é tão grande que se
+mesmo que você tirava uma mostra lhe se
+você fizer alguma
+uma técnica de amostragem ainda vai
+continuar sendo grande e ainda vai
+continuar rejeitando tempo todo do teste
+de hipóteses como é que o contorno esse
+tipo de destinação assim então é que eu
+é contra esse problema por exemplo as
+amostras cliente tem tirado
+principalmente eu não sei acho que
+depende muito do caso é quando se pensa
+em grandes bancos que a resposta é
+binária tem respondido bem
+você começa a ficar pode ser que tenha
+esse problema em ficar no fim de
+conseguir não vai começar a assistir uma
+palestra bem legal do de laguna e ele
+falou que o título da palestra haverá
+teste de hipóteses para a big data e aí
+ele deu algumas alternativas pra
+utilizar se o teste de hipóteses no
+sentido de ali às vezes você consegue
+fazer fazer coisas simples de proporção
+em vez de usar o teste porque ele está
+rejeitando sempre mesmo né aquele
+universo tão grande e aí você por
+exemplo faz teste a bené para saber se o
+usuário está curtindo um certo layout da
+página ele chegou a mencionado se eu não
+me engano era do globo esporte lá e aí
+ele botava um preto e outro branco ia
+mudando e tal e fazendo xixi teste de
+hipóteses normal né
+e aí ele falava usa proporção ele também
+de uns outros testes agora não vou
+lembrar o nome tinha bootstrapping
+também né
+é pegar uma real mostragem né e tinha
+uma outra técnica é que agora não vou
+lembrar que mistura estatística desde
+ano na parada
+eu não nessa parte bem não é comigo sem
+a formação foi nela tive esse problema
+todo é que procuraria se estivesse na
+beleza acesso mundo e variada tão
+difícil
+domingo então obrigaram hoje a gente
+obrigada bom foi muito legal obrigado
+mesmo que liga boa sorte para vocês aí
+boas aulas
+o união é isso aí
+a josiane não venceu é obrigado pela
+presença e valeu o primeiro show de bola
+e obrigada tudo de bom

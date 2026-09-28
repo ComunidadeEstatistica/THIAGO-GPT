@@ -1,0 +1,132 @@
+# ESTATÍSTICA - VÍDEO 14 - 2015 - CESGRANRIO - PETROBRÁS - EVENTOS INDEPENDENTES
+
+- **URL:** https://www.youtube.com/watch?v=qEq6MskyjoQ
+- **ID:** qEq6MskyjoQ
+
+## Transcrição
+
+[Música]
+fala galera tudo bom com vocês
+estamos aqui pra mais um vídeo do canal
+está difícil dessa vez uma resolução aí
+de uma questãozinha de estatística da
+petrobras está conversando sobre a
+probabilidade de eventos independentes
+mutuamente exclusivos está a gente vai
+ver a diferença entre eles e como
+resolver esse tipo de questão valeu
+então vamos lá completa em 2015
+dois eventos a ibm independente está tão
+dois eventos a e b independente ou seja
+o que significa você dizer que os dois
+eventos são independentes que a
+probabilidade de acontecer o evento ver
+não influencia na probabilidade do
+evento a acontecer tá não confundiu
+eventos mutuamente exclusivas com
+eventos independente está
+porque eventos mutuamente exclusivos
+a probabilidade do acontecer
+tá ela impede a probabilidade do b
+acontecer
+ok então se aconteceu o evento a o meu
+evento b não pode ocorrer
+simultaneamente está então é isso que
+são eventos muito a mente exclusivo
+agora eventos independentes
+nada impede deles ocorrendo
+simultaneamente tá significa que a
+probabilidade de ocorrer o evento b não
+vai modificar a probabilidade de ocorrer
+o evento a ok então a gente vai ter que
+a probabilidade
+isso aqui vai implicar que a
+probabilidade de a intercessão dele vai
+ser nada mais do que a probabilidade do
+a vezes a probabilidade de ver tá vai
+ser um produto legal
+então vamos continuar lendo são tais que
+probabilidade de área igual a 2 p
+a probabilidade de beagle a3p é a
+probabilidade da união de haver quatro
+pia eo pia maior do que zero tá a
+probabilidade de que dois eventos aib
+ocorra
+concomitantemente ou seja
+simultaneamente está então lá no fundo
+aquele legal que a probabilidade de a
+intercessão bertha só como a gente sabe
+que são independentes a gente já sabe
+aqui que vai ser a probabilidade de
+haver essa probabilidade de ver tá só
+que o que foi dado para a gente foi dada
+prioridade da união nunca que a
+probabilidade da união lembra lá
+diagrama de venha se a gente fizer um
+diagrama de junho o evento a e o evento
+ver a gente vai ter que a probabilidade
+de a união b vai ser a probabilidade de
+a
+mas a probabilidade de b - a
+probabilidade de a intercessão ver
+porque isso porque se eu pegar o
+eventual aqui eu voltar
+contabilizando a intercessão uma vez
+certo se eu pegar um evento
+ver eu voltar contabilizando mais uma
+vez essa interseção concorda então a
+gente tem que tirar essa interseção ok
+então vamos lá vamos substituir
+propriedade alber 4p igual probabilidade
+de a 2 p
+a probabilidade de b3 pelo menos
+probabilidade de a intercessão mês só
+que a gente sabe que os eventos são
+independentes há a probabilidade de a 2
+a probabilidade de perder sendo que
+probabilidade de área
+2 p ta probabilidade de ver 3 p
+então vai ficar o que é 6 p ao quadrado
+tá bom a gente
+2 p 3p 5p passam pra lá tá vai ficar - p
+- 54 - p
+aí a gente vai passar também o menos
+seis propagado é só pagar aqui
+então vai ficar se passou para 1 5 pp
+ficou menos pia mas 6p ao quadrado igual
+a zero tá tem fator em comum tenho muita
+evidência ter a ficar menos um mas 6p
+quase a tá então a gente tem duas
+possibilidades para esse produto deserta
+ou perigosa à ou menos um mas 6 pp é
+igual a zero com corda e um produto tem
+10 um dos elementos do produto tem que
+tá então só que a gente tem aqui o que a
+probabilidade o perigo é maior que zero
+está ele falou então nosso tempo é uma
+constante qualquer é maior do que zero
+então essa possibilidade móvel só tem
+essa possibilidade de baixo então a
+gente descobriu a 6 pegou a um igual a 1
+se está acabou não
+a gente tem que achar a probabilidade de
+a exceção vez só que a gente sabe que
+isso aqui ó é sergipe ao quadrado tá uó
+o ppi é um cesto vai ficar o que cortou
+vai ficar 16
+tá então o nosso gabarito letra grande
+que é de bola
+beleza é isso galera eu espero que vocês
+tenham gostado entendido a iaa a
+resolução da questão tá se você não
+entender a manga dúvida pra gente pode
+mandar por e mail que está aí na
+descrição do canal pode mandar os
+comentários tá legal se você não achou
+que a gente pode melhorar tá dar um
+feedback para a gente e se você gostou
+curte aí compartilha para divulgar tá aí
+a gente pode estar jogando em outras
+pessoas aí que esteja com problema na
+disciplina de didática falando
+forte abraço pra vocês valeu

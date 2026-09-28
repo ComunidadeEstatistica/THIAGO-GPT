@@ -1,0 +1,533 @@
+# Orange Data Science - Regression Model Development - Prof. Grimaldo Oliveira
+
+- **URL:** https://www.youtube.com/watch?v=4ifO4RPtHuw
+- **ID:** 4ifO4RPtHuw
+
+## Transcrição
+
+olá cada aluno bem vindo à nossa décima
+terceira aula
+nosso curso de george câmbios
+nacionalidades marcelândia geração de
+dados
+hoje a gente vai ver uma coisa que eu
+acho que você tem muita curiosidade de
+fazer sempre quis fazer isso e tinha uma
+dificuldade algumas ferramentas
+hoje a gente vai construir um modelo de
+produção vai ser bem interessante porque
+além confirmou de luvas e claro vai bem
+estimando os dados
+a gente vai poder salvar esse modelo e
+esse modelo poder poder ser usado em uma
+outra base em outra base de testes se
+você quiser uma base de produção que
+você estiver trabalhando mais moderno
+ficar construído de dores de campos vai
+ficar guardado
+você pode executar quantas vezes quiser
+claro que com o decorrer do tempo você
+vai fazendo ajustes nesse modelo
+acrescentando algum outro atributo não
+acreditando mais dados
+mas o seu modelo fica gravado então essa
+aula é muito importante é uma aula bem
+legal espero que você goste
+um dos tópicos
+então como eu disse nós vamos ver os
+tópicos sobre modelo então a gente vai
+ver aqui na parte de modelos criação de
+um modelo então você vai ver criando
+este modelo
+a gente vai treinar ele vai testar tudo
+direitinho e vai estimar os dados era
+esse modelo está legal e aí você vai ter
+uma série de estatísticas vou abrir um
+site em um site que utiliza o último
+recurso de r é k são os sites que têm
+informações estatísticas sobre esse
+modelo está bom
+a shimano legal se está robusto tão
+algumas informações sobre este modelo ea
+gente vai aprender salvar o modelo tão
+além de criar e executar cv
+operacionalmente assim num executado
+rodando você vai poder salvar e utilizar
+com a outra base de dados
+é bem legal essa aula é bem completo e
+espero que você goste modal
+então vamos lá cambada de camas para
+começar a trabalhar
+eu tô aqui no nosso ouro em camas
+a gente vai ter um arquivo csv que está
+aqui pronto pra gente trabalhar ou
+clicar aqui ó
+os arquivos quem trabalha no curso
+vai abrir se aqui a temperatura de
+portalegre linear porque a gente vai
+usar uma regressão linear para fazer
+estimação para ficar mas se você pode
+usar outro podendo qualquer toque
+os dados já estão aqui ó se ele é tão
+categorizados aqui já tão mas se você
+quiser mudar a categoria só vim aqui
+alterar ó vem aqui é o terra a categoria
+quer que você faça o seguinte esses
+categóricos a gente não vai usar na
+relação da polícia trabalha com dados
+numéricos mas todas no méxico sem
+transar não tenho informações a
+temperatura tem um valor mínimo e máximo
+a temperatura em porto alegre era idéia
+desse arquivo ele existem as informações
+de toda a temperatura e tem as
+informações sobre umidade é ponto de
+orvalho ele tem pressão informações da
+pressão vento direção velocidade se
+houve rajadas de ventos né
+e se houve precipitação de informações
+eu vou colocar o modelo é a minha ideia
+minha ideia foi a seguinte será que eu
+consigo estimar a temperatura baseado em
+todos esses outros atributos será que eu
+consigo fazer isso então se eu conseguir
+fazer isso gera um modelo e aí a partir
+dessas informações eu posso dizer qual
+vai ser a temperatura naquela região
+estão fazendo porto alegre você pode
+perder sua região ou qualquer outra né
+algum município brasileiro você tem
+dados do ibge é a vontade você tem dados
+no próprio site do la em porto alegre
+você tem informações sobre alguns outros
+municípios mas a idéia é que você
+perceba que eu posso fazer uma estimação
+e dest maggi era um modelo que diga olha
+a temperatura específica é baseada nos
+seguintes atributos e aí a gente poder
+fazer essa estimação a idéia é essa
+então vamos parte né não os ler os dados
+que existem aqui ok não perceba os três
+primeiros campos são categóricos o
+restante é numérico
+ok você faz alteração aquino tipo de
+coluna
+ok faz isso venho aqui como está aí na
+sua casa seu trabalho né a questão é o
+coaching
+aqui eu desse mal com um ponto coloca
+assim que vai dar tudo o que beleza não
+reload aqui ó né
+são 19 atributo está colocando três
+linhas não achei estranho mas vou
+continuar aqui pra ver se ele vai
+direitinha xampu shaq pradão datatempo
+logo pra a gente ver como estão os dados
+está trazendo três linhas boquita também
+três linhas dá uma olhada aqui no
+arquivo para saber porque trazem três
+linhas
+é o que eu vou fazer é carregar de novo
+não sei vou carregar de novo tá cheio de
+mim aqui vamos ver se tem algum problema
+o carro ganhou o pacaembu foi algum
+reflete alguma coisa vai dar reload aqui
+se quiser alguma coisa vamos dar uma
+olhada e pronto
+carregou todas as letras quanto às
+temperaturas até aqui quase 99 né
+com as temperaturas a sempre dá tema que
+você perceba se tá legal
+agora vou fazer um select comuns porque
+porque eu vou selecionar algumas com
+alguns eu não vou usar todas são muitas
+colunas são essas não vão usar aqui ele
+automaticamente já selecionou alguns que
+eu queria opressão e identificou a
+pressão pode errar porque eu tenho três
+temperaturas uma máxima não me interessa
+eu quero neste momento essa temperatura
+aqui
+a umidade também tem um a minha mas não
+interessa já tem a umidade do momento
+que foi coletado
+a vale também pressão talvez esteja a
+arrastar vai arrastando ele vai
+automaticamente colocando seu target não
+tiver você traz a temperatura votar
+porque o target quer aqui quer chamar a
+variável que você quer estimar que você
+quer trabalhar
+você coloca como target ok então fica
+aqui como tablet da apple
+vou botar a minha geração eu vou botar
+aqui linear regressam tac não vou mexer
+em nada você pode até tentar
+mas não vou mexer em nada o deixa ela
+estima para compactar estimação
+lembro que tenho testes córnea para
+testar hoje botar aqui nesta escola
+testa citar o que chamo de desculpa
+caixão os dados pra cá também pronto
+prontos a hitachi confronto aqui é que é
+legal aqui com acontece há mágica
+olha essas estatísticas que sair aqui ms
+rs é emya r 2
+vou sair com os números e isso é que
+você tem que interpretar o que você não
+pode de nenhuma forma de dizer que seu
+modelo tá beleza está perfeito
+se você não interpretar essa estatística
+final aqui tem várias formas a que eu
+mais uso a prova e deixou keiko como te
+disse já em outras aulas você gera um
+arquivo por exemplo três folgas 3 o
+poder a 5 10 consoante aquilo vou gerar
+de dez furos ou melhor um pouco o jogo
+já com três
+não foi a mesma coisa 3 com 10 com 20
+mesma coisa então assim tanto faz eu
+gerar 10 pacotes aleatórios 23
+ele deixa eu expliquei a ele foi a
+seguinte
+ele pega os dados de vídeo em 20 pedaços
+sendo que 11 específico
+ele usa pra gastar e o resto para
+treinar então ele vai treinando eu posso
+usar a apae de eleitor idade eu posso
+usar só como dados de treinamento também
+não tem um teste aqui ele não não
+funciona não mostra por que eu tentasse
+ok então eu posso usar por taxas coloca
+qualquer uma dessas funções o que eu
+gosto mas é provável que ele faz
+embaralhamento desses dados seleciona 19
+praias que você possa treinar em um para
+trás tá certo que isso significa
+op você pode até abrir aqui para mostrar
+as informações a ele tem aqui ó formação
+da escola de estudo
+ele chegou aqui onde está a informação
+se aparece a quina chover aqui e ali
+daei culpa eu descer de novo ele da
+informação aqui a medida média quadrados
+vezes
+eu vou trazer um site para você que está
+bem mais detalhada numa festa site aqui
+ok você captura e na sua tela é só
+pesquisar na internet mas é um site que
+eu uso para minhas aulas de r - ela viu
+época mais descritivo mais visual mais
+fácil
+tô aqui neste site que é the accuracy de
+modelos de regressão da add technologies
+e ele tem todas aquelas formações que
+estão lá o maemo sr sra quadrado é
+explicada do rn mas obviamente serve
+para hoje ea mesma ideia num muda nada
+também aqui a descrição dos modelos de
+avaliação ssoa na verdade as métricas de
+avaliação desses modelos de integração
+tão má ms rs é quadrada e tem explicação
+aqui ó
+mas representa a diferença entre o valor
+original e o valor pra dito toda a
+diferença
+olha a diferença e chapeuzinho aqui é o
+que você está estimando ou seja eu quero
+saber qual é a temperatura então modelo
+vai ser a temperatura e esse yq excepção
+ea temperatura que você coletou vai
+fazer diferença
+perceba comigo como é que o modelo você
+pode ser que mudam apurar se há boa
+ótima
+se essa diferença que foi próximo de
+zero por que nos encanta temperatura que
+você completou agora do 22° né
+levando em consideração rajado alvário
+toda pelas informações que estão lá e
+você quando rodou modelo eventos e 22
+apareceu 21.9 ou seja você cálculo uma
+estimação e essa intimação foi tão
+próxima do original que se eu fizer a
+diferença que vai estar próximo de zero
+então not todas as formas mahé ms rs eo
+ex guarda todas têm a diferença entre o
+valor original e valor estimado
+isso aqui está próximo de zero esse
+valor que vai dar quanto próximo de zero
+por qualquer coisa x 0 a 0
+próximo de zero ou próximo de zero
+próximo de zero indica que você previu
+bem o modelo o rg é o contrário se a
+estimação aqui de zero é porque 1 - 0 é
+um tão csr quadrado que tá lá longe o
+próximo dia 1 esse valor que varia de
+zero a um
+se ele for próximo de um quer dizer que
+o estimação está muito boa
+se for uma perfeita é maravilhosa como é
+que se vai saber se o modelo está certo
+à vontade
+se essas estatísticas aqui e me a msf é
+msm próximo dia 01 e roraima próximo de
+um ok ele diz aqui é o valor pedido e
+chapeuzinho né
+e aqui a média do valor é só com essa
+barriguinha que a média do valor mas nós
+que ele está calculando aqui da original
+- oprah dito que só usa média aquino r 2
+então ele vem traduzir você pode ler né
+ele fala aqui das aplicações por um
+modelo de regulação e natal aqui
+apresenta diferença do valor original
+vão pedir que é isso que está explicando
+aqui o msc é principalmente uma noite na
+valor predicto né
+é ao quadrado já o rms a diferença que é
+o próprio messi é tirar da raiz
+ok werre quadradão a que ele chama de
+coeficiente de determinação é para ver
+com o eficiente mac que compara os
+valores em relação à original
+o valor varia de zero a um como eu falei
+interpretando em percentagem quanto mais
+alto esse valor seja quanto mais próximo
+de 1 melhor o modelo é tão melhor modelo
+é porque aqui tem uns exemplos em r
+ele dá um prazer você pode até ser que
+tenha se você não conhece r tem um curso
+de r você pode aprender também a
+trabalhar em e isso sem problema nenhum
+ok ele tem algumas informações a
+calculando r ocorre maravilhoso aqui
+nove muito bem bem bem legal muito bem
+chamado ok
+e aquele exemplo então essa página aqui
+a página da tecnoworld que eu gosto
+muito dos alunos tem várias outras
+explicações aqui se você quer aprender
+mais sobre estatística vem aqui nessa
+página nessa página bem interessante oc1
+voltar lá o nosso modelo bem voltei aqui
+a gente já sabe a explicação
+das estatísticas já conhecemos são
+testes 40.991 gente está maravilhoso
+está muito bom muito muito muito legal
+próximo de zero as outras estatísticas
+há muito muito legal é que a gente vai
+fazer o valor pra dito olha eu vou fazer
+tem agora um líder chamado project
+também addict aqui você tem seu vídeo
+adit e aqui eu vou buscar os dados na
+minha recuperação para mostrar o valor
+original o valor para dito trouxe aqui ó
+quando exibia eu tenho a informação
+original tac também na formação original
+ea informação prede tá olha que beleza
+original de 21 para a vida 21.05
+originalmente pontos indica que deu
+20.57 quase até porque aqui não tem a
+segunda casa simão e se deu em três
+pontos e 24 pontos bem próximo
+né 27.5 26.8 note que os valores para o
+egito são bem próximas originais indica
+que você vai firmar bem
+então se você tiver uma estimação em
+relação a essa etapa shimano esta
+este valor que em relação a esses
+atributos aqui ou você lembra que está
+no modelo vai mostrar de novo aqui é só
+usar tributos é tão ruim com ele pegou
+esses dados jogou no modelo linear e
+está mostrando qual é o resultado está
+aqui vou fazer o select como vai fazer
+um gráfico aqui fazer um gráfico
+olha já escolheu já estava então se não
+tiver escolhido obviamente você vai se
+tiver assim você coloca a informação do
+target o que é estimado da chamada linha
+regressa e o que é real chama tempinho e
+votar um plot ficar né escatológico e
+mostra not olha que maravilhoso que ele
+está fazendo aqui ó
+ele está pegando o valor original e o
+valor estimado
+note que estão caindo um próximo do
+outro você pode dar até 111 aqui ó ó
+os valores a original estimado também
+não podiam estão caindo muito próximos
+que negócio legal que percebi a regra no
+entanto fazendo estimação na regressão
+linear né aqui ó
+e pra ele aí é um é igual a 1 também é
+tão perfeita que é então perfeito aqui é
+pra ele retém um
+mas note não parece uma reta os dados
+são de trás sejam uma reta não é
+perfeito e alguns outros que não estão
+nessa reta é tão pouco distante da reta
+mas note perceba né perceba como é um
+modelo consegue encaixar né
+ele é bem próximo dia 11 quando um
+modelo consegue encaixar legal possa
+haver alguns ajustes que você vê a
+diferença é por exemplo tirando aqui os
+atributos que a gente vai ver lá ele vai
+recalculando só com esses atributos será
+que tá legal
+o modelo ao r como caiu também olha era
+21 2221 23.8 vamos ver lá o escape lote
+olha como está diferente not
+eu tirei alguns atributos já não saiu
+mais a regulação boa legal porque ele
+precisa ter os atributos para que ele
+possa estimar o valor certinho da
+temperatura que não está na reta tá bem
+disperso né então não é a precisão r com
+caiu para zero pontos eis aqui no caso
+dele não perceba que você tem que ter um
+trabalho de época e vai proceder aos
+poucos né
+aos poucos vou botar rajada de vento
+vamos ver o teste escola não mudou
+você vai aos poucos a botar precipitação
+vamos avaliar 32 também não vai
+acrescentando e ver no que vai acontecer
+não será que ele vai melhorando a
+velocidade ainda não quem está mais
+influencia nesse ano unidade vamos ver
+ópera umidade então você pode até tirar
+alguns que não têm influência ano só pra
+ver se
+o modelo continua persistente autor
+continua alto então quem não precisa nem
+de tantos dados assim é tirar rajado
+você nem precisa
+o modelo pode ser mais simplificado ou
+seja tirar ponto de orvalho para ver o
+caio pompeu vale influencia não vou
+botar pode roubar de novo então você
+pode fazer esse teste
+tirando colocando vento vamos ver
+ó reduzir o modelo a 2 praias são as
+impressão de expressão faz algum efeito
+tirando faz cair um pouco a pressão que
+então olha o que aconteceu
+eu tinha um modelo grande com tantas
+variáveis agora o modelo tá melhor o
+valor para editar está quase o mesmo e
+peixe uma temperatura só dependo de você
+olha aqui de umidade ponto de orvalho
+pressão se estima temperatura vez que
+até pode copa perfeito perfeito not
+conseguir fazer um modelo que eu pudesse
+gerar a partir de um atributo que a
+temperatura baseado em outros três
+atributos pronto depois salvar o modelo
+o ataque segue model eu vou salvar o
+modelo aqui eu botar aqui um atributo
+específico download que nem a model
+assim ora g
+nem a model modelo está salva a salvo
+pronto tudo o que eu fiz aqui tá salvo
+dentro deste modelo
+tudo que você vai agora vou claro
+continua a aula eu vou mostrar a você
+como é que a gente lê este modelo beleza
+salvará que logo que aí eu já salvo isso
+já deixa aí pra que você possa trabalhar
+beleza vou salvar aqui botar aqui
+eu linear e aí você já baixa e do site
+já trabalha aí na sua casa você quiser
+abrir isso aqui pra ver como é que o fiz
+tal mas o que eu fiz aqui para ganhar
+você pode usar pra outro tipo de
+regulação também a logística também e aí
+poder estima beleza pode fazer isso
+também na rede neural outra coisa que
+você tiver trabalhando gostou cara muito
+legal legal legal só ver o modelo volvo
+modelo a gente vai executar aqui beleza
+pronto limpei aqui vamos com essa um
+texto ao modelo que o grave
+vou ler o arquivo de teste como é que
+vou testar o modelo 9
+eu já treinei ele está lá gravar dinho e
+está preparada para cima então vou pegar
+um arquivo para testá-lo jagger em um
+arquivo aqui com três observações apenas
+a test teste a temperatura também sobre
+ele aqui só tem três registros têm a
+informação aqui ó
+deixei aqui zerado você precisa zerado e
+aqui tem as informações todas que estão
+lá no modelo está decidida erasmo ver
+qual a temperatura
+vou colocar aqui load o jogo buscar aqui
+load modelo load e reload model vou
+clicar aqui ó pra ler o modelo vem com
+essa extensão pk cls
+aqui posso dar revelou digital e vou
+usar que apague para a edição neopar
+adit eu quero prevê né
+vou ligar o que eu quero estar aqui está
+ela está aqueles três lembra o estrela
+discutir o ataque um da tap porque eu
+acho que fica mais fácil para você
+enxerga
+eu quero que esses três apache mata
+zerado aqui em nada
+quer saber qual a temperatura baseado
+nas informações da relação à libra
+pressão orvalho evento
+eu coloquei isso foram só escolher três
+é porque eu fui eliminando o que os
+outros não tinha muita influência em lei
+o modelo modelo está carregado aqui eu
+tinha salvo se tinha visto agora a lei
+vamos ver a edição ó ó ele aqui então
+com aquela têmpera a com aqueles dados
+que estão aqui é tentado a fazer a coisa
+direito que eu e zara vai mostrar a você
+que ele conseguiu estimar pronto este
+mei com baseado nesses dados qual é a
+temperatura naquele dia então de 21
+graus do dia tenho 20 pontos 2 no dia 22
+pontos 0
+você tem este manda imagine peguei o
+bonde ovário de uma manhã vai fazer 21°
+cara como é que sabe tudo baseado em uma
+regravação que estima se olha que coisa
+legal estimado estimado
+como eu falei você né o modelo está
+cravada cloud está salvo
+e você tem o modelo lá pra você possa
+afundar quando o tempo se sabe é um
+atributo é só colocar mais dados para
+treinar o modelo você pode colocar mas
+aqui eu tô testando comprade ti
+eu tenho uma informação já estimado o
+que ela não essa foi nossa alma olha que
+legal que é legal isso de abril somente
+em abril abriu abriu muito bom nunca
+esqueça de estatísticas você tem que
+estudar está diz que sabe o que elas
+estão traduzindo para que você saiba
+esse modelo está certo ou não salvar o
+modelo logo depois que você treinar você
+com o tempo vai fazer alguns ajustes
+tanto de dados como de atributos e aí
+você pode utilizar para uma base que
+você tem isso aqui pode ser um banco de
+dados não só posso ler um banco de dados
+e sair prevendo tudo posso fazer um
+excelente na minha base e saí para ver a
+gente aqui você vendas quanto de lucro e
+ukra né
+as formas fazer então perceba como é
+poderoso hoje como é fácil de você criar
+muito muito fácil
+ok espero que tenha gostado agora você
+na próxima aula nosso curso continua

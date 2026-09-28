@@ -1,0 +1,183 @@
+# Avaliação de Imóveis - Rafael de Jesus (Engenheiro IME/RJ)
+
+- **URL:** https://www.youtube.com/watch?v=NwL_MrTzg7w
+- **ID:** NwL_MrTzg7w
+
+## Transcrição
+
+o Olá tudo bem trocar Bruno e Rafael EA
+pedir de se arrumar ele gravar esse
+vídeo em agradecimento aí também que ele
+me ajudou bastante porque esse papo no
+jeito de fazer as coisas eram um pouco
+mais ainda não estou em crise' Astra do
+deserto amanhã ele pega programa que ele
+continue recebi ela parte de Engenharia
+e o tentava sempre deixar os próprios
+tabela de vida né então toda tudo que
+relativa gera civil calcular eles vão
+certo então comecei a trabalhar muito
+com avaliação de imóveis avaliação de
+imóveis é esse curso e contato com
+alguns óculos e faziam todas alarmes e
+do mercado é ter interesse isso aqui
+então você decide console E ela morreu
+uma planilha no Excel e para ativismo só
+que
+e para você sim porque eu tive que ir
+mais pra parte de estatísticas conectado
+pajem a terra nosso fimr graças ao bom é
+aqui O bichão exemplo seria uma pesquisa
+de mercado né de alguns imóveis e você
+vai fazer uma comparação né então a
+gente tem algumas variáveis de andar
+aplicativos quantidades de banheiro
+fator de depreciação ao justificar
+melhores rir e o valor total de cada um
+né geralmente quando a gente faz uma
+pesquisa eles tipo de mercado às vezes
+você até ver que o estoque trabalho
+diário falar porque nessa região o metro
+quadrado é tanto então é isso acaba
+sendo uma visão simplista é porque a
+príncipe metros quadrados desse primeiro
+Depende de muitas variáveis digitadas
+aqui gente sério acho que a gente
+considera mais relevantes nessa hora os
+ativos certamente está sendo
+o telefone para o frio mesmo que vai
+estudar também se como saber quais são
+as variáveis principalmente letra ele
+procurar alguns tipos de aulas tem sinal
+de avaliação de imóveis da CPU e também
+baseado nas nossas avaliações na
+Humberto 1465 três e se avaliasse manual
+que é fácil de encontrar internet você
+colocar manual de avaliações aquele 2018
+versão 2018 você vai comprar com muita
+facilidade e nele nós temos alguns
+prefeitos né nesse considerações
+iniciasse do troca não sente fidelidade
+para chegar à o valor para um homem ele
+fala que toda a regressão ele é a tal
+como sempre linda tirar diferença a 1453
+a norma que nos baseamos para elaborar
+essa essa
+e hoje dez Bom vamos lá vou direto para
+o mestre o método eu falei felicidade
+situação de motor e haveis tão exemplo e
+Quais formas das variáveis consideradas
+ar oxigênio é consumido padrão de
+construção localização idade a família
+estado de conservação departamento de
+colocam uma lista das florestas variados
+são mais relevantes e que considera até
+reposição sob mobile tem É próximo da
+próximo de um ponto e valorizantes na
+região de distância Polo valorizante
+daqui são exemplos de quais são as
+variáveis que temos televisão Estou te
+pedir de acaba tipo de morre aqui
+existem geral fundamentação de acordo
+com a nova que existe consideram fez um
+número de variáveis até as questões do
+das tenistas do
+o vídeo sobre não né topas ir para um
+lugar muito frio vou deixar de ser pago
+na 44 é nós temos os tipos de variáveis
+aqui são questão se para
+micronumerosidade quando ele meio da
+Morte fica muito pequeno só que nós
+alguns quanto maior ela mostra novidades
+mas é melhor esperar uns modelo outra
+opção que nós trocamos aqui com que
+curso e tratar de uma tradição entre a
+ela existe ela demora que eu vi um ano
+a todos condições para que esse modelo
+seja ficar bem é normalidade de Desejo
+de apoio na modelo aplicado desde que
+Jesus lhe temas edição padrão ele pode
+ser um teste diferenças basificado
+corrente fabricar o processo rápido
+considera aqui como comparar a
+modalidade de resíduos com o modelo
+padrão como da cidade e leva em
+consideração varões importante de Jesus
+pia restante egípcios como foi mostrado
+aqui ele não tem nenhum padrão mente
+seja alguma coisa mais aleatória
+possível presente Jesus em projeção se
+vai dessa forma aqui e suas bom se ele é
+Até você dá sim seria esse até você dá
+um resumo que ele quer dizer o seguinte
+eu te esquecer de usar alguma piada me
+número finito de um padrão
+o palco relação é prestar que você use
+duas variáveis que tenham mesmo
+Bronstein explica em mesma coisa né Você
+tem uma próxima que realmente um órgão
+grande e tem mais banheiros eles acabam
+concentrando uma relação mal correlação
+alta ainda Ative o sino notificação mas
+quando você usa 2 variáveis e São alto
+por relacionado para definir uma
+variável dependência Como se você
+tivesse utilizando variáveis para ficar
+uma quando na verdade basta mesmo da
+cerimónia me disciplinaridade é fazer
+isso de novo fazer uma uma uma Matre
+analisando a autocorrelação de cada uma
+das variáveis entre entre a as variáveis
+Independentes EA variável dependente
+o clima com relação à alta é é bom então
+a gente tem que prestar mais atenção é
+esse daí
+a profissão você opção desativar que
+realmente define pelo piloto primeiro
+Mas além de definir do Pilar pelos vezes
+a gente se vê essa lavanda caixa de céu
+tilar espírito enquanto ele influencia o
+modelo e Se você retirar os playoff lar
+e retira o modelo ele não altera tem que
+modelo ele acaba sendo uma
+a pena eu ficar muito eficiente só se
+além da Amizade posso largar análise ao
+resultado agressão responde que nós
+somos auxiliar e fecha também distância
+de coco cera como que vai ficar aqui são
+grau de alavancagem a gente calcula
+Matriz satélite fica seguir teste de
+significância do modelo e espécies muito
+sócio Diretor de terror pelos ensina que
+as modelos e chegando só é eu vou
+explicar esse aqui sobre o modelo DNA e
+Identificação do valor a gente tem
+indicação do valor E além disso O a
+amplitude de pegar o quitoplan podia
+subscritos pela oitenta por cento pela
+confiança e coopératif sempre funcionam
+muito grande por exemplo as pernas
+sempre valor máximo o homem de valor
+o valor do vinho o mate feita por cento
+Washington modelo está ruim hein vamos
+lá vamos vamos colocar logo para ir
+prática né é muito porque nós tivemos um
+da pesquisa de mercado Levando pelo 24
+imóveis semelhantes ao avaliando e
+definindo um forma da gente sabe um
+filhotinho a quantidade de banheiro em
+cada um E tá tudo depreciação é por que
+que eu usei fator de depreciação dos
+carros esse caso eu usei para poder
+prestação pelo fato de que considera a
+idade de nove e ele considera a padrão
+de acabamento dele e e também o ótimo
+estado civil o seu uso tem três variado
+desse mundo ele é um rápido até ter
+conhecido como falsa André já respeitar
+os sinais de crescimento bom então a
+gente passou por quê
+E ai meu Deus falou de mim para vocês
+podem enfrentar res
+Oi amore
+a música português

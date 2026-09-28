@@ -1,0 +1,180 @@
+# Matemática Financeira - Juros Simples, cálculo da taxa e do capital - Prof. Marcos José
+
+- **URL:** https://www.youtube.com/watch?v=_1dJngMHHOQ
+- **ID:** _1dJngMHHOQ
+
+## Transcrição
+
+olá tudo bem e prontos para mais um
+estudo um capital acrescido de seus
+juros de 21 meses soma 156 mil e
+quatrocentos o mesmo capital diminuído
+de seus juros de 9 meses é reduzida
+88.400 calcular o capital ea taxa de
+juros simples anuais ganha na operação
+tem vamos tirar aqui as informações que
+são importantes para resolução do
+exercício
+nós temos aqui algumas delas então
+primeiro foi dito assim que um capital
+nós não conhecemos nem a taxa que também
+desconhecemos mas aqui no meio do texto
+foi dito assim esse capital acrescido ou
+seja somado de seus juros de 21 meses
+soma 156 e 400
+então vamos prestar atenção algumas
+informações aqui fala de juros simples
+anuais e nós temos aqui o período de
+tempo que é 21 meses período de tempo
+que é também nove meses
+então um dos nossos esforços vai ser o
+de transformar esse tempo aqui em mês
+para ano
+outro esforço que nós vamos empreender é
+de destacar que nós temos nós temos aqui
+um juro um que vai ser igual a um
+capital que é o mesmo nas duas situações
+vezes a taxa que a mesma também e vez o
+período de tempo
+nós temos um juro 2 que o mesmo capital
+vezes a taxa e vez o período de tempo
+dois vamos analisar esses períodos de
+tempo
+nós temos aqui o tempo que vamos chamar
+de n 1 que é 21 meses como nós queremos
+o valor dos juros à taxa de juros em ano
+nós vamos nos perguntar um ano tem
+quantos meses
+ora um ano tem 12 meses então se nós
+temos 21 meses e dividirmos 21 por 12
+nós vamos ter um período de tempo aqui
+então que vai ser igual no caso
+dividindo 21 por 12 a 1,75 do ano então
+do juro já podemos colocar essa
+informação o juro virá nós fazemos cá
+ao mês a taxa vezes em 21 meses só que
+convertido em ano que é 1,75 para julho
+2
+vamos proceder do mesmo modo nós temos
+um tempo dois que é dado como sendo nove
+meses e aí vamos nos perguntar também no
+ano tem quantos meses
+logo nós vamos pegar 19 e dividir pela
+resposta à nossa pergunta ou seja
+dividir por 12
+então o tempo 2 aqui vai ser 0,75 do ano
+e vamos colocar no juro 2 capital vezes
+taxa desde o tempo que a 0 75 do ano
+bom agora nós podemos tentar já iniciar
+a resolução do exercício
+nesse exercício dito assim um capital se
+acrescido somado de seus juros de 21
+meses
+nós temos aqui o juro 11 resultaram em
+156 e 400
+temos também que o mesmo capital se
+diminuído ou seja menos os seus juros
+tão aqui eu juro 2 vai resultar é ser
+reduzido 88 e 400
+nós temos aí já a formação de um sistema
+de equações
+pois bem vamos substituir o juro um que
+já conhecemos e vamos substituir os
+juros 2 que também já conhecemos e vamos
+ver o que acontece depois dessas
+substituições fazendo isso mas não ser
+capital mais juro 11 que é 1,75 vezes e
+vezes e isso tudo é igual a 156 e 400
+temos também que o capital - o juro 2
+que também já sabemos ser 0,75 vez o
+capital vezes a taxa que é igual a 88
+400 inscrevemos a 88
+e 400 melhorando um pouco mais o nosso
+sistema de equações
+agora nós temos várias formas tentar
+resolver esse sistema
+um desses modos leva em conta o seguinte
+nós temos aqui o capital vezes attash
+positivo capital vez a taxa negativo
+se nós multiplicamos a primeira equação
+por 0,75 que é o segundo com eficiente
+ea segunda equação multiplicarmos por
+1,75 que é o segundo com eficiente
+nós vamos ter aqui coeficientes iguais
+ou seja números iguais e ao fazermos
+isto vai ser possível simplificar o
+capital vez a taxa
+vamos fazer isso então então
+multiplicando 0 75 por ser 0,75 c mas 0
+75 75 vezes 1,75 resultará em 1,31 25
+vezes e vezes e 156 e 400 x 0 75
+resultará e 117.300 eu recomendo que
+você faça faça esses cálculos aí onde
+você está
+para verificar aqui eles são iguais 1,75
+vezes e em 1,75
+c - 1,75 vezes era 75 é 1,31 25 vezes e
+e vezes e que é igual a 88 400 vezes
+1,75 que resultará em 154 mil e
+setecentos pronto nós temos aí o nosso
+sistema já está dada
+agora basta nós somarmos tempo a termo 0
+75 c mais 1,75 c resultará em 2,5 c 1,31
+25/6 menos 1,35 sei se cancela e tudo
+igual a 117 300
+mas 154 e 700 resultará em 272
+isolando o seu capital se nós vamos ter
+então 272 mil / 2,5
+então o capital que é uma das
+solicitações o texto do exercício vai
+ser equivalente ou melhor vai ser igual
+a 108 mil e 800
+concluímos assim a primeira parte dos
+nossos cálculos
+agora vamos em busca também da taxa para
+calcularmos a taxa podemos pegar a
+primeira equação não necessariamente ela
+mas pode ser ela
+nessa primeira equação que é que estou
+destacando agora aqui nós vamos
+substituir o valor já conhecido do
+capital
+então o capital que é ser né ele vale
+108 mil e 800 mas 1,75 vezes capital que
+108 mil e 800 de zoe e toda expressão
+vai ser igual a nós temos aqui 156 mil e
+400 na seqüência vamos isolar aqui 1,75
+vezes entre 800 vezes e e para ver o que
+acontece
+vamos baixar um pouco mais a nossa
+escrita aqui para isso vamos escrever
+cento e 800 no segundo membro e
+multiplicar 1,75 por cento e 800
+ao fazer esses cálculos nós vamos obter
+os seguintes resultados
+então nós vamos ter nessa multiplicação
+1,75 vezes 108 e 800 nós vamos ter então
+190 mil e quatrocentos e que vai ser
+igual ao 156 e 400 menos 108 e 800 isso
+vamos ii
+nós vamos obter então também pela
+subtração dos 156 e 400 pelo 108 e
+oitocentos anos ter aqui então resultado
+que vai ser igual a 47 mil e seiscentos
+e / 190 mil e 400
+ao realizarmos esta operação final vamos
+obter sérvia 25 ao ano ou em taxa
+percentual x 100
+vamos ter uma taxa que é igual a 25 por
+cento ao ano concluindo a segunda
+solicitação da questão
+a primeira delas delas nós queríamos o
+capital que aqui está na segunda nós
+queríamos os juros à taxa de juros que
+também é que está ok povo então com isto
+nós concluímos mais um breve estudo
+desejo para vocês tudo de bom
+muito sucesso em sua caminhada que vocês
+sejam muito felizes e até o nosso
+próximo estudo
+eu aguardo vocês em tal

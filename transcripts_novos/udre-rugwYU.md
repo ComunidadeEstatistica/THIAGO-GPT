@@ -1,0 +1,77 @@
+# Importância da Inferência estatística dentro da ciência de dados
+
+- **URL:** https://www.youtube.com/watch?v=udre-rugwYU
+- **ID:** udre-rugwYU
+
+## Transcrição
+
+Olá pessoal nesse vídeo nós vamos falar
+da importância da inferência estatística
+dentro da sensibilidade bom e o que vem
+a ser inferior estatística pessoal então
+basicamente um conjunto de técnicas né
+para você conseguir da sua amostra na
+chegar extrapolando o resultado para a
+população né então no momento que você
+tirou a sua amostra né você quer que ela
+seja representativa da sua população
+Então imagina aí uma sala de aluno né
+então se você tirou alguma amostra
+significativa dos seus alunos por
+exemplo né você quer saber a idade média
+né que tem os seus alunos né você vai
+estudar técnicas ali dentro de
+diferentes estatística que vai garantir
+que essa média que você calculou para
+amostra dos alunos que Você retirou vai
+ser significativo para você conseguir
+extrapolar para a população de alunos da
+sala inteira né então a inferência
+estatística Ela estuda isso né E aí
+dentro da infeliz você pode utilizar
+as técnicas diferentes por exemplo para
+fazer teste de hipóteses para você
+validar modelos né Minimizar viésis
+dentro de modelos né então por exemplo
+quando o remédio ele é feito né ele
+precisa ter testado né então ele precisa
+ser validado para que não Tragam
+malefícios para as pessoas
+para dar aquele aquele remédio que tá
+sendo desenvolvido né então basicamente
+tem todo um estudo né para ser realizado
+o desenvolvimento daquele teste né dos
+remédios para ver se ele significativo
+ou não e a inferência estatística Ela
+traz técnicas para você fazer esse teste
+de hipótese por exemplo da melhor
+maneira possível né modelos para você
+saber
+se realmente o modelo ele tá performando
+bem né baseado nas métricas que você
+escolhe tudo mais a diferença
+estatística ela vai te trazer testes
+estatísticos que vão garantir né se
+aquele modelo é ele tá sendo
+significativo ou não na estimação do que
+você tá desejando estimar né Por exemplo
+de precificação de imóveis né que você
+pode utilizar ali fazer um modelo para
+saber o preço de imóveis ali da sua
+residência por exemplo então baseado nas
+características ali de número de
+banheiros número de quartos número de
+garagem aonde está localizado e morre né
+você vai ter ali a estimativa e a
+inferência estatística ela vai trazer
+testes para garantir que essa estimativa
+é válida né emitir mitigar também esses
+viésis né então a diferença estatística
+ela é muito importante dentro tem um
+papel fundamental dentro da ciência de
+dados para você validar modelos
+identificar tendências por meio de teste
+de potes por exemplo né você validar
+hipóteses de negócio tá então é isso
+galera então até a próxima valeu tchau
+tchau

@@ -1,0 +1,183 @@
+# Parte 3/3 - Selenium com Beautil Soup no Python - Simulando consultas no Google!
+
+- **URL:** https://www.youtube.com/watch?v=txC3Bgk0od8
+- **ID:** txC3Bgk0od8
+
+## Transcrição
+
+os senhores lá parte 3 nosso vídeo vê-se
+agora dds 42 corpos de doze agora para
+extrair informação de fato é o que nós
+queremos que é o objetivo seja a
+alimentar um banco de dados uma maneira
+estruturada sem aquele monte de lixo do
+mundo e tag que o bes qual foi feito pra
+isso né
+a gente possa navegar entre as tags e
+pegar realmente interessa né ele não é
+aquele monte de lixo
+então vamos tratar os projetos que
+estamos aqui em molezinha todo mundo usa
+agora se num mês quatro que facilita de
+maio de 2000 o pneu né
+vamos ver explicou beleza
+nós vamos inspecionar esses elementos
+aqui a gente vai pegar eles
+nosso objetivo é esse hf aquilo que se é
+http sp.com.br esse é o nosso objetivo
+terá esse hf e chega à reta está dentro
+de uma dívida que tem um atributo cleese
+r vez aqui também uma coisa acho que sim
+hf facebook beleza mesma coisa
+então acho que tem que dar um firewall
+div classe
+r espero que a gente precisa
+então vamos usar vamos ao terminal me
+cativava provavelmente você testar o som
+das 6 4
+lewis ou subir local mas bsp como espaço
+depois desce 4 beleza
+então a gente precisa agora no html da
+página a gente não tem ainda vamos criar
+aqui um html atributo recebe o chrome
+que é selênio ainda retorna da página
+clica no botão ok no botão pesquisa
+google
+ele vai pra página seguinte a gente tá
+só na página de excelência a gente não
+tá com html ainda é aguardada por raspar
+esse beijo seu pai responde traz o html
+e javascript
+a gente tem certeza a gente tava html
+precisa de fato beleza pra retornar num
+saque quebrou também dá conta terminou
+na ponta de história
+agora a gente precisa fazer o parceiro
+html que é basicamente é estrutural html
+para que o nosso grupo o sup consiga
+chegar nas tags
+então quem quer fazer agora
+o html5 nome recebe o apelido lá em cima
+sempre fosse ontem
+eu vou usar html
+outros estão isso usar esse beijo agora
+vão dar um pique só vai aumentar esse
+html parcial
+segundo alguma coisa mudou já consegue a
+gente consegue algumas tags mas não quer
+dizer muita coisa nem consegue enxergar
+quase nada aqui
+[Música]
+o bs-4 agora ele faz naquela div
+agora uma nova chamada a mv receber
+antes na negócio html parcial ele
+retorna pra gente o objeto ainda recebe
+html buscar alguma coisa né
+[Música]
+só que todas apresentam é só vai à índia
+under my empolga e quer pegar todas as
+dívidas que o sr daquela página
+então o que eu quero buscar
+quero buscar a tag dê certo
+quero pegar clash é beleza deu certo
+novamente ou eu vou dar um pai que me
+ensinou nível voltou desce 4 em gente
+consegue fazer tudo com certeza uma pec
+4 vai retornar um elemento de bs 4
+você consegue da faixa de the fire e nem
+definir
+então já fazendo quebradinho aqui pra
+ficar mais fácil né
+então vamos um pavor desse nível e agora
+ó gmail do pacarana amba
+acho que se a gente consegue ver se
+consegue ver a nossa clésio r coloca
+garrfa que explicar isso aqui vou cair
+no no youtube que é um dedo de alguém
+falando da pedra aqui a gente consegue
+enxergar tudo ao mais uma aqui que a
+linkedin beleza
+só que ainda tem muito lixo nosso
+objetivo é só o h rech
+então a gente pode fazer agora que uma
+lista né gente pode fazer um ford ford x
+1
+ele vê que é o nossa lista
+agora uns x lembra o dia falando de tudo
+um tudo é um resultado 7 10 4 então
+posso dar um fim de xis aqui certo então
+vai fazer para ficar mais fácil a gente
+está aqui então eu vou dar só um fire e
+festivo é que eu tô aqui é um firewall
+por exemplo tive eu tiver mais a mais
+tags assim dentro dessa dívida zr e vai
+retornar coisas que a gente não quer a
+gente só quer ser o primeiro a comandar
+um fã indy a sofá e agora nunca um
+firewall ponto fund
+definia quem entende que é o atributo hf
+que está dentro do ar o que é difícil só
+facilita demais o que agradecer quem faz
+e diz que muitos desses seguros para
+agente português set efe
+acho que se ele resolver a resolveu
+tentou tudo que a gente precisava só
+oficializa o código né
+e se in natura que nem do pesquisa
+[Música]
+mas aqui também a beleza
+isso aqui
+acho que só na nossa senhora são três
+linhas nos fizemos um importante pacote
+é o som desce 4 forte brilho ou subir
+a cbs ainda tem um html então ela
+terminar fácil comandar que ele recebe
+recebo peixes orsi pronto aqui está
+rodando perfeitamente
+vou dar um exigente
+elide beleza
+então vamos rodar aqui no programa agora
+oficializado o chamado tudo aqui já a
+nossa é google bom p y el modelo rodando
+importante agora entanto que a gente
+precisa fazer as considerações finais no
+filho diretor clicou 11 30 pra gente
+aqui todos os índios vamos minimizar
+isso aqui é que ele pinta na ordem em
+que o primeiro pebre segundo o facebook
+o terceiro é o linkedin e na ordem
+terceira de s
+o npj a gente a todas as regras na ordem
+a gente pode agora vou esse código
+demanda
+isso aqui é uma url é a mesma coisa que
+a gente está aqui em cima no google.com
+pode guardar isso aqui numa lista
+entrando nessas mulheres e fazendo em
+bando as tags deixando só texto dentro
+dessas em entrando neles limpando as
+tags e deixando só texto fazia o vôo em
+uma área de sentimento é uma a um
+poderosíssimo você pode ter a sua
+empresa quer pesquisar sobre alguém
+lançou um produto revela no seu life de
+pesquisa ao longo do seu lar e vai
+entrando em todas as páginas do que as
+pessoas estão falando ao celular no
+mundo e vai raspando ela vai ter nas
+tags vai fazer uma área de sentimento
+entrego eu tenho 100 páginas sem sites
+que têm pessoas falando da sua marca no
+momento e essa aqui
+nem raiva a quitar o empreendimento de e
+de amor e assim vai ter entregue uma
+análise poderosíssima e eu acho que deu
+para dar um overview pra vocês aí como
+os a selenium 10 4
+tentei ficar o máximo e nunca fiz uma
+uma videoaula e por isso espero que
+vocês tenham curtido e que se possam
+fazer proveito e que e que acrescente
+alguma coisa na carreira de vocês é isso
+aí fica nessa virada o thiago
+abraço é nóis

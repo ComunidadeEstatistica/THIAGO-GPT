@@ -1,0 +1,1538 @@
+# Live Alcely Barroso (IBM) - brilhante carreira e as Skills desejáveis dos Data Scientist´s e CEOO´s.
+
+- **URL:** https://www.youtube.com/watch?v=PluedVaKSFo
+- **ID:** PluedVaKSFo
+
+## Transcrição
+
+e vá e então pô queria agradecer a
+presença da mestra série né que se diz
+pois aqui conversar com a gente ela como
+a gente já tava conversando aqui foi por
+intermédio aí da professora aline
+carvalho né que poder natura de
+marketing digital net de ervilha ela me
+indicou foi depois super legal assim
+indicação né eu de bate-pronto ela
+aceitou assim então é um grande prazer
+aí recebeu na comunidade estatística
+queria que você ficasse à vontade aí
+para conversar com a gente falar dessa
+carreira e também falar das skills né
+dos cientistas de dados e que hoje
+precisam para tratar desempenhando aí
+com o sucesso por favor tá só para
+obrigada obrigada pelo convite eu minha
+carreira é um é bem não é linear nada
+linear eu comecei na área de na área de
+biológicas na verdade odontologia na usp
+nunca exerci
+eu já fui direto para uma área de mesmo
+na graduação na área de pesquisa mais
+voltada para a bioquímica que hoje
+médica que a parte que tá super em alta
+agora nessa parte de sequenciamento tem
+um pouquinho de física é não a química e
+tem bastante assim a gente a partir do
+da metodologia científica ela tem que
+usar eu acho que a matemática
+estatística se a gente não levem em
+consideração você não consegue ter dados
+que de dignos e você não consegue nem
+publicar papers então acho que tem todos
+os lados da ciência ela que você baseado
+em dados e isso sempre está em qualquer
+na veia de qualquer cientista né ou você
+precisa disso mas eu acabei indo parar
+acadêmicas que muito tem dando aula
+depois eu fui para uma hora de gestão de
+gestão da universidade trabalhei com a
+reitoria
+é que no momento da minha vida eu queria
+muito trabalhar com movimentos sociais e
+de mudança social acabei me enganando é
+muito com com projetos de
+empreendedorismo de um erro por esse
+lado do empreendedorismo e o que foi o
+que me atraiu para as empresas grandes
+trabalhei quatro anos a microsoft depois
+da sua 10 anos na ibm e na ibm eu passei
+pudim já terceira a terceira área que eu
+tô aqui na verdade eu tô voltando às
+minhas origens eu quero tá muito próximo
+das universidades para levar os
+conhecimentos das indústrias o que que a
+gente precisa na prática para resolver
+os problemas da prática e como que a
+gente já pode antecipar isso dentro da
+universidade usando todas as ferramentas
+né que que a gente tem então eu tenho
+focado muito em pensar novos modelos de
+educação justamente para ingressar temas
+como ciência de dados inteligência
+artificial isso eu acabei me enganando
+no
+e agora não posso doc de inteligência
+artificial justamente para a gente
+entender qual o comportamento das
+pessoas frente essas mudanças todas qual
+é o nível de adaptação das empresas e
+como que o os líderes e como que os
+gestores estão olhando essas
+transformações então é isso que tem um
+pouco que eu preparei aqui para falar o
+transformador na educação é é muito
+transformador e quando a gente olha os
+dados né então eu trouxe uma pesquisa
+interessante da ibm do que pensam seus
+também trouxe da dados da pwc e aí a
+gente começa a ver o que que será que
+eles pensam e como que a gente vai
+preparar essa pessoa que futuro né eu
+acho que ea essência de dados antes só
+que eu passo o próximo aqui então
+preparei pensando nisso a gente falar um
+pouquinho da transportado já
+transformação esse mundo em
+transformação né nessa era da
+inteligência artificial que pensam se
+usa que tem uma pesquisa que
+há algum tempo ea última em geral 5.611
+o mundo inteiro a gente tem uma pesquisa
+bem uma área da ibm quer anhambi velho
+que só faz isso e a gente olha para o
+resultado da pesquisa e ver um uma falta
+de esquilos de habilidades em algumas
+determinadas áreas é a gente tem outras
+pesquisas na world economic fórum que
+mostra então a gente como que a gente
+prepara as pessoas para o futuro e com a
+realidade do brasil hoje para a gente é
+interessar né e aí é quando a gente
+começa a voltar no tempo pensar um
+pouquinho como que surgiu isso isso foi
+a conectividade né mundo dando conectado
+a gente já começou a ter o fluxo de
+informação rodando então eu quando tava
+na universidade não tinha tudo isso não
+existia celular é era
+é muito difícil tinha que a biblioteca
+já que eu tava no doutorado na usp tinha
+lançado a biblioteca virtual a gente do
+laboratório de pesquisa mesmo já
+acessava a carol esse artigo da science
+das grandes revistas e eu já conheci eu
+já conseguia pegar sem sair do
+laboratório imprimir olhar consultar
+então tudo ficou muito mais fácil ao
+mesmo tempo hoje é isso aqui é super
+recente né a gente já tá lançando
+foguete que lança 60 satélite de uma vez
+só então hoje a gente já tá inundado de
+tecnologia para conectar ainda mais para
+a gente já tá gerando dados e aí vem me
+tem aí eu um dado interessante né da
+quantidade de dados que a gente já era é
+a gente está desenvolvendo novas
+tecnologias que vão gerar ainda mais
+dado então ó
+eu passava neves assistir o que os
+números também me traz de avanço na
+quantidade de dados que a gente tá
+gerando isso tá além de está se
+concretizando hoje a aumentando então
+hoje é em algo que eu gosto muito de
+conectar porque se a gente não conecta
+com o nosso dia a dia a gente não sabe
+muito bem o motivo da gente tá olhando
+para os dados não é só orar por eles é
+porque a gente tá mudando de hábito
+então hoje a 15 20 anos atrás eu vou
+colar são brasileira não tinha acesso
+então muitas pessoas ainda falavam o
+problema do a voz da tecnologia no país
+é o acesso na hora que você tem o acesso
+pelo celular e você barateia você tem
+milhões de pessoas acessando milhões de
+pessoas gerando esses dados né e quando
+surgem as minhas
+e mais diferentes formas as pessoas
+criaram hábitos né é o primeiro é onde a
+gente olha de dormir primeira coisa eu
+vou antes de dormir eu vou ver se tá
+tudo em ordem só responder tudo se eu e
+quando eu acordo com a minha agenda é o
+celular te acorda com ele é o
+despertador ele agenda hoje é
+basicamente todas as pessoas né tem um
+celular e uso enquanto a gente está
+fazendo está gerando dado então isso
+acabou gerando e a gente tem um impacto
+econômico econômico que é até 2030 a
+gente acha existem estudos que mostram
+que vai aumentar o pib global em um por
+cento claro ninguém tava contando com um
+coronavírus que veio ver um pouco mais
+que vai tempo até 2030 muitas a black
+friday compensa compensa a venda dos
+calendários dos
+oi e a gente mudou a mesma forma né de
+comigo mesmo mesmo a gente tem hoje em
+dia algumas algumas dessas esses
+unicórnios startup unicórnio sendo
+questionadas porque elas alguma já tão
+né que não tão dando o a renda esperada
+o resultado esperado mesmo assim mudou
+então você tem hoje muito mais empresas
+mensagens menores é que ameaçaram e
+ameaçam as grandes empresas o que é bom
+porque você tira competitividade você
+tira as grandes empresas daquele daquele
+velho hábito mas eu não vou mudar então
+isso para quem tá dentro da grande
+empresa é muito bom que você vejam um
+pequeno incomodando porque aí você toma
+uma ação tipo táxi uber é cristão não
+domino isso aqui não não vou atender
+corrida não porque pô
+tô sozinho né mas se tiver concorrência
+né tende a melhorar o serviço exatamente
+porque e hoje você vê que os táxis já
+estão melhores e ele já estão até mais
+informados com mais argumentos até para
+porque pegar o táxi que eu vou pegar o
+corredor que eu vou mais fácil eu aqui
+tá balinha então acho que tem essa isso
+faz todo sentido eu vim a gente tem
+gerado muito dado e você sabe melhor que
+ninguém que a quantidade de dados que a
+gente tem gerado ela é menos e do menos
+de documento é mais não estruturados né
+o os dar cadeira é que eles estão ali
+que agora voz né a gente não consegue
+você tá numa reunião não consegue mais
+ver que alguém te mandou um áudio seu já
+consegue nem vi ao mesmo tempo então é
+muita coisa não estruturada junta né
+maior parte e a grande parte foi gerada
+nos últimos anos
+a raquel já diria que não são nossos ó
+nos dois últimos anos que cidade um
+pouquinho mais antigo mas nos últimos
+quatro anos e acho que a tendência desse
+número é mais a tendência ela continua
+sendo a mesma na gente tem gerado muita
+coisa e a gente não consegue dar conta
+de entender o que está por trás disso né
+e aí o do exemplo até porque a gente tá
+vendo agora né a gente tô não sabe como
+lavar bem a mão todo mundo sabe o que
+que tem que se previnir mas cadê os
+números cadê os números cadê as análises
+então não não chegam fácil elas elas têm
+que buscar tem que procurar onde estão
+os dados é a comparação de um vírus com
+outro cadê o a taxa de letalidade de um
+de outro a mutação é de um de outro cadê
+cadê aquela inteligência por trás dos
+dados que vai nos ajudar a tomar uma
+decisão então hoje a gente tá passando
+no mundo
+o que a gente tem uma informação muito
+rasa hoje a gente tem dados suficientes
+né ao ms ela tem dados de muito tempo só
+tem dado nas universidades dando falta
+só que eles estão escondidos as pessoas
+também não a gente não está gerando esse
+conhecimento de uma forma que a gente
+consiga entender então chato exato então
+hoje é por muitos motivos né falta
+profissional no mercado você sabe que a
+partir do cientista de dados ele é muito
+importante a gente vai falar um
+pouquinho mais perfil mas tá faltando
+quando a gente é um exemplo simpáticos
+meu dia a dia quando alguma universidade
+me pede para fazer alguém da alguma
+palestra específica a gente tem que
+correr assim tem um ele tá no cliente é
+o outro especialista tá com agenda
+lotada é aí
+e o rolo mais jovem que está ali
+começando já tá ficando lotado então é
+todo mundo sobrecarregado e a gente
+precisa sentir mais pessoas a entrarem
+nessa área com certeza é tem um link
+muito legal depois eu é esse do youtube
+é que é o é o nosso um dos nossos senhor
+vai os presidentes n those the field of
+cognitive conferir isso aqui eu achei
+legal hoje colocar porque super 2015
+para gente parece que faz muito tempo
+hoje eu olho isso aqui eu faço nossa é
+velho mas eu acho eu acho muito
+interessante o que ele fala muitas
+coisas então aqui tá falando do edson tá
+por trás da plataforma ele pai eu peguei
+o exemplo que muitos exemplos que ele da
+educação né personalização da educação
+que esperam muito por aí como é que a
+gente estimou
+a fazer principais de matemática é como
+que elas vão passar as não desistem né
+que você tem muitos dados também
+gentlemen né se a gente pensar hoje é
+por quê que é muito mais rápido a gente
+desenvolveu um remédio uma vacina onde
+virá ao porque a gente tem dados dos
+genomas e agilidade né de você poder se
+conhecer um dia numa receber o vírus
+aqui e foi sequenciado em 2 dias no
+passado esse daí era inviável é um dia
+fazer um gel eu hoje é super rápido aí
+três coisas que ele fala nisso aqui que
+eu acho que é muito legal tudo é do
+resultado né não é a tecnologia a
+tecnologia ou a ciência que está por
+trás por ela por ela é meio para gente
+resolver um problema né para mudar o
+mundo para gente mudar as indústrias a
+forma com que elas agem os a gente pensa
+em meio ambiente hoje a gente não muda
+como a indústria tratam a gente vai ter
+um pulmão no futuro e a gente eu acho
+que o terceiro ponto mais
+oi para o cientista de dados que essa
+função cientistas de dados é ver o que a
+gente não consegue ver é da luz aquilo
+aquelas coisas que a gente não consegue
+ver por trás dos dados é isso o que a
+gente não consegue ver é o que vai fazer
+a gente passar para o próximo para a
+gente vai avançar como sociedade como
+profissional então esse eu acho bem
+importante essa reflexão é por trás
+dessa dessa profissão e se esse gráfico
+eu também gosto muito se alguém já me
+viu falar vai sim já deve ter visto
+porque a as pessoas as tem uma adaptação
+e essa adaptação nossa é linear ela não
+é que a gente pode pensar o crescimento
+de um um epidemia pandemia qualquer um
+ela é exponencial ela cresce assim como
+o avanço da tecnologia a gente tá lá
+todos os dias
+há milhares de pessoas desenvolvendo
+algoritmos desenvolvendo a tecnologia a
+gente consegue como população e empresas
+crescer o avanço de uma forma
+exponencial enquanto o nosso amor a
+gente é ser humano ser humano vai se
+adaptando a cada coisa nova então dá
+aquela sensação de que estou perdendo
+alguma coisa porque o negócio já tá duas
+vezes eu tô lá no uma tava doida tô
+doida tá no quatro aí e aí é justamente
+porque a gente tem esse volume de dados
+e o volume de ia velocidade do avanço
+tecnológico e se a gente vai para os
+governos menos ainda né ainda tem papel
+se ainda chega faz uma listinha lá na
+frente para entrar então a gente tem
+essas disparidades que eu tô trabalhando
+aí bgs achei que ia chegar lá e até ou
+na estrutura de data radufe né
+e não é só que não porque ela ainda
+tirando a licença do site aí é só já
+tava acostumada a trabalhar ele tava se
+tem sendo treinada décadas lá com sai
+mas aí é bom que vai evoluindo também né
+vai para o r vai para o pai tem e da uma
+flexibilidade maior também é porque tem
+a mudança cultural né e o que eu vejo
+assim no dia a dia nosso de empresa de
+clientes de parceiros as pessoas
+incomoda um pouco onde elas estão e você
+levar uma nova tecnologia é sempre tem
+sempre uma resistência não é claro que
+você tem aqueles que adotam eu sempre
+fui super high-tech daquelas que a eu
+quero fazer o beta eu estou usando eu
+quero experimentar então tá tá no sangue
+às vezes de algumas pessoas que gostam
+de tecnologia mas a grande maioria acha
+difícil vou deixar para depois tenho
+medo isso faz com que a 1
+e não conforto isso eu organização fica
+numa zona que eu não vou mudar e e aí
+realmente fica difícil você conseguir né
+inovar lá dentro mas aí com com essa
+evolução tão rápida né você acaba
+ficando para trás né se você não sei se
+adequado já era é isso que alguns
+estudos do banco mundial dizem que se
+você demora muito principalmente nas
+empresas se as empresas que mais demoram
+elas são as que vão sofrer mais elas não
+vão sobreviver às o índice de não
+sobrevivência em novas o impacto de
+novas tecnologias na nossa sobrevivência
+das empresas ela é maior lá nas empresas
+que têm resistência as últimas adotarem
+ela já perderam onde adotou o primeiro
+já tá em outro e ela ainda tá tentando a
+tecnologia antiga
+eu acho que tem tem muito a empresa tem
+que entender que essas aceleração da
+mudança cultural ela é ela tem que ser
+pro positiva não se espera naturalmente
+o ser humano vai querer mudar natural e
+aí eu vi um pouquinho por que você não
+conta para vocês enquanto eu tava numa
+área que era área de empreendedorismo
+social do agente buscava levar
+conhecimento para organizações e aí eu
+migrei o queria conhecer um pouco um
+negócio durante um ano e meio eu fiquei
+com o presidente da ibm do brasil para
+conhecer um pouco negócio que uma
+posição lá que é assim você é um
+faz-tudo você fazer as apresentações
+dele você entra em todas as reuniões com
+ele você participa das negociações você
+ficou ouvindo o negócio é um sonho é um
+programa muito de fortalecimento no
+feminino mesmo a gente se insira e que
+as empresas têm que também é propositivo
+se eu quero desenvolver alguém eu
+o interessante é é super legal ele é
+rotativo mesmo então a gente entra cada
+um ano e pouco a pessoa muda para outra
+então olá foi foi muito interessante
+porque lá eu aprendi que a mudança
+cultural ela tem que ser de cima para
+baixo eu acho que aprendi na prática né
+a teoria sempre desisto mas na prática
+eu vi ela de cima para baixo e ela tem
+que ter ações coordenadas ou se a gente
+quer realmente passa eu vou contratar
+mais vamos pensar no cientista de dados
+eu quero uma área de cientistas de dados
+então eu quero treinar e capacitar
+pessoas da empresa para elas mudarem de
+carreira mas se quiserem esse
+especializada nas áreas eu tenho que
+tirar um programa eu tenho que comunicar
+para a empresa inteira tem que falar com
+gerentes eu tenho que dar um incentivo
+para quem vai fazer isso então
+estruturar a mudança cultural é muito
+interessante e é isso que a gente tem a
+sempre
+a fazer nenhum fazenda é o que a gente
+percebe é que muitas pessoas já nasceram
+assim já nasceu e estava na faculdade
+quando a inteligência artificial tava
+sendo falada a grande maioria do mercado
+hoje não a maioria do mercado isso é
+muito recente igual a inteligência
+artificial tenha começado lá atrás como
+pesquisa é um teste laboratórios
+universidade e aqui é bem bacana é
+nessas pesquisas nos estudos eu aprendi
+que a ibm estava desse momento zero
+quando for feito a primeira reunião de
+pesquisadores mundo para pensar
+inteligência artificial tinha lá um
+pesquisador da ibm por que vemos sempre
+teve pesquisa básica também como como
+uma uma investimento porque a gente quer
+gerar mais patentes a gente que é
+produzir
+o driver me contabiliza mesmo produção
+científica no laboratório devemos de
+pesquisa ele se assemelha a uma
+universidade então é lá que nascem essas
+tecnologias então quando eles perceberam
+que a inteligência artificial era capaz
+de ajudar eu eles montaram montado
+também interpretar né os dados sistemas
+que raciocínio interagem o não kelly
+aquele duas lá de anterior que eu
+mostrei foi um dos cabeças para sim pa
+cortar watson da forma que ele foi
+empacotado para se oferecer na forma de
+micro serviços de uma forma aberta ou
+pen para toda a a as pessoas que
+quisessem ele até fala uma parte do
+vídeo se vocês podem ver ele disse assim
+a gente podia empacotar isso aqui e e
+oferecer mas não a gente é
+quem quer oferecer microsserviços para
+cada um montar sua forma e fazer
+resolver o seu problema com aquilo que
+mais que melhor me com o que for melhor
+para ele então a realidade dos negócios
+exato não é assim aquela que a gente
+explica a gente também matizando o
+cérebro humano mas na verdade o que ele
+tá dizendo assim não o que está por trás
+qual a inteligência para resolver um
+problema não só quero só copiar o que o
+cérebro humano faz não é esse a
+finalidade finalidade a resolver um
+problema né então vem que tem as várias
+camadas uma de você já deve estar
+bastante familiarizados né é só é com a
+inteligência artificial machindano deep
+lane e se a gente olha alguns trabalhos
+que o e mate um da vale correr mighty
+publicou há dois anos mostra também uma
+curva exponencial de aumento de número
+de trabalho de publicações que foram
+feitas com as tags
+é essencial machine e aí os pratinhos
+exatamente na hora que as redes neurais
+começaram a ser mais faladas mas
+estudadas e as pessoas e popularizou o
+que era uma rede neural e quando elas
+começaram a ser mais publicadas aí com
+bumbum de publicações e de utilização é
+a própria ibm né com jocad quanto é o
+lançamento do opção naquele jogo que
+eles fazem o justamente escolhido um
+projeto que fosse mais popular para
+realmente popularizar e acredito que deu
+certo porque hoje a gente tem uma imensa
+quantidade de empresas usando nem todas
+usam elas falam as vezes que têm
+inteligência artificial e acho que a
+grande o grande desafio é que nem todas
+estão na camada porque não tem
+profissionais então é e aí é um campo
+para o cientista de dados né porque eu
+senti santidade
+a base é o que eu tenho tem que eu
+trabalhar boa parte do meu tempo é se a
+pessoa tem uma boa base na universidade
+e ela vem com conceitos sólidos na hora
+que surgem novas tecnologias essas
+pessoas facilmente absorvem se tornam se
+adaptar se torna especialistas na área é
+o este foi um exemplo muito tático
+quando a gente olha para pessoas que
+estão trabalhando com consciência de
+dados foi um pulo super fácil e o do
+exemplo de um amigo que hoje talvez você
+já ele é bem conhecido no cadinho que o
+alexandre diretriz ele tem várias ele
+tem várias vários vídeos é para mim ele
+é super é a chave porque ele foram que
+se reinventou e aí eu gosto de contar a
+história dele porque ele é eu fiz
+ciência da computação
+e depois é claro foi parar de serviços
+para a digestão se afastou um pouquinho
+da da área de original dele quando ele
+voltou ele resolveu voltar para que seja
+ajudado então vou voltar aí começou a
+resto da ciência de dados e inteligência
+artificial e aí ele foi indo muito a
+fundo hoje ele saiu de vm hoje ele tá
+estudando sem por cento do tempo tende a
+área de inteligência artificial e de
+berne em machine learning deep learning
+tão a qualquer momento uma pessoa pode
+mudar bom traduz 83 por cento das
+empresas elas concordam que a
+inteligência artificial é uma
+oportunidade estratégica mas e sem mate
+fala quando a gente olha também outro
+estudos carne só 14 por cento delas
+implantam a isso que me deixou assim
+curiosa que é o objetivo do meu na minha
+pesquisa é por quê que acontece isso
+aonde
+que nada estou gargalo gargalo é na
+estratégia não é o presente não entendeu
+um abraço ideia do projeto ou ele é o
+ele falou ok mas eu não tenho que ir lá
+na ponta não tenho uma pessoa de de
+dados ou não tenho alguém de
+inteligência artificial então esse é é
+algo que a gente está pesquisando ainda
+tem algumas pistas eu me único com
+algumas empresas associações de só pela
+empresa de consultoria na área setorial
+da indústria juntos a gente está
+desenvolvendo essa pesquisa em
+funcionários é a gente tá fazendo um
+questionário em breve a gente deve
+soltar mais um então você tem a pesquisa
+quantitativa qualitativa legal ele
+consegue acompanha isso eu vou sim a
+gente vai a gente deixa eu vou eu vou
+colocar para vocês a gente deve sim
+divulgar fazer
+e eventos para a gente conversar sobre
+um pouco sobre isso porque se a gente
+falou é porque a gente só vai esse
+gargalo a gente consegue incentivar
+várias pessoas é para né ocuparem esse
+lugar é então é interessante porque a
+gente vê poucos colocam mas os seus essa
+pesquisa com 5.600 cioso set de 10 para
+não ai ai vai ter um papel na minha
+organização em cinquenta por cento deles
+o ano passado falar meu que eu pretendo
+implementar e aí nos próximos três anos
+mas a gente vê que a velocidade ainda de
+implementação ela não tá como a gente
+esperava isso também nos ajuda nos
+ajudou lá na ibm a conduzir alguns e e
+construir alguns cursos que vão ajudar a
+acelerar essas empresas acelerarem esse
+esse processo é algo interessante para a
+gente ver tanto
+e aqui ciência de dados a gente pode
+falar com uma coisa mais aqui tá falando
+mais lado estratégico não lado da da
+operação ou das ferramentas mas essas
+áreas são elas impactam as empresas tá
+então são áreas que os cientistas de
+dados vai vai trabalhar em todos os o as
+áreas então hoje no na área de serviços
+ao consumidor né o cliente marketing e
+vendas eles estão bem latentes mas hoje
+por exemplo a seleção de rh ela é feita
+por análise de dados daquele candidato
+hoje a gente já faz isso então você faz
+uma varredura pelo candidato se ele é um
+candidato interno você vê quantos cursos
+ele já fez qual é o currículo dele que
+áreas que ele já passou a gente não
+precisa ficar mandando mais currículo a
+empresa captura todos os dados daquela
+pessoa e ela inferno
+é aquela pessoa tem determinado estilo
+industrial não tão legal é hoje a gente
+tem é profissionais de rh que são
+especializados em dados é que alguns
+chamam de pico analytics que a
+justamente para desenvolver e utilizar
+essas ferramentas dentro da empresa e
+fora também tô quando a gente quer
+alguém a gente se usa dessas ferramentas
+eu fico me perguntando às pessoas que
+não tinham muito trabalho né então eu
+conheci muito legal agora tá nos estados
+unidos morando em nova york ele é um
+menino que fez administração de empresas
+gostava de matemática teve uma pequena
+base só que quando ele viu essa
+oportunidade ele acabou caindo na hora
+de rh foi netinho uma oportunidade rh
+ele viu que existia esse campo de
+conhecimento dh e quando se isto
+é muito e aí esse para mim a pessoa da
+transformação mesmo porque ele começou a
+fazer acho que como a bárbara né falou
+ele começou a fazer vários cursos
+pequenos a aí ele começou a pegar alguns
+bancos de dados fazer testes começou a
+testar então aquela pessoa porque lá
+dentro a gente cuidava dos lados essa
+pessoa realmente será que eu tô olhando
+ela tem ele começou a fazer testes
+daquilo que ele tava fazendo batia para
+fazer a regulação né regular as
+ferramentas que ele tava usando a ibm
+por outro lado de uma ênfase total a
+analytics para rh então criou muita
+ferramenta e uma área de lane bem grande
+digital onde a gente tem os dez digitais
+onde a gente tem um cardápio gigantesco
+de cursos então qualquer pessoa de
+qualquer área ela pode e desde o básico
+até o profundo você pode ir no meio do
+caminho
+um pouco isso né quando você aprende a
+aprender que essa nossa nosso mantra com
+com as escolas da universidade não
+importa tanto o seu seu curso inicial
+importa onde você vai chegar né enquanto
+você dedicou de horas naquele assunto
+isso se você se capacitou para chegar lá
+então acho que hoje é um pouco disso eu
+acredito que eu e sempre teve um pouco é
+sozinho é até pelo próprio software ibm
+spss ele ele foi criado para pessoas que
+eram da na hora de ciências sociais né
+então desde o início já já focando em um
+pessoas que não eram nativamente do
+analytics vamos assim né fé hoje é
+programação qualquer um pode aprender a
+gente tem vários casos de pessoas e o
+mesmo recentemente eu fiz uma uma
+seleção é de um eu precisava de um
+desenvolvedor no time mais um
+é uma vaga vieram vários currículos aí
+me chamou muita atenção porque era um
+currículo assim me lembrei de mim quando
+eu tava não fui tão a fundo quanto eles
+mas era isso tinha uma menina que tinha
+feito arquitetura e ela tava fazendo
+hoje mais de um ano de curso de
+programação já era uma desenvolvedora eu
+tenho no meu time uma pessoa que começou
+não é desenvolvedora começou bem mais
+tarde a fazer as informações hoje ela
+super os tactivel e então hoje as
+pessoas estão mudando de profissão e
+elas podem ter mais de uma profissão eu
+escutei discutido nos últimos anos
+bastante sobre isso porque eu vi a
+colegas como esse o alexandre que foi
+embora tá tá no exterior estudando só a
+gente sempre falava que realmente a
+gente tá população ficando mais
+envelhecida as as empresas abrindo mais
+vagas em determinadas áreas
+a cada vez mais especializadas né a
+gente não tem tanto espaço hoje para as
+áreas mais generalista a gente precisa
+ter gente bem especialista é então tá
+faltando um recursos essas pessoas
+pesquisa que mostra que não é que mais
+da metade sessenta por cento das pessoas
+dizem que falta gente né tá tá faltando
+o pessoas no mercado com esqueci
+habilidades bem específicas essência de
+dados é uma delas então hoje você sabe a
+gente chama sempre esta distante como
+unicórnio porque é uma rara combinação
+de talentos é a gente tem até pois esse
+link aqui no vocês também podem olhar
+ela tá grande mas também pode ser o
+ibm.biz com z barra digital edu o
+a temporada 1 e 2 ea temporada 12
+existência de dados vocês vão ver o
+cláudio pinheiro que é um cientista de
+dados explicando o que que é isso aqui
+não é para um cientista de dados
+propriamente dita a gente fez para que
+pessoas se inspirem no cientista de
+dados e queiram ter um seguir essa área
+de ciência de dados depois vou botar o
+link para ver só eu acho esse bacana e
+também tem um eu coloquei para download
+é também é um material que fala sobre o
+cientista de dados né sobre essas
+habilidades de matemática estatística
+programação comunicação aí eu entro por
+um lado que a gente vai puxar um pouco o
+que pensam também os seus aqui em
+e aqui não sei se vocês já viram esse
+para mim eu acho que é muito muito legal
+esse é esse gráfico que mostra o quanto
+a gente tá pro futuro né requerendo
+nunca vi esqueça sociais e esquilos de
+matemática essas são as funções do
+futuro então são processos que vão
+crescer então cientista da computação é
+físicos na área de financeira e se a
+gente for olhar eu fiz em dezembro para
+york estão fazer um curso de quanto
+vampire e o curso de quanto é adivinha
+quem é o principal profissional do
+quanto é um cientista de dados hoje a
+mais da metade da turma lá eram
+matemáticos estatísticos porque toda a
+computação quântica que é vm está
+desenvolvendo ela é toda baseada em
+matemática então o nosso vp
+o mal super especializado ele é
+matemático e ele falou a gente isso aqui
+é matemática pura então é uma profissão
+que vai mudar a forma com que as
+indústrias vão encarar então hoje o
+próprio quanto a gente tem a indústria
+farmacêutica que vai ser muito afetada
+que já tá fazendo inclusive com a ibm
+pesquisas em conjunto e aplicações
+alguns testes de drogas é de mudar
+pessoalmente você testar é uma droga sem
+você ter que fazer um experimento você
+testar de uma confusão computacional né
+os cálculos computacionais de forças
+daquela molécula você tá no risco
+financeiro também é é muito legal porque
+a gente precisa de alto poder
+computacional e ali como você tem não é
+mais a lógica 01 mas você tem né vários
+intermediários consegue acelerar
+e os cálculos do cálculos que levaram
+dias eles são minutos então hoje tem
+claro tem gargalo de físico mesmo de
+você produzir o chip manter a
+temperatura ideal adequada mas está
+avançando é sem dúvidas avançando e
+junto com o avanço da do harlem cedo
+chip você tem que avançar nos algoritmos
+para quanto então hoje não só nos
+algoritmos você desenha algoritmos para
+quanto como para a segurança na área de
+quanto na google também nossa também e
+daí vermelho aberto né mas que vocês
+podem ir lá a gente pode ir buscar
+quanto um ibm quanto e os pesquisadores
+têm acesso no nosso portal acadêmico
+também pesquisadores têm acesso no
+e no quanto no ibicuí tão é uma
+profissão de futuro e esse a gente não
+tem gente chegando como que a gente vai
+lá no futuro daqui a que seja 20 30 40
+anos isso daí vai tá muito avançado como
+que a gente vai é realmente consegui
+almoçar com essas tecnologias se a gente
+não tiver a gente preparada então hoje é
+um desafio da sociedade mas por outro
+lado a gente vê que tá crescendo o que
+os seus dizem as você tem uma pessoa
+muito técnica muito boa ela não tem soft
+skills dela não consegue trabalhar aqui
+pe ela não consegue colaborar ela tem
+alguma dificuldade de interação e aí
+você com comunicação poder você
+compromete a inovação a criatividade da
+equipe
+bom e todos esses fatores são muito
+importantes no mundo de hoje que é frito
+você tem que ter uma alta capacidade de
+mudança então não se preocupa hoje é o
+número um 2018 a gente viu nas pesquisas
+só ele ele flutua né era era importante
+no passado depois deixou de ser um pouco
+a prioridade em 2018 o people skills
+então as duas desenvolvimento das
+pessoas é a a o tema mais importante
+entre esses cinco mil e seiscentos seus
+oi e aí como eu falei olha ele é de
+sétimo lugar pulou para segundo a parte
+de gestão de esquilos habilidade de
+priorização é de quarto e pulou para
+primeiro essa parte da flexibilidade de
+vocês adaptar à mudança e que o mundo
+está mudando toda hora então é uma
+grande preocupação mais do que você tem
+uma capacidade técnica então o que a
+gente vê no dia a dia é que muitas vezes
+você pode escolher entre dois candidatos
+pode ser que você escolha o candidato
+que conhece menos a tecnologia que você
+precisa mas ele tem um só fios e aí
+quando ele entra você tem uma gap
+gigantesco para ele é participar mentor
+ias e etc que vai com suprir aquela
+deficiência ela é muito importante hoje
+aqui as pessoas adquiram assim ou pensem
+também o no nesse estilo
+e aí quando a gente vai para ter wc
+também perguntou para o precioso também
+né com quanto com preocupado você tá né
+com essas ameaças de crescimento da sua
+organização né que que que que são suas
+maiores preocupações e e aí aqui é a
+disponibilidade de diz que os bascos
+então aí tem um um lado aí diz que os né
+outro dado para mim relevante alarmante
+a gente na nossa pesquisa verificou que
+há 4 anos atrás não faz muito tempo a
+gente namorava um determinado a
+treinamento 3,6 dias hoje o tempo é
+vezes 10 sem quatro anos eu preciso de
+10 vezes mais tempo para reclassificar
+um funcionário então dado e aí o próximo
+slide é o que conta um pouquinho por quê
+porque a gente tá deixando tudo mais
+alto
+a mais inteligente a gente tava dançando
+com a parte da inteligência artificial e
+por isso que tudo casa né o senhor tem
+medo eu tô eu tô automatizando eu tô
+demorando mais tempo para preparar os
+meus funcionários o tendo -
+identificando - talentos em determinadas
+áreas principalmente dados ciências em
+inteligência artificial e como que eu
+vou resolver esse pro futuro como o
+senhor está pensando lá dez anos 20 na
+frente ele já tá vendo que isso é um
+problema
+bom então essa é um dado bem relevante
+né com certeza e a gente vai crescer
+assim américa latina principalmente ela
+tá se as empresas estão se transformando
+na velocidade que a gente queria mais
+estão se transformando e também tem se
+dado né que 120 milhões de trabalhadores
+do mundo vão ter que passar por um
+processo de treinamento e requalificação
+o meu dia a dia hoje a minha experiência
+é passa um dia que eu tenho pelo menos
+duas pessoas totalmente diferentes que
+eu não conheço de organizações que eu
+não conheço me pedindo para conversar
+sobre o quê que a gente atende educação
+para a indústria então eu tava antes
+agora mais assim a gente a focada em eu
+coloco universidade para gente preparar
+o futuro o que tá acontecendo hoje aqui
+a demanda das indústrias ela ela não é
+pro futuro é para agora assim ó
+a fazer para os meus funcionários agora
+o que é várias empresas hoje elas
+abriram centro de competência na área de
+inteligência artificial ela já colocaram
+seu call center com inteligência
+artificial eu já não bastam só o teu o
+diálogo você tem que ter o entendimento
+da linguagem natural você tem que olhar
+dados você tem que conhecer o seu
+cliente que tem que tá chegando não tem
+a em tendência e aí eles são muito muito
+preocupados com isso
+e aí tem um outro lado né que oitenta
+por cento dos funcionários eles
+acreditam que eles não têm habilidade
+que eles precisam para desenvolver a
+carreira quando a gente pergunta isso
+que os funcionários então a gente vai
+ter que achar uma outra forma de
+aumentar de melhorar essa capacitação
+hoje o que a gente também tem visto
+discutido muito é que somente uma
+capacitação online ela é boa a gente tem
+uma diversidade né de cursos mas para
+gente crescer e ter uma mentoria para
+desenvolver um né por você precisa
+também conhecer pessoas então esse meu
+colega aqui foi estudar fora e ele fala
+que é muito importante os mitos então
+como que os países estão fazendo né os
+que estão mais avançados eles tem muita
+oferta online e eles deixam uma etapa
+para o momento
+e eles fazem muito metap então tem muita
+metade da inteligência artificial de
+ciência de dados depilar então aumentar
+deep lane ali o outro menino esse fícus
+porque se a gente for pegar por exemplo
+canadá o canadá ele tem lá blog tem para
+finanças ele as áreas são muito
+especializadas na indústria e eles são
+bem profundos eu isso também sem me tapo
+e é nesse momento que você troca
+informação com as pessoas que você
+aumenta né suas habilidades as pessoas
+te conhecem né com certeza então é a
+gente implementou é o ensino híbrido
+para mim hoje tem sido o acho que o
+melhor
+oi e aí a gente vai ter um gap né a
+gente entra lá para o futuro missão gap
+gente tem só um em 10 jovens saindo com
+algum nível de aprendizado de matemática
+adequada né noventa porcento sai sem é o
+precisar de matemática então você for
+olhar para todas as áreas de tecnologia
+em ciência de dados nem pensar porque é
+uma coisa então a gente já começa a ver
+é uma pirâmide né a pontinha da pirâmide
+que tem acesso quem tem quem gosta vai
+os outros ficam apartados isso tem
+impactado muito negativamente o país
+mesmo né a gente tem né os piores em
+cima pisa a gente tem pouca gente
+entrando para as áreas de tecnologia a
+gente tem uma diminuição tem muita gente
+hoje a invasão que essa aqui a gente tem
+é mais ou menos é mais de vinte por
+cento então alguns estudos
+e aí você tem uma uma muita gente que tá
+deixando o presencial e tá indo para o a
+distância só que o ensino a distância
+também tá tendo uma invasão de mais de
+35 por cento então hoje a gente vive um
+uma crise na educação brasileira né que
+vais impactado lá na frente então acho
+que eu numa resumida nos números eu
+mostrei alguém indústria pensa que o
+senhor pensa é o que que a gente tá
+olhando ali para carreira mesmo de
+pessoas que querem entrar para essas
+áreas a gente do outro lado não tá
+formando então a gente tem que fazer o
+estímulo nos dois lados né continuar
+formando mais gente e isso tem que tem a
+ver com as habilidades que eram a do
+futuro mas que são os de hoje porque já
+chega 12020 chegou vou deixar todos
+2015/2020 2015
+e os meninos chegou e é isso que a gente
+no fundo tenho dúvidas que a gente está
+conseguindo endereçar tudo isso é hoje
+as universidades têm que o curso mais
+nessa área né e hoje a gente tem levado
+o caso os nossos nossos clientes para
+que as empresas e as universidades
+comecem a trabalhar com os alunos para
+que eles não simplesmente um sentem
+assistam à aula mas que eles comecem a
+usar aquele conhecimento para resolver
+algum problema de chegar um pouco mais
+preparado nas empresas porque eu tenho
+que ver também tem que descobrir a forma
+de capacitar os professores para que
+eles desenvolvem essas habilidades né
+mas valor exato a gente hoje tem feito
+isso né essa semana passada eu tava
+exatamente no sul fazendo isso levando
+essa capacitação
+eu estava levando especificamente
+inteligência artificial fazendo com que
+os professores de várias áreas colocasse
+a mão na massa precisa nem que não é
+difícil fazer a gente falar um chatbot
+que não é difícil como que eu queria uma
+intenção como que eu uso as ferramentas
+é o nosso dia a dia vi que alguém falou
+do assunto estúdio mas um dia a dia eu
+pego um ótimo tudo o que que eu tô vendo
+ali é de dados como que eu vou tomar
+decisão é o meu time jovenzinho já tem
+que usar e falar bom tá aqui mal sabia o
+que que era eu tô estudando outra coisa
+na universidade você vai aprender olhar
+é e então acho que levar esse
+professores nem todos têm acesso a gente
+primeiro precisa usar e fazer com que as
+pessoas usem a gente levar para ele tem
+umas uma iniciativa fantástica também
+não sei se você já falado europando eu
+não não então eles tentam levar as
+habilidades futuro
+se você já e aí eles fazem as crianças
+vão estar aqui para o carro carros
+solares depois contextualizam tudo ah
+sei lá se acabar a água no planeta e
+você tem que fazer isso e o carro vai
+fazer aí tipo ele pega toda a ideia da
+tecnologia lebox gerente tudo mais
+ensina isso para criança de uma forma
+muito legal assim depois eu até te
+apresenta o projeto um de um dos
+precursores é voluntário lá do meu canal
+do youtube estatidados aqui passar o
+nordeste super bacana porque isso eu
+acho que é seu caminho que quando a
+gente é essa a gente não une o lado
+técnico com lado da solução do problema
+é esse é um problema exista um dos
+maiores eu acho que esses vários
+gargalos que eu vejo no dia a dia às
+vezes fala assim aí eu quero construir
+um simples portal que vai acessar um
+banco de dados porque eu quero resolver
+um problema ali de controlar um fluxo de
+um processo
+e aí você começa mas que banco de dados
+é você conheceu a nossa inicial é é
+nativo não que tipo na escolha da
+prefeitura tá mesmo hoje o que é mais
+crítico é o arquiteto como porque depois
+você escolheu uma solução você escolheu
+aquele caminho no meio do caminho você
+falou não não era bem isso que eu queria
+você não consegue mais voltar para trás
+e grande parte dos problemas é que a
+gente vai ter amor próprio é problema
+assim né em consultorias que dão
+problemas a gente não olhou direitinho
+qual era o problema a gente não parou e
+às vezes planejou direitinho a gente põe
+na correria vamos resolver mais o
+problema e se tem muito retrabalho então
+hoje tiê esse essa junção entre o time
+técnico time digestão para resolver o
+problema é esse para mim é o mais
+crítico porque pode gerar muito
+retrabalho de de você é
+bom e até mesmo se ponto de vista é uma
+pessoa digestão vai ver de um jeito o
+técnico vai ver de outro e assim a
+vontade é realmente isso aí fazendo isso
+aí desenvolvendo saindo fazer o banco de
+dados e aí às vezes esquece usar os
+piercings então hoje projeto de março
+sucesso eles são aqueles onde você tem o
+soft skills bem trabalhado né o as
+questões socioemocionais onde o ios ele
+fala com de vela por toda hora ele
+sempre fazem juntos eles ouvem o cliente
+final então é o espírito de startup
+dentro das próprias empresas grandes
+então se a gente não trabalha todos
+esses quilos a gente tem aqueles
+conflitos entre o time que tá lá as
+envolvendo o mexendo no branco e o time
+que tá do outro lado né então hoje eu
+vejo como um fator bem crítico conheço
+uma outra
+o pioneiro do voa é assim eles
+implementam nas escolas né aí toda
+semana né meus professores eles avaliam
+os alunos ainda indeterminados que o né
+ela atenção ele a foi agressivo não foi
+vai criatividade do aluno mas aí depois
+ele no caso eu quero que os professores
+recebem nas fotos dos alunos e aí ele
+ele já consegue marcar as notas tudo
+mais né e aí você consegue ter uma
+acompanhamento ali em tempo real né das
+habilidades algumas depois aí você vai
+poder no criar o plano em cima disso né
+também é uma iniciativa muito muito
+interessante é muito legal a gente fez
+com essa um pouco escola de negócios que
+não sei se já ouviram falar o leite o
+leite a gente que a gente fez com a ibm
+tem o personnalité em sites que é um
+micro serviço do watson eles integraram
+o personagem de insights ao sistema de
+licitações criaram
+e eis que álcool que é uma assistente
+virtual professor virtual e o pou ele tá
+ligado no personality então ele faz uma
+análise da personalidade do aluno que
+quando ele entra ele tem alguns dados é
+que o aluno permite-lhe utilizar e ele
+faz o mapeamento usando o big five qual
+é a personalidade então a experiência
+que um aluno extrovertido vai ter
+diferente do introvertido um vai ser
+indicado o assistir um vídeo outro ler
+uma algo e o outro é para o fórum
+discutir então eles trabalham essa
+personalização a partir dessa
+experiência do do aluno e conheço você e
+algo que está sendo acho que daqui para
+frente eu vejo algumas experiências não
+todas é muito novo é você fazer uma
+pergunta por isso quilos então eu tenho
+meu mapa de esquilos e eu a eu quero
+aqui eu já sei ah mas eu tá faltando um
+o que eu preciso porque eu quero chegar
+aqui a ser uma especialista numa
+indústria de saúde então o que que eu
+preciso para ser uma especialista de
+dados na indústria de saúde é tá quê que
+eu tenho que percorrer e aí eu monto a
+minha grade com os meus micro
+aprendizados que eu chegar lá então essa
+é uma grande mudança que a gente tem que
+fazer cultural na educação porque eu
+preciso estudar tudo para ser a ser
+especialista mas eu tenho que ter uma
+base mínima de algumas coisas para eu
+chegar né o sentido ajudado se eu não
+quiser fazer um cálculo mim e eu não
+consigo fazer então essa sensibilidade
+de quais são os campos de conhecimento
+que eu tenho que ter tão importantes mas
+eu também não preciso aprender outras
+coisas que não vão interferir planta eu
+vou aprender o monocotiledônea
+dicotiledônea nem lembro mais época de
+colégio
+a aprender uma coisa que eu quero fazer
+hoje então eu acho que isso é
+fundamental não sei que o o joca falou
+assim essa questão de vídeo em cima para
+baixo acredito que é fundamental o fato
+ele como a gente falou aqui né aí a
+tânia falou a falta de pessoas técnicas
+mas faz mais falta ainda tomadores de
+decisões que saibam fazer as perguntas
+corretas e que saiba aproveitar
+plenamente a vantagem a dívida dos
+projetos de sensibilidade nossa eu
+concordo plenamente e uma coisa que
+vocês quiserem falar é verdade é o
+porquê né os cientistas de dados ele é o
+cara do porque né o porquê porque você
+porque então uai ele respeita estavam
+muito isso né é o quem faz a pergunta e
+isso é muito interessante porque eu já
+testei vários assim os líderes que me
+inspiraram eles faziam boas perguntas
+exatamente eu concordo plenamente porque
+perguntas algumas perguntas
+nós estamos com exato eu acho que essa
+curiosidade né de você tá sendo curioso
+e fazendo perguntas importantes é essa é
+a o caminho mesmo né e essa questão de
+vídeo de cima para baixo se a gente não
+dá o exemplo né se você não ver o seu
+líder fazendo é assim na organização do
+jeito que as organizações hoje são a
+maior parte delas grandes para se viver
+em 100 anos do céu tem que ser arcas
+muito difícil apesar que assim eu tomo a
+minha área ela tem menos ir aqui é
+porque a gente tá com educação a gente
+tenta buscar mais uma hierarquia de
+processos administrativos do que ideias
+mas em geral nas áreas de serviço eu
+vejo elas têm muitas camadas tão as
+pessoas têm um chefe do chefe do chefe
+bom então existe mesmo essa coisa de
+você olhar para o seu líder você admirar
+o seu líderes se ele te falar e te
+esperar você faz não esqueça próprio ser
+humano então se não vier de cima para
+baixo as coisas morrem né pode vir uma
+grande ideia de baixo para cima mas se a
+pessoa de cima também não compra
+assembleia o tempo agora ela deve tô
+vendo aqui pautam e tomadores de decisão
+eu acho que também vejo uma necessidade
+da e por isso que a gente acabou
+investindo também junto com a shampoo no
+curso para tomadores de decisão para si
+ou se ou se levam bebês porque a gente
+também olhou para essa camada e viu que
+essa camada ela não tem a mesma a mesma
+conhecimento técnico muitas vezes do
+pessoal mais jovem que tá chegando a
+tecnologia mudou enquanto eles estão
+crescendo na carreira dele eles já
+chegaram a uma posição de alta precisão
+os meus também estão perdidos assim como
+que eu vou colocar a inteligência
+artificial não vou será que é só moda
+então a gente tá realmente criou um
+programa para eles para se sentirem à
+vontade para eles colocarem o que eles
+as inquietudes deles falarem eu não sei
+posso aprender e colocar a mão na massa
+não só será que você tem inteligência
+artificial não vamos criar aqui vamos
+fazer vou subir uma imagem vamos
+comparar com a outra imagem então você
+colocar ele para a situação real né
+então e eu eu penso muito assim se a
+gente quer a gente tem que levar os
+projetos não para o jardim nação é pra
+elevar ter como prioridade na educação
+mas as empresas têm um papel fundamental
+elas com elas mesmo ela com os clientes
+dela e é legal que eu tenho visto muito
+isso hoje quem me procura mais então
+pessoas que atendem ao
+quer dizer quando eles vêm que o cliente
+está com alguma dificuldade na área de
+educação ele vem para mim para a gente
+tem como ajudar esse cliente na educação
+dele então o movimento novo para mim eu
+não via mas principalmente desse ano
+passado esse ano aumentou muito a
+quantidade de gente que tá preocupada em
+levar capacidade para o seu cliente não
+só oferecer um serviço não é uma coisa
+assim eu nem vamos fechar um contrato eu
+sou sua fornecedor não eu quero ajudar o
+meu cliente aí para o próximo passo eu
+acho que isso é muito legal legal e o
+indivíduo né que eu acho que o indivíduo
+é o
+e o aqui para você então esse é o
+problema que a gente leva para eles
+então vão ver que tem a inocência de
+dados oi tá aqui a em vermelho é porque
+é um que são o seu problema de 80 horas
+mais ou menos 75 80 horas aqui é bem tá
+aqui então aí então todas as ferramentas
+o o pen é um programa que ele foi feita
+para ser agnóstico ou em elevar mesmo o
+alisson estava falando aquilo que ó
+pessoal pegando um gancho sobre a
+captação da ibm coceira tem uma parceria
+que oferece várias especializações na
+hidratação esse aí é isso aí que você tá
+falando né esse que ele tá colocando
+acho que ocorre netflix que ele tem mais
+especializado e certificado na área de
+ciência de dados esse nosso aqui é
+complementar aqui esse aqui eles são
+menores que ele colocou
+e isso é muito legal acho super bacana a
+gente também no nosso portão acadêmico a
+gente aponta para esses aqui que ele ele
+colocou esse aqui a gente desenvolveu
+junto com os nossos pesquisadores das
+aniversariante são os curadores que são
+aqui aquilo que a gente fala o que você
+falou dos professores aqui a gente leva
+um conteúdo porque hoje a gente sabe que
+cinquenta por cento do tempo de um
+professor é para corrigir prova parte
+administrativa e prepara aula então ele
+tem que ter muita parte de preparo de
+aula então aqui o que que a gente fez a
+gente pegou casos da indústria indústria
+entretenimento mídia finanças seguros a
+gente fez um conteúdo voltado para
+aplicação da ciência de dados e a gente
+entrar cortou isso para o professor para
+que o professor seja requalificado
+capacitor sentir e ele leve para os
+o computador ou assistir legal então
+esse é um que a gente tem várias vários
+parceiros que já já estão começando um
+programa bem novo eu nunca vi algo tão
+direcionado assim né é tipo um curso
+específico né parece na tecnologia para
+professora nunca vi é e esse o professor
+ele aplica para os alunos também mas
+antes ele replicar a gente repassa
+porque aquele vai encontrar são três
+pilares ele vai encontrar várias aulas
+prontas ele vai encontrar o laboratório
+pronto e os casos das indústrias os
+casos de uso dessa tecnologia receita de
+dados ela é um pouquinho mais enquanto
+os outros eles são um pouco mais a
+superficiais e sem ser ajudados ela é
+menos efetiva para quem não quer seguir
+a carreira então ele é mais voltado para
+quem está começando para quem quer
+seguir a carreira do ciência de dados é
+uma boa introduz
+oi e depois pode quilos dos bem
+avançados né legal e o eu mandei nesse
+só voltar aqui perto só falar este aqui
+que eu não tomo
+e este link aqui ó que esse aqui que eu
+levei 1.6 slide tá vendo acho que vale a
+pena as pessoas irem lá porque além de
+desistência de dados têm inteligência
+artificial é o tibloc tem é tem a parte
+dos clãs de votos eu sou vídeos bem
+curtinhos que a gente fez para que as
+pessoas que não sabem que querem começar
+para saber o que é um para que a gente
+popularize essas tecnologias né legal eu
+vou aí você me passa depois da
+apresentação ando e o pessoal ver o link
+tranquilo beleza então a gente pode vir
+aqui para perguntas clara claro então
+vamos eu queria fazer aqui o até a barba
+tinha falado né até perguntado o caminho
+para lá iniciar eu achei bem
+interessante eu pergunta dela acho que
+de repente você podia começar
+respondendo da bárbara
+eu posso ver aqui bárbara honório lembra
+ela ela perguntou para o caminho que
+significava para que ela começasse não
+precisa sim vocês podem habilitar o
+microfone e se quiserem tá oi isso
+exatamente essa queria saber perguntar
+se realmente esse caminho que eu tô
+passando está adequado ou quais seriam
+aí as coisas medidas pois que que você
+incentivo aí a quem tá iniciando na área
+com barba eu acho que você tá correta e
+até a sensação que você falou assim ah
+eu parece que tem muita coisa é assim
+mesmo a gente sempre vai ter muita coisa
+justamente porque ela sensação segue um
+pouco aquele gráfico que eu mostrei tem
+muito mais informação chegando tem muito
+mais cardápio né tem muito mais opções
+do que a gente pode escolher mas o mais
+importante é eu acho que é
+e me seguindo sentindo confortável
+seguindo a buscando ou instituições que
+que também tenham alguma credibilidade é
+participante de comunidades com essa
+acho que as comunidades são super
+importantes porque elas vão dando dicas
+conversando com outros profissionais que
+já são cientistas de dados acho que
+essas mentoria os elas são super
+importantes eu vejo muito no meu time e
+vejo na empresa é o quando você fala com
+seu pia e você tira dúvida com ele que
+tá no dia a dia é muito mais fácil então
+sim até perguntou fator de estimular
+mesmo né porque quando a gente está
+nesse mar de informações a gente se
+perde às vezes é que eu vou até perdendo
+uma sim no sentido pessoal mesmo falando
+a gente acaba tá ficando meio de
+motivada por que você vê um mundo de
+informação que você não sabe nem por
+onde iniciar e nos acabou se perdendo né
+no meio disso tudo então vamos conversar
+e trocar informações e 10
+o que a gente vê né pessoas que já estão
+em outros patamares isso também é
+interessante que te dar um incentivo
+você seguir adiante né e também é sobre
+essa aí hein na área né sim eu acho que
+também além de além disso você a
+comemorar os pequenos avanços né
+terminar o seu pequeno legal agora vou
+para o próximo no próximo se
+aprofundando acho que tem hoje em dia
+vários cursos básicos e que vão se
+aprofundando acho que isso é fernando o
+importante é a consistência né e ea
+constância aí o estudo né não não parar
+e é isso queria agradecer a vocês aí
+máximo levante as informações e foi
+muito muito bom muito obrigado por
+também tem esclarecida dúvida me deixa
+feliz e se o senhor puder também deixar
+uma dica aí é você pegar alguma coisa
+a pena que você gosta você gosta de
+finanças pega um projeto de finanças
+para fazer eu gosto de esporte pega um
+projeto de esporte porque quando a gente
+está fazendo algo que a gente gosta
+então fica fica mais fácil né de você
+aprender você aprende um com mais
+facilidade e fica mais prazeroso também
+então acho que dá tanto a ciência de
+dados ela interdisciplinar então você
+pode se dar esse luxo né de trabalhar
+com que você gosta clara eu já comprei
+aí um viés onde eu me identifico mais ou
+menos que é com análise de crédito
+porque eu já trabalhei também com
+análise de risco de crédito é igual e
+não no slide que ela mostrou está em
+alta né que realmente a coisa questão
+dos bancos digitais descrição do risco
+de crédito na análise então tá também
+alto e eu acho que a marca me interessa
+bastante vou acredito que você me parece
+que a sara muito legal acho que é legal
+muito a gente
+é uma live aqui no lá no canal está te
+dados não tem que falando com a mariana
+node né que ela especialista de crédito
+da sicredi ela falou da área de crédito
+se você quiser depois de assistir para
+entender ocupante é super interessante
+para você muito obrigada estou de box e
+o alisson falou que que ele tem uma
+dúvida pode mandar aí walisson por favor
+oi pessoal boa noite também venda olá
+sim legal legal você ele é o seguinte a
+minha dúvida é bom eu eu queria entender
+assim que você compartilhar sua visão
+sobre se existe alguma diferenciação em
+cima dedera science e ai na medida que a
+e aí eu vou te contar porque dessa do já
+venho de todo uma jornada endereço size
+com bastante interesse em deep lane é o
+mais eu penso esse ter momento que eu
+pensei nosso home especializar entender
+essa especial
+e eu vou olhar só para isso mas quando
+eu vou fazer algo nesse da seninha eu
+tenho componentes ali eu tenho parte lá
+eu tenho o finn coisas direito assar
+estão acontecendo ali né existe essa
+diferenciação a gente tá falando o tempo
+todo de algum conselho que tá no mesmo
+guarda-chuva porque é como a gente se
+referir a coisas distintas é a abelha
+sai as empresas especial mas eu percebi
+que na prática uma coisa acaba sempre
+apertando com a outra é isso mesmo é
+exatamente isso ela se juntam em algum
+momento é claro que elas tenham seus
+campos de conhecimento específicos mas é
+sem dúvida ela se junta porque ai ai ela
+vem para resolver um problema né que que
+é a quantidade de dados para a gente
+entender é que claro que você tem dentro
+da iai como ela é um guarda-chuva você
+tem várias vários componentes tem deep
+lane machine learning né as redes
+neurais nem tô
+eu nem tô legal e vai precisar da ser
+utilizados por que você vai fazer um
+treinamento supervisionado você vai
+treinar máquina e você não vai colocar
+todos os dados carregar todos os dados
+outras técnicas então mas tem gás se
+você já vai carregar os dados e vai
+fazendo um refinamento então é elas
+podem viver cada uma no seu mundo o
+técnicas mas ela sim em algum momento
+que entrei lá só e e assim é bem
+interessante para alguém que quer se
+desenvolver inteligência artificial que
+tenha bases decência de dados é muito
+essa história do meu amigo que que
+aconteceu é isso ele foi para se falar
+ciência de dados do 22 para poucos mas o
+que eu quero é é também inteligência
+artificial e começou a estudar isso nós
+lá então acho que tem os campos para os
+dois mas é assim você vai sempre
+esbarram no outro e você pode cair em
+projetos
+alô especial você pode estudar um
+pouquinho inteligência artificial que
+acabam se inserindo neste mundo também
+sou igual legal obrigado pelo parabéns
+pela pela agenda que foi bem legal
+alguém alguém mais pessoa que fazer
+alguma pergunta que pode fechar aqui bom
+então queria agradecer mais uma vez aí
+amanhã está certo pô muito legal
+inclusive slide sensacional em meu
+conhecimento passado aqui foi
+imprecificável né e eu queria também
+aprender a fazer esses lados aí se você
+puder me dar uma dica pode abraçar os
+slides aqui falei caramba meu super
+obrigada a gente vai a gente vai sempre
+melhorando o resultado do presidente do
+resultado lá vai mas só tem muita
+estagiário que tá ajudando aqui está a
+coisa mais moderninha mais legal ou se
+foi muito legal show de bola
+conhecimento passado aqui e depois eu
+e eu vou comentar vou mandar para você
+trazer iniciativas que eu comentei aí
+você dá uma olhada lá que eu acho que
+interessante né porque como você
+trabalhou na área de educação de repente
+a gente pensam que você fosse carregado
+demais aí obrigada para você todos que
+ficar até agora aí né a gente fez aqui o
+workshop aqui de skills né paciência de
+dados foi sensacional obrigado mesmo e
+sucesso aí tudo de bom e depois se puder
+mandar o contato para mim da menina lá
+que a cientista de dados a ideia tá bom
+de boa obrigado tá bom obrigado tchau
+valeu pessoal obrigado pela audiência
+valeu tchau tchau tchau

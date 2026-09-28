@@ -1,0 +1,1732 @@
+# Big Data Analytics - Aula 6 - Hadoop e suas Integrações
+
+- **URL:** https://www.youtube.com/watch?v=SpFU46tDfzc
+- **ID:** SpFU46tDfzc
+
+## Transcrição
+
+São Paulo hoje é dedicada a radup né
+então falar de todo esse Universo de
+processamento de engenharia de
+arquitetura soluções tudo que consiste
+em relação a dados e não falar de errado
+e seria uma certa um certo guerra aí
+para quando a gente fala de vida e deita
+né então é um adulto e talvez foi a as
+práticas e aí no freio work né as
+tecnologias que mais entregaram os
+conceitos Big deita ao menos que seja no
+nos primeiros anos aí de evolução do Big
+Data no mercado e seu conceito né então
+rápido razuk hoje é algo que está em
+diversas instituições diversas partes
+diversos parques tecnológicos temos
+grandes players grandes consumidores
+grandes empresas utilizando o assunto
+fortemente
+e para processamento para estratégias
+para diversos diversos fins tá então A
+ideia é que a gente faça um pouco por
+esse conteúdo e Entenda como ele é
+integrado como uma sua estrutura
+funciona como como o as grandes grandes
+marcas aplicam isso dentro dos seus
+ambientes dentro do nosso
+a nossa aula da nossa a um ponto de hoje
+eu trouxe uma frase que eu acho que
+bastante interessante do Dalai Lama né É
+só existem dois dias do ano e que você
+não pode fazer nada não se chama ontem
+eo outro se chama amanhã né então com
+essa visão é bem importante e sempre nos
+preocupamos onde estamos né O que que a
+gente precisa fazer futuro mais viver o
+presente né então o presente é algo tão
+importante e para existir um passado
+positivo e para prever prospectar o
+futuro É Ainda Melhor precisamos cada
+vez mais olhar o nosso presente e atuar
+e agir né então com essa ideia de saber
+que que temos o presente que é acordar
+todos os dias né Abrir nossos olhos aí
+levantar o tanta Projeção de vida
+Constança possibilidade né É
+e esse estamos satisfeito demais estamos
+insatisfeitos é bom para um pouquinho
+para pensar para ver o que a gente tem
+né nossa qualidade de vida muitos tem
+uma qualidade de vida ao e
+o zíper mas as pessoas que hoje estão no
+hospital seja por por vídeo ou por
+vários motivos Então eu acho que essa
+ideia de cuidar do presente é tem que
+ser expandido não só para nós mesmo né
+Não só cuidar de nós mesmos mas também
+cuidado do bem social veio com o mundo
+né pode Temos uma missão de vida é o
+objetivo de vida eu creio que
+dificilmente esse objetivo essa essa
+visão de transformação é vai ser
+interessante que seja só para para para
+nós mesmos né então a visão muito
+particular é muito limitada Então vou
+molhar um pouquinho para fora ver o
+quanto a gente possa agregar ajudar os
+outros né é que seja às vezes com ação
+com uma palavra um gesto né então é bem
+interessante olhar para o presente se
+capacitar mais buscar mais se cuidar
+mais né E também olhar para realizar
+essa terça esse senso aí sociedade é que
+é bem importante ó ó
+e é hoje nossa agenda vai passar por
+alguns itens vocês vão ver que eu não
+trouxe nada com o assunto diferente com
+o ideia diferente não deixa para levar
+grupo porque além de ser um assunto
+pouco extenso eu trouxe aqui os
+principais tópicos as principais é
+situações aí que são interessantes a
+gente entender quando a gente tá falando
+de Ana Hickmann quando ele está falando
+de dados né claro que o adulto e ele tem
+o viés bastante estrutural bastante é de
+solução mas eu vou trazer aqui as
+integrações eu vou trazer aqui
+tecnologias que que ajudam em diversas
+frentes então quando a gente está
+falando de analítico net tá falando de
+armazenamento desta forma de
+processamento como a dor que atende a
+todas essas essas necessidades Então
+nossa agenda vai ser a história do adufe
+né dificilmente dá para ter um contexto
+se a gente começar a falar um pouquinho
+aí do histórico de ver a tecnologia de
+um conceito
+Esse é o que é um processo de
+computadores né distribuições de pacotes
+pó e armazenamentos né integração de
+usuários e Centros e de uma demonstração
+de ambiente né então vou mostrar para
+vocês uma versão um pouco antiga de
+distribuição mas é é bastante factível
+de você entender componente diretamente
+componente de utilização vou tentar ser
+um pouco realizou aí nesse momento aí pa
+Então pessoal bora começar um pouco de
+história né pouco da história do rádio
+zumbi é o BRIC dessa história tão raso
+com essas primeiras mecânicas das
+primeiras idéias de criar esses tremores
+surgiu em 2002 é um estimulante né é
+idealizado durante um motor de busca na
+web o percurso então foi pensado uma os
+mecanismo que conseguisse né É para
+impulsionar o grande novo
+o largo porque unete pesquisa
+simultaneamente e paralelamente né então
+a gente tinha é a necessidade já
+naqueles tempos 2002 ainda quando a
+própria é a internet estava evoluindo
+existiam diversas limitações estruturais
+mas já existia toda uma necessidade de
+criar uma robustez maior para pulsos né
+para que a gente mais utiliza hoje né A
+internet seria é site de busca Então as
+criações percebemos que a arquitetura
+não ser escalada para milhões de página
+a gente tinha tanto conteúdo tanto
+imagem tanto processamento Santo
+acessibilidade tanto concorrência
+diversas necessidades é a nível de
+Engenharia e nível de arquitetura a
+região de sócio como todo daí
+arquitetura é para enquadrar aí dentro
+do curso em 2003 A Google é estruturou o
+número de segunda a gente faz um System
+né então foi um formato de armazenamento
+de informações por meio de diretórios
+a notificação e suportava é uma redondão
+essa Bandeirantes apareceu já tinha
+alguns mecanismos para gerenciamento de
+informações precisa mesmo de diretórios
+né então foi publicação de um percebe
+que descrevi ia toda essa arquitetura e
+como a globo tem um costume é desde lá
+atrás de criar é de contribuir
+Teoricamente com a comunidade né então
+ele sempre a componentes né Vamos lá
+fazer isso todos os oponentes hoje né E
+disponibilizam isso né e a em 2004 a
+gente teve uma mdfs né e uma pergunta né
+que foi comer começou a ser a ser
+estruturada a sua ser pensado como era
+possível integrar o sistema de
+diretórios é um a impossibilidade de
+gerenciamento do diretor dentro de um
+motor de processamento então começou a
+ser integrada ser validado como isso daí
+poderia ser integrado junto como é que
+Produza é após isso 2005 teve
+é uma integração nesse instante aí desse
+desse conceito Inicial é como é
+produzida a em 2006 na surrado que não é
+comum mais ou menos
+um dos atuais
+[Música]
+E aí Java é já fazendo todo um consumo
+de estrutura de diretório e 2008 e
+chegou uma evolução tornou-se o processo
+a parte top leva então fica top leva a
+parte qualificou isso de forma no Diário
+Então as suas relizes as suas validações
+de diversões já tinha todo o cuidado é
+dedicado né já já tinha o trabalho de
+todos os roteiros é produtivo digamos
+assim de disponibilização beleza e
+quebrou o recorde da interessa que vão
+recursos em que tem mais rápido ordenar
+terabytes de dados então naquele momento
+2008s muito o adulto se mostrou
+altamente performático altamente é
+impulsor de velocidade é quando
+estávamos pensando e direita né entre
+2009/2012 mais ou menos é o rabo que
+começou a a trazer a trazer como fazer
+isso realmente no mundo real né e ainda
+2009
+a FS wi-f evoluiu para um hdfs né E aí a
+gente tem agora o projeto independente
+separado que eu acho que uma das
+melhores Sacadas da estratégia de
+criação de produto radup de uma pessoa
+esse assim como todo né que foi
+modularizar o que melhor funcionava para
+que fosse reutilizado em Outras
+aplicações e outros formatos e outras
+estratégias né então hdfs ganhou a sua
+emancipação aí né do pacote é e sempre
+foi a partir disso ele começou a vida
+evolui paralelamente com onde é proibido
+se né então dois componentes foram
+evoluindo de forma paralela isso é
+bastante vantajoso porque temos é os
+habilidades diferentes muito mais os
+habilidade muito mais um teste muito
+mais é feedback e aí cada um tem o seu
+período de maturação de incubação né
+então por exemplo o hfs é e mostrar
+armazenamento então provavelmente foi
+muito muito
+é do que especificamente viper12 né mas
+a legal isso tudo aqui ao redor do mundo
+temos diversos objetos diversos estudos
+diversas equipes né E sempre buscam por
+algum recurso por alguns tecnologia
+diferenciada que possa resolver um
+problema às vezes por ser uma pessoa se
+né investimento baixo é bem mais
+simplificado então é esse essa quebra de
+modularização para mim foi bastante
+importante dentro do universo do UFC em
+2012 a gente teve a primeira versão 1.0
+do adulto foi disponibilizado ali
+realmente começou a ser vendido né a ser
+comercializado né não vendido que a
+gente tem a pessoa que não quer dizer
+que atuem né quer dizer que é uma
+distribuição que precisa ter alguns
+critérios de de cuidados e também de
+maturação de pacote então quando uma
+distribuição vai fazer a o vendedor não
+vai fazer a distribuição dessa desse
+pacote a pessoa ele precisa ter alguns
+critérios
+o que é ter uma manutenção que é ter uma
+uma acompanhamento e conjunto com a
+comunidade entregar um certo valor
+devolver isso é de forma é de forma
+testada né então é a evolução das
+versões do pacote de pessoas trabalha
+muito nesse formato quando eu
+distribuição Vai que vai vai evoluir ela
+né E aí normalmente é aquela
+distribuição pode trazer algum
+componente particular alguma coisa mas
+não pode diz caracterizar ela pacote
+simples né então é uma das maiores
+corporações e foi aí que começou se a a
+era da de grandes distribuições da de
+grandes empresas é se movimentar para
+disponibilizar o povoado que no mercado
+é qual foi a pegada nesse momento foi
+muito a questão de aparecer no mercado
+de entregar o produto de entregar
+Distribuição e não cobrar por isso não
+cobrar por quase nada né é facilmente
+até muitas vezes damos suporte prévio
+e aqui para poder realmente é ganhar o
+cliente por realmente difundir a ideia
+adufe né E aí depois dessa movimentação
+estivesse distribuições essa
+disponibilidade no mercado a
+visibilidade da resolução de problemas
+começou-se a ver que o adulto e
+realmente estava processando mais rápido
+que o valor que realmente entregava
+algumas coisas que os sistemas legados
+que modelos é tradicionais não
+entregavam né então já desde a desse
+momento começou a ver a ter uma expansão
+muito grande no processamento e no
+armazenamento informacional né em 2015 a
+gente teve a sexta versão que a versão
+2.7 de um adulto e há uma versão
+bastante é como eu posso ir bastante
+consolidada né ela versão bastante
+confiável é muitos dos lugares onde eu
+passei eu vi essa versão ou versão muito
+muito interessante que ela resolver uns
+problemas muitos problemas de
+processamento algumas falhas
+e traz integração e foi uma vez é um
+homem só madura né do meu PC superb work
+e hoje já temos uma versão 3.1 é que já
+tem já quase evoluído para uma prova
+então é normalmente eu percebi que após
+a versão 2.3
+e o pacote de ter gozado que foi de Dois
+a três anos média tá eu ajustei aí uma
+infecção aí que talvez fez pacote 3.11
+já tem um ano e meio no mercado a gente
+tem uma atualização Então qual o que o
+que que é uma versão é normalmente
+embarca tá você vai ter componencia vai
+ter nova espíritos você vai ter até
+outros projetos o pessoas agregado
+dentro do pacote é burra do se ele tem
+toda uma suíte né detalhada na Sua
+documentação então é para que eu faça
+para que ele entregue errado pe eu
+preciso ter cor e eu preciso ter algumas
+limitações de Integração eu não posso
+vender um distribuição não posso fazer
+uma distribuição é desrespeitado essa
+estrutura né Essa essa esse modelo né
+então aqui a gente fala um pouquinho da
+história do lado só para dar uma um
+grife né de como ele evoluiu porque ele
+nasceu e o legal do adulto aqui ele é o
+nome que não tem
+e nada né então ele não ele não ele
+parece que é cinco alguma coisa mas na
+verdade o o Doug cantinho né o o cara
+que iniciou o projeto é deu um elefante
+amarelo para filha dele e a filha dele
+já vai ser de elefante de errado e aí
+ele é batizou o meu amigo projeto como
+radulf vai até hoje né então é formação
+não tão necessária né mas é bom saber se
+os detalhes até que fica um pouco mais
+engraçado e quando a gente vê o ícone a
+gente já assimila né é vocês vão ver
+normalmente que as nomenclaturas e
+serviços do adufe tem um nomes estranhos
+né que aí tudo isso é porque realmente
+desde essa concepção de nomenclatura o
+as dos outros projetos quando estavam
+embarcando a ideia desse lado também
+começar a utilizar nomes engraçados Epic
+porque é uma programação 6 porta meia
+ruim né então a gente tem que é um por
+relacionamento tá por aí
+é muito mais outros aí com o nome um
+pouco estranho né
+e o que é um cluster de computadores né
+então eu vou mostrar para vocês um vídeo
+que eu eu fiz no meu canal é que dá uma
+solução breve né a gente também não
+entender muito nesse ponto mas é um
+ponto muito importante para comprar
+entender o que o vaso que faz para
+entender como ele trabalha quando ele
+processo é muito importante entender o
+conceito de clusterização né É É até uma
+certa para todos que a gente tem hoje
+postei quando a gente fala de pessoas
+que eu dentro do mundo da modelagem a
+gente está falando de agosto meses é
+informacionais a gente consegue definir
+é grupos ou tipos é de massas né de
+amostras é então é plantas de
+computadores é quando a gente tem a
+integração de algumas máquinas dentro de
+uma rede né então no mais simples né mas
+futuramente falando são máquinas
+integrados por uma rede de computadores
+basicamente é isso vou mostrar para
+gente ir entra no mundo das
+distribuições né Então as distribuições
+das
+é como eu falei ela ela começou com essa
+movimentação do mercado de grandes
+players é grandes empresas é viram uma
+oportunidade de negócio viram uma
+oportunidade de presença no universo
+tecnologia né então começaram a validar
+e entender como poderiam disponibilizar
+esses pacotes né Então as distribuições
+né as vezes que começaram essa
+estratégia primeira delas foi a piloto a
+piloto é uma empresa canadense né Ela é
+bastante forte hoje com alguns produtos
+é a piloto e no começo da Estratégia é
+criou toda uma estruturação de consumo
+do radup integrado com alguns recursos
+de uma cuidado chamado greenplan né E aí
+ativa que eu tinha esse serviço esse
+banco de dados já era é informado
+escalável e e houve uma negociação
+há entre a piloto EA Dell Mc via venue
+Where EA vml integradora dessa dessa
+suíte né então o que que aconteceu
+depois você realmente a Dell é se eu não
+me engano teve uma compra de uma parte
+da firma e aí a anel comprou na verdade
+aí Mc né E aí Fabinho 67 anos que a Dell
+com o Mc E aí agora com esse com essa
+fusão é até hoje distribui é uma das
+poucas as roupas distribuições adulto
+que provei quase todos os serviços de
+infraestrutura e plataforma né então
+eles têm serviço de armazenamento
+serviço de histórias serviço de sais
+recover ele tem serviços de integração
+com apis então ele tem muita coisa e
+hoje a suíte é vendida com o Bruno
+chamará cima né e eu vi esse greenplan
+que é um banco de dados MP similar
+altera data hoje é um ar saudável né é
+isso começou a ser também a distribuição
+do
+E no caso a primeira né dela foi
+amorzinho queimar então Cuiabá o Mr né É
+É um pacote né o empacotamento do adufe
+com a sua o seu corte funcionamento e
+com alguns recursos É voltado à muito
+paralelismo então ele já trazia é
+embarcado todo o Switch não é proibido
+se em conjunto também pois parte aqui
+basicamente é uma é uma distribuição né
+o outro projeto que utiliza o objeto
+reduce como com o motor só que faz
+quando um utilização de paralela de
+processamento e utilização de recursos
+de memória tão Spark hoje talvez é a
+moeda mais forte do mercado a internet
+fala de processamento e aonde está
+presente na maioria das das plataformas
+das soluções porque ele é um pouco mais
+versátil e ele tá componente embarcado
+em grandes em grandes produtos a
+contribuir como essa
+bom né então quando a gente utiliza a o
+processamento do Ralo ficando a gente
+criou Opa das a
+e eu também não respeitando ocorre ado
+pe Green implementado isso de maneira
+estratégica então por exemplo yanmar
+vendia isso como processamento né para
+basicamente concurso também a Google ela
+vem dizer isso é no formato um pouco
+mais integrador Então eles tinham
+ferramenta de qualificação de dados
+ferramentas de visualização colocava o
+motor de um adulto e como armazenamento
+ou mesmo processamento para analisado é
+eu acho que dessas três esses três
+players eu vejo que os teve um pouco
+mais de cuidado e um pouco mais de é de
+preocupação entregar algo maior né algo
+mais mais abrangente foi a frágil sabe
+que sorte porque a aesb ou por uma um
+componente embarcado chamado HD sai esse
+componente tem embarcado outras Fitness
+outras funcionalidades né que
+possibilitam engenharia que possibilitam
+a estruturação
+E ai desculpa possibilita O que é fração
+Então esse universo jogadores site é
+bastante ativo hoje no mercado sempre
+que entramos em estratégias Big Day
+sempre que entramos em fluxos de dados e
+pai Pilares diversas velocidades é é
+muito é muito embarcado HD site e também
+ela é Juliano crosoft Eu vejo como
+sempre foi a empresa com melhor melhor
+recurso de desenvolvimento né então
+desde aí de até mesmo recursos de
+decoração da PM recursos de rede que
+quando a gente tá falando do universo
+desenvolvimento universo tipo de
+prototipação de aplicações de criação de
+produtos criação de ferramentas e
+tecnologias é a gente é bastante robusta
+nesse sentido né E ela sempre fez todas
+é todos os componentes que estão
+embarcadas no na plataforma Cloud sem
+empregado por quase tudo então hoje ele
+tem uma plataforma bastante versátil
+e abrangente eu acho bem bacana por
+último mulher eu trouxe a qual delas é
+lá há uns 5 anos atrás achou tá
+procurando três anos atrás houve a fusão
+da caldeira né e tal qual dera é
+composto autor tão a gente é duas
+grandes distribuições com correndo no
+mercado brasileiro a primeira delas era
+More Than Words né e a segunda era
+Caldeira as duas famílias Americanas não
+lembro direito né E aí é as duas tinham
+estratégia similares porém eu vi aqui a
+que a rota hoje era muito mais
+inteligente em relação à a programa é em
+relação a w né a Cláudia era trazia
+estrutura trazer arquitetura trazia todo
+um o conhecimento né é a nível de
+gerenciamento do projeto a nível de
+consultoria EA ortolux é cada vez mais
+em seu laboratório em sua vizinhança
+estratégias
+e já com tecnologias que poderiam ser
+embarcado tanto no radup como também se
+vendido separadamente então a gente teve
+uma grande evolução dos dois lados e aí
+após essa fusão é eu percebi que a
+Cláudia ela tomou a frente da da visão
+de estratégica né EA e tudo que era
+estruturado dentro da hotwords virou
+ocorre então assim o modos operantes do
+lado de criação de produtos do lado de
+criação de Tecnologia de maturação é de
+ferramenta ficou meio é seguindo o fluxo
+da Rua Artur e a Cláudia era hoje ele é
+vender na ele é uma ele é a marca mais
+forte daquele momento né ela acha que a
+marca mais conhecida se eu não me engano
+no Brasil ela eles dominavam mais
+sessenta por cento de tudo que você
+precisar daqui do Brasil né na última
+mochila chega ao fim então assim é bem
+presente mesmo porém é muitas pessoas
+muitas até mesmo clientes que tinham a
+fralda dela lá é frio uma senhor diz que
+o outro sentido né
+uma coisa essa fusão tudo se resolveu e
+eu vejo hoje a calda era por uma das
+distribuições mais maduras mais é ativas
+no mercado de dados Mundial né então
+eles têm uma estratégia bastante legal e
+eu acho que ajuda muito ter ajudado
+muito em diversos conceitos é um
+pouquinho de forma estruturada e como
+pode ser feito lá dentro da escada
+atribuição então olhando pro yanmar base
+também que a gente tem o S3 aí embaixo
+aí né que o colete de história de
+armazenamento e o Neymar é faz essa
+integração com o S3 é podendo substituir
+o hdfs pelo S3 então curso Fica muito
+mais reduzido e eu só vou utilizar
+ocorre mesmo de processamento o Spark ou
+não é produção para fazer a transição né
+então é é um recurso bastante utilizado
+e que ajudou muito a cada vez mais
+aumentar o consumo de um adulto no das
+estratégias a a Google ela usa
+É bem parecido né o data prova gente
+tinha é o poder chama Cloud data proc
+Ele também é um ele é um módulo
+embarcado de mil presos Spark Então a
+gente tem uma versatilidade ali de de
+aplicar algumas alguma blusa escrito eu
+sou algumas
+a pele dentro do componente em relação a
+custo eu vejo um certo o acerto a
+vantagem da dos produtos da Google para
+trás em relação a ética e também então
+quando a gente olha para curso quando a
+gente olha para uma solução limpa e
+tendo toda a integração e toda compra a
+compatibilidade para os outros serviços
+eu vejo algo com bastante interessante
+né vocês verem aí que a gente tem por
+exemplo é o Big table né que ele
+representa - estrutura de um este mês e
+que é um dos serviços embarcados dentro
+do pacote radup né Supermercado pe a
+gente tem bigquery que é um serviço
+muito muito bom aí da da Google né que é
+como se fosse um DW é escalável o
+planeta escalar muito bom e aí os outros
+serviços integrados que vocês percebem
+que a integração é bastante forte Então
+essa caixinha do adulto Faça também a si
+só processamento então diferente da
+Eevee a mesma coisa diferente da das
+estratégias da caverna das
+é nativo da Dell é quando a gente quando
+eles embarcaram a dupla não estou muito
+para processar mente que isso era que a
+mente é o é o maior ganho né Desse tempo
+a book dentro de um ambiente então a
+velocidade aumenta e multiprocessamento
+aumenta é a gente pode ver aí o Hadouken
+nessas nessas soluções como um
+processador de dados como triturador de
+dados que aí é lei toda toda a parte
+mais pesada ele faz esse processamento e
+vai pode levar os é pedir devolução da
+informação e cada uma desses caso estepe
+de processamento a gente chamar essa
+caixinha é do componente né então jeito
+HDMI sai você tem aqui o Spark né
+entrando com uma linha de infraestrutura
+como serviço gerenciado né a gente tem
+uma mensagem aquela até o evolução do
+componente mais novo né quando a gente
+começou lá atrás a gente tinha só vendia
+efeito pintura com um serviço então era
+necessário é embarcar é a uma
+visualização dentro do Trazendo um tal
+de era trazer um Hot Wheels
+a presença de boxe e protestar dentro da
+nuvem E aí a não tem fazia a gestão de
+escalabilidade alto alto esquerdo né É
+tudo para gente mas basicamente a gente
+tava comprando uma visualização não
+tinha um referenciamento interno na
+visualização depois disso a gente entrou
+na ideia de que já tem um ambiente mais
+gerenciado por faz né que seria a
+plataforma como serviço hoje data blitz
+e ele tá vendendo muito um conceito para
+apartar isso né então a gente tem cada
+vez mais a evolução e integração do
+autogerenciamento para todas as partes
+do processo internamente também da do
+pacote né e é que é um é até um negócio
+legal a gente vê uma linha de Big deitar
+analítica uma linha disse e
+armazenamento quente né É com a sua
+história então é o Wesley é deixe seu
+like Store né então é a que vocês venham
+a ser isso suas partes por quê
+e para que aplicado somente no
+processamento SQL em determinados
+lugares no caso do JV Exatamente isso é
+o espaço tem evoluído para diversas
+formas de aplicar né tanto a nível de
+linguagem tanto a nível de processamento
+tanto a nível de consumo de memória de
+ambientes virtualizados né de memória
+temporária E aí a gente utiliza no caso
+data vez muito para spark.sql que é uma
+forma de aplicar é de criar o SQL e
+rodar isso não é proibido se não tiver
+organizado então a velocidade aumenta
+bastante né E aqui vão com ela tem toda
+a sua escola falei Ela traz vocês ver um
+componente isso tudo aí é da parte
+quando eu te vejo são da firma ou então
+você tem aí ó é dentro de Pilares do
+consumo e do lado da cultura é os
+componentes que são vivo tão integrados
+com os conectores são adultos né então
+formato que eles criaram para vender
+é para vender errado no mercado e já
+embarcar também algumas das suas suítes
+algumas seu serviços né então eles
+vendem Normalmente eles eles costumam
+dizer que quando se tem toda Suíça
+integrada a performance é muito maior
+tal e realmente o ambiente muitos carro
+né a área de bem que a área de
+financeira gostou muito as soluções da
+cuidar dela aí com essa classifica a
+Oi e a coca zera é é aqui tem a proposta
+mais dinâmica do mercado por quê Porque
+é falado era cada vez mais tá bom
+tonalizante ou serviços né seus produtos
+então o que que eles estão fazendo eles
+estão é apartando o porta principal
+radup elevando O componente a componente
+quando a gente tá precisando de de um
+ambiente para mensajeria ambiente para
+barramento de evento a gente vai olhar
+para caça Então dentro do carro a gente
+precisa de alguns gerenciadores de
+streaming alguns gerenciadores de Judy
+outros cursos então acordo era começou a
+desmembrar isso tanto é que o pacote
+novo a partir do 3.11 já tem uma certa
+nodularização bastante sensível né é
+corte e armazenamento né então dentro do
+universo adup o que que é o que que é
+isso
+é um pôster rap fique funcionando
+primeiro é uso química né então zíper
+ele é um serviço para própria extração
+de diretórios e também direcionamento de
+Snapchat né então ele tem ele ele faz
+uma supervisão e máquinas o que que
+essas previsão é ele ele válida para mim
+quais as marcas são ativas Então a
+partir do momento que uma máquina fica
+fora uso que a ponta aquela marca sair
+reactivity né ou então está com algum
+problema de conectividade E aí o
+processamento fala de chamar aquela
+máquina para fazer alguma outra utilizar
+um recurso né Então uso keep normalmente
+é o primeiro serviço a ser instalado
+dentro de um senhor de adulto né porque
+ele ele é o cara que vale das máquinas e
+ele tem também algumas outros alguns a
+sua funcionalidade Como eu disse ele
+pode gerenciar diretórios né das outras
+Marcos na por exemplo se eu estou
+criando o processamento distribuído
+e é bem várias máquinas só que esse
+processamento é altamente é volumoso e e
+eu vou ter outros outros jovens rodando
+paralelo uso que ficar uso que pintar é
+Separa né é bloqueia né Faz um Block
+desse processo dessa camada de
+armazenamento é chamada de processamento
+e consumir memória faz um blog para que
+não haja concorrência não haja perdas é
+em relação a outros jovens então ele tem
+todo um fluxo de cuidado da transação
+dentro das máquinas também além dessa
+parte da supervisão o map reduce ele é o
+outro um corte processamento então é
+tudo e é desenvolvido já vai então a
+linguagem Java foi construída toda uma
+escalabilidade classes métodos né usando
+todas as boas práticas de alimentação
+objeto Então como dolarizado diversas
+Lides né diversas bibliotecas é
+específica
+a necessidade Então dentro do conceito
+minha produto a gente tem a primeira
+fase que é mapear informação que é
+identificar a chave que identifica toda
+a estrutura que a gente precisa que o
+remo se é quando a gente começa a
+agregar quando a gente começa a
+finalizar então o recurso deverá produce
+é muito forte até complementando uma
+dúvida que foi feita lá atrás é a gente
+tava falando lá vai ser a então que como
+que eu vou fazer agregação se o raio
+Grosso pó na verdade quando o rádio que
+foi foi pensado e foi implementado quem
+tinha que fazer agregação quem tinha que
+trabalhar quente que ia realmente
+aplicar as coisas era dentro do mercado
+sim mas por que que é se reproduz é você
+desenvolver o código JAVA e pegar o
+script a até e pegar um tabela a fazer
+todo o tratamento via é viu os recursos
+de programação então quando a gente faz
+isso quando aplicamos dessa maneira é
+muito bom processamento é muito mais
+performático por quê Porque a gente
+e no detalhe a necessidade daquele
+daquele daquela informação quando a
+gente diz para uma com ele mas que no
+hpl dentro do Ryder ele vai depois de
+ficar aqui no ele vai girar as metas que
+ele vai gerar as variáveis de ambiente e
+ele vai disparar uma conta é automática
+em cima de alguns cálculos que foi feito
+automático é pra ser executados pelo uma
+produz né então muitas vezes quando a
+gente executou Eric que que a gente
+estima que vai que vai ter por exemplo
+existe o cálculo dentro do vai produtos
+que ele estima Quantos metros e quantas
+vezes ele pode precisar para para para
+fazer tudo o tratamento daquela
+informação é como se fosse um plano de
+execução ele cria E aí se Plano de
+execução do vai produzir as vezes erra o
+cálculo e o que acontece muitas vezes às
+vezes é um copo não às vezes e limita o
+carro com o nosso composto da definição
+e quando ele chega numa determinada
+fatia de informação ele para E aí ele
+entre Flash esse Flash começa e termina
+o balanceamento E aí
+e ele ele Professor muito bem até chegar
+a 50 m por exemplo E aí quando eu não
+tenho mais médicos não sei fazer duas
+para processar ele faz isso com a
+memória que vai permitir né então o
+controle de memória acaba a partir do
+momento que que essa minha configuração
+se esgota e como fazer isso de forma
+utilizada para a quantidade de dados
+utilizando aí é muito relativo aí a
+gente pode aplicar configurações de
+ambiente a gente pode aplicar
+configurações processo a gente pode
+aplicar configurações dentro do
+processamento específico para àquela
+variável para aquele para aquele para
+aquela aquele TL que seja entendeu então
+assim é saber utilizar o rápido sabe
+utilizar rhayner faz toda a diferença em
+ambientes maduros The Big Day on
+a we are then we are ele é um cara que
+faz toda a gestão de memória e
+conteinerização da ambiente o que que é
+isso ele é a louca a partir do momento
+que a gente separado um Job é um Job e
+estruturado vários testes né Então bora
+acredito se vai lá e quebra aquela peça
+que em diversos médicos tivesse reduzido
+e fica um metro de cima de cada um até
+aqui né E aí o iarly ele é ele válido
+Olha você tem memória para fazer
+a memória caso de estar lá dentro da
+minha casa está todo o os componentes
+necessários Goiás e aí é diz para o Blog
+né então normalmente o Iago que faz o
+controle de filas né é dentro do adufe e
+também ele que gerencia a parte de
+memória uma da dpf o hdfs ele é o cara
+que faz todo o armazenamento né então
+tudo que transita de processamento do
+método se é é é internalizado dentro do
+hfs sabendo disso é todos os recursos de
+replicação todos os recursos de de
+tratamento de lixeira todos os recursos
+que a gente pode aplicar para falar
+burro para várias coisas a gente aplica
+no hdfs e reflete diretamente nos dados
+físico alisados do que o reproduzir é
+armazenou né ingeriu Então esse é um
+cuidado muito importante é um componente
+muito para um mundo muito bom né
+tolerante a falhas normalmente
+tá não tá não tá gravando naquele nó
+aquele nosso por algum motivo perdeu
+perdeu a coletividade caiu alguma coisa
+ele rapidamente ele consegue é ao invés
+de dar uma exceção ao invés de fazer
+alguma coisa ele consegue muitas vezes
+né para determinar os problemas né ele
+consegue muitas vezes corrigir e
+redirecionar esse essa essa essa injeção
+e outros lugares e outras e outros
+blocos de memória né então é por isso
+que a responsividade do Agreste é muito
+boa e ele também tem um recurso de
+aplicação que a bastante legal eu vou
+mostrar um pouquinho depois Como
+funciona lindamente o processo
+E olha que a gente tem outros serviços
+do universo de um adulto né então a
+gente tem não tem flor nós faz o casca o
+próprio escute né que faz integração com
+bases relacionais né transacionais ou
+não circula gente tem uma paciente beijo
+aí que é muito muito forte no mercado
+Druid que ele chegou muito muito
+integrado para creme de dado preciso
+continuou que eu consigo criar o lápis
+dentro do das cores Então eu tenho um eu
+tenho wélida analíticas e tempo o tempo
+de processamento tá bem legal também
+Android é difícil pra para vou
+deixar funcionando é redondinho mais Mas
+resolvi muitas muitos problemas juntos
+que eles podem ser utilizados dois né a
+parte de processamento então a gente
+sabe que o Spark hoje é talvez é a coisa
+mais forte do mercado atualmente né é o
+raio né para processamento também mas
+basicamente é a caixinha dele deveria
+ser armazenamento normais para isso
+análisis del super 7 que é um componente
+lei muito embutido dentro
+um visualizador de dashboard lá é o Zé
+Povinho que é igualzinho a estrutura de
+um jupyter de Júpiter quando a gente
+trabalha com junto e se a gente
+precisava criar modelos normalmente
+dentro do lado que a gente vai para usar
+o CEP é lambari e ela essa peça coluna
+de governante Então a gente tem ambar
+Apache atlas do regime né a parte da
+Pirelli se morrer né então são
+componentes para armazenar me ajudado só
+componente para fazer linhaça componente
+que armazena é estrutura de apeir faz
+autorização e o ambar e Teoricamente no
+mundo do qual dera no mundo do rap é
+hoje o gerenciador de plantas eles mais
+parrudo mais alto nível 1
+e como funciona pessoal é a arquitetura
+de armazenamento tá então esses dois
+pontos esse esse eu posso slides são bem
+importante para a gente entender o curso
+de honra duplo ó
+E aí
+é um adulto Ele tem ele tem um ponto
+muito forte que a nossa armazenamento né
+esse armazenamento é muitas vezes
+utilizam diversas estratégias de
+replicação diversas estratégias de
+duplicação diversas estratégias é de
+pulverização de informação né então aqui
+eu tô trazendo um pouquinho até pra
+gente demonstrar como como doença errado
+pode ser altamente disponível é uma
+estratégia de alta disponibilidade o que
+causa disponibilidade é eu ter um
+ambiente e por algum motivo aconteceu
+algum problema e eu não perca a
+velocidade de processamento a velocidade
+de consumo não tem alta qualidade
+possível é ter aquele dado basicamente
+ao menos implicado duas vezes nem ao
+menos disponível duas vezes né então é
+existe uma estratégia muito utilizada em
+grandes players grandes Até entrar em
+grandes meses
+o que chama satélite de armazenamento em
+hack o azul Pe ele suporta pinturas
+rádio que que seriam rápido caracteriza
+uma eu acho que te tura de discos é uma
+textura de dizer keyboards né que seria
+é discos na barriga né então é uma
+empresa Compra lá um dez hackers lá com
+a capacidade de 10 terabytes por exemplo
+né E aí só que ela precisa é garantir
+que haja também dessa República que haja
+é um
+e como da informação e da fiscalização
+da informação de problemas
+caracterizassem cover é tende a garantir
+que em caso aconteça usar se caso
+acontecer alguma coisa do lado ar eu
+tenho como manter o meu serviço
+funcionando consumir do lado B né então
+além da de um espelhamento informacional
+a gente nem toda uma parte é de
+tecnologia e estrutura para fazer
+funcionar né então Digamos que aqui a
+gente tem o lado época negam tipo de
+escrever assim pessoal o lado de cá
+e no lado oeste Nosso Deus é então
+sabemos que a estratégia da empresa né
+gera informações e precisa pulverizar
+isso de forma duplicada né ele precisa é
+armazenar dentro do ambiente do ambiente
+ativo né do objetivo e do ambiente está
+debaixo então Digamos que dentro do hdfs
+eu posso eu tenho todo o sistema de
+replicação eu tenho todo o sistema de
+gerenciamento diretório Ok o quê que eu
+fosse viva ampliar com hdfs dentro de um
+close errado então eu tenho aqui a minha
+fonte né minha fonte Nacional então eu
+recebo informações nesse cara e não é do
+que eu recebo o próprio hdfs me dá o
+recurso de replicação então eu por meio
+estratégico por meio de arquitetura
+a dissolução da solução e o do público é
+forma relação Nicolas Clash of Clans e
+clash né então eu consigo manter uma
+replicação é altamente disponível e
+também tem isso em locais diferentes
+leitores tem uma regionalidade de
+diferente caso aconteça o problema no
+rosto eu vou ter outro roxa ativo né
+então é uma forma de criar um desastre
+porque a uma estratégia já secou então
+sabendo disso beleza consegui entrar
+conseguir desenvolver então vocês vão
+ver que a figura mostra o processamento
+bem parecido né é quando um jovem é
+executado é existem dentro da estrutura
+do outro hf25 de máquina né É o dá para
+noite né que seria seria onde a gente
+vai ter a verdade exatamente ele é um
+serviço do hfs que é isso
+uma das máquinas né então normalmente
+elas são instaladas dentro do da Master
+né Deve tá esse laser dentro da das
+matas secundárias né E esse datas onde
+ele ele utiliza todo o armazenamento
+Então como que a gente não realmente
+precisa fazer acho que devia ter
+investido O slide tá é o melhor tem
+mostrado por cento primeiro cês vão
+entender depois quando a gente precisa é
+criar um ambiente criar uma topologia
+adup é importante que a gente faça essa
+validação o que que vai virar download e
+o que que vai virar é master node que
+seria para processamento para
+gerenciamento né nem longe né meu cacho
+bom então dentro do nele novo ele faz
+algo que situação dos meus deita longe
+né então o que que aguenta nude ele é um
+serviço que está implementado numa
+máquina e tá consumindo o espaço em
+disco espaço o espaço de armazenamento
+daquela máquina e aí ele consegue é se
+comunicar com o regime noite né e fazer
+toda a gestão é da quantidade de
+armazenamento que que tá permitido então
+se eu tenho três máquinas cada um outro
+100 gigas eu vou ter como um todo né Por
+exemplo gigabytes de armazenamento né
+então ele faz toda essa gestão E aí
+vocês vão ver aqui cada serve pode
+possuir a uma quantidade de disco e
+especificar essa cobertura é eu é
+obviamente a interessante que já sei que
+o padrão né the volumetric e de
+quantidade de dica Mas você pode por
+algum motivo ter um disco tem um serve
+tenho nenhum deita node é muito crítico
+né E muito mais parrudo que outro serve
+e eu posso criar uma estratégia
+direcionando aquele aquele aquele data
+node é com algumas segregações de
+processamento eu consigo por meio da
+grife é se é separar e até pulverizar e
+formações em lugares diferentes onde eu
+faço uma ingestão quando eu trago à
+informação o que que nos faz ele ele
+vale vida né ouvi são a Quais são as
+máquinas que estão disponíveis E aí ele
+reflita é o um pedaço daquela informação
+e cada um dos outros então se eu vou
+inserir um registro de cliente por
+exemplo tabelas do drive ele vai vir
+aqui e vai armazém da o corrigir isso
+aqui hoje isso aqui é isso aqui
+normalmente a retirar a replicação dele
+é múltiplo de 3 né que já traz uma
+consistência ao redor das sementes
+grandes ele tem também um recurso de
+quando é algum mal é corrompido alguma
+coisa acontece ele mesmo é não
+eu esqueci o nome é um load balance né
+ele faz o load balance recorrente né de
+forma programada dentro do próprio sócio
+e aí ele executa é essa replicação Caso
+esteja faltando o caso esteja corrompido
+né então esse formato aqui de
+armazenamento hdfs é muito parrudo e
+muito versátil você consegue direcionar
+estratégia você consegue segregar
+informações você consegue criar
+parâmetros de permissionamento é tudo
+com essa responsabilidade do Detran nojo
+semi-novo tá eu acho que deveria
+realmente tem colocado favor slide
+anterior no meu cabelo prestando atenção
+a gente tá essa aqui seria o fluxo de
+armazenamento do HD PS todos os jovens
+tudo que a gente executa Via Mia produce
+passa aqui por dentro quando temos é
+dentro de um objetivo de tornar adulto e
+temos dois níveis de memória 2 GB de
+armazenamento o armazenamento local e o
+armazenamento em hdfs nós vamos fazer
+momento local é muito dedicado a áreas
+que vão ter desenvolvimento que vão
+a fazer alguma coisa né então dentro
+dessa terceira dessas máquinas a
+normalmente a memória de armazenamento é
+muito de Deus igual a gente tem o raio
+System local dedicado para poder
+suportar esse esse essa grande
+quantidade de coisas locais quando a
+gente tem o que não é muito comum né O
+que é comum Normalmente quando a gente
+precisa processar precisa armazenar é
+utilizar água dfs então a gente tem um a
+gente tem um serviço né você viu hdfs
+ele tem um como se fosse um apê ir né
+que trabalha com GPRS é o protocolo
+específico lá e aí essa pele recebe a
+requisição E aí ele faz cocô
+acessibilidade para ser ingerida
+informações dentro do dentro do dos 10
+anos que ele queria uma piona que ele
+tem material né Então essa preocupação
+Às vezes a gente repara quando a gente
+precisa por exemplo fazer uma
+transformação de um de um arquivo do
+texto é aplicando muitas coisas viam
+Chelsea Flick alguma coisa O quê que
+aquilo porque aquela às vezes não
+funciona porque quando
+em alguma coisa é a nível a nível local
+ver o doutor fora geralmente ele traz ou
+aquilo para fora da memória é executa
+todo um Shell script e depois volta para
+para dentro do projeto para dentro do
+INSS né para poder perímetro lá do
+serviço então é isso daí muitas vezes
+derruba máquina e sair muitas vezes é
+acaba dando alta memorynet estudo de
+memória então é quando a gente começa a
+trabalhar com a defesa a gente vê alguns
+particularidade de funcionamento isso
+que é bem interessante é cuidar na hora
+desenvolver aplicações em
+de dentro do motor de processamento
+temos aí um fluxo eu acho que ficar mais
+claro agora falando também não está Se
+tiverem dúvida pessoal por favor levanta
+não perder que tá então trouxe um que
+você se esse exemplo a português grato
+aqui tá Então a gente tem aqui o Cláudio
+né então Claro que seria todas as
+requisições externas né então quando eu
+acesso um prompt de comando quando eu
+acesso no ap quando eu acesso em
+qualquer coisa que eu vá conseguir
+enviar um comando enviar uma requisição
+para dentro do clã se eu passo por essa
+camada então tanto aqui eu tenho dois
+tipos de máquinas dentro de uma
+topologia adulto que seria a máquina
+Master né ah mestre e a máquina slave né
+então como vocês estão vendo aqui até
+dando um pouco de contexto de topologia
+a máquina Master ela é muito dedicada a
+serviço gerenciáveis né então ela tem
+uma um viés de a gente mantenha todos os
+serviços as interfaces
+o serviço gerenciadores dentro dessa
+máquina Master porque ela não pode cair
+ela é uma máquina que realmente precisa
+sempre ter um cuidado precisa ter que
+ter um trabalho talvez de alta
+disponibilidade e alguns serviços tem
+essa funcionalidade é aplicar isso e
+criar sempre o uma marca restante baile
+tava aqui você puder e nem node né então
+para sempre que o Ney meu de carro aí
+ele precisa ter um ciclo terminou em
+alguma outra máquina mas é instalado até
+na verdade você não me engano procurado
+que não permite ter um só porque isso
+porque se eu não consigo gerenciar os
+meus dados não né as minhas máquinas
+para armazenar eu não precisa não
+consigo fazer nada então sabemos que o
+MEC reduz utiliza é o próprio capa longe
+eu te ligo utilizar memória de
+processamento do adufe para fazer
+processamento para fazer o que situação
+para fazer lanche sempre que disparam né
+pela doce ele vai orquestrar e formação
+por meio da memória e do armazenamento
+em você quando dei-me não está fora
+quando ele está inativo eu não consigo
+fazer mais nada então no meu PC para né
+então de forma mais crítica possível
+dentro de um ambiente radup é essa
+preocupação da comunicação dominante com
+os dados né E aí tem como processamento
+quando a gente disse para um Job é
+conciliar válida lá a memória tal faz
+todo o trabalho de componente a nível de
+recursos né do ambiente para poder fazer
+execução daquele processo todos os
+processos das tarefas é esse cara que
+jobtracker então um Job Tracker ele era
+o cara que faz é a ele faz o cálculo ele
+faz alguns recursos para poder quebrar
+aquela aquela aquela aquele problema 11
+passos né Então sempre que a gente
+executa um uma pele executa alguma coisa
+no mundo daquele Juci
+a rádio executa alguns Christi dentro do
+Ralo Pe ele converte aquele né perusso o
+map reduce é aciona the Object né que é
+um pouco de uma feriu-se e esse dia esse
+componente ele válido Olha esse seu
+problema eu vou quebrar em dez tarefas e
+o explosivo E aí ele distribui aquilo
+dentro do dos modos de processamento né
+então ele faz essa comunicação é ponto
+entre a memória Ou pulo o processador né
+E aí ele que fica falando que uma peça
+então ele diz para Digamos que o meu Job
+é digamos aí tem um ponto que é bastante
+interessante quando eu crio a fila e os
+que eu tenho uma fila e pronto não vou
+usar estas duas marcas né Então essas
+filas é a fila prioritária que tava
+dando coisas de produção né Então é eu
+vou ter essas duas latas eu consigo por
+meio de configuração e definir que a
+minha filha só use é por exemplo aqui
+pela frente chover e coisa que você
+ficar vi né porque com essa minha fila
+e essa minha filha ela vai poder
+utilizar essas duas vitórias nesses dois
+essas 2 slave aqui para processamento e
+vai acabar ignorando essas outras duas e
+aí a gente pode dizer que é porque outra
+tem uma segunda fila que é para
+homologação tá então até um conceito
+bastante utilizado no mercado aí dentro
+de um lugar. Eu vou no centro né E aí
+ele pode depositar nessa marca tá pode
+ser que o a orquestração do diabo Trek
+dominou de seja diferente vai depender O
+que é formação vai estar armazenado né é
+esse que controle a nível de qual o
+noivo Qual o nome de qual é espaço
+físico é eu vou colocar informação não
+dá para fazer por quê exatamente você
+acaba quebrando o gerenciamento do de
+novo a solicitação aí de armazenamento
+do hfs né mas aí Digamos que é de forma
+analógica para visualizar a gente tem
+que a gente coloca esse último noite
+aqui é esse último recurso nós vamos lá
+com recurso para desenvolvimento né
+então esse esse último recurso de deve
+ele também vai ter vinte por cento né
+bom então o que eu uma massa de dados
+volumétrica ele será 10 milhões de
+linhas né 10 milhões de linhas para
+executar no em vinte por cento de rádio
+né com as vezes muitos outros
+fornecimentos paralisados de outros
+desenvolvedores de outras áreas o que
+que vai acontecer eu esse esse meu
+processamento se ele não não quebrasse
+ele não dá estudo de ir embora ele vai
+demorar muito muito mais que o normal né
+E aí aperta nesse momento que a gente
+tem todo o estado de administração de
+orquestração de cuidado com a memória né
+é para que esteja definido essas finas e
+que essas filas tentem é os processos né
+então quando começa alocar quando começa
+a dar adapco de processamento quando
+começa a dar tipo de armazenamentos
+existem diversas diversas freddy's
+diversos alertas dentro do lambari que
+eu vou mostrar lá no final para vocês é
+que ajudam nessa nessa nessa validação
+tá então basicamente a gente tem
+a máquina master-slave né é 22 serviço
+de serviço gerenciadores onenote é um
+sub serviço do hdfs o jobtrac é um sub
+serviço de uma produto Então nem novo de
+orquestra e gerencia os data do que é o
+serviço que que consiste no se replicar
+em armazenar informações então todo vai
+ou de dentro de um adulto é gerido pelo
+dá para não né e os objec é o cara que
+vai quebrar e vai e vai estruturar as
+tarefas aí a serem executadas tudo isso
+utilizando o metro ou reduzido então
+qualquer coisa que vocês podem ambiente
+qualquer coisa que roda em ainda de hdfs
+a nível de processamento vai virar não é
+pêra doce então às vezes a cor não
+queria fazer um caught é uma tabela às
+vezes não é o mais rápido ali você pode
+ser lá usar outros recursos né usar
+algumas outras coisas porque é muitas
+vezes e pode perder tempo que até a
+aplicação disparar chamar olharem fazer
+toda essa
+o pão de recursos demora um pouquinho
+não que ele conhecimento demore mas até
+fazer tudo isso de ruim porque então dá
+aquela percepção de que o rádio thalento
+coisas do tipo tá então vamos cuidar do
+que é importante de 14 usuários de
+segurança como vou trazer um pouco de
+como o mundo de errado que pode ter um
+cuidado a nível de segurança EA nível de
+perímetro ização de acessos né então
+saber como que dentro do mundo de
+segurança é muito importante a gente
+disponibilizar as informações para no
+momento certo né Além de a gente falar
+de ciclo de vida do Zap mas também que
+as pessoas certas né as pessoas que as
+permissões certas O que que a gente
+consegue com isso a gente consegue ter
+democratização a gente consegue ter
+segregação Então essa preocupação de
+integrações e a segurança é muito
+importante
+do do do radup os dois componentes
+bastante utilizados mais conhecidos
+assim quando a gente está falando de uma
+arquitetura para a segurança é o aparte
+Ranger e o aparte inox né E eles aí eu
+coloquei ele em uma caixinha de
+componentes internos né então esses
+componentes internos são quando a gente
+faz a instalação então quando está no
+rappi eu já tenho é disponível esse
+serviço para mim habilitar né ou não ou
+configurar fazer alguns ou não e os
+componentes externos só componentes é
+implementados em outros ambientes em
+outros rostos ou basicamente separado do
+pacote adulto né então eu posso ter uma
+máquina é instalado por exemplo
+instalado o uma biblioteca para fazer
+para fazer leitura de arquivos que não
+seja não seja necessariamente do lado
+aqui né claro que aí a gente tem bons
+idades algumas coisas que são
+necessárias invalidar a nível de
+arquiteturas
+e aqui vocês vão ver os componentes que
+mais aparecem quando a gente está
+falando de integração de usuários e
+segurança tá então é quando a gente que
+a gente cria um clã errado tu
+normalmente se plante ele vai se
+comunicar com diversos sistemas ele vai
+se comunicar por diversos ambientes né e
+muitas vezes a estratégia do clã tá
+errado pe é que ele seja o ambiente vida
+aí né então a empresa não tem a empresa
+é tem tem o seu DW a empresa B tem as
+suas ferramentas de armazenamento tem a
+sua ferramenta de análise né um tem um
+Marco extrato de algumas ferramentas aí
+e eles precisam ter metal novo ambiente
+vida então eles aproveitam por
+implementar toda a suíte da caldeira por
+exemplo Então vou trazer todo o radup né
+diversos serviços diversas coisas ok
+feito isso o que que é necessário fazer
+em relação aos serviços e aos ambientes
+que já existiam ali é necessário que a
+gente utilize é
+em todo o controle e o comprar esse de
+segurança de grupos de usuários da
+empresa né da que a empresa já utiliza
+Qual que é a ferramenta mais precisava
+do mercado eu acho que o Active
+directory é é algo que ele tá no patamar
+de urina né todo mundo é
+indiscutivelmente utilizar tive
+Direction tem alguns outros alguns
+outros ferramentas mas não chega nem aos
+pés da contabilidade e da
+responsabilidade que uma tipo de
+WhatsApp é o tipo direto ele é um
+gerenciador de diretório no gerenciador
+de recursos é de máquinas né então ele
+faz o gerenciamento de dominios ele faz
+um gerenciamento de Floresta de reis ele
+falou sim gerenciamento muito amplo é
+virtual então ele consegue olhar para
+todos os gostos e consegue gerenciar
+todos os gostos e todos os DNS todos os
+domínios todos os pais então é o ativo
+naquela certeza é muito bom e dentro
+dele existe um recurso de adicionar e
+gerenciar grupos de uso
+bom então porque isso porque exatamente
+a máquina Master da rede é aquela
+máquina que olha para todas as máquinas
+da rede ele é o supervisor geral e tudo
+que está integrado na rede dentro da
+configuração né dentro das redes da
+população Então esse essa máquina
+basicamente ela recebe é todos os
+usuários e grupos que são implementados
+quando você entra no coração e quando
+você é contratado por um dos primeiros
+etapas que é feito para criação de
+acesso a exatamente a adição do teu o
+teu cadastro dentro do artigo direta e
+aí aonde é gerar o teu usuário é um de
+ter gerado por senha de rede então é
+nesse cara que começa a sua história né
+E aí para vocês entenderem quando a
+gente entra atrás um ambiente novo de
+direito novo adufe é a gente tem dois
+caminhos vou utilizar todo o domínio
+toda os grupos de usuários que já
+existem outros projetos né que já existe
+dentro da estrutura do ambiente pode ter
+por exemplo alguma defasagem pode ter
+uma bagunça nessa lateral
+há algumas limitações LED
+permissionamento dentro desses grupos de
+afecção pré-existente Ou a gente pode
+criar e recomendar novos grupos de
+usuários são o que vou pedir tá é um
+ambiente novo tem pouca gente com os
+perfis é um ambiente que vai começar com
+projetos pilotos então não faz muito
+sentido eu abarrotar de usuários
+abarrotado de pessoas que vão ter acesso
+é sendo que sendo que eu ainda preciso
+validar quem realmente vai ter acesso
+quais áreas com os começar eu ainda
+estou em um momento estratégico de
+definição de contagens agora com esse
+novo ambiente quando a gente elemento
+novo ambiente existem diversas questões
+de diretrizes com Plus para ser para ser
+pensada né então quando a gente faz isso
+a gente tem as duas maneiras utilizar
+todo todos os objetos que estão lá
+dentro do DirectX né ou a gente criar
+grupos da a grupos específicos por um
+ambiente novo né E aí gradativamente ir
+trazendo os ambientes que já existiu eu
+gosto mais da segunda
+é né então é por isso que eu tô trazendo
+pra vocês aqui como se for Como seria
+uma abordagem desse tipo então por
+exemplo eu quero eu quero que eu quero
+ter quatro níveis de pessoas quatro
+dirigir perfil dentro do meu big de
+dentro do meu rap do meio ambiente Big
+deitado né então eu preciso de
+administradores são as pessoas que vão
+gerir e não admitirá ambiente né Eu
+preciso de desenvolvedores que são as
+minhas escolhas que vão utilizar o dado
+para poder criar aplicações de lá
+tabelas eu preciso de prestadores que
+provavelmente vão ser pessoas
+temporárias é são colaboradores de
+desenvolvedores também mas eles não
+estão dentro do grupo de confiabilidade
+eles são temporários Então eu preciso
+uma superfície da cidade na
+disponibilização de acesso e também no
+poste do acesso né e consumidor seria as
+áreas usuárias áreas que vão visualizar
+e não utilizar a informação é de forma
+mais mais consultiva digamos assim
+um para cada um desses grupos eu tenho
+uma recomendação de um grupo de
+administrador destinada a usuários
+poderão acessar Alê faz também frente é
+os casos que vão fazer tudo e vou cuidar
+de tudo bom administrar ou gerir vão
+armazenar vão criar práticas políticas e
+polegar Então esse cara são grupos que
+escrever um negócio grupo 2
+a interface é só os desenvolvedores né
+as pessoas funcionários que estão dentro
+disso é discussão consolidado nos
+protege de dados que se deu que a parte
+lá eu preciso criar estudos né fazer
+análise são esses caras são os caras que
+e vão tá com a mão na massa certamente
+aqui a gente tem outras formas os caras
+que vão trabalhar muito forte cuidado
+vão trabalhar com muitas vezes também o
+acesso com ajuste com o infra né então a
+gente pode ter essa flexibilidade mas
+são mais pessoas temporais que não são
+não fazem parte do quadro de
+funcionários da empresa né E aí por uns
+vai ser consumidores que é que eles vão
+consumir que vão enxergar que é uma
+informação que vou utilizar né então
+quando a gente vem uma beijador novo que
+ela tá sendo integrado então um dos
+Passos a ser feito essa integração de
+usuários então a integração de usuários
+para que eu consiga fazer isso
+primeiramente eu tenho que ter os grupos
+de usuários f
+e quais são os perfis que eu vou trazer
+para dentro do ambiente Qual os perfis
+que eu vou dar acesso né E aí a gente
+entra no nível de autenticação e
+autorização então o que que faz a
+autenticação e que faz autorização seria
+no caso o que é números fazendo
+autenticação e autorização e auditoria
+né de forma simples é o Regi tá então
+vocês vão ver aqui Digamos que eu tenho
+um nível de consumo dessa desse ambiente
+e aqui eu tenho eu tenho várias áreas
+utilizando Então eu tenho diretoria
+tenho área de negócio tenho área de área
+operacional utilizando né então eles vão
+fazer o que eles vão acessar uma máquina
+e vai permitir o acesso e sela a rede né
+então é muitas vezes é uma ou duas
+máquinas e somente que a gente dá acesso
+externo a rede né as outras máquinas
+ficam fechadas perímetro usados né para
+que a gente não tem ataques exteriores E
+aí Digamos que também eu tenho
+vendedores da rua fazendo
+e é fazendo consultas então prova
+analista na rua trabalhando com o
+aplicativos mobile e eles precisem
+acessar então Digamos que aí são os
+consumidores então não consumidor o que
+que acontece primeiramente que me dá
+para mim criar uma estratégia de
+segurança e de acessibilidade quando a
+gente fala de seguro de rede mesmo né é
+o aparte inox ele entra como um objeto e
+Diferentemente ligação então o que que
+seria esse Guetta seria um funil né Esse
+gato é basicamente o funil que vai
+receber todas as revisões do clube então
+tudo que vier fora da rede quando o cara
+não está logado dentro do ambiente tudo
+que vem as fora da rede é ele vai passar
+por esse gadget por esse perímetro de
+segurança tá então o noxo ele funciona
+tomam o teste dessa maneira ele é muito
+ele é muito muito aplicado para
+realmente e aplicações mobile coisas do
+tipo né então quando a gente vem a gente
+tem é dois níveis de
+e até chegar na informação tá é primeiro
+a gente precisa passar Digamos que eu tô
+acessando Então aí tá tão boa é essa é
+uma certa tá aí tá falando é acesso a
+segunda etapa é a hora da autenticação
+então nessa hora aqui é e um pouco caro
+bate dentro de um rosto e quebras vai
+ficar dever me chama de chá de bebê
+dentro de focagem ver lá no Carlos
+dentro do rosto de validação ele é o
+print para mim se eu tenho um acesso
+permitido se existe essa pergunta para
+isso usuário né Por mim para esses lado
+o caso e ele vai e confere lá na tia
+direto outras permissões E aí Cross
+entre aplicação e essa aplicação isso
+chama de trouxe é válido acham que é
+quando eu faço uma uma validação de
+dupla Os dois ambientes para poder da
+permissão e esse carinha que ele de
+cabeça para baixo
+o universo de Minas surgiu então todas
+as soluções dos que a gente faz a gente
+passa por esses caras que é por nós está
+falando de segurança corporativa e esse
+cara ele tem uma funcionalidade irá um
+aceitado essa quitada com seu arquivo
+que cria o tempo de sessão para você
+navegar dentro da igreja então Digamos
+que eu vou acessar uma aplicação eu vou
+fazer a leitura de uma tabela eu vou lá
+faça esse processo E aí eu consegui a
+minha aplicação ele geralmente tarde
+qual que é o próximo ele vem e passa
+nessa parte aqui ele fala da minha
+aplicação ela vai morrer né E aí o
+Rangers
+se você está o esquema a e a tabela B
+ele não pode acessar a tabela tá então
+pode eu faço com ele Digamos que a minha
+só ele desceu lá dentro do raiva né
+chegou aqui no have eu não vou conseguir
+acessar porque a autorização não deixou
+mas se eu tiver Celeste Então vou pegar
+essa informação e vou conseguir consumir
+ela então o que que acontece esse aqui é
+o fluxo de acesso né de permissionamento
+Até chegar na informação Então quais
+seriam os livros de formada ficar gente
+tem a gente pode tirar pênis a gente
+pode ter interfaces gráficas para fazer
+com ele dentro do raio de dentro do caso
+a gente tem aí diversas diversas
+maneiras de fazer isso no mercado é a
+gente pode ter um diretório hdfs que eu
+tenho um arquivo específico lá que
+armazenei eu posso ter tabelas o rhay vi
+ele eu posso ter aqui em tb né então
+assim o livro de acessibilidade vai
+ampliando bastante só que sempre que
+você vai entrar no planta você passa por
+isso então
+e é isso aqui ó o plantar Esse
+barramento aqui até aqui se eu não tiver
+aceite em uma edificação se eu não tiver
+aceite a atualização eu não consigo
+acessar os dados né Aí existe uma
+limitação a nível de atualização que o
+rende não cobre todos os serviços né tem
+serviço que ele não tem forma de
+gerenciar Então quem faz esse controle
+de acesso ou é o quebras por isso que
+existe essa dupla camada de
+acessibilidade porque o rei de realmente
+não cobre todos os serviços e as
+mecânicas e ele cobre é são até
+limitados para alguns serviços né aí por
+isso que você queria essas duas coisas
+tá então a forma de você me enxergarem é
+toda a escrituração de segurança de um
+ambiente com a dupla tá
+e não acesso usuários vamos usuários e
+acessos essa primeira cá/perímetros
+emissões nesta segunda camada onde a
+gente tem todas as ferramentas que faz e
+validação de usuário faz uma
+autenticação de quem sabe faz a
+autorização auditoria de acesso de
+permissões né Isso é a camada de
+informacional que é onde eu tenho os
+níveis de acessibilidade para leitura
+vai escrita e pela delete e ou por
+exemplo autidez né então é a hora que eu
+preciso acessar informação
+a cabeça tempo aqui para a gente ligar
+para lá e
+E aí
+É verdade é
+eu estou aqui olha é a casa do tá na
+casa da ferramenta na versão 2.7 tá
+então lambari ele tem um painel de
+acessibilidade Então você tem diversas
+integrações de usuários dentro de um
+prestador que a primeira é a
+estruturação de integração dos usuários
+do lambari que você pode ser tanto a
+nível de é o Davi né a nível de
+integração com sincronia com um contato
+direto com o outros produtos outros
+armazenamento de diretório ou você pode
+ter a nível de muriquis então a gente tá
+instalado embaixo nos livros né E aí a
+gente pode usar o usuário do céu
+usuários foram criados os lugares das
+trocas de máquina simples para acessar
+esse carro tá então existem alguns
+livros também de grupos hora que a gente
+consegue aplicar né normalmente todas as
+empresas utilizam adaptar é toda a base
+de kadafi que já já existe né então não
+faz nem sentido não usar aí vocês vem
+aqui que a gente precisa fazer a por
+exemplo marcas foram derrubar
+e desligadas o que que ele faz o rato
+ele te rouba todos os serviços né então
+quando eu vou esperar o serviço eu tenho
+uma basta e eu tenho aula que nojo né
+então dentro da hora aqui ao serviço que
+eu tenho ele tem algum chutei ele tem o
+catálogo e tem o ABS ele tem o rhay vi
+que ele dependências óleo ele tem uma
+primeiro dos dois que é uma melhoria da
+Independência de um pacote primário ele
+tem um pequeno slider ele pede para que
+duas coisas parte do também é uma
+resolução nº pacote anterior o Ted ai
+então ele vai começar a todos os
+serviços que está instalado nesse caso
+então quando a gente fala de um serviço
+ele pode ter vários subir serviços
+melhores ficou por então pra vocês ver
+no hdfs ó e é composto de nem noite você
+vai ser com Dell Lenovo e dá para não
+Jornal Novo e NFS gateways por cada um
+com esse cara tem um Setembro a
+funcionalidade pra que o hdfs funciona
+de forma plena forma integrada nessa we
+are
+a viagem ele também tem outros serviços
+a dependência apertado lá no server ele
+tem o resource Manager que é a
+Teoricamente o gerenciador de todos os
+delitos do ambiente ele tem um monte de
+médico é o gerenciador de latão e de um
+early classics que é alguns recursos que
+a gente pode utilizar para faltar e
+afinar o interface gráfica tá então
+assim só por causa só tô dando um grito
+aqui tá mas só para você ver a
+complexidade de uma coisa errada porque
+ele realmente ele tem um esforço ele tem
+uma necessidade muito profunda de ter
+expertise de ter vários outros detalhes
+mas quando isso funciona é a um nível de
+entrega nível de controle gestantes é
+bastante interessante né Principalmente
+com a segunda hoje é o radup é uma das
+arquiteturas mais intransponíveis da
+prisão de segurança no mercado tá é E aí
+vocês vão ver vários outros serviços
+aqui né então eu tava querendo até
+mostrar para você os serviços ou
+mostrando mesmo mas não vai dar tempo
+em 1761
+e é isso pessoal então pelo menos
+entender todo mundo cansado feira né É
+espero que eu tenha conseguido contar a
+história de lado para vocês é um
+inferior aqui altamente interessante
+vocês vão ver serviços para diversas
+coisas né pronto e o serviço para para a
+linhagem de dados para governança tem um
+serviço para mensajeria para eventos e
+serviços para multiprocessamento eu
+tenho diversos serviços então é E além
+disso cada pacote tem outros serviços
+profissionais que não tem não tem todos
+os vídeos Digamos que tem o que passou
+por algum outro serviço que me falta
+Ainda faltam esse serviço estão em
+branco tá afastado pelo verde é o que tá
+instalado e esses outros ainda não foi
+instalado tá então tem um Rangers eu
+tenho Zap tenho nox aqui ainda que eu
+falei use usei o orquestrador de ouro
+quebrou né Então uso é parecido com um é
+fogo né é basicamente ele tem o
+eu já vi
+a Bíblia questra diversos ambientes
+simultâneo faz o uso dentro do ambiente
+errado que ele é bastante legal de se
+usar bastante intuitivo né tenta fazer
+graça outro boa para você o scup né
+então eu tenho muito mais outro serviço
+E aí quando a gente faz uma do pop
+grande de ambiente e normalmente é
+embarcado novo serviço dentro do ficado
+novas versões novas funcionalidades para
+cada serviço né então apaga as
+integração do serviço de bastante é
+Arruda digamos assim vermelha do lado tá
+então é isso pessoal é
+E aí
+[Aplausos]
+[Música]
+[Aplausos]

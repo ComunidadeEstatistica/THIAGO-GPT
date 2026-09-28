@@ -1,0 +1,568 @@
+# Aula 10 - Grid Random Search - Prof. Flávio Clésio
+
+- **URL:** https://www.youtube.com/watch?v=hnkeR40zC7E
+- **ID:** hnkeR40zC7E
+
+## Transcrição
+
+Olá aqui é o Flávio clésia Então a gente
+vai dar continuidade aqui na nossa lista
+de uma churn a no R usando o h 2 ohms
+certo a primeira coisa que ele pedir
+para vocês se vocês não são as inscritos
+no canal se inscreva no canal ativo
+Sininho para receber as notificações
+aqui no canal tem muito conteúdo de
+qualidade desde estatística avançada a
+visualização de dados Excel e por aí vai
+então somente conta do bar bem bacana tá
+bom E outra coisa queria pedir para
+vocês é que todos os códigos essa lista
+estão nas repositor não interrompo
+chamado estatidados traço h2oh então
+todos os códigos estão disponíveis para
+quem quiser rodar a se você é usuário do
+Big Ramy só fazer o forte desse eles
+repositório só o seu Antônio tá ou se
+vocês não são usuárias do Ritmo só
+clicar nesse botãozinho Verde aqui
+Connor download e clica na opção
+download Zip que todos os códigos não
+somente dessa aula mais de todas as
+aulas anteriores vão estar disponíveis
+também certo então hoje a gente vai
+falar sobre a parte de hiperparâmetros
+tá dentro HD
+e nada de slide Vamos para o código
+direto aqui a estúdio Então vem aqui
+está te dados h2os rc09 e preparamos eu
+vou abrir tanto o de agricert de
+classificação quanto handle such had
+classificação também tá então uma
+pessoal é toda essa parte e aí novamente
+né a ideia aqui do do vídeo não vai
+falar sobre os aspectos de a de carga de
+dados ou da larga o Explicar sobre
+fitness dinheiro em ou soube explicar
+sobre a camisola é isso a gente já fez
+meus aulas anteriores então aqui nessa
+parte agora do vídeo é toda essa parte
+de a carga de dados né então desde a
+carga do h2oh do da biblioteca jogadores
+tanto conexão
+o nosso planta do h2ovos a carga do
+Nossa do nosso dos nossos dados né nosso
+banco do lehman Brothers a geração do
+ponto do arquivo pouco Rex e a geração
+de variáveis categóricas nesse caso aqui
+vai ser a gente vai usar a variável de
+fogo né que vai ser Amarelo pessoa
+indicar se vai estar pago não e essa
+divisão de dados conta a declaração das
+variáveis dependentes e Independentes
+todas elas a e vou rodar de uma vez só
+que até para gente focar um pouco mais o
+assunto do vídeo ah deixa deixa então
+deixa só fazer a carga Os dados aqui nem
+mandou a dois. Rex e a mesma coisa não
+inscrito em Grosso sorte também
+bom então já fez a carga dos dados eu
+conferir aqui se os dados são carregados
+vou dar uma meus Amorim
+eu falei pouco Rex e ele já trouxe aqui
+todas as variáveis estão nosso variável
+de volta como continuar tá aqui é que a
+gente vai fazer é transformar suas
+variáveis a categóricas aqui em
+variáveis essa retorna como categóricas
+até mesmo para não ter nenhum tipo de
+problema nosso treinamento eu vou
+colocar aqui a parte de for education
+também de fazer a mesma coisa e para
+parte de mérite também casamento ou suas
+dessa conversão nosso primeiro Street
+Aqui de rua de sorte então todas as
+variáveis já estão Como como categóricos
+que você rodar o Summer mais uma vez eu
+vou ter que ir lavar água de fogo como
+um Factor a e a mesma coisa também na
+parte do queixo e na parte de merd
+também eu vou pegar o mesmo escrito aqui
+deixa eu só tirar o sono REM
+eu vou pegar toda essa parte de geração
+as variáveis aqui só copiar esse cara e
+vou para parte do hamster também a aqui
+no seu substitui essa parte do código e
+vou rodar a carga também desse desse
+desse lehman Brothers nesse script de
+hallstatt aqui de classificação também
+tá assim eu vou dar uma reta também
+nesse segundo aqui no segundo h2oh frame
+desculpa ah eu vou ter aqui já as
+variáveis já com transformações então
+vou fazer agora é só usar o nosso o
+nosso split né então a gente a usar o
+Sprint frame para fazer a divisão da
+nossa base de dados do conjunto de
+treinamento e teste Então vou gerar aqui
+e A Nessa e de acordo com esse objeto
+split que a gente acabou de criar aqui
+com Split frio ele tem dois pontos não
+foi os numero uma base
+e foi o número dos a base de testes ou
+desses casos aqui e agora já tem minha
+base de treinamento de teste minha
+variável dependente vai ser a variável
+de Fogo
+eu e as minhas Oramos Independência vou
+tirar aqui só a variável de gênero para
+mim porta Agora a e eu vou usar como
+variáveis a independência aqui as
+informações de limites a de Educação
+casamento por aí vai não deixou declarar
+que o x como de for e as variáveis
+dependentes aqui todos os campos do meu
+a da minha base de dados e eu vou fazer
+a mesma coisa no redutor só pra gente
+estar só pra gente ficar com o mesmo a
+cor os mesmos dados e memória e a gente
+explorar somente a parte do algoritmo
+estes lugares cara que todo mundo de
+novo então o conjunto de Treinamento
+agora já está distanciado no em Format
+do próprio é que a gente já pode
+trabalhar aqui agora não há então
+qualquer diferença né pessoal a em
+relação ao Grey Surf e o Ronald sorte né
+nesse caso no Buritis urgente o que a
+gente tá a gente vai escolher alguns
+conjuntos de parâmetros né de cada um
+dos algoritmos que a gente vai estar
+o utilizando aqui nesse caso vou usar o
+gbm salgadinho doce Machine No qual
+alguns parâmetros a gente pode usar para
+ser explorado então a por exemplo a
+tanto a parte de landerleide a
+profundidade da árvore a livro The
+sample rate né que vai ser o o volume de
+amostra os que tinham usado de forma
+interativa dentro do próprio treinamento
+para a parte de validação a conta parte
+de super Wide também né das colunas
+Então a gente vai colocar um peso aqui
+para cada nas colunas que a gente vai
+fazer que a gente está fazendo aqui a no
+caso do Gold surge a gente vai explorar
+um produto cartesiano de todas essas de
+todas essas esses conjuntos de variáveis
+Então nesse caso o nosso aqui com o bom
+que você todas as combinações estão vai
+ser 2 x 3
+às vezes 2 x 3 então aqui ele vai
+explorar 36 modelos diferentes com essa
+combinação de parâmetros na parte de uma
+nos sorte de chopp aqui para parte do
+código de produtos ort a de forma
+intencional coloquei o mesmo conjunto de
+a de parâmetros na Que bom que Vai
+resultar em 36 modelos contudo o andam
+sorte ele tem uma Ele tem ele tem uma
+forma de exploração dentro do pro pagar
+dois ovos que permite o que a gente com
+que a gente escolheu o número máximo de
+modelos que a gente vai treinando esse
+caso que eu coloquei 36 mas por exemplo
+eu posso escolher ter no máximo 12
+modelos por exemplo tá nesse nesse a
+nessa estratégia de renome sorteio
+momento que eu tenho dois modelos o
+algoritmo ele para automaticamente que é
+diferente do Grid search no colo e vai
+explorar todas as possibilidades que
+estiverem a disponíveis também a
+é uma outra coisa que queria falar para
+vocês é que a a parte do Uno sorte deixa
+entrar aqui na documentação do H2 ó
+e a uma das vantagens de trabalhar com
+glitter sorte né a Apesar que o rolou
+sorte ele tem uma ele ele tem algumas
+críticas internas do próprio h2doc faz
+essa escolha mas ele está limitado ao
+volume de modelos que está a paralisado
+é que o organizou ele permite
+implementar algumas estratégias para
+fazer o Stitch a o que eu quero dizer
+com isso deixa até maximiza aqui é que
+usando o o a perna do do h2oh para fazer
+o professor gente pode implementar
+heurísticas de exploração de Treinamento
+tá porque o que acontece quando ele
+sorte a gente vai lá a gente vai colocar
+por exemplo o volume de um volume de
+parâmetros a Random sorte a gente tem um
+critério de parada até o número máximo
+de modelos porém não crê de sorte a
+gente não tem esse esse critério de
+parada porque porque ideia dele é fazer
+o Grace na ele ele ele ele fazia Busta
+do melhor da melhor do melhor
+de dentro de uma combinação de atributos
+aí eu quero dizer com isso então aumenta
+a gente usa esse Rondon descrita aqui a
+essa essa estratégia a gente tá falando
+a gente pega a vantagem de usar um rei
+distante ou seja ele vai explorar um
+conjunto de a parâmetros porém ao invés
+ele usar o o final do treinamento na
+daquele daquele produto cartesiano como
+critério de parada aqui a gente consegue
+em colocar alguns outros atributos do
+próprio classificador a nesse caso nesse
+caso que vai ser Stop torcem stokehouse
+né você estiver usando por exemplo a
+área abaixo da curva então sei que ele
+está falando aqui é o seguinte a Nesse
+caso a Depois de dez interações sem
+nenhum tipo de evolução a naquela
+métrica no caso aqui se tiver usando a
+você tá se ele não não ou ver pelo menos
+a 0,001 no OLX E se ele tiver
+direcionado com o métrica depois de 10
+graus de 10 atrações e pega e usa como
+quiser
+Oi e ele termina o treinamento por assim
+dizer né a e aqui tem vários outros
+atributos então a gente pode colocar
+desde número máximo de segundos a gente
+pode colocar o número máximo de modelos
+mas o número máximo de modelos e também
+critério de número máximo de segundos a
+Stop House então a gente quer vai usar
+alguma métrica E aí vai usar só vou só
+nossa métrica como critério de parada Se
+ela parar de evoluir a gente para de
+treinar também a informações aqui de por
+exemplo para o metro de desclassificação
+por exemplo a gente pode usar a gente
+pode usar no caso de regressão de pode
+usar rss E por aí vai E no caso da parte
+de classificação de pode usar aos e a
+gente pode usar acurácia e por aí vai tá
+bom Então essa é uma das características
+do h2oh também que a gente pode usar
+mais botando de dor para o nosso código
+bom então vou fazer primeiro aqui na
+parte do bico de sorte e depois o povo
+não sorte para ficar um pouco mais um
+pouco mais a dividido o nosso o nosso o
+nosso vídeo então o para chamar o grupo
+insurgente quem que precisa fazer é só
+chamar esse método chamado Creed e no
+qual a gente vai chamar o algoritmo que
+vai ser esforçar para fazer aquele
+treinamento nosso causa de farol GM
+e as nossas variáveis a nossa variar as
+nossas variáveis Independentes a nossa
+variável é dependente nesse caso é tal Y
+Weekend vai ser o nome do modelo que a
+gente vai a estabelecer aqui que a gente
+vai poder visualizar dentro do flor que
+a gente vai dar uma olhada daqui a pouco
+tá tanto a parte do Charme Frank meu seu
+nosso o nosso o nosso lehman Brothers.
+30 e já determinou anteriormente e
+pacote de validação aqui e a gente vai
+colocar só por questões de conveniência
+esse teste aqui gente poderia colocar
+uma base de validação roudaut por
+exemplo a com a única condição que essa
+base tem que ser comprometida para o
+h2oh Friends não atendem ocorreu o erro
+também tá o número de armas que a gente
+vai escolher Vamos ser sem árvores ou
+Cid vai ser o 42 que nós estabelecemos
+anteriormente e os hiperparâmetros não o
+espaço de espaço e blusa a lista de
+parâmetros com o espaço de busca a gente
+está chamando aqui dgpm paramos a um que
+vai ser e ao que a gente acabou de
+terminar anteriormente de chuteiras
+e esse cara aqui ou já tá criado sua
+dela aqui a gente a minha lista para
+todos os parâmetros e a gente coloca
+esse igreja aqui para morrer dentro do
+H2 ou então se a gente quiser dar uma
+olhada de leite mas não flor Tá flor
+local você 54321 próprio Web Browser E
+tiver aqui é de mim os testados check
+status do pôster operacional tudo
+rodando direitinho admir Lopes e a gente
+vai acompanhar o nosso o nosso o nosso
+gordinho aqui então ele tá aparecendo
+aqui no nosso nosso redeconomia que a
+gente já estabeleceu tá gbm curte e a
+ser executada tá aqui como um ano e se a
+gente quiser ver o status dele só clicar
+aqui dentro do estádio está aqui dados
+um discord' Ip Man wing chun ele já
+aparece toda a evolução do treinamento
+do oriente com que a gente acabou de
+estabelecer aqui agora tá a e aqui a
+gente pode não somente né ver o job
+executando aí tá dando um vermelho e
+time aqui absurdo porque ele tá
+a fazer as estimativas ainda conforme
+vai Shimano e vai fazendo porém a das
+árvores ele vai vai ficando pouco mais
+simples a outra que seja melhor a gente
+pensar em Monte de novo e se ele quiser
+ver o que tá acontecendo por debaixo do
+capô né durante o treinamento em ele
+pode clicar aqui em ativos viu e a gente
+pode ver os outros inúmeros modelos que
+estão sendo criados aqui dentro do nosso
+87 aqui tá então ataque o modelo número
+12 modelo número 18 6 17 e assim
+sucessivamente então a gente pode
+interativamente entrar em cada um desses
+modelos que estão sendo criados aqui
+agora tá agora tá fazendo alguns forma
+alguns modelos de deixa eu conferir aqui
+no meu nos meus processadores para você
+tá usando todos os processadores a até
+agora o seu tirar essa visão que tá
+usando todos os processadores então ele
+tá e ter a mente que colocando para Moer
+tá e uma coisa até tá na primeira
+e no primeiro vídeo que a gente falou da
+arquitetura da dois ovos é a ideia da 2
+ok ele não é usar a memória do seu
+dispositivo do seu da sua máquina tá é
+muito mais aproveitar é o disco nailza
+lá e aí ela através da utilização de
+algoritmos que podem ser paralisados há
+a gente faz essa distribuição desses
+chances de deita nesse pedaço de dados
+em várias e várias partições dentro do
+do mesmo disco de vários dígitos e a
+gente faz tanta parte de 20 a medida a
+última né de busca desses dados cabo
+desses dados e e e armazenamento desses
+cálculos de memória no qual gente
+consegue fazer um estão uma
+escalabilidade muito maior nessa parte a
+grosso modo a estabilidade muito maior a
+desse conjunto de treinamentos aqui
+nesse caso por exemplo se eu tivesse
+trabalhando com a base com com muitos
+gigabytes aqui ele vai evitar a
+preocupação
+em toda a minha memória mais um caso ele
+só tá ocupando aqui a espaços ó e espaço
+em disco vou voltar pelas treinamento
+Acho que ele já acabou já 100% terminou
+a gente vai vir aqui no flor a
+finalizado demorou aqui um minuto 57
+segundos sente que quiser ver o Edson Sá
+que ele vai trazer todos os modelos que
+foram treinados a gente pode entrar
+inclusive em cada um dos modelos e ver
+por exemplo os parâmetros que foram
+utilizados por aí vai tão aqui todo
+Preto no Branco nada de parâmetros
+escondido nada de Black Box também as a
+gente pode acompanhar também a a parte
+de a convergência do modelo Nesse caso a
+gente teve overfeat na base treinamento
+aí fumei overfeat na base de validação
+provavelmente faz a nossa árvore ela foi
+muito é muitas árvores é uma Largo muito
+complexa tá a gente quiser então pegar
+os resultados né e ver algumas a
+Performance em relação por exemplo ao se
+ele se Grid search em relação aos
+modelos
+o Isaac do próprio h2oh tá usando esse
+grito que ele vai trazer todas as
+informações nosso colete vai fazer a
+ordenação pelo AOC no corre vai trazer
+as informações aqui então e Seguridade
+que não conhece o nosso GM grite ou a
+escola um usiper parâmetros utilizados
+os números dos modelos modelos que
+falharam a e o espaço de busca que foi
+utilizado então
+Oi e aquele já tá trazendo o ranking
+aqui dos melhores modelos no caso o
+modelo o melhor modelo foi esse guri gbm
+da escola um modelo andercor um aqui
+também tá que terror O o auxílio de um
+nesse caso foi o Perfect mas ele está
+vendo só para afins a sua pra vocês
+verem como que funciona o rapper se a
+gente quiser buscar o próprio o melhor
+modelo né no nosso ruim de sorte só
+enche usar esse gato mora no qual a
+gente vai passar o nosso grupo perform a
+luz performing restabeleceu aqui aqui os
+objetos o nosso bolo a nossa get it in
+pegando o ao primeiro fundo né nesse
+caso dos modos eu disse que ele vai
+trazer o melhor modelo do que a da nossa
+o nosso retisert tá então a gente queria
+essa variável aqui se só visualizar e se
+carga vai trazer o melhor modelo aqui
+com todas as informações a da mesma
+forma que tinha viu anteriormente tá
+então um caso plástico aqui
+E aí
+o Olá e também a aqui a gente pode usar
+também uma Gasol performs estava tão
+quentinha utilizou anteriormente no pode
+precisa passar somente o modelo que
+nesse caso vai ser esse modelo best moda
+gm1 e com a nossa base de validação ou
+de teste aqui a gente tá usando só por
+conveniência e armazenar esses
+resultados também então a gente pode ser
+rodar esse cara que pegar o alce ele vai
+trazer o wi-fi aqui tá como um ok e a
+gente consegue pegar a fazer o print
+também do Summer desse modelo então é
+uma árvore aqui com 100 árvores a língua
+de profundidade um nível de profundidade
+três aqui com máximo de registros numa
+folha A2 o máximo de nossas folhas oito
+Aqui também tá e a mesma coisa que não
+tinha fez anteriormente a gente só
+precisa passar um caminho a para o nosso
+para salvar esse modelo né então eu vou
+colocar nesse arquivar tá né então que
+vai ser o nosso o nosso
+a roubar essa água internação aqui de
+várias de várias partes do caminho da
+minha máquina aqui eu vou ter esse
+caminho que vai chegar a nessa pastinha
+e controle dos escritos que a gente tá
+rodando aqui no próprio h2ovos e a única
+coisa que a gente precisa fazer para
+salvar esse melhor modelo do clipe surge
+É só usar esse seis modo né que é o que
+é o método que vai fazer a persistência
+três importantes parâmetros primeiro o
+modelo tende a passar o segundo a
+caminho o caminho onde que a gente vai
+armazenar esse esses modelos serão
+avisados e força igual aquilo para a
+gente fala sobre a escrever qualquer
+tipo de modelo que esteja anteriormente
+salvo na própria pasta tá então vou de
+citar aqui se a gente confie no próprio
+era isto que ele já traz para a gente
+aqui é o modelo já ser realizado Então
+se a gente quiser fazer a carga esse
+modelo é só a gente pegar o caminho A
+então deixa eu vou dar até o caminho
+aqui do modo a objetos aqui que vai
+aparecer caminho que é o
+o caminho onde está a salvo esse modelo
+usar o nosso método do automóvel e fazer
+a carga desse objeto dentro da minha
+variável chamado sempre modo fiz a carga
+que nós seminovos só pegar esse serve
+modo ele já é um modelo da mesma forma
+que a gente já a já salvo anteriormente
+se eu vou dar um samba né que é uma
+função ela deixou do próprio R ele vai
+trazer aqui todas as informações do
+desse melhor modelo desse a de seguinte
+certo aqui para gente tá com todas as
+informações do treinamento a isso a
+gente quiser fazer uma predição com esse
+com essa essa porta base aqui já foi
+sábado com esse modelo que a gente já
+acabou de fazer a carga dele né quem te
+amou acontecer de modo só usar o nosso a
+nossa o nosso método H2 Aprendi que são
+com a gente vai passar comparar metrô
+objeto o nosso modelo e uniu Beira nossa
+base de teste consciente Fora esse cara
+aqui e gerar
+17
+e ele vai já vai gerar esse modo eu pedi
+que ele vai tá aqui no nosso no nosso
+Wagner dupla atitude vou explicar né
+você tá bem aqui ele já traz pra gente
+tanto a as predições em relação as
+variáveis a farelo de fotônica naquele
+tinha colocado que era de fogo e as
+informações em relação a parte de a
+probabilidade também tá bom a gente
+quiser dar uma olhada nos modelos das
+predições e sua encher vou dar um print
+também que a gente tem as vezes
+informações que a gente viu no odeio a
+table anteriormente para gerar o nosso
+arquivo a Mojo a que a gente pode fazer
+se a passagem esses arquivos para os
+moradores tanto escala a quanto
+em Java o que a gente precisa fazer só
+chamar esse método download motion o
+corte a passar o melhor modelo pedir
+acabou de treinar anteriormente a esse
+arquivar PEC é o caminho e gerar o
+arquivo já para nós tão vendo aqui como
+moda falhas e já vai aparecer esses dois
+novos modelos aqui para gente né então
+vai gerar vai aparecer aqui o ponto já
+gerado então você que vai estar pronto
+para ser embutida no aplicação Java e
+esse ponto Zip aqui que é o nosso
+arquivo a Moju no qual esse esse modelo
+pode ser alisar pode ser a carregada e
+outras linguagens também não somente no
+próprio R mas como um pai então como no
+próprio escala e também já vão tá
+E aí se ele quiser fazer a carga nesse
+modelo no próprio É só usar esse método
+importo nojo no corrente tem que passar
+o nosso caminho a do nosso objeto um
+pouco o zíper que a gente colocou
+anteriormente aqui então fazer a carga
+dele e se importa o bojo dentro desse
+objeto deixa eu distanciar o caminho
+primeiro esse módulo. Já e salvei o
+modelo dentro fez a carga no modelo
+novamente usando importa o bojo dentro
+de se importam módulo Então você usar o
+Summer aqui o importa o modo ele vai
+trazer as mesmas informações do modelo a
+que nós usamos anteriormente tá e eu vou
+pegar esse importa no modo vou fazer a
+mesma coisa vou usar ele como objeto do
+produto e vou só vale dentro do inteira
+frame Momo Model a por dentro importo
+ele já gerou aqui ao meu modo Por que se
+importa
+e eu posso a gente ficar a nesse ícone
+aqui da tabela Narcísio nesse dessa
+dessa planilha ele vai trazer as mesmas
+predições e as mesmas informações das
+probabilidades a de cada um a dos
+registros que a gente tem na base de
+dados Então esse é o princípio número de
+sorte ele tem o mesmo princípio pro
+handle sorte também a com a diferença
+que o rinosoro que a gente tem o número
+de modelos com critério de parado no
+Grid ser gente vai buscar vai utilizar
+Todo o espaço de busca a não ser que a
+gente explicitamente e coloque É algumas
+restrições no qual a gente consegue
+utilizar um pouco mais o nosso o nosso
+treinamento em relação ao tempo e
+especialmente também a performance Tá
+certo então é isso por hoje pessoal a
+nossa inscreva decisão não se esqueça de
+se inscrever no canal a deixa o like no
+vídeo Tá certo e até o próximo vídeo

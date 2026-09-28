@@ -1,0 +1,267 @@
+# CURSO R - ALGORITMOS WEKA e GOGGLE VIS - Prof. Grimaldo - Parte 2
+
+- **URL:** https://www.youtube.com/watch?v=jlKKWZ3ST5w
+- **ID:** jlKKWZ3ST5w
+
+## Transcrição
+
+funciona né ele pediu para estar lá a
+gente vai ver se funciona cada parte
+eu vim aqui onde ele tá se vê aí aqui
+vou carregar ele logo né
+não dá problema pronto ele carrega uma
+série de pacotes ao clicar nele está
+carregando aí pronto vamos usar aqui de
+novo o e 45 né
+o tapa ver a bola potok legal eu
+precisava dessa biblioteca poder colocar
+esse pacote 69 decisão.com max a gente
+vai ver aqui os valores foi menor 14 mil
+então escolheu o primeiro modelo se
+formar 14 mil e escolheu o segundo
+modelo é que ele fez um modelo linear
+ele estruturou se aqui um modelo nem
+após chegar aqui o botão 1 viu a gente
+vê é aqui né
+o nome coloquei lá pronta há informações
+sobre o cpu os vendedores se acertou e
+rápido máximo de memória se tem cast um
+mínimo de cash também não tem essas
+informações e tem a classe aqui dizendo
+se foi uma compra relativa informação
+uma classe a seguinte é um objeto assim
+que você diz o seguinte foi bom foi mal
+você você classifica a informação que
+deve ser número de classificação
+ele criou dois modelos o lm 1 m2
+como dá uma olhada aqui m3 né
+eu coloquei então pronto os modelos ac
+múltiplos que a classe é o que é
+consciente vezes um nome do vendedor
+mais esse valor vezes o nome do vendedor
+no caso o cassenda dos caracteres você
+pode excluir isso eu posso fazer uma
+exclusão disse também porque aqui no
+modelo
+se você olhar o modelo criou
+eu coloquei a informação de todos você
+pode ser determinada informação se você
+consegue aqui e me à x né
+vou votar só mmx pronto m3
+vou escutar maiúscula m3 pronto só
+aparece a mmx está vendo e aqui a
+informação continua
+então se você escolher um modelo um tem
+141 casos como dos 68 casos então é uma
+probabilidade alta de escolher o modelo
+mais vai depender muito de outros
+estudos não pode chegar sim e utilizar
+informação é isso aqui que eu voltei só
+uma reforma só um atributo parece um
+modelo linear simples mas aí o tempo
+está mais ele monta modelo ou seja é um
+algoritmo para montar modelos lineares
+ok múltiplos ou não certo vamos voltar
+lá pra informação pra gente continuar
+chegando aqui eu tenho um carregar dois
+carregadores e vou usar o jota 48 para
+isso daqui é uma árvore de decisão
+o show rodar aqui em nenhum time montou
+a árvore parecido com aquilo que a gente
+fez lá do vôlei e olha aí como é grande
+a saber desse enorme gigantesca
+eu vou botar isso aqui tinha muita
+conselho vai ser grande
+vote nossa como ficou grande na tela
+ele vai tentar plantar uma aula tentando
+plantar uma árvore gigantesca cm e 4 m
+29 ele vai montando a estrutura da
+árvore e eu só tô aqui usando duas
+variáveis em que é mct eo cash que ele
+está usando o vendedor como classe é a
+informação que eu tô utilizando isso e
+minerais muito cada um de vocês
+insistindo a informação para procurar um
+padrão é isso que é a mineração de dados
+a dica foi só uma pincelada para que
+você conheça aqui o é muito mais além do
+que só a parte estatística com a parte
+de usar objetos você pode usar qualquer
+coisa ligada a qualquer tipo de
+informações em várias empresas
+então utilizando r o google nem se fala
+utilizando r e despejando algoritmo na
+internet para que você possa utilizar tá
+legal
+vamos ver um pouquinho do google vez eu
+vou mostrar um pouco o primeiro vamos lá
+na internet para conhecer
+ora o google vídeo esse pacote aqui um
+pacote gráfico que você usa se instalar
+o pacote google visa e usa até que você
+tem um demo para ver a gente vai rodar
+se demo você entender ele pode fazer
+gráficos diversos tipos de gráficos de
+barras ele vai chamar o browser você
+chama no rn o browser é exibido ou seja
+não vai exibir isso não é e vai exibir
+no brasil não é você tende a subir até
+capital ficando r
+é importante que você saiba que existe
+isso que você pode usar o recurso google
+porque que o google tem uma customização
+incrível para mapas a gente vai chegar
+aqui ó
+a partir de mapas olhe tem parecido com
+os gráficos nós fizemos né e pinças maxi
+lópez coisas parecidas gauges aqui sim a
+parte dele é parte de gené a partir do
+mapa
+então você pode chamar isso no r e aí
+ele vai explodir aqui na tela que os
+parâmetros se passa informações a ele é
+exibido tudo isso talvez do google visto
+que a biblioteca né do do google que
+você pode executar do r todo mundo
+usando r não tenha dúvida disso aqui
+causando a função chamada mep e está
+executando e mostrando-se mapa aqui no
+brasil então você pode chegar lá no r e
+funcionar então olha a cama olha a
+quantidade de informações que você pode
+usar para criar um crime porque a coisa
+muito legal você criar aqui o dado a
+você pode pegar o dado eu vou exibi lá
+se altera e mostra como se fosse no
+google porque a informação e salva de um
+relatório aquilo que você quer
+apresentar
+é muito legal olha a quantidade de
+informações que tem aqui no google vice
+pode fazer misturar tabela com mapas de
+uma série de informações não é isso aqui
+é muito interessante você pode tratar
+esse motion também no chat
+você pode exibir a comida é interessante
+você vê o dado no decorrer dos anos ele
+vai avançando informações você pode
+deixar tudo isso aqui tá usando um dado
+a ser chamado flight para fazer essa
+informação
+válido por ano e vai ver que você pode
+criar uma taxa de colocação profissional
+não tem muito segredo de você fazer isso
+tá vendo então já o mapa é que eu fiz lá
+no r vamos lá bem aqui não é como vocês
+sabem que instalar um pacote
+ele estava em um pacote nego gol vi isso
+clique nele para ele carregar né pronto
+ele carregou o pacote
+ele tem um demo op mostrar o tema só
+você vê aqui fica fácil porque aí você
+tem que criar uma biblioteca sua de
+dados só poderá usar isso você vai ver
+que a simples de você fazer um saudável
+porque pelo game segue né ficar mais
+tranqüilo ao start pronto falei chamou
+browse e aí montou o dado que foi de r
+ou seja hoekman das comando aí essa
+informação foi de r agora a quinta
+dentro do bronze e que tá fazendo na
+tecla do google é isso que você está
+percebendo a biblioteca do google mas
+como foi lá no r como é que eu fiz e no
+r
+aqui ele fez uma carga zevi esmuti um
+chat pegou um show da esc aqui pegou um
+banco chamado fruit modavil aqui pra
+você percebeu não é nada demais
+você pode montar o seu aí sua casa seu
+trabalho ou faltou v maiúsculo se lembra
+que aquele sensitivo osdh taccetti ele
+montou líquida 7 simples
+ele votou ou não da fruta os anos a
+região e ele só parou lá as vendas
+quanto gastou um zelo ea data e enquanto
+de porcentagem dele ou seja ele
+escrevesse nota 7 simples você pode
+fazer isso trabalhamos ou gevisa um chat
+de produzir com dois atributos passando
+o nome da fruta ea variação do tempo
+com isso ele conseguiu montar aquilo
+tudo isso aqui ó ó google exibe as a
+banana aqui você pode enriquecer mais a
+parte gráfica do sul é simplesmente
+usando a biblioteca do google é isso que
+eu quero mostrar olha que coisa
+fantástica de você trabalhar
+você está no brasil mas é muito visual é
+muito legal você fazer isso eu queria
+que você soubesse que não é que você
+pode fazer coisas além do que lhe posso
+dizer na biblioteca externas
+então usamos a técnica do google está
+legal vamos continuar vendo lá o odeiam
+para que você conheça tudo voltando aqui
+vamos falar um segundo exemplo vai
+montar um mapa ou seja você montar
+alguma coisa já referenciada dentro do
+erp lugo aqui o brasil com uma
+informação estados unidos ou seja só
+esses mercados então por que não é você
+citou isso vamos lá ver
+olha aqui no rs acertou isso pegou um
+data 7 chamada esportes da frame
+qualquer e passou a localização do
+chamado países a variável de ajuste seja
+variável de valor chama profite pronto o
+resto o google fez tudo só passou de 2
+para duas variáveis que tem aqui o
+profético ontem
+não tem segredo é muito simples de
+utilizar então você pode enriquecer
+muito essa pesquisa em r aqui outra
+informação vai mostrar um outro mapa
+georreferenciado então isso já vem uma
+biblioteca para que você possa trabalhar
+e possa fazer aqui essas informações
+estão lá dentro das 77 de latitude qual
+é a velocidade aquela informação aí a
+categoria que ele ele é outra que você
+tem que passar esses atributos para que
+funcione senão não vai funcionar
+direitinho mas não se coloca à frente
+nessas características e funciona
+vamos ver outro são ó
+olha que legal está usando o google maps
+ó
+você pode chegar aqui ó é como se
+estivesse no google maps
+a informação alguma informação sobre
+furacões sabendo como furacão está
+passando olha que coisa interessante
+enfim o que eu queria mostrar com isso é
+que você pode utilizar bibliotecas
+externas ao é isso eu queria que você
+aprender e aí vai que você dá um google
+vídeo executa
+eu falei você pode
+7 desse jeito que tá aqui e mandar já
+está aí você tem que estudar um pouco
+quais são essas funções e à forma de
+passar esses parâmetros
+pois é foi isso que eu quis mostrar a
+você duas coisas mais interessantes na
+paginação é pai do google vice
+aí você pode se aprofundar pesquisar
+informações sobre twitter facebook tudo
+isso tem para r aí você pesquisa faz
+essas pesquisas procuram os pacotes que
+fazem esse tipo de consulta e você
+tirando eu é infinito
+eu sei que tem diversos programas que
+estão fazendo um pacote para se
+conversar com ela tá legal e aí a gente
+vai ter novidade mas não cruzo um grande
+abraço pra vocês para que você tenha
+gostado

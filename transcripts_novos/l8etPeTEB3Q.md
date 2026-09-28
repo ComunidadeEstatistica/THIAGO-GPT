@@ -1,0 +1,110 @@
+# Seleção de fornecedores através da aplicação do Método (SAPEVO M)
+
+- **URL:** https://www.youtube.com/watch?v=l8etPeTEB3Q
+- **ID:** l8etPeTEB3Q
+
+## Transcrição
+
+bom dia meu nome é rafael
+eu sou um aluno do mestrado em
+engenharia de transportes do instituto
+militar de engenharia
+neste período nós começamos a disciplina
+de tópicos especiais que versou sobre
+ferramentas computacionais para um cílio
+a tomada de decisão onde desenvolvemos
+um artigo utilizado o método saber o m
+que é um método original é o filho
+multicritério a decisão
+utilizando vários critérios e vários
+decisores através da plataforma saber wo
+o web www pontos a bebel hebe pontocom é
+uma plataforma gratuita muito interativa
+de fácil utilização a gente consegue
+ordenar a nossa matriz de decisão e
+colocar peso os nossos critérios como
+que foi a utilização no meu caso
+no meu caso eu tenho um problema na
+minha empresa de um trabalho que nós
+temos um posto de serviço que está sendo
+substituído por totens de
+auto-atendimento estes totem de auto
+atendimento da demanda uma especificação
+técnica devido ao alto grau de automação
+então nós encontramos dificuldade de
+selecionar fornecedores no mercado daí a
+necessidade de utilização desta
+ferramenta através dos critérios de
+aquisição de equipamentos de automação
+que a empresa já utiliza são 15 preço
+o prazo de pagamento o prazo de entrega
+a qualidade do produto ea garantia de um
+serviço pós-venda então a depois que nós
+identificamos em cinco critérios que já
+são corporativos mesmo da empresa
+nós selecionamos três especialistas um
+de processo de automação e um de
+engenharia de instalação para poder
+fazer
+as suas considerações a fazer realizar
+pesquisa no mercado e identificar os
+fornecedores que têm capacidade técnica
+para atender
+foram identificados três fornecedores
+esse três fornecedores
+eles nos passaram os seus preços e se
+esses financiadores
+a gente já conhece a qualidade do
+serviço deles
+eles já prestaram serviço pra gente ea
+gente também pesquisou no mercado para
+poder conhecer como funciona o pós-venda
+a qualidade dos produtos que desenvolvem
+se é bom ou não então essa equipe de
+três especialistas
+eles fizeram o julgamento dos critérios
+para parar e isso cada um separadamente
+o poder os próprios sistemas saber web
+já era pra gente qual é o critério qual
+é o peso para cada um dos critérios
+analisados sem nenhum viés
+e assim como foi realizado uma análise
+para passar dos das alternativas que são
+os três fornecedores numa escala de
+menos 3 a 3
+onde - 3 é muito distante muito muito
+muito pior do que o outro e mais 13 é
+quando um é muito melhor do que outro e
+10 a condição diferente quando os dois
+orçamentos são iguais a qualidade
+aparecida enfim a partir daí o o hotel
+foi aplicado o método saber o ele
+através da ferramenta plataforma saber o
+web onde foi já foi identificado que o
+preço era o critério que era mais
+importante pra gente sabe da qualidade
+do produto eo prazo de pagamento embora
+fosse importante para a empresa em
+inglês seja relevante o nosso processo
+decisório o parte da área financeira
+tesouraria
+a área de operações não identificou se
+como crucial na tomada de decisão de
+seleção do melhor fornecedor
+depois que a gente inseriam todos esses
+dados no sistema o sistema gerou o
+ranking para agente e dois fornecedores
+ficaram bem parecidos na
+atuação com 14 pontos com 12 pontos e um
+terceiro fornecedor com apenas dois
+pontos
+esse terceiro fornecedor ele tinha até o
+preço um pouquinho parecido com os
+demais só que a qualidade do serviço
+dele deixa a desejar eo prazo de entrega
+dele era muito longo
+logo o o osso tanto a utilização da
+ferramenta conta do método nos auxiliou
+a tomar uma melhor decisão não enviesada
+e corroborou pra um processo decisório
+mais eficiente bom dia isso aí

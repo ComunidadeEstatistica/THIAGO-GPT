@@ -1,0 +1,1059 @@
+# Desafios para gerir uma equipe de Analytics - Eliziane Ramos (Coordenadora de Analytics na UNILEVER)
+
+- **URL:** https://www.youtube.com/watch?v=g-mGKCULUWQ
+- **ID:** g-mGKCULUWQ
+
+## Transcrição
+
+é daquela análise que eu quero
+desenvolver e não só É ficar batendo na
+tecla de robustez do modelo de ter valor
+de accuracy que às vezes tem e
+inconveniente daquela técnica que vem
+talvez nem faça sentido para aquele
+negócio com certeza tá bom ai voltando
+aqui na nossa trilha Eu também dei aula
+por um período na UFPR fui mais ou menos
+acho que dois anos como professora
+substituta de estatística e na mesma na
+mesma época que eu dava aula já que eu
+tinha começado a trabalhar no HSBC
+comecei como analista junior desculpa
+como estagiário mas eu não coloquei aqui
+estagiário para tirar estagiário não é
+nada né diário contabilidade meu slide
+para botar culpa né Só serve para votar
+culpa Olha só um case de sucesso foi o
+meu estágio
+em uma breve historinha eu comecei fazer
+estágio agora que as pessoas seguradora
+Então ela era estagiária de seguros de
+automóveis e eu era responsável pela
+parte mais chata que tinha lá que era
+pegar e entendeu o motivo das
+reclamações dos clientes que reclamavam
+de sinistro de carro então tinha que ler
+e fazer alguma reportar aqui daquela
+daquele jeito de sempre foi feito da por
+pessoal E aí quando eu perguntava porque
+a porque sempre foi feito assim eu
+peguei e falei assim ah vou tentar fazer
+alguma coisa diferente e aí eu comecei
+meio que ler os motivos de sinistro e os
+motivos das reclamações e fui fazendo
+uma análise descritiva porque eu também
+tava no segundo ano de estatística ainda
+tava ainda não tinha tido em referência
+e nem tinha a mínima noção de modelos né
+mas eu
+em suma uma análise descritiva e fiz um
+gráfico Pareto que nada mais é que um
+gráfico de barras que mostra em ordem
+decrescente aonde que estavam o maior
+índice das informações e naquela época
+por coincidência a sala que eu ficava
+era da sala do diretor da seguradora e E
+aí eles tinham hábito na época de colar
+várias coisas assim nas paredes o
+funcionário do mês o funcionário do mês
+os repórteres das reclamações os elogios
+do banheiro aquele painel la do na
+parede e aí eu coloquei o meu jeito de
+falar vou colocar lá né esse resultado
+das reclamações Aonde que tá a
+concentração onde que ocorre a
+concentração e os gráficos na hora que o
+diretor passou por coincidência eu nunca
+nem tinha conversado com ele né piora é
+uma simples estagiária mas ele ele era
+diretor de qualidade
+Oi e ele bateu o olho assim tipo quem
+fez isso E aí ele perguntou né para o
+meu gerente quem fez isso vocês estão
+trabalhando agora com qualidade de
+cadeira de qualidade aí eu meu direito
+ficou ciente do foi o peito porque bem
+ele também era muito próximo do diretor
+né aí eles não foi não nós estamos fazer
+saques então fazendo nada só tava
+fazendo uma análise descritiva Não era
+nem um indicador de qualidade assim
+disse que se demorada disso E aí o
+diretor falou assim Nossa que bom que
+vocês têm visão ficou bem feliz de ver
+que as áreas estão desenvolvendo que
+vocês estão trazendo estatísticos para
+ali então e eu fui contratada Depois da
+sua história Acho que demorou dois meses
+para você contratada eu não tinha nem
+carteira de trabalho então teve uma
+burocracia para fazer a carteira e
+acabou atrasando mas eu fui contratada
+com dois meses eu acho que o poder da
+estatística descritiva né eu dou muito
+valor
+O que é só tem importante demais tanto
+que a gente tá até hoje lá na parte da
+descritiva porque eu pretendo abordar
+bastante assim a parte descritiva porque
+eu acho que resolve maior parte dos
+promessa e assim uma crítica pessoal que
+eu tenho Av cientistas de dados que não
+são a maioria deles eu vejo assim eu não
+me considero uma cientista porque eu não
+me considero programadora Mas eu vejo
+assim é muito descuido nessa análise
+descritiva as pessoas estão a maioria
+delas são programadores e elas são muito
+viciada sem rodar modelo rodar machine
+learning Center o entendimento do
+negócio sem fazer questão de ter
+envolvimento com o negócio e muito menos
+é entender bem a parte descritiva a
+maioria coloca uma marca fundamental né
+você entendeu que está por trás do
+código porque se
+E ai E aí deu problema na onde que eu
+vou resolver né como é que eu fico tem
+que ajustar aqui será que eu tenho que
+transformar variado se você não tem
+noção de estatística você não sabe fazer
+as coisas funcionarem né eu não consegue
+identificar né Fala problema e E aí de
+novo por quê que é importante ter essa
+conversa com o negócio porque você
+consegue saber o que é prioridade para
+você porque também existe uma pressão de
+tempo que é que existe em qualquer
+companhia então assim a gente nunca vai
+conseguir fazer o modelo legal seguindo
+também se a gente ficar muito tempo na
+análise descritiva porque a existe tempo
+exigir essas conversas e muitas vezes as
+empresas não tem essa disponibilidade
+então assim você tem que dar seus pulos
+aí qual que é o que eu faço geralmente
+nessa dar meus pulos é tentar ver se ela
+tem um milhão de variáveis para testar
+Qual o tio o negócio já tá acostumado
+usar e qual
+em áreas eu vejo o uma significância
+grande com a variável resposta que eu tô
+medindo sabe não ficar tentando olhar
+variável por variável porque assim não
+dá tempo infelizmente as gramas união de
+especialistas e as empresas não estão
+esse tempo para gente é fato e verificar
+possíveis correlações ali né E isso por
+isso que é importante você ler os
+artigos de Outras aplicações a eu
+trabalho o modelo de risco Quais são os
+modelos de risco que eu tenho acesso
+Quais são os papers quem trabalha nessa
+área Quais são as variáveis mais
+importantes Quais que eu sei que não
+vale a pena Quais que que não tem nexo
+causal então assim nos já antes de
+começar já ter uma percepção do que vale
+a pena do que não vale a pena não Lógico
+é importante não se deixar também
+contaminar a eu só vou obs
+e nem que são cinco variáveis é joga
+mais cinco porque eles também são um
+pouquinho viciados então você não pode
+tem que ponderar a opinião deles ou a
+parte do super se você leu caso você
+ainda não têm experiência e conversas
+com os colegas e aí um pouco é a base de
+dados que vai te dizer porque
+infelizmente tempo para olhar variável
+por variável e tudo que existe hoje
+Principalmente agora na Revolução dos
+lados é muita informação que a gente tem
+então tem que ter um pouco de foco sabe
+senão a gente se perde dados aí vale a
+máxima não vale a pena Reinventar a roda
+né se já tem ali aqui aquele padrão né
+Eu já fizeram vai fazendo as disso torna
+e hoje também um conceito que tá bem na
+moda e o povo tem falando tá falando
+muito é de tia sai ou então assim vamos
+construir o que dá
+bom e vamos melhorando ele enquanto ele
+tá rodando tá rodando a primeira versão
+do modelo já estou desenvolvendo a
+segunda ou variáveis de rede social a
+OBS começou usar já vou para terceira
+fase vou pegar mais variáveis do insta
+vou colocando mais uma análise
+complementando aqui dali então assim vai
+entregando em etapas mas não deixa para
+para fazer tudo de uma vez que assim um
+ditado que o no Bradesco povo sempre
+falar o ótimo é inimigo do bom então
+assim para você ter um modelo ótimo você
+vai perder o prazo da entrega e aí você
+pode ser prejudicado na sua análise a
+sua avaliação né então assim entre ter
+uma avaliação boa e ter o salário para
+pagar os boletos no final do mês o
+modelo mais acurado Então é só que há
+sempre um negociado né é a faz essa
+maneira mas a linha o teu gesso
+e a linha com negócio de que chique para
+eles é importante já na primeira fase e
+faz o teu melhor na primeira fase e
+depois vai deixando essas melhorias que
+você já sabe que você sabe que que são
+importantes para as outras as outras
+etapas onde você já vai fazendo pequenas
+entregas né não deixa para fazer aquela
+entrega supimpa né vai fazendo as
+pequenas entrega e depois se precisar
+você volta e vai refinando né E esata lá
+previsão ele e outra coisa também nessa
+nesse ponto na hora que você está
+desenvolvendo o que eles chamam de
+projeto a visão Geral do projeto o Road
+map é sempre é importante colocar tudo
+que você acha que é importante que
+realmente a você não vai conseguir
+entregar na primeira fase Mas você
+pretende entregar nas próximas isso
+daqui é uma dica porque muitas vezes a
+gente se preocupa entregar também a
+primeira fase e a gente sabe o que vai
+vir na segunda fase só
+a nossa cabeça aí o espertinho gerente
+vai lá Outra área Porque existe também
+muita competitividade é nas empresas
+então muitas vezes no modelo que eu tô
+fazendo aqui também tem um colega lá de
+outro departamento de fazendo é normal
+eu já trabalhei muitos anos ali em banco
+eu não sei se e agora tô na Unilever eu
+vejo muito projeto duplicado por mais
+que exista às vezes dentro a existe uma
+área especialista em modelos sempre vai
+ter uma área Zinha querendo lá dentro do
+negócio que trabalha com o gerente da
+agência que trabalha em marketing ele
+vai tá querendo aprender mais e do nada
+ele pode ganhar uma exposição grande
+então é importante você já sinaliza as
+melhorias que você tá entendendo pelo
+menos o teu gerente para não ficar
+aquela coisa aí eu não tinha visto e o
+espertinho lá viu minha apresentação e
+falou que eu poderia ter feito isso
+Ah entendeu então assim para não gerar
+esse mal-estar pelo menos dá uma ideia
+do que é possível fazer show de bola
+porque assim existe também a
+competitividade e é muito desagradável
+quando você tem tudo na tua cabeça e
+alguém falar você poderia ter feito isso
+esse aquilo aí parece que você não
+pensou antes né verdade vale a pena é
+verbalizar e também documentário as suas
+ideias tá muito boa dica e E aí
+continuando então fiz a trabalharem CRM
+aqui na nessa parte aqui de CRM eu acho
+que foi um dos maiores desafios
+informação estatística mais marca é e
+gosta é só que aí rodando rolou uma o
+acho que eu primeiro assim desafio de
+carreira que foi entre continuar é como
+bancária ou não
+a profissão e para docência porque se
+naquela época sonhava muito em Foz da
+aula só queria ser professora
+participava muito de encontro de
+estatísticos e sinapi apresentar uma
+noite de trabalho tinha bolsa também é
+legal fui também tinha o pet bolsa Pet
+na universidade então assim eu queria
+seguir uma carreira acadêmica
+Oi e aí o banco meio que me ofereceu
+começou me oferecer mais oportunidades
+um salário melhor e começou rolar aquele
+sabe que que eu faço agora né Eu não
+lembro bem assim eu mais com certeza foi
+a parte financeira Foi a que mais
+impactou sem na naquele momento das
+nossas escolhas e também porque era uma
+área que eu via muito muita coisa de
+marketing que eu gostava então assim eu
+falei se não eu vou ser feliz aqui é
+aqui não é aquela área chata lá que eu
+tava acostumada desse grupos vai dar
+certo e aí o meu gerente me incentivo
+mapa muito começar a desenvolver modelos
+EA gente começou era uma área tinha um
+homem de CRM analítico mas ainda não
+tinha nenhum nenhum trabalho analítico
+lá dentro era tudo muito operacional né
+as campanhas de CRM eram feitas os
+analistas usavam a tabela dinâmica
+bom então aqui eu comecei ver valor Eu
+realmente poderia estar agregando e
+trazendo um modelo novo ali para
+melhorar as campanhas que era da Nossa
+Senhora legal muito legal eu gosto
+bastante aqui na área de CRM também o o
+poder trabalhar um pouquinho com
+amostragem então assim para fazer alguns
+estudos de perfil de cliente tá
+trabalhávamos um pouco com canais estudo
+de canais para ver qual canal Qual o
+cliente acessava mais ou telebanco na
+época que era o buscar mais que competia
+bastante com internet banking não tinha
+aplicativo tá 2001 Mas então assim a
+gente comprava a ideia naquela época em
+2001 já era tirar o cliente das agências
+de integrá-los na internet banking e
+para o telebanco então a gente fazia
+muitos estudos e usava muita
+a mostragem teste de hipótese para saber
+se realmente o cliente tinha o pensam e
+se ele tinha interesse né de canal
+depois apesar de ter ficado na Branco
+gostar aqui que eu já mostrei ele se
+usava para ou não aí eu usava amostragem
+simples geralmente era assim Parabéns
+simples era para ponderada né mas dentro
+de cluster eu não lembro o nome
+Exatamente porque faz tempo que eu não
+trabalho estratificada se separavam
+plasters e depois extrair essa amostras
+devem beleza a estratificação nossa
+valeu os brancos também gente ir Olha
+tava fazendo as contas aqui a idade pesa
+né tranquilo beleza e
+e é depois da área de CRM eu senti
+depois de 34 anos sentir necessidade de
+migrar e fui para de crédito aqui teve o
+desafio daí que eu comecei a desenvolver
+modelos de risco então mudou
+completamente a minha variável resposta
+a minha dinâmica de trabalho então assim
+eu comecei realmente trabalhar e
+software Porque sim em CRM eu trabalhava
+basicamente com o spss que é um software
+estatístico e programava em SQL no na
+área de crédito Basileia o mesmo banco
+mas é no ferramentas completamente
+diferentes então comecei a usar as as e
+comecei a fazer tudo faz a parte de gtld
+programação e a parte de modelagem
+estatística tá certo aqui o desafio
+começou
+a bolsa um pouquinho mais complexo
+porque uma beleza e Cia legal mas o
+acordo de Basileia vocês têm noção do
+que é um modelo também entra a parte
+regulatória E e essa parte dava muita
+dor de cabeça porque é um tema muito
+importante para o banco para ver a
+questão de risco mas é um tema bem
+pesada assim que ser estudado existe sim
+que você se debruce um acordo entenda as
+leis entenda as regras para desenvolver
+o modelo Nossa área por ser extremamente
+importante para o banco não HSBC Então
+ela era auditada então nós éramos
+auditados pelo pela auditoria Brasil
+pela Auditoria do Banco Central pela
+Auditoria do Banco Central internacional
+que jogar esse PC da matriz em Londres e
+pelos validadores ou time de
+desenvolvimento Nacional então é
+a toalhas fora a nossa área que também
+uma área próxima que fazia monitoramento
+do modelo então assim cinco pessoas te
+avaliando era uma pressão bem complexa
+diria assim imagina principalmente
+porque não era só a parte do modelo que
+hoje o digo que era quinze por cento era
+muita questão de desenvolver organização
+dos códigos entendimento profundo do
+acordo e também aplicação nos negócios à
+parte toda a parte regulatória de banco
+central é fechar a conversa com todo
+mundo porque quando o banco central ia
+fazer visitas ele queria conversar com
+todo mundo que usar esse modelo E aí
+todo mundo tinha que estar muito com
+discurso alinhado entendendo o modelo
+servia esse fazia sentido ou não porque
+cada uma das variáveis tinha sido
+selecionadas e vale a pena comentar
+também
+é de usar modelos mais avançados e nas
+redes neurais tudo mais que a gente não
+consegue explicar muito bem né O que
+está acontecendo ali e página explicar
+ali para auditor né bom eu não consigo
+logística né arroz decisão né então eu
+já saí dessa área que já tem alguns anos
+eu queria eu tenho interesse de saber
+como que eles estão fazendo se o banco
+seu time do Banco Central também
+Provavelmente tem vários cientistas de
+dados os mais jovens e mais modernos
+como que eles estão fazendo para avaliar
+suas caixas pretas porque acho que são
+10 era não existe isso não existe
+conversando com pessoal inclusive uma
+uma convidada especial que a gente vai
+ter aqui também para Mariana node né ela
+tem uma estrada estatística também o
+trabalho nesse crédito né o meu Deus de
+risco e tal que ela fala que ele só que
+estão muita
+e Logístico não pode decisão que é mais
+fácil de explicar habilidade regras de
+negócio está acordo ainda mais elétrico
+mais né tem que estar tem que estar tudo
+muito Claro porque senão o cara vai lá o
+ditar E aí tu vai falar o que para ele a
+não porque isso aqui restaurou que não é
+para entender e aí você vai aprender e
+tu morre CPF que mas nós não vai rolar
+entendeu eu não eu não sei porque também
+os assim como os bancos acreditam que os
+validadores os auditores eles também
+então mais especializados né mas estou
+aqui para falar áudio né Talvez seja
+mais usado pela saúde e fraude não tem
+tanta tanto Rigo assim um dia assim é
+fraude né mais raro tudo mais né acho
+que acho que é por aí eu sei que essa
+área sem eu consegui ficar ainda lá acho
+que 23 anos porque e fiz algumas Bíblias
+Eu quero uma Bíblia Porque sim o modelo
+não saía não tava bom se não tivesse
+menos que 1.000 páginas se de
+desenvolvimento Então é só você tinha
+que simplesmente colocar o teu código lá
+escreveu o código e colar no teu
+documento e a área lá de validador eles
+não pegaram control c control V ai se
+aquele código rodasse e não sair
+exatamente os mesmos coeficientes que
+estavam lá na apresentação e depois eu
+não sei como que está hoje mas assim
+naquela época era bem rigorosa e também
+era uma área internacional né então
+também era muito a validação o tal eu
+quero assustar ninguém tá mas eu de
+bastante né com certeza não porque sim
+você que coloca numa situação que
+realmente você tem que criar um processo
+de organização na tua rotina então não
+adianta só eu sair rodando o código e
+fazendo e colando no Excel você tem que
+O que é uma coisa que até hoje sim as
+pessoas da minha área ou de alguma
+maneira mesmo não sendo programador eles
+batiam e falou nossa você não cometa o
+código que não é documentar muita coisa
+mas eu escrevi assim uma linha aqui uma
+pessoa para pessoa pegar e é uma coisa
+assim que eu sempre passo Me peço para
+mim aqui também fazer então assim é
+documentada de forma simplificada o
+código é mesmo para você a memória da
+gente falsa a memória não exatamente até
+pra morder mesmo vagina tu vai faz um
+código aí pega daqui a quatro meses o
+código e aí tu vai aceitar louco porque
+tudo caraca da onde vem isso aqui com né
+você não documentário perde Tudo sim
+Então vale a pena a gente documenta o
+código minimamente mas facilita a vida
+dos teus colegas e a tua também
+Futuramente você mesmo falar bom
+o que eu guardei legal e por último eu
+trabalhei no na HSBC na área de
+modelagem precificação também modelagem
+e aí também mudei a variável resposta
+agora minha variável era preço aí essa
+hora foi uma das útil mais curtir e
+curto ainda que é a parte de você unir
+todas as outras porque assim a na
+precificação é é como você conversa
+realmente com cliente é com que chega
+para ele né o cliente bancário é a taxa
+então assim como que você define essa
+taxa Então como que ela impacta no
+relacionamento lá do cliente do CRM se
+ela compra mais ela compra menos se ela
+volta e Como que essa taxa traz
+rentabilidade do banco porque sem o
+banco também precisa recuperar aquele
+dinheiro dele alguns clientes que vão tá
+entrando a inadimplência que é o módulo
+ar anterior que eu tinha trabalhado
+então assim essa área UnB
+e os dois conceitos né de relacionamento
+com cliente e o risco que o cliente pode
+trazer certo e então eu gosto muito a
+logo que te vi a venda do HSBC para o
+Bradesco nós continuamos e foi assim era
+a menina dos olhos uma das áreas mais
+desejadas pelo Bradesco assim na época
+da migração Porque sem era uma coisa
+muito diferenciada que o HSBC tinha e
+que ainda não e até hoje não é muito bem
+clara nos outros bancos Sabe tem um
+colegas que da mesma área que a gente
+trabalhava no HSBC que imigraram para o
+Itaú e migraram para outros bancos e que
+tava no processo ele se eu também sabe
+não tava muito desenvolvido tão
+desenvolvidos Como já era no não HS
+necessária Porque como era Global então
+a gente fazia muitos trabalhos já com
+algumas iniciativas alguns mente
+e aqui era testado fora e com algumas
+técnicas também que já vinha semi-pronta
+e a gente deixava com a cara local né
+então assim quando você projetos globais
+é importante não vira as costas porque
+não ter essa mental mentalidade que a
+global é ruim mas ao mesmo tempo ter
+ideia como que eu faço essa ferramenta
+ser boa para o país que eu estou aí ó
+então assim ter um casamento muito
+bacana entre as áreas que mesmo mas há
+outros tipos de modelos também né pode
+até às vezes nem que mas não é só modelo
+sabe porque o modelo a gente fala modelo
+mais uma fase é o modelo que seria
+clusterização de clientes né conforme
+conforme o Bispo revisionado hoje em dia
+que chama e no segundo momento era muita
+parte financeira também sabe então aqui
+entrou mais um fator que
+a partir de indicadores indicadores
+econômicos porque está mexendo em preço
+é e indicadores de indicadores
+financeiros do próprio banco então
+cálculo de roi cálculo de balanço então
+assim toda essa noção a gente é
+importante nessa área então foi assim
+uma das mais completas assim eu diria do
+do banco vai ter trabalhado nessa área
+porque você tem uma noção muito boa de
+crédito de Finanças e de produtos tão
+pegava praticamente a estatística aí o
+estado da arte né desde a parte mais
+legal assim da estatística estatística
+mesmo era só na fase dessa fase de
+pôsteres aos clientes porque depois tudo
+era rentabilidade Só que vi ela a
+estatística por mais que às vezes você
+não esteja usando a técnica estatística
+todo racional analítico que você
+e ele te impulsiona para fazer outras
+análises sabe então assim eu não vejo
+tudo isso aqui fica mais eu vejo que sem
+ela você não conseguiria criar todo
+racional para chegar em outras
+conclusões financeiras ou de outras
+naturezas certamente o show de bola
+muito legal aí eu coloquei aqui também
+na jornada sempre importante você tá
+correndo atrás especializando então aí
+eu fiz o curso de inglês porque assim na
+época que a gente tratava trabalhando
+aqui na área de precificação que tinha
+que usar esse modelo é uma parte do
+modelo já era Global então eu sentia
+bastante dificuldade na reuniões e era
+tudo feito o a transferência de
+conhecimento e da análise do modelo era
+tudo feita por quê ou então você ninguém
+viajava para te mostrar então era um
+o céu clique aqui clica lá então você
+fazer assim é por telefone aí eu saí
+para conseguir ficar 2 meses fora então
+o inglês gente é uma coisa importante
+aqui hoje tá muito mais porque tem muita
+programação muito software novo tem
+muito material bacana que tá em inglês
+então assim se preocupe não porque
+conheço é tem vários cursos eu mesmo fiz
+o inglês tal e outros muitos blogs
+também precisar inglês e que vale a pena
+você gastar meia horinha que seja os 15
+me não interessa não interessa o tempo
+mas é importante você tem um contato
+diário com outras línguas seja em inglês
+ou espanhol tanto faz mais inglês mas
+espanhol também tem algumas empresas que
+usam
+Ah tá certo e por último né Depois eu
+vou continuar Então vem para o Bradesco
+com a mesma a mesma posição a o
+diferencial aqui era aplicar tudo que
+estuda a experts que a gente tira de
+HSBC nas bases do Bradesco né Fazer o
+mesmo modelo e então assim o desafio era
+a cultura nova da empresa as novas bases
+mas assim a técnica ensina ONU mudou
+muito porque ele também chegou o momento
+de um pouco padronizado né você não tem
+muitas Principalmente quando você tá no
+banco e Empresas Grandes mesma Unilever
+também que sofre disso é tem muitas
+opções mas é a empresa quando ela é
+muito grande é difícil de você emplacar
+é o novo modelo Sabe tem muita
+resistência Porque sim você não vai só
+aplicar digamos numa agência se vou
+explicar aplicar na Rede Inteira no
+Brasil inteiro Então tudo demora muito
+tempo para fazer essa essa aplicação e
+também não tem software para isso então
+por mais não adianta você querer
+inventar o modelo maravilhoso com 50
+variáveis sendo que na hora que você for
+implantar o a ferramenta lá o sistema só
+tem três variáveis que foi o maior
+frustração do Bradesco para essas gente
+tinham podia fazer um modelo maravilhoso
+lá de precificação mas o sistema que a
+gente usava a limitava três variáveis
+nem isso eu acho que eram duas e ainda
+para alguma alguns produtos era uma
+lista manual então um colega tinha que
+pegar o meu o meu
+o estado e colocar lá no dentro da subir
+essas listas então assim não era nada
+automatizado nada nada nada que gera até
+hoje uma frustração para as pessoas que
+estão lá para mim aqui porque tava lá
+porque as pessoas entravam tem vários
+doutores lá obra disse que eu tenho um
+programa de de doutores e assim eles são
+aperando mexer sei porque vocês estão
+operando acho que se divertirem
+ferramenta porque aplicar esses modelos
+lindos que vocês estão fazendo de 20
+Milene verdade a gente desenvolve mas
+chega lá na hora a gente barra né com a
+própria estrutura às vezes não tinha tem
+não tem ainda existe alguns projetos
+Isso foi uma das maiores opções assim
+para para eu mandar as coisas que mais
+pesaram na decisão de deixar
+a bancária deixar os bancos e mudar
+completamente de setor e para para me
+leve para que sim eu tava muito já
+desacreditada que isso aconteceria no
+corpo caso então a é o gigante é uma
+empresa assim para começo de carreira eu
+acho que é muito importante e indico
+sempre apoiei e quando eu sair
+incentivei muito que o que que
+continuasse batalhando e fazendo outras
+coisas lá mas no ponto de vista de
+implantação de novos modelos ainda vai
+demorar gente eu acho que uns dois anos
+para chegar no nível de ter ferramentas
+sofisticadas para ler um qualquer tipo
+de modelo o 1001 variáveis e chata na o
+pelo menos nessa área que estavas a
+existe o Next que já tá com outra pegada
+existe a Bia existe mais assim é um
+banco muito grande então você tem muitas
+e provavelmente muitas horas fazendo um
+pouquinho de cada coisa mas é tudo muito
+lento então assim se você eu quando eu
+trabalhei na slime né eu fui alocado no
+projeto né na Bradesco Seguros e lá
+tinha toda uma estrutura tinha adultos
+Parque tal e vai lá funcionava legal lá
+mas o sistema que eu vou ver o que mas
+para projeto porque assim o nosso modelo
+é o gerente da agência precisa olhar e
+precificar o cliente de acordo com
+aquela taxa que tá vendo no sistema só
+que o sistema que ele a taxa ele só Lia
+três variáveis ele só Lia o custo do
+dinheiro gente nem é uma coisa aqui tá
+na modelagem porque eu posto do dinheiro
+é a regulatório
+Ah entendeu eu era mais na parte do
+hotel aplicado aquela árvore Ah tá esse
+tema da gente aqui porque captura aquela
+taxa né e o sistema que captura aquela
+taxa ele não consegue ir lá capturar o
+risco do cliente que é uma outra
+variável importante para precificação de
+venda da área de crédito lá Então aceita
+temas não são conectados
+o que gerava sem esse a pra gente
+conseguir algumas coisas então a era
+feito por listas então gente escorava
+uma lista do ponto de vista de preço
+conversavam com CRM para eles Passarem a
+lista de propensos conversavam com o
+time de crédito para passar a lista de
+quem tinha risco é ruim ou risco bom e
+assim que a gente mandava então fazendo
+puxando um pouquinho de cada canto uma
+lista Eu lembro quando eu cheguei o
+projeto já tinha já tava já tinha
+começado em tal só que aí a gente tinha
+que maquiagem bases né o cara maquiagem
+bases cada setor tem uma base é tipo a
+base é do João sabe se o João vai embora
+acabou a base não sei que em cada área
+juntando juntando as bases para poder
+formato a base lá para fazer lá faz
+análise ela me cresce demoravam para
+conseguir as coisas aí
+Eu sou além de ter SP pedaços de Márcia
+sempre ficava naquela como o modelo vai
+ser aplicado por que sim nem o modelo é
+sustentável eternamente então se ele
+precisa ser monitor preciso que é um
+balde Uma etapa que eu posso muito
+falante né não conseguia falar agora tá
+falando demais então assim eu mando ela
+precisa ser monitorado só que como a
+gente implantava ele de a lista de forma
+extremamente manual era extremamente
+complexo monitorar Por que você não
+sabia mais o tinha muito ruído você não
+sabia se o cliente às vezes aceitou
+aquela taxa porque o modelo estava bom
+ou era porque o gerente foi lá e
+conversou com o cliente e fez manual
+porque ele também e tem isso né o
+sistema lá de taxas ele não era é
+travado tem que ter era uma Filosofia
+também do Bradesco que o gerente tivesse
+tem
+a agência para decidir o preço porque
+ele tá ali cara a cara com o cliente ele
+é o dono da lojinha e ele tem que ter o
+poder de decisão
+ah e também então assim entrou esbarrei
+de novo na questão de Cultura vaga e se
+você existir assim mas tinha um limite
+existe dentro da minha área existe uma
+área que era de precificação mesa que
+fazia os casos é que o modelo não
+capturar vou então a sempre vai ter que
+ler cinco porcento que não aceita taxa
+ou porque é um cliente e Corpore de que
+chegou Está dando uma operação de
+capital de giro ou tá dando uma garantia
+extremamente alta e ele quer taxa zero
+praticamente então assim que ter uma
+análise julgamental e a gente deixava é
+o percentual para agência toma conta né
+mas via de regra tudo passava pelo
+modelo no Bradesco não o gerente ele é
+desse dia e eles estavam tão acostumado
+o cara é olhar tipo o cara de acordo com
+a cara do cliente eles davam uma taxa de
+e as mente eles não olhavam no sistema e
+quando olhavam eles pegavam usava acho
+que ele tinha na cabeça uma legal demais
+e não tinha como fazer essa análise
+então assim se era taxa ou senhora
+julgamental então ficava fazendo ele
+assunto eu esqueci em português
+respostas estão assim a gente está
+fazendo para supostas assim ele usou
+tipo de cinco porcento abaixo ou cinco
+porcento acima é para o filho Zone a
+taxa mas podia ser que não pode ser que
+você simplesmente o gerente mais ou
+menos acertou então assim isso me
+desmotivou bastante e foi sim um dos
+motivos também então essa cultura e a
+parte de sistemas e assim eu não via
+essas a mudança no curto prazo eu
+consigo até enxergar no Médio Mas no
+curto eu não consegui não conseguir ver
+entende que
+e se ver essa experiência com coordenar
+equipes e Analytics o quê que foi mais
+difícil assim então todo o período assim
+como eu acho que eu mais difícil é
+segurar os ânimos da Galera Então vai
+ser todo mundo quer desenvolver o modelo
+e quer sair rodando agora mais machine
+learning gente nunca mais quer fazer
+várias análises e e o desafio é você
+quer fazer isso rápido então assim você
+controlar os ânimos é colocar a fazer
+galera dá um passo para trás entendeu o
+negócio melhor e fazer uma análise
+descritiva e e também mantê-los
+motivados sabendo que pode ser que a
+gente não conseguiu implantar lá na
+frente acho que eles afirmaram era esse
+então é controlar as expectativas da da
+equipe entendi é tentar fazer com que
+eles é
+é a parte do desenvolvimento da análise
+estatística como um todo né então o
+valor que aqui lugar de domar simples
+Até o mais avançado né isso porque sem é
+o importante é o valor que você tá
+gerando da tua análise então pode ser
+uma análise descritiva mas se ela traz
+um valor para o gerente e para o cliente
+e tu principalmente traz dinheiro para
+tua área é um que paga as contas
+entendeu é o que o banco ou toda a área
+vai valorizar toda toda a área tem o seu
+seu orçamento e suas entregas Então a
+partir do momento que você faz isso e
+consegue dar valor a isso então se não
+precisa estar rodando uma Shirlane para
+eu ser ganhar uma promoção ou teu
+respeito da dos meus dos meus
+supervisores não com certeza eu lembro
+que lá na se projeto do Bradesco na
+tinha ver alguns casos de fraude né E aí
+eu tinha o consumo mensal né os
+medicamentos e aí eu fui esqueci fiz um
+box pote né para acompanhar nos meses
+não o como é que era o consumo mediano
+lá do E aí quando apontava lá saiu da
+cerca ela que era uma possível fraude
+vamos assim né se eu tô com dor de lá
+pessoal era de UTI né não conhecia
+estatística não sabia nem que era
+box-plot eu peguei ensinei que quero
+Globo Esporte lá aí fiz o gráfico não tá
+boa ficou um gráfico bonitão e tal e me
+botaram para apresentar lá para o meu
+gerente lá e tal do projeto é só estou
+projeto então é de novo um ótimo o valor
+né fazer um negócio bastante simples
+bom então mas assim para um cientista de
+dados principalmente essa galera mais
+jovem assim eu pegava treinava muito
+equipe de Juniors e fazia muita seleção
+deles então esse eles têm a ansiedade já
+também tem a questão da geração de tá
+aplicando então e não consegue ver muito
+valor nas entregas se não for uma coisa
+avançada felizmente as pessoas os nossos
+clientes de forma geral o primeiro a
+gente está falando de ferramentas
+extremamente sofisticadas e que as
+pessoas de negócio e não entendem assim
+falando sério eles mal entendem um
+gráfico
+é de barras gráfico de tá com 50
+categorias entendeu fazer umas coisas
+que não dá para entender nada então é
+melhor assim você apresentar uma coisa
+clara O slide simples e que traga a
+informação e que realmente assim você
+veja o valor no que você tá fazendo não
+precisa você sair desesperado achar que
+só fazendo modelos avançados que você
+vai trazer o valor para o negócio o show
+de bola isso aí o fundamental Com
+certeza é uma ótima dica está chegando
+uma hora aqui de lá vamos abrir para
+pergunta então vamos vamos então vai lá
+like manda aí
+o teu áudio não tá muito alto não
+Olímpico Ah tá agora agora Acho melhor
+desculpa Na verdade eu tava eu tava
+perguntando é que eu tava conversando
+aqui Ah não tranquilo pode Não beleza eu
+tô aqui desculpa aí tá tranquilo fala aí
+pessoal alguém alguém tem alguma dúvida
+alguém quer perguntar alguma coisa
+esqueci fica
+e pode mandar pelo chat também
+o que moderna isso gente é
+oh alô
+Oi tá ouvindo que é só
+Olá pessoal entendeu tudo aguenta o
+André eu acho que se manifestou 8 meses
+foi função da Noite Muito obrigado boa
+noite muito legal a a parte que deu
+Obrigada e desculpa gente sabe que não
+tem um unicórnio na área de ciência de
+dados quantas pessoas trabalham no
+tecido x predadores x social x
+estatísticos como é que funciona mais ou
+menos isso a divisão olha basicamente
+essa dentro do banco são são dois
+mercados completamente diferentes tá no
+banco a gente costumava ter bem separado
+essas áreas Então existe um departamento
+já de dados que é onde ficam todos os
+engenheiros de dados e arquitetura é tão
+toda parte e a gente fica já capturava
+as bases dessa área então já existe uma
+equipe sofisticada para isso
+e existe também uma equipe de já aí
+dentro da modelagem que era mais o meu
+time deve se consegue já pegar nós
+dividíamos basicamente em perfil técnico
+Mas qualquer área de exatas e
+principalmente alguns que tivessem boa
+comunicação e principalmente que fizesse
+apresentações interessantes que até um
+dos temas que a gente De repente pode
+marcar um próximo bate-papo para falar
+nesse a gente visualização é tudo então
+assim a gente eu tentava a ponderar
+muito isso dentro da minha equipe tentar
+pegar o que cada um fazer melhor que às
+vezes eles realmente eram estatístico
+tinha técnica mas não tem tanta
+facilidade para fazer um PowerPoint ou
+powerbia E então assim tentava pegar um
+colega tipo pode ser de qualquer outro
+curso mas que tivesse a facilidade de
+transformar o que o colega dele fez em
+números de uma forma gráfica
+bom então assim eu acho que as duas
+pessoas a equipe acabava interagindo bem
+e uma contribuindo para o
+desenvolvimento da outra
+ou então pelo menos sabe na área de
+modelagem a gente tentava dividir assim
+dado que a outra parte de programadores
+Engenheiros já estavam em outro
+departamento beleza valeu eu tenho eu
+tenho uma dúvida geralmente vocês
+trabalham aí com base de diversas Fontes
+texto imagem como é que é não tanque nas
+duas áreas mesmo na Unilever a gente
+ainda não está nesse nível avançado
+gente tem basicamente bases para hoje eu
+trabalho nos projetos de promoções então
+a gente compra algumas bases de mercado
+de bases diferentes que eu não tinha no
+banco então por exemplo toda a parte de
+variáveis de tempo muita coisa de
+variáveis de de supermercado então de
+canibalização de
+que venha dar tudo que é passado tudo
+que esse caminhado na boca do caixa e
+variáveis dessa natureza ainda não
+estamos trabalhando com nenhum dos
+projetos que eu peguei tinha a variáveis
+de redes sociais ou imagem Você conhece
+a pílula não o a grg soluções é uma o
+pingo ele é um aplicativo que quando
+você vai no supermercado você faz os
+seus compras né E aí no final você passa
+se passa a lista não quer he could do
+celular e ele pega todos os produtos
+pegou um vai para base dele e aí é é um
+aplicativo que é colaborativo Ou seja a
+gente que coloca os dados para eles né E
+aí o que eles podem usar esses dados
+para por exemplo para coca-cola contrata
+eles para perguntar aonde que é a melhor
+colocar a próxima loja deles vamos ver
+assim e aí eles contratam eles eles têm
+a noção de quanto que é vendido naquela
+região e tudo
+e até porque eles fazem lá dos Pratos e
+também dá os dados da Receita Federal E
+aí ele sabe exatamente o que que a gente
+compra não é nem usar esse pingo é braço
+só Brasil outro Você sabe Ah não tá no
+Brasil todo já tá no no Brasil com essas
+conversas que são superinteressantes
+protetor nesse novo meio só seis meses
+tem que eu tô na Unilever então eu tô
+aprendendo tudo sobre promoções e estou
+lendo muito nossa nunca li tanto e mudou
+completamente que agora tem que usar r e
+eu fiquei basicamente nos últimos 15
+anos só trabalhando uns Asus né ela mas
+o é bom para ela não mas são seis né
+então Savassi mas não é muito parecido
+bom como eu tô pegando alguns comandos
+agora que eu aprendi que é o dfs Kelly e
+aí
+eu tô tendo que trabalhar com a
+linguagem SQL dentro do Erre que eu
+achei muito interessante que já
+facilitou minha vida 50 pé se machucar
+ele também dá para fazer integração com
+o banco porque eu tava um pouco perdido
+assim de começar e muita coisinha nova e
+você lembra surge nessa que te perguntar
+alguma coisa é diferente e hoje não me
+leva também eu tô atua em projetos
+globais mas assim não existe o
+desenvolveu desenvolvimentos feito pela
+Unilever é tudo terceirizado esses
+modelos então o meu papel é mais é de
+gerenciar esses projetos garante que
+eles estão desenvolvendo o modelo
+coerente o modelo acurado e no tempo que
+a empresa Pede de novo então a gente eu
+tenho que exigir lá do cientista de
+dados da de Lógico que eles entreguem o
+melhor modelo em um mês então assim
+começou a desenvolver você
+O que é complicado então assim como três
+variáveis gente é o que dá inglês é
+verdade complicado mesmo Alguém tem mais
+alguma dúvida pessoal
+e pode mandar um chat
+em Aristóteles Fernando Márcio
+o objetivo pessoas e
+eu não vivo sem pergunta Achei bem
+interessante mas não tenho grande
+Pergunta original obrigado Beleza
+Tá bom então antes encerro aqui já deu
+mais uma hora de Live aqui obrigado eles
+foi bem legal acho que tá muito obrigado
+acrescentou bastante aqui eu acho que a
+visão de quem já passou por várias horas
+de modelagem e agora a coordena né
+equipes e tudo mais é sempre ele
+diferenciada né e agregou bastante aqui
+a comunidade Então vamos ver se a gente
+marca esse de data vez então aí vamos lá
+então você é bem importante como o
+demonstrar e como fazer uma coisa que as
+pessoas entendam Porque sim aonde qual
+soft Inn
+e eu faço geralmente no próprio para
+barbear ou no PT no PowerPoint beleza
+legal então a gente vai vai marcar aí e
+se faz tem bastante conexão não é fácil
+algumas coisas não R1 cgplot já migraram
+para o powerbia assim diferente melhor
+demais sair interessa demais se der
+fazer uma integração aí do Córrego aí
+com R seria a cereja do bolo em sim
+legal Show de Bola Qualquer dúvida tem o
+meu e-mail então não posso de Deus eu
+vou botar lá os seus contatos sim
+concerteza o link ou falou que a top
+essa Live para mente legal meu anjo Eu
+Te Agradeço pessoal pela oportunidade
+sempre bom né quando você tá explicando
+você acaba entendendo um pouquinho mais
+também vai dando insights do que você
+pode melhorar então a vida é assim né
+Sempre eu amei
+e é isso aí show de bola valeu brigadão
+Boa noite aí pessoal para ele valeu
+obrigado não

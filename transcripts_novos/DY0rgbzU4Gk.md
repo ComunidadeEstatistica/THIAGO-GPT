@@ -1,0 +1,164 @@
+# How to perform polynomial regression using the least squares method - Prof. Danilo Morales
+
+- **URL:** https://www.youtube.com/watch?v=DY0rgbzU4Gk
+- **ID:** DY0rgbzU4Gk
+
+## Transcrição
+
+olá bem-vindos a mais um novo vídeo no
+canal o tema de hoje é simples vou falar
+sobre regressão polinomial então você
+qual que ela é tem como fazer encontrar
+um tentar isso porque o chamado over
+feet under fit é portanto a diferença
+entre conceitos para poder fazer um bom
+modelo de machine learning
+o tom mais nada porque vai entrar em
+contato comigo quantas pessoas do canal
+pode usar o slack e não é o pai tem
+prova danilo pontes like.com o que tiver
+no canal com umas códigos para quem
+quiser tem interesse em olhar os códigos
+por eu vou dar no final de book o e-mail
+do curso para sentar em contato direto
+comigo dúvidas sugestões críticas é tudo
+sempre bem-vinda e respondo assim que
+possível tá então eu vou dar uma atenção
+básica da regressão linear é uma empresa
+se eu conseguir vender fit em o perfect
+em vou falar o quê que é paga e vale
+ansa ainda um terrível são polinomial é
+importante entender aqueles conceitos
+anteriores para não usar o modelo de
+criação problema correto e depois vai
+afetar os resultados lá na frente uma
+amostra de teste
+bom então a redação técnica dependência
+entre a variável dependente e a variável
+independente você tá linear o que
+aconteceria se essa dependência fosse
+mais complexa por exemplo a gente vai
+ser essa curva aqui né tiver aqui não
+tem o comportamento linear lá tem umas
+oscilações então olx então a gente vem
+aqui claramente uma reta não reproduz
+muito bem os pontos né mas pode ver aqui
+ó modelo linear e pode ser causados não
+é a pergunta é como fosse uma curva que
+melhor que todos os dados é isso é
+regressão polinomial vai fazer tá mas
+antes eu tenho que estar no rosto
+conselhos então comente piu regressão
+linear nós suficiente para produzir os
+dados esta é uma situação chamada under
+fit então ele deixou de explicar os
+dados e pra isso a gente fez aumentar a
+capacidade do modelo
+um exemplo aqui outro nome é posso
+transformado em no modelo quadrático
+trabalho de teu vai tá certo vai ser tão
+sincera 14 por exemplo beta 2 quadrado é
+uma possibilidade ou até potências
+maiores e se ainda pode ser considerado
+um modelo linear pois o suficiente
+associados com as características são
+lineares e quadradas apenas uma
+característica contudo a cor ajustada
+quadrática com a natureza eu posso falar
+como se fosse x você parando seus reta
+se fossem parte linear é isso ele quer
+dizer se considerarmos graves muito
+elevadas para ele não meu estamos
+adicionando o ruído ao modelo fazer com
+que o modelo não apresenta corretamente
+e se torna ser realizado e só tomado
+over feet tá então eu vou explicar para
+você direitinho que que é isso que que
+paga sem variância para se refere ao
+vivo ou devido a superposição explícitas
+é ajustar os dados com várias elevada
+significa que o modelo tem capaz de
+curar os padrões tentados resultando
+numa grafite é perigoso
+oi roberta você só motor de reta mas
+fica uma curva a criança se refere algum
+erro devido ao modelo complexo tentar os
+estar usados volta a variância significa
+que o modelo passou através da maioria
+dos pontos resultando um overfeat então
+é uma reprodução podermos chegar muito
+alto para ficar os dados ele apaga todos
+os pontos mas não vai ser uma coisa boa
+a gente o modelo de aprendizado marca
+deve ter baixo a variância e baixo baias
+especialmente impossível discutido para
+termos uma modelo neste caso uma troca é
+feita só que por exemplo uma situação
+que eu tenho na esquerda
+e com baias elevada né com o tempo a
+reta não passou por outros pontos tem
+como quase nada e uma aliança baixa
+se você pegasse me ligar vocês para ele
+nesse caso aqui
+e eu vou ter um pais baixo uma criança
+baixo ele passa por quase todos os
+pontos explicou ela tiver tivemos pontos
+gostoso miguel 20 o botão nos bairros
+muito baixo por que passam todos os bons
+e ficou explicou todos os pontos mas eu
+vou tomar variância muito alta eles um
+problema aí foi colocar só outros pontos
+né para prever ele vai rar com certeza
+tá porque ficou com o ver fitness e como
+ele começa a nossa mas a vossa frente
+pulsantes conhecidos que eu posso
+incluir vai falhar tem uma por exemplo
+você vai ficar pegar a cumplicidade do
+modelo aqui o erro eu tenho chegar nesse
+meio aqui onde o mesmo total se atingir
+o mínimo a variância esteja não seja tão
+alta e nem tão baixa e o mesmo vale para
+o baias ao quadrado tá então deixar no
+meio termo
+bom então comigo afinal o modelo tem que
+ser premiado tipo beta 0 mas vai ter um
+x1 mas vai tá m l xl para animais um
+erro este modelo pode ser expresso na
+forma matricial como sempre em função da
+max de entrada x 1 juventude resposta a
+y o metal história completa e o motor de
+erros eu não posso escrever aqui olá
+dessa forma a matriz de saída ou de
+entrada cada potência os peças que são
+consciência não ficando nela eu
+acreditei e a massa erro eu possa
+conhecer uma forma matricial como um y é
+o x + y
+e cobertores 400 estimados com o modelo
+você não é que tu vais quadrados é x
+transposto x e sua inversa nesse
+respostas a matriz y então esse mim
+alberto estimado eu fico sempre minha
+modelo assumido que é menor que n quer
+acreditar matriz para ser reversível
+aconteceu para ele impossível a garantia
+desse todos os valores de x e pode
+distintos é só me passou o santos método
+dos mínimos quadrados então é isso eu
+sei que você vai mais sobre normal agora
+vou explicar para vocês como implementar
+isso no python tá consegue tiller
+atenção ficar muito bem simples tá e é
+isso então novamente o slack para teclar
+comigo acabei de febre e-mail página do
+canal no facebook entrar em contato
+comigo tá se você gostou desse vídeo
+deixa o seu like para saber que tá sendo
+bom retorno você está entendendo e curto
+canal para receber notificações de novos
+vídeos e qualquer dúvida sugestão
+crítica pode mandar um e-mail para mim
+que a escola assim que possível ok então
+espero no próximo clientes mas eu
+o conhecimento mostro pra vocês olha o
+pai tô com exemplos lei

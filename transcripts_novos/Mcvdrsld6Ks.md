@@ -1,0 +1,24 @@
+# Depoimento Geilson - Comunidade de Estatística do Prof. Thiago Marques
+
+- **URL:** https://www.youtube.com/watch?v=Mcvdrsld6Ks
+- **ID:** Mcvdrsld6Ks
+
+## Transcrição
+
+a boca só fazer parte da comunidade
+estar eu sou tchau esse uma experiência
+bastante gratificante as aulas são
+ótimos assim comunidade quando o
+professor além disso as nossas aulas
+práticas de sangue r excel ou seja nós
+temos três disciplinas em um único curso
+fora isso aos professores convidados que
+trazem conteúdo bastante enriquecedor
+para a comunidade ea própria comunidade
+de chip para composta de pessoas ter
+essa dificuldade em trocar informações e
+aprender e compartilhar
+a fazer parte da comunidade instante do
+professor thiago foi uma das decisões
+mais assertivas que eu tive eu recomendo
+demais

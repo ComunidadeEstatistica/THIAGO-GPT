@@ -1,0 +1,157 @@
+# Análise de dados no Python - Gráficos no Matplotlib - Professora Fernanda Santos
+
+- **URL:** https://www.youtube.com/watch?v=v2L37vM-3IE
+- **ID:** v2L37vM-3IE
+
+## Transcrição
+
+olá pessoal voltei para darmos
+continuidade a um nosso assunto de pai
+de um painel de dados
+a terceira aula demorou um pouco mas
+voltamos aqui pra mostrar pra vocês como
+criar algumas visualizações com o python
+já construímos algumas análises e agora
+vamos criar alguns gráficos aí para é
+visualizar melhor esses dados mas antes
+de começar a criar o primeiro gráfico
+queria mostrar um método que ainda não
+foi mostrado anteriormente que método e
+sylvian caos
+como é que esse método funciona eu já
+criei aqui o nosso a nossa variável df
+já ali à nossa planilha excel é o
+conjunto de dados que a gente está
+utilizando é o mesmo da aula do está
+então quem acompanhou em aula 2 pode
+fazer no mesmo notebook e qual o método
+que a gente utilizando que eu vou dar um
+df
+vou pegar a nossa comunhão na rocha a id
+e vou passar aqui o velho cox
+eu quero que esse método nos trouxe ele
+foi lá e nos conjuntos de dados e contou
+para a gente conta as vendas cada
+cada loja realizou até aqui a gente tem
+uma vida loja correto então aqui o que
+foi que ele fez ele foi lá e viu quanto
+às linhas eu tenho a loja 10 37 enquanto
+as linhas eu tenho uma das 36 enquanto
+as linhas eu tenho 10 35
+então foram 398 na 10ª e 7 103 na 15ª e
+6 1 em apenas 7 a 10 35 então devem se
+encontrar aí muito bem é isso as vendas
+fernanda eu gostaria de visualizar a
+informação em um gráfico tem como vamos
+colocar essa mesma informação geográfico
+como funciona
+primeiro vou passar aqui esse código tá
+nos placar logo em seguida mas adianta
+explicar então vou botar que metem
+plotter livre online e aqui a gente vai
+eu vou copiar esse código aqui de cima
+contra você
+vou colar aqui
+vou passar o que vou passar um ponto
+potter
+ponto 1 bar mudar o chip em ter e ele
+vai criar aqui o nosso gráfico então ele
+criou pra gente o gráfico de barras e o
+que foi que ele fez aqui foi que a gente
+fez aqui a gente apenas passou prótese
+que seja plot pra mim um gráfico de
+barras
+o bar e um cara que quer dizer e se mete
+potter we met ball club online
+eu apenas estou dizendo para que o
+gráfico ou seja criado aqui dentro do
+meu notebook pra quem não pra que não
+seja criada uma outra janela entraram
+pra que eu gravo seja mostrado aqui no
+notebook que estamos utilizando a gente
+utiliza esse percentual médico antonio
+belini certo fácil criar um gráfico com
+python é mesmo
+vamos agora criar um novo gráfico
+digamos que a gente queira criar um
+gráfico de barras horizontal como é que
+a gente faz novamente vou passar aqui o
+médico o telê de online e aqui embaixo
+vou dar um control v é o mesmo código
+está e qual é a diferença agora eu vou
+passar aqui ponto prótese ponto ba h
+embora hd barra horizontal simples assim
+e o gráfico de barras horizontais foi
+criado é com relação ao gráfico de
+barras horizontais podemos passar o
+parâmetro é sine em nosso método radical
+descontrol pra que ele retorne nossos
+dados ordenados do maior para o menor
+como é que a gente faz isso
+eu vou apenas copiar aqui esse gráfico
+colatina linha de baixo ea gente vai
+passar aqui dentro do velho em caos
+o parâmetro ascende a gente vai dizer
+que é tudo
+vou rodar aqui novamente e já temos o
+nosso gráfico do maior para o menor
+certo é simples
+o gráfico de pizza muito difícil também
+só que não vou dar um control c control
+v e no lugar do bar h
+a gente vai colocar pai está criado o
+nosso gráfico de pizza é agora vou
+mostrar como é que a gente consegue
+adicionar o título e alterá o nome dois
+eixos como é que a gente faz isso vou
+copiar que novamente o nosso código e
+dessa vez a gente vai passar um título
+para o nosso gráfico aqui ó
+no barco ou deixam de barras e aqui no
+parâmetro do bar
+a gente vai passar o quinto título então
+vai ser tartá então que o tempo todo
+esse gráfico vai ser total vendas hoje é
+de longe de certo ea gente vai colocar
+aqui embaixo que a gente vai colocar
+quem o eixo x master loja de então o plt
+ponto x lembo
+então o eixo x vai longe de o eixo y é
+total vendas então pl ter ponto x lembo
+total vendas certo vou aqui dá um chip
+center
+ele deu um erro é literal está definido
+que na verdade a gente tem que passar
+aqui ó suportar aqui é from liberty
+importe pai pronto é espelho e vê agora
+escrevi errado
+mete te mete próprio lippi
+agora sim então o pnlt é do pai pilote
+tá então a gente vem aqui o o título do
+nosso gráfico total vendas por loja de o
+eixo x loja haidê x lembo que ficou e xx
+aqui é yy embu e chukchis loja haidê
+eixo y total vendas
+então conseguimos aqui com poucas nesse
+código acrescentar um título alterará o
+nome do eixo x e o nome do eixo y é eu
+quis mostrar que um pouquinho da
+biblioteca mete protele be existem
+outras bibliotecas para criação de
+gráficos que a gente pode estar
+utilizando é junto com o pai então tá te
+rá assim born aí tem a placa que dá pra
+fazer gráficos interativos
+então esse é só um pouquinho de como
+construir gráficos ali quando a gente
+está fazendo nossas análises
+exploratórias e queremos visualizar
+essas informações em um gráfico então
+daqui como construir um gráfico de pizza
+um gráfico de barras um gráfico de
+barras horizontal como colocar um título
+então essa é a parte de visualização que
+eu queria mostrar pra vocês pessoal tá
+bom qualquer dúvida pode deixar aí nos
+comentários que a gente responde
+até a próxima

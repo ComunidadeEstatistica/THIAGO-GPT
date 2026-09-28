@@ -1,0 +1,325 @@
+# Como se livrar das caixas pretas e ter mais confiança nos modelos - Prof. Vinícius Galvão
+
+- **URL:** https://www.youtube.com/watch?v=X8olIhUUiT4
+- **ID:** X8olIhUUiT4
+
+## Transcrição
+
+o pessoal aqui é o vinícius recebeu a
+missão do professor thiago e da aula
+aqui pra vocês sobre martin land na
+saúde
+e eu pensei muito sobre o que exatamente
+ele é focar nessa hora tem que pensar o
+que mais impactou nesses últimos anos
+aqui tem contato com o projeto
+imaginando a saúde
+inegavelmente uma situação que eu passei
+eu digo aos meus projetos que eu fiz um
+projeto de iniciação científica
+o objetivo era testar modelos imaginou
+em para auxiliar o diagnóstico a
+vitalidade ea e eu lembro que eu testei
+várias modelos está super empolgado com
+o fato de que a gente pode passar dados
+para origem ele retornou à saída sobre
+sua resposta e agentes da rodagem de
+espectroscopia óptica então passar dados
+pra lá bonito e ele retornou a resposta
+do estatuto pa com alta por aqui pra mim
+é uma coisa incrível e eu achava que eu
+tinha feito um negócio muito massa e tal
+até que certo dia não apresentam esse
+trabalho não se pode não ver essa galera
+tá na boca e uma de que tal assistir à
+apresentação e perguntou qual era o
+comprimento de onda que tenha maior
+relevância o processo de classificação
+só para contextualizar melhor vocês eu
+tinha intensidade de luz em casa o
+comprimento de onda como os chips dos
+atributos está desculpado com a resposta
+e eu realmente não sabia quais o
+comecinho da quais áreas de espectro que
+foram mais relevantes na classificação
+daquelas por vegetais e desde então
+fiquei muito atento e com muito
+conhecimento e foquei muito minha
+atenção e não somente o combem o meu de
+limache no topo formando mas também um
+etapa tentar se livrar o máximo possível
+dá a sensação de black box nessas caixas
+pretas e entender mais detalhadamente o
+que modelo estão levando em consideração
+o momento em classificação por exemplo
+início na área de saúde foi uma das
+coisas que mais vence e essa necessidade
+de interpretar este modelo
+principalmente vinda de profissionais de
+saúde ea verdade é que muitas vezes na
+área da saúde
+os dois modelos não gostei os que têm
+melhor taxa de acerto mas sei que têm um
+alto grau de não ter portabilidade e
+simplicidade
+agora tem que imaginar que você
+aproveitar o tempo livre para tentar
+prever um de três amigos vão passar as
+férias com base em dados do que ele vem
+compartilhando porquinho nas redes
+sociais dele
+então se nós precisamos porém muito bem
+precisas pois a lei vão achar o máximo e
+tal vamos perguntar como é que fez isso
+é aquela coisa toda porém se ele não
+estiver errado e sim tá ligando nem
+ninguém
+o máximo no rio mas enfim agora digamos
+que eu queira desenvolver uma solução
+para auxiliar o diagnóstico do câncer de
+próstata por exemplo o que aconteceria
+se tem previsão de 10 encerrado é nesse
+caso poderia custar qualidade de vida do
+professor que só a vida dela então a
+real é que desde que o modelo não tenham
+todos um impacto significativo ao
+interpretar a validade dele não importa
+tanto
+mas quando existem implicações
+envolvidas com base na previsão de um
+modelo como em vários casos da área da
+saúde e à integridade se torna essencial
+e assim muita gente acaba rotulando o
+modelo de mais renome como caixas pretas
+no sentido de que a gente embora ele
+possa fazer previsões precisas aí
+consegue explicar muito bem o quê ou
+identificar claramente a lógica por trás
+dessas previsões ea minha intenção nessa
+hora exatamente a gente saiu um pouco da
+sua zona de ganhos assim então as
+perguntas que pretendem responder
+através dessa aula é como extrair
+informações do modelo e quais
+ferramentas a gente pode usar para fazer
+isso quando a gente consegue interpretar
+melhor o modelo imagine a gente consegue
+saber ea gente consegue ter mais
+confiança no modelo a gente consegue
+direcionar melhor também uma futura
+coleta de dados
+além da ciliar muito mais a tomada de
+decisão do profissional de saúde então
+quando a gente vai interpretar um modelo
+a gente vai atrás de algumas informações
+por exemplo quais atributos do modelo
+então sendo mais importante a fazer uma
+previsão com o efeito de cada tributo
+nossa previsão e qual é o efeito de cada
+tributo e um número maior de previsões
+ea gente tem essas informações em mãos a
+gente consegue vai ter facilidade nosso
+modelo para outro nível beleza então
+deixa apresentar pra você
+os técnicos algumas ferramentas que
+ajudam a atrair as informações eo modelo
+mas antes disso deixa eu apresentar para
+vocês aqui
+o data certa gente vai utilizar não dá
+certo e quem mandou não pego sobre o
+câncer de próstata então não é sempre
+que mostrar pra gente conseguir voltar
+rápido aqui e focar muita gente
+realmente quer aprender que é exatamente
+focar na impossibilidade do modelo já
+deixou ainda a céu aberto aqui já
+separou de dados em conjunto em treino
+conjunto teste também então beleza já
+tem aqui o modelo andou forte pra se faz
+o saque de lorenzi
+agora a gente já pode partir para as
+técnicas que têm probabilidade as
+ferramentas que quer apresentar para
+vocês
+a primeira técnica que eu quero
+apresentar eu perguntei joão tota é uma
+técnica para calcular a importância do
+tributo
+isso é bastante útil para a gente ver
+quanto o nosso modelo está produzindo
+resultados quatro indivíduos ou
+promocional professor na saúde quando a
+modelo está funcionando exatamente como
+a gente esperava essa importância da
+permutação é calculado após hoje modelo
+você usa ela dessa forma aqui
+aqui pessoal utiliza um método ppt
+muitos retoques passando o modelo for o
+caso
+utilizando a série relatório a 0 ao
+mesmo tempo de ajustando o nosso
+conjunto de testes teste e só um teste
+bom
+depois a gente teria esse método aqui
+pra conseguir visualizar os pesos das
+fitas tornou a gente passa o objeto tem
+com o primeiro parâmetro depois os nomes
+das fitas bom e como a gente está usando
+esquis atribuída a terceira comunidade
+onde a gente vai estar usando essa
+anotação aqui em 2008 está bom dois
+pontos e possuem a gente tenha uma meta
+do lixo pra transformar isso em uma
+lista com os nomes dos atributos
+hoje quem quiser tomar aqui uma tabela
+com o peso de cada filho veja que esses
+atributos aqui e com capacidade diária e
+permita nós fizemos que tiveram maior
+peso o tratamento de interpretação do
+modelo bastante interessante é o gráfico
+de dependência parcial ele mostra o
+efeito marginal que um atributo tem
+sobre o resultado previsto e modelos
+machine ou seja como o atributo afeta as
+previsões ea gente pode utilizar da
+seguinte maneira
+bom galera aqui o importante é que a
+técnica necessária depois eu tenho mais
+o pdt fez o leite é passando modelo
+depois dá certo e depois os nomes de
+filhos
+por fim a fim de que a gente quer
+analisar em seguida a gente usa o método
+petróleo passou no objeto pdt área e o
+nome a área como parâmetro bom
+por fim ele teria matado show provisória
+na gráfica e aqui analisando nosso
+gráfico é que veja que o eixo y
+representa mudança na previsão do valor
+que seria previsto da linha de base e
+essa área jurídica o intervalo de
+confiança
+então por exemplo gráfico da área a
+gente vê quanto maior a área maiores
+chances nesse tumulto essas alas e
+maligna bom é a última ferramenta que eu
+quero apresentar para vocês e pra mim é
+mais legal é o chato vale
+o chato que significa chapa deve ter é
+que planejam ele ajuda detalhar uma
+previsão e mostrou o impacto que cada
+tributo teve na previsão ele pode ser
+calculado tranquilamente com a
+biblioteca chap chap paulo ele mostra o
+quanto cada tributo e influenciou em uma
+determinada previsão em comparação como
+se a gente fizesse uma previsão no valor
+base e determinado tributo
+então digamos que a gente quer saber se
+a célula maligna e quanto cada tributo
+influenciou trás em outro lada uma
+maligna ou numa lei
+a gente pode usar o chato vales na
+seguinte maneira a gente em volta do
+hotel kasha
+normalmente comecei a importância da
+biblioteca
+eles esse método aqui iniciar em seguida
+a gente passa nos modelos prometem uti e
+ex plena
+neste caso em específico a gente tá
+passando próximo de sua trajetória
+quando fora a gente calcula shop vales
+usando o objeto é plena
+ele tem um método chamado de chato vale
+que a gente precisa passar os dados em
+treino pra ele
+em seguida a gente já pode visualizar um
+gráfico usando métodos por si própria e
+aqui a gente está calculando a
+probabilidade na primeira mão desse da
+classe 1 beleza ou seja calculada a
+probabilidade da primeira célula maligna
+e aqui com mais força a gente vê que o
+valor base da probabilidade dessa sala
+sem maligna era de aproximadamente 54%
+eo atributo área de mil e uma
+disponibilidade e 54 cento para 34 por
+cento mais ou menos
+já outro um atributo perímetro diminuiu
+essa probabilidade de 34 9% eo atributo
+compacidade diminuiu essa oportunidade
+para 1%
+então se a gente vai criar uma aplicação
+a gente poderia utilizar esses atributos
+e valores
+aí como justificativa para a resposta e
+modelo não visualizar a probabilidade da
+segunda sala sem uma linha agora
+para isso a gente precisa ter a esse
+índice aqui
+aqui novamente deixa que o perímetro a
+área ea complexidade por exemplo embute
+que mais aumentaram a probabilidade na
+sala semana linha gente consegue
+analisar as previsões pra todos exemplo
+por com isso a gente consegue ver por
+exemplo que a área acerta o valor de
+saída já que no eixo y ele nos traz a
+probabilidade de dentro da tradição o
+tumor maligno
+então a gente pode selecionar a área e
+por exemplo e já que quando a área passa
+de 600 e mais ou menos poderia ficar
+muito mais convencido em que o tumor
+maligno
+a gente pode analisar filmes mais
+importantes
+usando mais a lucimar plot
+neste gráfico a gente tem que acorre
+apresenta uma luta difícil
+então por exemplo quando o valor da área
+menor ele azul quando vai mudar é maior
+ele é rosa e no eixo x ele traz impacto
+da filha no modelo para o lado direito e
+empatou o momento há chances e maninho e
+provar da esquerda diminui as chances de
+ser maligno
+por exemplo a fitch área é bastante
+relacionada com as chances de ser
+maligno ou benigno hoje aqui na sua
+maioria com a fita de área da rosa ou
+seja quando a rede tem um valor alto
+modelo gosta de jogar propriedade do
+exemplo de cima lei pra cima já começar
+a reter mais baixa em geral modelo joga
+com a habilidade de maliki pra baixo
+a gente pode analisar os atributos
+individualmente utilizando o método deve
+a eles próprios um pode fazer dessa
+forma
+foi com esse gráfico aqui a gente
+consegue observar que se a área está um
+pouco mais de 700 mudança bem confiante
+ele pode aumentar a probabilidade de ser
+classe c da próxima linha ea gente
+consegue visualizar um padrão bem claro
+de como estava o clima influencia na
+probabilidade de que seja próxima linha
+ele pode analisar ainda dois atributos
+de uma vez alterando esse parâmetro aqui
+terá que unem bom já que não só o valor
+de área maior da propriedade maior
+cidade próximo à linha esse gráfico a
+gente consegue observar também essa fita
+com relacionada com o perímetro enquanto
+a área quando benítez são altos
+exemplos que o modelo atribui uma maior
+probabilidade de ser da classe marina
+não é especial espero que com essas
+ferramentas conseguiram cada vez mais se
+livrar dessa sensação de caixa preta dos
+poderes machine e fazer com que você
+consiga interpretar cada vez mais que
+está acontecendo por trás das posturas
+ser modelo

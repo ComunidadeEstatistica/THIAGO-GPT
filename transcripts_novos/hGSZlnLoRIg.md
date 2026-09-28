@@ -1,0 +1,1348 @@
+# A arte da engenharia de dados - David Braga (Head IBM e Maestria dados)
+
+- **URL:** https://www.youtube.com/watch?v=hGSZlnLoRIg
+- **ID:** hGSZlnLoRIg
+
+## Transcrição
+
+G1
+o Opa boa noite pessoal
+nós estamos ao vivo aqui no Instagram
+e daqui a pouco eu vou receber aí um
+grande amigo meu né Professor David
+Braga aí você tiver em conhecê-lo está
+te dado Não é sério para caramba aí de
+engenharia de Darwin né a Playlist lá de
+tudo que tem de engenheiro de dados lá
+do do estatidados né aí primeira
+playlist foi a dele né e ele é um
+profissional que referência né trabalha
+na IBM né no assunto então realmente é
+um cara qualificado aí para gente ir
+tratar do assunto tá e a gente vai
+conversar com ele daqui a pouquinho tá
+ele vai entrar aí ó ele já tá aqui eu
+vou pedir para que você solicite aí
+David para entrar aqui no papo com a
+gente por favor
+e vai aparecer uma opção aí para você
+entrar no papo você de dar uma olhada aí
+solicitar como participante alguma coisa
+dessa natureza eu vou ver aqui se eu
+consigo te chamar como aí é
+I Just Can't
+e quais são ele tinha
+G1
+Me aceita aí por favor
+E aí
+eu vou guardar aqui para você dentro tá
+tentando entrar aqui
+E aí
+O opa neuro onde são esses caras são
+feras o grupo A uship sensacional
+e olha aí agora tá chegando aí
+o mestre desde Braga
+Oi e aí rapaz como é que você tá ir aí
+Olá pessoal tudo bem limpa e entrar aqui
+no tudo certinho como é que você tá
+tempão aí rapaz tudo bem cara eu tô com
+uma dificuldade para entrar pelo para
+entrar pelo notebook da estranho não não
+mas notebook não entra mesmo não só
+entra pelo pelo celular a minha vez
+conhecimento da tranquilo só entra pelo
+celular mas dá para dá para você
+assistir por lá né mas entrar só com só
+pelo celular mesmo tá aí se eu confundi
+aqui tranquilo ó
+a beleza pode podemos começar o Tiago já
+escuto falar muito prazer né eu aqui
+conosco não gostei de fazer um estranho
+ao cargo sair que aceitaram o primeiro
+né vira a ideia do estatidados e
+acabaram aceitando né para fazer fazer
+vídeo tal tá queria te agradecer né por
+isso hoje a gente está aí com mais de 20
+mil inscritos no canal né mas no início
+não tinha bem mil né você aceitou lá
+participar então brigado mesmo legal se
+eu sei que você é um cara que por domina
+né esse mundo de dinheiro de dados e a
+gente vai falar porque sobre isso também
+né lá no Linkedin ouvia três artigos né
+e tal ficar muita qualidade nos três
+artigos né e eu sei que te entendo muito
+desse GAP né na
+e na comunidade como um todo da parte de
+engenheiro de dados né Eu fui lá entrei
+lá na vai né para matizar nessa carinha
+preta lá dos parques pele eu percebia
+essa e seguir é pequeno então tá queria
+que você falasse um pouquinho aí né
+primeiro se apresentar e pra galera né
+obviamente e para a gente falar um
+pouquinho aqui de engenheiro de dados
+que que vencer isso né do que onde vive
+como é que se alimentou então por favor
+fica à vontade aí próximo falar um
+pouquinho para gente nem como é que você
+entrou nesse mundo de realidade por
+favor beleza a todos aí viu Agradeço o
+convite viu Tiago primeiramente eu acho
+que tudo que a gente faz hoje é
+compartilhando agregando valor a gente
+está fazendo para um retorno para nós
+bom então se a gente quer evoluir a área
+quer evoluir algum algumas coisas é que
+acontece que é melhorar realmente a
+qualidade de onde a gente trabalha a
+gente tem começar por nós mesmos né
+quando você me convidou lá atrás eu
+lembro que eu também tinha uma certa é
+um acanhamento né de aparecer em vídeo
+de gravar uma aula a gente começou aos
+pouquinhos pegando comprando um
+microfone fazendo algum preparar e
+tentando aprender né qual que era melhor
+forma de suportar Então eu acho que é
+uma evolução é gradativa então é uma
+coisa continuar essa troca é o que faz
+toda a diferença né é respondendo essa
+pergunta pessoal meu nome é David Braga
+é trabalha Atualmente como
+Engenheiro/arquiteto de soluções né
+então é navego a em diversos cases do
+mercado têm o privilégio de estar sempre
+à frente de projetos grandiosos projetos
+inovadores dentro da IBM eu tô
+conhecendo também O mundão de
+as coisas né então é hoje o mercado
+realmente demanda muita coisa demanda
+muitas soluções de modo muito
+profissional perfil a gente tem uma uma
+uma certa é a gente vive tempo Zé de
+revolução né nunca tecnologia foi tão
+integrada em todas as áreas de
+conhecimento né que a gente tem aí tá
+tecnologia totalmente diferente né é
+dentro da área de saúde dentro da área
+de seguros dentro da área é da de
+diversas indústrias né então a gente
+consegue enxergar tecnologia em todos os
+lados e essa evolução e essa integração
+da tecnologia é trouxe aí é por meio do
+Big Data né que foi um dos caras que que
+mudaram aí tipo foi um divisor de águas
+dentro do mercado né criaram-se a partir
+do Big Data diversos perfis novos de
+trabalho diversas tecnologias diversas é
+novas integrações então Universo de
+Oi Adilson bastante né Eh também entrou
+após isso a Cláudia que impulsionou
+trouxe velocidade trouxe todo um
+compliance todo mundo suporte aos quais
+se de arquitetura né então a gente vê aí
+toda essa evolutiva entrando para entrar
+algumas algumas coisas chamada como
+transformação digital né é todo um um
+bom aí de estratégia de dado acontecendo
+Outra lei que Delta lei que é Lake House
+diversas terminologias acontecendo por
+meio também de ferramentas e agora a
+gente tem aí a ponta-de-lança aí que é o
+nosso data Science né que tá trabalhando
+forte aí que muita gente é está buscando
+essa área muita gente as capacitando
+outros migrando outros é se
+especializando né então a gente tem a
+navegação aí em tantos em tantos tantos
+perfis em tantas funções né e tudo a
+gente tá olhando para dados né então
+olhando para dados a gente tem realmente
+um oceano de coisas para fazer uma
+grande é maneira de evoluir né
+Oi e eu assim porque eu vejo no mercado
+tem a nível de greves eu acho que ainda
+é também por conta dessa dessa transição
+né a gente vive uma transmissão de
+muitas tecnologias não suportarem é aí
+você deve decidir existe uma defasagem
+no suporte ao negócio né o negócio
+normalmente é o que demanda a é o que é
+o que traciona todas as estratégias de
+dados do mercado Então a partir do
+negócio a partir do cliente né a partir
+do cliente de como abordar o cliente de
+como melhorar os serviços para clientes
+o negócio começa a se mexer e aí isso a
+gente tem investimentos em tecnologia
+temos investimentos e arquitetura
+investimentos em novos perfis em
+profissionais expertises então é é um é
+um jogo que a gente geralmente a gente
+sempre olha para aquelas para aquelas
+empresas que estão mais avançados estão
+inovando trazendo boas práticas né
+bom então eu vejo esse GAP o corpo ainda
+dentro dessa transição Por meio dessa
+grande revolução que a gente está
+vivendo o Big Data para as acertando
+agora Digamos que a gente teve aí 10
+anos de evolução com Big Data para as
+pessoas conhecerem saber aplicar é um
+perfil de desenvolvedor passou a ser
+conhecido como o perfil de engenheiro de
+dados né por conta da grande quantidade
+de tecnologias Então temos aí é algumas
+algumas coisas acontecendo no mercado né
+em diversas áreas muitos profissionais
+estão se mexendo então estamos
+capacitando estão buscando é conhecer
+não somente mas a sua própria área mas
+tudo bem entender um pouco das suas
+Áreas é com relativas né então eu acho
+que o GAP está um pouco e acompanhar
+essa velocidade para poder suportar
+essas essas estratégias que o mercado
+pede né E aí a gente entra então né
+evoluir para câncer têm direito Tens
+alguma inicialmente não tem jeito você
+também exatamente
+o show de bola então a engenhosidade
+permeiem todo Sportline que você falou
+né mas eu queria que você detalhar um
+pouco mais para gente como é que a gente
+trabalha com isso né como é que é desde
+na parte da governança com a onde é a
+parte do engenheiro de dados tem que
+estar em consonância com a dizer perder
+como é que funciona tudo tudo essa ideia
+né Por gentileza Vou tentar responder de
+forma um pouco é modularizado Tá certo e
+meus tempos de desenvolvimento tá tempo
+atrás eu lembro bem que desenvolvimento
+era receber um documento de
+especificação técnica dessa era muito
+massa era muito popular é uma coisa
+muito comum e se fazer antes antes a
+gente trabalhava com algumas
+metodologias por um né algumas coisas
+então dentro dessa metodologia a gente
+tinha todo um contato com alguns Alguns
+analistas de negócios né trazia vai
+fazer aquisições do lado do negócio
+então tira o desenvolvedor né ele não
+tinha ele não enxergava é
+a nível organizacional representa
+trabalhava eu trabalhei diversas
+empresas eu não lembro de nunca ter
+visto um é uma estratégia de dados o
+desenho de estratégias dados o desenho
+de uma modelagem o desenho de uma
+arquitetura de dados então naquele
+naquele período Eu lembro que tinha uma
+certa segregação de profissionais e de
+funções então o desenvolvedor ele
+recebia essas esses requisitos né e
+tentaram implementar aquilo que
+normalmente trabalhando com uma uma ou
+algumas linguagens é e algum banco de
+dados específico então não tinha um uma
+grande variedade de tecnologias é não
+existia também uma certa necessidade um
+foco muito grande em cima de governança
+normalmente existiam sem padrões a
+seguir a se a seguir né É como
+implementar da melhor forma boas
+práticas sempre foi uma preocupação né
+do mercado em cima como um todo mas aí a
+gente entrou nesse universo mais de
+engenharia de dados de como trabalhar o
+dado já
+e hoje o engenheiro de dados ele tem até
+um perfil um pouco próximo de um
+arquiteto porque é Embora tenha um
+funções diferente mas o engenheiro
+precisa conhecer toda a solução onde ele
+vai vai trabalhar né então quando começa
+uma solução normalmente as empresas elas
+elas fazem um desenho de solução então
+elas têm um Cabedal de ferramentas eles
+têm uma quantidade de ferramentas
+específicas E aí eles eles desenham né
+para algum alguma regra um modelo de
+negócio alguma atender alguma alguma
+coisa alguma coisa específica do negócio
+e desenham sintam uma solução a partir
+dessa solução a gente tem uma interação
+muito forte entre o arquiteto de
+soluções é analista Sênior é que vão
+definir isso junto com o arquitetura
+após a gente ter essa arquitetura
+definida desenhada é estruturado todas
+as ferramentas que melhor vão suportar
+alguns parte Lines que é esperado né aí
+começa o trabalho engenheiro de
+e ele começa a olhar para essa
+arquitetura que foi definido esse
+desenho de solução foi definido e começa
+a entender quais seriam as tecnologias
+que que ele vai ter que atuar Então a
+gente tem noção o primeiro a parte do
+arquiteto né ele vai fazer o que
+exatamente ali eu tô falando assim
+Digamos que seja uma demanda um pouco
+mais organizacional não é uma coisa um
+pouco mais Marco né a gente está falando
+de uma demorada um pouco melhor
+normalmente a gente precisa entender
+quais seriam as ferramentas para
+trabalhar assim isso vai vai ser por
+exemplo quando eu tô tentando dar um
+exemplo onde eu consiga definir um ciclo
+de vida de um dado de ponta a ponta Onde
+eu consigo mostrar que a eu preciso
+criar um pai Pilar então desde a
+ingestão até a disponibilização do dado
+então Normalmente quando a gente a gente
+está trabalhando na nova solução uma
+nova arquitetura o novo fluxo de dados a
+gente precisa entender uma solução Quais
+são as ferramentas que integram essa
+solução
+bom então dentro disso eu vou entender
+quais seriam as ferramentas que eu
+preciso aplicar ou então quais seriam
+pega o formato né definido para
+desenvolver scripts para desenvolver
+integrações para ingerir esses dados né
+então eu tenho para nesse primeiro nesse
+primeiro momento que conhecer qual seria
+as tecnologias de armazenamento que eu
+vou trabalhar entender um pouco da
+arquitetura que vai ser definida para o
+dado né onde eu vou conseguir é
+estruturar é o dado o começo do pai que
+line e definir desenvolver essa primeira
+parte de ingestão Então vamos pensar que
+a gente precisa quebrar um fluxo o ciclo
+de um ciclo de parte Line em três partes
+vão olhar para ingestão o processamento
+EA disponibilização falando de ingestão
+a gente tem aí é um ciclo Inicial que a
+gente pode integrar por meio de
+tecnologias por meio de scripts por meio
+em alguma mecânica que Já exista né
+então o que que acontece quando a gente
+começa a onde que entra também um pouco
+da governança governança ela é uma ela
+seria uma área né que teria o papel de
+recomendar né E já foi ar de sugerir as
+melhores práticas a seguir ela não vai é
+como se fosse uma regulamentadora né ela
+não vai tava trabalhando em conjunto
+contigo ali na hora desenvolver
+normalmente sair seria uma uma área de
+gestão né gestão de governança então
+assim abstraindo disso a gente tem toda
+uma boa prática quando um engenheiro
+pega um projeto por vai iniciar um
+projeto ele precisa entender o complice
+daquele pai de Line se aquele pai pela
+qual vai ser a velocidade qual vai ser é
+o a ao tem algumas de algumas premissas
+aqui precisa entender eletricidade
+volumetria latência tecnologia
+integração Então existe algumas
+perguntas são respondidas no começo
+desse da criação desses parte Lattes
+e definiu-se isso vamos ter algumas é
+outras coisas a responder então qual vai
+ser a tecnologia a utilizar qual vai ser
+a linguagem a utilizar qual vai ser o
+banco de dados quatro como vai ser as
+fontes que a gente vai consumir integrar
+esses dados para fazer essa ingestão
+para fazer essa essa movimentação de
+informações né então a gente tem aí é no
+primeiro momento toda a definição dessas
+ferramentas de integração de importação
+scripts que possam estar integrados com
+o banco de dados para fazer o consumo né
+é um por exemplo Esse foi estranho a
+gente tem Spark streaming meu toca toda
+a gente vai precisar de um data Lake
+House e a gente assim da dentro da
+arquitetura dentro da solução definida o
+primeiro a primeira primeira coisa que a
+gente tem que olhar é qual vai ser essa
+tecnologia de armazenamento né Então
+essa tecnologia armazenamento ela vai
+definir como eu vou
+as melhores cidades como eu vou
+engenhariaengenharia cidade qual vai ser
+os formatos que eu vou navegar esse dado
+né então se dependendo se eu tenho um
+pai Pilares aqui que ele vem formato
+não-estruturado via streaming via o
+barramento de um barramento de eventos
+pagamento de mensageria eu preciso
+estruturá-lo no formato tabular para
+carregar tabelas best boys por exemplo
+Então dentro de um ciclo como esse eu me
+preocuparia com uma com arquitetura de
+dados que suporte né essa essa essa
+disponibilização na velocidade correta
+né então poderia ser nesse caso um banco
+de dados é um banco de dados não se com
+um banco de dados comum né Hum hum raive
+um história de da vida e a gente
+engenharia essas informações de script
+ouvir as tecnologias então o primeiro o
+primeiro ano parte desse esse ciclo do
+dado seria essa parte da ingestão a
+gente tem algumas preocupações a nível
+a latência a nível de integração entre
+ferramentas Talvez o Tânia utilização
+entre essas ferramentas de ingestão Se
+isso for integrado os scripts
+desenvolvimento né e a uma linguagem que
+a gente se preocupe com todos os objetos
+que essa linguagem vai compor né se a
+gente está trabalhando com objetos de
+memória se esses objetos e memórias não
+suportar toda a volumetria trafegado aí
+nessa gestão então tem vários quilos e
+quiser que a gente entra um pouco no
+viés de engenharia de software nesse
+primeiro momento né E também um pouco o
+conhecimento mais profundo de
+tecnologias para poder entregar a melhor
+a melhor integração possível nessa
+solução né E aí a gente trabalha esse
+essa configura né é desenvolve esse
+scripts e e fecha a primeira parte da
+injeção então Digamos que a gente
+definir o que seria um script Python um
+recurso de Spark fazendo fazendo um
+fazendo integração Extreme
+a rede social como Twitter e aí eu crio
+todo além cagem desse script entre a
+rede social faço autenticação faço todo
+o download das formação todo é a
+integração da informação e armazenando
+isso no banco de dados possível por
+exemplo tá E aí a gente começa a ter um
+pai pe Line é já funcionando as próximas
+etapas serião serião se por exemplo aí
+eu tenho a ingestão pronta digamos isso
+Só que essa informação ela não tá no
+formato consumível ela não tá no formato
+é tão fácil de ser manipulado o
+ferramenta de front-end ou para o até
+mesmo para relatórios ou para alguns
+consumidores uma área de ciência alguma
+coisa do tipo então a gente precisa
+trabalhar essa informação né estrutura
+ela é converter esse modelo
+semi-estruturado né de ingestão inicial
+para o modelo mais estruturado E aí é
+onde entra a grande sacada de data Lake
+Delta leite que pode ingerir diversos
+formatos diversas fontes diferentes
+a coisa a gente consegue Navegar por
+meio de camadas essa informação Então eu
+tenho uma camada de dados brutos né
+Inicial Depois eu vou para uma camada de
+dados refinados onde eu já tenho essa
+essa essa essa estruturação do dado né
+então eu saí de um dado semi-estruturado
+convertir ele para tabelas Então já são
+Dados estruturados aplico algumas regras
+de negócio enriquecer essa informação
+qualifica a informação se eu recebi por
+exemplo um campo de um campo de CEP um
+campo de endereço um logradouro alguma
+coisa do tipo com muito espaço com assim
+com uma qualidade ruim a gente consegue
+sair antes essa informação Então essa
+transição após a ingestão é muito
+importante e é onde as empresas se
+preocupam bastante em aplicar tudo na
+fabricação de governança toda uma
+padronização de processo mesmo essa
+parte aqui firme né é assim quando a
+gente fala do clima Teoricamente a gente
+só tá sanitizando né Mas a gente pode
+ter muitas outras é
+Você pode ter uma etapa de centralização
+que a limpar esse dado remover
+caracteres especiais coisas do tipo uma
+segunda etapa poderia ser talvez a
+qualificação e estruturação informação
+talvez com uma modelagem um pouco mais
+mais limpa né talvez muda algumas coisas
+é sumarizar enriquecer Digamos que eu
+tenho alguma outra algum Campo que seja
+gerado por regra de negócio então uma
+área de negócio já pode aportar aí
+dentro nessas tabelas é esquecimento com
+alguns outros Campos com regras de
+negócio e aí eu vou ter algumas é muito
+utilizado aí está esquema coisas tipo as
+tabelas fatos né onde eu tenho diversos
+câmpus enriquecidos diversas coisas
+então é uma tá bellona que centraliza
+para mim todos os Campos Chaves
+determinadas entidades entendeu então me
+ajuda muito nisso então é aí também é
+muito importante ter um conhecimento a
+nível de arquitetura nível de modelagem
+entender é se faz sentido implemental
+a inteligência de negócios aí né
+Business intelligence sim é importante
+essa parte aqui é aí onde a gente
+Teoricamente O piá e ele vai entrar né
+ele vai entrar dentro dessa segunda
+camada né fazendo alguns trabalhos para
+a terceira camada normalmente a camada
+de disponibilização é onde eu tenho o
+meus data marts já estruturado né onde
+eu tenho tabelas organizadas tabelas
+agregadas tabelas é já prontas com meus
+indicadores meus piais aí para serem
+consumidos Então dentro desse cara é a
+transição a conversa do engenheiro de
+dados com a área de negócio fica muito
+quente fica muito forte aí nesse momento
+aí
+E aí
+o show de bola então você falou todo
+todo esse pepelaria não é isso é o mundo
+né E aí foi top tá tá começando na área
+né O que que você recomenda para essa
+galera é para começar a engenharia de
+dados né qual quais são os primeiros
+passos que se eu tenho eu tenho algum
+algumas algumas pessoas né que no
+decorrer aí eu sempre fui ajudando
+também fui aprendendo com elas né então
+eu tive tive o prazer de treinar algumas
+turmas de três meses na empresa que eu
+trabalhei até hein boa né É lá eles
+tinham um programa muito legal até hoje
+eles fazem esse problema explica mais
+bastante capacitador viu muito
+importante eu acho que hoje a saúde da
+tem bolsa é se renova a cada ano com
+esse programa eu vejo muita qualidade
+nisso e também do lado de outras
+empresas estão aqui bastante
+investimento nisso né então assim pé
+as pessoas eu sempre É consegui a
+perceber é uma certa tendência uma certa
+vocação para alguma algumas áreas tá
+quando a gente fala de engenharias tem
+muitas pessoas que elas vão entrar com
+todo um entendimento de aprender
+engenharia para suportar uma cesta de
+dados logo logo ou algumas pessoas
+querem ser Engenheiros mais dedicados a
+talvez a ao coisa específicas é falando
+as pessoas elas ainda não tem um certo
+entendimento do mundão de engenharia de
+dados que existe né do manual de coisas
+você pode fazer uma ideia de dados né
+algumas migram para a governança algumas
+ligam para qualidade algumas amigas
+então no caminho aí elas vão mudando um
+pouquinho mais quem gosta realmente de
+Aria quem quer se capacitar para ter uma
+para trabalhar com Mach Lane com essas
+coisas normalmente cai muito no universo
+de engenheiro mesmo né então para quem
+tá nesse mundo de engenharia eu vejo
+muito que é bastante importante como é
+uma base
+e é você ter um conhecimento de
+modelagem de dados é ao que não tem como
+é você conseguiu entrar você pegar um
+trabalho você desenvolver é qualquer
+processo e você não conhece é o mínimo
+lei da modelagem de dados né então A
+modelagem de dados eu não doido assim
+não necessariamente precisaria ser é
+conhecer é todos os conceitos né já está
+esquema tudo que o sabe muito bem mas
+você precisa entender o que que seu
+Charles ficção Campos qualquer estrutura
+de tabelas que estão entidades é para
+quê que serviriam a tabela temporária né
+uma esteja né como a gente utilizar isso
+em algumas mecânicas de atualização
+então que isso é bastante importante é
+modelagem de dados eu vejo é como um dos
+fortes né Desse conhecimento é uma coisa
+também eu não sei se isso é uma coisa
+que a pessoa já vem com ela não vem com
+ela não eu acho que é uma coisa a nível
+de prática mas o senso analítico Sempre
+buscar te ter deu uma
+a analítica do que você tá fazendo se
+você tá começou a fazer um trabalho é
+você tem obviamente igual sempre temos
+prazos curtos né as coisas são só um
+pouquinho corridas né no dia a dia de um
+vão uma empresa né mas assim sempre
+entender a fundo é qual que seria o
+propósito daquele daquela tu entrega o
+que que você precisa entender do negócio
+o que você precisa entender é a nível de
+integração de dados como você pode
+melhorar esses dados talvez sugeri
+talvez é otimizar aquela informação de
+alguma maneira né necessariamente você
+não precisa nem se preocupar tanto com
+tecnologia aí você só precisa olhar para
+o gado entendesse aquele ditado quando a
+gente falou perguntar ser utilizado tem
+muito Muitas etapas que são coladas por
+conta de dar mais trabalho porque porque
+o cara recebeu uma mostra e fez um
+trabalho mas para as próximas amostras
+outros dados que vão chegando quando
+esse esse quarto antiga produtivo já vai
+acontecer algum problema alguma coisa
+tão importante talvez conhecer o padrão
+do banco conhecer como
+em pó também tá essa parte analítica é
+bem importante também né e por outro
+lado e outras coisas estão chegando
+agora a gente tem que o áudio chegando
+então Cláudia um mundo de coisa é
+importante você está próximo de
+tecnologia que fazem parte do dia a dia
+de um jeito de dados mas tá falando aí
+de no circo é de Stories está falando aí
+de ferramentas é para processamento de
+dados né como Blue como algumas outras
+coisas da WS da Google da é dele eu não
+vou ficar muito as ferramentas aqui tu
+acha que vai ficar meio confuso Tá mas
+assim existe e sempre existem um corte
+ferramentas que são as bases de todos os
+dias de dados trabalhar tá então você
+precisa hoje é bem importante conhecer
+tá muito todas as soluções estão usando
+muito tá Pai com Tá bastante importante
+no mercado né então você conhecer pai tu
+conhecer já deu já te dar um muito
+expertise bastante avançado claro que a
+gente fala conhecer eu que vim
+desenvolvimento vem de aprendendo
+linguagens né não é uma curva
+há muitos e muito curta né é uma coisa
+que a gente precisa talvez é investir
+realmente um tempo porque vai falar vale
+a pena e vai te embasar em diversas
+outras coisas essa esse conhecimento de
+linguagem esse conhecimento de
+modelagens conhecimento analítico é o
+que forma Teoricamente é é o que foi o
+que eu vejo é formar bons profissionais
+né porque aí entra a curiosidade entre
+algumas coisas mais relativa soft Skills
+né E também ser um bom ouvinte tá não
+sei se isso é um mais um bom vídeo é
+importante a gente tem muitas é Fontes
+hoje ainda bem que o YouTube aí é nós do
+meu lado do seu a gente está fomentando
+aí é canais gratuitos canais de
+informações do então é a gente tem muita
+fonte o que eu acho que faz um pouco de
+diferença para aqueles caras que
+destacam eh eh os que cura o melhor sua
+informação e o que aplicam melhor então
+Os caras a gente Ele tem muita coisa a
+gente não é muita coisa tem curso demais
+aí para fazer mas na hora de a gente
+colocar em prática que a gente conhece
+a diferença na hora que chegar na tua
+mão uma solução fala assim olha eu eu
+não recomendaria isso recova então esse
+ponto é importante para quem está
+começando se preocupe muito com essa
+base né com essa base é para conhecer
+vai ter um momento que quando essa base
+começar a ser formada vocês vão saber
+até selecionar melhor esses curadores de
+informações que vocês vão ter né então
+isso é bastante importante por YouTube
+materiais que na sua caminhada você
+utilizou quem você teve tem uma
+dificuldade de encontrar material de
+qualidade como é que foi isso olha a
+cara da minha não sou tão velho né Eu tô
+com 32 Mas eu achei quando eu comecei lá
+atrás eu comecei com o toda a plataforma
+da Microsoft era ele trabalhava só com
+muita soft na época trabalhava como
+desenvolvedor coisas tipo web né
+trabalha com sete web aí o que que o que
+o que eu vi as muito alimentação era
+como aprender java script aprender essas
+linguagens é um pouco mais Web mesmo né
+É É para navegador fazer toda essa
+integração aí entre sites coisas do tipo
+e naquele naquela época começou a surgir
+algumas comunidades de cuire é o dia com
+ele né como desativar uma escrita então
+tentava participar mais ou menos um
+movimento que a gente tem ainda hoje né
+então tem muito isso acontecendo está
+bastante quente é eu não achava difícil
+encontrar coisa da Microsoft aí quando
+eu virei a chave comecei no meu primeiro
+projeto de Big Data há uns 8 anos atrás
+cara não tinha nada não tinha nada o
+mercado realmente é e as contas que
+tinham era um cara estudos iniciais é
+internacionais então a gente não tinha
+nada é para se embasar em dentro do
+mercado brasileiro dentro do universo do
+mercado brasileiro né porque quando a
+gente pega um crise também é bem
+importante a gente olhar para esse case
+e tentar enxergar a ótica de negócio que
+existe Internacional e a nossa Nacional
+né A
+é uma diferenças também nesse sentido
+então daquela época era um Pouquinho
+complicado eu espero que eu reflow você
+da gente não tinha nada cara de para
+ajudar Para apoiar e resolução de
+problemas scripts é problemas de
+infraestrutura que era uma coisa que foi
+muito uma coisa que pegou muito então eu
+quando eu comecei a trabalhar com Big
+Data uma das coisas que me fortaleceu
+bastante foi buscar esse conhecimento
+também de infraestrutura uma coisa assim
+que me ajudasse a resolver bugs me
+ajudasse a Navegar dentro de
+documentações de ferramentas né então
+isso daí me ajudou bastante também é a
+nível de dificuldade de encontrar coisas
+na web hoje eu acho tá muito bom tá
+muito bom se eu quero me capacitar em
+senescência de dados eu acho que focando
+aí seis meses um ano a gente consegue
+com conteúdo gratuito entendeu a gente
+consegue criar trazer para o nosso dia a
+dia talvez as melhores práticas que os
+profissionais estão usando e abusando no
+coceira DX
+e quais foram eu vejo assim em relação
+por exemplo aí o Deni eu vejo ela com
+muito como Popular né Então é eu vejo
+ela bastante popular é muito versátil
+ela fica que se você tem você pode
+aprender inglês até mesmo aprender a sei
+lá montar origami muita coisa que tem lá
+né e tem muitos cursos assim bastante
+acessíveis né Eu acho que eu acho uma
+ótima plataforma laçada recentemente a
+IBM fez parceria com a Ju dentro foi foi
+festejado demais lá dentro da IBM então
+assim eu acho ele muito boa mas eu gosto
+muito do conteúdo por ser a nível pouco
+mais profissional eu acho mais
+profissionalizante né se a gente tá
+olhando para alguma nuvem a Google a WS
+aeso eles têm pacotes de 100 trilhas de
+capacitação muito boas muito boas eu eu
+assim se eu tivesse começando hoje eu
+apostaria bastante na Cláudia porque a
+Cláudia ela é Ela é o a realidade hoje
+todas as empresas estão investindo
+integrações Cláudia estão saindo de uma
+Prime
+tô mudando todo o Parque Tecnológico
+para poder suportar o que a Cláudia
+responde né então a gente eu eu não
+preciso disso você pode fazer recomendar
+tipo 16 e meio quilos em uma semana N1
+data brix eu eu não gosto muito de
+recomendar assim porque eu acho um pouco
+avançado cara tudo assim se a gente de
+por exemplo eu tô entrando numa linha de
+tentar me especializar de buscar me
+especializar em machine learning né
+então eu tô trabalhando com projetos de
+data Science tô tentando entender é mais
+sobre algoritmos Estou buscando entender
+como eu faço todo automação eu tô
+aprendendo soldado altos Então a gente
+tem um montão de coisas pra ver uma
+pessoa que tá começando ou então que
+está em transição é de evolução já tem
+sei lá o seu um ano é de carreira Já tá
+trabalhando com isso pode pode muito bem
+olhar sim para Cloud Mas eu acredito que
+que faz sentido
+me liga toda essa base de de tecnologia
+se Embasa em toda essa base de processo
+então quando a gente começa a olhar tipo
+assim por exemplo é ml de nir né é uma
+coisa um pouco mais avançada não ser que
+você esteja trabalhando diretamente com
+isso no seu dia a dia aí eu recomendo
+porque você tem um de aplicar você tem
+como exercitar aquele Você tá estudando
+agora se você ainda não está trabalhando
+diretamente com uma shirland diretamente
+com com essas ferramentas digamos mais
+avançados da tweets Hoje ele é uma
+central aí de desenvolvimento para datas
+a gente então é voltando um pouquinho a
+página para quem engenheiro de dados o
+engenheiro de dados normalmente ele vai
+trabalhar o dado para prover nessas
+ferramentas né Então é eu acho que se
+você já tem conhecimento em banco de
+dados relacionais banco de dados não
+relacionais é barramentos de eventos
+barramento de mensajeria integrações com
+fila com tópico
+Você conhece muito bem como estruturar
+um Jason é um um um arquivo em Jason e o
+formato estruturado se você conhece toda
+essa parte de streaming velocidades de
+depilar em sabe o que que é micro Bet by
+Bet se você consegue entender toda a
+mecânica pode estar envolvida numa
+integração de importação e exportação
+metadado metada o coração de quase todos
+os ciclos de vida de gado tá então é
+atrasada a gente tá olhando um pouquinho
+para o universo de governança né que
+seria um dos ativos da governança seriam
+metadados né E aí a gente vai olhar é
+promessa dados com bastante carinho
+porque é dentro do mercado que a gente
+consegue otimizar que a gente consegue
+trabalhar em diversas ferramentas o
+Claudinho primos né então metrô dela é
+uma preocupação bastante forte para o
+dinheiro de dados igual uma pergunta que
+interessante eu vi uma live cientistas
+que não vale a pena estudar adulto
+Sparks em focar na Cláudia concordo Boa
+noite o Wilson falou que que você
+concorda com essa afirmação
+o cara olha eu vou responder eu vou
+responder mais ou menos como você aí em
+cima das minhas experiências é Raso Uber
+é Big Data adulta é um termo que muito
+tem muitos dizem que a goula do que vai
+parar vai acabar mais assim wazzup eu
+acho que não eu acho que ele tá se ele
+tá entrar em tempo de transição e de
+melhoria assim para as empresas como
+claudeli aí que é um Player do mercado
+Fantástico excepcional eles com eles
+constantemente investe em criar novas
+soluções novas suítes Novos Produtos
+para reforçar o mercado de tecnologia
+mercado de dados né então quando a gente
+olha eu acho muito perigoso você falar
+cara para de olhar para isso e olha só
+para isso sabe por quê Porque você cai
+numa bolha de conhecimento eu acho que
+uma coisa que me fez evoluir rápido na
+minha carreira e me dar tudo que eu
+tenho hoje foi exatamente conhecer muita
+coisa eu mas assim muita coisa
+conhecendo bem não adianta se conhecer
+achou generalista tá mas você
+é para mim um parte lá encaro eu consigo
+mais ideias assim então eu acho que
+conhecer bastante coisa importante pra
+caramba É óbvio que você tem que ser é
+esperto o suficiente para você olhar o
+que tá o que O mercado está pedindo
+então que ele tá forte hoje tá falando
+de cloud Cloud a tendência Mundial
+Cláudia qualquer investimento na Cloud
+você vai sair ganhando não tenha dúvida
+tá então investir Cláudio é é tipo assim
+qualquer pessoa que fala isso a mesma
+coisa falei cara se você jogar esse jogo
+aí eu tenho certeza que vai ganhar sabe
+se eu já sabem o resultado então
+obviamente Cloud é a tendência do
+mercado então qualquer coisa que você
+ficar passar na Cláudia e algum momento
+vai te ajudar em algumas coisas só que
+aí entra um ponto porque eu acho muito
+importante se eu gosto Conheço pessoas
+que conhecem muito bem Cláudio mas se eu
+colocar uma solução para ela comprime-se
+para ela fazer um entendimento de um ou
+de 100 sabe de uma arquitetura é
+integrada um sistemas antigos com
+serviços artigos pai Pilares que não não
+estão exatamente então utilizar
+e a pessoa começa a ter dificuldade
+porque ela ela tá conhecendo o que é
+mais novo no mercado você sempre se
+especializar sempre com mais novo você
+corre o risco de nunca é criar uma uma
+uma resiliência profissional entendeu
+uma residência profissional a excelência
+profissional é você estar capacitado
+para todas as semanas que te apareçam
+Vocês não falam nada isso aí eu não sei
+eu só sei a tal coisa entendeu então se
+você não sabe eu acredito que faz
+bastante de vocês preocupado tá então
+hoje radup talvez ele esteja ele perdeu
+um pouco atração sabe por quê Por conta
+dos Parque Tem muita gente que acha que
+o Spark e é tipo assim ele é o sonho de
+tudo ele resolve tudo mais as coisas
+parque rosa em cima de perdoo se que é
+ocorre o lado então se você quer ser um
+especialista ser um cara que vai ser
+muito bom é utilizar a ferramenta como
+data blitz para para desenvolver é
+modelos para automatizar modelos
+fantásticos você em algum momento que
+você
+e esse nível de estudo produto tá para o
+grupo média de você então eu acho que é
+um pouco arriscado claro que você tem
+que jogar as fichas né a gente tem
+poucas fichas né para tanto financeiras
+como também de tempo né então a gente
+tem que talvez buscar o que O mercado
+está pedindo mais mas eu não gosto muito
+de pensar assim não eu acho assim nada
+vai ser descontinuado então a gente não
+tem nada para ele continuar o rápido Tem
+outra maravilha então nessa linha de
+pensamento você falou que é o apontou
+algumas coisas pontuais aqui um coceira
+né Tá número de dados mas ainda não lá
+né materiais tão é tanto os materiais
+assim que tanto sobretudo na língua
+portuguesa né E aí eu queria que você
+falasse para gente aí né que eu sei que
+tu criou um canal do YouTube né com mais
+três Então fala um pouquinho das
+iniciativa né porque que surgiu essa
+iniciativa né e do momento que você ver
+esse GAP né que você falou como é que
+essa
+e vai ajudar as pessoas e e fala um
+pouco dessa tua comunidade Por favor
+fica agora já tô dando um spoiler aqui
+para galera Parabéns timão né porque
+realmente o mercado carece nessa área
+como eu falei né E quando eu fui
+trabalhar né aí vai né eu conheci mais
+esse mundo né um pouco de engenharia de
+dados vi que realmente é necessário né
+você tem que ter um cara que vai te
+fornecer os dados né então não é você
+que vai sair não é não Mundo Ideal né
+você sair metendo a mão no adulto e na
+spac para poder trazer esses dados de
+forma o profissional deve ter um
+profissional para fazer isso para você
+né então papel do cientista de dar você
+pegar esses dados que já vão né um com
+uma determinada qualidade né claro que
+ele vai também ter uma uma crítica em
+cima disso vai trabalhar Vai fazer ali
+Ofício endemia
+o trânsito aí não respeite-as para fazer
+os modelos e vai explorar né fazer
+análise descritiva I estatística na veia
+como é que é o que sente candidatos faz
+mas tem que ter o cara que fornece esses
+dados em si sem se sua mão a gente não
+consegue né Então aí entra aqui a parte
+de vocês da comunidade aí e você tá
+criança né Fala aí da da importância e
+por que que você tá querendo esse
+projeto por favor até embasando aí um
+pouco dessa do que você tava comentando
+sobre conteúdo e português é velho é
+isso daí eu acho que é uma grande
+carência assim no mercado porque a gente
+eu não sei se é assim tem um lado bom e
+o lado que eu acho que diz acelera um
+pouco tá o lado bom é que falta muita
+gente a buscar a língua né buscar
+aprender o inglês é reforçar a isso até
+de forma é por necessidade né então a
+gente tem aquela movimentação que quase
+todos nós conhecemos a gente só se mexe
+quando a gente está preocupado tá
+e eu acho que falta um pouco mas eu acho
+que desacelera assim porque quase todas
+as fontes até mesmo quando elas são são
+internacionais elas são reais são
+estrangeiras né é elas também algumas
+são pagas as boas quando são pares e se
+você tempo atrás aí o download aí eu
+tive que assinar ele para mim poder
+olhar um artigo que era muito importante
+para uma pesquisa que eu tava fazendo
+então é foi uma certa limitação entendeu
+você não pudesse assinar Eu não
+conseguiria né então a gente tem aí
+algumas algumas coisas que realmente o
+mercado precisa hoje eu acho que o
+mercado brasileiro é tem uma
+movimentação de profissionais é assim
+profissionais sozinhos digamos a gente
+tem muita gente criando canais eu eu
+você a gente tá querendo canal pra
+tentar suportar é esse essa falta de
+direcionamento por quê Porque ela não
+existe é eu acho que as empresas
+brasileiras a sua própria é o próprio
+funcionamento do Mercado de t
+o primeiro não olha muito para essa para
+para para essa Ótica de precisar
+capacitar os profissionais ele tentam
+pegar os melhores né fica peneirando e
+acaba não olhando para o todo por isso
+que ele também a mão de obra com a fica
+pouca fica escassa porque realmente não
+existe uma movimentação Empresarial ou
+organizacional para isso entendeu então
+eu acho que nós do lado de quem tá quem
+tá no dia a dia se preocupando se
+preocupa com isso e quer fazer essa
+mudança então uma das coisas que me ame
+que a seguir que eu tenho muito muito
+cuidado é em trazer esse conteúdo né de
+forma é eu não tô trazendo é porque eu
+uso muito acadêmicos né porque
+exatamente o que eu quero mostrar um
+negócio o dia a dia o que que você
+precisa saber para você trabalhar na IBM
+precisa trabalhar na Google para você
+trabalhar na WS que você precisa saber
+para você fazer isso entendeu você
+trabalhar lá você conseguiu pleitear uma
+vaga lá então isso daí eu acho que é uma
+coisa que é bem importante a gente tem a
+Desce a citânia dessa eu gosto muito dos
+controles dele Eu achei bastante
+embasado
+quem sabe uma coisa muito sucinta muito
+bem estruturada Então se tivéssemos mais
+conteúdo similares eu acho que seria
+bastante ganho para todos tá a para quem
+tá na harpa que tá entrando para quem
+vai entrar né que a gente teria uma e
+vou uma Talvez o evolutiva mais rápido
+aí Por conta desses conteúdos mas a
+gente tem é a a gente não tem a gente
+tem que fazer acontecer então eu acho
+que a minha iniciativa é o meu canal
+chama mais pedaços né pessoal é o mais
+cuidados ele surgiu de uma ideia que eu
+já tenho alguns anos inicialmente essa
+ideia era muito trabalhar com Big Data
+que era uma área de conhecimento que
+achou conhecia mais eu trabalhava mais
+próxima só que aí começou eu comecei a
+entender chegar que a necessidade do
+mercado é um pouco diferente talvez eu
+não conseguisse é transmitir a minha
+ideia o meu conhecimento falando com
+todo o networking que eu conheço de
+pessoas trazer essas pessoas para a
+próxima de mim como você faz estatidados
+como é mais ou menos um formato parecido
+que eu quero trazer pro lado de cá então
+criar esse tipo de pessoa
+eu possa embasar as dúvidas do pessoal
+tá entrando pessoal que está estudando
+pessoal está em transição de carreira né
+então eu acho que o mais legal ele vai
+conseguir apoiar muito é muito bem nesse
+nesse sentido né então vou tentar trazer
+conteúdos é bem variado então eu vou eu
+enxergo no meu canal que eu vou ter
+bastante trilha diferente eu vou falar
+de governança eu vou falar de dar uma
+pessoa vou falar de engenharia de dados
+eu vou falar de arquitetura de dar não
+falar de arquitetura de soluções
+pretendo trazer Labs é demonstrando
+soluções que são aplicados no mercado
+que é uma coisa que eu nunca realmente
+eu nunca vi eu gosto bastante de do
+delicadinho e hoje a gente tem todo esse
+kornacki profissionais se movimentando
+demonstrando aí é em grandes
+experiências certificações eu me
+preocupo bastante trazer profissionais
+que tiraram certificações para começar a
+demonstrar Qual foi o passo a passo
+deles e aí a gente começar a capacitar o
+pessoal como todo eu eu aprendi
+de acordo com o Tiago aprende sabe com
+todo mundo e consigo transmitir um pouco
+desse conhecimento Não só eu né Eu
+também não sei vocês sei quase nada
+então pouquinho que eu sei somado a um
+pouquinho que o Tiago sabe um pouquinho
+que outros colaboradores sabe a gente
+consegue montar essa base de
+conhecimento eu gosto muito desse tem
+base de conhecimento essa mais
+conhecimento brasileiro eu acho que a
+gente tem Normal e tem que perder a
+gente idade tem que precisa aqui dentro
+do Brasil para dar aula lá fora só que a
+gente ainda tem uma certa tendência
+olhar para os cases internacionais né é
+com certo num certo supervalorização só
+que eu acho é que o meu conhece umas
+coisas que eu já usei é isso é muito
+relativo se a gente tá olhando porque se
+implementado pela Google e forma é
+multinacional aí beleza top com certeza
+vai ser algo fantástico porque a é a
+Google fazendo o todo um trabalho
+profissionais altamente qualificado
+Talvez os melhores no mercado tá
+maravilha agora a gente tá olhando para
+o
+o que a gente está falando de empresas
+menores que não é um divisor de águas
+não é a solução para as soluções a gente
+tem que começar a olhar que a gente faz
+o que a gente faz no Brasil a gente faz
+os caras não tem muita gente que não tá
+fazendo lá fora entendeu Eu tenho um
+colega que mora na Inglaterra ele ele
+fala o dia a dia dele para mim de
+profissional cara é muito sem graça Ele
+tem ele normalmente para ele desenvolveu
+uma twery Ele demora um certo tempo que
+aqui no Brasil a nossa velocidade é
+muito maior né é ele ele até um dos
+fundadores um dos apoiadores do nosso do
+canal mais fria Logo logo vou trazer ele
+é para algumas lives né Depois que a tia
+também de água porque eu acho que esse
+conhecimento dele não sozinho né do lá
+fora coisa que era nessa fantástica
+maravilhosa eu acho que a gente só tem
+que agregar nunca segregar nessa isso
+daí nunca mas é bom a gente olhar que o
+conhecimento que existe brasileiro as
+pessoas capacitados brasileiras são
+muito boas cara a gente vê seminário de
+ver o relato da gente vê cara é
+webinário
+o cuidados é uma mostra disso né grande
+esmagadora maioria brasileiro na
+conteúdo riquíssimo a gente vê que
+realmente o brasileiros eles dominam a
+tecnologia aí até mesmo só restaurantes
+né a no Brasil então ele tem que
+valorizar né não se profissionais com
+certeza tem iniciativa né gente para
+Denise né e é é um mulher para você vai
+estar vai estar cobrindo né porque
+realmente carece de materiais dessa
+natureza no mercado né e de forma Ampla
+é gratuito aí no teu canal né vai ser
+tudo gratuito né e eventualmente também
+você vai criar uma um conjunto de
+treinamentos né aí já se você quiser
+falar um pouquinho pessoal também fica à
+vontade né mas essa ideia de trazer né
+conteúdo de governança conteúdos de
+engenheiro de dados
+é realmente é muito boa né É um prazer
+para mim apoiar a iniciativa assim como
+também você você apoiou a minha lá no
+início né como quando ainda não era nada
+né e tal eu queria retribuir isso não é
+com certeza a gente vai conseguir fazer
+o quê essa tem que chegar mais pessoas
+nesta iniciativa Então conta comigo aí
+né E parabenizo como é que o pessoal
+acha Neto iniciativa é Instagram como é
+que o pessoal que acha nas redes sociais
+né gente tem aqui mais oito minutinhos
+para para falar que os detalhes finais
+tempo que o Instagram que tem limitação
+de tempo então por favor se você puder
+deixar um recado aí para galera e suas
+redes sociais por favor fica à vontade
+cara pé eu eu te agradeço bastante o
+espaço essa Retribuição para mim viu na
+melhor hora eu acho que como a gente
+conversou assim em outros momentos né
+cara muito obrigado eu acho que tá pé
+as suas boas pessoas do bem É o que faz
+as nossas ideias é ferver né a gente a
+gente realmente a gente se mexe quando a
+gente vê outras pessoas a gente é você
+for um cara que me apoiou bastante assim
+me deu palavras motivacionais coisas que
+fazem verdade eu vou colocar em prática
+Então essa preocupação esse cuidado aí
+eu acho que essa troca que a gente está
+criando essa troca que eu acho que
+nossos canais vão ter uns todos os
+profissionais têm no mercado por todas
+as pessoas que quiserem se aproximar né
+que quiserem contribuir trazer ideias
+vão para cima entendeu então essa esse
+movimento mesmo que eu acho que é o que
+a gente está fazendo é É o quê É o quê É
+o quê vai evoluir a qualidade dos
+profissionais é o que vai evoluir é o ar
+em área como todo né então hoje dentro
+dos canais eu me preocupei bastante
+Inter bastante acessibilidade Então
+dentro no YouTube né que vai ser o nosso
+corpo a gente tem lá mais teria dado tá
+pessoal é um nome que facilitou bastante
+há uns gosta não gosta ter um do colégio
+aí eu até o meu amigo ele já deve um
+suposto nós vamos vai ficar esse nome me
+ver um sonho eu sou meio em um sonhador
+aí então assim é uma tive ele sabe E aí
+mais três dados é vocês encontram fácil
+e não tem não tem não tem conflito com
+nenhuma URL nada então a gente tem um
+site www.maiscelular.com.br né que lá eu
+geralmente centraliza os artigos ainda
+tá tá evoluindo tem bastante coisa para
+postar lá no posto né então em transição
+de postar bastante conteúdo lá já tem
+algumas referências de artigo algumas
+coisas que eu fiz Depois tem alguma
+algumas outras pessoas que eu já vou
+trazer também conteúdos para colocar lá
+então ele tá ele tá recursivo tá bem
+fácil de você ele tá bem bonito de você
+ver ele no celular então recomendo que
+vocês olha a Leiam o artigo Tragam
+sugestões entre na nossa militar lá para
+a gente é sempre para mim sempre tá
+publicando coisas para você mandar no
+e-mail aí com as novidades tá vai ser
+legal temos também no Instagram Então
+dentro
+e aqui não vai aonde eu vou sempre
+postar aí é que mais mais mais novo tá
+acontecendo na comunidade que a gente tá
+fazendo Quais são as nossas articulações
+políticas né quem a gente tá chamando
+Quais são as pessoas né é um vejo que o
+Thiago ele traz bastante gente acadêmica
+né então eu acho que até para contrapor
+assim embasar um pouco isso eu vou
+também buscar trazer bastante gente do
+negócio gente the enterprise
+organizacional que vai também da
+enriquecer também esse lado mais diz né
+como as pessoas se comportam quais
+seriam as estratégias as melhores
+práticas de você se comportar nesse
+mundão né então é temos a Instagram
+Twitter dentro do Twitter A diferença é
+que dados mais frias né mais empregados
+né então dentro do Isso é uma das mais
+fria dentro do Instagram é a roupa mais
+teria dado né É no Facebook também né
+gente tem lá uma esfriada se encontra
+fácil e no YouTube a ideia dentro desses
+canais é é fazer essa base de
+conhecimento bass
+é bastante é integrada dentro do YouTube
+né pra facilitar o consumo de todo mundo
+né E aí eu vou manter os as postagens
+manter todas as publicações aí de áreas
+vou te rotineiramente aí sempre pretendo
+também criar uma estrutura de lives né
+semanais e quinzenais com assuntos que
+que sejam bem interessante para vocês
+pessoal Fico muito feliz de feedbacks
+recomendações sugestões Tragam avisa em
+ponto em Pra Gente o que vocês gostariam
+de ouvir né eu tenho feito algumas
+enquetes LinkedIn eu tenho visto
+bastante preocupação em Cloud em data
+Science eu vou buscar bastante é
+conteúdos o próximo a isso mas não
+deixem de Mangá a gente vai é sempre tem
+coisa nova para aprender sempre tem
+coisa que estão sendo está sendo feita
+então preocupação é realmente essa é
+manter é uma dessa reciclagem constante
+tá dentro do canal integrando com Tiago
+aí para a gente fazer a gente tem até
+umas ideias aí de mostrar para vocês aí
+Oi Tati Estou com um monte de areia e
+gerar no produto alguma coisa do tipo tá
+futuramente em relação a cursos a
+relação à comunidade assim dentro do
+Rottweiler criar alguns conteúdos pouco
+mais avançados é é tão estruturando né
+eu penso eu tenho uma ideia de criar um
+curso é navegando com algumas
+tecnologias da febre é é Cloud
+integrando é junto com algumas coisas na
+área de dançar esse talvez um curso mais
+especializado para machine learning
+mesmo né então eu tô pensando aí como
+que eu vou mostrar essa ideia aí e conto
+com o Apostolo espero que vocês vão
+Juliana tá falando aqui parabéns pelo
+trabalho maravilha Muito obrigado
+Parabéns aí mais uma vez né ele está
+encerrando aqui então cara muito sucesso
+né para não ter iniciativa pode contar
+comigo aí que a gente vai estar
+divulgando sempre né E Queria também
+deixar um recado aqui para galera né de
+taque com a cá
+o operacional aberto nas inscrições vão
+até sexta-feira quem quiser dar uma
+olhada aí no link da Bio fica à vontade
+né Isso é aí eu vou deixar também na
+descrição lá do aqui eu vou subir lá no
+YouTube do estatidados e vou colocar
+todos os links lado do Instagram do do
+YouTube de uma estreia dados e vou botar
+também um brinquedinho lá do do
+professor David né David Braga essa
+Salvo engano lá no Linkedin é isso é
+isso é só dá para pranchar né isso
+Beleza então eu vou deixar para você ir
+lá ele no caso né Então queria te
+agradecer mais uma vez e vamos vamos
+conversar para fazer uma laje também lá
+no status da Super se apresentar teu teu
+projeto lá também lá no YouTube
+belezinha essa situação cara está muito
+obrigado gente Pronto tô iniciativa
+muito boa Tá show de bola abração Valeu
+pessoal Valeu pela presença aí tchau
+tchau tchau
+E aí

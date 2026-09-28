@@ -1,0 +1,213 @@
+# Classificação de Imagens em 12 minutos - Redes Neurais vs Árvore de decisão - Framework Orange
+
+- **URL:** https://www.youtube.com/watch?v=jCYsplaLf1A
+- **ID:** jCYsplaLf1A
+
+## Transcrição
+
+fala pessoal que falar com vocês é
+nicolas conceição que o coordenador de
+business intelligence e analytics um
+laboratório farmacêutico e aprendendo
+thiago vem gravar essa vídeo aula pra
+vocês a respeito de classificação de
+imagem está acessa o site lado tiago
+estado físico no youtube e nas redes
+sociais tem bastante material legal a ok
+pessoal
+então vamos lá vamos aqui na aba que de
+imagens numa coisa que nós vamos fazer
+qualquer ideia aqui tá baixo uma série
+de imagens de animais num na internet
+e aí a gente vai ver criar um modelo
+baseado de pilão nen e redes neurais pra
+quando eu tiver alguma imagem nova para
+ele fazer essa classificação 1 ver se
+isso vai funcionar corretamente está ok
+então aqui vai importar as imagens que
+eu achei a internet não são vacas datas
+e vou faltar uma pastinha de treino que
+eu já tenho aqui vamos dar uma olhada
+aqui que eu tenho aqui para vocês
+conferirem é isso aí ó tenho vacas né
+diversas posições né búfalos não só um
+mas como 2h tos diversas raças de gatos
+aqui tá duas vacas aqui eu vou pegar
+isso aqui para treinar no modelo toque é
+uma coisa que vou fazer é arrastar o
+índice nasdaq onde ele vai pegar a e vai
+transformar a imagem para cada pixel da
+imagem
+e vai transformar isso dá em binário ok
+então a ferramenta o que ela faz a
+ferramenta vai lá ela tem um servidor
+vai consultar um servidor fazer o upload
+dessas imagens tá e aí através disso ela
+vai fazer um cálculo vetorial da
+distância dessas imagens vai trazer pra
+gente então ela vai trazer várias
+colunas é com algumas informações já pré
+processado está ok
+quando a gente abre aqui com o conteúdo
+que ela transformar a transformar a
+imagem número de máquina número binário
+lá só tem o nome da imagem né
+ela tem o
+o caminho da imagem o tamanho da imagem
+eu sou o seu peso a altura da ok agora
+transformar a imagem um só tem um ele
+então vai pegando cada pizza vai fazer
+um cálculo vetorial para essa pressa
+imagem é assim a imagem 2 3 e assim
+sucessivamente nesta tese mais ok então
+a primeira coisa que a gente vai fazer
+depois que a gente colocou isso eu vim
+aqui na na parte de na aba de evolução
+desculpa na parte de não provou nada e
+vai arrastar-se meninos aqui pra mim
+calcular a distância entre o que ele faz
+aquele calcula a distância pixel por
+pixel cá enquanto que ele está distante
+ok então aqui a gente tem várias
+métricas de calcular essa distância que
+estou usando aqui a distância de cursini
+ele vai ver qual é a distância de pizza
+pixon ok
+na sequência vou pegar uma área que é de
+cluster porque isso porque eu quero
+fazer uma classificação supervisionada
+toque pra fazer isso daí eu vou
+identificar nos kosters e aí eu tenho
+que tem uma uma fita o tatá a gente pra
+mim depois que a modelo está ok então
+venho aqui falar vou fazer minha
+classificação
+a escalação completa ok e vou usá que
+miah o nome é que vai ser o ok 77 mais
+ou menos pra ser um pouco mais precisa
+para fazer essa classificação está o
+número de genes aqui vai ser 3 só tenho
+três animais lá
+perceba que eu já fiz a minha
+classificação olha que bacana não terá
+achei três grupos aqui tá ok
+deve ser um grupo de gatos búfalos e o
+grupo
+aqui de vacas ok depois que eu já fiz a
+minha classificação tem que identificar
+aqui pro pro nosso modelo que vai ser
+ôôôô target tá ok vou pegar aqui o
+selecionar colunas aqui ó tá aqui ó meu
+cluster que é a classificação que já o
+agrupamento que nós fizemos vai ser o
+meu time está ok
+o que eu vou fazer agora vou fazer uma
+base de treinamento e validação aonde eu
+pego isso daqui ó eu tenho aqui no meu
+costa de evolução teste
+venho com ela aqui
+aqui quem conhece um pouquinho eu posso
+usar o próximo a lei deixa eu posso usar
+o percentual de trainee teste está aqui
+eu vou usar o caso ali deixam pra vocês
+vou criar aqui no caso
+vou separar nos dados e cinco pastas né
+eu vou fazer uma estratificação dos
+dados está ok vou pegar aqui dois
+modelos aqui vou pegar uma rede neural e
+vou pegar uma outra um outro modelo aqui
+posso pegar um como está a classificação
+marca de decisão
+ok então vou trabalhar aqui com essa
+rede neural jogar essa rede neural aqui
+ok
+o que eu vou fazer aqui vou trabalhar só
+com o lei é uma camada apenas 40
+neurônios ativação do da camada vai ser
+o mesmo mas vou deixar aqui como adão
+também ok vou deixar que como a máxima
+interação 120
+ele vai pular 120 vai tentar treinar uma
+modelo até convergir 120 vezes vamos ver
+se ele vai convergir isso daí
+ok não ao fac deixou verde 05 05 aqui
+pra gente vê o que vai acontecer
+ok aqui vou jogar também há um segundo
+modelo desse jogo e soube aqui que a
+gente muda alguma coisa
+o número de cinema distâncias vamos
+deixar ele vai quebrar até 100 com
+limite máximo 100 interações da
+profundidade da água e coloque 50 sem
+muita coisa
+a tal que quando eu conversei para 95
+beleza então ver aqui o resultado de
+cada um dos modelos né
+quando é só tentar imaginar pessoal
+porque essa é uma coisa um pouquinho
+mais rápida senão fica muito demorado
+aqui pra gente tá ok vamos ver como fica
+o nosso modelo o pa
+olha que bacana então vamos lá
+a haver decisão ela tem uma curva rock
+de 88 não é tão ruim tá tem um prestígio
+de 84 recall de 86
+isso daqui não vou entrar no detalhe mas
+são modos de mensurar o resultado do
+modelo toque-me a rede neural ela
+acertou 100% dos animais
+ok baseada no treinamento e validação
+opa
+vamos usar essa rede neural aqui pra
+gente fazer a qualificação escorar o as
+novas imagens aqui dentro do modelo ka
+que nós vamos fazer agora vamos pegar lá
+há novas imagens
+nós temos que são diferentes da as
+imagens que nós treinamos tanto é que a
+gente tem até aqui a gente tem até
+desenho nessas imagens vamos ver se ele
+vai ser capaz de conseguir identificar e
+fazer com a situação
+vão pegar aqui é de teste
+aqui só tem novas imagens com a situação
+ok vou pegar um visualizador das imagens
+interessante ela tem o desenho de
+imagens a ok tem uma vaca com uma
+máscara aqui tem dois gatos juntos vamos
+ver se o modelo vai ser capaz de
+identificar o nosso a nossa coragem aqui
+vamos ver como vai funcionar então a
+primeira coisa fofa transformar isso em
+código de máquina tarde na área aqui e
+fazer o mesmo processo de cima
+vamos ver o papa beleza que eu vou fazer
+aqui
+então vou selecionar tirar nó beleza ok
+seleciona aí não tem um target não
+tenham classificação e vamos ver se o
+novo modelo vai conseguir classificar
+esses animais aqui ok então vamo falar
+explorar nosso modelo nem aqui na aba de
+evolução vão pra dizer esse cara aqui
+com nosso modelo escrito no nosso modelo
+escolhido que a rede neural que a rede
+atua em cima que já foi treinada e vamos
+ver aqui nossas imagens aqui vão ver que
+a gente conseguiu de informação com as
+novas imagens
+então pessoal vamos ver aqui como ficou
+a classificação ok vamos abrir aqui
+coloque os em um como gato gatos e 11
+são como gatos e um cão ou gato até em
+desenho está você 2 foi o buffalo bills
+e 3 foi a vaca vá kdz com ela a imagem
+de desenho troca de máscara o tipo de
+vaca diferente outra tipo de baixo
+tecnicamente o nosso modelo conseguiu
+identificar e caracterizar que as
+imagens está bom
+eu só espero que vocês tenham gostado
+daqui a pouco tem mais novidades pra
+você está até mais um abraço tchau tchau
+para todos

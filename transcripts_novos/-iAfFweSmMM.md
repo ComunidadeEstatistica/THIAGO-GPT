@@ -1,0 +1,45 @@
+# Em defesa do Censo 2020 - Doutor Drauzio Varella
+
+- **URL:** https://www.youtube.com/watch?v=-iAfFweSmMM
+- **ID:** -iAfFweSmMM
+
+## Transcrição
+
+o censo demográfico 2000 e 2010 a em
+risco não têm dinheiro nem pessoas
+suficientes garantidas para a sua
+realização e o que significa para a
+saúde do brasil não realizar ou cortar o
+censo 2000 e 2010 o censo traz
+informações de cada cidade de cada
+bairro do brasil ficar sem o censo
+significa não saber quantas crianças
+vivem em cada cidade para calcular a
+quantidade de vacinas necessárias vacina
+contra pólio e sarampo as vacinas de um
+modo geral significa não saber quantas
+são as mulheres para planejar a
+disponibilidade de equipamentos para
+exames de mamografia e outros essenciais
+para a saúde feminina
+significa não saber quantos idosos vive
+em cada cidade para comprar os
+medicamentos para as doenças crônicas
+significa não saber quantas são as
+pessoas com deficiências para planejar
+políticas de reabilitação
+significa não saber em quais bairros
+estão concentrados os domicílios em
+condições mais precárias
+aqueles sem banheiro sem água encanada
+sem despejo adequado de esgoto sem
+saneamento básico não há saúde sem
+saneamento básico aumenta a mortalidade
+infantil
+significa não saber quais bairros tem
+mais lixo acumulado - arborização
+significa não ter um mínimo de
+informações necessárias para
+proporcionar bem estar para a população
+precisamos defender o censo 2020 pelo
+nosso bem pela saúde do brasil

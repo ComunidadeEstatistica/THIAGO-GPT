@@ -1,0 +1,217 @@
+# VÍDEO 30 - 2017/IBA/Atuário - Propriedades Do Coeficiente de Variação
+
+- **URL:** https://www.youtube.com/watch?v=ZoiA1NHMxZQ
+- **ID:** ZoiA1NHMxZQ
+
+## Transcrição
+
+[Música]
+fala galera nosso vídeo número 30
+segundo vídeo ainda playlist de atuária
+tá que a gente está fazendo as provas do
+ibas beleza e uma questãozinha e muito
+muito interessante está pra vocês que
+pode tá caindo com certeza tem muita
+chance de cair tá
+apesar delas inédita ela só apareceu no
+certame de 2017 disse kondo dessa
+certificação do imóvel beleza e uma
+questão de coeficiente de variação
+aborda abordado de uma forma assim muito
+boa sabe você tinha que ter domínio das
+propriedades está pra sair mais rápido
+desta questão
+beleza então vamos resolver essa questão
+zinho aí valeu
+vamos lá então galera questãozinha de
+2017 do ibam tá que estão 17 está essa
+questão aqui é inédita tá eu não achei
+nenhum dos outros exames já tiveram tá
+de 2011 que eu olhei beleza e é uma
+questão bastante interessante está vamos
+ver aqui o nome da questão
+uma amostra aleatória de tamanho em
+cinco foi obtida de uma população e os
+dados obtidos foram modificados da
+seguinte forma adicionou-se ou seja
+somou aos dados o valor 4 e em seguida
+esses resultados ou seja depois que
+somou 14 foram divididos por dois então
+a gente tem duas etapas aqui o todos os
+valores está sempre que é importante a
+todas foram todos os valores está
+todos os valores foram só acrescido de 4
+e divididos por dois tá ok então ele
+falou que pra gente olha se a média ea
+variância dos dados modificados ou seja
+depois que a gente fez as transformações
+foram respectivamente 10 e 4 com o valor
+do coeficiente de variação
+então a gente vai dividir aqui em dois
+momentos a antes né de fazer essas
+transformações e depois tá beleza
+quais são as informações que a gente tem
+lhe deu a que o é igual a 5 está na
+mostra 5 foi o valor antes da
+transformação para média
+a gente não sabe né como mostrou aqui a
+gente vai votar x barra representante
+está e o desvio padrão de padrão
+vou botar sigma tá coeficiente de
+variação vou botar cv diatta que vai ser
+o que o desvio padrão antes sobre a
+média era anti tá legal e depois
+depois ele falou que ele adicionou 14 /
+2 certo todos os elementos
+então a gente não teve acréscimo de
+elemento nem cresce então ele permaneceu
+cinco tá então ele permaneceu cinco aqui
+o x barra
+ele virou que vamos ver aqui ó
+o que foi feito aqui ó foi somado quatro
+e logo em seguida foi dividido por dois
+tá a média quando eu só um valor a todo
+de valores do meu conjunto a média fica
+somada por aquela meio à constante certo
+aquele mesmo valor
+então a gente tem o quê aqui ó que x
+barra de que depois vai ser igual ao que
+fiz barra
+mais quatro né
+e quando a gente divide por uma
+constante meu conjunto
+a média também fica dividida pela
+constante certo então vai ficar x barra
+mas corta sobre dois
+a esse é o nosso xb depois na
+transformação e o sigma
+depois de fazer essas modificações o
+sigma mais 4 / 2 quando só uma constante
+nos meus valores a todos os valores no
+sítio ele fique na terra tá então ele
+continuaria o meu sim de madeira
+ele continuaria sigma só que a gente
+dividiu por uma constante quando dividir
+por uma constante
+o desvio padrão também fica / mesmo
+constante
+ok então a gente ficou consignado a
+subir 2 e x barra de igual à x barra
+mais quatro sob dois beleza
+vamos fazer vamos ver que isso aqui ele
+falou que o que deve
+então a gente tem a seguinte coisa aqui
+ó
+daqui a gente pode tirar que x barra
+mais quatro divididos por dois é igual a
+10
+e aqui embaixo
+sigmar sobre dois
+ele falou que o meu sigma de ele virou
+que virou está porque a variância 4
+sigma quadrada 4
+então se uma máxima de
+é 2 então nosso cid mapa quanto nosso
+sigma foi 4 e o nosso chigago fazer aqui
+em cima aqui ficou 20
+a soprano fez multiplicou e crua tira
+quatro então x basel que 16
+então quem é o meu cv de depois né
+depois da transformação não sei o que
+vai ser o meu cinema depois que é aqui
+no caso
+a gente achou o segundo antes não é
+desculpa
+tem que achar o sigma antes não depois
+possível depois qual o sigma depois é
+igual a um quinto que é 2010 tá beleza
+que ele deu aqui ó 42 a média nesta 2010
+dá um 500 beleza eo antes então o que a
+gente está calculando aqui seja antes a
+gente viu que o sigma é 4 só
+substituindo aqui ó substituir o valor
+que ó vai ficar o q4 sobre quem ache de
+barra ba que 16
+então quem ficou nosso coeficiente de
+variação
+antes da transformação ficou que um
+quarto tá que a nossa letra a adi a
+aprovação tá agora eu queria destacar
+aqui pra vocês o seguinte a gente
+poderia pensar também dessa forma que o
+olha só eu voltei aqui um quadro resumo
+das medidas de posição de pensão do meu
+curso do exponencial concurso está
+você pode estar havendo esse curso
+através do do link que eu vou deixar pra
+você está
+se vocês tiverem interesse essa também
+está lá no meu curso tem vários
+diagramas tá
+e aqui a gente não estaria o seguinte ó
+coeficiente de variação propriedade
+ele é uma medida de dispersão tá
+especial relativa aqui seu somar uma
+constante a todos os meus elementos que
+acontece com um
+o meu coeficiente de variação o
+denominador vai ficar somado pela mesma
+constante
+tá que quer dizer eu tinha a botar aqui
+eu tinha sede a igual
+a sigma mar sobre x barra disso aqui a
+gente pode tirar aqui o cd depois seu
+soma se eu fizer direto aqui ó eu estou
+chamando uma constante 4 e dividido por
+dois
+quando eu só uma constante meu
+denominador fica somado por essa
+constante certo então a denominador
+iluminado esse cara aqui vai ficar o que
+x barra mas quatro eo meu numerador vai
+ser o que quando eu divido uma constante
+oque acontece que vamos ver aqui na
+tabela
+dividir uma constante a todos os
+elementos no seu teto à venda
+se não se altera continua sigma beleza
+então daqui a gente tirava que pelo
+sigma foi 4 né
+pio x barra enquanto 16
+fica aí a 4 sobre 20 que dá um quinto
+que é o nosso cv depois tava que a gente
+já tinha desde o início
+beleza então a gente confirmou que a
+nossa resposta correta
+ok então nosso favorito aí é um quarto
+letrar de aprovação beleza
+então é isso aí galera espero que vocês
+tenham gostado entendido a nossa
+resolução
+tá se ficou alguma dúvida pode deixar
+nos comentários beleza é segue a gente
+nem redes sociais
+ok a gente vai estar produzindo conteúdo
+relevante pra vocês se você gostou do
+vídeo deixe lá e prá gente poderá
+incentivar outras pessoas também
+assistirem tá e lembrando que eu vou
+deixar nos comentários em baixo tá que o
+link do meu custo exponencial concurso
+estatística tá é um curso focado na fgv
+que é uma das mais difíceis está ele vai
+desde estatística descritiva até a
+regressão linear tá de e abordado de uma
+forma muito
+eu tentei abordada de uma forma muito
+didática né
+com bastante diagrama é tentando
+explicar bem o conceito está mas tendo
+aquela coisa o objetivo é pra você não
+ficar naquele alerta
+meu objetivo com bastante diagrama para
+você pegar ele na semana da prova
+relembraram tudo tá todo o conteúdo de
+forma bem rápida tá então é isso aí eu
+espero que vocês gostem e até o próximo
+vídeo da gente valeu forte abracei

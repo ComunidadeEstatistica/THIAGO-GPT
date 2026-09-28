@@ -1,0 +1,689 @@
+# Webinar - Séries Temporais- Estimando inflação usando séries temporais no R
+
+- **URL:** https://www.youtube.com/watch?v=IPvT2fSJFXM
+- **ID:** IPvT2fSJFXM
+
+## Transcrição
+
+o pessoal tudo bem vindo
+é só pegar aqui o link pra gente
+conversar
+parece que isso é um instantinho
+para conseguir com um rigoroso 90 por
+hora
+15 horas a moeda única morte esperou
+marketing continua o voto agora em leis
+só aguardar o pessoal está aqui e que
+lhe foi disponibilizado agora é só um
+minutinho sair de um culto à parece
+ainda antes de dançar é o vitória
+celeste
+recomenda-se não ceder mp
+o
+o new orleans as cenas
+bom
+i
+o show de bon
+o papel do autor do time aquele que com
+paciência
+ilídio vale deu né
+com 16 anos eu quero sair
+ele está aparecendo só começar aqui é é
+a que aparece hoje é sobre o ipc a
+nenhuma estimativa é baseada em
+sonorização exponencial
+nós temos aqui são quatro modelos que a
+gente vai ver hoje é a questão das
+médias móveis simples as operações
+policial se implicitamente exponencial
+de olt de hot winter é importante isso
+aqui é basicamente com isso aqui você
+vai ter uma idéia de quando utilizar
+cada ondas
+os modelos né então os dois primeiros aí
+que as médias móveis simples e as ruas
+são exponenciais simples elas são para
+sedes localmente constantes e aí que é
+são séries que elas não tenho tendência
+ou não tem sazonalidade ea utilizar é
+esses dois modelos de uma forma bem mais
+segura a as suas acções potencial de
+ponte ela é pra série que aprender que
+apresenta tendência
+quando você observar a tendência na sua
+série a esse modelo daí ele vai ser mais
+a própria para você utilizar e as causas
+ou exponencial de hot winter é quando
+ela apresenta é a sazonalidade então a
+gente vai utilizar
+modelo aí a pra fazer estimativas tá é o
+que a gente vai perceber aqui pode ser
+parente baixar quitados mostrar os dados
+do gps a você vai ver que a ele não
+apresenta nenhuma tendência nossa
+realidade tão forte assim pra gente
+então a gente que nem fazer nesses dois
+modelos eu vou pegar outra série de
+dados e depois vou deixar como exercício
+para que faça utilize no na série
+especial para vocês verem os resultados
+que vão dar lá vai ser bem interessante
+para vocês
+então qual é o conceito básico aí porque
+quem utiliza previsão não é o que
+acontece quando está modelando a gente
+pode modelar é com séries temporais de
+duas formas net pode utilizar no caso
+especial uma variável modelar
+partindo do pressuposto que o
+comportamento padrão talento daquela
+série hoje pode pegara por exemplo
+várias variáveis pra dar como resposta
+especial em geral que acontece a gente
+tem a questão de custos é uma questão a
+de tempo pra você das informações
+então a gente tá pegando aqui a própria
+série como a base pra achar o padrão da
+série então o propósito aqui é
+distinguir padrão do ruído quando está
+modelando a gente tem os valores que ele
+é um padrão mais ruído ea gente vai
+tentar retirar esse ruído pra fazer a
+modelagem é eu coloquei aqui no estado
+também é muito bem mas que porque eu
+falei estado de mileto né
+o time mineiro foi o primeiro vamos
+dizer assim ele é o filósofo né
+mas ele foi o primeiro a mostrar a
+importância dos conhecimentos da
+natureza da filosofia da da matemática
+pra prever patrões então ele na época
+o que iria ter uma safra grande de
+azeitonas que ele fez ele resolveu
+alugar várias terras para produzir além
+da azeitona já que ele tinha essa
+previsão e ele ficou a jogar com
+bastante dinheiro a partir disso esse é
+o primeiro
+o primeiro registro que a gente tem de
+um cientista vamos dizer assim
+utilizando previsões né
+aqui eu tô só mostrar para você esse
+link aqui vocês estão vendo aqui na
+tabela
+vocês podem pegar copiar eles ainda toca
+então vocês conseguem copiar por exemplo
+esses dados da ac que estão na tela o ps
+esse link depois fizeram um passo para
+vocês aqui mas olhem o link bem fácil
+e aqui você pode utilizar já não erre tá
+mais pra frente eu vou dar o agente vai
+passar primeiro pela parte teórica e
+depois a parte prática no eg tá ok vocês
+vão conseguir ter acesso a esses dados
+os dados de especial
+então o que é um modelo de suavização de
+média móvel simples
+esse é um modelo muito simples é muito
+legal a se utilizar principalmente pra
+que é quando a gente tem poucos estados
+às vezes é muito difícil a gente pegar e
+fazer modelagens uma série temporal além
+de utilizar o modelo anima a gente
+precisa de um número razoável conseguir
+previsões razoáveis no mínimo
+e quando a gente não tem para inglês tem
+12 a 15 um modelo deste comédia motos
+móvel sim suas funções potencial ele
+pode resolver seu problema aí pra
+previsão tá então como é que ele
+funciona basicamente a média móvel é
+você pegar por exemplo você tem dez
+estados por exemplo dpca
+vamos imaginar que você pode fazer é a
+sua média móvel pegando sempre de dois
+em dois de três em três dados e criando
+as médias
+então vai pegar por exemplo o primeiro
+dado segundo o terceiro se cria uma
+média
+depois pego segundo o terceiro eo quarto
+e que a outra média
+depois do terceiro quarto quinto e criou
+também assim sucessivamente em si não
+chega até o oitavo nono décimo e criar
+essas médias móveis simples por isso que
+ele disse é móvel ele vai é de agosto
+continuar acontecendo
+os dados você vai criando logo as médias
+ele vai ele a morde a média móvel
+simples porque você não está bom também
+um é peso para o processo de renovação
+está então esse é o modelo mais simples
+que a gente tem
+tá então aqui a gente tem a
+representação deles você se você quer cá
+observações imaginar o seguinte se você
+tem 10 dados
+você pode fazer ou pegar por exemplo
+mais simples possível seria pegar uma
+onda do sol
+só que ele seria quando for fazer a
+previsão basicamente você pegar um dado
+só você tá pegando a última observação
+tão você vai repetir os dados como se
+fossem a previsões deles mesmos entendeu
+você pode pegar no pior dos casos um no
+último dos casos quer pegar todos os
+dados e tirar a média seja essa média
+com todos os dados e acho que o cabo e
+se essa quantidade de observações em
+utilizar para médio são agente utilizou
+aquino naquele exemplo anterior que era
+o cargo há três ou seja tem 10 dados
+sega o primeiro segundo terceiro cria
+média 2º 3º e 4 que é o da média
+3º 4º 5º e outra média então esse cá é
+esse número de observações vai pegar
+para criar essas médias por isso que ele
+te dizendo que tá acontecendo o
+comprimento da média tá então a previsão
+dele por exemplo se eu tenho 10 dados o
+que eu queria eu se eu quero o 11º como
+a previsão é pegar o oitavo ou o nono eo
+décimo tirou média eo e vai ser nossa
+revisão o 11º é período o décimo segundo
+período como é que a gente vai fazer a
+gente pegar o nono ou décimo e o 11º
+dado que acabou de ser calculado e cria
+uma nova previsão que vai ser o 12º
+então você vai pegando as suas
+estimativas e vai incluindo dentro das
+previsões quando você foi afastando
+esses valores está então qualquer
+vantagem dele
+a vantagem é que ele tenha aplicação
+simples ele é aplicável quando se tem um
+número pequeno de observações estudar lá
+prima é marina quando se estudam ali no
+sentido em que existe um número mínimo
+ali tinha observações precisa ter a
+própria você tem uma estimativa razoável
+da prainha
+então aqui você consegue fazer
+observações 10 12
+você consegue fazer alguma previsão tá e
+flexibilidade dado que é possível
+modificar esse cá que é o período da
+média então você pode pegar caiu a 3
+igual a 4 a 5
+a gente vai ter mais tarde quando se
+utiliza mais um outro tá num exemplo vai
+ficar mais claro quando de utilizar o
+exemplo e qualquer desvantagem aplicação
+se dá em séries estacionárias porque ano
+a você tem tendência
+você sempre vai estar subestimando
+aquele aquele valor que as imagens têm a
+tendência
+os últimos valores por exemplo você pega
+8o o dado 8 9 e 10 que a gente estava
+dando como exemplo a tendência de
+crescimento
+o último valor ataque mostrando a
+tendência de crescimento está pegando o
+vôo ainda o oitavo e ela média vai fazer
+subestimar a a a sua previsão com ele
+não é tão legal porquanto tem estacionar
+idade quando tem sazonalidade também
+porque a sazonalidade vai te mostrar
+ela aumenta depois ela volta só que se
+você tiver sazonal
+muito grande aquele valor vai ser como
+se fosse um outline para a sua previsão
+então não vai ficar tão legal a
+dificuldade de escolher que esse valor
+caia também é outro problema que a gente
+tem que enfrentar
+você vai escolher caiu a 3 4 a 5 o que é
+o cara ideal né
+e nesse caso a gente tem os prémios
+atribuídos observações da média é igual
+então outra desvantagem em ti tem nesse
+modelo o outro modelo que também arish
+lisa que são concorrentes sair de suas
+atualizações policial simples qualquer
+vontade desse modelo a vontade desse
+modelo é que a gente tem o chamado
+constante e se ao fato é constante de
+suavização tá e que esse e esse alguém
+vai fazer ele vai entrar no seu modelo
+podemos dar pesos
+as observações então tenho certeza que
+as observações e o que acontece
+o primeiro certeza que ele vai ser alfa
+ct depois vai ter alfa vez 1 - alfa você
+tem menos um e assim vai com o pó
+somatório daquilo que acontece essa
+constante atualização permite que você
+tenha previsões é com o peso que a gente
+não conseguia ter na no modelo de média
+móvel simples tá então essencial para
+dar variar entre 0 e 1
+então como eu falei ele vai ser uma
+média ponderada a gente chama que esse
+modelo que a gente não elimina das
+desvantagens
+o modelo anterior há a previsão vai ser
+considerando esse alfa daqui que a nossa
+o nosso peso tá então a previsão dos
+valores futuros a gente tem aqui ó
+o hqs a quantidade eo valor futuro que
+você quer prevê então se você quer
+aprender três períodos a frentes
+ele entra dentro da sua forma de
+previsão tá então isso é que é
+importante para você a
+ó fazer se essa essa previsão do seu
+modelo ea determinação constante alfa é
+tem algumas características que quanto
+menor o valor de alfa mais estáveis
+serão as previsões finais pois implica
+maior peso às observações passadas
+então as flutuações no presente e
+exerceram menor influência em previsões
+estão a greve no exemplo essa questão do
+alfa que tal como é que ele funciona e
+vai pegar colocando alfa 10.7 o trópico
+0.5 b como que a as previsões mudam pa e
+em quanto mais aleatórias foram as
+séries menores serão os valores da
+constante ao então aqui é só uma
+conseqüência do primeiro a nossa
+primeira observação tá
+as vantagens são é o fácil entendimento
+a aplicação é simples é uma grande
+flexibilidade dada pela constante de
+suavização tão a gente aqui o modelo r
+que acontece você pode estimar esse alfa
+ou você pode já colocar um valor de alfa
+você considera ótimo por exemplo pra ele
+a estimar o modelo entendeu não se pode
+considerar um modelo com alpha que você
+considera a necessidade de armazenar
+boca 50 informações profissão que é o a
+média das previsões é tão poucas
+informações que precisa pra isso
+uma característica interessante que esse
+alface você pegar 2 / em -1 fornece
+previsões semelhantes
+a média móvel com parâmetro é então é
+hora de você ligar um modelo ao outro
+a principal desvantagem daí é a
+determinação da constante atualização
+tem a mesma desvantagem quente b no
+modelo de média móvel simples a outra
+outro modelo que a gente tem aqui é um
+modelo de suavização exponencial de
+volts que ele vai ser processo que
+aprender apresentam tendência então é
+que você vai ter a média mil de t mas a
+tendência tt
+esse é um valor de ruído a deter aqui tá
+então aqui você vai precisar
+é este mar esse valor a que é o valor da
+constante e o valor c
+nesse tdt aqui que vai ser o valor da
+sua tendência tá então aqui você passa a
+ter duas é dois parâmetros para estimar
+as operações policiais de boussetta ea
+previsão ela vai ser dada pela média
+aqui
+aqui é bem interessante essa previsão
+que ele vai ter
+usei de ter que a média e você vai ter
+um h da tendência ou seja a tendência
+entra na sua previsão aqui porque o que
+você agora precisa considerar que existe
+um crescimento daquele valor
+ao longo do tempo tá vontade são
+semelhantes ao caso simples e
+desvantagens é que a dificuldade em
+determinar que estão aqui que a gente
+tem é que ele você tem que determinar é
+o vetor é um pouco mais complexo do que
+o o modelo anterior ea gente vai ter
+também se ao derrotar o índio que ele
+vai servir pra que por enquanto ele tem
+nível tendência e sazonalidade
+então aqui você vai ter dois modelos que
+o modelo multiplicar tinha um tipo
+explicar direitinho modelo
+multiplicativo ele é quando se observa
+que a gente vai ver um exemplo quando
+sua série está ao longo do tempo
+explodindo nacionalidade
+então ele vai ter um modelo é
+multiplicativo ou seja ele vai
+aumentando ao longo do tempo a a sua
+sazonalidade a a sazonalidade dele
+o aditivo não moderou aditivo ele mantém
+constante aquela sazonalidade do modelo
+como exemplo vai ficar bem claro aqui e
+aqui você vai ter três constante
+atualização que é o aaa é o de nível neo
+sei que é de tendência e the edge
+sazonalidade tá as desvantagens de ter
+nas constantes à organização e à
+dificuldade em estudar propriedades
+estates comédia para crianças a previsão
+as suas vantagens desse modelo aqui
+a aplicação não é que é o que a gente
+queria fazer aqui né
+então a gente vai ter paz aqui pelos
+passos que são instalação de pacotes
+o carregamento dos dados transformação
+dos dados construção do modelo e
+avaliação do modelo
+vamos lá esse aqui são os pacotes
+necessários então aqui hoje com vocês
+pegaram r vão pegar um poder copiar vão
+ter que instalar os pacotes e depois
+utilizar cada um deles está a passar no
+passo a passo aqui deles
+o pacote que está utilizando pra estimar
+o os modelos está então aqui
+carregamento vai ser feito através da se
+esse pacote we r e aqui ele vai ter esse
+o psb e aqui este endereço é o endereço
+do google docs que eu criei
+eu peguei a série de inflação coloquei
+dentro do meu do do meu trailer e você
+pode acessar ele tem um link público tá
+então lá no final tem um tem a fonte de
+tudo e tem o interesse de como fazer
+isso aqui você pode por exemplo colocar
+a sua série de inflação se utiliza de
+todo mês por exemplo da série de
+inflação e você só vai alimentando essa
+essa planilha e você depois um código qr
+você roda
+isso já tem as previsões ali
+automatizadas
+então a gente vai começar aqui com a
+transformação dos dados que é a gente
+vai pegar
+esses dados a gente pega o pib do mês e
+tem lá também unb ano
+aqui eu voltei pib mas na verdade é que
+se a tal eu errei aqui há o nome mas não
+vai mudar muita coisa não
+o que acontece aqui no no especial vai
+ter especial mês que é o valor que deu
+naquele mês dpca e pessoa bibiano aqui
+que é o especial do ano ele vai ser o
+acumulado do ano inteiro tá então você
+pode trabalhar tanto com a série do
+acumulado como da série do mês a mês
+dependendo do seu objetivo tá e aí o que
+acontece aqui é esse start quer dizendo
+a partir de quando que eu tô pegando a
+sério então a série começa a 94 no mês 1
+e termina em 2018 no mês 8 tá eu peguei
+a partir de agosto aqui mas não tem
+problema só depois analisar em detalhes
+e também aqui os dados e que acontece eu
+vou mostrar aqui o que acontece essa que
+é a série de 94 2.094 brasil está
+passando pelo o processo inflacionário
+de estabilização da moeda
+então o que mostra ainda o final desse
+processo de responsabilização da moeda
+porque eu peguei contém a partir de 2004
+em 2003 tem um processo aqui no meio o
+que é um processo chamado de efeito mula
+que é da da eleição do presidente lula
+e aqui também tem um pico então resolvi
+pegar aqui que ele é mais comportado a
+partir de 2004
+você pode pegar a partir do tempo que
+quiser só que tem que ser lembrado
+dependendo do momento que você pegue a
+sua série é alguns valores vão fazer
+diferença ou não olhe na nossa modelagem
+então a gente fazendo o corte a partir
+de 2004 ele fica mais comportado tem uma
+um tem uma característica mais longe de
+estacionar é do modelo
+então aqui a nossa da nossa cérebro de
+que estaria mais confortável pegando a
+partir de 2
+4 a gente pega esse comando que o window
+ele vai ele vai querer é é é justamente
+isso aqui é uma janela da sua série na
+janela de sua série de 28 tá aqui pra
+quem trabalhei muito com um senso de
+dados divergentes em teste está a gente
+não vai utilizar esse aqui mas eu só
+coloquei pra pra necessidade futura tá
+aqui são autopilot aqui que queria ir a
+los primeira o modelad que a modelagem
+com médias móveis utilizar a função e me
+a essa função no ono teste então a me a
+do bib ps mês dois order 5 que é
+italiano ou seja ninguém chegou até ele
+ficar lá que a gente falava com 10 11 23
+média 45 pra criar essa modelagem tá
+aqui ó também um com ordem 12 está
+presente comparar um e outro e vai ter o
+seguinte gráfico s modelagem fma daqui o
+que acontece
+o vermelho é com o dem 5 eo azul com
+ordem 12 quando utilizar um e outro vão
+utilizar uma ordem maior por exemplo em
+12 continuam a de menor
+vai depender muito da volatilidade dos
+seus dados então o soldado foi muito
+volátil
+de repente é mais interessante utilizar
+ordem menores porque você consegue
+captar as as mudanças na sua série
+agora a ordem 12 enquanto esta série
+está mais bem comportada porque você
+consegue a melhor informação de vários
+meses que não vai conseguir não vai
+mudar tanto a sua previsão é de outros
+dados
+então aqui você vai ter duas formas de
+chamar você pode estar com essa função e
+me a
+ou com essa função sma que está no
+pacote ttr aqui então como exercício né
+vocês podem ver as diferenças entre as
+estimativas são de que não vai ter a
+diferença mas eles podem pegar aqui pra
+ver o que há um pacote oferece a mais do
+que em termos de informação que a gente
+tem agora as atualizações potencial
+simples só exponencial simples e vai
+poder utilizar essa função ou jack ó
+então você vai pegar aqui o som roth vai
+pegar aqui com um a 16 períodos pra a
+nossa previsão e aqui a gente coloca
+também quando se lembra que está falando
+sobre a questão do alfa aqui nessa
+primeira modelo um modelo ele vai
+estimar o alfa no modelo 2 está
+colocando ao final a 0.5 então a gente
+consegue tanto utilizava onde preenche
+mais real quanto da o alfa e deixar com
+que eles time
+o modelo é igual à bossa 05 né
+então você vai ter diferença entre o
+modelo 1 e um modelo doida que o que foi
+apresentado é o homem
+os modelos aqui com amortecimento que
+esta é um acontecimento em determinados
+momentos você está vendo que a sua série
+está crescendo você quer só usar aquele
+crescimento das suas previsões não se
+pode botar essa variável tampa de aqui
+tá utilizar esse feedback que é o valor
+do amortecimento
+a gente fez o modelo 3 e 4 daqui também
+utilizando a modelo só desabo e você
+observar o que lá estava com a
+inclinação maior que ele estava ali na
+ação um pouco melhor por causa dessa
+suavização aqui não tem muita diferença
+entre utilizar que o fila zero ponto 90
+ponto 8
+bem próximo do outro
+a aí a gente tem a dados com tendência a
+explosão pegar o conteúdo de dados
+porque o padrão do especial
+eles observaram que ele é mais a
+estacionário ea gente deve pegar uma
+série que apresentava uma tendência mais
+cíclica e tendência e com sazonalidade
+tá aí pegou só pra mostrar pra vocês
+isso aqui é um modelo estão aqui o em
+preto né é um modelo ou de dados
+e aí o que acontece porque a gente
+observa que ele é um modelo
+multiplicativo está observando que
+existe uma sazonalidade e ela vai
+crescendo ao longo do tempo
+quando tem esse tipo de padrão
+multiplicativo a gente vai pegar quatro
+formas de estimar ele tá
+o primeiro vai pegar um router que é o
+roth ele não vai considerar a
+sazonalidade tá aonde vai ser um modelo
+mais simples
+aqui o hw que se essa função hw ele vai
+pegar o último inters é o nosso modelo
+para a sazonalidade
+a gente pegou aqui o modelo seis po'
+modelo aditiva o modelo 7 é um modelo
+que a gente colocou com multiplicativo e
+um modelo 8 a gente pegou multiplicativo
+com esse amortecimento daqui que a gente
+botou tancredi tá então a gente fez
+esses quatro modelos e colocou a
+comparação entre eles aqui então o que
+acontece
+o modelo primeiro modelo que é o world
+ele vai ser uma reta aqui ó vai ser bem
+simples e aqui é os intervalos confiança
+do edital
+nos outros três que a gente faz não tem
+intervalo de confiança que só está se
+escrevendo aqui em cima da o primeiro
+gráfico
+então o modelo 5
+o nosso modelo aditivo olha que
+interessante que aqui que eu acho que é
+a parte mais informativa do do negócio
+ele percebe que existe sazonalidade
+negativa mas ele fala o seguinte eu já
+que aditivo
+ele vai pegar com sua média dessas é
+dessas nacionalidades
+já quando a gente pega o modelo 7 que é
+o verde o verde azul estão bem próximos
+por escutado muito pra ver
+quando você pega os dois ele já pega e
+já dá um e que na próxima à de então
+esse é um modelo a kiss e como bem no
+olhômetro né esse modelo é
+desinteressante
+o programa dos erros
+uma função interessante aqui vocês podem
+pegar a copiar
+ele vai gerar os gráficos de erros aqui
+do nosso modelo
+então essa questão os gráficos do erro e
+o que é interessante que o top 500
+mas por exemplo o modelo 5 ac não tá
+dando problemas aqui ele está a ação de
+menos 100 a 100 muito na nos erros aqui
+também no modelo 6 também está tendo uma
+variação muito grande dos erros observa
+que as crianças são modelos que estão a
+se comportando melhor o modelo oito
+modelos 7 que a gente falou
+eles são modelos que estão entre membros
+0.10 ponto então eles estão se
+comportando melhor com os erros aqui tá
+modelo 8 9 10 aqui vocês podem se
+considerar que são outros modelos que
+estava testando a então esse aqui é são
+possibilidades podem ter pra trabalhar
+com o conselho tem por aí estão
+modelos mais simples está nas séries
+temporais modelos para quando você
+precisa fazer alguns estimativas de
+repente de dados aí que você não tem
+tanta informação ainda possibilitam aí
+criar previsões mesmo e e assim uma
+coisa tem que ficar clara é você está
+querendo modelo é importante que o
+modelo ele tem uma simplicidade para
+você explicar depois que as pessoas se
+vai apresentar
+então é esse modelo deles são
+interessantes por isso este dão a
+simplicidade que você apresentar
+previsões bom
+e aqui tem as fontes estão tendo o livro
+que há nas séries temporais no boletim
+é um livro ótimo tenha que como importar
+os dados do google docs que a gente fez
+no início está aqui tem os hits sobre
+esses modelos aplicados outros dados
+está o site de internet que ajudou e na
+na explicação de de modelos para o é e
+tudo mais então basicamente foi isso que
+a gente tem pra previsão com esses
+modelos mais simples aos temporais
+pessoal obrigado a nível pessoal estou
+falando aqui ó
+deixa eu tirar da tela para passar um
+recado pra você pra vocês tá bom o
+bastante então só daqui foi a solo num
+mostrando os modelos assim mais sinte
+esses modelos de historicamente são os
+primeiros momentos temporais está então
+esses são os modelos que eram utilizados
+aí estão são modelos bem simples
+é são fáceis de serem utilizados em mão
+no dia a dia ea gente vai em fevereiro
+está criando um curso de três temporais
+com modelos anima são modelos mais
+potentes sonoriza para a estimulação de
+modelos o modelo é bem robustos e também
+utilizando r hoje r tem metas bem
+interessante sair pra modelagem no anima
+a primeira liminar e que está a tentar
+perceber que há outros sinais de sair na
+parte de temporais
+semana que vem vai ter um outro
+seminário na área de estatística básica
+não erre para quem está começando a
+praticar a estatística com um com ele é
+bom e os resultados estão aí e qualquer
+dúvida aí vocês tiverem pode mandar e
+mail pra gente que a gente está aqui à
+disposição
+então se eles têm o contato arroba
+inferir ponto com.br
+para qualquer dúvida para informações
+sobre o curso está em curso a gente
+pretende criar um negócio bem legal com
+aplicações bem práticas para vocês de
+séries temporais que é o que é uma
+matéria assim encara que eu acho
+fantástico e é isso aí
+obrigado pela participação e até a
+próxima

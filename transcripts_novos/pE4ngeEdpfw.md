@@ -1,0 +1,45 @@
+# Depoimento Bianca - Comunidade de Estatística do Prof. Thiago Marques
+
+- **URL:** https://www.youtube.com/watch?v=pE4ngeEdpfw
+- **ID:** pE4ngeEdpfw
+
+## Transcrição
+
+o olá pessoal tudo bom meu nome é bianca
+eu tô gravando esse vídeo para prestar
+meu depoimento para o meu agradecimento
+ao professor thiago marques né devido a
+sua comunidade de estatística eu tenho
+aprendido bastante conseguindo colocar o
+ensinamentos né de da estatística como
+todo no lado profissional na realidade é
+que às vezes a gente vê a gente acha que
+estatística é uma coisa muito aquém
+muito longe da gente que a gente não
+pode aprender isso em ir lá o curso ele
+traz vai diversos profissionais de
+várias áreas para depoimentos net como a
+gente utiliza esses dados a estatística
+matemática em diversas áreas né eu te
+damos pela empresa para inovação de
+produtos para a criação né de novas
+coisas novas tecnologias enfim isso é
+uma das coisas mais legais que tem no
+curso ele trazer profissionais de
+diversas áreas uma das
+é bastante área esportiva né então
+analisar esses dados de atletas da
+equipe análise desempenham uma coisa que
+eu tô fazendo agora então tá me ajudando
+bastante matérias de probabilidade
+gráficos enfim e vale a pena eu acho que
+vocês deveriam conferir o trabalho dele
+tem no youtube diversas aulas gratuitas
+também mas o curso é fenomenal porque
+tem diversos alunos no grupo conversando
+entre si sobre o mesmo tema o que nos
+ajuda bastante é isso galera valeu
+obrigado professor thiago marques por
+ter trazido essa peça perfeita essa
+comunidade para gente aprende aprender
+um pouquinho mais valeu obrigada

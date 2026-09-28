@@ -1,0 +1,807 @@
+# Aula 06 - Gbm Classificação - Prof. Flávio Clésio
+
+- **URL:** https://www.youtube.com/watch?v=vcxM5T28MF0
+- **ID:** vcxM5T28MF0
+
+## Transcrição
+
+E aí galera do estatidados Beleza meu
+nome é Flávio Clésio e a gente vai dar
+continuidade aqui a nossa série do
+h2orça certo e hoje a gente vai falar do
+algoritmo de Gradiente Boost Machine ou
+D G BM Tá mas antes de mais nada queria
+pedir para vocês para se inscrever no
+canal se você não é inscrito deixar um
+like no vídeo para aumentar a amplitude
+desses materiais educacionais aqui para
+alcançar cada vez mais pessoas também a
+Então esse aqui é o Projeto dentro do
+dentro do Pit ramo Então é só acessar
+essa URL aqui do hip-hop estatidados
+traço h2oh clicar nesse botãozinho Verde
+aqui escrito Connor download Se você
+quiser somente fazer o download dos
+materiais só clicar aqui em download Zip
+a ou se você for usuário do que tinham
+só dá um pulinho repositório e vai tá
+funcionando então a direto aí para o
+nosso para o nosso Big chop tá então
+polpa para o nosso estúdio tem um ver
+aqui então comandos kit hamp está te
+dando h2óó src e GM hoje a gente
+o caminho de falar de classificação A
+então antes de mais nada né só doença a
+pequenos pequenos pequenos avisos
+primeiro a gente não vai fazer a parte
+de fitness De Niro e nesse vídeo acho
+que isso não é objetivo aqui objetiva
+mais falar sobre a implementação do
+gradient plust Machine é dentro do H2 ó
+e algumas opções e algumas a features
+interessantes e a segunda parte de carga
+de dados e isso foi feito nos vídeos
+anteriores então recomendo que vocês vão
+prover o segundo vídeo da série são me
+engano tem um vídeo chamado moldeira que
+a parte de carga de dados Então tá tudo
+explicado ali qual que são os internos
+do lado do sol e como que a gente faz
+essa carga desses dados dentro do dentro
+do clã ser tá e o último ponto em
+relação que a gente não vai discutir
+aqui algumas as funcionalidades existem
+exceções porque fazendo no h2o.ai no R É
+temos um vídeo que a gente explica a ali
+em relação à parte de Arquitetura do
+h2oh é Quais os problemas que vem o Edu
+R por exemplo a parte de
+é distribuído de lidar com objetos aí na
+casa de dezenas de gigabytes Então a
+gente vai focar aqui hoje mais na parte
+de Gradiente Boost Machine então
+primeira coisa que a gente vai fazer
+vamos ver vamos fazer a instalação do
+horário só se eu não tiver instalado
+então carregar e colocar o nosso sítio
+nome a como 42 para garantir a
+reprodutibilidade dos nossos
+experimentos ato contínuo a gente vai
+aqui subir o cluster do lado só chamando
+aqui a função init no qual a gente vai
+subir no nosso local roxo a porta vai
+ser a 5 4 3 2 1 que a porta onde está o
+flow eu vou usar a todos os meus
+processadores é a disponíveis aqui então
+eu vou colocar menos um tá que não é
+nessa variável nesse argumento no Whats
+eu vou usar aqui para o meu clã ter
+agora para essa parte do orçamento 20
+dias de principalmente e esse vai ser o
+nome do meu Costa tão o meu processo
+Inicial Já rodei o comando aqui
+Oi e ele tá dando aqui o tempo que o meu
+câncer está ativo tá o total de memória
+aí que o cluster vai utilizar os e eu
+volume de a corça aí de processadores
+que estão disponíveis e o quanto que vão
+ser usados né então se ele quiser ver
+por exemplo aqui se o flow já tá sendo
+utilizada não só enche vim aqui no local
+host 54321 Y A gente já viu falou aqui e
+novamente pessoal para quem quiser
+entender Qual que é a função do flor
+aqui no h2o.ai pós problemas ele resolve
+tem um vídeo de arquitetura que eu
+explico tudo é o sobre os pylon e aqui a
+gente vai fazer um pouco mais bloco
+outro de monitor ao nosso treinamento Tá
+certo então a crosta iniciado eu vou
+pegar a nossa URL aqui do nosso banco
+lehman Brothers e vou subir aqui no meu
+usando a função Spotify eu vou gerar
+essa base de dados aqui alemã Brothers.
+Rex que é uma base agora que vai estar
+dentro do clã ser do h2oh aqui no meu
+caso eu tô lidando com
+o cluster standalone mais a no caso se
+houvesse não vai as máquinas
+distribuídas esses dados esse dado dessa
+base de dados para distribuído entre
+entre várias máquinas tá a Então a
+primeira coisa que eu vou fazer aqui eu
+vou usar uma função Nativa do do RNA que
+Esse aspecto e passar essa variável a
+Apple né que a variável que vai indicar
+se a pessoa entrou ainda for não como
+como categórico Então vou dar aqui só
+vai agora tá com categórico esse eu vou
+dar o Subway aqui é uma função Nativa do
+Erre eu vou ver aqui essa variável
+transformada Como categórica tá E aqui a
+no samba a gente pode ver algumas das
+características digamos assim a dessa
+base de dados então por exemplo Eyed o
+limite de crédito a pessoa tem educação
+e por aí vai eu vou fazer uma vou fazer
+uma conversão aqui por exemplo dessas
+variáveis as variáveis de educação e
+sexo até
+é para gente ter uma melhor uma melhor
+representação do que seria esse
+algoritmo lidando com variáveis a
+digamos assim mais realísticas está a um
+ponto do queria deixar aqui é que para
+parte de eu tô colocando sexy aqui nesse
+nesse experimento mais como uma espécie
+de top of mind nos assim mais a entrando
+em questões de de ética e ai e tudo mais
+né ah não é legal usar o sexo Porque
+isso pode colocar com o seu algoritmo
+aliás eu vou até tirar aqui e fica até
+isso fica até melhor de ser explicado
+depois porque a gente pode colocar um
+usar uma variável digamos assim como
+como discriminante digamos assim no
+modelo isso ou isso não é não é não é
+legal tá então eu tiver aqui no nosso
+são né tá a gente tem a nossa variável
+education sexo aqui como
+é a idade casamento para casamento da
+mente uma passar como como variável
+categórica também education married
+Factor OK agora a gente tem o nosso
+Samurai já com as variáveis
+transformadas em categóricos tá que
+married sex education e o que que eu vou
+fazer na minha variável dependente eu
+vou colocar nesse objeto x eu vou
+colocar aqui com o defunto por exemplo e
+àquela variável sexo que tava que eu
+tirei das minhas variáveis Independentes
+para mim não importa o sexo da pessoa tá
+tudo bem Que Heidi aqui que a idade
+entraria aqui como uma espécie de and
+Smooth chama né de fazer discriminação
+por a prioridade mas a gente vai deixar
+aqui pelo menos por enquanto aqui ah mas
+depois a gente faz uma inspeção E se for
+com a gente tira tá chegando aqui
+especificamente na implementação do gbm
+Então como a gente viu nos
+se a gente quiser saber o que a
+documentação da função específica aqui
+do Gradiente multimachine a gente só
+coloca o ponto de interrogação e roda
+h2oh. E o nome da função nosso caso aqui
+no GDM e aqui no rapper a do próprio
+vistoria de atrás toda a documentação da
+função tá gente vai passar por todas
+essas por todas as funções a e todas as
+todos os parâmetros por questão de
+brevidade que do do vídeo Tá mas o
+caminho que vocês Leiam a documentação
+para saber um pouco mais um se torna
+então alguns parâmetros aqui então gente
+vai passar a nossa a nossa variável a as
+nossas variáveis Independentes aqui um
+objeto x a nossa variável dependente né
+que a gente tá tentando prever aqui um
+objeto y e a primeira Valéria que eu vou
+usar aqui esse belas e clássicas né que
+tá aqui tá com outro tá E esse balão
+sequazes ele faz o balanceamento dos
+dados né ah o que significa Então
+imagina que a gente tem uma base de
+dados por exemplo a gente tá prevendo um
+problema de fraude tá uma
+e a geralmente é um evento muito raro
+que acontece em número de transações
+então é comum de Aventura A
+distribuições por exemplo de 99,9 por
+cento dos casos serem a transações
+legítimas e um por cento daquela base
+segundo fraude então você pode ter o
+algoritmo 99,1 por cento a por exemplo
+de apuração só que a aquele um por cento
+que ele vai rápido e que vai ser no caso
+dessas transações por ambulantes Você
+pode ter um problema do grande então e
+faz esse balanceamento é dessas faz isso
+é uma coisa até documentação é muito
+claro a dar-nos copos tá é qual
+distribuição que ele o que pode
+balanceamento que ele usa se é 50 50 40
+e 60 e por aí vai tá a Essa é uma das
+limitações que a documentação deixa
+ainda um pouco opaco mas a gente vai
+usar que tinha mais para fins
+educacionais certo Chrome frame a gente
+vai passar o nosso objeto h2oh que a
+gente já stanzioni em cima tá aqui a
+nossa base de trem O Vale deixa um frame
+a gente pode poder
+é uma base de variação roudaut né uma
+base aqui é separada dos dados mas eu
+vou usar aqui a nossa base de teste
+apenas como só para tempo só para só
+para demonstrar que tem como fazer a
+parte de treinamento e validação dentro
+do treinamento do algoritmo então você
+não precisa passar isso dentro de uma
+segunda função que vai fazer a parte
+validação isso tem como ser feito aqui
+tá bom E lembrando que para passar essa
+base para essa parte de variação desse
+frame É tem que ser uma base nesse caso
+que eu tô usando um objeto. Rex do
+h2ovos tá mas se você tiver na base
+roudaut por exemplo tiverem e tiver que
+fazer um molde essa base tem que ser
+feita o molde os dentro do possível h2oe
+tem que ser um ponto redes a porque
+senão olhar os olhos não conseguem
+trabalhar com múltiplos a sistemas de
+arquivos para dentro do mesmo objeto tá
+bom esse aqui é o número de árvores que
+a gente vai criar aqui para o nosso
+Gradiente Fruit machine' Então vou
+colocar sem eu vou colocar nossos
+se demorar mais o que eu faço um outro
+legal aqui há na documentação esse aqui
+é o Max da vida então é a profundidade
+das Árvores de decisão Então imagina que
+a gente tem uma árvore de decisão é quem
+está tem um problema assimilado um
+algoritmo de diabo decisão no qual a
+gente tem aqui o nó raiz que ao Nossa
+essa palavra que estuda na estudante e a
+gente tem várias e a nossa árvore que
+elas seguem algumas Segue uma Iraque
+aqui na que a gente vai ter apresento a
+estudantes não ou sim e o segundo nível
+dessa árvore aqui vai ser em como você
+por exemplo é o qual o salário dessa
+pessoa a receita que essa pessoa tem tá
+é a renda no nesse caso aqui e aí que
+que seria uma step nesse caso dessa
+árvore aqui para cada um dessas dessas
+dessas partidas desse mesmo nível de
+quebra dessas árvores significa que a um
+nível de profundidade dessa área decisão
+então sente vir aqui para essa
+Oi quem está falando o seguinte então o
+primeiro a primeira essa o primeiro não
+a raiz vai ser esse estudante o primeiro
+o primeiro level não é o primeiro
+primeiro degrau dessa 1º grau de
+profundidade dessa árvore vai ser essa
+variável a renda o segundo o nível de
+profundidade vai ser entre essa variável
+ex e essa variável certo então aqui a
+gente tem conta na o nosso a nossa
+segunda quebra digamos assim
+e depois desse serve por exemplo de tem
+terceiro a o terceiro degrau digamos
+assim de profundidade que nessa quer que
+essa variável aqui idade tá então está
+falando que essa árvore de decisão ela
+tem três níveis de profundidade tá certo
+ah e acreditar colocando cinco eu posso
+colocar por exemplo aqui sei lá 10° 10 a
+de graça de profundidade e lembrando
+pessoal que é para esses treinamentos de
+Gradiente Boost Machine uma coisa que
+tem que ser levado em consideração que
+alguns atributos Eles são muito
+sensíveis a parte de overfeat A O que
+que significa principalmente a parte de
+maturidade significa que quanto mais
+profundidade a gente coloca na nossa na
+nossa árvore significa que a gente vai
+ter um nível de especificidade no nosso
+folha terminal tão grande que cada nobre
+que sente colocar muitas folhas cada
+nova folha a uma muita profundidade
+Desculpa os nossos folhas a terminais ou
+até por exemplo pouquíssimos e g
+e por dentro dois registros um registro
+Então tem um caso com a Claro de remover
+Fit por exemplo então se a árvore se
+tiver uma mudança por exemplo sensível
+da distribuição dos dados a por exemplo
+é a árvore da já perde todo o poder
+preditivo ela não generaliza tá então é
+essa é uma das coisas que é um das
+daquelas de casinhas digamos assim que a
+gente não vê muito mas é uma coisa que a
+gente tem que ir a tem que se atentar
+também e ouve-se uma sim uma
+profundidade Largo tiver por exemplo A3
+A3 97 33 graus por exemplo a significa
+que a árvore ela vai estar numa situação
+de ler a gente chama de underfitting ou
+seja subir treinada tá então nosso caso
+aqui eu vou colocar 10 mesmo tá vou
+deixar um pouco mais complexa roupa no
+Android que a gente vai colocar aqui
+essa é uma das cartas de tudo h2oc a
+gente vai dar uma olhada no flor já
+foram com esse modo a Ed
+Oi gente tá fazendo aqui no HGE 2 horas
+a gente consegue colocar o nome do
+modelo e é um modelo que a gente vai
+fazer digamos assim eu tô afim dele Ah
+no câncer de h2oh então se eu tiver
+fazendo um treinamento aqui por exemplo
+gbm Model estatidados né está cuidados
+como a gente vai conseguir ver lá no
+flor a esse treinamento ele já vai tá
+identificado tá a O que que significa
+então Conforme você só vem fazendo
+inúmeros experimentos com inúmeras
+números algoritmos esse treinamento ele
+vai ficar registrado no from de acordo
+com o nome que foi colocado aqui então
+eu vou colocar aqui como 1gbm modo
+estatidados Mas eu vou colocar o nome
+que vai caracterizar esse treinamento
+aqui a nou em dinheiro por exemplo que
+eu vou colocar o nome desses treinamento
+aqui isso vai ficar mais claro na hora
+que a gente vai treinando e a gente for
+para o flor tá
+eu vou trabalhar vou ligar aqui é um
+outro um outro atributo né digamos assim
+dessa dessa classe é a parte de
+distribuição Então vamos voltar aqui na
+nossa documentação do da função que é o
+seguinte a vamos entrar aqui na parte de
+cadê cadê cadê deixa de puxando ó
+puxando fazer aqui no Life isso exato
+por de fogo assim essa tua variável não
+for atribuída o h2oh ele vai ele vai
+tratar é vai fazer uma referência além
+do tipo de registro que a gente tem
+aquela variável tá E vai a fazer o a
+atribuição da distribuição
+automaticamente tá e como que essa E
+como que é essa é feito isso
+automaticamente e se for uma uma
+variável numérica ele vai para ele vai
+considerar como se fosse uma
+distribuição gaussiana se for um dado
+binário a binário variável dicotômica
+a atribuição aqui vai ser essa
+distribuição bern tá E para problemas
+que forem a por exemplo de multiplas a
+digamos assim então eu tô com a ficando
+a b c d e e quase por exemplo ele o olho
+atualizando e vai assumir que essa
+distribuição vai ser multinomial certo
+então esse é uma dica também que eu dou
+até mesmo não somente no h2oh mais a
+para qualquer tipo de pacote passa
+coloque a distribuição explicitamente
+dentro da da classe por quê Porque nesse
+caso aqui deixa eu voltar até na parte
+de de atribuição aqui dessas variáveis
+fazendo aqui no meu caso eu tenho
+variável a depor e como a gente viu
+anteriormente ela tava como ela tava
+como como numérica eu tive que fazer uma
+conversão explícita então o que que
+significa isso Se eu por acaso deixasse
+aqui por exemplo o número não ser que na
+minha parte aqui tingir eu esqueci de
+fazer isso o h2oh ele é olhar pela
+àquela variável falar um isso aqui é
+E aí você provar ela numérica ia fazer a
+transmissão automaticamente numa
+expedição da Oceana então é a
+transformar um problema de classificação
+que a gente tem aqui de forma errada
+para um problema de apagamento de
+regressão certo e aqui obviamente de
+acordo com a distribuição que vocês
+tiverem na na variável dependente do
+plano de vocês podem colocar outras a
+distribuições também como a distribuição
+tu ir de Laplace poisson Gama e por aí
+vai tá aqui essa parte aqui a parte
+delane ratts né que a parte no qual que
+vai ser a taxa de aprendizado que vai
+servir como parâmetro para fazer o
+atualização dos modelos a e a parte aqui
+de e o número é a mínimo de linhas né
+Não enrosquem está chamando aqui é o
+número final que a gente vai colocar o
+número mínimo de águia registro c191 uma
+folha tem
+o caminho para ser considerado uma folha
+tá aqui eu poderia colocar por exemplo
+20 ou 200 então uma folha tem que ter no
+mínimo 200 militância está isso aqui se
+eu tivesse treinando um supor a base com
+10 milhões de registro então a isso isso
+entra De novo naquele Quem estava
+falando em relação a parte de rádio Over
+Feet under' Fit por aí vai tá bom mas
+aqui eu vou deixar só dois e os ide vai
+ser o 42 como a gente tinha colocado a
+anteriormente tá então eu vou rodar aqui
+a parte treinamento Opa Deixa eu tirar o
+ponto de interrogação aqui lembrando
+Brothers trem da Argentina colocou aqui
+deixa eu só vou dar o split colocar
+minhas variáveis Independentes que eu
+falei esqueci de rodar e agora sim a
+gente vai rodar o nosso treinamento das
+nossas 900 árvores aqui bom coloquei
+para rodar ele vai mostrar aqui e em
+qualquer Qual que é o lance do flor né
+então sente vir aqui no flor
+eu nunca hoje 54321 primeira coisa que a
+gente pode fazer e para as duas coisas
+né eu vou eu posso monitorar aqui no meu
+terminal e eu vou deixar trabalhando
+então todos nos cortes aqui estão
+trabalhando aqui pesado tá só que a
+gente pode fazer também o gerenciamento
+por exemplo de ver o status do nosso
+poster ou seja o nosso planeta ele está
+funcionando ela está ativo e sente vai
+clicar aqui admin idiotas a gente já
+pode vir que hora que aparece aqui para
+gente então ele tá aparecendo aqui a o
+nosso Job do nosso frame h2oc a gente
+carregou que ele fez o parça e o nosso
+Model aqui ó deixa até aumentar aqui o
+tamanho até aumentar o zoom que é o
+nosso jobbed a gm estatidados no no
+ritmo de mim ele tá pegando tá rodando
+já terminou aqui já tá levou aí 39
+segundos para rodar e aqui dentro desse
+desse Jobs se por ele nesse casa que eu
+tô rodando standalone mas imagino que a
+gente tem celular 10 pessoas trabalhando
+a cada pessoa ia ter o seu experimento é
+com seus parâmetros registrados aqui no
+poster a e por deixou esses esses esses
+registros estariam com todas as
+informações dos parâmetros foram usados
+Então como que a gente faz isso então
+clique aqui no diops apareceu nessa
+lista de Jobs que formam a executados eu
+venho aqui no meu gbm dados não pedindo
+de mim porque aqui no meu de ovos
+apareceu aqui tem que ter nova segundos
+uma falsa inflável Mas como que você vai
+querer bom que você vai ver o que que
+aconteceu nesse dia o que eu faço eu vim
+aqui nesse nessa opção Action e clica
+aqui envio
+ó e aqui no viu ele já traz para mim
+esse essa ele aqui tudo isso dentro
+dessa louca rosto aqui da minha máquina
+certo ah então ele tem várias opções
+aqui né de fazer o download por exemplo
+dos objetos pond dos objetos Mojo Eu
+recomendo de novo que vocês vão quem não
+sabe o que são esses conceitos na
+primeira aula e ela só entrou explico é
+o porquê desses objetos aqui e ele já
+traz aqui todos os paramos Vitória as
+colunas te ignorei por exemplo aí decex
+a ele traz número de árvores ele traz a
+profundidade das árvores da o número
+mínimo de observações numa folha tá a e
+o meu City EA distribuição que eles
+ficam que E olha que legal pessoal
+quente pode ver que tudo isso dentro de
+interfaces em mais nenhum tipo de código
+tudo dentro do próprio flor Tá certo ele
+traz aqui o score Storm que é o que é
+Como que foi a convergência do
+aprendizado atrás aqui em relação ao da
+o rock Surf Hang on hang-on
+o kit em relação à parte treinamento
+então ele tá dando uma uma área abaixo
+da curva aqui de 99 por 100
+Provavelmente overfeat por causa de
+algum parâmetro coloquei 900 900 a-arms
+a e aqui em relação à base de validação
+né então aqui a gente já tem um gráfico
+do treinamento que a gente teve um caso
+de overfeat mas quando chegou para a
+parte de de validação que a base Deixa
+eu voltar aqui no código que essa
+validation desse vale deixa um frame
+aqui ele já deu um resultado de 0.74 tá
+que é muito longe ainda do nosso vídeo
+que a gente teve anteriormente e dentro
+do Flores já traz por exemplo a gente
+aqui ó a a importância das variáveis
+então a variável mais importante aqui
+que vai prever se a pessoa não entrarem
+de for não vai ser esse país Iraque que
+é o digamos assim como se fosse uma o
+primeiro pagamento de Deus assim ou
+entrada alguma coisa do tipo tá a idade
+da pessoa e de novo pessoal isso aqui é
+só para propósitos educacionais evitem
+e que tipo de viés seja chama de snack a
+discriminação por idade seja ao de
+gênero por aí vai ou tentem isolar isso
+a na medida do possível para a gente tá
+usando só para educacionais aqui tá E
+nesse caso aqui é idade é uma variável
+importante que vai que vai determinar aí
+né que vai informar se a pessoa vai
+entrar situação de de fora não tá a o
+limite de crédito essa pessoa tenta e
+algumas outras variáveis em relação ao
+pagamento a partir de educação é a parte
+de casamento aqui um variável que
+importa bem pouco tá e algumas outras
+variáveis então isso você já tem um
+grave com esse isso já tá totalmente
+suportável tá então a gente pode salvar
+apresenta essa essa imagem aqui como
+como a 1.jpg por exemplo local e colocar
+esse dentro de uma apresentação por
+exemplo tá E aqui já tem também por
+exemplo
+e a nossa Matriz de confusão tá aqui a
+gente tem tanto a a gente tem um rico
+recalque Qual o Recall eu preciso
+calculado né então aqui que eu preciso
+aqui então Recall a algumas informações
+aqui em relação à a tabela dele ti tá
+não vou passar por esse por esse por
+essas métricas aqui agora tá e tudo isso
+é pode ser feito em relação e eu que tem
+um sou tipo sair então se a gente quiser
+ver por exemplo o perfil do do objeto do
+objeto pô gente pode ver aqui tanto na
+porta na parte de interface por exemplo
+tá e voltando de novo aqui para o nosso
+para o nosso h2oe dentro dos modelos que
+a gente nesse modelo que a gente acabou
+de treinar aqui agora eu cheguei no modo
+a gente pode rodar por exemplo a a
+função a função Nativa do Eric é o
+Summer tá e a gente a pode ver por
+exemplo a informação de importância de
+variáveis ou as informações em relação a
+parte de escória de Treinamento
+informações sobre é
+e a Precision Recall a nossa Matriz de
+confusão e todas as métricas que a gente
+viu uma flor então é mais uma questão do
+tipo é para a gente o flor ele gente
+passa o monitoramente de monitoramento e
+desse treinamento a e também a já tá
+toda a parte gráfica para gente todas as
+informações em um lugar só então isso
+até mesmo para aparecer imagina que você
+é uma certeza de dados você tá fazendo
+alguns experimentos e você precisa que
+uma pessoa veja a por exemplo algumas
+métricas aquele daquele modelo que você
+acabou de treinar a o até mesmo Entenda
+como que após várias que foram usadas
+estão franja da tudo isso Já Por por
+padrão tá dentro de uma de um de um
+abcesso digamos assim que é o do do
+Planta principal tá E aqui se a gente
+quiser fazer por exemplo predições na
+Então a gente tem o nosso objeto que a
+gente vai te mate o o h2óó predict né
+então um objeto padrão que a gente usa
+para uma classe Padre
+a roupa para para fazer petições a gente
+pode passar o o modelo que a gente
+acabou de treinar aqui que é hoje é bem
+modo e passará por exame nossa base de
+teste aqui ou algum outro objeto a do
+formato. Reto h2oh Então a gente vai
+fazer essa petição e vamos jogar o
+resultado aqui dentro desse Fred Tom Já
+rodei aqui e se eu executar somente esse
+prático e já tá trazendo aqui por
+exemplo para mim ah os seis primeiros
+registros ou no nosso caso a gente está
+trabalhando com variável dicotômica né
+então ele para dar uma 1500 um tão não
+deixou não deu folder for mais a gente
+fizesse por exemplo é as probabilidades
+dentro das a das classes a gente teria
+aqui por exemplo p0 P1 então aqui tá
+dando 99% 94% uma classe 0 aí cinco
+porcento na classe E1 por exemplo disso
+esse objeto perder ele já da lista Então
+imagina que vocês tem algum de Óbidos
+que roda predição por isso algum tipo de
+escorre Então é só rodar e se perder
+aqui no médico junto do modelo
+eu trabalhava aqui colocar dentro de uma
+variável no meu caso que eu tô usando
+prático e se realizar isso fazer muita
+Ester a por assim dizer mas junto com aí
+de digamos assim é que tem algumas
+outras funções que eu não vou passar
+agora né que a conquista leitores a
+parte de de importância de variáveis e
+sente quiser ver também a de forma
+isolado somente o depende o desempenho
+do modelo a gente vem nessa nesse objeto
+chamado h2oh performance no qual a gente
+passa o nosso objeto né E o nosso o
+nosso objeto de treino em nosso modelo e
+a parte de uma base de por exemplo de
+teste uma base de validação tá e algumas
+outras informações por exemplo sobre o
+ácido modelo então está dando 074 a
+mesma coisa que a gente já viu lá no
+próprio flor isso é fala assim Flávio
+Mas como que eu coloco só faço e colocar
+esse modelo de produção fácil eu vou
+pegar vou usar só o diretório do projeto
+do estatidados aqui vou criar só um
+caminho tá aqui no meu caso aqui eu tô
+no
+e-mails para que esse é o diretório que
+eu tô trabalhando mas vocês podem passar
+qualquer diretório aqui vocês quiserem
+tá no meu caso eu tô colocando mente
+essa variável aqui ó tá quê que é o
+caminho da minha máquina e os quais o
+documentos que tiver sol a de uma forma
+só para ter um caminho para não ter que
+colocar o tudo a manualmente tá se eu
+tivesse por exemplo colocar esse dentro
+de um de obra aqui uma outra máquina que
+não soubesse o caminho padrão E aí que
+eu vou fazer eu vou colocar dentro eu
+vou usar essa variável aqui esse esse
+método seja modo o dólar dois ovos que
+ele é um método que ele faz
+esterilização de todos os objetos Então
+posso treinar qualquer tipo de objeto de
+tipo de modelo de Treinamento então pode
+ser a último de glm redes neurais andou
+Force Eles saem Esse é um rapper que ele
+salva o PEP de modelo dentro da do Sol
+no qual eu passo o meu modelo eu passo o
+caminho no qual esse modelo vai ser
+salvo
+e aqui eu tô usando a opção foste tu que
+é o que se eu tiver algum outro objeto
+aqui com o mesmo nome por exemplo ele
+vai só para escrever esse objeto Então
+vou rodar esse sair modo aqui então
+poder Vocês moram e sente dar um refresh
+aqui olha que nem aparece aqui para
+gente no nosso modelinho GBN está te
+dado não filtro em Juninho tá esse é o
+modelo já ser realizado que contém a
+modelinho treinado que a gente já fez
+anteriormente tá certo aqui eu tô das um
+print aqui no caminho modelo e se eu
+quiser Salvar esse modelo Então imagina
+que eu tô com a gente está começando
+agora a colocar esse esse esse modelo em
+produção por exemplo dentro do Então eu
+só vou fazer um limite novamente do meu
+do meu poster tá rodando aqui se o Unite
+e que vou fazer vou chamar deixo só
+rolar Aqui para baixo essa essa essa
+função load Model passar o caminho do
+meu do meu
+o caso vai tá aqui nesse caminho que
+esse objeto objeto Zinho aqui a gente tá
+vendo dentro do dentro do estúdio Tá vou
+chamar o outro modo e vou colocar como
+seiva de novo só para ficar transparente
+para todo mundo que tinha fazer previsão
+A petição com um modelo que a gente
+salvou e a gente fez a carga de novo
+usando novamente aqui o h2oh a perder eu
+vou chamar quem um objeto vai ser
+observado modo e a base de dados que eu
+vou passar aqui no caso aqui é o objeto
+chamado me odeia eu vou passar a minha
+base de teste então se eu vou dar esses
+limpeza aqui
+e ele vai fazer toda a predição codorna
+só pensam e a gente tem
+ao todo os nossos os nossos registros
+digamos assim da nossa base de predição
+todos eles a opa
+e a conexão que fez que a gente fez
+anteriormente então a não deixou não de
+som então deixou aqui entrou em calote
+de Deus assim a e aqui também tem a
+parte de probabilidade tudo isso que o
+nosso modelo ser realizado sem nenhum
+tipo de treinamento então com essa
+implementação que o modelo já está
+praticamente pronto pai produção Tá mas
+suave se a gente quiser passar esse
+modelo pra galera que tem plataforma ou
+em Java ou uma plataforma escala por
+exemplo Como que eu faço isso e não e
+não somente não é a gente vai usar esse
+essa essa função que é chamada download
+Mojo tá que vai ser o objeto Mojo né
+quem vai exportar uma o ponto já li na
+classe Java e para entender de novo
+pessoal em relação que são esses objetos
+surgiram vocês vão primeiro vídeo esse
+vídeo aqui eu vou fazer só a parte de
+serialização e carga e predição Tá mas
+basicamente isso aqui é um artefato a
+chefe que é feito a linguagem
+é desse é falta aqui esse esse modelo e
+pode ser exportado exportado não somente
+por uma por uma equipe Esta é a que vai
+fazer essas predições por exemplo mas
+também a esse modelo ele pode ser
+embutido dentro de uma plataforma Java o
+dente uma plataforma escala por exemplo
+tá então eu vou dar esse download mo
+Joaquim ou de mandar hoje Mojo E se eu
+mudar aqui e aparece aqui para gente
+deixa ordenar aqui só por data de
+modificação então aqui eu já tenho
+tanto. Zip aqui com o código do Moju e
+também eu tenho meu ponto jaraqui Então
+o que eu tô falando aqui esse modelo Já
+tá pronto É só você passar esse fundo
+jaraqui para o desenvolvedor ali da
+plataforma Java aquele já vai ser a
+capaz de embutir esse modelo dentro do
+treinamente mesma coisa de novo né então
+eu vou pegar o caminho do meu. Já se eu
+quiser fazer o importe do modelo como um
+monte eu vou chamar aqui h2oh. Mojo
+passar o caminho no
+o objeto aquele tá sol para mim ir na
+mesma forma que a gente fez com nosso
+modelo que a gente chama de seiva de
+modo a tem que ser é que a gente ser
+alisou o modelo e fez a carga dele fez a
+pressão a gente consegue fazer a mesma
+coisa com importa de moda né que vai ser
+o nosso vai ser modelo tente roblock
+importa o bojo Então esse já tá como
+importa moro e a nossa base de teste
+também no caso aqui eu tô chamando mesmo
+função h2obra dele e a gente vai salvar
+tudo dentro desse modo o poder que
+importa dando aqui esse cara já rodou
+tudo vou dar o print novamente para ver
+os nossos a nossa profissão ele já tá
+trazendo todas as nossas todos os
+registros da base de teste umas vezes as
+predições que a gente viu anteriormente
+Então 94% cinco porcento não calote um
+calote calote e assim sucessivamente
+então a idade do vídeo foi mais Dá para
+vocês como que é o gbm dentro do r a
+justiça realizou modelo tá prontinha
+para ir para produção seja
+dá para usar ele dentro do próprio R
+seja para usar em plataformas a escala e
+Java certo e a gente fez toda a parte do
+nosso monitoramento de métricas todas
+aqui dentro do nosso próprio flor Tá bom
+então é isso pessoal até o próximo vídeo
+se você não é inscrito no canal se
+inscreve no canal dá um joia no vídeo
+que é muito importante a que vocês dê um
+joinha aí para que se cumpra eu não seja
+difundido por máximo de pessoas
+possíveis tá bom é isso aí por hoje e
+até mais forte abraço tchau tchau

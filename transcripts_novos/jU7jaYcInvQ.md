@@ -1,0 +1,250 @@
+# Sistemas de Recomendação - Market Basket Analysis com o algoritmo APRIORI no R
+
+- **URL:** https://www.youtube.com/watch?v=jU7jaYcInvQ
+- **ID:** jU7jaYcInvQ
+
+## Transcrição
+
+o pessoal do beleza que o maior nesse
+vídeo vou mostrar pra vocês como fazer
+uma análise às contas analisadas também
+é conhecida com o nome de marca de baixo
+de análise também tinha fazendo r
+só que antes de ir para a parte prática
+que precisa passar por alguns conceitos
+teóricos
+então a pergunta de negócio é que vai
+entregar a responder ela vai para a
+entrega do tipo que encontrou o produto
+x contar quais outros produtos juntos
+então em um algoritmo é que encontra
+essas associações nesses padrões e
+mapeou os comportamentos de compra dos
+nossos clientes tópicos temáticos para
+identificar padrões em duas categorias
+os padrões que são vagem interpretado
+tipo se isso então aquilo não se compra
+o produto x compra quais os produtos
+juntos e eu aconselho a sociedade
+aplicações do mesmo algoritmo são as
+mais diversas como por exemplo as ações
+de produtos para clientes como no site
+de compras online
+não sabia como quem comprou esse item
+também encontrou eco no site de pesquisa
+o item é embaixo parece né quem comprou
+esse item que a pesquisa também comprou
+esses itens já é recomendada ou
+inclusive a mostra forte em nosso 3u
+músicas recomendações de filmes sérios
+composição do centro de compras que a
+gente vai trabalhar aqui nós lembra os
+mais pesados com a regra da associação é
+o a priori a gente entender bem o que
+funciona é fundamental rech entenda é
+interpretar essas três métricas aqui
+também alguns e reparando cruz na hora
+que a gente fechou a priori não é
+vamos ficar mais fácil entender e se
+testaram metros é é um beijo na que nós
+desejamos identificar padrões de compras
+nas vendas de aço no mercado para isso
+dispomos do histórico de culpados e
+oscips foram comprados em cada cupão
+então é este aqui cinco transações no
+primeiro o da ação o cliente control v
+os mercados propõe manter a redação é um
+outro mercado comprou o pão com
+requeijão relação cliente o problema de
+café em pó e manteiga e assim até o
+quinto então seja é nós temos uma
+amostra de cinco relações ou usar o óleo
+praticar padrões de compras aqui dentro
+a primeira médica que é o suporte no
+cálculo vai interpretar ela ea manteiga
+o padrão comprar pão manteiga ocorre 40%
+das nossas transações dos tons
+transações no nosso total de cinco anos
+o pão e manteiga aparecem juntos em dois
+cupons josé a freqüência conjunta do pão
+e manteiga
+são dois cupons sobre o total de cupons
+40% vai continuar calculado entre o pão
+eo requeijão é 20% ou seja o padrão
+cortar paulo juntamente com requeijão
+ocorre em 20 por cento das nossas
+transações é e vai continuar
+ele pega o colar para pa
+depois que terminar para todos os
+produtos ele vai calcular trios
+então quando ocorre pode manteiga existe
+um terceiro produto também ocorre nos
+num suporte que a gente deu é para mim
+frisou o suporte mim vai achar duas
+produtos baixar trios baixar quatro
+produtos e baixar em núcleos de de
+padrões produtos até então achava mais
+ou até atingir suporte minguante passou
+como ele ia parando na confiança é
+ajeitar no cálculo
+vamos interpretar aqui a confiança entre
+o pão e manteiga 50 por cento das vezes
+que o bom foi comprado 50 por cento das
+vezes o cliente também levou a manteiga
+é trabalho no nosso universo deixa de
+ser total de contratações agora é parte
+das ações que o pão foi comprado
+então 24 pontos e ficou um tempão é a
+manteiga aparecem dois deles então 2
+sobre 4 50%
+continuando a 25% ou seja 25
+ele também cobrou o requeijão
+então agora na alavancagem
+primeiro o pão ea manteiga é bom a
+alavanca as vendas da manteiga em um
+ponto vinte e cinco vezes menor do que
+um que o padrão foi o acaso
+quanto maior a uma casa mais um ponto ao
+lado do outro
+então nosso universo para calcular o
+universo agora volta a ser o total de
+transações que a 55 o pão ea manteiga
+aparecem juntos em dois anos
+é o pão de forma isolada
+parecem 4
+a manteiga analisar de forma isolada
+aparecem dois cupons
+portanto alavancagem propõe a manteiga é
+um 25 a gente pode reparar aqui ela está
+medindo o o suporte conjunto sobre o
+produto de supostas individuais
+então a gente vai ter essa razão aqui
+que vai indicar quanto de um produto
+alavanca alavancamento do outro
+continuando a alavancagem do paulo i
+joão conseguiu ser a mesma então é o pão
+alavancamento fazendas da região em um
+ponto 15 vezes não conhecendo esses três
+conceitos de três metros é vamos até r a
+margem dados
+lá ele é que não quero ontem 22 ações
+deixou abrir aqui vocês
+a base tem um corpo não só esse formato
+é um dos formatos que o pior trabalho
+chama édila no código de um pouquinho
+então cada linha é ocupam uma transação
+nessa primeira linha nesse ponto de
+venda bem o cliente comprou leite e
+compra o pão não pode escolher depois
+numa outra ação o cliente comprou o pão
+leite biscoitos cereais até a
+implantação na equipe com por chá leite
+café e cereais
+nesse formato aqui em fátima coluna e
+todos os produtos confeccionados por um
+delimitador nesse caso aqui o pai pe
+na prática a gente tem que modelar os
+dados para o formato é tom nós vamos
+trabalhar com essas duas bibliotecas pra
+chamar a priori ea segunda aqui que é
+para gerar a visualização interativas
+comando aqui hoje ponto transaction eu
+vou eu fazer aquela leitura das
+transações do diretório passa o formato
+que é que estão nesse formato aqui
+trabalha com o suco mas também com ele
+os dados nesse formato delimitado pelo
+pai pe
+isso é produto aplicado na mesma
+transação
+quero que ele remove pra mim transações
+titular com san marino objetos que a
+gente leu a gente consegue ver aqui que
+ele fala aqui por trás nem quando o
+eller que as transações e cria uma crise
+passa
+nesse caso vai ter 20 linhas suaves
+fundações têm umas colunas é porque 11
+colunas que só 11 produtos distintos
+então na prática que tem 10 mil produtos
+20 e produtos distintos
+ele tem uma matriz com com e linhas e e
+e 10.000 coluna lance
+o vitinho coluna não pode ter um
+currículo será um pouco maior mas
+funcionou bem
+a gente pode utilizar top energia
+vendida então eu queria que um objeto
+chama regras onde eu já vou chamar a
+função a priori desse pacote do mesmo
+argumento vou passar as suas transacções
+a gente leu aqui
+segundo argumento é o parâmetro que ele
+tem que receber uma lista nessa lista
+a gente passa o suporte no crente que
+aceitar é a confiança mínima que tinha
+que aceitar por cada regra o mínimo de
+padrão presidente achar ou seja a regra
+ele pelo menos dois produtos alimentares
+é lá acha e coloca o produto com ele
+mesmo é mesmo atrapalhado o máximo é de
+duplas de limitar ou não limitar a três
+por exemplo ele vai achar é trio de
+produtos ou ou quatro produtos mesma
+regra
+nesse caso a quebra está de então quem
+compra o produto a compra qual o povo
+achou dez regras que atendam essas
+condições pelo menos 20% de suporte de
+50 por cento de confiança
+ele pode dizer usar essas regras e eu
+não dava dispersão 7 interativo patton
+aqui não é escolhido ontem a confiança
+no eixo x o seu porte e acordou ponto é
+a política a vantagem de passar o mouse
+em cima é a regra entre é o padrão que
+ele achou para a sopa e chá
+então o suporte entre a sopa o chá é 20%
+a confiança entre eles 80 por cento ou
+seja das vezes o cliente comprou chá
+sopa por dia você às vezes também
+comprar chá é a alavancagem ou lifting é
+2.29 ou seja sou a sopa alavanca a venda
+do chá em duas motos 29 vezes a gente
+pode vir de outros réus entre os serial
+café das vezes que o cliente comprou
+serial 66% das vezes também comprou café
+ou chá sopa que pode explorar o gráfico
+pode gerar esse gráfico aqui é bem legal
+com grafia consegue rastrear o padrão de
+comportamento dos nossos clientes por
+exemplo aqui as regras pra café cecafé
+das vezes quem compare ao cinema
+assistindo às vezes também comprou café
+açúcar 60 das vezes também tomou café ou
+seja o lifting o açúcar alavancamento
+café e 1.167 vezes que tem 11 anos que
+vai do café e as vendas que sai do café
+com açúcar e do açúcar vai pra o pão e
+rastreando comportamento pode filtrar
+aqui pros específicos
+ele só regra do leite quero ver só regra
+relacionada ao açúcar pode é danificar o
+mouse de menos um nome
+dunga após converter prata frente às
+regras e possam exportar e pipototal né
+alguns remédios de deslizar são 40h para
+inteligência lotado planejamento para
+tomar as melhores decisões né
+só quero o fez por você contou que é tão
+associado a outro ela vezes perdeu por
+muito perto por um homem no cliente tem
+que andar pelos mercado no meio do grid
+após um banner de um terceiro produto
+que tem uma confiança muito alta com o
+primeiro produto
+então a gente pode direcionar melhor o
+nosso plano de ação os animais são paulo
+de hoje é isso que ajuda
+deixe um comentário aí perde gostado
+muito obrigado

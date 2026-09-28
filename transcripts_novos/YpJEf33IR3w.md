@@ -1,0 +1,150 @@
+# Aprenda a identificar Dados Faltantes no R
+
+- **URL:** https://www.youtube.com/watch?v=YpJEf33IR3w
+- **ID:** YpJEf33IR3w
+
+## Transcrição
+
+bom dia tudo bem com vocês sejam bem
+vindos a mais um vídeo do canal mesmo eu
+sou o pedro é o dino e vou mostrar pra
+vocês como trabalhar como mostrar os
+dados faltantes do seu de até 7 da sua
+base de dados
+ok do então existe uma piadinha que diz
+assim que dois tipos de pessoas pessoas
+que conseguem está por lá a partir de
+dados faltantes
+[Música]
+continuando aqui então o que acontece
+você provavelmente tem muitos problemas
+quando é isto um senso de dados o total
+que são os dados faltantes ou seja o dna
+se no nosso caso hoje uma só vez uma
+função zina rápida como vocês podem
+mostrar ao verificar quais são os dados
+faltantes tá bom então vamos abrir nosso
+projeto aqui não é e eu vou criar um
+novo script aqui é rodar um nome desse
+script aqui dna
+vamos verificar em alguns pacotes o
+primeiro deles é o por aí depois eu
+precisar é só hipótese também ok
+perfeito
+agora eu vou carregar meu lado estava se
+podem carregar os até eu vou colocar pra
+vocês aqui no na linha na descrição os
+dados se vocês quiserem reproduzir esse
+código está então vou dar minha rl no
+caso do l aí eu vou ver isso aqui é e
+separador ele é tabular é porque já
+havia se dado às necessidades antes da
+volta não sei que é e nh e sting
+eles são muito bem vocês vão ver que eu
+tenho 1.073 observações e tem 48
+variáveis beleza
+então eu vou dar um senhor aqui pra ver
+esses dados dá uma olhada com esses
+dados não podem ver que esse eu tenho
+nessa variável mbp receber
+eu tenho alguns maio/11 isso aí eu quero
+ver nem todos os dados assim enquanto
+que eu tenho dna tá bom então pra que eu
+possa ver se essa quais são os limites
+das variáveis
+e tem mais em mim mas eu vou definir uma
+função vou te dar uma função chamada o
+mec em berlim de belo monte é pra vocês
+em vez de fazer um forte passando por
+todas as os vetores ou seja os olhares
+do mês até 7 o map as 17 inteiro e para
+cada eleitor vai passar uma função que
+eu vou fazer primeira criança de até
+sete chamado camiseta quem muito bem
+esse data 7 ele vai então vou passar pra
+cada urna ou para cada variável esse
+dado
+vou passar uma função diz aqui ok que
+vai ser então eu vou é melhor então essa
+função vai ser a onde a soma dá se por
+ganhar pra cada dividido pelo tamanho do
+tamanho desse vetor vezes em que eu
+quero uma casa decimal de precisão
+então tá acontecendo nessa função que eu
+estou arredondando a soma dos 12 das
+variáveis estão voltando no caso da soja
+estão faltando dividido pelo tamanho
+desse vetor aqui nem por 100 com uma
+casa decimal de precisão tá bem então
+foi atrás só isso aqui muito bem e eu já
+vou ter aqui uma idéia eu posso imprimir
+esse mesmo jeito que tava vão ver que eu
+tenho aqui é no nbb como a gente tinha
+visto antes está no código que ele
+também mas como é que vai pra ver então
+vou colocar aqui tipo para o ver quais
+são os maiores do que fizera então se
+deitar maior que 0 e agora nos deitar
+primo então tenho quatro variáveis que
+têm é que têm valores faltante está
+agora votar isso aqui ou criar uma outra
+função que chama se em show em lei que
+vai votar contra a porcentagem dessas
+variáveis que estão faltando tá bom
+fazer é o seguinte eu vou criar então
+show em lê é uma função
+é eu vou colocar que são target que vai
+ser o flamengo vai entrar você pode
+colocar na frente se você quiser tático
+como você quiser aqui define essa
+entrada nessa função
+então eu vou transformar o datafolha vai
+ser vai ser meu target no caso a
+variável vai ser as variáveis vão ser os
+nomes do motard digitar meu alvo no caso
+ia eu não voltei eu não voltei e vou
+precisar daquele país melhor e deixa ele
+já é bom eu vou criar então a esse
+opa
+[Música]
+muito bem nessa condição
+agora vamos chamar a função para o nosso
+respeito
+então agora é outro lado direito vocês
+podem ver que eu tenho a minha minha
+pilotagem geográfico das variáveis que
+estão faltando tá bom então eu posso
+saber mais ou menos quantos por cento
+que cada variável vai ter que faltando
+então essa foi esse foi o vídeo rápido
+pra mostrar pra vocês como vocês podem
+visualizar fazer uma análise própria
+exploratória dos dados antes de começar
+a trabalhar com a construção de modelos
+como vocês vão fazer é pra limpar esses
+dados depois tá então é sempre digamos
+um primeiro passo é saber quais são os
+dados faltantes e e e vocês podem
+extrair deles então esse tipo de
+conteúdo ele vai estar presente no
+workshop machine que eu vou está
+ministrando em julho na minha idade
+embora prova que eu estarei no brasil
+se você quiser participar também o link
+está na descrição eu provavelmente mais
+no futuro vou criar esse workshop de mão
+de uma forma online então que você pode
+participar qualquer lugar do brasil
+qualquer lugar do mundo que fala
+português porque o material vai ser
+especificamente em português e se você
+quiser participar de workshop e que a
+vontade para entrar em encontrar no site
+das inscrições e se inscreveu que as
+vagas são limitadas
+no máximo 30 estudantes eu vou acolher
+mas se você quiser participar
+não existe bom eu acho que o bom
+mais detalhes na descrição obrigado por
+este até que o vídeo um abraço até mais
+até a próxima

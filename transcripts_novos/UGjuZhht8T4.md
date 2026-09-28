@@ -1,0 +1,48 @@
+# Depoimento Walison - Comunidade de Estatística do Prof. Thiago Marques
+
+- **URL:** https://www.youtube.com/watch?v=UGjuZhht8T4
+- **ID:** UGjuZhht8T4
+
+## Transcrição
+
+olá pessoal tudo bem meu nome é o
+alisson abril e eu vim aqui para
+compartilhar com vocês um pouquinho da
+minha experiência com a comunidade
+estatística do professor thiago max é o
+meu ingresso nesse curso nessa
+comunidade se deu pela necessidade que
+eu senti ao longo da minha caminhada em
+ciência de dados e tem uma base
+estatística mais sólida né que é
+imprescindível aí para que o
+profissional de dados tem uma uma melhor
+compreensão do que ele tá fazendo e como
+ele tá modelando e tudo mais e tinha uma
+certa dificuldade de encontrar o
+conteúdo em português direcionado para
+esse tema né então ao longo desse tempo
+que eu tô com o pessoal lá com thiago e
+tudo mais eu tenho percebido aí a
+diferença normas e não tem feito para
+mim não só pelo conteúdo que é muito bom
+muito abrangente pela pela atenção que o
+tiago dá para todo mundo assim um cara
+fantástico nesse
+é mas pessoalmente pelas agendas que que
+a gente tem lá né com a participação de
+profissionais do mercado que já atuam
+tanto compartilhar com a gente pouquinho
+da dessa visão aí é multidisciplinar
+tudo isso em conjunto geram experiência
+única e então se você tá buscando aí uma
+oportunidade de entender mais esse
+universo fantástico é de estatística de
+aprofundar a essência de dados todos os
+verticais aí como diplany mochila ea é o
+lugar certo pode vir que que você vai
+encontrar tudo aquilo que está buscando
+um apoio fantástico aí da comunidade do
+pessoal do tiago e desse time aí que vem
+de fora para compartilhar com a gente
+experiências tá forte abraço até mais

@@ -1,0 +1,827 @@
+# MC03 - Bar Charts, Sorting, and Colors - Prof. Marcello Nascimento (Learn Tableau)
+
+- **URL:** https://www.youtube.com/watch?v=nKSzUS6oQm0
+- **ID:** nKSzUS6oQm0
+
+## Transcrição
+
+salve salve galerinha tudo de voz como é
+que vocês estão espero que estejam bem é
+sou marcelo lima e hoje eu vou continuar
+com um minicurso de introdução ao pablo
+publique dessa vez agora falando sobre
+gráfico de barras né isso é o episódio 3
+e a gente tá vendo do minicurso e só
+para começar aí eu quero que você vai
+fazer aquele pedido para você fortalecer
+o rolê deixe seu like ative o sininho
+para você não perder nenhum vídeo afinal
+todos os dias eu estou postando novos
+vídeos de desse minicurso de stablon
+então eu vou fazer uma ementa mais
+completa quando chegar lá no final vocês
+não tem um curso inteiro ditador
+disponível para vocês de graça e aqui no
+youtube certo então sem mais delongas
+vamos dar andamento aí no curso mas
+antes eu quero deixar os contatos com
+vocês tá é em todos os com passei meu tá
+a sap instagram dá pra gente bater um
+papo em pablo caso você deseja desejo
+fazer isso aí e meu linkedin youtube
+também no canal e o repressivo pablo
+pablo public profile o arrouba já mal
+completo mt certo bom então vamos lá
+antes eu gostaria de antes de iniciar a
+aula eu gostaria de falar o seguinte
+este senhor que está aí no vídeo que o
+professor thiago marques esse cara é o
+pregador da palavra de ficha de
+bernoulli da aos como gorov mês então
+sim ele prega a palavra de todos os
+estatísticos possíveis aí na história tá
+que de fato fizeram muita diferença tem
+testes aí estatísticos com os novos
+escravos já experimentei alguns deles
+também durante a faculdade e assim o
+professor thiago marques eles ele ensina
+a nossa comunidade de estatística esses
+testes e muitos outros mais então ele
+fala muito sobre estatística tá o nome
+e não segue aí o link dedinho dele eu
+tava até passar aqui para vocês esse
+aqui é o canal do youtube dele então
+esse é o canal do professor thiago né eu
+tava até de vendo esse esses vídeos do
+curso de estábulo para ele e olha que
+pecado eu não sou inscrito no canal dele
+então eu vou me inscrever no canal dele
+e ativar o sininho para receber todos os
+vídeos dele quando ele postar algum
+vídeo sobre estatística ou então sobre a
+comunidade de estatística beleza só que
+esse é o canal do professor thiago está
+te dado no youtube e também sigam ele
+aqui no linkedin é que ele tem o perfil
+linkedin e fala para mim bastante sobre
+a comunidade de estatística beleza tá
+certo
+e é isso aí então só agradecer para mim
+pelo convite do professor para estar
+ministrando esse minicurso de tablo
+falando de tambor na comunidade de
+estatística aí no professor thiago mar
+beleza vão essa então não eu tinha
+falado com vocês a questão de conexão de
+dados no vídeo anterior então a partir
+de agora a gente vai fazer a conexão à
+dados
+e para a gente começar a brincar os
+gráficos de pablo como disse no episódio
+3 que é esse a gente vai falar sobre
+gráfico de barra tá se você não
+acompanha os vídeos anteriores eu sugiro
+que você veja primeiro o vídeo de
+introdução ao tabloide os conceitos de
+uso para saber como funciona a interface
+o que que é cada coisa para depois pular
+para o próximo vídeo que é de conexão à
+dados tá então eu falo também um pouco
+sobre a conexão de dados tanto da versão
+completa quanto da versão pública do
+tablo então aqui a gente vai abrir o
+arquivo dado 2014 né isso só
+eu abrir o tá bloqueando aqui
+é o senhor de tudo errado aqui no taboão
+é pesado
+e eles vão abrir
+oh alô public
+oi gente vai arquivo de texto dados 2014
+porque das 2014 esse esses dados de 2014
+são da soldados aberto do consumidor.gov
+e são do ano de 2014 eu usei inclusive
+esses dados de 2014/2018 só não me
+engano para criar um gatilho word
+disponível no meu perfil do tá
+bloqueando que lá no começo se vocês
+quiserem ver até vou mostrar aqui de
+novo
+é falho arroba desculpe profae o barra
+chamar o culto snt então vocês podem lá
+no meu perfil tá botando ou digitar em
+meu nome lá vocês vão encontrar e
+certamente vocês vão tá vendo e cidade
+fortificada análise de consumidor e
+reclamações do consumidor pontogov eles
+2014 até 2018 se eu não me engano o
+nosso isso mesmo tá bom então é isso é
+isso aí galera a gente já tem usados
+aqui depois que já fizemos a conexão
+ontem eu expliquei os tipos de campos né
+isso no vídeo anterior e a gente já vai
+para planilha beleza
+um livro que eu li que eu disse a vocês
+sobre a parte de dimensões e medidas se
+você não viu esse vídeo veja no episódio
+2 fazendo conexão à dados e neste vídeo
+falo um pouco mais sobre os lados só que
+eu acabei de errar e não é esse aí não é
+o vídeo número um onde eu falo de
+conceitos de uso e ea interface
+introdução na interface tem todas as
+ferramentas aqui e eu falo um pouco das
+partes cartões dimensões e medidas aqui
+já apareceu dimensões definidas sabe
+e as dimensões elas são nosso geralmente
+são denominados por essas são feitos por
+essa cor azul na não tem um formato de
+uma pílula mas é um campo campo pílula
+tabela de termina com o pílula é um
+jargão anterior utilizo e medida
+geralmente têm a cor verde pode ser que
+contém o medidas na dimensão a então
+você pode também tem a liberdade de
+jogar demissão para medida ou medida
+para dimensão isso eu vou explicar
+também com o tempo tranquilo então já
+fizemos as conexões são dados no caso a
+gente abriu aprendi que saiu aqui e
+beleza agora vamos falar sobre gráfico
+de barras
+ah beleza mas para que serve o gráfico
+de barras hoje né a gente o que dizem
+estatística para a gente fazer várias
+informações seja tanto o valor
+comparativo quanto quantitativo é um
+gráfico bem assim que mostra de maneira
+brutal teu lado posso ser com uma
+categoria por exemplo uma variável
+nominal seja por exemplo masculino e
+feminino que a relação ao sexo ou com
+tempo ou seja você pode usar também uma
+data para determinar certos valores
+utilizando o gráfico de barras é um
+comprimento proporcional aos valores que
+você tem na sua base de dados
+oi e para a gente criar um gráfico de
+barras o pablo você primeiro vai
+selecionar mais de mim são e depois uma
+medida como eu mostro esse gif então a
+gente tem uma a gente tem a área de
+dimensões e área de medidas não vamos
+fazer alguém se a gente vai fazer via
+prática tá então aqui a gente tem a
+dimensões ou o lado de dimensões o lado
+de medidas certo então vamos utilizar
+por exemplo
+o número de número de reclamações por
+área a gente vai fazer então aqui no no
+tablou o gráfico de barras né a gente
+vai selecionar uma dimensão
+oi e o uma medida
+e eu só vou aqui
+e isso
+oi tudo bom para dormir né
+e aí beleza galera deu uma parada aqui
+mas foi coisa rápida é a gente vai
+clicar novamente eu vou falar aqui duas
+vezes você vão ficar perdão você vai
+segurar e arrastar o campo a área
+a coluna e o campo total até linhas
+total é uma soma já agregada então no
+caso é o total de reclamações tá esse é
+o gráfico de barras que que a gente tem
+disponível tá é o que o pablo ele faz de
+forma automática então se você segurar e
+arrastar o campo ou um campo de dimensão
+segurar e arrastar um campo de medida
+para linha para coluna em qualquer uma
+das duas divisórias você vai ter
+disponível um gráfico de barra beijo
+quando tiver uma coluna no caso um campo
+em uma uma divisória de coluna é um
+campo numa divisória de linha o pablo
+fará gráficos ok eu vou limpar aqui né
+eu vou te dizer esse botão aqui em cima
+chamado limpar limpar planilha1
+bom e fazer de uma outra forma
+o show das dois cliques em área
+e ele vai entender que a área é uma
+lista em caso por cima dimensão ele tem
+está em linhas na forma que eu tá bom
+entendi esse olhar dois cliques em total
+ele vai lá fazer um gráfico de barras
+ele vai fazer uma tabela de um forma
+muito grupo mas se você acabar fazendo
+isso
+o ar mas eu quero depois apresentar o
+gráfico de barras beleza tem algumas tem
+uns macetes legais para você evitar isso
+e fazer diretamente fraco de barra você
+pode segurar e arrastar esse campo nessa
+área aqui onde está o total e jogar
+diretamente para colunas logo você vai
+ter uma barras empilhadas
+horizontalmente e você pode mudar essa
+esse panorama tá aqui em cima na
+divisória de ferramentas temos alternar
+entre linhas e colunas tom as você clica
+nesse botão ele vai estar de forma
+vertical ou vice-versa se você quiser
+fazer horizontal frio outra forma
+e eu vou clicar aqui de novo em área e
+em total carlos uma outra forma que você
+possa fazer esse tipo de análise é virem
+mostre-me onde está aqui no canto
+superior direito
+a implicar aqui na recomendação barras
+horizontais um para as barras vergalhões
+barras verticais uma antena
+o embargo skies mais lado a lado você
+pode clicar em barras horizontais também
+bem duro mostra-lhe ou
+e é isso mesmo apenas isso mesmo e você
+de novamente alterna entre linhas e
+colunas caso você queira deixar de forma
+vertical tranquilo é esse o gráfico de
+barras que que dá para fazer no thablo
+e agora para você fazer a classificação
+desse campo esse campo de dimensão que a
+gente fez é bem simples também imagina
+que você queira classificar os dados do
+maior para o menor do menor para o maior
+tá geralmente em muitas análises e sua
+isso acaba sendo feito então a gente vai
+usar também essa divisória do menu de
+ferramentas para fazer isso com relação
+à
+e eles a gente tem aqui o gráfico de
+barras já feito mas a gente deseja
+classificar
+e eu vou deixar de forma horizontal a
+gente tem uma noção mas
+a visão tá aqui para deixar a tela
+inteira eu vim nesse botãozinho aqui
+deixei exibição inteira pra galera então
+ele vai se ajustar conforme os dados que
+você tenha na tela
+é bom aqui a gente tem a caixinha de
+ferramentas né então desse lado aqui a
+gente nesse botão aqui a gente pode
+classificar usando a área que ali que a
+minha no caso beleza fizemos a
+classificação de modo decrescente
+e para fazermos a classificação
+crescente é só clicar no botão ao lado e
+e olha aqui beleza agora a gente tem no
+maior do menor para o maior
+a equipe do menu do maior para o menor
+claro outra forma de você classificar os
+seus dados deixa só limpa classificação
+aqui que é uma coisa bem interessante
+também você pode clicar de onde campo
+passei do classificado e existe um botão
+chamado limpar classificação mostrar
+novamente
+a limpar classificação do ele limpa a
+classificação existente que é para a
+gente classificar de uma outra maneira
+sem usar as a classificação alinhada
+automática a gente vai no campo que a
+gente deseja por exemplo aqui em área
+e vamos clicar no botão direito e depois
+em classificar
+e aqui ele vai abrir vai abrir uma
+telinha perguntando como é que a gente
+quer classificar esse caro e ordem da
+fonte de dados se for próximo da fonte
+beleza a gente pode falsificado
+crescente ou decrescente ou não tá na
+fonte ou na base de dados para
+classificar de forma alfabética beleza
+dá para fazer também não faz um
+decrescente aqui por exemplo o que ficou
+sua forma tudo bem a gente também pode
+classificar por campo porque é um
+específico é de uma forma no caso a
+gente vai classificar pelo campo total e
+fazer escolher agregação desejado
+o ou classificação manual caso você
+queira por exemplo colocar
+telecomunicações lá em baixo
+a aparecer aqui também parto
+é só que vamos fazer por ordem na fonte
+só que de maneira alinhada com a gente
+pega um parte de novo e vai utilizar
+esse botão clássica área em ordem
+decrescente por total então a gente vai
+ter do maior para o menor de forma
+automática e forma mais nativa tranquilo
+dessa vez agora eu vou falar um pouco
+sobre deixa eu ver aqui usando o campo
+de data então a gente vai utilizar a
+data né em campo possível de data a
+gente fazer a nossa análise por quê que
+usar o campo de datas porque a gente
+gostaria também de ver possíveis
+análises com tempo dá para fazer por
+gráfico de barras visualmente é uma
+análise adequada então assim faz com que
+a gente explore mais maneiras de
+analisar esse dado tá
+bom então para gente utilizar campos de
+data um gráfico de barras vamos primeiro
+julgar um campo de data hein binha o
+coluna
+oi e a gente vai transformar esse campo
+indiscreto porque barras a gente vai
+estar na lizando dados discretos e
+ah tá então por impacto e a planilha
+nós vamos pegar por exemplo a quantidade
+de reclamações por ano tá
+eu acho que vou ter êxito não é não
+perdão a gente vai fazer por mês deixa
+eu ver se a gente isso na abertura a
+pesquisa aquilo que eu pude data vamos
+jogar campo o campo de data abertura em
+linhas
+e aí né a gente vai colocar o utilizar
+um mês então você clica nesse botão
+bolso certinho aqui ao lado escolha mês
+e
+e como sabemos 2014 então a gente vai
+utilizar só os meses do ângelus
+microfone não dá para você fazer de
+forma continuar também clique com o
+botão direito e aqui embaixo eu uso um
+botão chamado continu
+e a gente vai usar de forma discreta
+porque a gente só tem um ano na base
+mesmo então vamos agora selecionar o
+total e jogar em colunas
+a nossa olha o que ele fez esse gráfico
+de linha meio estranho beleza a gente
+quer transformar em barra lembra que eu
+falei que no botão de marcas a gente
+pode
+se for size gráfico a ser uma barra
+então a gente pode clicar aqui também
+logo ele se torna uma barra ou uma outra
+maneiro venha no botão mostre-me
+o e faça que ele seja um gráfico de
+barra
+e aí a mesma coisa e para transformar em
+minha coluna a gente faz a transposição
+aqui
+oi gente aperta nesse caso tranquilo
+então a gente vai ter os dados de maio a
+dezembro aqui em barra porque o
+candidato ok aí tudo tranquilo
+e a mãe a gente pode colorir os nossos
+gráficos gente não só pode como deve em
+colorir porque isso ajuda a mostrar
+muitas diferenças entre valores
+categorias pode ser que você queira um
+valor mais escuro lá no topo do ranking
+maior os menorzinhos você quer você pode
+gostar eu gostaria de colocar o mais
+claro dá um pigraid um design muito
+maneiro gente upgrade do rage então
+gente pode colorir tranquilo à vontade
+que não tem problema tá então a gente
+vai fazer isso sabe como depende do que
+você quer fazer lembra do botão de
+marcos o cartão de marcas que eu tinha
+falado lá no começo alumínio filho
+número
+a onde eu falo sobre a conceito de uso e
+interface do tá bom então beleza eu
+quero eu quero deixar a cor do mês
+diferente eu quero ficar aqui para cada
+vez eu tenho um valor de frente uma cor
+diferente é
+bom então vamos selecionar mão pegar
+esse cara chamado mês vamos apertar
+couro
+a segurar e arrastar para cur logo a
+gente vai ter meses meses com cores
+diferentes cada um ah mas eu não gostei
+dessas cores que estão aqui eu posso
+mudar pode aqui no cartão de marcas nós
+temos um botão chamado cor então você
+clica em cima e clique em editar cure-se
+e isso só é possível quando o campo que
+você está jogando na cor é discreto ou
+uma dimensão tranquilo beleza na verdade
+quando é uma dimensão então você pode
+selecionar uma paleta que para definir o
+tabu
+eu pudesse clube caso laranja verde as
+oito e vídeo cores diferentes vermelho
+com diferente semáforo ele tem 5 6 7 9
+cores diferentes tá então beleza a gente
+vai atribuir uma paleta ac dc mako vai
+ficar um pouquinho meio feio mas tá aí
+vai conforme você deseja fazer tranquilo
+vou escolher a paleta daltônico
+e aí ele dá uma mudada legal mas não
+posso selecionar individualmente cada
+cor pode também então beleza a gente vai
+eu vou responder restaurar a paleta aqui
+né
+e eu quero uma cor cinza para maio a
+pena então eu vou veio aqui na paleta
+que eu quero clico em cima do seleção no
+mês aqui por exemplo maio escolho cinza
+em junho eu quero vermelho então eu vou
+selecionar uma cor vermelha venham
+seleciona o mês de junho tem uma cor
+vermelha
+e a júlia eu quero o amarelo
+e veio por exemplo aqui no semáforo que
+tem um têm cores amarelo bem intensos né
+clico selecione selecione que o mês de
+julho em amarelo e em cima da água
+porque o desejo aplico e olha só mais um
+julho selecionados com cores diferentes
+e paletas diferentes certo dá para eu
+fazer uma paleta personalizada também da
+por exemplo você tá utilizando tábula
+sua empresa
+oi e o cultura da empresa honest word
+tem que ser daquela cor por exemplo
+laranja e vermelho e verde semáforo
+legal beleza vamos ao semáforo com ele
+vermelho laranja e verde amarelo verde
+né lá para utilizar da também é claro
+que aqui o cabelo ele já aparece o
+semáforo com uma paleta paleta padrão tá
+mas dá para gente fazer isso da
+inclusive eu vou ensinar para vocês a
+consultar a documentação do calor ajuda
+da pabllo
+g1
+e eu vou mostrar aqui a parte do desktop
+oi gente para quem se interessar por
+essa questão de cor eu vou deixar o link
+na descrição tatuando nem fechar essa
+documentação aqui para vocês utilizarem
+o link que eu vou postar da documentação
+o talo em relação a cores então
+o personalizada pablo jogou da o link
+direto aqui para vocês
+e olha só criar paletas de cores
+personalizadas então o pablo ele dá
+alguns passos aqui para você criar uma
+palito personalizado não vou abordar
+isso aqui a fundo tá mas você pode sim
+fazer uma paleta personalizada e
+utilizar o pablo para você fazer o
+sudeste tá bom e a por xml inclusive
+é bem basiquinho bem simples você só
+precisa acho que utilizar cores se eu
+não me engano de forma hexadecimal aqui
+e
+e por isso quem está em hexadecimal e
+jogar um xml salva aqui na no caminho
+para o pablo sugere pronto você vai
+estar utilizando são paulo entre cores
+personalizado então pessoal pode colorir
+bênçãos dashboards que não vai ter
+problema nenhum ok ajuda muito
+diferenciar sem mais delongas vão o
+próximo nosso macete de como aplicar a
+cor beleza tão pequeno mesmo mas eu
+quero aplicar o acordo só do total
+e para fazer isso ali sim
+e segure-o compro e arraste até cor o
+campo total de
+e aqui agora temos um degradê de maior
+para o menor ou de menor para o maior
+descanso eu vou trocar aqui de maior
+para o menor porque dezembro é o mês que
+tem mais reclamações tá horário
+eu digo nua então aqui a gente tem um
+degradê né mínimo a máximo então ele tá
+indicando o valor mesmo tá indicando um
+valor máximo nessa exibição posso
+alterar as cores também posso eu irei
+vou em cor editar cores e neste caso por
+ser uma medida uma agregação o pablo não
+permite que você escolha cores distintas
+ele vai apenas fazer um degradê e que
+você escolha uma paleta de um degradê ok
+dá para você também fazer uma
+divergência personalizada degradê
+personalizado nesse caso é só seguir
+aqui e não precisa que ela faleceu a
+documentação do tablet é bem mais fácil
+é mas vamos testar porque primeiro as
+cores iniciais beleza que eu vou usar um
+vermelho né vou vir para cá olha só esse
+vermelho que bonitinho do maior para o
+menor ok vamos ver umas cores
+divergentes por exemplo vermelho e preto
+o maior para o menor dá para fazer o
+invés da também aí primeiro maior preto
+mano tranquilo você não vem aqui que
+independente de qualquer cor que você
+escolha existe uma existe dois
+quadradinhos um vermelho preto flash
+e esses quadradinhos permitem que você
+selecione a cor de divergência
+personalizada que você deseja então
+beleza se eu quiser usar o amarelo ama e
+não vermelhão aquilo
+o vermelho e no preto ribeirão preto
+usar um verde bem bastante qualidade
+mesmo
+o que nós os olhos em prática visual
+descobrir
+a beleza vão aplicar aqui olha só saiu
+as cores que a gente definiu
+bom então como fazer isso aqui os
+quadradinhos os seus precisão selecionar
+esse quadrado e escolher a cor que você
+quer ou você escolhe por essa tabela
+aqui esse quadro aqui bem grande né hoje
+tem uma larissa uma tonalidade aqui já a
+preferida
+é ou tem várias maneiras você pode
+selecionar a cor rgb método rgb outro
+corpo saturação o valor da cor né então
+vai receber também corporação valor no
+csv ou você pode também jogar uma cor
+hexadecimal e ele vai selecionar
+automaticamente naturalidade você pode
+aplicar ou se você quiser aquele falo
+aquela cor que você tá vendo na tela mas
+acha que você não consegue escolher aqui
+existe um botão chamado pick screen
+color
+oi para que que serve ele vai capturar
+aquela cor e vai aplicar para você
+daquela tonalidade por exemplo eu quero
+usar o azul não eu quero usar um preto
+do windows nessa barra iniciar sexta da
+barra de tarefas vocês tão vendo
+bom então aqui ele já tá me apontando
+como é a cor em hexadecimal em cor
+saturação valor vermelho verde azul em
+tudo tá ele identifica a cor para você
+aqui ó adicionar as cores customizadas e
+dá um ok
+e aí olha só vou dar um baixo aqui para
+vocês verem melhor e olha só dezembro
+com um preto bem preto tão preto sim
+bom então você pode fazer uma
+divergência personalizada ou sequencial
+personalizado que é um degradê de uma
+luz cinza para cor que você deseja tá o
+pablo é bem livre para que você escolha
+as cores tá aquilo de novo
+e as cores william você vai vir aqui cor
+e escolhe a cor que você quer você pode
+também definir uma pa cidade
+o ou define uma borda para barra por
+exemplo beleza vou colocar uma uma borda
+preta e opacidade um pouco mais de vir
+um pouco mais agora como fica o gráfico
+que bonitinho
+que legal né
+bom e você precisa analisar o décimo
+hoje com a cor que você quiser entendeu
+se você tiver com cores específicas da
+empresa você pode personalizar com uma
+paleta personalizada aqui aonde você vai
+encontrar aqui na documentação da tábula
+beleza tranquilo vamos para o próximo
+passo pouca próximo acho
+eu vou mostrar quantidade é legal
+mostrar quantidade sim é muito
+interessante porque beleza você tenha
+mas vamos supor que é um gráfico de
+finanças que você tá fazendo eu só
+coloco uma barra quanto que quanto que é
+o valor daquilo que ninguém sabe então
+tem duas maneiras de você fazer isso a
+primeira maneira é você selecionar em
+igual aquele menino um análise mostrar
+rótulos de marcas é a primeira opção tá
+então vamos fazer na prática aqui
+olá meninas a gente tem o vou colocar na
+horizontal para ficar mais ficar mais
+visível e só com o país cara aqui beleza
+então nós temos um meses temos a barrar
+mas a gente não tem o bagulho aba então
+a gente vai alarmes
+a mostrar rótulos de marcas
+e logo já apareceu aqui para gente ó
+2018 assim vai tranquilo então essa é a
+primeira forma da gente ver o valor dos
+votos aqui na nossa planilha vou
+apresentar segunda forma agora que é
+quando a gente pode ir em rótulo do
+cartão de marcas mostrar rótulos de
+marcas o padrão quando você faz uma
+análise gráfica do tablo você não
+consegue obter os valores é
+automaticamente no rótulo então para
+isso segue as duas maneiras de você
+mostrar o rótulo caso desejo não vão
+aqui mostrar na prática o poder para
+anular a outra superior gente outra
+coisa bem interessante legal aqui no
+tablet é o infinito botão do controle
+zeiro control y entre tanto mesmo porque
+assim você
+oi e eu tava não me quer mais ele aqui
+aquela superior que você fez então é só
+aplicar uns 10 control vezes aqui ó lá
+das operações que a gente estava fazendo
+ó e pago por detalhe é muito infinito
+ele não não tem uma limite
+e olha que legal infinito também o
+comprou o control y
+e olha que bacana falar de igual aquele
+professor olha bonito então beleza vamo
+lá aqui a operação anterior você só uma
+dica pra gente mas vocês podem causando
+aí a vontade é muito eficiente esses
+botões é vamos aqui no cartão de marcas
+selecionam e o rótulo
+a música na rota do juarez
+tô mostrando os votos mais legal a gente
+mostrou também o valor para aquele campo
+só que eu vou macete bem legal também
+para você mostrar esse esses valores só
+que utilizando um campo para jogar no
+rótulo é útil principalmente para
+questões de cálculo de tabela ou cálculo
+personalizado na divisória que o que eu
+vou falar muito mais à frente mensagem
+para vocês também agora beleza temos a
+soma do total aqui que a medida que a
+gente tem né então a gente vai pegar o
+campo do pau ou o campo que já tá aqui
+né só que aqui a gente vai fazer o
+seguinte pegou-a segurou-a rastro em
+rótulo
+a moto ainda tem gente mente deixa eu só
+vou contar aqui para vocês ver
+eu peguei segurei arrastei total até
+rótulo ele me mostrou
+o valor de cada um legal né
+é só que a gente pode fazer o algumas
+outras coisas como por exemplo
+determinar um cálculo de tabela
+personalizado só para esse valor então
+beleza o aplicar o percentual do total
+então aqui vai me aplicar o cálculo de
+tabela já exibindo o valor do cálculo de
+tabela beleza a útil muito e a outra
+forma para você fazer aqui dentro mesmo
+do botão de marta segurando o controle e
+arrastando até rótulo porque ele vai
+duplicar aquele campo para que a
+operação que você deseja fazer beleza
+e vamos para o próximo tópico que é o
+exercício que eu deixei para vocês fazer
+ele também é bem bem facinho vocês vão
+utilizar a base que eu disponibilizei
+para vocês no vídeo anterior então gente
+dá uma olhada nos vídeos anteriores
+então eu vou disponibilizar aqui também
+para você no na descrição o link com
+acesso direto para base de dados e você
+brinca testa aí vê o que tá e se tiver
+alguma coisa errada já manda nos
+comentários que eu dou uma corrigida por
+você beleza então os exercícios que eu
+vou pedir para você fazer então dá uma
+pausa um vídeo aí segura 5 minutinhos é
+o jogo vou dar uma pausa aqui para mim
+para depois continuar e eu dou uma
+resposta aí para vocês beleza segura o
+vídeo aí nós vamos exercícios eu já
+volto aí com soluções não
+e aí
+a beleza é vamos dar continuidade aqui
+então a gente viu dois exercícios aqui
+né então a gente vai primeiro fazer um
+gráfico de barra de si mesmo arquivo
+classificar identificar qual que é o
+assunto com maior número de reclamações
+né então vamos utilizar o campo área né
+a
+o pênis vítima foi um grafite basculante
+para ficar identificar qual a sua maior
+número de reclamações não a gente vai
+fazer um gráfico de barras aqui
+g1
+e vamos clicar na clicar e segurar a
+área e colunas clicar segurar total em
+linhas
+oi gente que pelo enunciado temos o
+assunto um rei
+a beleza terminamos a pausa então vamos
+fazer essas soluções aqui exercícios a
+gente tem dois exercícios aqui que eu
+tinha falado né e são dois gráficos de
+barra que a gente vai criar né então a
+gente vai fazer um gráfico de barras de
+si mesmo arquivo classificar identificar
+qual é o assunto com arma de reclamações
+então utilizando a base que a gente tem
+aqui vamos utilizar que o campo assunto
+certo nesse caso ele tá abaixo de área
+que eu vou limpar aqui a planilha vamos
+segurar e arrastar assunto até colunas
+o ou linhas né como vocês preferirem
+minhas até mais fácil que a gente tem
+gente já identifica e arrastar o total
+logo a gente vai ter para cada um aqui
+o gráfico de barro vidrado e vamos ver o
+rótulo né para cada um para a gente só
+meus valores beleza mas ele tá tornando
+então a gente vai classificar esses
+caras né vamos fazer uma classificação
+decrescente por soma e olha lá quem que
+é o maior campeão em reclamações é um
+aparelho celular todo mundo aqui no
+celular mas é um assunto com maior
+número de reclamações que a gente tem
+então essa é a resolução do primeiro
+exercício ronco resolução segundo que é
+um nível oh e agora quem poderá me
+defender né então a gente vai
+identificar os terceiros e quartos
+assuntos que tem mais reclamações no mês
+de dezembro pela nota de abertura então
+eu já vou dar uma sesinho nem que um
+spoiler próximas aulas tá
+eu quero ver especificamente em dezembro
+eu vou utilizar um filtro ok então é bem
+o sport que joga para o próximos jogos
+bom então a gente vai utilizar o campo
+de data de abertura né para poder fazer
+esse essa nada
+e aí beleza então a gente tem aqui os
+ela soltar os assuntos
+o assunto então a gente já tenha análise
+já feita uma beleza vamo que fazer vamos
+jogar assunto linhas
+oi total em colunas para desordenado a
+gente vai classificar
+e vamos mostrar o valor né que né então
+é legal e vamos utilizar o data de
+abertura aqui ou está filtros filtros
+aqui na página semanas tá então vamos
+utilizar o campo data abertura
+e como ele é um filtro de data então na
+eles heresia que você seleciona o tipo
+de de filtro como a gente quer dezembro
+de 2014 vamos utilizar nesse ano
+o mesmo então queremos dezembro escolhe
+dezembro não ok
+e com a gente que eles terceiros e
+quartos sul é só identificar aqui teve
+por assinatura e cartão de crédito
+abaixo dos dois maiores então esses são
+terceiro e quarto assunto mas o maior
+número de reclamações do ano de 2014 um
+mês de dezembro beleza a deixa eu ver se
+tem mais um toque no próximo tópico já
+próximo ao então galera é isso então
+esse nem a vocês como criar um gráfico
+de barras
+a deus o elezinho sobre os ao filtro
+como classificar e como aplicar cor nas
+suas análises beleza então é isso espero
+que vocês tenham gostado do vídeo não
+esquece de dar um like para fortalecer o
+rolê ativa o sininho se inscreve no
+canal e vamos compartilhar galera esse
+minicursos tablou dá uma forma legal aí
+nessa quarentena ainda mediante sentiria
+que a gente tá vivendo e legal
+compartilhar conteúdo eu quero muito
+fazer isso para vocês e forma gratuito
+bom aí compartilha esse assunto aí
+tranquilo então com a parceria aí do
+canal do professor thiago marques é um
+vídeo aí que eu tô gravando também para
+o canal dele e também como incentivo aí
+do minicurso no meu canal tranquilo é
+isso aí sigam sigam sigam o professor
+também na as redes sociais né
+me falado mais cedo vou até vou para lá
+e vamos seguir o professor aí nas redes
+sociais o brinquedinho dele é tiago está
+te davos e o seu canal no youtube é o
+batizados tá então lá seguir o professor
+thiago tem muita mais mas tem muito mais
+muito conhecimento do mesmo no campo
+curricular estatística tranquilo é isso
+galera um forte abraço para vocês e até
+o próximo vídeo

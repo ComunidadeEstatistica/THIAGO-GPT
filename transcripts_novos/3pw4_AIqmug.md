@@ -1,0 +1,230 @@
+# GridSearch + GradientBoostingMachine H2O no R
+
+- **URL:** https://www.youtube.com/watch?v=3pw4_AIqmug
+- **ID:** 3pw4_AIqmug
+
+## Transcrição
+
+na pessoal minha mãe não
+esse é o segundo vídeo que eu ganhava
+para o canal está de dados do primeiro
+apresentei como utilizar uma inversão da
+lógica com o pacote é 2 o bom é que como
+incrementar a capacidade preditiva do
+modelo usando os recursos que o gasol
+com a gente desde agora eu vou tentar
+uma técnica que consiste em riscos como
+o gbm em geral têm uma quantidade muito
+grande de e parâmetros de segurança e
+paramos na mão pode ser muito trabalhoso
+então ele seja ele vai tentar achar a
+melhor combinação de parâmetros com
+aquele modelo então um que funciona aqui
+no na zona um pouco de contexto
+a base de dados a gente usar essa aqui a
+gente tem uma financeira e quando o
+cliente vem está o empréstimo
+a gente quer saber seu cliente ele tem
+alto risco ou baixo risco que seja
+inadimplente
+então vamos lá
+no vídeo anterior
+é o leitor
+dodô já mandando direto do servidor do
+h2otel um pouco diferente você leitor de
+maneira tradicional não erre
+depois que eu morrer lá o servidor que
+não viu o primeiro vídeo é a opção da
+seguinte maneira a gente está com ele
+consertou dele
+claude e tanto o pensamento dos dados
+quanto o orçamento os valores custam
+todos feitos nos eleitor dele também ele
+retorna o resultado para a gente então
+uma aqui carregar os dois pacotes que
+seria usar aqui eu inicio a conexão com
+o servidor do gasóleo
+você é aquele gol - um sinal que o gasol
+pode utilizar todos os apelos que lhe
+encontrar e e segundo parâmetro é a
+quantidade de memória ram que lhe
+permite usar hoje executei e tv que a
+conexão fazer com vocês vamos leu a base
+na lei só converteu as várias categorias
+profeta
+aqui eu que chama dados h2oh
+vai ser legal o da série que acabou de
+ler e guardar dados converter 2 horas
+quando executará aqui criar um novo
+objeto aqui você e ele mandou matar
+frame lapa servidor do gasóleo até que a
+natureza diferente
+ok manipular esses dados que estão na
+nuvem e vai pressionar os dados em
+comando aqui por cento pra treino 10%
+pra baixo e validação
+o restante trabalho de teste e ele gera
+uma lista veja uma lista com três
+objetos
+vamos ver no decorrer com a top de linha
+de cada objeto de 35 19 redacções a
+baixa a avaliação da cni a inflação
+ainda base teste 36 observações
+então vou pegar aliciante criou o
+primeiro objeto dela salvar no objeto e
+chamar a treinar gasol se um objeto na
+base que chama a ligação da zona e o
+terceiro objeto é o teste ponto h 2a
+então agora a gente deveria definir as
+variáveis editoras e haverá uma resposta
+avaliar a resposta vou guardar aqui não
+vetou um por um os ativos de maior risco
+e como todas as demais variáveis
+nota 7 são produtoras e não precisa de
+passar de criar um vetor x com as
+variáveis pedir todas não precisa que
+ele queria vai pegar todo
+automaticamente será então entrando aqui
+já os parâmetros do orgasmo a ponto de
+ver e me falaram que ele pede é o y que
+era a resposta aqui definiu aqui
+segundo parâmetro é a base de treino
+ok passei aqui que cheguei aqui em cima
+outro parâmetro que eu falei deixa um
+frame abaixo da inflação
+esse parâmetro aqui ler rede é o conrato
+o algoritmo deve tentar a convergência é
+o valor que vai e vai dizer ah 10.1
+máxima que as aulas podem chegar
+o gbm é não vou entrar em detalhe
+técnico do algoritmo aqui tem alguns
+deles bem interessantes no canal é mas
+eu trabalho com árvores também então ano
+participaram chegou a 25
+eu permito que as árvores que utilizar
+tenham até vinte e cinco níveis
+esse parâmetro das mesmas variáveis que
+serão mostrados de forma aleatória para
+cada árvore criar esse parâmetro é que a
+quantidade mínima de linhas por pornô da
+árvore aqui a quantidade de árvores eu
+quero usar 18 ele vai criar mil árvores
+onde para cada árvore
+ele vai selecionar de forma aleatória
+80% das variáveis e mostra apavore e vai
+ver no dia que ela cresça até 25 níveis
+tão bom que é o símbolo da avaliação
+cruzada tendo muita coisa aqui
+iniciativa aleatória garante é
+reproduzido aqui é para ele usar
+técnicas de amostragem pra balanceada
+mas a gente tem mais classe d
+a proporção de classe de alto risco de
+fé é bem diferente da de baixo risco
+toque de balancear a gente vamos
+executar aqui e gravar esse objeto aqui
+fitch
+o executivo vai mostrar que o status
+como coluna aqui que ele não quer ser o
+modelo
+vamos ver a performance do modelo que
+treinou aqui na base de teste que é
+aquela base em dia de forte do modelo
+nem sem entrar em detalhes de comércio a
+gente vai ter que usar em que pode haver
+muita água com o objetivo de negócio do
+coritiba pegará a acurácia aqui toque de
+conseguir uma couraça de 80% que poderia
+conseguir uma melhor se eu voltar aqui e
+mudar a taxa de aprendizado reduzir que
+a quantidade máxima de novos que a água
+pode ter de voltar a ter um resultado
+melhor ou pior que esse que melhore a
+aumentar a quantidade de árvores na
+primeira quinzena a espanhola estado
+então essa parte é configurar a
+federação quilos e parâmetros que em
+fazer na mão pode ser muito exaustiva e
+é aí que entra o bits chave que agora
+então é eu criei aqui uma olhada no chão
+é hoje bem melhor no parâmetro é o que
+cria uma lista onde vou passar o nome do
+parâmetro na rede
+aqui eu queria um vetor concelho para
+onde quer que o teste é um teste pra mim
+os valores 0.0 10.1 na profundidade
+máxima que agora pode crescer peças
+valores 15 depois com 30
+o percentual de de observações que que
+será mostrada para cada árvore teste com
+60% da mostra
+depois dessa mostrando toda a mostra é e
+assim vai seguindo critérios com 500 a
+800 áreas e comunhão árvores feto
+utilizando 10 nós dessa observação de
+cada um nós depois com 20
+efe forma de categorizar as variadas
+categorias é de ficar ela peça essa duas
+formas aqui é tem muito a forma de
+modificar elas a é recomendado procurar
+no help aqui do sul aqui tem muita forma
+legal tem essa aqui é basicamente esse
+pouco conhecimento de algibre na
+seguinte mais usa gerar e nicolas de 01
+para cada nível é categórica mas enfim a
+gente roda guarda aqui embaixo a gente
+vai ver com o mandar um ponto grid romã
+já na época de bush passa de paz o
+algoritmo de que ele use seguida ele
+passa a avaliar a resposta aqui em baixo
+para um são os mesmo abaixo treino
+a base vai dar são as classe a é é onde
+eu passei a lista que eu queria em cima
+seja aqui que vai testar o tempo máximo
+de execução em segundos
+eu coloquei aqui porque fazer uma nova
+kombi na tora que vai pegar é essa tal
+de aprendizado em combinar com todos os
+outros parâmetros
+depois eu vim pra cá com todos para
+guardar o modelo vem pra cá e está todos
+parâmetro e pegar o modelo então é essa
+parte aqui muitas vezes
+a gente faz na prática já te coloca
+alguma máquina na nuvem o que demora
+muito pra rodar debatendo por ser dia
+seguinte foi trabalhar com a imagem é
+mais semanas para rodar o ix e xi
+então esse aqui eu vou ter mais cedo é
+gasta 20 minutos a rodar o resultado
+clique aqui executei e ficou rodando
+menos 20 minutos e vai sair daqui pra
+frente
+o total de linhas aqui
+ele queria o 288 modelos
+o primeiro ganhou é modelo finaliza
+igual eles o essa meta aqui pode enfim
+altas médicas também jack use o modelo
+que deu o menor lote perda foi esse aqui
+usando sempre sem da mostra usando 500
+aves direções
+usando um mínimo de 10 observações pornô
+permitindo a árvore crescer até breve
+até 30 níveis
+usando essa taxa é utilizada aqui e
+mostrar em 20 por cento as variáveis
+para cada árvore ok então este é o
+melhor modelo aqui para ver a
+performance dele na base de teste de uma
+prova de que o melhor nome para o centro
+onde pode ver aqui o mais importante
+competição de forma resumida é e ele vai
+pra 14 árvores por usar no caso de
+ghailani tem muito mais parâmetros que o
+gbm é bem útil também então as pessoas
+são a ferramenta que quando eu fui
+estudar lá a praça é justamente evitar
+português não tinha nenhum acho que vai
+ajudar bem o pessoal aí a dar uma
+utilizada nos algoritmos
+então é isso

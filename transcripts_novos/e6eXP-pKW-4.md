@@ -1,0 +1,26 @@
+# Pílulas de conhecimento do EstaTiDados - Quando aplicar ISOMAP (Prof. Alexandre Levada (UFSCAR) )
+
+- **URL:** https://www.youtube.com/watch?v=e6eXP-pKW-4
+- **ID:** e6eXP-pKW-4
+
+## Transcrição
+
+É mas não a presença de não-linearidades
+se o pessoal não serve porque ele iria
+quer dizer a projeção do de dados né com
+característica não lineares e um sub
+espaço euclidiano que é o PCA à ruína
+totalmente né a digamos assim a noção de
+distância que a gente tinha no conjunto
+original por exemplo o que o que eu
+quero dizer com isso quando a gente tem
+um ponto aqui e o outro ponto aqui
+o grupo e se a pessoa quando a gente
+projetar ambos vão cair aqui então faz
+sobrepor o outro quer dizer a distância
+entre eles vai ser zero sendo que na
+verdade a distância deveria ser esta
+distância aqui então hoje nós estamos
+interessado e não apenas aprender uma
+representação mais enxuta os dados mas
+também uma métrica

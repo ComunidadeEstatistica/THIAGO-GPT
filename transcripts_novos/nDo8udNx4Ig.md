@@ -1,0 +1,1125 @@
+# Bate papo Estatística Thiago Marques/Norberto Beti - Eurekando
+
+- **URL:** https://www.youtube.com/watch?v=nDo8udNx4Ig
+- **ID:** nDo8udNx4Ig
+
+## Transcrição
+
+oi como você tá
+e aí
+bom dia
+e aí
+oi oi
+oi oi boa noite galera daqui a pouco às
+dezenove horas o tiago marques vai estar
+aqui batendo um papo com a gente sobre
+estatística um bate-papo leve conceitos
+básicos que a gente consegue aplicar no
+dia a dia daqui dois minutos do tiago
+deve entrar
+e aí
+é só mais dois minutos e a gente começa
+a live o tiago já tá chegando falar
+sobre estatística
+e aí
+e o pati água tudo bom
+oi e aí belezinha beleza tá meio de
+ponta cabeça aí mas agora nós tá meio
+gente sair vestido aí agora agora sim
+agora e aí como é que vocês estão e aí
+thiago estamos bem e você como tá as
+coisas tudo tranquilo cara isolados aí
+né a nova moda agora é assistir netflix
+pelo zona essa malvada e eles não deu um
+probleminha aqui invasão tudo mais mas
+tudo bem a gente tem os homens também
+como é que é como é que aumentar aqui
+fala aí você está me ouvindo usam agora
+tá melhor segurança não é a verdade
+alguns probleminhas sim né mas eu fiz
+várias lives assim se 62 lagos nunca deu
+problema de segurança legal
+o filme daqui a um minuto para a gente
+começa a galera tá entrando em casa 9:00
+a gente começa tiago vai bater um papo
+com a gente aqui sobre estatística gente
+já vai apresentar o tiago falar um
+pouquinho tem a ele vai ser um papo bem
+legal eu sei que tem gente de várias
+áreas aqui não se preocupe se vocês não
+são estatísticos o papo aqui é
+justamente para a gente ir fazer algo
+leve tá não vamos assustar vocês mas o
+seguinte vira vira vira o teu celular
+faz assim quer ficar melhor assim mas eu
+acho que o pessoal tá vendo agora a
+gente ele só pode virar o celular também
+e a gente não é ou não dá um quando
+alguém aí se tá enxergando a gente reto
+ou se está invertido por favor
+fala galera acende tá bom assim tá bom o
+inverte
+a melhor antena disco vai dar para ler
+os comentários aqui vamos é porque assim
+a gente pára para olhar não mas tá
+beleza vamos ver a gente dá um jeito não
+boa noite eu tô aqui com o thiago o
+professor daniel takata legal quando o
+processo nariz ele tem um canal no
+youtube sensacional de estatística no
+esporte karhu sports sports ele é
+comentarista da espn
+ah ah tá vendo já tem uma galera
+aqui que são os professores indaiatuba
+também estão teu vizinho pô o bem vindo
+aqui a gente tá do lado não só não pode
+sair na rua né chegou vamos começar me
+diz o seguinte conta um pouco quem é o
+tiago fala aí pra galera sobre você cara
+thiago ele é uma pessoa do bem né a
+cisterna acho que até hoje pelo menos eu
+acho que eu consegui ter né essa essa
+característica né espero não mudar a
+máscara eu sou formado em estatística
+que para federal do ibge né a as né eu
+sou um cara tranquilo né mora aqui no
+rio de janeiro né morador de água santa
+na zona norte aqui do rio e sempre
+e foi muito muito curioso né sempre
+gostei de de raça de coisas assim como
+raciocínio lógico né de desde criança se
+jogava médico que tal esse esse jogos
+que são bem legais assim para estimular
+o raciocínio né e mais assim nunca fui
+um aluno acima da média não tem muito
+esforçado mas não cara tranquilo assim
+entendeu antes de partir do niall e com
+o tempo fui me soltando mais né aí teve
+esse lance do youtube né que acabou
+acontecendo não fui eu acho que uma
+migração aí natural eu me descobri como
+professora porque antes eu nem imaginava
+né dando aula era muito tímido né e
+também eu não achava que eu tinha
+prontidão para isso mas aí cara acabou
+unindo um pouco a
+e o lance dos concursos também né que me
+deu uma background muito forte de
+aprendizagem né como aprender como
+elaborar eu vendo os materiais de
+concursos que fazem com que você associa
+as coisas melhor coloque as cores ali de
+uma forma que você acendeu sua memória
+né então aprendi até que me fez aí para
+aprendizagem né e aí acaba o trazendo um
+pouco isso hoje como professor mas eu
+acho que tem tem funcionado bem assim no
+sentido de tentar facilitar né e se a
+estatística muitos anos nela vem sendo
+abordado de uma forma muito pesada nos
+livros né você vê poucos livros que
+utiliza uma abordagem menos axiomática
+vamos
+se você tem diversas formas de você
+escrever né você não precisa exatamente
+às vezes escrever de uma forma que tenha
+nunca matemática vamos dizer assim
+muitos símbolos matemáticos aí você que
+sabe representar no mínimo as coisas né
+só você às vezes fazendo alguns
+diagramas né uma coisa mais que fica
+mais tangível né para gente né eu acho
+que eu sempre tentei desenvolver
+desenvolver um pouco necessidade de
+tentar tangibilizar as coisas que eu
+tento passar assim com exemplos práticos
+também muitas vezes né então acho que
+basicamente é por aí é legal já
+aproveitando falando de estatística e
+essa questão que você disse né os livros
+realmente às vezes assustam a galera
+principalmente pelo símbolo de tudo mais
+muita gente usa
+e a média é um negócio comum para todo
+mundo eu lembro até que tem um ditado
+tem um amigo meu usava comigo que ele
+falava por nós vai que eu tenho dois
+pães você não tem nenhum na média a
+gente tem um mas na vida real você passa
+fome e eu não vou essa questão de usar a
+média para tudo e quando que a média não
+é interessante nessa mania da gente
+fazer análise semanas que elas está
+acostumado né faz ao seria não nosso
+desempenho com a média e tudo mais né
+para ver se a gente passa na disciplina
+não né e aí acaba que a gente ficou
+ficou um pouco limitada né mas existem
+outras medidas né e não são a média tia
+e a média muitas vezes tiver quando você
+tem um espalhamento muito grande né na
+nos dados né ela não vai representativa
+é porque ela é muito influenciada por
+valores extremos muito acima un tá bai
+do do da média dos valores ou até mesmo
+da magnitude dos valores né então acaba
+o levando lá para cima ou levando lá
+para baixo entendeu então quando você
+tem o ideal né é você ter duas medidas
+né que você tem as medidas de tendência
+central e as medidas de dispersão as
+medidas de tendência central agora se
+preocupam mais com a posição né por
+exemplo você pensar no exemplo aí de um
+campo de futebol por exemplo né você tem
+um zagueiro por exemplo que eles que
+trabalha nas vagas então ele vai estar
+mais concentrado por aí pelas águas né
+agora se você tem por exemplo sei lá um
+ano centroavante por exemplo que fica
+variando exposições né então ele vai ter
+o espalhamento maior no campo e aí o
+zagueiro eu tenho algo mais concentrado
+né e aí talvez a média fosse mais
+representativa né quando você sabe se
+tratando de uns pagamentos maior né
+quando
+e vamos que ele anda mais no campo né
+quando você faz ali o mapa da onde ele
+passou no campo por exemplo você vai ter
+os pagamento maior e aí a média já não
+vai ser mais tão significativa assim não
+é porque você não tem que avaliar só a
+as medidas de tendência central você tem
+que trabalhar tanto as meninas têm
+central quando tu dispersão e aí você
+tendo o algo que não é não varia tanto
+aí beleza você pode usar médio mas nem
+sempre a média resolve às vezes você tem
+que usar uma mediana uma moda né que aí
+você representa melhor o seu conjunto né
+a mediana de vida duas partes igual
+frequência né no seu conjunto e a moda é
+o valor que ocorre com maior frequência
+né como que tá na moda né é o que a
+gente usa mesmo né então
+consequentemente eu vou ter maior
+probabilidade de ocorrência dentro do
+seu conjunto né então existem outras
+medidas mateus part
+um conceito muito interessante que é o
+que você dividir né o seu conjunto por
+exemplo miele partes iguais né aí por
+exemplo se divide em quatro partes
+iguais que é o que a gente está
+acostumado né que são os quartis e aí o
+primeiro partido e ele deixa abaixo dele
+25 por cento e acima dele você tem por
+cento e para que que eu tô fazendo isso
+qual o cônsul álcool racional disso né
+por exemplo você tem algum problema
+muito complexo para resolver né qual a
+primeira coisa que você faz quando você
+tem um problema muito complexo de um
+vulto grande pics que qual o que que
+você faz você você pensa naturalmente em
+que você tentar dividir em problemas
+menores concorda e aí do momento que
+você você resolve esses problemas
+menores você vai estar resolvendo todo
+consequentemente certo
+oi e a ideia do quartinho exatamente
+essa você pega uma distribuição que é
+super complexa né e aí você fatia essa
+distribuição em vários pedaços e aí que
+você vai entender cada partezinha
+daqueles pedaços e aí você vai ter uma
+ideia do conjunto como é que funciona
+como é que tá o comportamento da tua
+distribuição coluna todo fatiando essa
+distribuição entendeu e se eu consigo
+duas partes que é um negócio genial né
+eu não é uma ideia assim é simples de
+pensar porque pô se você tem algo que é
+difícil de resolver se tem que ir
+particionar ele né para resolvermos os
+problemas de forma é que você resolva
+por exemplo de menor complexidade
+primeiro talvez não sei e aí depois você
+vai resolvendo os outros no final quando
+você resolver todos os pedacinhos você
+vai estar resolvendo um problema todo
+então a ideia mais ou menos essa
+é legal thiago muita gente acha está
+triste por um negócio complicado né
+assim quando falava estatística na época
+do colégio a galera falava puts o bom
+base em aquela coisa da insegurança né
+disse para gente quais dicas de material
+leve de peso livre ou seja site esteja
+live que a galera poderia começar para
+entender estatística nós vamos pegar a
+galera que não é da área a gente tem
+gente aqui por exemplo cada área de
+biologia tem gente aqui que é da área de
+educação infantil tem gente aqui que é
+botou é que tá aqui assistindo também
+essa galera que não é de estatística por
+onde eles começaram tiago até uma nossa
+que tem um livro bastante interessante
+que eu livro do charles a
+oi charles william agora charles william
+para ele ele aborda a estatística de uma
+forma mais leve né e também tem alguns
+livros que você tem por exemplo super
+pranchas neca como pensar o número da
+nova forma de ser inteligente e aí esse
+livro ele conta na casa que foram
+utilizados estatística e tudo mais e aí
+você vai se acostumando com a linguagem
+né porque como a estatística é uma
+ciência e como toda ciência né biologia
+você vai ter que entender lá dos
+cromossomos ideia do complexo de golgi
+então cada cadeira ciência ela tem um
+linguajar né dorme gira que você for é
+aprendendo aqueles acostumando né aquele
+linguajar vai ficando as coisas mais
+fáceis né e uma coisa que facilita
+demais é que eu estou te inspira toda
+encaixada né você se você começar a por
+exemplo você tem lá estatística
+descritiva probabilidade nossa já
+a diferença estatística se você passar
+se você começar a por inferência
+estatística por exemplo você já não vai
+conseguir ter alguns rendimento bom
+porque você precisa de coisas anteriores
+lá da estatística descritiva da
+probabilidade então é uma ela foi feita
+vamos dizer assim toda encadeada né ela
+foi ocorrendo e por diversas pessoas e
+foi um negócio em cadeado o negócio é
+bem curioso né porque ela foi feita em
+tempos distintos vamos ver assim né e e
+foi mantendo encadeamento né então no
+momento que você estuda na ordem lógica
+né que estatística descritiva
+probabilidade e aí você entra em nossa
+já mostrar de estimação e aí você vai
+para a inferência estatística que você
+vai para modelagem e a fica um pouco
+mais tranquilo de você entender né e
+sempre tentando buscar exemplos práticos
+né você sempre
+e a social alguma coisa que você
+aprendeu a projetos práticos para
+tangibilizar o conhecimento né então a
+medida que você for aprendendo você 70
+achar exemplos que foram aplicados um no
+mercado ou na academia enfim na vida né
+então acho que ajuda muito mais né
+porque aí eu costumo dizer que esta
+artística por si só ela não é muita
+coisa assim ela é uma ciência de
+subsídio de tomar decisões ela te ela te
+te dá uma capacidade grande de tomada de
+decisão e seja em qualquer área que você
+vai trabalhar entendeu e aí se você for
+trabalhar em biologia se você for
+trabalhar em finanças se você for
+trabalhar no esporte né mas tá tchau
+vai-te potencializar né então ela
+sozinha não é tanta coisa assim como eu
+costumo dizer não mas se você associar
+uma ciência né
+em biologia ou finance você tem uma
+poderosa fonte aí de tomada de decisões
+né muitas vezes você vai tá errado né
+mas você vai estar você vai conseguir
+mensurar esse erro você vai entregar
+relatório é é tão incrível que você vai
+entregar relatórios errados ainda vai
+ser promovido por isso isso que é mais
+legal máscara da estatística promoção
+com erro isso é legal é a promoção com
+ele estava sensacional tem um pessoal
+aqui da universidade federal do pará
+também que tá mandando aqui caíque tá
+melhor não carreira de estatística que
+acha muito relevante esse tema mas dando
+parabéns para você por trazer esse tema
+aqui legal thiago olha um beijo são os
+quarentena do convite agora né a gente
+sabe que a estatística é muito
+oi gente para a gente entender algumas
+tendências e algumas coisas do cenário
+atual né conta pra gente um pouco como
+que a gente pode usar estatística para
+entender um pouco desse cenário e muita
+informação para ir mas como que a gente
+usaria para entender né o que está
+acontecendo a muitas vezes contas de
+padaria né contas simples não te ajudam
+na se nortear na tomada de decisão a
+estatística descritiva costumo dizer que
+é uma das mais utilizadas aí né não
+então os campos né e ela traz no site se
+assim tá na verdade como é que faz uma
+boa estatística descritiva nem precisa
+saber nem a parte diferencial às vezes
+eu já consegue tirar muita coisa né e aí
+no caso da cosit por exemplo né se a
+gente sabe que tem um grande número né
+de infectados por exemplo e e você
+acompanha só só em termos de o que
+aconteceu né não do que vá
+e por exemplo tá tudo o que aconteceu
+previamente e aí você já vai ter talvez
+uma ideia de quantos leites você vai
+precisar por exemplo para para para as
+pressões extremas né indico de cozido
+por exemplo né e você pode estudar as
+tendências como é que que aconteceu nos
+outros países né será que vai acontecer
+aqui da mesma forma né que os países têm
+características distintas não entre si
+alguns aqui temos mas elas que em outros
+países não tem e vice-versa então esse
+grau de espalhamento é difícil de prever
+né eu deixo mais presente especialistas
+na área de epidemiologia né porque outra
+coisa importante é que estatística a
+gente tem que estar sempre ela é uma
+hora ele tem disciplinar né como eu já
+falei está sempre associado a uma
+ciência né e
+ah e você tem que ter opinião dos
+especialistas então você tem que
+conversar com se você for trabalhar na
+área de saúde você vai ter que conversar
+com os pessoal lá da área de saúde então
+você vai ter que sempre entender do
+negócio né para poder trazer soluções
+que sejam factíveis vamos dizer assim
+elas respeitam as regras do negócio né
+eu não posso por exemplo tem lá vamos
+ver eu tô fazendo um modelo de crédito
+né e aí eu uso sei lá umas redes neurais
+né que o algo mais avançado e também é
+que as mesmas interpretaram né você não
+consegue ter muitas vezes o a ideia do
+processo gerador ali das regras que vão
+fazer o cara rejeitar aquela aquele
+crédito e aí como é que eu explico né
+como é que eu chego pronto para pessoa e
+falar olha eu rejeitei aqui você o seu
+crédito
+é mas eu não faço a menor ideia do que
+porque eu rejeitei as irmã dele falou
+para mim aí sentei né então às vezes
+você não pode usar coisas também muito
+complexos e não tenha tanta explicação
+assim porque você tem que tem que ter
+uma regra bem definida às vezes aí né
+como é que eu vou dizer que o modelo que
+rejeitou o crédito do cara não posso né
+que falar você não tô porque você já não
+vem pagando entendeu tem uma série de
+fatores aí que podem levar à rejeição do
+crédito por exemplo isso você falou
+thiago a muito interessante na galera às
+vezes ouvir as palavras é o mais em voga
+né a rede neural inteligência artificial
+e às vezes em vez de usar modelos
+simples para as coisas simples causar
+coisa complexa né porque eu vi uma vez
+mas todo mundo tá falando não tem que
+ter lá na minha empresa
+é só professor pronto para
+competitividade né vamos ver se entre
+acho que vai me competitividade entre só
+só no nível teórico né porque a nível
+prático a dica canal uma vez a matar vai
+matar a música com um canhão mais aí eu
+escrevi dizer tiago na estatística a
+gente trabalha muito com a mostra né
+essa questão da população e da mostra
+muita gente sempre questiona
+principalmente pelas pesquisas
+eleitorais ah eu não entendo muito como
+que essa mostra existe viagem não existe
+versus matematicamente estatisticamente
+existe uma forma de você ter uma
+quantidade certa de amostra para algum
+problema como que é isso né como que o
+defina uma mostra para alguma coisa
+então o cálculo do tamanho da amostra
+vai variar muito em relação
+e a complexidade daquela população vai
+ganhar em relação ao custo né que você
+tá que tá associado para você fazer
+aquela amostragem não é às vezes você
+não tem não para você fazer aquela
+pesquisa né de forma ótima né vamos ver
+assim e também tem às vezes a própria a
+própria regra do negócio também não tem
+visto por exemplo eu quero vão dizer que
+eu você tá doente eu quero tirar uma
+mostra para saber se você tá doente né
+se eu tirar a população você já morreu
+né não precisa mentir amostra é porque
+você tirar população do seu sangue você
+morreu né e aí eu não posso tirar essa
+população do seu sangue né tem que tirar
+uma mostra obrigatoriamente ficar regra
+do negócio aí tá tava dizendo que eu
+preciso né sinal vou tá matando você
+para saber se você tá doente né aí não
+precisa nem saber se tá doente né já tá
+morta pô então aí já é um conto né que é
+o vídeo mostra mas já é algo que explica
+a razão de você ter uma amostragem né
+outro ponto é você o custo da pesquisa
+que é muito por exemplo vamos lá existem
+tipos de amostragem amostragem
+probabilística e não probabilísticas que
+que é isso amostragem probabilística e
+você consegue ter uma ideia da margem de
+erro né você consegue estimar precisando
+daquela mostrar a gente já eles não
+probabilística você tem uma viagem
+grande na seleção daqueles indivíduos
+por exemplo um exemplo claro de
+amostragem não probabilística é é uma
+pesquisa por amostra um voluntário da
+asus né o voluntário amostra
+bom então o nome eu não tô lembrando
+exatamente mas é pô voluntariedade do
+indivíduo né ele se se voluntaria para
+participar da pesquisa né por exemplo
+ele tem uma doença né e aí ele se
+voluntaria para fazer um teste do
+remédio né que pode salvar a vida dele
+né e aí ó é uma mostra que não é
+aleatória né ele se voluntaria então
+tenho viagem grande né tem também
+amostra por conveniência que no momento
+ele que você não tem outros elementos e
+você pega ali a sua conveniência né
+então também não tem um processo
+aleatório e aí você não consegue nenhuma
+desses casos têm uma margem de erro já
+em outros casos por exemplo amostra
+aleatória simples né você coloca aqui
+todo mundo que tá aqui na live por
+exemplo dentro de um saco e aí sorteio
+sorteio primeiro né aí você curtiu o
+primeiro beleza viu o nome tá e aí você
+coloca ele de volta né e aí a gente
+chama de amostragem com repolho
+oi mana e aí você não está mudando se eu
+for tirar o segundo a minha
+probabilidade não vai mudar porque
+porque eu não tenho nenhuma espaço
+amostral que a quantidade de pessoas que
+tá dentro do jazz eu tiro e não reponho
+mas sem reposição né e aí você garante
+se com reposição você garante a
+independência entre os indivíduos por
+exemplo a probabilidade de tirar o
+segundo ela não vai depender eu te dou
+não vai depender do primeiro que eu
+tirei né porque eu botei ele de volta né
+com reposição e aí você tem uma tem
+tipos de amostragem e vai depender de
+diversos fatores né mas a precisão que
+você quer o curso da pesquisa né e esse
+tipo de coisa é
+tá legal tchau vamos outra coisa também
+é muito comum ouvir a hipótese né
+existiam a questão de teste de fotos né
+todo mundo aquele velho vou dar um chute
+né e chupando eu acho que né mas explica
+um pouco mais uma dizer científicamente
+o que que é um teste de posse é o teste
+de hipóteses na verdade ele é muito
+comum aí utilizado um site por exemplo
+não quiser fala-se muito em tá e saber
+tá chovendo tá cheio de potes né e aí
+você por exemplo você faz um teste né em
+relação à eu quero colocar esse ícone
+aqui da cor vermelha né ou de outra cor
+por exemplo né e aí você você faz 1 a 0
+e 1 a 1 que são duas hipóteses né e aí o
+que que você faz você se você obter
+vidência dequir as pessoas estão
+preferindo o vermelho por exemplo
+se você não rejeita hipótese né já
+desculpa você você obtém evidência você
+pode rejeitar a hipótese mas se você não
+tem o vidência você não rejeitam seja
+você aceita a hipótese de que a era
+vermelho mesmo não era para mudar né
+então é exatamente isso é uma é uma
+forma de você escolher né entre duas
+hipóteses por exemplo de uma forma que
+você consiga ter uma controlar né a
+precisão tudo nós de acordo com as
+evidências que se ocorreram tá de uma
+forma bem bem linha geral assim isso
+também muito fértil remédio né por
+exemplo se você quer quer testar se um
+remédio e se siente ou não não é muito
+utilizado em teste de hipótese também
+para ver se passa com remédio né aí por
+exemplo você dá um passivo do paciente o
+outro dá o remédio e aí você comparam os
+resultados né aí
+e quando você obtém evidência de que o
+próximo ele deu um efeito né então
+significa que o remédio não tem respeito
+nenhum né esse clássico tá funcionando
+né o cara não tomou o remédio né então o
+teste de hipótese é muito utilizado para
+isso também tá legal thiago você tem um
+canal é um canal que chama esse
+batizados né isso como surgiu né essa
+ideia do canal e hoje é um canal super
+assustado ou já teve milhões de pessoas
+fazerem trazendo com todo super
+interessante conta um pouco para gente o
+que quer
+bom então o estatidados ele ele nasceu
+na minha vontade de te ajudar né a
+galera dá essa fiscal né porque eu eu
+era concurseiro né eu acabei eu mandei
+um curso não é para receita federal onde
+eu lecionava em horários
+pré-determinados coisa alguns né e aí eu
+criei um canal para resolver questões de
+estatística lá de área de concursos né
+ai criança criei o canal botei eu acho
+que estão as né tudo mais beleza aí o
+melody supremaciaconcursos naquela um
+curso que tava surgindo na época chamou
+não é para gravar um vídeo tal
+presencial eu fui lá gravei né
+presencial primeira vez no primeiro
+experiência né inclusive o que tem lá lá
+na tem lá no canal né aquela playlist
+toda lá antigo se tornou xbox antigo
+supremacia concurso é desse curso né e
+aí eu grave
+em todo o curso desde estatística
+descritiva até a parte lá de regressão
+linear né só que infelizmente os caras
+não me repassaram né a parte de
+regressão linear e teste de hipóteses
+eles me passaram agora totalmente
+completo passa ali pô não posso
+comercializar isso aqui que eu vou fazer
+aí eu falei vou jogar no youtube né aí
+joguei no youtube fui para minha
+surpresa sim de um pico de audiência
+assim no canal foi absurdo assim gente
+me mandando depoimento que passou na
+prova do instituto brasileiro de atuária
+né três pessoas mandaram falando que
+passou na prova lá de administração
+contabilidade psicologia ela falei
+caramba cara que tem aí eu eu nem sabia
+né que às vezes te estatística e tinha
+né pois a psicologia garota estava
+desesperada lá mandou um depoimento
+maneiro também então eu vi que tinha
+tinha um potencial transformador né de
+e as pessoas que demais e aí eu vim
+trabalhar numa multinacional né de
+consultoria multinacional de consultoria
+e era consultoria e
+a senhora de volta de analytics e aí eu
+fui trabalhar no projeto de big dei uma
+grande seguradora onde eu tinha
+investigar fraudes em hospitais do eu
+tinha uma barbaridade dos hospitais do
+brasil e até que investigar fraude né e
+aí nesse projeto eu conheci muito mais
+esse lado do do big deita né de do
+radulf né aquela telinha preta lá do
+spark.sql onde eu fui traumatizado lá na
+equipe era toda de theil era um único
+stakes né e aí me traumatizaram né com
+essa parte e teu vi que tinha na época
+né eu fiz alguns cursos também do lado
+de fora né do coceira desse fitinha
+curso de raiva de vários universidade de
+lá de fora é muito boa e eu acabei
+tô tentando trazer isso para o canal
+também né só que aí eu não era unicórnio
+né não era aquele cara que sabia de tudo
+né também aquele cara que não que não
+existe né que manja de muito de ter irmã
+já muito do negócio longe é muito da
+estatística
+e eu mais um pouquinho de estatística né
+e aí eu fiz a parte de sete dias que eu
+consigo fazer algumas coisas lá a parte
+do their meu muito pouco também né mas
+aí eu fico convidando a galera né para
+que pesar né para fazer aí chamei a
+adriana silva né que a gente tá
+analytics aí melhor para você está aqui
+conheço chamei o o desde braga né cara
+ele atualmente está red na da ibm de
+data engineer né chamei mas quem puxa
+mesmo tá saindo caro sabe muita gente e
+aí nessa doideira não foi aproveitando
+nesse hype tudo mais eu sempre tive
+vontade de divulgar também a estatística
+né minha profissão e acabei vendo isso
+como uma oportunidade né e acabei
+levando esse lado aí o canal bumbum para
+caramba né eu fiquei um pouco
+é um trabalho demais acabou que o a uma
+menina né que eu conversei na época ela
+me deu a ideia de me chamar voluntários
+para o projeto né e aí foi que vocês
+entraram né você e a samanta por foi a
+maior sorte assim né porque transformou
+o está cidade de um patinho feio porque
+ele é hoje né ele foi toda remodelado né
+gerou que a gente fez uma consulta
+pública e virou estatidados né graças a
+deus porque os professores antigamente
+enrolava língua né gravar difícil não
+conseguia falar que ela está difícil
+para esperar a dica para quem está
+difícil aí pessoal não conseguia falar
+né minha mãe achava que era está difícil
+eu falei nossa tem que mudar né
+também minha mãe aí é aí eu chamei
+né mas se você está
+eu amei outros voluntários também é bem
+legal né no início eu consegui né tocar
+um pouco melhor agora já está até um
+pouco pouco mais eu tô mais tocando
+também porque eu tô mais em casa né
+antes eu tava ibge e tinha menos tempo
+hoje em dia eu tenho mais tempo mas
+ainda assim lá preciso muito da ajuda de
+vocês então também inclusive vamos vamos
+chamar a galera lá porque para chamar
+uma esperto porque a gente acabou de
+estar sendo um pouco né mas vamos voltar
+mas aproveitando aqui galera
+e curta um canal siga um canal da
+estatidados porque realmente junto
+estatística ciência de dados e é de uma
+forma leve são várias pessoas
+voluntárias é um projeto voluntário mas
+é um projeto e traz justamente falou que
+está acontecendo no mundo né as novas
+profissões passam por isso né então
+assim vamos lá é um super projeto eu
+adorei conhecer o tiago conheci ele no
+windows 10 gente teve são paulo é
+enfermagem se conheceu remotamente e
+depois você está mente mas por muito
+melhor eu conheci ele se ativa de vocês
+a gente a gente começou a se falar não
+brinquedinho né eu fico que eu vi lá que
+tu tinha alguma coisa de inteligência
+artificial aí fui conversar com você vai
+te falou da iniciativa da eurekando eu
+falei caraca que maneiro cara por
+maizena caro o ensinar ensinar as
+habilidades do futuro pra
+o cara muita onda cara inteligência
+artificial block tenho né robotic cara
+sem incrível né vocês tem uma
+criatividade assim fora do comum né além
+de ser um colecionador de startup aí
+também não quer arruma um outro médico
+aí né esse aí não consegui não por
+enquanto só tá lá com a comunidade meio
+tá ainda tá ainda tá como microempresa
+também né ainda só tem eu lá então tá na
+oficina também como é que faz isso
+porque pô vocês são sinistros né e aí pa
+essa manta também sempre deu uma força
+né porque ela que fez a hugo lá do
+estatidados sensacional né a da minha
+comunidade estatística fala que fez
+também né inclusive recomendo fortemente
+trabalho dela aí porque ela é sinistra
+né inclusive eu falei com o pessoal do
+minei
+e eles fizeram também ela fez a luta do
+minerando também então pô com certeza
+recomendo fortemente aí o trabalho de
+vocês e você também remodelando né
+fazendo conectar o benze né é um
+trabalho auxílio aquela pessoa trabalha
+oito maomé thiago mas cara eu acho que
+isso é legal para caramba não sei lá
+trabalho de vocês sensacional obrigado
+aí a gente adora um de vocês acho que
+isso que é legal gente a gente juntar
+galera quer fazer o bem né de um lado eu
+retorno com as crianças do outro lado do
+tiago trazendo a estatística paciência
+de dados e no fim todo mundo
+contribuindo né galera e aí deixa só que
+aquela história que olha aqui estou eu
+falei para o pessoal manda algumas
+perguntas aí para o tiago sobre isso que
+a gente quer ver um pouco vocês para
+saber contact a história do aí
+e a gente foi lá para o big data brasil
+spears né não big data que espírito né e
+aí eu tinha eu tinha uma vaga né para ir
+lá e aí eu levei o norberto lá né aí foi
+engraçado que ele foi com um carrinho lá
+deu recanto que as crianças e montaram
+com uma via de movimento sensor de
+movimento aí pessoal achou sensacional
+lá os organizadores né e acabaram que
+botaram ele lá para apresentar né mesmo
+dia eles foram apresentar lá em ou 300
+eles vai eles foram palestrantes também
+né então um povo muito maneiro isso a
+gente conheceu muita gente lá nossa teve
+algum lugar também que a gente conheceu
+lá virou também voluntário né do
+destaque cidade estará vamo trocar vamos
+lá também é fantástica cara eu nem sei
+como está agradecer né para mim falou
+que quando me informar que horas é
+eu não lembro não sei o nome aqui tem
+como dizer o nome assim como o instagram
+camila santos que é isso camila você vai
+ser muito melhor pode ter certeza né
+antes que ela é student disse
+estatística pelo que eu ver aqui viu
+pode ter certeza que você vai ser muito
+melhor dica para quem está começando na
+área de dados tiago dica para quem está
+começando a realidade então primeiro
+tentar buscar projeto né práticos para
+fazer e você goste né para ter um
+estímulo né você se ela gosta da área
+financeira vai pegar lá as ações lá e
+fazer uma pegar a base começar a tratar
+pegar os dados né mas antes antes de
+você tentar mexendo nos códigos tentar
+aprender um pouco do background das
+práticas eu acho que uma das matérias
+principais é estatístico né
+e a parte da atriz você vai pegar alguma
+linguagem aqui tenha muita comunidade né
+hoje em dia é meu pai não sei se para
+frente vai ser júlia ou qualquer outra
+que surgir né mas tendo a base da
+estatística da econometria né da você
+vai vai conseguir ter que ter mais em
+qualquer linguagem né a linguagem é só
+uma linguagem né o que importa é a base
+né você tem que saber fazer o tratamento
+dos dados de uma forma de quadra né você
+para você fazer modelos que reflita a
+realidade estudar também bastante do
+negócio né para tentar entender bastante
+de ter essa interdisciplinaridade
+conversar muito com profissionais de
+outras áreas também é porque é
+enriquecedora né eu vejo que mal
+comparando assim quando eu quando eu fui
+estudar para concurso e isso ajudou
+o tanto na parte que eu falei do
+aprendizagem como também dá essa coisa
+de de combina atividade vamos assim né e
+você juntar de dessa disciplina e o
+concurso quatro e muita disciplina
+disciplinas as vezes que são um povo
+bastante né de às vezes você estuda a
+organização do órgão né tipo o tj é
+distribuído tem quantos juízes têm
+quantos desembargadores tipo entendeu
+mas tenho disciplinas que você aprenda
+administração tem muita disciplina que
+você acaba tempo dando um background
+muito legal de você tem outras insights
+entendeu combinar essas idéias e e fazer
+isso né então acho que primeiro você
+pegar uma base boa de estatística e
+tentar sempre aprender os conceitos
+aplicados na prática né não adianta você
+pegar a estudar o livro todo estatística
+e depois querer aplicar né não vai ser
+legal porque você
+me esquecendo né a gente esquece não
+quando a gente dorme esquece aí grande
+parte do dia nessa a gente na cidade de
+forma adequada e tudo mais nem mesmo
+estudando de forma adequada a gente
+perde não tem jeito tem que fazer
+revisões nas cíclicas senão você perde o
+conteúdo não tem jeito e e você tem que
+fazer sempre aliado a prática né
+aprender o medida de tendência central
+vai lá e aplica aqui na prática não
+projeto né na comunidade estatística a
+gente sempre faz isso né eu ensino um
+conceito tabela de frequências acabei de
+fazer uma live agora em parceria com a
+digital não deixou não porque também é
+uma outra queixa né uma empresa de
+educação aberta né que tem várias curso
+gratuito e só também muito falta para já
+fiz uma live lá falando de base com da
+estatística né e no final a gente fez um
+handebol não é ruim né de tabela de
+frequência tá então aprendi tabela de
+frequência vai fazer tabela de
+e no quarto e assim por diante todo o
+conselho que você aprender vai fazer na
+linguagem e aí você vai aprender a
+linguagem do background que você não
+precisa fazer as árvores e o negócio
+você vai aprendendo também né
+conversando com os profissionais das
+áreas e tudo mais né acho que é uma
+ideia a outra coisa alegria para um
+estatístico muito importante vou te
+dizer porque né não sou não é só pela
+linguagem tá mas o racional da linguagem
+tá porque porque eu acho que me na
+oriental da análise da asus né parte do
+dml da data manipulation legos ele te dá
+toda a estrutura né de filtro de
+agregação né fazer sona fazer média é
+você pegar
+o conceito está aqui também de variância
+desvio padrão né tem tudo isso mas quer
+né então todo racional que você
+trabalhar com qualquer banco de dados
+ele vem da lógica de sequer inclusive o
+r ele tem uma biblioteca chamada de pai
+que trouxe esse racional desse kelly
+muito brilhantemente né pelo hardwicke
+no pro r no pacote está aí de boa assim
+né que o vontade de você é um conjunto
+de pacote de palha é um dele né que ele
+trouxe essa parte toda de manipulação de
+dados brilhantemente aí no eu acho que
+ele faz também pesquisa é
+importantíssimo você aprender por causa
+disso o racional né diga que você fazia
+agregação filtro está trabalhar com um
+dado por isso que é importante não só a
+linguagem como porque todo o sistema
+também na verdade tudo não né mas grande
+parte dos sistemas ainda é pouco de dar
+e não né então você tem que puxar o
+fazer ali taquari né e aí rodar e aí
+depois que você já é o banco que você
+vai trabalhar com um r pai então né
+muitas vezes às vezes você precisa ter
+um acesso do sql posto progresso né
+própria da uec pagar por isso que é
+importante thiago jefferson faz tempo
+então vamos lá ao rodar um uma regressão
+múltipla múltipla como saber quando e
+levar uma observação ao quadrado e por
+que eu devo fazer isso
+tá então existem testes né para você ver
+qual grau né que você vai usar na
+modelagem tá se você for usar o quadrado
+você vai estar ali com uma regressão
+quadrática se você for fazer o
+conhecimento é algo você vai ter lá uma
+espiral né então cada cada vai
+dependendo do ajuste de seus dados né da
+forma que ele for se você o regressão
+linear ela é linear por definição né
+então é uma reta né e aí você não
+precisa muitas vezes aí né fazer um uma
+observação quadrado aí você tá falando
+né eu imagino que você tá falando do x
+né
+oi eu não entendi muito bem sua pergunta
+em relação a isso você tá falando de
+ônibus das variáveis explicativas é isso
+para quadrada
+oi eu não entendi muito bem a partir de
+hoje deve responder basicamente
+basicamente é isso você tem que testar
+nessas especificações
+dá para ver se vai ser ajustar ou não
+o legal é isso mesmo ele falou tchau
+galera a gente tem mais 10 minutos
+porque a live do instagram está em uma
+hora é mais perguntas frete água para a
+gente aproveitar esses 10 minutos e
+deixa ali um pouco mais desconfortável
+ele tá muito tranquilo aí não sabia não
+sabia que o dragon uma hora não dura uma
+hora live no instagram é uma hora e aí
+encerra agora sabe aí você ainda não
+tinha mas se você quiser só fazendo de
+novo já feito nenhuma né mas não entra
+no dos outros né eu já tinha feito eu no
+meu no meu instagram lhe perguntei eu
+nunca tinha entrado no outro agora é a
+primeira vez que faz assim ó tá vendo ó
+os jogos quina a hoje vai ser o cara
+bastante coisa passo insight não é quer
+dar algum recado de algum curso alguma
+coisa que seja aí já no seu canal legal
+para a galera dá uma olhada beatriz
+relógio e data science né é trilha que
+tem mais de 160 vídeos lá ele tá todo
+numa ordem lógica né estatística negócio
+tá então eu botei tudo numa ordem não
+acho que ela para vocês assistirem não
+porque tem os melhores professores aí do
+brasil estão lá com certeza sem dúvida e
+não sou eu a galera eu sou muito perto
+de san
+fala galera quiser ajudar como
+voluntário no canal do estatidados o
+thiago vai possível a não voluntário no
+momento cara já vai se diz que já tem
+mais é muito vontade tô nem conseguindo
+dar conta lá no momento não dá não mas
+mas eu queria deixar o recado aqui não
+que a gente vai abrir uma turma agora
+dia treze né e lá na comunidade de está
+aqui né para quem não sabe a comunidade
+estatística no curso né e aí a gente tem
+um grupo exclusivo de alguns inclusive a
+cindy e o gênio fazem parte lá né e lá
+eles trocam dúvidas network né tem
+também a plataforma que estão as aulas
+né e a gente recebe profissionais para
+conversar na sobre a sua carreira sobre
+a sua área de atuação né profissionais
+já já consolidados no mercado assim como
+norberto que vai falar com a gente
+também um dia lá
+a holanda vai falar de lgp de lá eu
+passo enrolada com isso né vai falar
+deles entendeu a r o pai biscoito ou
+bolacha eu acho que pode ser reporto
+pode ser dois legal whatsauto o aquele
+pacote lá do que faz que que dá para
+usar o r no pai pai então e o pai tu não
+é também tem 25 leite né a gente quando
+a gente dá para usar os dois ao mesmo
+tempo eu acho que o o pai que legal para
+integrar né os serviços na ele entrega é
+muito fácil por ele tem uma linguagem
+mais geral tem uma origem mais geral né
+já o r ele tem um pouco mais dificuldade
+para integrar mas para nos ajudar é
+melhor coisa que tem na modelagem não
+tem igual né
+eu não tinha a ver olha é cem porcento é
+de 100 porcento é de inclusive todas as
+mulheres têm 50 por cento de desconto
+como forma de fomentar eu vi que lá no
+estado de cidades a gente tinha sei lá a
+diferença era brutal assim tinha tipo
+doze por cento de mulheres e o resto é
+um homem lá no instante das eu falei não
+tem que mudar na minha comunidade eu fiz
+esse acho que é umas quatro turmas atrás
+xo3 eu coloquei esse desconto de
+cinquenta por cento para as mulheres e
+por isso estudantes de estatística e
+atuaria também tá e e aí a gente a gente
+conseguiu aí quarenta por cento a última
+pesquisa que eu sei lá dos quarenta por
+cento de mulher só avança absurda né
+então acho que é muito legal né aí o
+povo vieram me perguntar pô mas porque
+cinquenta por cento das mulheres e tal
+e se você parar para pensar logo a nossa
+constituição federal nela diz lá né
+tratar os iguais de forma igual e os
+desiguais de forma desigual na medida de
+suas desigualdades né então acho que é
+isso né dá oportunidade para as pessoas
+que que só não tem tem que ser tratado
+de forma diferente né porque a gente
+sabe que tem um ingresso muito menor né
+na área de tecnologia das mulheres não
+tão acho que vale a pena esse comenta né
+e tem se mostrado relevante né
+estatisticamente falando legal nessa
+comunidade o site e vai eu vou mandar um
+direct para mim que eu ou manda para o
+norberto aí que eu mando o link para ele
+também dá uma comunidade mas pode pôr as
+diz o céu tiago como que o pessoal te
+encontra no instagram do estatidados
+para melhores para o seu instagram está
+atividades também tenho linktree
+e o linktree aí você digita lá está te
+dando também você consegue e aí lá
+tentando meu trabalho é inclusive a
+gente faz likes aí a gente tem mais
+marcada até agosto já não já recebeu
+vários profissionais aí o luiz paulo
+fávero que é autor de mais de oito
+livros já na cidade deu recebeu adriana
+silva que eu falei né daiana ali já
+recebi felipe da minha na verdade ele
+fez um projeto lá sensacional de
+detecção de presos por ela faz né
+reconhecimento facial com muita coisa
+legal cara vale muito a pena você dar
+uma olhada lá
+e tem muita coisa interessante que fica
+à vontade e qualquer coisa também pode
+mandar pelo whatsapp não pediu pode ser
+qualquer coisa tá pessoa mais atuante
+não impediu né e aquilo no instagram tá
+aqui para falar por onde você desejar a
+gente vai por volta grande eu queria ter
+você dá um pequeno spoiler mas ainda a
+gente vai desenvolver ainda uma
+especialização de por todos os
+emergentes e o thiago vai ser uma das
+pessoas que vai lecionar a gente vai
+falar um pouco melhor sobre isso mas vai
+vir e jesus vai ficar criatividade até
+ele a big dance estatística aplicada em
+sim mas depois do tiago e eu vamos
+conversar esse projeto ele vai se
+inscrever mais a sua disponibilidade
+mais uma vez né e esse bate-papo fazer
+um tempo que a gente não as palavras
+assim se vem olhar né
+e é e cara foi muito rico muito legal a
+galera interagiu lá um papo muito leve e
+sobre estatística isso que eu gosto cara
+obrigado mais uma vez e pode passar não
+você mais uma vez ele fala com seu fã do
+trabalho de vocês né é é um negócio
+assim por impensáveis você levar né de
+tomar criativa e tal como é que se fala
+pão com simplório né vamos dizer assim
+né de forma genial assim para escutar
+crianças né que que realmente é difícil
+né de você conseguir fazer um racional
+ali né é realmente parabéns aí só não
+vou bater palma aqui porque senão
+celular vai cair valeu cid obrigado aí
+o senhor obrigado mesmo e até a próxima
+a gente possa para a sua mãe falou
+alguma coisa aqui a primeira pau mais
+para dormir e obrigado espero que tenham
+gostado até a próxima tchau um abração
+mais valeu valeu falou

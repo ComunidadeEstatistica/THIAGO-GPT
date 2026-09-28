@@ -1,0 +1,49 @@
+# Importância da Estatística descritiva na área de dados #1
+
+- **URL:** https://www.youtube.com/watch?v=gkhBK8u_fMc
+- **ID:** gkhBK8u_fMc
+
+## Transcrição
+
+Olá você sabia a importância da
+estatística descritiva dentro do mundo
+de Business Analytics bom vem te contar
+aqui que a estatística descritiva é uma
+das disciplinas mais importantes para
+você aprender no universo de business
+por meio dela é que você vai descobrir
+né Quais são as variáveis que são mais
+importantes para o seu negócio né qual
+como você vai resumir os seus dados né e
+acompanhar essas métricas né do seu
+negócio ao longo do tempo né então
+descobrindo ali Quais são os melhores
+gráficos né para cada tipo de variável
+que você for trabalhar né
+você
+identificar a sazonalidade né das vendas
+por exemplo do seu negócio né você
+conseguir
+extrair em sites né que são relevantes
+né para você conseguir
+melhorar né o contato com os seus
+clientes você alavancar as suas vendas
+né você entender melhor do seu negócio
+de uma forma Ampla né então a
+estatística descritiva ela vai te dar né
+todo esse acabou se necessário né para
+você conseguir ter melhor performance
+dentro do seu negócio e na área de
+Business Analytics como um todo né seja
+você aí um analista de dados seja você
+um gerente da área de dados né então a
+estatística descritiva ela passa todos
+os cargos então desde o seu da empresa
+até um analista de dados ou um
+assistente administrativo né vai ajudar
+amplamente
+a você conseguir enxergar as
+possibilidades ali dentro do seu negócio
+e com certeza vai ajudar você na sua
+carreira beleza galera valeu até a
+próxima tchau tchau

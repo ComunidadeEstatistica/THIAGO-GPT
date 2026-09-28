@@ -1,0 +1,32 @@
+# Eneste Depoimentos de Ex- Participantes - Rafaela
+
+- **URL:** https://www.youtube.com/watch?v=XFW2wAUQ9xg
+- **ID:** XFW2wAUQ9xg
+
+## Transcrição
+
+olá pessoal meu nome é rafaela vitorino
+moro na cidade de campina grande só
+aluno da universidade estadual da
+paraíba uepb
+sou graduado no curso de estatística
+estou no meu último ano do curso estou
+aqui a convite da gabi pra falar uma
+experiência num enérgico e só tenho a
+dizer a vocês que quem participa do enem
+e não se arrepende e não se arrepende
+mesmo não é à toa que eu já participei
+três anéis o primeiro foi no ceará em
+2015 em 2016
+fui para o piauí 2017 para bahia
+salvador e agora estou retornando para o
+ceará e só que realizei que os três
+anéis na qual participei foram
+maravilhosos
+não me decepcionaram e vamos pessoal
+para o energie em 2018 no ceará porque
+promete e só tenho a dizer a vocês que é
+uma experiência única
+sem falar que as amizades a pausa que
+cria e o que acontece neste fim de ano é
+nerd e vamos
